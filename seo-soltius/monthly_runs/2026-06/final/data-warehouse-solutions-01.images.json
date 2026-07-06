@@ -1,0 +1,62 @@
+{
+  "brief_id": "data-warehouse-solutions-01",
+  "article_title_id": "Data Warehouse Solutions: Apa Itu dan Mengapa Perusahaan Indonesia Butuh Satu Sekarang",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-02",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Diagram alur arsitektur data warehouse horizontal — empat sumber data di kiri (SAP ERP, CRM, Spreadsheet, Legacy System) terhubung ke blok ETL/ELT di tengah, lalu ke Data Warehouse Core, lalu ke tiga data mart (Finance, Sales, Ops), dengan lapisan BI/Dashboard di ujung kanan. Gaya korporat biru-abu-putih, teks label Bahasa Indonesia",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Diagram alur arsitektur adalah format yang paling tepat karena gambar ini harus menjelaskan hubungan teknis antar komponen sistem — sebuah konsep yang tidak bisa digambarkan dengan foto atau ilustrasi generik",
+      "visual_direction": "Diagram alur horizontal berformat landscape (rasio 16:9 atau 3:2). Latar belakang putih bersih (#FFFFFF). Lima blok berurutan dari kiri ke kanan dihubungkan oleh panah tebal berwarna biru tua (#1A3A5C): (1) Blok 'Sumber Data' berisi empat ikon bertumpuk vertikal — ikon server biru (label: SAP ERP), ikon kontak/orang (label: CRM), ikon tabel/grid (label: Spreadsheet), ikon arsip lama (label: Legacy System); warna blok abu muda (#F0F2F5). (2) Blok tengah 'ETL / ELT Pipeline' dengan ikon dua-panah berputar; warna blok biru muda (#D6E4F7). (3) Blok 'Data Warehouse Core' berbentuk silinder database besar; warna blok biru korporat (#1A3A5C) dengan teks putih. (4) Blok 'Data Mart' berisi tiga sub-kotak kecil bertumpuk vertikal berlabel 'Finance', 'Sales', 'Ops'; warna blok biru sedang (#2E6DA4). (5) Blok 'BI / Dashboard' dengan ikon layar monitor dan grafik batang; warna blok hijau teal (#1A7A6E). Semua label teks menggunakan Bahasa Indonesia, font sans-serif modern (misal: Inter atau Noto Sans), ukuran readable. Judul gambar di atas: 'Arsitektur Data Warehouse Modern'. Tidak ada dekorasi berlebihan — gaya enterprise yang bersih dan profesional.",
+      "in_image_text_id": [
+        "Sumber Data",
+        "SAP ERP",
+        "CRM",
+        "Spreadsheet",
+        "Legacy System",
+        "ETL / ELT Pipeline",
+        "Data Warehouse Core",
+        "Data Mart",
+        "Finance",
+        "Sales",
+        "Ops",
+        "BI / Dashboard",
+        "Arsitektur Data Warehouse Modern"
+      ],
+      "alt_id": "Diagram arsitektur data warehouse: ERP dan CRM melalui ETL ke data warehouse core, data mart, lalu dashboard BI",
+      "caption_id": "Arsitektur data warehouse modern mengintegrasikan data dari SAP ERP, CRM, spreadsheet, dan sistem lama melalui pipeline ETL/ELT menuju satu repositori terpusat. Dari data warehouse, data mart tematik (Finance, Sales, Ops) menjadi fondasi dashboard BI untuk manajemen.",
+      "sourcing_note": "Buat sebagai diagram vektor original — tidak memerlukan aset SAP asli. Desainer dapat menggunakan tools seperti Figma, Lucidchart, atau Adobe Illustrator. Gunakan ikon sistem dari library ikon umum (Noun Project, Flaticon kategori 'server', 'database', 'dashboard'). Tidak ada tangkapan layar produk SAP yang diperlukan untuk gambar ini.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body",
+      "concept_from_writer": "Infografis dua kolom — kiri 'Sebelum: Data Silo' tiga sistem terpisah dengan panah ke tiga spreadsheet berbeda, mengarah ke 'Laporan? (5 hari)' dengan ikon tanda tanya; kanan 'Sesudah: Data Warehouse' tiga sistem ke ETL ke Data Warehouse ke Dashboard BI. Warna merah/abu kiri, hijau/biru kanan, teks Bahasa Indonesia",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Infografis perbandingan Before/After adalah format paling efektif untuk menunjukkan pain point data silo vs manfaat data warehouse kepada pembaca B2B non-teknis — menyampaikan argumen utama artikel secara visual dalam satu pandangan",
+      "visual_direction": "Infografis dua kolom berformat portrait atau landscape (rasio 4:3 atau 16:9). Latar belakang abu sangat muda (#F5F6F8). Garis pemisah tebal vertikal di tengah berwarna abu gelap (#888888). KOLOM KIRI — 'Sebelum: Data Silo': Header merah tua (#C0392B) dengan teks putih 'SEBELUM: DATA SILO'. Di bawahnya, tiga kotak kecil berlabel 'Finance', 'Sales', 'Gudang' masing-masing memiliki ikon sistem berbeda (berwarna abu-merah), dengan panah masing-masing menuju tiga lembar spreadsheet terpisah (ikon Excel/grid berwarna oranye). Dari tiga spreadsheet tersebut, panah bergabung menuju satu kotak besar bertanda tanya (ikon '?') berlabel 'Laporan? (5 hari)' — kotak ini berwarna merah muda (#F5A09B) dengan border merah. Seluruh area kiri bernuansa merah-abu (#FDECEA background). KOLOM KANAN — 'Sesudah: Data Warehouse': Header biru tua (#1A3A5C) dengan teks putih 'SESUDAH: DATA WAREHOUSE'. Di bawahnya, tiga kotak kecil berlabel 'Finance', 'Sales', 'Gudang' dengan panah menyatu ke satu blok 'ETL / ELT' berwarna biru muda, lalu ke silinder 'Data Warehouse' berwarna biru korporat (#2E6DA4), lalu ke ikon monitor 'Dashboard BI' berwarna hijau teal (#1A7A6E) dengan label 'Laporan Otomatis'. Seluruh area kanan bernuansa biru-hijau muda (#EAF2FB background). Semua teks Bahasa Indonesia, font sans-serif bersih. Judul besar di atas seluruh infografis: 'Dari Data Silo ke Single Source of Truth'.",
+      "in_image_text_id": [
+        "SEBELUM: DATA SILO",
+        "SESUDAH: DATA WAREHOUSE",
+        "Finance",
+        "Sales",
+        "Gudang",
+        "Laporan? (5 hari)",
+        "ETL / ELT",
+        "Data Warehouse",
+        "Dashboard BI",
+        "Laporan Otomatis",
+        "Dari Data Silo ke Single Source of Truth"
+      ],
+      "alt_id": "Infografis sebelum-sesudah: data silo dengan laporan 5 hari versus data warehouse terintegrasi dengan dashboard BI otomatis",
+      "caption_id": "Kondisi data silo memaksa tim merekap data secara manual dari sistem yang tidak terintegrasi — dalam banyak kasus memakan 3–7 hari kerja per laporan bulanan. Data warehouse mengubah alur ini menjadi satu sumber kebenaran yang dapat diakses langsung melalui dashboard BI.",
+      "sourcing_note": "Buat sebagai infografis vektor original menggunakan Figma atau Adobe Illustrator. Tidak memerlukan tangkapan layar produk SAP maupun foto — seluruh elemen berupa ikon dan teks. Ikon yang dibutuhkan: sistem/server (abu), spreadsheet/Excel (oranye), tanda tanya, silinder database, layar monitor dengan grafik. Tersedia di Flaticon atau Noun Project dengan lisensi bebas.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

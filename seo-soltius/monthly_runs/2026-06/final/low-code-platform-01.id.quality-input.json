@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-06\\final\\low-code-platform-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-03T01:28:47+07:00",
+    "word_count":  1041,
+    "paragraph_count":  13,
+    "sentence_count":  59,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.611,
+                        "sentence_burstiness":  0.663,
+                        "top30_vocab_share":  0.376,
+                        "flags":  [
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 37.6% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Platform enterprise-grade seperti SAP Build berjalan di atas SAP BTP dengan sertifikasi keamanan enterprise (enkripsi data, kontrol akses berbasis peran, ISO 27001, SOC 2).",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Platform enterprise-grade seperti SAP Build berjalan di atas SAP BTP dengan sertifikasi keamanan enterprise (enkripsi da\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai SAP Platinum Partner melalui United VARs, Soltius membantu perusahaan Indonesia memanfaatkan SAP Build di atas SAP BTP, dari evaluasi kesiapan hingga pendampingan program *citizen developer* yang terstruktur.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Sebagai SAP Platinum Partner melalui United VARs, Soltius membantu perusahaan Indonesia memanfaatkan SAP Build di atas S\""
+                                  },
+                                  {
+                                      "passage":  "Karena SAP Build berjalan di BTP, aplikasi mengakses data S/4HANA melalui API resmi tanpa memodifikasi inti ERP, selaras dengan prinsip *side-by-side extensibility*.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Karena SAP Build berjalan di BTP, aplikasi mengakses data S/4HANA melalui API resmi tanpa memodifikasi inti ERP, selaras\""
+                                  },
+                                  {
+                                      "passage":  "# Low-Code Platform: Apa Itu dan Bagaimana Cara Kerjanya untuk Bisnis Enterprise?",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"# Low-Code Platform: Apa Itu dan Bagaimana Cara Kerjanya untuk Bisnis Enterprise?\""
+                                  },
+                                  {
+                                      "passage":  "## Bagaimana Low-Code Platform Bekerja: Komponen dan Mekanismenya Platform *low-code* bekerja melalui empat lapisan yang saling terhubung: 1.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"## Bagaimana Low-Code Platform Bekerja: Komponen dan Mekanismenya Platform *low-code* bekerja melalui empat lapisan yang\""
+                                  },
+                                  {
+                                      "passage":  "SAP Build menggunakan BTP Integration Suite dan *pre-built connector* untuk menghubungkan aplikasi ke data S/4HANA (modul Finance, HR, atau Supply Chain) tanpa memodifikasi inti ERP.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"SAP Build menggunakan BTP Integration Suite dan *pre-built connector* untuk menghubungkan aplikasi ke data S/4HANA (modu\""
+                                  },
+                                  {
+                                      "passage":  "Gartner memproyeksikan 75% aplikasi enterprise baru akan dibangun menggunakan *low-code* pada 2026, naik dari kurang dari 25% di 2020; 80% penggunanya adalah *citizen developer* non-IT.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Gartner memproyeksikan 75% aplikasi enterprise baru akan dibangun menggunakan *low-code* pada 2026, naik dari kurang dar\""
+                                  },
+                                  {
+                                      "passage":  "Integrasi AI Joule menambah produktivitas sekitar 30% untuk tugas seperti pemodelan data.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Integrasi AI Joule menambah produktivitas sekitar 30% untuk tugas seperti pemodelan data.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

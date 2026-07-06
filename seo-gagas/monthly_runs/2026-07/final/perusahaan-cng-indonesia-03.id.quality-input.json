@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07\\final\\perusahaan-cng-indonesia-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-09T15:41:37+07:00",
+    "word_count":  1595,
+    "paragraph_count":  19,
+    "sentence_count":  93,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.499,
+                        "sentence_burstiness":  0.924,
+                        "top30_vocab_share":  0.26,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Pada 2024, sektor industri menyerap 40% pemanfaatan gas bumi domestik Indonesia, setara 1.473 BBTUD dari total 3.881 BBTUD (Kementerian ESDM, 2024), penggerak permintaan gas terbesar di dalam negeri.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Pada 2024, sektor industri menyerap 40% pemanfaatan gas bumi domestik Indonesia, setara 1.473 BBTUD dari total 3.881 BBT\""
+                                  },
+                                  {
+                                      "passage":  "Dari tujuh sektor penerima Harga Gas Bumi Tertentu (HGBT) pemerintah, yakni pupuk, petrokimia, oleokimia, baja, keramik, kaca, dan sarung tangan karet (Kepmen ESDM No.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Dari tujuh sektor penerima Harga Gas Bumi Tertentu (HGBT) pemerintah, yakni pupuk, petrokimia, oleokimia, baja, keramik,\""
+                                  },
+                                  {
+                                      "passage":  "**Survei lokasi.** Tim *engineering* mengecek lapangan dan merancang tata letak Pressure Reduction Station (PRS) atau modul silinder sesuai standar keselamatan (HSE).",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"**Survei lokasi.** Tim *engineering* mengecek lapangan dan merancang tata letak Pressure Reduction Station (PRS) atau mo\""
+                                  },
+                                  {
+                                      "passage":  "# Industri yang Dilayani Perusahaan CNG + Cara Mulai Berlangganan Seorang manajer operasional hotel atau pemilik pabrik keramik biasanya sudah selesai dengan pertanyaan \"apakah CNG lebih hemat\".",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"# Industri yang Dilayani Perusahaan CNG + Cara Mulai Berlangganan Seorang manajer operasional hotel atau pemilik pabrik \""
+                                  },
+                                  {
+                                      "passage":  "## Kapan Usaha Anda BELUM Layak Berlangganan CNG Penyedia yang jujur akan mengatakan \"belum\" alih-alih memaksakan kontrak.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Kapan Usaha Anda BELUM Layak Berlangganan CNG Penyedia yang jujur akan mengatakan  belum  alih-alih memaksakan kontra\""
+                                  },
+                                  {
+                                      "passage":  "Gas dikompresi di Mother Station, lalu diangkut dengan Gas Transport Module (GTM) ke lokasi pelanggan; di sana, Pressure Reduction Station (PRS) menurunkan tekanan ke spesifikasi peralatan.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Gas dikompresi di Mother Station, lalu diangkut dengan Gas Transport Module (GTM) ke lokasi pelanggan; di sana, Pressure\""
+                                  },
+                                  {
+                                      "passage":  "Semuanya bergantung pada panas rutin yang dapat dipasok lebih hemat dan pasti lewat distribusi CNG (*Compressed Natural Gas*) via Gas Transport Module (GTM) atau CNG Silinder.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Semuanya bergantung pada panas rutin yang dapat dipasok lebih hemat dan pasti lewat distribusi CNG (*Compressed Natural \""
+                                  },
+                                  {
+                                      "passage":  "BPH Migas menyatakan daerah tanpa jaringan pipa gas perlu didorong memanfaatkan CNG, dengan pemetaan kawasan pengguna gas sesuai sumber pasok terdekat (BPH Migas).",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"BPH Migas menyatakan daerah tanpa jaringan pipa gas perlu didorong memanfaatkan CNG, dengan pemetaan kawasan pengguna ga\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

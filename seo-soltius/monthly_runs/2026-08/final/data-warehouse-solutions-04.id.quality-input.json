@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-08\\final\\data-warehouse-solutions-04.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-08T18:17:47+07:00",
+    "word_count":  2198,
+    "paragraph_count":  24,
+    "sentence_count":  103,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.478,
+                        "sentence_burstiness":  0.811,
+                        "top30_vocab_share":  0.305,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Standar OEE *world-class* adalah 85%, patokan yang ditetapkan Seiichi Nakajima dalam *Introduction to TPM* (1984), dengan komponen target Availability ≥90%, Performance ≥95%, dan Quality ≥99,9%.",
+                                      "candidate_score":  29,
+                                      "web_search_query":  "\"Standar OEE *world-class* adalah 85%, patokan yang ditetapkan Seiichi Nakajima dalam *Introduction to TPM* (1984), denga\""
+                                  },
+                                  {
+                                      "passage":  "Berdasarkan analisis Evocon terhadap 3.500+ mesin di 50+ negara, rata-rata OEE global hanya berkisar 55–60%, dan hanya sekitar 6% pabrik yang benar-benar mencapai 85% secara tahunan.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Berdasarkan analisis Evocon terhadap 3.500+ mesin di 50+ negara, rata-rata OEE global hanya berkisar 55–60%, dan hanya s\""
+                                  },
+                                  {
+                                      "passage":  "# Data Warehouse per Industri: Use Case Nyata di Manufaktur, Distribusi, dan Lainnya Seorang kepala pabrik tidak peduli pada \"single source of truth\" sebagai konsep.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"# Data Warehouse per Industri: Use Case Nyata di Manufaktur, Distribusi, dan Lainnya Seorang kepala pabrik tidak peduli \""
+                                  },
+                                  {
+                                      "passage":  "Patokan OEE world-class adalah 85%, sementara rata-rata global hanya 55–60% dan hanya sekitar 6% pabrik mencapai 85% (Evocon).",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"Patokan OEE world-class adalah 85%, sementara rata-rata global hanya 55–60% dan hanya sekitar 6% pabrik mencapai 85% (Ev\""
+                                  },
+                                  {
+                                      "passage":  "Celah belasan poin persen inilah yang dipersempit ketika data produksi terbaca real-time, bukan seminggu kemudian.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Celah belasan poin persen inilah yang dipersempit ketika data produksi terbaca real-time, bukan seminggu kemudian.\""
+                                  },
+                                  {
+                                      "passage":  "Pertanyaan inilah yang menjelaskan kenapa proyek data sering terasa antiklimaks bagi pengguna bisnis.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Pertanyaan inilah yang menjelaskan kenapa proyek data sering terasa antiklimaks bagi pengguna bisnis.\""
+                                  },
+                                  {
+                                      "passage":  "Survei Gartner pada April 2024 menemukan 61% organisasi global terpaksa mengevaluasi ulang model operasional data dan analitik mereka karena dampak teknologi AI.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Survei Gartner pada April 2024 menemukan 61% organisasi global terpaksa mengevaluasi ulang model operasional data dan an\""
+                                  },
+                                  {
+                                      "passage":  "Perusahaan perkebunan harus menyatukan data produktivitas per blok, input (pupuk, air, pestisida), cuaca, dan hasil panen dari puluhan hingga ratusan blok kebun.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Perusahaan perkebunan harus menyatukan data produktivitas per blok, input (pupuk, air, pestisida), cuaca, dan hasil pane\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

@@ -1,0 +1,85 @@
+{
+  "brief_id": "cng-indonesia-01",
+  "article_title_id": "Apa Itu CNG (Compressed Natural Gas) dan Cara Kerjanya",
+  "language": "id",
+  "image_count": 3,
+  "planned_at": "2026-06-09",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero — setelah definition blockquote, sebelum H2 pertama",
+      "concept_from_writer": "Ilustrasi konsep 'gas dipadatkan' — satu balon besar berisi gas pada kondisi atmosferik di kiri, dengan panah kompresi menuju satu tabung kecil bertekanan tinggi berlabel '200–250 bar' di kanan, disertai keterangan 'volume menyusut ~1/250'. Gaya flat infographic, palet biru industri, teks Bahasa Indonesia.",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Konsep abstrak tentang kompresi gas paling efektif dijelaskan lewat visual perbandingan sebelum-sesudah; infografis flat 2-panel lebih jelas dari foto dan langsung mendukung definition snippet di atasnya.",
+      "visual_direction": "Infografis flat dua panel berdampingan, orientasi landscape (rasio 16:9). PANEL KIRI — judul kecil di atas: 'Kondisi Atmosferik'; gambar balon gas besar berwarna biru muda (sekitar 80% tinggi kanvas) dengan ikon molekul CH4 di dalamnya; label di bawah balon: '1 unit volume gas'; latar panel kiri putih bersih. Di tengah kanvas, panah tebal horizontal berwarna biru tua mengarah ke kanan, dengan label teks di atas panah: 'Dikompresi hingga' dan di bawah panah: '200–250 bar'. PANEL KANAN — judul kecil di atas: 'Setelah Kompresi (CNG)'; gambar tabung silinder tegak berwarna biru tua (sekitar 25% tinggi kanvas) dengan segel tekanan tinggi bergaris-garis di bagian atas; label di bawah tabung: 'Volume menyusut ~1/250'; latar panel kanan putih bersih. Di bagian bawah tengah infografis, satu baris teks keterangan: 'CNG tetap berwujud gas — bukan cairan'. Palet: biru industri (#1A5276 dan #2E86C1) untuk elemen utama, aksen hijau energi (#1E8449) untuk label tekanan dan angka kunci, latar putih (#FFFFFF), teks abu gelap (#2C3E50). Font sans-serif, tebal pada angka '200–250 bar' dan '1/250'. Tidak ada elemen dekoratif berlebih — clean dan mudah dibaca pada ukuran thumbnail blog.",
+      "in_image_text_id": [
+        "Kondisi Atmosferik",
+        "1 unit volume gas",
+        "Dikompresi hingga",
+        "200–250 bar",
+        "Setelah Kompresi (CNG)",
+        "Volume menyusut ~1/250",
+        "CNG tetap berwujud gas — bukan cairan"
+      ],
+      "alt_id": "Infografis perbandingan volume gas sebelum dan sesudah kompresi menjadi CNG pada tekanan 200–250 bar",
+      "caption_id": "CNG adalah gas bumi yang dikompresi hingga 200–250 bar sehingga volumenya menyusut menjadi sekitar 1/250 dari ukuran aslinya — cukup padat untuk dimuat ke tabung dan diangkut ke lokasi tanpa pipa.",
+      "sourcing_note": "Infografis baru — tidak memerlukan foto fasilitas Gagas. Tim desain membuat dari nol menggunakan brief ini. Pastikan teks dalam gambar berbahasa Indonesia sesuai daftar 'in_image_text_id'.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "mid-article — setelah daftar bernomor 7 langkah di H2 'Bagaimana Cara Kerja CNG, dari Sumur Gas hingga Siap Dipakai?'",
+      "concept_from_writer": "Diagram alur horizontal tujuh langkah 'Sumur Gas → Siap Pakai' — ikon (1) sumur gas, (2) unit pemurnian, (3) Mother Station/kompresor berlabel '200–250 bar', (4) tabung kaskade di atas truk, (5) truk CNG bergerak berlabel 'virtual pipeline', (6) Pressure Reduction Station, (7) boiler/kendaraan sebagai pengguna akhir. Palet biru industri, latar bersih, teks Bahasa Indonesia.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Rantai pasok CNG 7 langkah adalah informasi proses/alur yang paling tepat divisualisasikan sebagai diagram alur berurutan — lebih informatif dari foto dan lebih akurat dari stock art generik; langsung memperkuat numbered list di atasnya.",
+      "visual_direction": "Diagram alur horizontal 7 langkah berurutan, orientasi landscape (rasio 16:9 atau A4 landscape). Tujuh node berbentuk lingkaran atau segi enam biru tua dihubungkan dengan panah horizontal dari kiri ke kanan. Setiap node berisi ikon garis putih dan nomor urut. Di bawah setiap node, dua baris teks: baris atas tebal (nama langkah), baris bawah lebih kecil (keterangan teknis singkat). Rincian tiap node: NODE 1 — ikon menara sumur minyak/gas; teks atas 'Ekstraksi'; teks bawah 'Sumur gas bumi'. NODE 2 — ikon filter atau tabung pemurnian; teks atas 'Pemurnian'; teks bawah 'Hilangkan CO2, H2S, air'. NODE 3 — ikon kompresor industri besar; teks atas 'Mother Station'; teks bawah '200–250 bar'; node ini diberi aksen hijau (#1E8449) sebagai titik kritis proses. NODE 4 — ikon kaskade tabung silinder berjajar; teks atas 'Penyimpanan'; teks bawah 'Tabung kaskade bertekanan'. NODE 5 — ikon truk CNG tampak samping (truk dengan tabung silinder di bak); teks atas 'Transportasi'; teks bawah 'Virtual Pipeline'; di bawah ikon truk, lencana kecil bertuliskan 'Virtual Pipeline' dengan latar hijau. NODE 6 — ikon regulator atau panel kontrol tekanan; teks atas 'Pressure Reduction Station'; teks bawah 'Turunkan tekanan ke level kerja'. NODE 7 — ikon split tiga: boiler, kendaraan, dan burner industri; teks atas 'Siap Dipakai'; teks bawah 'Industri, transportasi, komersial'. Panah penghubung antar node berwarna biru tua (#1A5276), tebal, dengan kepala panah solid. Latar keseluruhan putih bersih (#FFFFFF). Di bagian atas diagram, judul: 'Alur Distribusi CNG: Sumur Gas hingga Siap Dipakai'. Di bagian bawah, catatan kecil: 'Sumber: Ditjen Migas ESDM'. Palet: biru tua (#1A5276) untuk node dan panah, biru muda (#AED6F1) untuk latar node, hijau (#1E8449) untuk node Mother Station dan label Virtual Pipeline, teks abu gelap (#2C3E50).",
+      "in_image_text_id": [
+        "Alur Distribusi CNG: Sumur Gas hingga Siap Dipakai",
+        "1. Ekstraksi",
+        "Sumur gas bumi",
+        "2. Pemurnian",
+        "Hilangkan CO2, H2S, air",
+        "3. Mother Station",
+        "200–250 bar",
+        "4. Penyimpanan",
+        "Tabung kaskade bertekanan",
+        "5. Transportasi",
+        "Virtual Pipeline",
+        "6. Pressure Reduction Station",
+        "Turunkan tekanan ke level kerja",
+        "7. Siap Dipakai",
+        "Industri, transportasi, komersial",
+        "Sumber: Ditjen Migas ESDM"
+      ],
+      "alt_id": "Diagram alur distribusi CNG tujuh langkah dari sumur gas hingga siap digunakan oleh industri dan transportasi",
+      "caption_id": "Dari sumur gas hingga boiler atau kendaraan, CNG melewati tujuh tahap: ekstraksi, pemurnian, kompresi di Mother Station (200–250 bar), penyimpanan, transportasi via truk ('virtual pipeline'), penurunan tekanan, lalu siap dipakai — inilah yang memungkinkan gas bumi menjangkau lokasi tanpa pipa permanen.",
+      "sourcing_note": "Diagram baru — tidak memerlukan foto fasilitas Gagas. Tim desain membuat ilustrasi vektor dari nol. Ikon-ikon boleh dari pustaka ikon teknis industri (misalnya The Noun Project dengan lisensi sesuai). Tidak boleh menggunakan foto fasilitas Mother Station atau SPBG PGN Gagas yang belum diverifikasi. Terminologi 'Mother Station' dan 'Pressure Reduction Station' mengacu Ditjen Migas ESDM — cantumkan atribusi sumber di bagian bawah diagram.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_03",
+      "position": "mid-article — di dalam H2 'CNG Bukan Cuma Pengganti LPG 3 Kg: Meluruskan Salah Kaprah', setelah paragraf yang membahas penggunaan di segmen industri dan komersial",
+      "concept_from_writer": "Ilustrasi dua panel berdampingan tentang dispersi kebocoran — panel kiri 'CNG (metana): lebih ringan dari udara — naik & menyebar' dengan panah ke atas; panel kanan 'LPG: lebih berat dari udara — mengendap' dengan panah ke bawah. Tone edukatif, tidak alarmis, teks Bahasa Indonesia.",
+      "suggested_asset_type": "illustration",
+      "asset_type_rationale": "Perilaku dispersi gas saat kebocoran adalah konsep fisika yang tidak bisa difoto dengan aman; ilustrasi skematik edukatif dua panel menyampaikan perbedaan kritis CNG vs LPG secara visual tanpa bersifat alarmis, mendukung paragraf keamanan di artikel.",
+      "visual_direction": "Ilustrasi flat dua panel berdampingan, orientasi landscape (rasio 16:9 atau 4:3). Garis pembatas vertikal tipis abu di tengah memisahkan dua panel. Di bagian atas setiap panel, judul panel dalam kotak warna lembut. PANEL KIRI (latar biru sangat muda #EBF5FB): Judul kotak atas berwarna biru tua: 'CNG (Metana)'; subjudul kecil: 'Lebih ringan dari udara'. Di tengah panel, gambar sederhana potongan ruangan dengan lantai dan langit-langit; sebuah tabung CNG kecil di pojok kiri bawah dengan ikon kebocoran kecil (titik-titik gas). Dari titik kebocoran, panah-panah melengkung berwarna biru muda mengarah ke atas menuju langit-langit, membentuk pola menyebar ke atas. Di atas panah, teks: 'Gas naik dan menyebar'. Di pojok kanan bawah panel kiri, kotak kecil berisi teks: 'Berat jenis: ~0,55–0,80 (udara = 1,0)'. PANEL KANAN (latar oranye sangat muda #FDFAF6 — warna netral, tidak merah): Judul kotak atas berwarna coklat tua atau abu tua: 'LPG (Propana/Butana)'; subjudul kecil: 'Lebih berat dari udara'. Di tengah panel, gambar sederhana potongan ruangan serupa; sebuah tabung LPG kecil di pojok kiri bawah dengan ikon kebocoran kecil. Dari titik kebocoran, panah-panah melengkung berwarna oranye-coklat muda mengarah ke bawah dan ke sudut lantai, membentuk pola mengendap. Di bawah panah, teks: 'Gas mengendap di lantai'. Di pojok kanan bawah panel kanan, kotak kecil berisi teks: 'Lebih berat dari udara — dapat terakumulasi di cekungan'. Di bagian bawah tengah keseluruhan ilustrasi, satu baris catatan edukatif: 'Keduanya memerlukan ventilasi dan standar keamanan yang sesuai'. Judul keseluruhan di atas ilustrasi: 'Perilaku Kebocoran: CNG vs LPG'. Palet: biru (#2E86C1) untuk elemen CNG, coklat-oranye muda (#D4AC0D atau #CA6F1E) untuk elemen LPG, teks abu gelap (#2C3E50). Tone harus informatif dan tenang — tidak ada simbol bahaya merah, tidak ada api, tidak ada tengkorak. Gaya flat/illustrated, bukan fotorealistik.",
+      "in_image_text_id": [
+        "Perilaku Kebocoran: CNG vs LPG",
+        "CNG (Metana)",
+        "Lebih ringan dari udara",
+        "Gas naik dan menyebar",
+        "Berat jenis: ~0,55–0,80 (udara = 1,0)",
+        "LPG (Propana/Butana)",
+        "Lebih berat dari udara",
+        "Gas mengendap di lantai",
+        "Lebih berat dari udara — dapat terakumulasi di cekungan",
+        "Keduanya memerlukan ventilasi dan standar keamanan yang sesuai"
+      ],
+      "alt_id": "Ilustrasi perbandingan perilaku kebocoran CNG dan LPG: metana naik ke udara, LPG mengendap di lantai",
+      "caption_id": "Perbedaan kunci keamanan CNG dan LPG terletak pada berat jenisnya: metana (berat jenis ~0,55–0,80) lebih ringan dari udara sehingga saat bocor gas naik dan menyebar, sementara propana/butana dalam LPG lebih berat dan cenderung mengendap di cekungan lantai. Keduanya tetap memerlukan ventilasi dan instalasi sesuai standar teknis.",
+      "sourcing_note": "Ilustrasi baru — tidak memerlukan foto fasilitas Gagas. Tim desain membuat dari nol. PENTING: jangan gunakan simbol bahaya merah, simbol api aktif, atau simbol tengkorak — tone harus edukatif dan tidak alarmis sesuai konteks artikel. Angka berat jenis '~0,55–0,80' bersumber dari Ditjen Migas ESDM (dapat dicantumkan sebagai catatan kaki kecil di bagian bawah ilustrasi).",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

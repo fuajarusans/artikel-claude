@@ -1,0 +1,91 @@
+{
+  "keyword": "Business Intelligence",
+  "keyword_slug": "business-intelligence",
+  "month": "2026-08",
+  "captured_at": "2026-06-08",
+  "landing_page": "https://www.soltius.co.id/id/blog/business-intelligence",
+  "landing_page_summary": "Hub already covers: BI definition ('proses strategis & teknologi yang mengubah data mentah jadi wawasan'), 5 manfaat, BI vs Analytics vs Data Science (tabel + analogi mengemudi), cara kerja BI 3 tahap, tantangan implementasi (data quality + resistance), use case industri (retail/e-commerce, F&B, finance fraud), roundup tool generik (Tableau/Power BI/Looker), tren AI/generative AI. NO FAQ section, no deep technical architecture, no governance framework, no security protocols. Only SAP products named (in 'Other News' footer, not body): SAP Analytics Cloud, SAP IBP.",
+  "data_sources_used": ["seo_report_apr2026.md", "live_serp_attempted_failed", "websearch_serp_substitute", "websearch"],
+  "ahrefs_available": false,
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Indonesian SERP for 'business intelligence' / 'apa itu business intelligence' dominated by generic definisi/manfaat/contoh content (tambahpinter, fanruan, kajianpustaka, myrobin, populix, kitalulus, majoo) — thin definitional whitespace remains for high-intent decision/role-specific/honest angles. Adjacent demand signals from WebSearch: CFO/financial dashboards trending toward real-time 'decision velocity'; augmented analytics + Joule/generative BI surging (SAP Business AI Q1 2026 highlights, Agent Builder GA Jan 2026); BI-vs-Excel migration a live commercial query (incl. Indonesian-language results); dashboard-design best practice strong 2026 search interest; BI ROI/business-case a recurring decision query.",
+    "apr2026_rank": 100,
+    "rank_trajectory": "Before 100 -> Feb 100 -> Mar 10 -> Apr 100 (crashed #10->#100; best 10). RESCUE priority."
+  },
+  "serp": {
+    "live_serp_status": "google.com/search returned an error/rate-limit page on two fetch attempts; used WebSearch on 'apa itu business intelligence' + 'orang juga bertanya business intelligence' as SERP substitute.",
+    "top_organic_id_substitute": [
+      { "url": "https://tambahpinter.com/business-intelligence/", "title": "Business Intelligence: Manfaat, Tujuan, Jenis dan Contoh", "angle_summary": "Definisi + manfaat + jenis + contoh — generik definitional." },
+      { "url": "https://www.fanruan.com/id/blog/business-intelligence", "title": "Business Intelligence: Definisi, Cara Kerja, dan Manfaatnya", "angle_summary": "Definisi + cara kerja + manfaat — vendor BI (FanRuan)." },
+      { "url": "https://www.kajianpustaka.com/2019/12/business-intelligence.html", "title": "Business Intelligence (Pengertian, Manfaat, Jenis, Arsitektur, Penggunaan)", "angle_summary": "Artikel akademik lama (2019) — pengertian + arsitektur." },
+      { "url": "https://myrobin.id/untuk-bisnis/business-intelligence/", "title": "Business Intelligence: Definisi, Manfaat, dan Contoh Penerapannya", "angle_summary": "Definisi + manfaat + contoh — generik." },
+      { "url": "https://info.populix.co/articles/business-intelligence-adalah/", "title": "Business Intelligence Adalah: Arti, Aplikasi, Contohnya", "angle_summary": "Definisi + aplikasi + contoh — generik." },
+      { "url": "https://www.kitalulus.com/blog/bisnis/business-intelligence/", "title": "Apa Itu Business Intelligence, Peran, Contoh, dan Aplikasinya", "angle_summary": "Definisi + peran + contoh — generik (situs karier)." }
+    ],
+    "serp_features": ["paa_likely", "ai_overview_likely"],
+    "ai_overview_entities": ["business intelligence", "data mentah", "KPI", "pengambilan keputusan", "OLTP/OLAP", "dashboard", "visualisasi data"],
+    "competitive_read": "Indonesian top-of-SERP is overwhelmingly generic 'definisi/manfaat/contoh' with low E-E-A-T and no decision-stage depth. None target a specific role (CFO), none cover BI-vs-Excel migration decision, dashboard-design craft, augmented-analytics/Joule deep-dive, or a forward ROI business case. This is exactly the originality whitespace the Mar-2026 core update rewards and the rescue strategy needs."
+  },
+  "paa": [
+    "Apa itu business intelligence?",
+    "Apa manfaat business intelligence bagi perusahaan?",
+    "Apa tujuan business intelligence?",
+    "Apa contoh penerapan business intelligence?",
+    "Apa perbedaan business intelligence dan data analytics?",
+    "Apa saja tools business intelligence?",
+    "Apa perbedaan business intelligence dan Excel/spreadsheet?",
+    "Berapa biaya / ROI implementasi business intelligence?",
+    "Apa itu augmented analytics?",
+    "Apa itu dashboard dalam business intelligence?",
+    "Bagaimana cara kerja business intelligence?",
+    "Kapan perusahaan perlu business intelligence?"
+  ],
+  "gsc_style_queries_from_report": [
+    "sap adalah (60 clicks / 17,709 impr) — definitional appetite in ID; gloss BI in Indonesian",
+    "human capital (130 clicks) / talent acquisition adalah (29) — audience also HR/finance ops",
+    "cara menghitung hpp (23) / siklus akuntansi (18) — finance/accounting practical-process intent supports a CFO/finance-BI angle",
+    "AI-search referrals: 174 sessions Apr (Perplexity ~68%, ChatGPT ~22%) -> GEO/extractability is a live channel"
+  ],
+  "verified_facts_for_writers": {
+    "sac_ai_features": "SAP Analytics Cloud augmented-analytics features: 'Just Ask' (natural-language query; successor to 'Search to Insight' which is being deprecated; Just Ask handles more complex syntax and returns multiple visualizations); 'Smart Insights' (auto-explains data points: anomalies, key influencers, correlations); 'Smart Predict' (automated ML for predictive models — classification/regression/time-series). 'Just Ask' introduced 2024 Q1 QRC; multi-language expansion (DE/FR/IT/ES) from 2025 Q3. SOURCE-HINTS: s-peers.com SAC AI wiki, learning.sap.com, sap.com generative-ai page. RESEARCHER: confirm current feature names/availability + Joule-in-SAC positioning before writer asserts versions/dates.",
+    "joule": "Joule = SAP's generative-AI copilot / conversational assistant across the SAP suite, now surfacing in SAP Analytics Cloud; SAP Business AI Q1 2026 highlights + Joule Agent Builder GA Jan 2026 (agentic analytics). RESEARCHER: verify Joule-in-SAC scope and any 'agentic' claims via SAP official before asserting.",
+    "sac_excel_addin": "'SAP Analytics Cloud, add-in for Microsoft Excel' connects Excel (pivot experience) to SAC models, live SAP Datasphere data, and SAP S/4HANA Cloud CDS views; requires a BI or planning license. Distinct from legacy 'SAP Analysis for Microsoft Office' (AfO, bundled with BusinessObjects/BPC). SOURCE-HINTS: help.sap.com SAC Office docs, community.sap.com. Use to teach the 'governed Excel' bridge in the BI-vs-Excel article — frame as complement, not 'rip out Excel'.",
+    "market_signal_cfo": "Global real-time dashboard market ~USD 12B (2023) -> projected ~USD 32B (2032), CAGR ~11.5% (per Qlik/vendor-cited figure — RESEARCHER: find primary analyst source e.g. IDC/MarketsandMarkets before citing).",
+    "roi_signals": "Gartner: >60% of D&A projects fail to move beyond pilot; common cause = inability to articulate/measure ROI. Typical well-run BI payback often cited <6-12 months (vendor-sourced; RESEARCHER verify/soften). ROI = ((benefit - cost)/cost) x 100.",
+    "data_literacy": "Gartner 2024 CDAO Survey: poor data literacy among top-5 roadblocks to D&A success; ~only one-third of enterprises provide data-literacy training. Gartner-cited: by 2026 ~80% of employees consume insights inside business apps they already use (decisions-not-dashboards shift). RESEARCHER: confirm exact Gartner stat wording/year.",
+    "dashboard_design": "Practitioner best-practice consensus: <=~7-12 KPIs per dashboard (cognitive overload above); F-pattern scanning -> primary KPI top-left, largest/highest-contrast; avoid 3D/pie-with-many-slices/dual-axis; pair every metric with target/benchmark + units + active date range. Sources are practitioner/vendor (DataCamp, ThoughtSpot, Domo) — frame as best-practice, attribute where a number is cited."
+  },
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      { "id": "2026-06-business-intelligence-01", "angle": "definisi BI / mengapa data berlimpah belum tentu keputusan", "subtopics": ["BI vs analytics vs data science", "data-driven decision", "dashboard", "KPI monitoring", "kapan butuh/belum butuh BI", "tiga lapisan BI"] },
+      { "id": "2026-06-business-intelligence-02", "angle": "SAP Analytics Cloud tiga pilar (BI/Planning/Predictive)", "subtopics": ["tiga pilar SAC", "SAC vs BusinessObjects", "FP&A", "SAC di atas BTP", "kapan SAC tepat"] },
+      { "id": "2026-06-business-intelligence-03", "angle": "embedded analytics S/4HANA real-time", "subtopics": ["embedded analytics S/4HANA", "Fiori tiles", "CDS views", "embedded vs SAC", "memulai embedded"] },
+      { "id": "2026-06-business-intelligence-04", "angle": "self-service BI vs BI tradisional (framework maturity)", "subtopics": ["self-service vs tradisional", "4-level maturity", "data governance dasar", "augmented analytics (sekilas)", "200 dashboard tidak dipercaya"] },
+      { "id": "2026-06-business-intelligence-05", "angle": "5 alasan proyek BI gagal", "subtopics": ["tingkat kegagalan BI", "5 penyebab (tujuan kabur/data/change mgmt/sponsorship/over-tooling)", "warning signs", "berhasil vs gagal di fase perencanaan", "masalah bukan soal tools"] }
+    ],
+    "hub_already_covers_avoid": ["definisi BI", "5 manfaat BI", "BI vs analytics vs data science (ulang)", "cara kerja BI 3 tahap", "roundup tool generik Tableau/Power BI/Looker", "use case industri generik retail/F&B/finance-fraud", "tren AI/GenAI sekilas"],
+    "uncovered_angles_selected_this_run": [
+      "BI untuk CFO / keuangan (financial telemetry, real-time close, decision velocity) -> brief 01 [decision]",
+      "Augmented analytics & generative AI/Joule dalam BI (NLQ, Just Ask, Smart Predict, agentic, decisions-not-dashboards) -> brief 02 [informational/trend]",
+      "BI vs spreadsheet/Excel — kapan berhenti pakai Excel (migration trigger, hidden cost, governed Excel bridge) -> brief 03 [comparison]",
+      "Dashboard design best practice (KPI selection, visual hierarchy, mistakes, mengapa dashboard diabaikan) -> brief 04 [how-to]",
+      "BI ROI & business case (justifikasi & pengukuran nilai, tangible vs intangible, payback) -> brief 05 [decision]"
+    ],
+    "uncovered_angles_left_for_future_months": [
+      "BI governance / data stewardship framework langkah-per-langkah",
+      "BI per industri spesifik (perkebunan/manufaktur/distribusi) tied to named Soltius verticals",
+      "Mobile BI adoption",
+      "Data literacy program enterprise (dedicated) / role data champion",
+      "Semantic layer & single source of truth untuk BI",
+      "Real-time operational BI vs strategic BI (cadence) — partially touched in 01; can deepen"
+    ],
+    "dedup_result": "5 distinct angles selected, all 5 intents distinct (decision / informational-trend / comparison / how-to / decision). Estimated subtopic Jaccard vs every 2026-06 sibling < 0.4. Closest watch-pair: brief 05 (ROI/business case, forward-looking justification) vs 2026-06-05 (failure diagnosis) — fenced explicitly (05 = how to BUILD & MEASURE the case; -05 = why projects FAIL). No shortfall: 5 truly distinct angles available."
+  },
+  "cousins_chosen": {
+    "cousin_1": { "keyword": "Data Warehouse Solutions", "url": "https://www.soltius.co.id/id/blog/data-warehouse-solutions", "why": "BI's data foundation (single source of truth) — primary cousin per product_matrix cross-link map; this month's keyword set." },
+    "cousin_2": { "keyword": "ERP migration to the cloud", "url": "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud", "why": "Analytics post-migration / S/4HANA + RISE as the transactional source for BI — second cousin per map; this month's keyword set." },
+    "note": "This month's full set: warehouse management system, Data Warehouse Solutions, Business Intelligence, ERP migration to the cloud, SAP Clean Core. Most-related cousins to BI (excluding self) = Data Warehouse Solutions + ERP migration to the cloud, matching product_matrix.md BI row. (Low-Code not in this month's set; WMS/Clean Core less topically adjacent to BI.)"
+  }
+}

@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-08\\final\\business-intelligence-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-08T18:19:55+07:00",
+    "word_count":  2221,
+    "paragraph_count":  32,
+    "sentence_count":  114,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.341,
+                        "sentence_burstiness":  0.783,
+                        "top30_vocab_share":  0.293,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.341 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "SAP Analytics Cloud mendukung *live connectivity* ke SAP S/4HANA (edisi On-Premise maupun Cloud) melalui CDS *views* (*Core Data Services*), sehingga dashboard membaca data transaksi terkini tanpa rekap manual.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"SAP Analytics Cloud mendukung *live connectivity* ke SAP S/4HANA (edisi On-Premise maupun Cloud) melalui CDS *views* (*C\""
+                                  },
+                                  {
+                                      "passage":  "SAP diakui sebagai Leader dalam Gartner Magic Quadrant for Financial Planning Software pada 2024 dan kembali pada 2025 (SAP News Center).",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"SAP diakui sebagai Leader dalam Gartner Magic Quadrant for Financial Planning Software pada 2024 dan kembali pada 2025 (\""
+                                  },
+                                  {
+                                      "passage":  "SAP Analytics Cloud menyediakan *add-in for Microsoft Excel* yang menghubungkan Excel ke model SAC, data live SAP Datasphere, dan CDS *views* dari SAP S/4HANA Cloud.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"SAP Analytics Cloud menyediakan *add-in for Microsoft Excel* yang menghubungkan Excel ke model SAC, data live SAP Datasp\""
+                                  },
+                                  {
+                                      "passage":  "SAP Analytics Cloud menyediakan *add-in for Microsoft Excel* yang menghubungkan Excel ke model SAC, data live SAP Datasphere, dan CDS *views* dari S/4HANA Cloud.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"SAP Analytics Cloud menyediakan *add-in for Microsoft Excel* yang menghubungkan Excel ke model SAC, data live SAP Datasp\""
+                                  },
+                                  {
+                                      "passage":  "Survei McKinsey (Juli 2024) menunjukkan meski 98% CFO telah berinvestasi dalam otomasi, interpretasi konteks bisnis dan keputusan strategis tetap membutuhkan penilaian manusia.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Survei McKinsey (Juli 2024) menunjukkan meski 98% CFO telah berinvestasi dalam otomasi, interpretasi konteks bisnis dan \""
+                                  },
+                                  {
+                                      "passage":  "## Bagaimana BI Bekerja dengan Excel yang Sudah Dipakai Tim Finance BI yang baik tidak menyuruh tim finance membuang Excel; ia memberi Excel satu sumber angka yang tepercaya.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Bagaimana BI Bekerja dengan Excel yang Sudah Dipakai Tim Finance BI yang baik tidak menyuruh tim finance membuang Exc\""
+                                  },
+                                  {
+                                      "passage":  "Survei McKinsey Global CFO (Juli 2024) menemukan bahwa meski 98% CFO telah berinvestasi dalam alat otomasi, 41% di antaranya baru mengotomasi seperempat proses keuangan mereka atau kurang.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"Survei McKinsey Global CFO (Juli 2024) menemukan bahwa meski 98% CFO telah berinvestasi dalam alat otomasi, 41% di antar\""
+                                  },
+                                  {
+                                      "passage":  "- **Definisi KPI belum disepakati.** Bila \"margin\" berarti hal berbeda bagi finance dan sales, mempercepat tampilannya tidak menyelesaikan perselisihan, justru memperkerasnya.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"- **Definisi KPI belum disepakati.** Bila  margin  berarti hal berbeda bagi finance dan sales, mempercepat tampilannya t\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

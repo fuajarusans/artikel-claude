@@ -1,0 +1,83 @@
+{
+  "brief_id": "gasku-03",
+  "article_title_id": "Kapan Kendaraan & Armada Anda BELUM Cocok Pakai BBG (Jujur)",
+  "language": "id",
+  "image_count": 3,
+  "planned_at": "2026-06-09",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "mid-body — setelah paragraf pengantar H2 pertama ('BBG Memang Hemat, Tapi Tidak untuk Semua Kendaraan'), sebelum H2 kedua",
+      "concept_from_writer": "Infografis checklist '5 Tanda Kendaraan Anda BELUM Cocok Pakai BBG' bergaya flowchart yes/no yang mudah dipindai — lima kotak: pemakaian harian rendah, rute tanpa SPBG, kendaraan tua/mesin kurang prima, butuh bagasi penuh, garansi pabrikan masih aktif. Warna oranye untuk 'pertimbangkan tunda' dan hijau untuk 'lanjut evaluasi'. Teks Bahasa Indonesia, gaya korporat bersih.",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Lima kriteria berbasis teks yang perlu dipindai cepat — checklist bergaya infografis jauh lebih efektif dari foto; sesuai kaidah featured-snippet dan mudah dibagikan.",
+      "visual_direction": "Infografis vertikal dengan judul besar di bagian atas: 'Apakah Kendaraan Anda Belum Cocok Pakai BBG?' — huruf tebal, latar biru profesional tua (#1A3A5C atau setara PGN biru). Di bawah judul terdapat lima baris checklist, masing-masing berupa kotak persegi panjang dengan ikon kecil di sisi kiri, label teks di tengah, dan tanda status di sisi kanan. Urutan baris dari atas ke bawah: (1) ikon odometer/jalan — 'Pemakaian harian rendah (<80–100 km/hari)'; (2) ikon peta/penanda lokasi — 'Rute jauh dari SPBG atau tidak ada SPBG'; (3) ikon kunci-inggris/mesin — 'Kendaraan tua atau kondisi mesin kurang prima'; (4) ikon koper/bagasi — 'Membutuhkan kapasitas bagasi penuh'; (5) ikon dokumen/perisai — 'Garansi pabrikan masih aktif'. Setiap kotak yang terpenuhi diberi label sudut kanan: teks 'Pertimbangkan tunda' dengan warna oranye hangat (#E87722 atau setara) dan ikon tanda seru. Di bagian paling bawah, satu baris catatan kecil: 'Satu faktor dominan sudah cukup alasan untuk menunda konversi.' Latar keseluruhan putih bersih dengan garis pemisah tipis abu-abu. Judul dan label menggunakan tipografi sans-serif bersih (Montserrat atau Inter). Tidak ada foto; tidak ada ilustrasi kendaraan nyata; murni ikon flat dan tipografi.",
+      "in_image_text_id": [
+        "Apakah Kendaraan Anda Belum Cocok Pakai BBG?",
+        "Pemakaian harian rendah (<80–100 km/hari)",
+        "Rute jauh dari SPBG atau tidak ada SPBG",
+        "Kendaraan tua atau kondisi mesin kurang prima",
+        "Membutuhkan kapasitas bagasi penuh",
+        "Garansi pabrikan masih aktif",
+        "Pertimbangkan tunda",
+        "Satu faktor dominan sudah cukup alasan untuk menunda konversi."
+      ],
+      "alt_id": "Checklist infografis 5 tanda kendaraan belum cocok BBG: pemakaian rendah, jauh SPBG, mesin tua, bagasi penuh, garansi aktif",
+      "caption_id": "Lima kondisi yang menjadi alasan menunda konversi BBG — memenuhi satu faktor saja sudah cukup untuk tidak terburu-buru. Biaya converter kit Rp 14–25 juta baru sepadan jika profil pemakaian mendukung.",
+      "sourcing_note": "Aset orisinil desainer — tidak ada foto fasilitas atau branding PGN Gagas yang dibutuhkan. Desain murni ikon flat + tipografi. Gunakan ikon dari pustaka ikon bebas-royalti (Noun Project, Material Icons) untuk odometer, penanda peta, kunci-inggris, koper, dan dokumen/perisai.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "mid-body — setelah tabel profil 'Cocok vs Belum Cocok', sebelum H2 'Trade-off yang Nyata vs Ketakutan yang Berlebihan'",
+      "concept_from_writer": "Ilustrasi kontras dua kolom 'Cocok vs Belum Tentu Cocok' — kiri menampilkan ikon sopir online/taksi intensif di kota dengan ikon SPBG terdekat dan label 'Cocok'; kanan menampilkan ikon kendaraan pribadi dengan ikon kalender akhir pekan dan SPBG jauh, label 'Belum tentu'. Gaya flat, ikon kendaraan + SPBG + kalender/jarak, palet hijau-oranye, teks Bahasa Indonesia, ramah dibagikan via WhatsApp.",
+      "suggested_asset_type": "illustration",
+      "asset_type_rationale": "Konsep perbandingan dua profil pengguna yang bersifat tipikal — lebih tepat divisualisasikan sebagai ilustrasi ikon flat daripada foto stok karena tidak ada satu subjek nyata yang mewakili keduanya; juga lebih ringkas dan share-friendly untuk WhatsApp/media sosial.",
+      "visual_direction": "Ilustrasi dua kolom berdampingan dengan garis pemisah vertikal di tengah. Latar: putih bersih. Lebar sama antara kolom kiri dan kanan. KOLOM KIRI — header: 'Profil Cocok' dengan latar strip hijau energi (#2D8A4E atau setara). Di dalam kolom: ikon mobil sedan (gaya flat, biru) mengarah ke kanan, di bawahnya ikon pompa SPBG berwarna hijau bertulisan 'SPBG' dengan garis pendek penghubung ke ikon mobil (jarak dekat, jarak digambarkan dengan tanda panah pendek). Di bawahnya, tiga baris teks kecil dengan tanda centang hijau: 'Pemakaian 200–300 km/hari', 'SPBG dalam rute', 'Kendaraan sehat, garansi habis'. Di bagian bawah kolom, label besar: 'Layak Dievaluasi' dengan latar hijau muda. KOLOM KANAN — header: 'Profil Belum Tentu' dengan latar strip oranye (#E87722 atau setara). Di dalam kolom: ikon kendaraan keluarga/SUV (gaya flat, abu-abu), di bawahnya ikon kalender kecil bertulisan 'Akhir Pekan' dan ikon peta dengan penanda SPBG jauh (garis putus-putus panjang dari ikon mobil ke ikon SPBG, menunjukkan jarak jauh). Di bawahnya, tiga baris teks kecil dengan ikon tanda seru oranye: 'Pemakaian 30–60 km/hari', 'SPBG jauh dari rute', 'Payback >2 tahun'. Di bagian bawah kolom, label besar: 'Pertimbangkan Tunda' dengan latar oranye muda. Seluruh teks menggunakan Bahasa Indonesia, tipografi sans-serif bersih. Di bagian bawah seluruh ilustrasi, satu baris catatan kecil: 'Sumber: ilustrasi berdasarkan profil pemakaian dan ketersediaan SPBG.' Tidak menggunakan foto kendaraan nyata atau foto SPBG sungguhan — murni ikon flat.",
+      "in_image_text_id": [
+        "Profil Cocok",
+        "Profil Belum Tentu",
+        "SPBG",
+        "Akhir Pekan",
+        "Pemakaian 200–300 km/hari",
+        "SPBG dalam rute",
+        "Kendaraan sehat, garansi habis",
+        "Layak Dievaluasi",
+        "Pemakaian 30–60 km/hari",
+        "SPBG jauh dari rute",
+        "Payback >2 tahun",
+        "Pertimbangkan Tunda",
+        "Sumber: ilustrasi berdasarkan profil pemakaian dan ketersediaan SPBG."
+      ],
+      "alt_id": "Ilustrasi dua profil konversi BBG: sopir harian kota ber-SPBG layak; kendaraan akhir pekan jauh SPBG belum cocok",
+      "caption_id": "Dua profil yang mencerminkan ujung spektrum kelayakan konversi BBG. Sopir intensif beroperasi di kota ber-SPBG hampir selalu layak; kendaraan akhir pekan dengan rute tanpa jaminan SPBG sebaliknya.",
+      "sourcing_note": "Aset orisinil desainer — tidak ada foto fasilitas atau branding PGN Gagas yang dibutuhkan; tidak boleh merekayasa tampilan SPBG sungguhan. Gunakan ikon flat kendaraan dan penanda lokasi dari pustaka bebas-royalti. Catatan: JANGAN membuat ilustrasi yang menampilkan peta wilayah cakupan SPBG secara konkret — fakta 14 SPBG di 7 provinsi disebut di teks artikel; ilustrasi ini hanya menggambarkan profil pengguna secara tipikal.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_03",
+      "position": "mid-body — di dalam H2 'Trade-off yang Nyata vs Ketakutan yang Berlebihan', setelah paragraf penjelasan teknis trade-off dan keselamatan",
+      "concept_from_writer": "Diagram dua kolom 'Trade-off Nyata vs Ketakutan Berlebihan' — kolom kiri (tanda seru oranye): tenaga turun ~10–15%, bagasi tersita, biaya awal converter kit, perlu cek SPBG; kolom kanan (silang merah): 'tabung pasti meledak', 'BBG lebih berbahaya dari bensin'. Desain bersih, ikon kontras, teks Bahasa Indonesia, mudah dibaca cepat.",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Pemisahan faktual antara trade-off yang terverifikasi dan ketakutan yang berlebihan adalah inti klaim editorial artikel — infografis dua kolom menyampaikan ini jauh lebih efektif dan dapat dipindai daripada foto atau stock art.",
+      "visual_direction": "Infografis dua kolom berdampingan dengan judul utama di atas: 'Trade-off Nyata vs Ketakutan Berlebihan' — huruf tebal, latar biru profesional tua (#1A3A5C). KOLOM KIRI — header berlatar oranye (#E87722): 'Trade-off Nyata — Perlu Diperhitungkan' dengan ikon tanda seru putih. Empat baris item, masing-masing diawali ikon tanda seru kecil oranye: Baris 1: 'Tenaga mesin turun ~10–15% (bisa hingga ~20% saat beban penuh)'; Baris 2: 'Ruang bagasi berkurang karena tabung CNG'; Baris 3: 'Biaya awal converter kit Rp 14–25 juta'; Baris 4: 'Perlu cek ketersediaan SPBG di rute dulu'. Setiap baris teks item berwarna hitam/abu gelap pada latar putih, dengan garis pemisah tipis. KOLOM KANAN — header berlatar merah bata (#C0392B): 'Ketakutan Berlebihan — Tidak Proporsional' dengan ikon silang putih. Dua baris item, masing-masing diawali ikon silang merah: Baris 1: 'Tabung CNG pasti meledak — CNG butuh suhu ~540°C untuk menyala, tabung lolos uji impact & bonfire'; Baris 2: 'BBG lebih berbahaya dari bensin — CNG lebih ringan dari udara, tidak menggenang saat bocor'. Di bagian paling bawah seluruh infografis, satu catatan kecil dalam font lebih kecil: '*Berlaku jika instalasi dilakukan di bengkel bersertifikasi sesuai PM Kemenhub No. 39/2012.' Tidak ada foto. Tidak ada branding PGN Gagas di visual ini — ini adalah infografis edukasi faktual. Tipografi sans-serif bersih, rasio kolom 55:45 (kiri sedikit lebih lebar karena 4 item vs 2 item).",
+      "in_image_text_id": [
+        "Trade-off Nyata vs Ketakutan Berlebihan",
+        "Trade-off Nyata — Perlu Diperhitungkan",
+        "Tenaga mesin turun ~10–15% (bisa hingga ~20% saat beban penuh)",
+        "Ruang bagasi berkurang karena tabung CNG",
+        "Biaya awal converter kit Rp 14–25 juta",
+        "Perlu cek ketersediaan SPBG di rute dulu",
+        "Ketakutan Berlebihan — Tidak Proporsional",
+        "\"Tabung CNG pasti meledak\" — CNG butuh suhu ~540°C untuk menyala, tabung lolos uji impact & bonfire",
+        "\"BBG lebih berbahaya dari bensin\" — CNG lebih ringan dari udara, tidak menggenang saat bocor",
+        "*Berlaku jika instalasi dilakukan di bengkel bersertifikasi sesuai PM Kemenhub No. 39/2012."
+      ],
+      "alt_id": "Infografis trade-off nyata BBG vs mitos: tenaga turun 10–15% dan bagasi tersita fakta; tabung meledak sembarangan berlebihan",
+      "caption_id": "Memisahkan fakta dari mitos penting sebelum memutuskan konversi. Penurunan tenaga ~10–15% dan ruang bagasi yang berkurang adalah trade-off nyata; kekhawatiran tabung meledak sembarangan tidak proporsional dengan standar keselamatan CNG yang berlaku.",
+      "sourcing_note": "Aset orisinil desainer — tidak ada foto fasilitas atau branding PGN Gagas yang dibutuhkan. Angka dalam teks-gambar harus akurat sesuai dossier (10–15% penurunan tenaga dari ScienceDirect 2026; Rp 14–25 juta dari CNBC Maret 2024; 540°C dari Ditjen Migas ESDM). Jangan mengubah angka tanpa konfirmasi ke penulis artikel.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "brief_id": "erp-migration-to-the-cloud-03",
+  "article_title_id": "Biaya Migrasi ERP ke Cloud: TCO, Komponen Biaya, dan Kapan BEP Tercapai",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-02",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Infografik garis dua skenario TCO 5 tahun — garis \"On-Premise ECC\" (oranye) naik signifikan tahun 2–3 karena extended maintenance dan hardware refresh; garis \"Cloud RISE/GROW\" (biru) tinggi di tahun 0–1 lalu stabil, dengan titik persilangan berlabel \"Break-Even Point\"; aksis Y berupa unit relatif (indeks biaya kumulatif), aksis X berupa tahun 0–5; latar putih, teks Bahasa Indonesia, gaya korporat bersih",
+      "suggested_asset_type": "chart",
+      "asset_type_rationale": "Dua garis bersilang dengan titik persilangan berlabel adalah format grafik garis yang paling langsung menjawab pertanyaan CFO 'kapan cloud lebih murah?' — lebih tepat dari infografik teks dan lebih informatif dari stok foto.",
+      "visual_direction": "Grafik garis dua skenario dengan latar putih bersih, ukuran lanskap (16:9). Aksis X horizontal berlabel 'Tahun 0' hingga 'Tahun 5', aksis Y vertikal berlabel 'Biaya Kumulatif (Indeks Relatif)' — tidak ada angka absolut. Garis 1: 'On-Premise (SAP ECC)' — warna oranye (#E8702A), dimulai sedang di Tahun 0, naik landai di Tahun 1, kemudian melompat tajam di Tahun 2–3 disertai label anotasi kecil 'Extended Maintenance + Hardware Refresh'. Garis 2: 'Cloud (RISE/GROW)' — warna biru korporat (#1A5FA8), dimulai tinggi di Tahun 0–1 (label 'Investasi Implementasi'), lalu stabil dan datar hingga Tahun 5. Titik persilangan kedua garis ditandai dengan lingkaran putih bertepi biru, berlabel teks bold 'Break-Even Point (~Tahun 3–4)' dengan panah kecil mengarah ke titik. Area di bawah garis Cloud setelah titik persilangan diarsir biru muda transparan, bertuliskan 'Cloud Lebih Hemat'. Tipografi: sans-serif modern (seperti Inter atau Nunito); judul grafik di atas: 'Perbandingan TCO 5 Tahun: On-Premise vs Cloud ERP'. Catatan kecil di pojok kiri bawah: 'Ilustrasi logika kalkulasi. Angka aktual bergantung pada profil dan scope perusahaan.' Logo Soltius tidak disertakan dalam grafik. Palet keseluruhan: putih, biru (#1A5FA8), oranye (#E8702A), abu-abu muda (#F5F5F5) untuk background grid. Grid horizontal tipis abu-abu muda.",
+      "in_image_text_id": [
+        "Perbandingan TCO 5 Tahun: On-Premise vs Cloud ERP",
+        "Biaya Kumulatif (Indeks Relatif)",
+        "Tahun 0",
+        "Tahun 1",
+        "Tahun 2",
+        "Tahun 3",
+        "Tahun 4",
+        "Tahun 5",
+        "On-Premise (SAP ECC)",
+        "Cloud (RISE/GROW)",
+        "Investasi Implementasi",
+        "Extended Maintenance + Hardware Refresh",
+        "Break-Even Point (~Tahun 3–4)",
+        "Cloud Lebih Hemat",
+        "Ilustrasi logika kalkulasi. Angka aktual bergantung pada profil dan scope perusahaan."
+      ],
+      "alt_id": "Grafik perbandingan TCO 5 tahun migrasi ERP ke cloud versus on-premise, menunjukkan titik break-even antara RISE/GROW dengan SAP ECC",
+      "caption_id": "Perbandingan biaya kumulatif 5 tahun antara mempertahankan SAP ECC dan migrasi ke cloud (RISE/GROW with SAP). Garis Cloud dimulai lebih tinggi karena investasi implementasi, tetapi menyilang garis On-Premise di kisaran tahun ke-3 hingga ke-4 — titik di mana cloud mulai lebih hemat secara kumulatif.",
+      "sourcing_note": "Grafik buatan sendiri berdasarkan data ilustratif (tidak memerlukan screenshot SAP). Desainer membuat grafik garis dengan alat desain (Figma, Illustrator, atau Power BI embedded). Data titik plot (indeks relatif, bukan angka absolut) dapat diturunkan dari Tabel 3 di dossier artikel. Tidak diperlukan aset dari SAP.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body — sebelum H2 'Biaya Tersembunyi yang Paling Sering Membuat Proyek Membengkak'",
+      "concept_from_writer": "Infografis horizontal stacked bar komponen biaya TCO migrasi ERP ke cloud — tujuh segmen berwarna berbeda (lisensi: biru; implementasi: navy; data migration: teal; pelatihan: hijau; integrasi: abu; AMS: oranye; contingency: merah muda), segmen \"biaya tersembunyi\" (data migration + integrasi + contingency) diblok dengan outline merah putus-putus dan label \"Sering Tidak Dianggarkan\"; teks Bahasa Indonesia; gaya infografis korporat modern",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Stacked bar horizontal dengan segmen berlabel adalah format paling efisien untuk menampilkan proporsi relatif tujuh komponen biaya sekaligus menyoroti kelompok 'biaya tersembunyi' — format infografik, bukan grafik data mentah, karena proporsinya ilustratif dan pesan utamanya adalah kualitatif.",
+      "visual_direction": "Infografis horizontal berukuran lebar (lanskap 16:9 atau 16:6 untuk format banner). Satu batang horizontal penuh membentang dari kiri ke kanan, dibagi menjadi tujuh segmen proporsional. Urutan segmen kiri ke kanan dengan warna dan proporsi perkiraan: (1) Lisensi Cloud — biru (#1A5FA8), ~18%; (2) Implementasi & Konsultasi — navy (#0D3B6E), ~28%; (3) Migrasi & Pembersihan Data — teal (#1A8FA8), ~18%; (4) Pelatihan & Change Management — hijau (#2A8C4A), ~8%; (5) Integrasi Sistem Non-SAP — abu-abu (#7A8FA0), ~12%; (6) AMS Pasca Go-Live — oranye (#E8702A), ~10%; (7) Contingency — merah muda (#D95B8A), ~6%. Di atas setiap segmen terdapat label singkat dalam teks hitam atau putih tergantung kecerahan segmen. Di bawah batang, tiga segmen (3, 5, 7 — Migrasi Data, Integrasi, Contingency) dihubungkan dengan bingkai outline merah putus-putus (#D93535, stroke 2px dashed) yang mengelilingi ketiga segmen tersebut secara bersama, dengan label teks bold merah di bawah bingkai: 'Sering Tidak Dianggarkan dalam Proposal Awal'. Judul infografis di bagian atas: 'Komponen Biaya TCO Migrasi ERP ke Cloud'. Catatan kecil di bawah: 'Proporsi ilustratif — angka aktual bergantung pada scope dan kompleksitas proyek.' Legenda warna ditempatkan di bawah batang (dua baris, teks kecil). Latar: putih bersih. Tipografi: sans-serif modern konsisten dengan gaya korporat Soltius.",
+      "in_image_text_id": [
+        "Komponen Biaya TCO Migrasi ERP ke Cloud",
+        "Lisensi Cloud",
+        "Implementasi & Konsultasi",
+        "Migrasi & Pembersihan Data",
+        "Pelatihan & Change Management",
+        "Integrasi Sistem Non-SAP",
+        "AMS Pasca Go-Live",
+        "Contingency",
+        "Sering Tidak Dianggarkan dalam Proposal Awal",
+        "Proporsi ilustratif — angka aktual bergantung pada scope dan kompleksitas proyek."
+      ],
+      "alt_id": "Infografis stacked bar tujuh komponen biaya TCO migrasi ERP ke cloud, menyoroti biaya tersembunyi yang sering tidak dianggarkan",
+      "caption_id": "Tujuh kelompok komponen biaya dalam TCO migrasi ERP ke cloud. Tiga komponen yang diblok merah — migrasi dan pembersihan data, integrasi sistem non-SAP, serta contingency — adalah yang paling sering absen dari proposal awal, dan paling sering menjadi penyebab proyek melebihi anggaran.",
+      "sourcing_note": "Infografis buatan sendiri berdasarkan proporsi ilustratif (tidak ada data aktual yang perlu dikutip dari sumber luar). Desainer membuat di Figma atau Illustrator. Proporsi segmen dapat disesuaikan dengan rentang persentase di dossier: implementasi terbesar (~28%), diikuti lisensi dan migrasi data. Tidak memerlukan screenshot atau aset dari SAP.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

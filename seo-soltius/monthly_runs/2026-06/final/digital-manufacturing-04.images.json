@@ -1,0 +1,63 @@
+{
+  "brief_id": "digital-manufacturing-04",
+  "article_title_id": "Predictive Maintenance dan OEE: Dua Pilar Pabrik Pintar Berbasis Data",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-02",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Infografik segitiga atau lingkaran OEE tiga komponen — Availability, Performance, Quality — dengan contoh angka kalkulasi (90% × 95% × 99% = 84,6%) dan label \"World-Class ≥85%\", gaya infografis korporat biru-putih-hijau, teks Bahasa Indonesia",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Infografik teks-forward paling efektif untuk menyajikan rumus OEE dan tiga komponen sekaligus — memungkinkan pembaca memahami kalkulasi dalam satu pandang tanpa perlu membaca paragraf panjang.",
+      "visual_direction": "Infografik berbentuk lingkaran besar di tengah bertuliskan 'OEE = 84,6%' (angka menonjol, putih di atas latar biru tua). Di sekeliling lingkaran utama, tiga segmen melengkung (arc) masing-masing mewakili satu komponen: (1) segmen kiri biru muda — 'Availability 90%' dengan ikon jam/waktu; (2) segmen atas hijau teal — 'Performance 95%' dengan ikon tachometer/speedometer; (3) segmen kanan biru sedang — 'Quality 99%' dengan ikon centang produk. Di bawah setiap segmen, tulisan kecil menjelaskan definisi singkat: 'Waktu Operasi / Waktu Terencana', 'Kecepatan Aktual / Kecepatan Ideal', 'Produk Tanpa Cacat / Total Produk'. Di bawah diagram utama, banner horizontal biru gelap bertuliskan 'Target World-Class ≥ 85% — Dicapai oleh ~10% Pabrik Dunia'. Sudut kanan bawah: sumber kecil 'Sumber: Evocon, MESA International'. Latar belakang putih bersih. Font sans-serif modern. Palet: biru tua (#1A3E6C), biru muda (#4A8DC8), hijau teal (#2DA89A), putih (#FFFFFF). Tidak ada gambar dekoratif — murni tipografi dan bentuk geometris.",
+      "in_image_text_id": [
+        "OEE = 84,6%",
+        "Availability 90%",
+        "Waktu Operasi / Waktu Terencana",
+        "Performance 95%",
+        "Kecepatan Aktual / Kecepatan Ideal",
+        "Quality 99%",
+        "Produk Tanpa Cacat / Total Produk",
+        "Target World-Class ≥ 85%",
+        "Dicapai oleh ~10% Pabrik Dunia",
+        "Sumber: Evocon, MESA International"
+      ],
+      "alt_id": "Infografik OEE: Availability × Performance × Quality = 84,6% — target world-class pabrik digital manufacturing ≥85%",
+      "caption_id": "OEE (Overall Equipment Effectiveness) dihitung dari tiga komponen: Availability, Performance, dan Quality. Nilai 85% ke atas dianggap world-class dan hanya dicapai sekitar 10% pabrik di dunia; rata-rata industri global berada di kisaran 55–65% (Evocon, 50+ negara).",
+      "sourcing_note": "Infografik orisinal — tidak membutuhkan screenshot SAP. Data visualisasi bersumber dari Evocon dan MESA International (sudah dikutip dalam artikel). Tim desain membuat dari nol menggunakan spesifikasi di atas.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body",
+      "concept_from_writer": "Flow diagram horizontal dari kiri ke kanan — Sensor IoT (ikon sensor) → Edge Computing → Cloud Analytics (SAP DM) → Anomali Terdeteksi → Auto Work Order (SAP PM) → Eksekusi Maintenance → Update OEE — dengan panah penghubung dan label singkat di tiap tahap, gaya diagram teknis korporat biru-abu, teks Bahasa Indonesia",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Diagram alur arsitektur paling tepat untuk menggambarkan pipeline end-to-end predictive maintenance — menunjukkan urutan dan hubungan antar lapisan teknologi yang sulit dijelaskan hanya dengan teks.",
+      "visual_direction": "Diagram alur horizontal tujuh tahap, dibaca dari kiri ke kanan. Setiap tahap berupa kotak rounded-rectangle berukuran seragam, dihubungkan panah tebal ke kanan. Layout satu baris lurus di atas latar putih. Detail tiap kotak: (1) 'Sensor IoT' — latar biru muda, ikon gelombang sensor/mesin; sub-teks kecil: 'Getaran · Suhu · Tekanan'; (2) 'Edge Computing' — latar abu-abu biru, ikon chip/prosesor; sub-teks: 'Pra-proses data, deteksi anomali awal'; (3) 'Cloud Analytics (SAP DM)' — latar biru tua, ikon awan + grafik; sub-teks: 'Analisis pola, model ML'; (4) 'Anomali Terdeteksi' — latar oranye peringatan (#E87722), ikon peringatan segitiga; sub-teks: 'Alert real-time'; (5) 'Auto Work Order (SAP PM)' — latar biru tua, ikon dokumen + centang; sub-teks: 'Work order otomatis'; (6) 'Eksekusi Maintenance' — latar biru muda, ikon kunci inggris/teknisi; sub-teks: 'Tindakan pemeliharaan'; (7) 'Update OEE' — latar hijau teal, ikon grafik naik; sub-teks: 'OEE diperbarui, model diperbaiki'. Di bawah diagram, teks kecil: 'Loop tertutup: setiap tindakan maintenance memperbarui model prediksi untuk akurasi yang terus meningkat'. Di sudut kanan bawah logo/teks kecil Soltius (opsional). Palet: biru tua (#1A3E6C), biru muda (#4A8DC8), abu-abu biru (#8FA3B3), oranye peringatan (#E87722), hijau teal (#2DA89A), putih (#FFFFFF). Font sans-serif, konsisten dengan IMAGE_01.",
+      "in_image_text_id": [
+        "Sensor IoT",
+        "Getaran · Suhu · Tekanan",
+        "Edge Computing",
+        "Pra-proses data, deteksi anomali awal",
+        "Cloud Analytics (SAP DM)",
+        "Analisis pola, model ML",
+        "Anomali Terdeteksi",
+        "Alert real-time",
+        "Auto Work Order (SAP PM)",
+        "Work order otomatis",
+        "Eksekusi Maintenance",
+        "Tindakan pemeliharaan",
+        "Update OEE",
+        "OEE diperbarui, model diperbaiki",
+        "Loop tertutup: setiap tindakan maintenance memperbarui model prediksi untuk akurasi yang terus meningkat"
+      ],
+      "alt_id": "Diagram alur predictive maintenance: sensor IoT, edge computing, SAP DM, anomali terdeteksi, work order SAP PM, update OEE",
+      "caption_id": "Arsitektur predictive maintenance yang fungsional terdiri dari tujuh lapisan berurutan — mulai dari sensor IoT di lantai produksi hingga pembaruan OEE pasca-maintenance. Integrasi antara SAP Digital Manufacturing (deteksi anomali) dan SAP Plant Maintenance (eksekusi work order) menutup loop data-ke-tindakan secara otomatis.",
+      "sourcing_note": "Diagram orisinal — tidak membutuhkan screenshot SAP. Ini adalah diagram arsitektur konseptual, bukan tangkapan layar UI SAP. Tim desain membuat dari nol menggunakan spesifikasi di atas. Jika diinginkan referensi visual gaya SAP, lihat dokumen arsitektur publik di help.sap.com/docs/sap-digital-manufacturing — namun jangan mereplikasi atau memalsukan tampilan UI resmi SAP.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

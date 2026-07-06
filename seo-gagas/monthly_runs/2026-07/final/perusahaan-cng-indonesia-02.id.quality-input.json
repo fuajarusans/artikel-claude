@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07\\final\\perusahaan-cng-indonesia-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-09T15:41:34+07:00",
+    "word_count":  1600,
+    "paragraph_count":  18,
+    "sentence_count":  87,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.5,
+                        "sentence_burstiness":  0.839,
+                        "top30_vocab_share":  0.315,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "# Layanan Penyedia CNG: Pasokan, Distribusi GTM, hingga Dukungan Teknis Banyak calon pelanggan menandatangani kontrak gas dengan satu asumsi keliru: berlangganan CNG sama dengan membeli gas dalam tabung.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"# Layanan Penyedia CNG: Pasokan, Distribusi GTM, hingga Dukungan Teknis Banyak calon pelanggan menandatangani kontrak ga\""
+                                  },
+                                  {
+                                      "passage":  "## Kesimpulan Memilih penyedia CNG bukan soal siapa menjual gas termurah, melainkan siapa yang menanggung seluruh rantai layanan ketika produksi Anda bergantung padanya.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Kesimpulan Memilih penyedia CNG bukan soal siapa menjual gas termurah, melainkan siapa yang menanggung seluruh rantai\""
+                                  },
+                                  {
+                                      "passage":  "- **\"Layanan 24 jam\" tanpa standar terukur.** Klaim tersedia 24 jam terdengar meyakinkan, tetapi tanpa definisi waktu tanggap dan cakupan wilayah, ia hanya nomor telepon yang berdering.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"- ** Layanan 24 jam  tanpa standar terukur.** Klaim tersedia 24 jam terdengar meyakinkan, tetapi tanpa definisi waktu ta\""
+                                  },
+                                  {
+                                      "passage":  "Tanpa GTM cadangan atau Mother Station alternatif, satu keterlambatan bisa menghentikan produksi.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Tanpa GTM cadangan atau Mother Station alternatif, satu keterlambatan bisa menghentikan produksi.\""
+                                  },
+                                  {
+                                      "passage":  "## Tanda Layanan yang \"Tampak Lengkap\" tapi Tipis di Lapangan Brosur mudah terlihat lengkap; lapangan yang menguji.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"## Tanda Layanan yang  Tampak Lengkap  tapi Tipis di Lapangan Brosur mudah terlihat lengkap; lapangan yang menguji.\""
+                                  },
+                                  {
+                                      "passage":  "- **Pemantauan dan penagihan.** Pencatatan volume serta tekanan, idealnya lewat telemetri, agar tagihan berbasis pemakaian nyata.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"- **Pemantauan dan penagihan.** Pencatatan volume serta tekanan, idealnya lewat telemetri, agar tagihan berbasis pemakai\""
+                                  },
+                                  {
+                                      "passage":  "Pembagian persisnya bisa berbeda antarpenyedia, jadi jadikan tabel berikut sebagai daftar periksa pertanyaan, bukan ketentuan baku.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Pembagian persisnya bisa berbeda antarpenyedia, jadi jadikan tabel berikut sebagai daftar periksa pertanyaan, bukan kete\""
+                                  },
+                                  {
+                                      "passage":  "Pada model \"jual gas saja\", ketiganya bisa jadi biaya terpisah, sumber kejutan biaya tersembunyi.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Pada model  jual gas saja , ketiganya bisa jadi biaya terpisah, sumber kejutan biaya tersembunyi.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

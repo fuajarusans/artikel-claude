@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "C:\\Users\\seo\\Documents\\seo-stp\\monthly_runs\\2026-05\\final\\keramba-jaring-apung-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-05-26T15:17:01+07:00",
+    "word_count":  2718,
+    "paragraph_count":  38,
+    "sentence_count":  121,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.533,
+                        "sentence_burstiness":  1.223,
+                        "top30_vocab_share":  0.243,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "**Fase benih (1–5 g, 2–3 minggu)**: pakan crumble berprotein 40% seperti PA GOLD, frekuensi 4–6 kali sehari, untuk mendukung pembentukan jaringan awal.",
+                                      "candidate_score":  33,
+                                      "web_search_query":  "\"**Fase benih (1–5 g, 2–3 minggu)**: pakan crumble berprotein 40% seperti PA GOLD, frekuensi 4–6 kali sehari, untuk mendu\""
+                                  },
+                                  {
+                                      "passage":  "Untuk skala 4 lubang 4×4×3 m (volume efektif ~48 m³ per kantong), tebar awal 2.000–2.500 ekor per lubang sudah memadai.",
+                                      "candidate_score":  31,
+                                      "web_search_query":  "\"Untuk skala 4 lubang 4×4×3 m (volume efektif ~48 m³ per kantong), tebar awal 2.000–2.500 ekor per lubang sudah memadai.\""
+                                  },
+                                  {
+                                      "passage":  "**Fase pembesaran (30–200 g, 2–3 bulan)**: pakan pellet extruder (terapung) berprotein 26% seperti STP SPF Extruder.",
+                                      "candidate_score":  31,
+                                      "web_search_query":  "\"**Fase pembesaran (30–200 g, 2–3 bulan)**: pakan pellet extruder (terapung) berprotein 26% seperti STP SPF Extruder.\""
+                                  },
+                                  {
+                                      "passage":  "## Studi Kasus: Proyeksi Laba-Rugi KJA Nila 4 Lubang Selama Satu Tahun Banyak kalkulator bisnis KJA yang beredar memberi angka profit tunggal yang terkesan menggiurkan.",
+                                      "candidate_score":  27,
+                                      "web_search_query":  "\"## Studi Kasus: Proyeksi Laba-Rugi KJA Nila 4 Lubang Selama Satu Tahun Banyak kalkulator bisnis KJA yang beredar memberi\""
+                                  },
+                                  {
+                                      "passage":  "Kasus Maninjau Desember 2025 (1.428,73 ton, Rp 32,86 miliar) menunjukkan upwelling adalah risiko berulang, bukan kejadian sekali waktu.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"Kasus Maninjau Desember 2025 (1.428,73 ton, Rp 32,86 miliar) menunjukkan upwelling adalah risiko berulang, bukan kejadia\""
+                                  },
+                                  {
+                                      "passage":  "Berikut tiga skenario yang lebih jujur, dengan asumsi sama: 4 lubang × 2.500 ekor (total 10.000 ekor/siklus), survival rate 80–90%, dua siklus per tahun, FCR 1,5–1,7.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Berikut tiga skenario yang lebih jujur, dengan asumsi sama: 4 lubang × 2.500 ekor (total 10.000 ekor/siklus), survival r\""
+                                  },
+                                  {
+                                      "passage":  "**Fase pendederan ke grower (5–30 g, 3–5 minggu)**: pakan pellet kecil berprotein 32% seperti STP NGA 10, mempercepat pertumbuhan sebelum dipindah ke kantong pembesaran.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"**Fase pendederan ke grower (5–30 g, 3–5 minggu)**: pakan pellet kecil berprotein 32% seperti STP NGA 10, mempercepat pe\""
+                                  },
+                                  {
+                                      "passage":  "Pada 2023, 1.710 KJA dibongkar di Saguling dan 2.179 di Jatiluhur; pemerintah masih menargetkan pembongkaran 10.000 KJA tambahan di Jatiluhur.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Pada 2023, 1.710 KJA dibongkar di Saguling dan 2.179 di Jatiluhur; pemerintah masih menargetkan pembongkaran 10.000 KJA \""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

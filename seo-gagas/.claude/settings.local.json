@@ -1,0 +1,39 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch",
+      "Bash(python tools/count_words.py monthly_runs/2026-07/drafts/gaslink-02.id.md)",
+      "Bash(python tools/count_words.py monthly_runs/2026-07/drafts/gasku-03.id.md)",
+      "Bash(python tools/count_words.py monthly_runs/2026-07/drafts/gaslink-03.id.md)",
+      "Bash(python tools/count_words.py monthly_runs/2026-07/drafts/gasku-02.id.md)",
+      "Bash(powershell -ExecutionPolicy Bypass -Command ' *)",
+      "Bash(powershell -Command ' *)",
+      "Bash(python3 -)",
+      "Bash(python tools/count_words.py monthly_runs/2026-07/drafts/cng-indonesia-02.id.md)",
+      "Bash(python tools/count_words.py monthly_runs/2026-07/drafts/cng-indonesia-03.id.md)",
+      "Bash(python tools/count_words.py monthly_runs/2026-07/drafts/cng-indonesia-04.id.md)",
+      "Bash(python tools/count_words.py monthly_runs/2026-07/drafts/perusahaan-cng-indonesia-03.id.md)",
+      "Bash(python tools/count_words.py monthly_runs/2026-07/drafts/cng-indonesia-01.id.md)",
+      "Bash(python tools/count_words.py monthly_runs/2026-07/drafts/perusahaan-cng-indonesia-01.id.md)",
+      "Bash(python -c ' *)",
+      "Bash(powershell.exe -Command \"Get-ChildItem 'monthly_runs\\\\2026-07\\\\final' -Filter '*.qc.md' | Select-Object -ExpandProperty Name\")",
+      "Bash(powershell.exe -Command \"Get-Content 'monthly_runs\\\\2026-07\\\\final\\\\cng-indonesia-01.id.md' -Head 30\")",
+      "Bash(powershell.exe -Command \"New-Item -ItemType Directory -Path 'articles_history\\\\by_keyword\\\\cng-indonesia' -Force | Out-Null; New-Item -ItemType Directory -Path 'articles_history\\\\by_keyword\\\\perusahaan-cng-indonesia' -Force | Out-Null; Write-Host 'Directories created.'\")",
+      "Bash(powershell.exe -ExecutionPolicy Bypass -File \"tools/md-to-docx.ps1\" -InputPath \"monthly_runs/2026-07/final/cng-indonesia-01.id.md\")",
+      "Bash(powershell.exe -Command ' *)",
+      "Bash(python tools/count_words.py monthly_runs/2026-07/drafts/perusahaan-lng-indonesia-01.id.md)",
+      "Bash(python tools/count_words.py monthly_runs/2026-07/drafts/perusahaan-lng-indonesia-02.id.md)",
+      "Bash(python tools/count_words.py monthly_runs/2026-07/drafts/perusahaan-lng-indonesia-03.id.md)",
+      "Bash(python tools/count_words.py monthly_runs/2026-07/drafts/perusahaan-lng-indonesia-04.id.md)",
+      "Bash(python -c \"import re; b=open\\('monthly_runs/2026-07/drafts/perusahaan-lng-indonesia-01.id.md',encoding='utf-8'\\).read\\(\\); b=re.sub\\(r'^---.*?---','',b,flags=re.DOTALL\\); print\\('em-dash count:', b.count\\(chr\\(8212\\)\\)\\)\")",
+      "Bash(powershell.exe -ExecutionPolicy Bypass -File tools/md-to-docx.ps1 -InputPath \"monthly_runs/2026-07/final/perusahaan-lng-indonesia-01.id.md\")",
+      "Bash(powershell.exe -ExecutionPolicy Bypass -File tools/md-to-docx.ps1 -InputPath \"monthly_runs/2026-07/final/perusahaan-lng-indonesia-02.id.md\")",
+      "Bash(powershell.exe -ExecutionPolicy Bypass -File tools/md-to-docx.ps1 -InputPath \"monthly_runs/2026-07/final/perusahaan-lng-indonesia-03.id.md\")",
+      "Bash(powershell.exe -ExecutionPolicy Bypass -File tools/md-to-docx.ps1 -InputPath \"monthly_runs/2026-07/final/perusahaan-lng-indonesia-04.id.md\")",
+      "Bash(powershell.exe -ExecutionPolicy Bypass -File tools/md-to-docx.ps1 -InputPath \"monthly_runs/2026-07/final/perusahaan-lng-indonesia-05.id.md\")",
+      "Bash(python3 -c \"import json; f=open\\('articles_history/index.json'\\); data=json.load\\(f\\); print\\('Total articles:', len\\(data['articles']\\)\\); print\\('Last updated:', data['last_updated']\\)\")",
+      "Bash(python3 -c \"import json; f=open\\('articles_history/index.json'\\); data=json.load\\(f\\); [print\\(a['id']\\) for a in data['articles'][-5:]]\")"
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "keyword": "Gasku",
+  "keyword_slug": "gasku",
+  "month": "2026-07",
+  "captured_at": "2026-06-09",
+  "landing_page": "https://gagas.co.id/gasku/",
+  "landing_page_summary": "Hub Gasku PGN Gagas: BBG/CNG untuk transportasi (gas alam dominan metana, dikompresi ~200 bar). Klaim verbatim dari halaman: RON >120; harga Rp4.500 per Liter Setara Premium (LSP); emisi 25-35% lebih rendah; pasokan 100% domestik; sistem Bi-Fuel via Converter Kit (C-Kit) di bengkel tersertifikasi (kendaraan tetap bisa pakai bensin & gas bergantian); target: angkutan umum (bus, taksi, online), UMKM/kendaraan komersial, logistik/truk, kendaraan pribadi; manfaat: hemat & stabil, usia mesin lebih panjang (minim jelaga), pembakaran lebih sempurna, standar keselamatan tinggi; menyebut SPBG di Jakarta & sekitarnya dan Ngagel Surabaya, ekspansi jaringan; CTA form pendaftaran + 021-29071415 / info@gagas.co.id.",
+  "data_sources_used": ["live_serp (landing page gagas.co.id/gasku di-fetch segar)", "websearch (raw Google SERP BLOCKED anti-bot -> degradasi sesuai protokol)"],
+  "ahrefs_available": false,
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Branded product keyword dengan momentum naik: Gasku diperkenalkan ulang di IIMS 2024 (harga Rp4.500/LSP); PGN mengoperasikan 14 SPBG di 7 provinsi (CNBC, Nov 2025, ~2.200 kendaraan/hari); program konversi BBM->BBG pemerintah aktif (converter kit + bengkel keliling). Sinyal komersial/lingkungan menguat seiring harga BBM.",
+    "report_rank": "n/a (seo_report: none di keywords.md)"
+  },
+  "serp": {
+    "raw_google_status": "BLOCKED (anti-bot) saat WebFetch google.com/search?q=gasku&hl=id&gl=id -> degradasi ke WebSearch + landing page fetch",
+    "top_organic_via_websearch": [
+      { "url": "https://www.gagas.co.id/gasku", "title": "Gasku: Alternatif Bahan Bakar dengan Harga Ekonomis", "angle_summary": "Halaman produk resmi (hub). Definisi + spesifikasi + manfaat + form daftar." },
+      { "url": "https://otomotif.kompas.com/read/2024/02/17/112200415/pertamina-kenalkan-bbg-gasku-di-iims-2024-harga-rp-4.500-per-liter", "title": "Pertamina Kenalkan BBG GasKu di IIMS 2024, Harga Rp 4.500 per Liter", "angle_summary": "Berita peluncuran/relaunch di pameran; fokus harga; bukan explainer pengambil keputusan." },
+      { "url": "https://www.cnbcindonesia.com/news/20251106160934-4-682944/dorong-pemanfaatan-cng-pgn-operasikan-14-spbg-di-7-provinsi", "title": "Dorong Pemanfaatan CNG, PGN Operasikan 14 SPBG di 7 Provinsi", "angle_summary": "Berita: PGN/Gagas operasikan 14 SPBG di 7 provinsi, ~2.200 kendaraan/hari (Nov 2025). Sumber angka SPBG terkini." },
+      { "url": "https://www.dunia-energi.com/minat-masih-tinggi-spbg-ngagel-jaga-layanan-bbg-ke-masyarakat/", "title": "Minat Masih Tinggi, SPBG Ngagel Jaga Layanan BBG ke Masyarakat", "angle_summary": "Berita energi: permintaan BBG di SPBG Ngagel Surabaya; bukti adopsi sektor transportasi." },
+      { "url": "https://www.antaranews.com/berita/5506257/pgn-kendaraan-berbasis-cng-solusi-energi-bersih-dan-efisien", "title": "PGN: Kendaraan berbasis CNG solusi energi bersih dan efisien", "angle_summary": "PR/berita: framing CNG kendaraan = energi bersih & efisien." },
+      { "url": "https://web-pertamina.azurewebsites.net/id/news-room/news-release/pertamina-gas-negara-perkenalkan-bbg-gasku-yang-ramah-lingkungan-dan-terjangkau-di-iims-2024", "title": "Pertamina Gas Negara Perkenalkan BBG \"Gasku\" yang Ramah Lingkungan & Terjangkau di IIMS 2024", "angle_summary": "Siaran pers resmi Pertamina/PGN tentang Gasku di IIMS 2024." }
+    ],
+    "competitor_explainers": [
+      { "url": "https://www.seva.id/blog/mengapa-mobil-bbg-belum-populer-di-indonesia-ini-faktanya-bu", "title": "Mengapa Mobil BBG Belum Populer di Indonesia?", "angle_summary": "Sudut jujur/kritis tentang hambatan adopsi BBG (infrastruktur, persepsi) - relevan untuk gasku-03." },
+      { "url": "https://otomotif.kompas.com/read/2023/02/22/092200315/tanda-tanya-konversi-mobil-dari-bbm-ke-gas-apakah-masih-relevan", "title": "Tanda Tanya Konversi Mobil dari BBM ke Gas Apakah Masih Relevan", "angle_summary": "Explainer pro-kontra konversi; relevan gasku-02/03." },
+      { "url": "https://komogas.com/ketahui-ini-sebelum-konversi-mobil-anda-ke-bahan-bakar-gas-bbg/", "title": "Ketahui Ini Sebelum Konversi Mobil Anda ke BBG (Komogas)", "angle_summary": "Blog komunitas mobil gas; biaya konversi per tipe tabung + payback; relevan gasku-02." },
+      { "url": "https://solarindustri.com/blog/apakah-cng-aman-untuk-mobil/", "title": "Apakah CNG Aman untuk Mobil? Ini Penjelasannya", "angle_summary": "Explainer keselamatan CNG (mengutip Journal of Safety Science and Resilience, Sep 2024); relevan gasku-01 & gasku-03." }
+    ],
+    "serp_features": ["ai_overview_likely_open (no strong decision-useful explainer; organic didominasi berita/PR)", "paa", "featured_snippet_open"],
+    "ai_overview_entities": ["Gasku", "BBG (Bahan Bakar Gas)", "CNG (Compressed Natural Gas)", "SPBG", "PGN", "PT Gagas Energi Indonesia", "Converter Kit", "Liter Setara Premium (LSP)", "konversi BBM ke BBG"]
+  },
+  "paa": [
+    "Apa itu Gasku?",
+    "Apa itu BBG dan bedanya dengan CNG?",
+    "Bagaimana cara kerja BBG / CNG pada kendaraan (sistem bi-fuel / converter kit)?",
+    "Di mana lokasi SPBG untuk isi BBG kendaraan?",
+    "Berapa harga Gasku / BBG per liter (LSP)?",
+    "Berapa biaya pasang converter kit dan berapa lama balik modal?",
+    "Apakah pakai BBG lebih hemat dibanding bensin/solar, dan berapa persen?",
+    "Apakah BBG / CNG aman untuk kendaraan (apakah tabung bisa meledak)?",
+    "Kendaraan apa saja yang bisa dikonversi ke BBG?",
+    "Apa kekurangan / kelemahan kendaraan BBG (tenaga turun, bagasi, garansi)?",
+    "Apakah konversi BBG membatalkan garansi pabrikan?",
+    "Apa itu program konversi BBM ke BBG pemerintah?"
+  ],
+  "key_facts_for_researcher_to_verify": {
+    "landing_page_specs_verbatim": {
+      "kompresi": "~200 bar",
+      "RON": ">120 (vs 90-95 bensin)",
+      "harga": "Rp4.500 per Liter Setara Premium (LSP)",
+      "emisi": "25-35% lebih rendah",
+      "sistem": "Bi-Fuel via Converter Kit (C-Kit), kendaraan tetap bisa bensin & gas bergantian",
+      "pasokan": "100% domestik",
+      "note": "Diambil verbatim dari gagas.co.id/gasku 2026-06-09 -> boleh dipakai sebagai fakta halaman resmi, tetap atribusikan."
+    },
+    "spbg_count_CONFLICT": "company_profile.md: 12 SPBG / 4 MRU per akhir 2021 (DATED). CNBC Indonesia (6 Nov 2025): PGN operasikan 14 SPBG di 7 provinsi, ~2.200 kendaraan/hari. Satu snippet WebSearch lain menyebut 'SPBG Jabodetabek 19 titik' (sumber & tahun tidak jelas -> JANGAN dikutip tanpa konfirmasi). Researcher WAJIB konfirmasi angka + tanggal + sumber sebelum dikutip; default ke 14 SPBG/7 provinsi (CNBC, Nov 2025) bila terverifikasi.",
+    "penghematan_figures": {
+      "umum": "BBG ~30-40% lebih murah dari Pertalite/Pertamax (WebSearch agregat); 'hemat ~50%' (gagas.co.id & beberapa berita).",
+      "roda4_penumpang": "efisiensi ~55% atau setara ~Rp30 juta/tahun (Jawa Pos).",
+      "online_driver": "hemat ~Rp165.000/hari (~Rp5 juta/bulan) (Jawa Pos/agregat).",
+      "payback": "converter kit ~Rp15-25 juta; balik modal ~10 bulan dgn hemat ~Rp2,5 juta/bulan @15 L/hari (CNBC/agregat).",
+      "ilustrasi_jarak": "300 km ~ 30 LSP ~ Rp135.000 (komogas).",
+      "note": "SEMUA angka penghematan = contoh/rentang lapangan, BUKAN jaminan. Researcher verifikasi & atribusikan tiap angka + tahun; frame sebagai rentang."
+    },
+    "converter_kit_cost_by_tank": "Rp14 juta (full besi) / Rp17 juta (besi+composite) / Rp25 juta (100% composite) (komogas) -> verifikasi, frame sebagai kisaran pasar, bukan harga Gagas.",
+    "government_program": "Program konversi BBM->BBG (Kemenhub/ESDM): rencana bagi converter kit CNG ~143 ribu unit + bangun ~372 bengkel; PGN luncurkan Bengkel Keliling BBG; PGN pasang +40 unit converter kit utk kendaraan online (Elshinta, Jul 2025). Sumber otoritatif: dephub.go.id (Program BBG untuk Kendaraan / Program Konversi BBM ke BBG), Perpres terkait. Verifikasi angka & status program terkini.",
+    "safety_facts": "CNG butuh suhu nyala jauh lebih tinggi dari bensin (risiko api lebih rendah); lebih ringan dari udara (cepat menyebar saat bocor); tabung lolos uji impact/bonfire/gunfire; fitur: overflow valve, pressure regulator, high pressure sensor, gas sensor/alarm. Sumber: solarindustri.com mengutip Journal of Safety Science and Resilience (Sep 2024); regulasi teknis PM Perhubungan No. 39/2012; paparan Pertamina (ekon.go.id). Researcher konfirmasi dari sumber teknis/otoritatif, bukan blog penjual.",
+    "honest_drawbacks": "Tenaga/daya dorong turun ~9% (terasa saat muatan berat/menanjak); bagasi tersita tabung; biaya awal converter kit besar; SPBG masih terbatas (perlu cek rute); konversi bisa membatalkan garansi pabrikan; sensitif komponen pengapian/filter. Sumber: Kompas Otomotif (2023), Seva.id, forum SerayaMotor, Detik Finance. Frame jujur & berimbang.",
+    "authoritative_eeat_stat": "Utamakan Kementerian ESDM/Ditjen Migas: pemanfaatan domestik gas bumi & porsi sektor (mis. Laporan Kinerja Ditjen Migas 2025 / siaran pers Capaian Semester I 2025 - dipakai di gaslink-01: domestik ~69%, industri konsumen terbesar). Untuk transportasi/konversi: Kemenhub (dephub.go.id) Program Konversi BBM ke BBG + Perpres. Verifikasi angka + URL + tahun."
+  },
+  "history_snapshot": {
+    "existing_articles_for_keyword": [],
+    "note": "Tidak ada riwayat Gasku (articles_history hanya berisi gaslink-01). Dedup hanya lintas 3 sibling Gasku ini. angle_hash gaslink-01 = sha1:ff68a917b980 (berbeda, tidak bentrok).",
+    "uncovered_angles_after_these_3": [
+      "Perbandingan BBG vs kendaraan listrik (EV) untuk armada (decision lanjutan)",
+      "Panduan perawatan/servis kendaraan BBG & masa pakai tabung",
+      "Studi kasus operator armada/angkutan kota yang beralih ke Gasku (use-case mendalam)",
+      "Regulasi & sertifikasi kendaraan BBG (PM Perhubungan, uji tabung) sebagai artikel khusus"
+    ]
+  },
+  "three_briefs_derived": [
+    { "brief_id": "gasku-01", "angle": "apa-itu-gasku-cara-kerja-bbg-spbg", "intent": "informational", "angle_hash": "b4795de7a9dd121ff9637918c6451da728399355" },
+    { "brief_id": "gasku-02", "angle": "konversi-bbm-ke-bbg-penghematan-armada", "intent": "decision/how-to", "angle_hash": "b48ddea8d8baad1b6df0fd63bb85ab09419f2f4a" },
+    { "brief_id": "gasku-03", "angle": "kapan-armada-belum-cocok-bbg-jujur", "intent": "counter-conventional/honest", "angle_hash": "175ae23618c130badf6af98acdc0d70d7760b899" }
+  ],
+  "cousins_confirmed": {
+    "hub": "https://gagas.co.id/gasku/",
+    "cousin_1": "https://gagas.co.id/gaslink/",
+    "cousin_2": "https://gagas.co.id/perusahaan-cng-indonesia/",
+    "distinct_urls": true,
+    "rationale": "Per instruksi & cross-link map product_matrix.md: Gaslink = produk saudara (industri/komersial vs transportasi); /perusahaan-cng-indonesia/ = hub CNG Indonesia (BBG adalah aplikasi CNG). 3 URL distinct, semua != hub."
+  }
+}

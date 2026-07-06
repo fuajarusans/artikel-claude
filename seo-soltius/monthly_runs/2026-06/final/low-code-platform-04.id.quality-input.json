@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-06\\final\\low-code-platform-04.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-03T01:31:00+07:00",
+    "word_count":  1263,
+    "paragraph_count":  23,
+    "sentence_count":  62,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.493,
+                        "sentence_burstiness":  1.131,
+                        "top30_vocab_share":  0.33,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "# Risiko Low-Code Platform yang Jarang Dibahas: Keamanan Data, Shadow IT, dan Vendor Lock-In CIO yang skeptis terhadap *low-code platform* punya alasan yang valid.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"# Risiko Low-Code Platform yang Jarang Dibahas: Keamanan Data, Shadow IT, dan Vendor Lock-In CIO yang skeptis terhadap *\""
+                                  },
+                                  {
+                                      "passage":  "## Checklist Keamanan Sebelum Deploy Low-Code Platform di Perusahaan Delapan item minimum yang sebaiknya diperiksa sebelum *deployment*: 1.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"## Checklist Keamanan Sebelum Deploy Low-Code Platform di Perusahaan Delapan item minimum yang sebaiknya diperiksa sebel\""
+                                  },
+                                  {
+                                      "passage":  "**Role-Based Access Control (RBAC)**: siapa boleh membangun, siapa boleh mengakses data apa 2.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"**Role-Based Access Control (RBAC)**: siapa boleh membangun, siapa boleh mengakses data apa 2.\""
+                                  },
+                                  {
+                                      "passage":  "27 Tahun 2022 berlaku penuh sejak Oktober 2024; sanksi hingga **2% pendapatan tahunan**; setiap aplikasi yang menyentuh data pribadi karyawan atau pelanggan wajib comply.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"27 Tahun 2022 berlaku penuh sejak Oktober 2024; sanksi hingga **2% pendapatan tahunan**; setiap aplikasi yang menyentuh \""
+                                  },
+                                  {
+                                      "passage":  "## Vendor Lock-In pada Low-Code: Kekhawatiran yang Valid dan Cara Mengevaluasinya *Vendor lock-in* sering dijadikan alasan menghindari *low-code* sepenuhnya.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Vendor Lock-In pada Low-Code: Kekhawatiran yang Valid dan Cara Mengevaluasinya *Vendor lock-in* sering dijadikan alas\""
+                                  },
+                                  {
+                                      "passage":  "**Exit strategy**: dokumentasikan portabilitas data dan logic; estimasi *switching cost* sejak awal 8.",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"**Exit strategy**: dokumentasikan portabilitas data dan logic; estimasi *switching cost* sejak awal 8.\""
+                                  },
+                                  {
+                                      "passage":  "Mengelola keempat risiko ini membutuhkan framework *governance* yang dirancang sebelum deployment, terutama dengan UU PDP Indonesia berlaku penuh sejak Oktober 2024.",
+                                      "candidate_score":  9,
+                                      "web_search_query":  "\"Mengelola keempat risiko ini membutuhkan framework *governance* yang dirancang sebelum deployment, terutama dengan UU PD\""
+                                  },
+                                  {
+                                      "passage":  "**Exit cost**: Berapa estimasi biaya waktu dan uang jika harus pindah platform dalam 3–5 tahun ke depan?",
+                                      "candidate_score":  8,
+                                      "web_search_query":  "\"**Exit cost**: Berapa estimasi biaya waktu dan uang jika harus pindah platform dalam 3–5 tahun ke depan?\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

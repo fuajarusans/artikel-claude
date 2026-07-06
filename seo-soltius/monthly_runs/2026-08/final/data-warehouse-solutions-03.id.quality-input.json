@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-08\\final\\data-warehouse-solutions-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-08T18:19:28+07:00",
+    "word_count":  2073,
+    "paragraph_count":  25,
+    "sentence_count":  122,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.44,
+                        "sentence_burstiness":  0.499,
+                        "top30_vocab_share":  0.298,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.44 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Tabel berikut merangkum aktivitas, risiko utama, dan mitigasinya: | Fase | Aktivitas Utama | Risiko Utama | Mitigasi | |---|---|---|---| | 1.",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"Tabel berikut merangkum aktivitas, risiko utama, dan mitigasinya: | Fase | Aktivitas Utama | Risiko Utama | Mitigasi | |\""
+                                  },
+                                  {
+                                      "passage":  "SAP BW/4HANA, generasi penerus BW, memiliki *mainstream maintenance* hingga **31 Desember 2030** dan komitmen pemeliharaan SAP setidaknya hingga **2040**, selaras dengan roadmap S/4HANA.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"SAP BW/4HANA, generasi penerus BW, memiliki *mainstream maintenance* hingga **31 Desember 2030** dan komitmen pemelihara\""
+                                  },
+                                  {
+                                      "passage":  "# Migrasi Data Warehouse Lama ke Platform Modern: Panduan Brownfield Sebagian besar panduan data warehouse mengasumsikan Anda mulai dari nol.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"# Migrasi Data Warehouse Lama ke Platform Modern: Panduan Brownfield Sebagian besar panduan data warehouse mengasumsikan\""
+                                  },
+                                  {
+                                      "passage":  "## Asesmen Sebelum Migrasi: Apa yang Harus Diinventarisasi Sebelum memindahkan apa pun, inventarisasi dulu apa yang Anda miliki.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Asesmen Sebelum Migrasi: Apa yang Harus Diinventarisasi Sebelum memindahkan apa pun, inventarisasi dulu apa yang Anda\""
+                                  },
+                                  {
+                                      "passage":  "## Kesimpulan Memindahkan data warehouse warisan ke platform modern jarang gagal karena teknologinya.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Kesimpulan Memindahkan data warehouse warisan ke platform modern jarang gagal karena teknologinya.\""
+                                  },
+                                  {
+                                      "passage":  "Untuk **Teradata**, dukungan terkonfirmasi melalui *Generic JDBC*, bukan konektor khusus berlabel Teradata.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Untuk **Teradata**, dukungan terkonfirmasi melalui *Generic JDBC*, bukan konektor khusus berlabel Teradata.\""
+                                  },
+                                  {
+                                      "passage":  "Oracle didukung melalui *dedicated connector* bawaan, sementara database lain seperti Teradata umumnya dihubungkan via mekanisme *Generic JDBC*.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Oracle didukung melalui *dedicated connector* bawaan, sementara database lain seperti Teradata umumnya dihubungkan via m\""
+                                  },
+                                  {
+                                      "passage":  "Setelahnya tersedia *extended maintenance* berbayar (premi sekitar dua persentase poin tambahan) hingga 2030.",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"Setelahnya tersedia *extended maintenance* berbayar (premi sekitar dua persentase poin tambahan) hingga 2030.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

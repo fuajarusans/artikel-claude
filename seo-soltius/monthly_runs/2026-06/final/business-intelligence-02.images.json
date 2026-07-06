@@ -1,0 +1,60 @@
+{
+  "brief_id": "business-intelligence-02",
+  "article_title_id": "SAP Analytics Cloud: Satu Platform untuk BI, Planning, dan Analitik Prediktif",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-02",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Diagram tiga pilar SAP Analytics Cloud — tiga kolom berlabel \"BI & Visualisasi\", \"Planning (FP&A)\", dan \"Analitik Prediktif/AI\", masing-masing dengan ikon representatif (dashboard chart, model anggaran, grafik forecast). Di bawah ketiganya: lapisan fondasi bertuliskan \"SAP BTP\" dengan koneksi panah ke S/4HANA dan sumber data non-SAP. Gaya korporat biru-putih SAP, teks Bahasa Indonesia.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Struktur arsitektur platform tiga-pilar dengan lapisan fondasi dan koneksi antar-sistem adalah konten diagram, bukan ilustrasi abstrak atau foto — perlu presisi relasi antar-komponen yang hanya diagram bisa sampaikan.",
+      "visual_direction": "Kanvas landscape (1200×630 px). Latar putih bersih. Tiga kolom utama berdampingan horizontal, masing-masing dengan batas tipis biru (#0070D2 — biru SAP). Kolom kiri berlabel 'BI & Visualisasi': ikon grafik batang mini di atas, subjudul 'Dashboard · Self-Service Reporting · KPI Real-Time' dalam teks abu gelap. Kolom tengah berlabel 'Planning (FP&A)': ikon model anggaran/spreadsheet bertingkat, subjudul 'Budgeting · Forecasting · Konsolidasi Rencana'. Kolom kanan berlabel 'Analitik Prediktif & AI': ikon grafik tren dengan garis prediksi putus-putus, subjudul 'Smart Predict · Natural Language Query · Anomaly Detection'. Di bawah ketiga kolom: satu baris penuh berwarna biru gelap (#003B6F) bertuliskan 'SAP BTP (Business Technology Platform)' — ini lapisan fondasi. Dari baris fondasi, dua panah ke bawah: satu ke kotak 'SAP S/4HANA (Live Data Connection — Real-Time)' di kiri-bawah, satu ke kotak 'Sumber Data Non-SAP (Google BigQuery, Salesforce, SQL Server, Excel)' di kanan-bawah. Panah ke S/4HANA berwarna hijau (#1A7340) dengan label 'Real-Time'; panah ke non-SAP berwarna abu-abu gelap. Semua teks dalam Bahasa Indonesia. Font sans-serif modern (misal Inter atau SAP 72). Tidak ada elemen dekoratif berlebihan — gaya enterprise B2B yang bersih dan dapat dibaca di layar desktop maupun cetak.",
+      "in_image_text_id": [
+        "BI & Visualisasi",
+        "Planning (FP&A)",
+        "Analitik Prediktif & AI",
+        "Dashboard · Self-Service Reporting · KPI Real-Time",
+        "Budgeting · Forecasting · Konsolidasi Rencana",
+        "Smart Predict · Natural Language Query · Anomaly Detection",
+        "SAP BTP (Business Technology Platform)",
+        "SAP S/4HANA (Live Data Connection — Real-Time)",
+        "Sumber Data Non-SAP (Google BigQuery, Salesforce, SQL Server, Excel)"
+      ],
+      "alt_id": "Diagram tiga pilar SAP Analytics Cloud: BI & Visualisasi, Planning FP&A, dan Analitik Prediktif AI di atas fondasi SAP BTP",
+      "caption_id": "SAP Analytics Cloud menyatukan tiga kapabilitas dalam satu platform SaaS: BI & visualisasi data, perencanaan bisnis terintegrasi (FP&A), dan analitik prediktif berbasis AI — semuanya berjalan di atas SAP BTP dan terhubung langsung ke S/4HANA via Live Data Connection.",
+      "sourcing_note": "Buat diagram orisinal sesuai arah visual di atas — jangan mengambil tangkapan layar dari produk SAP Analytics Cloud atau antarmuka SAP BTP. Ini diagram konseptual arsitektur, bukan UI screenshot. Pastikan branding dan warna mengikuti panduan korporat Soltius (biru/putih profesional).",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body",
+      "concept_from_writer": "Infografis perbandingan dua kolom: kiri \"SAP BusinessObjects BI\" dengan ikon on-premise, Crystal Reports, update manual; kanan \"SAP Analytics Cloud\" dengan ikon cloud, FP&A terintegrasi, self-service. Warna biru-putih untuk SAC, abu-abu netral untuk BO. Di bagian bawah, baris \"Kapan pilih BO\" dan \"Kapan pilih SAC\" dengan poin ringkas. Teks Bahasa Indonesia, gaya enterprise B2B yang bersih.",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Perbandingan berdampingan dengan baris kriteria dan rekomendasi kondisional di bagian bawah adalah format infografis teks-forward — lebih informatif dari tabel HTML biasa dan mudah dibagikan sebagai gambar standalone oleh pembaca B2B.",
+      "visual_direction": "Kanvas portrait atau landscape (1200×700 px). Header terpusat: 'SAP BusinessObjects BI vs SAP Analytics Cloud — Panduan Memilih' dalam huruf tebal abu-gelap. Dua kolom berdampingan dipisahkan garis vertikal tipis. Kolom kiri 'SAP BusinessObjects BI': header dengan latar abu-abu (#6E6E6E), ikon server/gedung on-premise putih. Kolom kanan 'SAP Analytics Cloud': header dengan latar biru SAP (#0070D2), ikon awan putih. Isi masing-masing kolom (6 baris kriteria dengan ikon kecil di kiri tiap baris): (1) Deployment: ikon server abu vs ikon awan biru; (2) Lisensi: ikon kunci/gembok vs ikon berlangganan/kalender; (3) Self-Service BI: tanda centang kecil abu vs tanda centang biru tebal; (4) Planning FP&A: tanda silang abu vs tanda centang biru tebal; (5) Analitik Prediktif: tanda silang abu vs tanda centang biru tebal; (6) Update: ikon roda gigi manual abu vs ikon pembaruan otomatis biru. Di bawah dua kolom: satu baris penuh terbagi dua — kiri berlabel 'Kapan Pilih BO' dengan poin ringkas (teks abu-gelap, latar abu-muda): 'Laporan Crystal Reports kompleks · Lingkungan on-premise yang sudah mapan · Regulasi ketat belum siap cloud'. Kanan berlabel 'Kapan Pilih SAC' (latar biru muda #E8F4FD): 'Sudah di S/4HANA atau menuju cloud ERP · Butuh FP&A terintegrasi · Self-service BI untuk pengguna bisnis'. Semua teks Bahasa Indonesia. Font sans-serif bersih, tidak ada shadow berlebihan. Dapat dicetak dan dibaca tanpa interaksi.",
+      "in_image_text_id": [
+        "SAP BusinessObjects BI vs SAP Analytics Cloud — Panduan Memilih",
+        "SAP BusinessObjects BI",
+        "SAP Analytics Cloud",
+        "Deployment",
+        "Lisensi",
+        "Self-Service BI",
+        "Planning / FP&A",
+        "Analitik Prediktif",
+        "Update",
+        "Kapan Pilih BO",
+        "Laporan Crystal Reports kompleks · Lingkungan on-premise yang sudah mapan · Regulasi ketat belum siap cloud",
+        "Kapan Pilih SAC",
+        "Sudah di S/4HANA atau menuju cloud ERP · Butuh FP&A terintegrasi · Self-service BI untuk pengguna bisnis"
+      ],
+      "alt_id": "Infografis perbandingan SAP BusinessObjects BI dan SAP Analytics Cloud: deployment, lisensi, planning, dan kapan memilih masing-masing platform",
+      "caption_id": "SAP BusinessObjects dan SAP Analytics Cloud bukan kompetitor langsung — keduanya menjawab kebutuhan yang berbeda. BO tetap valid untuk lingkungan on-premise dengan laporan Crystal kompleks; SAC unggul ketika perusahaan sudah di ekosistem S/4HANA dan butuh planning FP&A serta analitik prediktif terintegrasi.",
+      "sourcing_note": "Buat infografis orisinal sesuai arah visual di atas — jangan menggunakan tangkapan layar antarmuka SAP BusinessObjects atau SAP Analytics Cloud. Ini adalah infografis perbandingan konseptual yang dirancang secara editorial. Tidak ada elemen UI SAP yang perlu disertakan.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\seo\\Documents\\seo-stp\\monthly_runs\\2026-05\\final\\budidaya-ikan-patin-01.en.md",
+    "language":  "en",
+    "generated_at":  "2026-05-26T15:17:15+07:00",
+    "word_count":  2588,
+    "paragraph_count":  36,
+    "sentence_count":  141,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.403,
+                        "sentence_burstiness":  0.85,
+                        "top30_vocab_share":  0.214,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.403 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "**Measure baseline parameters**: pH 6.5-7.5, DO at least 4 ppm, temperature 26-30°C, free ammonia (NH₃) below 0.5 ppm.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"**Measure baseline parameters**: pH 6.5-7.5, DO at least 4 ppm, temperature 26-30°C, free ammonia (NH₃) below 0.5 ppm.\""
+                                  },
+                                  {
+                                      "passage":  "Stock early morning (06:00-08:00) or late afternoon (16:00-18:00), when water temperature is most stable.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Stock early morning (06:00-08:00) or late afternoon (16:00-18:00), when water temperature is most stable.\""
+                                  },
+                                  {
+                                      "passage":  "At BPBAT Sungai Gelam Jambi (published September 2024), pangasius siam larvae are reared on 40% crude protein crumble at 0.4-0.7 mm, fed four times per day.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"At BPBAT Sungai Gelam Jambi (published September 2024), pangasius siam larvae are reared on 40% crude protein crumble at\""
+                                  },
+                                  {
+                                      "passage":  "Fillet processors, including STP\u0027s Banyuwangi pangasius plant, prefer 1.5 to 2 kilograms because fillet yield per fish climbs at higher weights.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Fillet processors, including STP\u0027s Banyuwangi pangasius plant, prefer 1.5 to 2 kilograms because fillet yield per fish c\""
+                                  },
+                                  {
+                                      "passage":  "Five parameters merit daily monitoring: - **Temperature**: target 26-30°C; above 32°C add shade or increase inflow.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Five parameters merit daily monitoring: - **Temperature**: target 26-30°C; above 32°C add shade or increase inflow.\""
+                                  },
+                                  {
+                                      "passage":  "# Modern Pangasius Farming: A Reliable Step-by-Step Guide International buyers know pangasius as a Vietnamese white-fish staple, but Indonesia is no longer a footnote in that story.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"# Modern Pangasius Farming: A Reliable Step-by-Step Guide International buyers know pangasius as a Vietnamese white-fish\""
+                                  },
+                                  {
+                                      "passage":  "A round tarpaulin pond 3-5 metres in diameter with 80-100 cm of water depth supports household-scale culture at 20-40 fish/m².",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"A round tarpaulin pond 3-5 metres in diameter with 80-100 cm of water depth supports household-scale culture at 20-40 fi\""
+                                  },
+                                  {
+                                      "passage":  "Commercial operators typically run a 5-7 day purge cycle, which builds operational margin into Mukti\u0027s biological minimum.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Commercial operators typically run a 5-7 day purge cycle, which builds operational margin into Mukti\u0027s biological minimu\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

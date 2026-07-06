@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-08\\final\\business-intelligence-04.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-08T18:24:59+07:00",
+    "word_count":  2173,
+    "paragraph_count":  26,
+    "sentence_count":  130,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.354,
+                        "sentence_burstiness":  0.669,
+                        "top30_vocab_share":  0.304,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.354 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Berdasarkan prinsip beban kognitif (merujuk riset George Miller, otak optimal pada 7±2 item), dashboard eksekutif sebaiknya menampilkan 3-5 KPI utama, sementara dashboard operasional harian bisa mencapai 7-9.",
+                                      "candidate_score":  34,
+                                      "web_search_query":  "\"Berdasarkan prinsip beban kognitif (merujuk riset George Miller, otak optimal pada 7±2 item), dashboard eksekutif sebaik\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai panduan awal, tampilkan 5-7 KPI per layar untuk dashboard eksekutif (idealnya 3-5 KPI tingkat tinggi) dan 7-9 untuk dashboard operasional yang dipantau harian.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Sebagai panduan awal, tampilkan 5-7 KPI per layar untuk dashboard eksekutif (idealnya 3-5 KPI tingkat tinggi) dan 7-9 un\""
+                                  },
+                                  {
+                                      "passage":  "Ada banyak pilihan, mulai dari Microsoft Power BI, Tableau, dan Looker, hingga SAP Analytics Cloud yang umum di lingkungan enterprise berbasis SAP.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Ada banyak pilihan, mulai dari Microsoft Power BI, Tableau, dan Looker, hingga SAP Analytics Cloud yang umum di lingkung\""
+                                  },
+                                  {
+                                      "passage":  "Efek 3D, bayangan, dan dekorasi adalah apa yang Edward Tufte sebut *chartjunk* dalam *The Visual Display of Quantitative Information* (1983).",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Efek 3D, bayangan, dan dekorasi adalah apa yang Edward Tufte sebut *chartjunk* dalam *The Visual Display of Quantitative\""
+                                  },
+                                  {
+                                      "passage":  "## Lima Prinsip Menyusun Hierarki Visual Dashboard Hierarki visual adalah cara desain mengarahkan mata pengguna ke informasi terpenting lebih dulu, lewat posisi, ukuran, dan kontras.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Lima Prinsip Menyusun Hierarki Visual Dashboard Hierarki visual adalah cara desain mengarahkan mata pengguna ke infor\""
+                                  },
+                                  {
+                                      "passage":  "## Mengapa Dashboard Bagus Pun Sering Diabaikan Desain yang baik perlu, tetapi tidak cukup.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Mengapa Dashboard Bagus Pun Sering Diabaikan Desain yang baik perlu, tetapi tidak cukup.\""
+                                  },
+                                  {
+                                      "passage":  "KPI yang konsisten lintas divisi menuntut satu sumber data ter-*governance*, yang dibangun lewat fondasi seperti [Data Warehouse Solutions](https://www.soltius.co.id/id/blog/data-warehouse-solutions), bukan tambal-sulam ekspor.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"KPI yang konsisten lintas divisi menuntut satu sumber data ter-*governance*, yang dibangun lewat fondasi seperti [Data W\""
+                                  },
+                                  {
+                                      "passage":  "Dasarnya adalah riset psikologi kognitif George Miller (1956) yang menemukan memori kerja manusia menangani sekitar 7±2 item sekaligus.",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"Dasarnya adalah riset psikologi kognitif George Miller (1956) yang menemukan memori kerja manusia menangani sekitar 7±2 \""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

@@ -1,0 +1,78 @@
+{
+  "keyword": "SAP Clean Core",
+  "keyword_slug": "sap-clean-core",
+  "month": "2026-07",
+  "captured_at": "2026-06-08",
+  "landing_page": "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide",
+  "landing_page_summary": "English-URL hub 'the complete guide' to SAP Clean Core; covers the principle, extensibility model and cloud-readiness at an overview level. Article body is still written in Bahasa Indonesia per project rule; anchor points to this English hub.",
+  "data_sources_used": ["seo_report_apr2026.md", "websearch", "live_serp_attempted_blocked"],
+  "ahrefs_available": false,
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Rising global interest through 2025-2026; SAP formalized the A-D Clean Core Extensibility model and shipped clean-core compliance KPIs to the RISE with SAP Methodology Dashboard in SAP Cloud ALM in Aug 2025 (SAP Community/SAP News), indicating an active, maturing topic. No ID-language volume figure available without Ahrefs.",
+    "apr2026_rank": 100,
+    "rank_trajectory": "100 (Before) -> 100 (Feb) -> 100 (Mar) -> 100 (Apr). Never ranked. Biggest whitespace in the portfolio; English landing-page URL (no /id/)."
+  },
+  "serp": {
+    "google_id_scrape_status": "ERROR PAGE - Google blocked the server-side scrape of google.com/search (returned an error/retry page on three attempts). Degraded gracefully to WebSearch for competitor angles + PAA, per CLAUDE.md guardrail.",
+    "top_competitors_topic_governance": [
+      { "url": "https://ignitesap.com/saps-clean-core-in-practice/", "title": "SAP's Clean Core in Practice - IgniteSAP", "angle_summary": "Clean core compliance fails post-go-live when implementation teams leave and governance lapses; governance = decision authority applied BEFORE technical debt accrues. Names ATC blocking mode, ATC exemption log as drift indicator, SAP Cloud ALM KPI dashboard, quarterly health review, CoE ownership, MDG, transport governance. (English only.)" },
+      { "url": "https://community.sap.com/t5/enterprise-resource-planning-blog-posts-by-members/clean-core-journey-guidance-implementation-amp-governance/ba-p/14314115", "title": "Clean core journey - Guidance, implementation & governance - SAP Community", "angle_summary": "SAP Community practitioner walk-through of the clean-core journey including a governance phase. (English only.)" },
+      { "url": "https://www.redwood.com/article/sap-clean-core-strategy-cloud-erp/", "title": "SAP Clean Core Strategy for SAP Cloud ERP and Technical Debt Prevention - Redwood", "angle_summary": "Frames clean core as ongoing technical-debt prevention for cloud ERP. (English only.)" },
+      { "url": "https://www.savictech.com/insights/sap-clean-core-strategy-2026/", "title": "SAP Clean Core Strategy 2026 - Practical Guide - SAVIC", "angle_summary": "Forward-looking 2026 practical strategy guide. (English only.)" },
+      { "url": "https://www.sap.com/products/erp/rise/methodology/clean-core.html", "title": "RISE with SAP | ERP Clean Core Strategy - SAP (official)", "angle_summary": "SAP official RISE methodology page on clean core (returned 403 to fetch but is the canonical SAP source for the methodology framing)." },
+      { "url": "https://kps.com/insights/blog/2026/sap-clean-core/", "title": "Clean Core in SAP S/4HANA: Finding the Right Balance - KPS", "angle_summary": "Balance/pragmatism angle on how clean is clean enough. (English only.)" }
+    ],
+    "serp_features": ["ai_overview_likely_for_definitional_queries", "paa", "featured_snippet_opportunity_table"],
+    "ai_overview_entities": ["clean core", "SAP S/4HANA", "SAP BTP", "ABAP Cloud", "released APIs", "Clean Core Extensibility Levels A-D", "SAP Cloud ALM", "ABAP Test Cockpit (ATC)", "technical debt", "RISE with SAP"],
+    "whitespace_note": "Every page found on clean-core GOVERNANCE / staying-clean-after-go-live is English. No Bahasa Indonesia article addresses the ongoing-governance / anti-drift operating model. This is open whitespace inside an already-whitespace keyword (#100)."
+  },
+  "paa": [
+    "Apa itu clean core SAP?",
+    "Mengapa clean core penting?",
+    "Bagaimana cara menjaga core SAP tetap bersih setelah go-live?",
+    "Apa itu tata kelola (governance) clean core?",
+    "Apa fungsi SAP Cloud ALM untuk clean core?",
+    "Apa itu ABAP Test Cockpit (ATC)?",
+    "Apa perbedaan extensibility level A, B, C, dan D?",
+    "Apakah clean core hanya urusan tim IT?",
+    "Berapa sering audit clean core sebaiknya dilakukan?",
+    "Apa risiko jika core SAP kembali kotor setelah migrasi?"
+  ],
+  "gsc_style_queries_from_report": [
+    "Report top organic queries skew definitional/branded (sap adalah, apa itu sap, sistem sap, modul sap) - confirms ID audience searches 'apa itu X' even for English-term concepts. No direct 'clean core' query row in the April GSC top-15 (keyword ranks #100, drives ~1 view to the hub).",
+    "AI-search referrals are material (174 sessions Apr; Perplexity ~68%, ChatGPT ~22%) and land on practical posts - strong case for GEO-optimized extractable answers."
+  ],
+  "verified_facts_for_writer": {
+    "clean_core_extensibility_levels": "SAP formalized a four-level model (A-D) in Aug 2025, evolving the older 3-tier model. Level A: released APIs only (ABAP Cloud on-stack or side-by-side on BTP), fully upgrade-safe, target for new dev. Level B: classic ABAP using only officially provided APIs/frameworks (legacy APIs, BAdIs, user exits) - allowed when Level A cannot meet the need; needs governance. Level C: uses SAP internal/unclassified objects, not cloud-ready, meaningful upgrade risk, belongs on a remediation roadmap. Level D: explicitly non-recommended (modifications, write access to SAP tables, implicit enhancements) - highest risk, eliminate. Source: SAP Community 'ABAP Extensibility Guide - Clean Core for SAP S/4HANA Cloud - August 2025 Update' + SAP News 2025/08.",
+    "sap_cloud_alm": "SAP Cloud ALM hosts the 'RISE with SAP Methodology Dashboard' which surfaces Clean Core compliance KPIs (custom object count by level, ATC exception log, new exceptions since last review, remediation roadmap for Level C/D). ATC clean-core check results can be uploaded to this dashboard. Source: SAP Community 'Enhance Clean Core Compliance: Activate Your RISE Dashboard in SAP Cloud ALM' + 'New Clean Core Extensibility KPIs arrive on the RISE with SAP Dashboard'.",
+    "atc": "Central ATC (ABAP Test Cockpit) in the SAP BTP ABAP environment is SAP's recommended approach for governing ABAP development for clean core in S/4HANA private cloud / on-prem. New clean-core ATC checks (e.g. ABAP_CLEAN_CORE_DEVELOPMENT variant) published Aug 2025; supports exemptions workflow + baseline. ATC can run in blocking mode for high-priority findings. Source: SAP Community 'ABAP Test Cockpit (ATC) recommendations for governance of clean core ABAP development'.",
+    "ecc_dates": "SAP ECC mainstream maintenance ends 31 Dec 2027; extended maintenance 2028-2030 with +2% surcharge; some on-prem options to 2033 with conditions (Forrester). VERIFY current SAP guidance before printing dates - they have shifted historically. Source: SAP support maintenance-strategy page + Forrester blog (cited in prior cluster articles -03 and -05).",
+    "must_verify_by_researcher": [
+      "Exact current naming of the SAP Cloud ALM dashboard ('RISE with SAP Methodology Dashboard') and which KPIs are GA vs preview.",
+      "ECC 2027/2030/2033 dates against the live SAP maintenance-strategy page.",
+      "Whether 'Central ATC on BTP ABAP environment' wording is current for the private-cloud/on-prem governance recommendation.",
+      "Any Indonesian governance/compliance hook worth citing (e.g. internal audit / IT general controls expectations) - optional."
+    ]
+  },
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      { "id": "2026-06-sap-clean-core-01", "angle": "apa-itu-clean-core-kesiapan-cloud", "intent": "informational", "subtopics": ["definisi clean core", "4 dimensi", "in-app vs side-by-side", "ABAP Cloud", "kesiapan cloud"] },
+      { "id": "2026-06-sap-clean-core-02", "angle": "remediasi-custom-code-abap-cloud", "intent": "how-to", "subtopics": ["Z-code audit", "ABAP Cloud", "Keep/Eliminate/Rebuild triase", "Custom Code Migration app", "ABAP Test Cockpit"] },
+      { "id": "2026-06-sap-clean-core-03", "angle": "clean-core-maturity-assessment-kerangka", "intent": "decision", "subtopics": ["maturity model", "5 dimensi penilaian", "self-assessment", "skor kesiapan", "extensibility levels A-D sebagai klasifikasi"] },
+      { "id": "2026-06-sap-clean-core-04", "angle": "side-by-side-extensibility-sap-btp-build", "intent": "informational", "subtopics": ["side-by-side extensibility", "in-app vs side-by-side", "SAP Build", "SAP Integration Suite", "kapan side-by-side bukan pilihan"] },
+      { "id": "2026-06-sap-clean-core-05", "angle": "clean-core-brownfield-vs-greenfield-migrasi", "intent": "comparison", "subtopics": ["brownfield vs greenfield", "selective data transition", "RISE with SAP", "nasib Z-code", "greenfield tidak otomatis bersih"] }
+    ],
+    "uncovered_angles": [
+      "Clean core GOVERNANCE / operating model untuk MEMPERTAHANKAN core bersih jangka panjang setelah go-live (anti-drift) - EXPLICITLY self-flagged as uncovered in the notes of -01, -03, and -05.",
+      "Clean core untuk industri spesifik (retail, banking, manufaktur)",
+      "Clean core dan AI readiness S/4HANA / Joule",
+      "SAP Integration Suite / API management deep dive (flagged in -04)",
+      "Estimasi effort & biaya remediasi (flagged in -02)"
+    ],
+    "selected_angle": "clean-core-governance-pasca-go-live",
+    "why_distinct": "All 5 existing articles treat clean core as a MIGRATION-TIME event (define it, clean Z-code once, assess readiness once, place extensions, choose brownfield/greenfield). None covers the ONGOING-DISCIPLINE problem: how the core drifts BACK to dirty after go-live and the governance operating model (board/CoE, ATC blocking + exemption log, SAP Cloud ALM KPI cadence, transport governance, MDG) that prevents it. This is a post-implementation OPERATIONS angle, not a migration angle. The A-D levels appear only as governance INPUTS (what to monitor/approve), not as a maturity score (that is -03's job), keeping subtopic Jaccard < 0.4 against all five.",
+    "jaccard_check": "Closest prior = -03 (maturity assessment), shares the entity 'extensibility levels A-D' only. New subtopics {governance operating model, anti-drift, ATC blocking mode + exemption log as KPI, SAP Cloud ALM compliance cadence, transport governance, CoE ownership, quarterly health review} vs -03 {maturity model, 5 dimensi, self-assessment, skor kesiapan, bobot dimensi}. Overlap ~1/11 -> Jaccard ~0.09, well under 0.4."
+  }
+}

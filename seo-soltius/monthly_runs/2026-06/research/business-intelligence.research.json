@@ -1,0 +1,147 @@
+{
+  "keyword": "Business Intelligence",
+  "keyword_slug": "business-intelligence",
+  "month": "2026-06",
+  "captured_at": "2026-06-02",
+  "landing_page": "https://www.soltius.co.id/id/blog/business-intelligence",
+  "landing_page_summary": "Comprehensive guide 'Panduan Business Intelligence 2026: Data Jadi Profit' — covers BI definition, 5 core benefits (fast decisions, efficiency, trend prediction, personalization, ROI), BI vs Analytics vs Data Science comparison (driving analogy), 3-stage implementation (collection → warehouse/cleanse → visualization), industry examples (retail, F&B, finance), tool overview (Tableau, Power BI, Looker), and AI-BI future trends. Does NOT deeply cover SAP Analytics Cloud specifics, self-service BI vs traditional BI decision framework, embedded analytics in S/4HANA, BI project failure patterns, or BI planning/budgeting.",
+  "data_sources_used": ["seo_report_apr2026.md", "live_serp", "websearch"],
+  "ahrefs_available": false,
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Strong growth signal: global BI market ~USD 41.16B in 2026, projected USD 62.38B by 2031 (Mordor Intelligence). APAC highest growth region. Indonesia BI adoption broad — 82% of Indonesian companies reported having BI solutions (BI industry sources).",
+    "apr2026_rank": 100,
+    "rank_history": "Before: 100 → Feb: 100 → Mar: 10 → Apr: 100 — crashed from #10 back to #100. RESCUE priority. Best ever rank: #10."
+  },
+  "serp": {
+    "top_10_observed": [
+      {
+        "url": "https://www.qontak.com/blog/business-intelligence/",
+        "title": "Business Intelligence: Definisi, Manfaat dan Contoh Penerapannya",
+        "angle_summary": "Definitional explainer — BI definition, benefits, examples, types of tools"
+      },
+      {
+        "url": "https://www.fanruan.com/id/blog/tren-business-intelligence-2026",
+        "title": "BI di Indonesia: Tren, Tantangan, dan Solusi di tahun 2026",
+        "angle_summary": "2026 BI trends in Indonesia — low-code BI, AI-augmented analytics, composable analytics"
+      },
+      {
+        "url": "https://www.fanruan.com/id/blog/business-intelligence",
+        "title": "Business Intelligence: Definisi, Cara Kerja, dan Manfaatnya",
+        "angle_summary": "Definitional explainer with how-it-works section"
+      },
+      {
+        "url": "https://cloud.google.com/learn/what-is-business-intelligence",
+        "title": "Apa itu business intelligence (BI)?",
+        "angle_summary": "Google Cloud definitional page — BI definition, components, Google tools"
+      },
+      {
+        "url": "https://www.ibm.com/think/topics/business-intelligence",
+        "title": "Apa Itu Business Intelligence (BI)? | IBM",
+        "angle_summary": "IBM definitional page — BI concepts, capabilities, AI analytics"
+      },
+      {
+        "url": "https://badr.co.id/big-data-en/ketahui-perbedaan-business-intelligence-vs-data-science-vs-data-analytics-dalam-era-big-data/",
+        "title": "BI vs Data Science vs Data Analytics — Badr Interactive",
+        "angle_summary": "Comparison piece: BI vs Data Science vs Data Analytics — roles, tools, questions each answers"
+      },
+      {
+        "url": "https://ebconnect.com/blog/uncategorized/business-intelligence-di-bisnis-indonesia",
+        "title": "Tantangan Penerapan Business Intelligence di Bisnis Indonesia",
+        "angle_summary": "Indonesia-specific BI adoption challenges — data quality, culture, skills gap"
+      },
+      {
+        "url": "https://www.soltius.co.id/id/blog/business-intelligence",
+        "title": "Panduan Business Intelligence 2026: Data Jadi Profit — Soltius",
+        "angle_summary": "Soltius hub — comprehensive overview, tools comparison, AI trends"
+      },
+      {
+        "url": "https://www.sap.com/products/data-cloud/cloud-analytics/what-is-business-intelligence.html",
+        "title": "What is business intelligence (BI)? | SAP",
+        "angle_summary": "SAP definitional page — BI tools (SAC), capabilities"
+      },
+      {
+        "url": "https://news.bsi.ac.id/pendidikan/business-intelligence-transformasi-strategi-bisnis/",
+        "title": "Business Intelligence: Transformasi Strategi Bisnis — BSI",
+        "angle_summary": "Academic explainer — BI as business transformation strategy"
+      }
+    ],
+    "serp_features": ["ai_overview", "paa", "featured_snippet"],
+    "ai_overview_entities": [
+      "Business Intelligence",
+      "SAP Analytics Cloud",
+      "SAP BusinessObjects",
+      "self-service BI",
+      "augmented analytics",
+      "data warehouse",
+      "dashboard",
+      "KPI",
+      "ETL",
+      "data-driven decision"
+    ],
+    "serp_gaps": [
+      "No page covers SAP Analytics Cloud deeply as a specific BI solution for Indonesian enterprises (vs generic tool comparisons)",
+      "No page covers S/4HANA embedded analytics as BI starting point — strong uncontested angle",
+      "Self-service BI vs traditional BI decision framework for IT managers: missing from Indonesian-language SERP",
+      "BI project failure patterns / 'why BI projects fail' with Indonesia context: sparse",
+      "SAP BusinessObjects to SAP Analytics Cloud migration path: gap in Indonesian content",
+      "BI for specific verticals (manufacturing, distribution) with SAP anchor: gap"
+    ]
+  },
+  "paa": [
+    "Apa itu business intelligence?",
+    "Apa perbedaan business intelligence dan business analytics?",
+    "Apa saja tools business intelligence yang populer?",
+    "Kapan perusahaan perlu mengimplementasikan business intelligence?",
+    "Berapa biaya implementasi business intelligence?",
+    "Bagaimana cara kerja business intelligence?",
+    "Apa perbedaan BI dan data warehouse?",
+    "Apa itu self-service business intelligence?",
+    "Mengapa banyak proyek BI gagal?",
+    "Apa itu augmented analytics dan kaitannya dengan BI?"
+  ],
+  "gsc_style_queries_from_report": [
+    "business intelligence (tracked keyword — Apr rank #100, crashed from #10 in Mar)",
+    "warehouse management system — 17 clicks, 9,076 impressions (related data mgmt query)",
+    "sap erp adalah — 16 clicks (SAP brand queries drive traffic — BI articles should tie to SAP)"
+  ],
+  "history_snapshot": {
+    "existing_articles_for_keyword": [],
+    "uncovered_angles": [
+      "BI definition & why it matters for Indonesian enterprises — partial hub coverage, room for deeper SAP-specific angle",
+      "SAP Analytics Cloud deep-dive: 3 pillars (BI + Planning + Predictive) for Indonesian enterprise",
+      "S/4HANA embedded analytics as BI foundation — untouched",
+      "Self-service BI vs traditional BI: decision framework for IT/business leads",
+      "Why BI projects fail in Indonesia: diagnostic + fix guide",
+      "BI for specific industry verticals (manufacturing/distribution) with SAP anchor",
+      "BI implementation phases and timeline",
+      "SAP BusinessObjects to SAP Analytics Cloud transition",
+      "Building a data-driven culture: the soft side of BI",
+      "BI ROI measurement and business case",
+      "Augmented analytics / AI-BI: what changes for Indonesian enterprises"
+    ]
+  },
+  "sap_tech_facts_for_researcher": {
+    "SAP_Analytics_Cloud": "Three pillars: BI (dashboards, self-service), Planning (FP&A, integrated business planning), Predictive (machine learning, AI insights). Single SaaS platform. Connects to S/4HANA, BW/4HANA, HANA Cloud, and external sources.",
+    "SAP_BusinessObjects": "On-premise enterprise BI suite — Crystal Reports, Web Intelligence, Lumira, Design Studio. Being superseded by SAC for net-new deployments; existing customers on migration path.",
+    "S4HANA_embedded_analytics": "SAP Fiori-based operational reporting tiles built into S/4HANA — real-time KPIs, 1,800+ pre-built CDS views (analytical apps), no separate extraction needed. Complement to SAC, not a replacement.",
+    "SAP_Datasphere": "Data fabric/data warehouse layer; feeds SAC for analytics. Important in BI architecture alongside SAC.",
+    "verify_before_claiming": [
+      "Exact SAC license tiers / pricing in Indonesia",
+      "Current SAP BusinessObjects end-of-support roadmap (researcher must check SAP official)",
+      "SAP Fiori tile count in S/4HANA embedded analytics (approx figure — cite SAP docs)",
+      "Any IDC/Gartner Indonesia-specific BI adoption figures (search results gave global figures only)"
+    ]
+  },
+  "strategic_priority": "RESCUE — keyword crashed #10 → #100 in April 2026. Need fresh, original, deeply useful articles that: (1) define BI crisply, (2) add comparison tables, (3) answer PAA thoroughly, (4) tie to SAP Analytics Cloud and S/4HANA — angles the current hub page doesn't cover deeply.",
+  "market_data_notes": {
+    "global_bi_market_2026": "USD 41.16B (Mordor Intelligence estimate); projected USD 62.38B by 2031",
+    "indonesia_bi_adoption": "82% of Indonesian companies reported BI solutions (BI industry source — researcher must verify source credibility)",
+    "data_driven_orgs": "23x more likely to acquire customers, 6x retain, 19x more profitable (McKinsey via search results — researcher should verify primary source)",
+    "bi_roi": "150–354% ROI in first 3 years, payback 8–24 months (industry benchmarks — researcher must verify source)",
+    "augmented_analytics_market": "Projected ~USD 38B in 2026 (search results — researcher verifies)",
+    "gartner_prediction": "By 2027, 50% of business decisions augmented/automated by AI agents (Gartner — researcher verifies)",
+    "caution": "These are global/industry figures from web search — SME researcher must trace primary sources before writer uses them in articles"
+  }
+}

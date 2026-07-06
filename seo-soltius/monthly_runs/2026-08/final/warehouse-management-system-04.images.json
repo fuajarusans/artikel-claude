@@ -1,0 +1,86 @@
+{
+  "brief_id": "warehouse-management-system-04",
+  "article_title_id": "WMS Cloud vs On-Premise: Cara Memilih dan Mengintegrasikan dengan ERP",
+  "language": "id",
+  "image_count": 3,
+  "planned_at": "2026-06-08",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero / setelah paragraf pembuka dan roadmap",
+      "concept_from_writer": "Blok diagram tiga model deployment WMS berdampingan, (A) WMS Cloud SaaS berdiri sendiri terhubung ke ERP via API/middleware, (B) SAP EWM embedded di dalam kotak S/4HANA sebagai satu sistem, (C) SAP EWM decentralized sebagai sistem terpisah terhubung ke S/4HANA via qRFC. Gaya korporat clean, warna berbeda per model, label Bahasa Indonesia",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Tiga arsitektur deployment yang berbeda secara struktural paling jelas disajikan sebagai blok diagram berdampingan — teks dan ikon saja tidak cukup untuk menunjukkan hubungan antar komponen dan batas sistem.",
+      "visual_direction": "Diagram horizontal tiga panel berdampingan di atas latar putih bersih. Panel (A) berlabel 'WMS Cloud SaaS' (aksen biru muda/cyan): kotak 'WMS' di cloud (ikon awan) terhubung ke kotak 'ERP' via panah dua arah bertuliskan 'API / Middleware'. Panel (B) berlabel 'SAP EWM Embedded' (aksen biru tua/navy): satu kotak besar berlabel 'SAP S/4HANA' yang di dalamnya terdapat dua kotak bersarang — 'EWM' dan 'ERP Core' — dengan catatan 'Satu sistem, satu database'. Panel (C) berlabel 'SAP EWM Decentralized' (aksen abu-abu gelap/biru medium): dua kotak terpisah — 'EWM' dan 'S/4HANA ERP' — terhubung oleh panah dua arah berlabel 'qRFC / CIF'. Di bawah setiap panel, satu baris teks kecil menyebutkan keunggulan utama: (A) 'OpEx, cepat implementasi', (B) 'Integrasi real-time, TCO rendah', (C) 'Volume tinggi, resiliensi operasional'. Font sans-serif bersih; palet korporat biru/putih/abu; garis tepi panel tipis dan konsisten. Semua teks label dalam Bahasa Indonesia.",
+      "in_image_text_id": [
+        "WMS Cloud SaaS",
+        "SAP EWM Embedded",
+        "SAP EWM Decentralized",
+        "API / Middleware",
+        "Satu sistem, satu database",
+        "qRFC / CIF",
+        "OpEx, cepat implementasi",
+        "Integrasi real-time, TCO rendah",
+        "Volume tinggi, resiliensi operasional",
+        "ERP",
+        "SAP S/4HANA"
+      ],
+      "alt_id": "Diagram tiga model deployment WMS: Cloud SaaS via API, SAP EWM embedded dalam S/4HANA, dan SAP EWM decentralized via qRFC",
+      "caption_id": "Tiga model deployment warehouse management system dalam ekosistem SAP: cloud SaaS berdiri sendiri, EWM embedded dalam S/4HANA (satu database, tanpa middleware), dan EWM decentralized untuk gudang volume tinggi atau multi-ERP. Pilihan deployment menentukan struktur biaya, kecepatan integrasi, dan resiliensi operasional.",
+      "sourcing_note": "Diagram arsitektur konseptual — tidak membutuhkan screenshot SAP asli. Tim desain dapat membuat dari nol berdasarkan arahan visual di atas. Tidak ada UI SAP yang perlu direplikasi.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "di bagian 'Bagaimana WMS Terintegrasi dengan ERP?' — setelah paragraf pertama seksi tersebut",
+      "concept_from_writer": "Flowchart horizontal alur integrasi WMS-ERP, [ERP: Sales/Purchase Order] menuju [WMS: Inbound, Putaway, Picking, Packing, Shipping] menuju [ERP: Update Stok & Laporan], dengan node 'Barcode/RFID Scanner' sebagai titik capture data di aktivitas gudang dan panah dua arah untuk sinkronisasi stok. Teks ringkas Bahasa Indonesia",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Alur data dua arah antar sistem dengan titik capture di tengah adalah informasi relasional yang hanya bisa dikomunikasikan dengan jelas melalui flowchart — teks prosa tidak bisa menunjukkan arah dan urutan sekaligus.",
+      "visual_direction": "Flowchart horizontal pada latar putih. Dari kiri ke kanan: Kotak pertama (biru tua) berlabel 'ERP' dengan sub-teks 'Sales Order / Purchase Order'. Panah kanan menuju blok tengah (biru medium) berlabel 'WMS' dengan lima item berbaris ke bawah di dalamnya: 'Penerimaan (Inbound)', 'Penyimpanan (Putaway)', 'Pengambilan (Picking)', 'Pengemasan (Packing)', 'Pengiriman (Shipping)'. Di bawah blok WMS, ikon barcode dan ikon gelombang radio RFID dengan label 'Barcode / RFID Scanner — tangkap data aktivitas'. Panah dua arah (kanan dari WMS ke kotak ketiga, kiri dari kotak ketiga ke ERP — untuk menunjukkan sinkronisasi) menuju kotak kanan (biru tua) berlabel 'ERP' dengan sub-teks 'Update Stok & Laporan Real-Time'. Panah dua arah antara WMS dan ERP kanan diberi label 'Sinkronisasi Stok (Single Source of Truth)'. Garis dan font sans-serif bersih; warna korporat biru/putih; tidak ada dekorasi berlebihan. Semua teks dalam Bahasa Indonesia.",
+      "in_image_text_id": [
+        "ERP",
+        "Sales Order / Purchase Order",
+        "WMS",
+        "Penerimaan (Inbound)",
+        "Penyimpanan (Putaway)",
+        "Pengambilan (Picking)",
+        "Pengemasan (Packing)",
+        "Pengiriman (Shipping)",
+        "Barcode / RFID Scanner — tangkap data aktivitas",
+        "Update Stok & Laporan Real-Time",
+        "Sinkronisasi Stok (Single Source of Truth)"
+      ],
+      "alt_id": "Flowchart alur integrasi WMS dan ERP: dari sales order di ERP, eksekusi gudang di WMS, hingga sinkronisasi stok kembali ke ERP",
+      "caption_id": "Alur integrasi WMS↔ERP bersifat dua arah: ERP mengirimkan order, WMS mengeksekusi seluruh proses fisik gudang dari penerimaan hingga pengiriman, lalu status stok dikembalikan ke ERP secara real-time. Barcode dan RFID adalah titik tangkap data yang menghubungkan aktivitas fisik dengan sistem digital.",
+      "sourcing_note": "Diagram alur konseptual — tidak membutuhkan screenshot SAP asli. Tim desain membuat dari nol. Tidak ada UI SAP yang perlu direplikasi.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_03",
+      "position": "di bagian 'Peran Barcode, RFID, dan Perangkat Mobile dalam Eksekusi Gudang' — setelah paragraf yang menyebut angka 63%→95%",
+      "concept_from_writer": "Infografik dua kolom membandingkan Barcode vs RFID, kolom kiri barcode dengan ikon scanner dan pandangan langsung (line-of-sight, scan satu per satu), kolom kanan RFID dengan ikon gelombang radio (baca ratusan tag sekaligus, tanpa line-of-sight). Sertakan angka 'akurasi 63% ke 95% (Auburn/GS1 US, 2018)'. Gaya clean B2B, teks Bahasa Indonesia",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Perbandingan dua teknologi dengan atribut berbeda dan satu angka kunci paling efektif disajikan sebagai infografis dua kolom — formatnya memungkinkan pembaca menyerap perbedaan sekilas tanpa membaca prosa.",
+      "visual_direction": "Infografis dua kolom pada latar putih, dipisahkan oleh garis vertikal tipis abu-abu di tengah. Header baris atas: judul besar 'Barcode vs RFID untuk Manajemen Gudang'. Kolom kiri berlabel 'Barcode' (aksen abu-abu biru): ikon scanner barcode dengan garis pandang lurus ke kode batang; di bawahnya empat poin ringkas: 'Butuh pandangan langsung (line-of-sight)', 'Scan satu per satu', 'Biaya implementasi lebih rendah', 'Akurasi tinggi jika proses rapi'. Kolom kanan berlabel 'RFID' (aksen biru tua): ikon gelombang radio memancar dari reader ke banyak kotak/palet; di bawahnya empat poin ringkas: 'Tanpa pandangan langsung', 'Baca ratusan tag sekaligus', 'Investasi lebih tinggi di awal', 'Cocok untuk gudang volume tinggi dan bulk-scan'. Di bagian bawah penuh lebar (spanning kedua kolom), kotak aksen biru muda bertuliskan: 'Studi Auburn University RFID Lab & GS1 US (2018): akurasi inventori naik dari rata-rata 63% menjadi 95% setelah implementasi RFID — konteks: industri ritel pakaian'. Font sans-serif bersih; ikon flat style; palet korporat biru/putih/abu; semua teks dalam Bahasa Indonesia.",
+      "in_image_text_id": [
+        "Barcode vs RFID untuk Manajemen Gudang",
+        "Barcode",
+        "RFID",
+        "Butuh pandangan langsung (line-of-sight)",
+        "Scan satu per satu",
+        "Biaya implementasi lebih rendah",
+        "Akurasi tinggi jika proses rapi",
+        "Tanpa pandangan langsung",
+        "Baca ratusan tag sekaligus",
+        "Investasi lebih tinggi di awal",
+        "Cocok untuk gudang volume tinggi dan bulk-scan",
+        "Studi Auburn University RFID Lab & GS1 US (2018): akurasi inventori naik dari rata-rata 63% menjadi 95% setelah implementasi RFID — konteks: industri ritel pakaian"
+      ],
+      "alt_id": "Infografis perbandingan Barcode vs RFID untuk manajemen gudang, termasuk data akurasi inventori 63% ke 95% dari studi Auburn University",
+      "caption_id": "Barcode dan RFID melayani kebutuhan berbeda: barcode andal untuk gudang dengan proses rapi dan volume terkelola, sedangkan RFID unggul untuk bulk-scan dan kecepatan tinggi. Studi Auburn University RFID Lab & GS1 US (2018) menemukan akurasi inventori naik dari rata-rata 63% ke 95% setelah implementasi RFID, meski dalam konteks industri ritel pakaian.",
+      "sourcing_note": "Infografis konseptual — tidak membutuhkan screenshot SAP atau foto produk. Tim desain membuat dari nol berdasarkan arahan di atas. Ikon scanner barcode dan ikon gelombang radio RFID tersedia di pustaka ikon standar (Flaticon, Noun Project, dll.).",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

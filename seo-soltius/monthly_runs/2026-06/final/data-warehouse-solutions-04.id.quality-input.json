@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-06\\final\\data-warehouse-solutions-04.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-03T01:47:37+07:00",
+    "word_count":  1412,
+    "paragraph_count":  24,
+    "sentence_count":  86,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.458,
+                        "sentence_burstiness":  1.228,
+                        "top30_vocab_share":  0.357,
+                        "flags":  [
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 35.7% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Diluncurkan 13 Februari 2025, BDC adalah paket *managed SaaS* yang mengintegrasikan SAP Datasphere, SAP Analytics Cloud, SAP BW/4HANA *private cloud*, dan SAP Databricks ([SAP News Center, Februari 2025](https://news.sap.com/2025/02/sap-business-data-cloud-databricks-turbocharge-business-ai/)).",
+                                      "candidate_score":  43,
+                                      "web_search_query":  "\"Diluncurkan 13 Februari 2025, BDC adalah paket *managed SaaS* yang mengintegrasikan SAP Datasphere, SAP Analytics Cloud,\""
+                                  },
+                                  {
+                                      "passage":  "## SAP Business Data Cloud: Ketika Anda Tidak Harus Memilih Satu Sejak Februari 2025, ada opsi ketiga: SAP Business Data Cloud (BDC).",
+                                      "candidate_score":  35,
+                                      "web_search_query":  "\"## SAP Business Data Cloud: Ketika Anda Tidak Harus Memilih Satu Sejak Februari 2025, ada opsi ketiga: SAP Business Data\""
+                                  },
+                                  {
+                                      "passage":  "BDC diluncurkan 13 Februari 2025, yakni paket *managed SaaS* yang mengintegrasikan Datasphere, SAP Analytics Cloud, BW/4HANA *private cloud*, dan SAP Databricks.",
+                                      "candidate_score":  32,
+                                      "web_search_query":  "\"BDC diluncurkan 13 Februari 2025, yakni paket *managed SaaS* yang mengintegrasikan Datasphere, SAP Analytics Cloud, BW/4\""
+                                  },
+                                  {
+                                      "passage":  "Soal biaya Datasphere: komunitas mitra SAP menyebut kisaran USD 12–15 per CU per tahun, minimum enterprise sekitar 4.000–5.000 CU.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Soal biaya Datasphere: komunitas mitra SAP menyebut kisaran USD 12–15 per CU per tahun, minimum enterprise sekitar 4.000\""
+                                  },
+                                  {
+                                      "passage":  "# SAP Datasphere vs SAP BW/4HANA: Panduan Memilih Data Warehouse Solution yang Tepat di 2026 Tim IT Anda memetakan kebutuhan *data warehouse* dan SAP ada di *shortlist*.",
+                                      "candidate_score":  27,
+                                      "web_search_query":  "\"# SAP Datasphere vs SAP BW/4HANA: Panduan Memilih Data Warehouse Solution yang Tepat di 2026 Tim IT Anda memetakan kebut\""
+                                  },
+                                  {
+                                      "passage":  "Komunitas mitra SAP menyebut kisaran USD 12–15 per CU per tahun, minimum sekitar 4.000–5.000 CU untuk enterprise.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"Komunitas mitra SAP menyebut kisaran USD 12–15 per CU per tahun, minimum sekitar 4.000–5.000 CU untuk enterprise.\""
+                                  },
+                                  {
+                                      "passage":  "Dalam arsitektur BDC, BW/4HANA menangani *data warehouse* SAP-centric sementara Datasphere menyediakan federasi lintas sistem non-SAP.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Dalam arsitektur BDC, BW/4HANA menangani *data warehouse* SAP-centric sementara Datasphere menyediakan federasi lintas s\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apa perbedaan utama SAP Datasphere dan SAP BW/4HANA?",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apa perbedaan utama SAP Datasphere dan SAP BW/4HANA?\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

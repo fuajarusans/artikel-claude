@@ -1,0 +1,81 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-06\\final\\digital-manufacturing-05.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-03T01:40:40+07:00",
+    "word_count":  1094,
+    "paragraph_count":  18,
+    "sentence_count":  55,
+    "ai_detector":  {
+                        "score":  0.24,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.435,
+                        "sentence_burstiness":  1.01,
+                        "top30_vocab_share":  0.326,
+                        "flags":  [
+                                      {
+                                          "pattern":  "em-dash-overuse",
+                                          "severity":  "medium",
+                                          "snippet":  "Em-dashes count: 18 (max 2)",
+                                          "line":  -1
+                                      },
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.435 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "# 5 Tantangan Nyata Digital Manufacturing di Indonesia dan Cara Mengatasinya Banyak perusahaan manufaktur Indonesia memulai proyek *digital manufacturing* dengan anggaran disetujui, platform dipilih, vendor dikontrak.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"# 5 Tantangan Nyata Digital Manufacturing di Indonesia dan Cara Mengatasinya Banyak perusahaan manufaktur Indonesia memu\""
+                                  },
+                                  {
+                                      "passage":  "**Tantangan 2 — Kesenjangan talenta digital.** *Digital manufacturing* butuh orang yang bisa membaca tren OEE, menginterpretasikan pola *downtime*, dan menindaklanjuti *alert* sensor — bukan sekadar mengoperasikan mesin.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"**Tantangan 2 — Kesenjangan talenta digital.** *Digital manufacturing* butuh orang yang bisa membaca tren OEE, menginter\""
+                                  },
+                                  {
+                                      "passage":  "Menurut Dragos Industrial Ransomware Analysis Q2 2025, manufaktur menyumbang 65% dari seluruh insiden ransomware industri yang tercatat, dengan lonjakan 87% dibandingkan tahun sebelumnya.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"Menurut Dragos Industrial Ransomware Analysis Q2 2025, manufaktur menyumbang 65% dari seluruh insiden ransomware industr\""
+                                  },
+                                  {
+                                      "passage":  "**Tantangan 3 — Integrasi dengan sistem *legacy*.** PLC dari merek dominan industri (Siemens, Rockwell, Mitsubishi, Omron) umumnya menggunakan protokol *native proprietary* yang tidak kompatibel langsung dengan MES modern.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"**Tantangan 3 — Integrasi dengan sistem *legacy*.** PLC dari merek dominan industri (Siemens, Rockwell, Mitsubishi, Omro\""
+                                  },
+                                  {
+                                      "passage":  "OPC UA (standar IEC 62541) adalah *gateway* paling umum untuk menjembataninya — dan SAP Digital Manufacturing mendukung konektivitas via OPC UA.",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"OPC UA (standar IEC 62541) adalah *gateway* paling umum untuk menjembataninya — dan SAP Digital Manufacturing mendukung \""
+                                  },
+                                  {
+                                      "passage":  "Enam bulan kemudian, MES (*Manufacturing Execution System*) sudah terpasang, tapi supervisor lantai produksi masih mencetak laporan dari Excel dan mencoretnya dengan spidol merah.",
+                                      "candidate_score":  8,
+                                      "web_search_query":  "\"Enam bulan kemudian, MES (*Manufacturing Execution System*) sudah terpasang, tapi supervisor lantai produksi masih mence\""
+                                  },
+                                  {
+                                      "passage":  "**Tantangan 4 — Keamanan siber lingkungan OT.** Sebelum *digital manufacturing*, mesin pabrik beroperasi di jaringan terisolasi.",
+                                      "candidate_score":  7,
+                                      "web_search_query":  "\"**Tantangan 4 — Keamanan siber lingkungan OT.** Sebelum *digital manufacturing*, mesin pabrik beroperasi di jaringan ter\""
+                                  },
+                                  {
+                                      "passage":  "Kalau item master tidak konsisten atau BOM sudah ketinggalan, seluruh lapisan MES di atasnya tidak dapat diandalkan — OEE yang dihasilkan tidak mencerminkan realita.",
+                                      "candidate_score":  6,
+                                      "web_search_query":  "\"Kalau item master tidak konsisten atau BOM sudah ketinggalan, seluruh lapisan MES di atasnya tidak dapat diandalkan — OE\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-08\\final\\sap-clean-core-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-08T18:28:49+07:00",
+    "word_count":  2224,
+    "paragraph_count":  23,
+    "sentence_count":  113,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.309,
+                        "sentence_burstiness":  0.895,
+                        "top30_vocab_share":  0.341,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.309 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "*Mainstream maintenance* SAP Business Suite 7 (mencakup ECC) berakhir akhir 2027, dengan *extended maintenance* berbayar hingga akhir 2030 (SAP Support, diakses Juni 2026).",
+                                      "candidate_score":  34,
+                                      "web_search_query":  "\"*Mainstream maintenance* SAP Business Suite 7 (mencakup ECC) berakhir akhir 2027, dengan *extended maintenance* berbayar\""
+                                  },
+                                  {
+                                      "passage":  "Per Q1 2026, Joule sudah hadir di 35 solusi dengan lebih dari 2.500 Joule Skills dan 30+ agen khusus (SAP News Center, April 2026).",
+                                      "candidate_score":  27,
+                                      "web_search_query":  "\"Per Q1 2026, Joule sudah hadir di 35 solusi dengan lebih dari 2.500 Joule Skills dan 30+ agen khusus (SAP News Center, A\""
+                                  },
+                                  {
+                                      "passage":  "Per Q1 2026, Joule hadir di 35 solusi dengan lebih dari 2.500 *Joule Skills* dan 30+ agen khusus (SAP News Center, April 2026).",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"Per Q1 2026, Joule hadir di 35 solusi dengan lebih dari 2.500 *Joule Skills* dan 30+ agen khusus (SAP News Center, April\""
+                                  },
+                                  {
+                                      "passage":  "Per Q4 2025, SAP Business AI mencakup 350 fitur AI dan lebih dari 2.400 *Joule Skills* (SAP News Center, Januari 2026).",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Per Q4 2025, SAP Business AI mencakup 350 fitur AI dan lebih dari 2.400 *Joule Skills* (SAP News Center, Januari 2026).\""
+                                  },
+                                  {
+                                      "passage":  "Sejak Sapphire 2026, SAP juga mengonsolidasikan SAP BTP, Business Data Cloud, dan Business AI di bawah nama **SAP Business AI Platform**.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Sejak Sapphire 2026, SAP juga mengonsolidasikan SAP BTP, Business Data Cloud, dan Business AI di bawah nama **SAP Busine\""
+                                  },
+                                  {
+                                      "passage":  "Joule Studio adalah platform terkelola SAP untuk membangun AI *agent*, aplikasi, dan *workflow* kustom, yang diumumkan di SAP Sapphire pada Mei 2026, dengan *rollout* mulai Juni 2026.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Joule Studio adalah platform terkelola SAP untuk membangun AI *agent*, aplikasi, dan *workflow* kustom, yang diumumkan d\""
+                                  },
+                                  {
+                                      "passage":  "**Integrasi *API-first*.** Koneksi antar sistem lewat API standar, bukan jalur RFC tersembunyi.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"**Integrasi *API-first*.** Koneksi antar sistem lewat API standar, bukan jalur RFC tersembunyi.\""
+                                  },
+                                  {
+                                      "passage":  "SAP Joule adalah AI *copilot* dan asisten percakapan SAP yang tertanam di S/4HANA Cloud, SuccessFactors, SAP Analytics Cloud, dan puluhan solusi lain.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"SAP Joule adalah AI *copilot* dan asisten percakapan SAP yang tertanam di S/4HANA Cloud, SuccessFactors, SAP Analytics C\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

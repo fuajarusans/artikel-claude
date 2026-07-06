@@ -1,0 +1,57 @@
+{
+  "brief_id": "digital-manufacturing-03",
+  "article_title_id": "ROI Digital Manufacturing: Kerangka Biaya dan Manfaat untuk Manufaktur Indonesia",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-02",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "in-article (setelah paragraf pembuka, sebelum H2 pertama)",
+      "concept_from_writer": "Infografik vertikal 4 langkah menghitung ROI digital manufacturing — ikon + label singkat: (1) Baseline Metrik Saat Ini, (2) Proyeksi Manfaat Terukur, (3) Total Project Cost (TCO), (4) Payback Period — gaya korporat biru-putih, teks Bahasa Indonesia, format portrait cocok untuk in-article",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Konten berupa urutan 4 langkah berteks singkat dengan ikon — format infografis vertikal jauh lebih komunikatif daripada foto stok dan langsung mewakili kerangka yang dibahas artikel.",
+      "visual_direction": "Infografis portrait (tinggi), lebar sekitar 600px untuk in-article. Latar belakang putih bersih. Judul di atas: 'Kerangka 4 Langkah Menghitung ROI Digital Manufacturing' dalam tipografi tebal biru tua (biru korporat Soltius). Empat blok vertikal tersusun dari atas ke bawah, masing-masing berisi: ikon bulat berwarna biru (berbeda saturasi per langkah, semakin gelap ke bawah), nomor langkah (1–4) di pojok kiri atas ikon, dan dua baris teks di kanan ikon. Teks per langkah: (1) 'Baseline Metrik Saat Ini' — sub-label 'OEE, reject rate, downtime, overtime'; (2) 'Proyeksi Manfaat Terukur' — sub-label 'Range konservatif & optimis'; (3) 'Total Project Cost (TCO)' — sub-label 'Lisensi, implementasi, infra, training, AMS'; (4) 'Payback Period' — sub-label 'TCO ÷ Annual Savings'. Antar blok dihubungkan panah tipis biru ke bawah. Footer kecil: 'Sumber: Kerangka umum industri MES — sesuaikan dengan kondisi aktual'. Palet: biru tua #1A3C6E, biru muda #4A90D9, putih, abu-abu terang sebagai pemisah.",
+      "in_image_text_id": [
+        "Kerangka 4 Langkah Menghitung ROI Digital Manufacturing",
+        "1. Baseline Metrik Saat Ini",
+        "OEE, reject rate, downtime, overtime",
+        "2. Proyeksi Manfaat Terukur",
+        "Range konservatif & optimis",
+        "3. Total Project Cost (TCO)",
+        "Lisensi, implementasi, infra, training, AMS",
+        "4. Payback Period",
+        "TCO ÷ Annual Savings",
+        "Sumber: Kerangka umum industri MES — sesuaikan dengan kondisi aktual"
+      ],
+      "alt_id": "Infografis 4 langkah menghitung ROI digital manufacturing: baseline metrik, proyeksi manfaat, TCO, dan payback period",
+      "caption_id": "Kerangka 4 langkah ini membantu tim operasional menyusun business case yang bisa diperiksa asumsinya oleh CFO — mulai dari baseline OEE aktual hingga kalkulasi payback period berbasis TCO nyata.",
+      "sourcing_note": "Infografis original — tidak memerlukan screenshot atau foto. Tim desain membuat dari nol menggunakan panduan visual di atas. Pastikan semua teks menggunakan Bahasa Indonesia dan palet warna konsisten dengan brand Soltius (biru tua, putih, biru muda).",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "in-article (setelah tabel komponen TCO, sebelum H2 'Manfaat Finansial')",
+      "concept_from_writer": "Pie chart atau bar chart ilustratif proporsi komponen TCO digital manufacturing — lisensi/subscription, implementasi/consulting, infrastruktur, training, maintenance; tandai jelas 'Ilustrasi Proporsi Tipikal — Bervariasi per Proyek'; warna terdiferensiasi, gaya B2B bersih",
+      "suggested_asset_type": "chart",
+      "asset_type_rationale": "Artikel mengutip data proporsi TCO (implementasi/consulting ~40–60% dari total) yang perlu divisualisasikan secara kuantitatif — chart adalah pilihan tepat untuk menunjukkan distribusi relatif antar komponen biaya dengan cara yang mudah dibandingkan dan mudah diingat.",
+      "visual_direction": "Bar chart horizontal (landscape, lebar 700px) dengan 5 batang untuk 5 komponen TCO, diurutkan dari terbesar ke terkecil. Setiap batang berwarna berbeda dari palet B2B bersih: biru tua (Implementasi & Consulting ~40–60%), biru sedang (Infrastruktur & Hardware ~20–30%), biru muda (Lisensi/Subscription ~15–20%), abu-abu (Maintenance & Support ~10–15%), hijau toska (Training & Change Management ~5–10%). Label komponen di kiri batang, persentase ilustratif di ujung kanan batang dalam teks abu-abu kecil. Judul grafik di atas: 'Proporsi Komponen TCO Digital Manufacturing (Ilustrasi)'. Di bawah judul, catatan penting dalam kotak abu-abu terang: '⚠️ Ilustrasi Proporsi Tipikal — Bervariasi Signifikan per Proyek'. Sumbu X berlabel 'Proporsi dari Total Proyek (%)' dengan skala 0–60%. Legenda warna di bawah chart, teks Bahasa Indonesia. Footer kecil: 'Catatan: Proporsi aktual bergantung pada ukuran plant, kompleksitas integrasi ERP, dan infrastruktur awal yang tersedia.' Latar belakang putih, grid horizontal abu-abu tipis.",
+      "in_image_text_id": [
+        "Proporsi Komponen TCO Digital Manufacturing (Ilustrasi)",
+        "⚠️ Ilustrasi Proporsi Tipikal — Bervariasi Signifikan per Proyek",
+        "Implementasi & Consulting",
+        "Infrastruktur & Hardware",
+        "Lisensi / Subscription",
+        "Maintenance & Support",
+        "Training & Change Management",
+        "Proporsi dari Total Proyek (%)",
+        "Catatan: Proporsi aktual bergantung pada ukuran plant, kompleksitas integrasi ERP, dan infrastruktur awal yang tersedia."
+      ],
+      "alt_id": "Bar chart proporsi TCO digital manufacturing — implementasi dan consulting mendominasi 40–60% dari total biaya proyek",
+      "caption_id": "Dalam kebanyakan proyek MES, biaya implementasi dan consulting menjadi komponen terbesar — mencapai 40–60% dari total TCO. Proporsi ini bervariasi signifikan bergantung pada skala plant dan kematangan infrastruktur yang ada.",
+      "sourcing_note": "Chart data ilustratif — tidak memerlukan data riil atau screenshot. Tim desain membuat berdasarkan range proporsi dari artikel (implementasi/consulting ~40–60%, dst.). Pastikan label 'Ilustrasi Proporsi Tipikal — Bervariasi Signifikan per Proyek' ditampilkan dengan jelas agar tidak disalahartikan sebagai data riset spesifik.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

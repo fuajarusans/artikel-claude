@@ -1,0 +1,72 @@
+{
+  "brief_id": "data-warehouse-solutions-05",
+  "article_title_id": "Data Governance dan UU PDP: Mengapa Infrastruktur Data Warehouse Anda Menentukan Kepatuhan",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-02",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Infografik dua kolom berjudul \"5 Kewajiban Teknis UU PDP → Kapabilitas Data Warehouse\" — kiri: lima kewajiban regulasi (inventarisasi, akses, hapus, audit trail, retensi) dengan ikon skala hukum biru; kanan: kapabilitas teknis yang menjawabnya (data catalog, RBAC, lineage, audit logging, retention policy) dengan ikon server hijau; teks Bahasa Indonesia, latar putih korporat",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Pemetaan satu-ke-satu antara kewajiban regulasi dan kapabilitas teknis adalah argumen visual yang paling kuat untuk pembaca B2B — format dua kolom membuatnya langsung terbaca tanpa narasi tambahan.",
+      "visual_direction": "Infografik dua kolom berukuran lanskap (16:9 atau 4:3), latar putih bersih. Header tengah bertuliskan 'Infrastruktur Data Anda Menentukan Kepatuhan UU PDP' dalam font sans-serif tebal, biru tua (Soltius corporate blue #0055A5 atau setara). Garis vertikal pemisah di tengah berwarna abu-abu muda. KOLOM KIRI — judul kolom: 'Kewajiban UU No. 27/2022', warna header biru tua, ikon skala hukum emas kecil di kanan judul. Lima baris berurutan dari atas ke bawah, masing-masing dengan nomor bulat biru (01–05) dan teks Bahasa Indonesia tebal: (1) Inventarisasi Data Pribadi, (2) Pembatasan Akses & Privacy by Design, (3) Hak Hapus & Portabilitas, (4) Audit Trail & Notifikasi Breach, (5) Retensi Data Sesuai Tujuan. KOLOM KANAN — judul kolom: 'Kapabilitas Data Warehouse', warna header biru muda/teal #0097C4, ikon server/cloud kecil di kanan judul. Lima baris berurutan sejajar dengan kolom kiri, masing-masing dengan ikon kecil dan teks tebal: (1) Data Catalog — inventarisasi & klasifikasi metadata, (2) RBAC + Space-Level Security Isolation, (3) Data Lineage — lacak semua salinan data, (4) Audit Logging — log akses yang tidak dapat dimanipulasi, (5) Data Retention Policy — penghapusan otomatis terjadwal. Setiap pasang baris dihubungkan oleh panah horizontal biru (#0055A5) dari kiri ke kanan. Footer kecil: 'Sumber: UU No. 27/2022 & SAP Datasphere (2026)'. Tipografi: Inter atau Open Sans, semua teks Bahasa Indonesia.",
+      "in_image_text_id": [
+        "Infrastruktur Data Anda Menentukan Kepatuhan UU PDP",
+        "Kewajiban UU No. 27/2022",
+        "Kapabilitas Data Warehouse",
+        "01 Inventarisasi Data Pribadi",
+        "02 Pembatasan Akses & Privacy by Design",
+        "03 Hak Hapus & Portabilitas",
+        "04 Audit Trail & Notifikasi Breach",
+        "05 Retensi Data Sesuai Tujuan",
+        "Data Catalog — inventarisasi & klasifikasi metadata",
+        "RBAC + Space-Level Security Isolation",
+        "Data Lineage — lacak semua salinan data",
+        "Audit Logging — log akses yang tidak dapat dimanipulasi",
+        "Data Retention Policy — penghapusan otomatis terjadwal",
+        "Sumber: UU No. 27/2022 & SAP Datasphere (2026)"
+      ],
+      "alt_id": "Infografik pemetaan 5 kewajiban teknis UU PDP Indonesia terhadap kapabilitas data warehouse solusi enterprise",
+      "caption_id": "Lima kewajiban teknis UU No. 27/2022 yang berlaku efektif Oktober 2024 — mulai dari inventarisasi data pribadi hingga retensi sesuai tujuan — semuanya dapat dijawab oleh kapabilitas bawaan platform data warehouse modern seperti SAP Datasphere. Perusahaan yang membangun infrastruktur ini sekarang jauh lebih siap menghadapi audit BPDP dibandingkan yang menunggu regulasi enforcement aktif.",
+      "sourcing_note": "Infografik orisinal — desainer membuat dari nol berdasarkan brief ini. Tidak ada screenshot SAP yang diperlukan. Data untuk label bersumber dari teks UU No. 27/2022 dan dokumentasi SAP Datasphere Maret 2026. Gunakan palet korporat Soltius: biru tua #0055A5, biru muda/teal #0097C4, putih, abu-abu muda #F5F5F5.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "inline — setelah H2 'Bagaimana Data Warehouse Mendukung Kepatuhan Regulasi secara Teknis'",
+      "concept_from_writer": "Flowchart \"Data Lineage End-to-End\" — alur data dari kiri ke kanan: sistem sumber (ERP/CRM/SCM, ikon kubus biru) → proses ETL/ELT (ikon gear abu-abu) → data warehouse (silinder hijau, berlabel \"SAP Datasphere\") → laporan/dashboard (ikon layar); setiap sambungan berlabel dengan keterangan \"siapa mengubah apa\"; teks Bahasa Indonesia, gaya teknis-korporat",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Alur data lineage adalah konsep teknis arsitektural yang paling tepat divisualisasikan sebagai diagram flowchart — menunjukkan hubungan sebab-akibat dan titik-titik transformasi yang tidak bisa dikomunikasikan dengan foto atau ilustrasi generik.",
+      "visual_direction": "Diagram flowchart horizontal (lanskap, rasio 16:9), latar putih bersih dengan border abu-abu tipis. Judul di atas: 'Data Lineage End-to-End: Dari Sistem Sumber ke Laporan' dalam font sans-serif tebal, biru tua #0055A5. Alur dari KIRI ke KANAN dalam satu baris utama dengan empat simpul (node) utama dihubungkan oleh panah tebal biru #0055A5. SIMPUL 1 (paling kiri) — kotak persegi panjang dengan sudut membulat, border biru tua, background biru muda sangat pucat #E8F4FD. Di dalam: ikon kubus/database kecil biru; judul tebal 'Sistem Sumber'; tiga label kecil di bawah: 'ERP (SAP S/4HANA)', 'CRM', 'SCM'. PANAH 1 → SIMPUL 2: panah horizontal tebal biru; label di atas panah: 'Ekstraksi Data Mentah'; label kecil di bawah panah dalam kurung: '(siapa mengekstrak, kapan)'. SIMPUL 2 — kotak background abu-abu muda #F0F0F0, border abu-abu. Di dalam: ikon gear/roda gigi abu-abu; judul tebal 'ETL/ELT Pipeline'; label kecil: 'Transformasi & Validasi'. PANAH 2 → SIMPUL 3: panah horizontal tebal biru; label di atas panah: 'Data Terstandarisasi'; label kecil di bawah: '(aturan transformasi dicatat)'. SIMPUL 3 — kotak background hijau muda #E8F8F0, border hijau tua #1A7A4A, lebih besar dari simpul lain. Di dalam: ikon silinder database hijau; judul tebal 'Data Warehouse'; label kecil biru: 'SAP Datasphere'; label keterangan: 'Catalog · Lineage · RBAC · Audit Log'. PANAH 3 → SIMPUL 4: panah horizontal tebal biru; label di atas: 'Data Siap Analitik'; label kecil di bawah: '(siapa mengakses, kapan)'. SIMPUL 4 (paling kanan) — kotak background putih, border biru tua. Di dalam: ikon layar monitor/dashboard; judul tebal 'Laporan & Dashboard'; label kecil: 'Business Intelligence'. Di BAWAH diagram, satu baris teks kecil italic abu-abu: 'Setiap titik transformasi dicatat secara otomatis — memungkinkan audit trail penuh kepada BPDP atau auditor internal.' Footer kanan bawah: logo/nama 'Soltius' kecil.",
+      "in_image_text_id": [
+        "Data Lineage End-to-End: Dari Sistem Sumber ke Laporan",
+        "Sistem Sumber",
+        "ERP (SAP S/4HANA)",
+        "CRM",
+        "SCM",
+        "Ekstraksi Data Mentah",
+        "(siapa mengekstrak, kapan)",
+        "ETL/ELT Pipeline",
+        "Transformasi & Validasi",
+        "Data Terstandarisasi",
+        "(aturan transformasi dicatat)",
+        "Data Warehouse",
+        "SAP Datasphere",
+        "Catalog · Lineage · RBAC · Audit Log",
+        "Data Siap Analitik",
+        "(siapa mengakses, kapan)",
+        "Laporan & Dashboard",
+        "Business Intelligence",
+        "Setiap titik transformasi dicatat secara otomatis — memungkinkan audit trail penuh kepada BPDP atau auditor internal.",
+        "Soltius"
+      ],
+      "alt_id": "Diagram alur data lineage end-to-end dari sistem sumber ERP CRM ke SAP Datasphere hingga laporan dashboard bisnis",
+      "caption_id": "Data lineage end-to-end mencatat setiap perjalanan data — dari sistem sumber (ERP, CRM, SCM) melalui proses transformasi ETL hingga laporan akhir — beserta informasi siapa yang mengubah apa dan kapan. SAP Datasphere menyediakan kemampuan ini hingga level kolom (column-level lineage), memungkinkan perusahaan menjawab pertanyaan regulator dengan presisi teknis, bukan perkiraan.",
+      "sourcing_note": "Diagram teknis orisinal — desainer membuat dari nol berdasarkan brief ini. Tidak memerlukan screenshot SAP. Tidak ada UI SAP yang perlu ditampilkan; semua elemen adalah ikon dan label generik yang merepresentasikan arsitektur teknis. Gunakan palet: biru tua #0055A5 (panah dan aksen), hijau tua #1A7A4A (simpul data warehouse), abu-abu #F0F0F0 (simpul ETL), putih (latar). Referensi visual gaya: arsitektur diagram SAP atau AWS/Azure architecture diagram — bersih, teknis, korporat.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

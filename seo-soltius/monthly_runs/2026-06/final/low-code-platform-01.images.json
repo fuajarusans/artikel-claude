@@ -1,0 +1,57 @@
+{
+  "brief_id": "low-code-platform-01",
+  "article_title_id": "Low-Code Platform: Apa Itu dan Bagaimana Cara Kerjanya untuk Bisnis Enterprise?",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-02",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "body — setelah paragraf H2 'Apa Itu Low-Code Platform dan Mengapa Penting bagi Perusahaan Indonesia?'",
+      "concept_from_writer": "Diagram konseptual berlapis tiga: lapisan paling bawah bertuliskan \"Sistem Inti: ERP / S/4HANA\" (warna abu gelap), lapisan tengah \"SAP BTP — Platform Cloud\" (biru tua), lapisan atas \"SAP Build — Low-Code Suite\" dengan empat kotak kecil mewakili Apps, Process Automation, Work Zone, dan Code (biru muda/putih). Panah dua arah antara lapisan menegaskan integrasi native. Gaya infografik korporat bersih, teks Bahasa Indonesia, background putih.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Arsitektur berlapis tiga bersifat relasional — diagram adalah format yang paling akurat untuk menunjukkan ketergantungan dan arah integrasi antar lapisan teknologi, jauh lebih informatif daripada foto atau ilustrasi abstrak.",
+      "visual_direction": "Diagram arsitektur vertikal tiga lapisan dengan background putih bersih. Lapisan paling bawah: persegi panjang penuh-lebar dengan warna abu-abu gelap (#4A4A4A), teks putih tebal 'Sistem Inti: ERP / S/4HANA'. Lapisan tengah: persegi panjang penuh-lebar dengan warna biru tua Soltius (#1A3D6E), teks putih tebal 'SAP BTP — Platform Cloud', di bawah label biru lebih kecil bisa ditambahkan deskripsi pendek 'Integrasi, Data & Analytics, Keamanan'. Lapisan paling atas: persegi panjang penuh-lebar dengan warna biru medium (#2B6CB0), teks putih tebal 'SAP Build — Low-Code Suite'; di dalam lapisan ini terdapat empat kotak kecil sejajar berisi label: 'Build Apps', 'Build Process Automation', 'Build Work Zone', 'Build Code' — setiap kotak dengan border putih tipis, ikon minimal, teks Bahasa Indonesia berwarna putih atau hitam. Di antara ketiga lapisan terdapat panah dua arah (warna putih atau abu muda) yang menghubungkan lapisan bawah-tengah dan tengah-atas, dengan label kecil 'Integrasi Native via API'. Seluruh teks dalam Bahasa Indonesia. Tipografi sans-serif modern (misalnya Inter atau Roboto). Proporsi landscape 16:9 atau 4:3 horizontal. Gaya: korporat B2B, bersih, profesional — tidak ada efek gradien berlebihan.",
+      "in_image_text_id": [
+        "Sistem Inti: ERP / S/4HANA",
+        "SAP BTP — Platform Cloud",
+        "SAP Build — Low-Code Suite",
+        "Build Apps",
+        "Build Process Automation",
+        "Build Work Zone",
+        "Build Code",
+        "Integrasi Native via API"
+      ],
+      "alt_id": "Diagram arsitektur SAP Build di atas SAP BTP menunjukkan tiga lapisan: S/4HANA, BTP, dan suite low-code",
+      "caption_id": "SAP Build berjalan di atas SAP BTP sebagai lapisan di luar inti ERP S/4HANA, memungkinkan pengembangan aplikasi low-code tanpa memodifikasi sistem inti. Pendekatan ini selaras dengan prinsip SAP Clean Core dan side-by-side extensibility.",
+      "sourcing_note": "Ini adalah diagram arsitektur konseptual berdasarkan dokumentasi publik SAP — tidak memerlukan screenshot UI SAP. Tim desain dapat membuat dari nol mengikuti visual direction di atas. Referensi: https://pages.community.sap.com/topics/build dan https://www.sap.com/products/technology-platform.html",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body — setelah paragraf pembuka H2 'Apakah Low-Code Platform Cocok untuk Sistem Enterprise Berskala Besar?', sebelum H2 'Kapan Low-Code Bukan Solusinya'",
+      "concept_from_writer": "Infografik horizontal \"Spektrum Pengguna Low-Code\" — dari kiri ke kanan: kotak 1 \"Citizen Developer\" (ikon orang bisnis, label \"No-Code / Low-Code ringan\"), kotak 2 \"Business Analyst\" (ikon diagram, label \"Low-Code\"), kotak 3 \"Professional Developer\" (ikon kode, label \"Low-Code + Pro-Code\"), kotak 4 \"Engineer\" (ikon server, label \"Pro-Code / ABAP Cloud\"). Warna progresif dari biru muda ke biru tua. Teks Bahasa Indonesia. Gaya korporat B2B bersih.",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Spektrum kontinu dengan empat kategori diskrit cocok untuk format infografik teks-gambar horizontal; menampilkan urutan dan gradasi teknologi secara visual lebih jelas daripada tabel atau foto, dan mudah dibagikan secara internal oleh eksekutif yang ingin menjelaskan ke timnya.",
+      "visual_direction": "Infografik horizontal bertema 'Spektrum Pengguna Low-Code' dengan background putih. Layout: empat kotak atau kartu sejajar dari kiri ke kanan, dihubungkan oleh panah atau garis horizontal di bagian tengah yang menunjukkan spektrum kontinu. Warna progresif: kotak paling kiri biru muda (#A8D4F5), gradasi ke kiri-ke-kanan menuju biru tua (#1A3D6E) di kotak paling kanan. Setiap kotak berisi: (1) Ikon minimal di bagian atas — ikon orang bisnis untuk 'Citizen Developer', ikon diagram/grafik untuk 'Business Analyst', ikon tanda kurung kode untuk 'Professional Developer', ikon server/database untuk 'Engineer'; (2) Label nama peran, teks tebal Bahasa Indonesia; (3) Label kapabilitas platform di bawahnya, teks lebih kecil: 'No-Code / Low-Code ringan', 'Low-Code', 'Low-Code + Pro-Code', 'Pro-Code / ABAP Cloud'. Di bagian paling bawah infografik, tambahkan label sumbu: kiri 'Pengguna Bisnis Non-Teknis' dan kanan 'Engineer / Developer Profesional', dihubungkan anak panah. Teks seluruhnya Bahasa Indonesia. Tipografi sans-serif (Inter atau Open Sans). Proporsi landscape 16:9 atau banner horizontal 1200x400 px. Gaya: B2B korporat, informatif, tidak dekoratif berlebihan — cocok untuk dimasukkan dalam presentasi PowerPoint atau dokumen internal.",
+      "in_image_text_id": [
+        "Spektrum Pengguna Low-Code",
+        "Citizen Developer",
+        "No-Code / Low-Code ringan",
+        "Business Analyst",
+        "Low-Code",
+        "Professional Developer",
+        "Low-Code + Pro-Code",
+        "Engineer",
+        "Pro-Code / ABAP Cloud",
+        "Pengguna Bisnis Non-Teknis",
+        "Engineer / Developer Profesional"
+      ],
+      "alt_id": "Infografik spektrum pengguna low-code dari citizen developer hingga engineer profesional dengan jenis platform yang sesuai",
+      "caption_id": "Gartner memproyeksikan 80% pengguna low-code platform pada 2026 adalah citizen developer non-IT. Spektrum ini membantu tim IT menentukan profil pengguna mana yang siap mengadopsi SAP Build — dan governance apa yang dibutuhkan.",
+      "sourcing_note": "Infografik orisinal berdasarkan konsep Gartner 'citizen developer' dan data GigaOm 2025 dari artikel ini — tidak ada UI SAP yang perlu di-screenshot. Tim desain membuat dari nol mengikuti visual direction di atas. Tidak ada aset pihak ketiga yang perlu dilisensikan.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

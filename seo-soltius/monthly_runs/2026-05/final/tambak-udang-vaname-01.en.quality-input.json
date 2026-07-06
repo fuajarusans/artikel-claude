@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "C:\\Users\\seo\\Documents\\seo-stp\\monthly_runs\\2026-05\\final\\tambak-udang-vaname-01.en.md",
+    "language":  "en",
+    "generated_at":  "2026-05-26T15:16:58+07:00",
+    "word_count":  2800,
+    "paragraph_count":  37,
+    "sentence_count":  141,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.519,
+                        "sentence_burstiness":  0.809,
+                        "top30_vocab_share":  0.234,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "A 2023 peer-reviewed study confirmed AHPND in vannamei ponds in Bangkalan, East Java, using nested PCR ([*Journal of Marine Research*, Universitas Diponegoro, Vol 12 No 2, May 2023](https://ejournal3.undip.ac.id/index.php/jmr/article/view/35632/0)).",
+                                      "candidate_score":  40,
+                                      "web_search_query":  "\"A 2023 peer-reviewed study confirmed AHPND in vannamei ponds in Bangkalan, East Java, using nested PCR ([*Journal of Mar\""
+                                  },
+                                  {
+                                      "passage":  "## Selecting and Stocking Post-Larvae: The First 30 Days Decide Everything No grow-out program can rescue post-larvae that enter stressed or pathogen-bearing.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"## Selecting and Stocking Post-Larvae: The First 30 Days Decide Everything No grow-out program can rescue post-larvae th\""
+                                  },
+                                  {
+                                      "passage":  "Harvest indicators for a 100-to-120-day intensive cycle: - **ABW 15 to 20 g:** local market grade (50 to 70 head per kg).",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Harvest indicators for a 100-to-120-day intensive cycle: - **ABW 15 to 20 g:** local market grade (50 to 70 head per kg)\""
+                                  },
+                                  {
+                                      "passage":  "With 100-to-120-day cycles plus 10 to 14 days of inter-cycle preparation, intensive vannamei ponds realistically run 2 to 3 cycles per year.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"With 100-to-120-day cycles plus 10 to 14 days of inter-cycle preparation, intensive vannamei ponds realistically run 2 t\""
+                                  },
+                                  {
+                                      "passage":  "## Pond Preparation: The Phase Most Often Cut Short More than a third of failed cycles trace back to a rushed preparation phase.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Pond Preparation: The Phase Most Often Cut Short More than a third of failed cycles trace back to a rushed preparatio\""
+                                  },
+                                  {
+                                      "passage":  "- **ABW 25 to 30 g:** premium export grade (30 to 40 head per kg), typically requiring 110 to 130 days.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"- **ABW 25 to 30 g:** premium export grade (30 to 40 head per kg), typically requiring 110 to 130 days.\""
+                                  },
+                                  {
+                                      "passage":  "## Water Quality and Aeration: The Pillar That Decides the Cycle Of all the variables, water quality is the least forgiving.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Water Quality and Aeration: The Pillar That Decides the Cycle Of all the variables, water quality is the least forgiv\""
+                                  },
+                                  {
+                                      "passage":  "At intensive density of 100 to 150 PL per square meter, typical aeration requirements run roughly 1 HP per 400 to 500 kg of projected harvest biomass.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"At intensive density of 100 to 150 PL per square meter, typical aeration requirements run roughly 1 HP per 400 to 500 kg\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

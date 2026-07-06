@@ -1,0 +1,81 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-06\\final\\data-warehouse-solutions-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-03T01:46:55+07:00",
+    "word_count":  1530,
+    "paragraph_count":  31,
+    "sentence_count":  90,
+    "ai_detector":  {
+                        "score":  0.09,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.379,
+                        "sentence_burstiness":  0.516,
+                        "top30_vocab_share":  0.333,
+                        "flags":  [
+                                      {
+                                          "pattern":  "em-dash-overuse",
+                                          "severity":  "medium",
+                                          "snippet":  "Em-dashes count: 3 (max 2)",
+                                          "line":  -1
+                                      },
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.379 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Business Requirements \u0026 Data Audit | 2–4 minggu | Dokumen requirements; inventarisasi sumber data; baseline kualitas data | Scope terlalu luas; stakeholder tidak sepakat prioritas | | 2.",
+                                      "candidate_score":  29,
+                                      "web_search_query":  "\"Business Requirements \u0026 Data Audit | 2–4 minggu | Dokumen requirements; inventarisasi sumber data; baseline kualitas dat\""
+                                  },
+                                  {
+                                      "passage":  "## Mengapa Banyak Proyek Data Warehouse Terhenti di Tahun Pertama Gartner (Februari 2024) memproyeksikan 80% inisiatif *data governance* akan gagal pada 2027 karena kurangnya krisis nyata sebagai katalis.",
+                                      "candidate_score":  27,
+                                      "web_search_query":  "\"## Mengapa Banyak Proyek Data Warehouse Terhenti di Tahun Pertama Gartner (Februari 2024) memproyeksikan 80% inisiatif *\""
+                                  },
+                                  {
+                                      "passage":  "| Fase | Durasi | Output Utama | Risiko Umum | |---|---|---|---| | 1.",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"| Fase | Durasi | Output Utama | Risiko Umum | |---|---|---|---| | 1.\""
+                                  },
+                                  {
+                                      "passage":  "Pilihan yang Menentukan Arsitektur Anda Keputusan teknis di fase arsitektur yang efeknya terasa sepanjang proyek: ETL (*Extract, Transform, Load*) atau ELT (*Extract, Load, Transform*)?",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Pilihan yang Menentukan Arsitektur Anda Keputusan teknis di fase arsitektur yang efeknya terasa sepanjang proyek: ETL (*\""
+                                  },
+                                  {
+                                      "passage":  "**SAP ERP: Financial Ledger** (nilai bisnis tinggi, data terstruktur, kualitas biasanya terbaik) 2.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"**SAP ERP: Financial Ledger** (nilai bisnis tinggi, data terstruktur, kualitas biasanya terbaik) 2.\""
+                                  },
+                                  {
+                                      "passage":  "## Lima Fase Implementasi Data Warehouse: Dari Assessment ke Go-Live Setiap fase punya output konkret yang harus selesai sebelum fase berikutnya dimulai.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Lima Fase Implementasi Data Warehouse: Dari Assessment ke Go-Live Setiap fase punya output konkret yang harus selesai\""
+                                  },
+                                  {
+                                      "passage":  "Platform ini juga tetap mendukung ETL batch melalui Data Flow, sehingga memilih Datasphere tidak memaksa satu pendekatan saja (SAP Community Blog, 2024).",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Platform ini juga tetap mendukung ETL batch melalui Data Flow, sehingga memilih Datasphere tidak memaksa satu pendekatan\""
+                                  },
+                                  {
+                                      "passage":  "## Sebelum Mulai: Tiga Prasyarat yang Sering Diabaikan Satu asumsi yang sering membebani proyek sejak hari pertama: masalahnya adalah teknologi.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Sebelum Mulai: Tiga Prasyarat yang Sering Diabaikan Satu asumsi yang sering membebani proyek sejak hari pertama: masa\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

@@ -1,0 +1,26 @@
+﻿[
+    {
+        "prompt":  "Photorealistic aerial-low photograph of a row of 7 paddlewheel aerators churning brackish green water in an intensive vannamei shrimp pond at sunrise, taken from the earthen dike edge looking inward, strong motion blur on spinning paddles, brilliant white water spray catching golden-orange sunrise light, healthy green phytoplankton-tinted pond water, Indonesian coastal aquaculture setting with morning mist, warm golden-hour color palette, shallow depth of field with far paddlewheels softly blurred, professional aquaculture trade publication quality, no humans in frame, no text overlays, no watermarks, no logos, no anatomical errors, no dead animals, photorealistic, 16:9 aspect ratio.",
+        "output_path":  "C:/Users/seo/Documents/seo-stp/monthly_runs/2026-05/final/kincir-tambak-udang-01-01.png",
+        "size":  "1408x960",
+        "quality":  "high",
+        "format":  "png",
+        "background":  "auto"
+    },
+    {
+        "prompt":  "Clean flat-design technical schematic illustration showing a top-down bird\u0027s-eye view of a square shrimp pond, four paddlewheel aerator units positioned at the four corners each angled 35 degrees inward toward the pond center, thick curved orange arrows flowing from each paddlewheel unit forming a unified clockwise circular current pattern across the whole pond, a filled star symbol at the geometric center of the pond labeled with a bracket placeholder [CENTRAL DRAIN], the circular current arrows converging toward the center star, soft blue fill for pond water area, grey rectangles for the paddlewheel units, clean white dike border around the pond, bracket placeholders for labels [CIRCULAR FLOW] along the main current arrows, educational diagram style with minimal line weight, flat modern palette of sky blue and deep orange on white background, no photographs, no realistic textures, no text rendered as real characters (use bracket placeholders only), 16:9 aspect ratio, no logos, no watermarks.",
+        "output_path":  "C:/Users/seo/Documents/seo-stp/monthly_runs/2026-05/final/kincir-tambak-udang-01-02.png",
+        "size":  "1408x960",
+        "quality":  "medium",
+        "format":  "png",
+        "background":  "auto"
+    },
+    {
+        "prompt":  "Clean modern flat-design vertical infographic illustration showing three side-by-side pond size scenario panels, each panel contains a simple top-down pond outline icon in teal, a small paddlewheel aerator icon, and a bracket placeholder number [N UNITS] beneath the icon, three panels arranged horizontally from left to right representing small, medium, and large pond sizes with bracket placeholders [0.3 ha], [0.5 ha], [1 ha] as size labels, each panel has a bracket placeholder [STOCKING DENSITY: 100/m2] subtitle, the panels use soft teal and blue gradient fill cards on a white background, clean sans-serif icon style, no real text characters rendered (all text positions shown as bracket placeholders only), horizontal divider line separating a title area at the top from the three scenario cards below, modern aquaculture infographic aesthetic, 16:9 aspect ratio, no logos, no watermarks, no photographs.",
+        "output_path":  "C:/Users/seo/Documents/seo-stp/monthly_runs/2026-05/final/kincir-tambak-udang-01-03.png",
+        "size":  "1408x960",
+        "quality":  "medium",
+        "format":  "png",
+        "background":  "auto"
+    }
+]

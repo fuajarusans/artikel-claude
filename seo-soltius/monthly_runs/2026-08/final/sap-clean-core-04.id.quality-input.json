@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-08\\final\\sap-clean-core-04.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-08T18:31:15+07:00",
+    "word_count":  1986,
+    "paragraph_count":  20,
+    "sentence_count":  103,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.443,
+                        "sentence_burstiness":  0.705,
+                        "top30_vocab_share":  0.289,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.443 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Sebagai SAP Platinum Partner melalui keanggotaan United VARs dan bagian dari Metrodata Group sejak 1998, Soltius mendampingi perusahaan dari penilaian kesiapan, implementasi, hingga dukungan pasca *go-live*.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Sebagai SAP Platinum Partner melalui keanggotaan United VARs dan bagian dari Metrodata Group sejak 1998, Soltius mendamp\""
+                                  },
+                                  {
+                                      "passage":  "Satu tim SAP bahkan melaporkan berhasil mempensiunkan hampir 10% custom code mereka (SAP Community); bukti bahwa triase yang disiplin memang memangkas beban.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"Satu tim SAP bahkan melaporkan berhasil mempensiunkan hampir 10% custom code mereka (SAP Community); bukti bahwa triase \""
+                                  },
+                                  {
+                                      "passage":  "**Bagaimana Anda menginventaris dan men-triase *custom code* kami?** Partner yang serius memakai kerangka Keep / Refactor / Retire dan alat seperti *ABAP Test Cockpit* (ATC).",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"**Bagaimana Anda menginventaris dan men-triase *custom code* kami?** Partner yang serius memakai kerangka Keep / Refacto\""
+                                  },
+                                  {
+                                      "passage":  "Ini penting karena SAP mencatat 75–80% proses bisnis di semua perusahaan hampir identik dan tidak perlu kustomisasi; hanya 20–25% yang benar-benar membedakan secara kompetitif.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Ini penting karena SAP mencatat 75–80% proses bisnis di semua perusahaan hampir identik dan tidak perlu kustomisasi; han\""
+                                  },
+                                  {
+                                      "passage":  "## Red flag vs green flag: cara membaca jawaban partner Bacalah jawaban partner sebagai pola, bukan kalimat lepas.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Red flag vs green flag: cara membaca jawaban partner Bacalah jawaban partner sebagai pola, bukan kalimat lepas.\""
+                                  },
+                                  {
+                                      "passage":  "**Apa model dukungan dan sertifikasi Anda?** Idealnya ada *Application Management Services* (AMS) yang jelas dan sertifikasi *Partner Center of Expertise* (PCoE).",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"**Apa model dukungan dan sertifikasi Anda?** Idealnya ada *Application Management Services* (AMS) yang jelas dan sertifi\""
+                                  },
+                                  {
+                                      "passage":  "**Bagaimana strategi integrasi Anda: API-first atau masih RFC?** Integrasi modern berbasis *released API* (objek yang sudah di-*release* SAP dan dijamin stabil saat upgrade).",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"**Bagaimana strategi integrasi Anda: API-first atau masih RFC?** Integrasi modern berbasis *released API* (objek yang su\""
+                                  },
+                                  {
+                                      "passage":  "SAP menyatakan sekitar 75–80% proses bisnis di semua perusahaan hampir identik dan seharusnya berjalan standar; hanya 20–25% sisanya yang benar-benar membedakan secara kompetitif.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"SAP menyatakan sekitar 75–80% proses bisnis di semua perusahaan hampir identik dan seharusnya berjalan standar; hanya 20\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

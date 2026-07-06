@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-08\\final\\sap-clean-core-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-08T18:30:32+07:00",
+    "word_count":  2164,
+    "paragraph_count":  26,
+    "sentence_count":  102,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.418,
+                        "sentence_burstiness":  0.865,
+                        "top30_vocab_share":  0.331,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.418 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Sebabnya, *custom field* developer extensibility hanya didukung untuk aplikasi berbasis RAP (*ABAP RESTful Application Programming Model*) dan tidak mencakup SAP GUI maupun SOAP API.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Sebabnya, *custom field* developer extensibility hanya didukung untuk aplikasi berbasis RAP (*ABAP RESTful Application P\""
+                                  },
+                                  {
+                                      "passage":  "Menurut SAP Learning, \"semua yang mungkin di SAP S/4HANA Public Edition juga mungkin di Private Edition maupun on-premise\".",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Menurut SAP Learning,  semua yang mungkin di SAP S/4HANA Public Edition juga mungkin di Private Edition maupun on-premis\""
+                                  },
+                                  {
+                                      "passage":  "Pusat dari semua ini adalah aplikasi **Custom Fields and Logic** (CFL), nama aplikasi Fiori yang dikonfirmasi aktif per Juni 2026 (SAP Learning).",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"Pusat dari semua ini adalah aplikasi **Custom Fields and Logic** (CFL), nama aplikasi Fiori yang dikonfirmasi aktif per \""
+                                  },
+                                  {
+                                      "passage":  "Karena perubahan key-user tidak menyentuh kode inti SAP, upgrade berjalan tanpa harus mengerjakan ulang kustomisasi.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Karena perubahan key-user tidak menyentuh kode inti SAP, upgrade berjalan tanpa harus mengerjakan ulang kustomisasi.\""
+                                  },
+                                  {
+                                      "passage":  "Ambang praktisnya bisa Anda pakai sendiri: jika kebutuhan masih sebatas menambah field, menata tampilan, atau aturan validasi/kalkulasi, key user sanggup menanganinya.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Ambang praktisnya bisa Anda pakai sendiri: jika kebutuhan masih sebatas menambah field, menata tampilan, atau aturan val\""
+                                  },
+                                  {
+                                      "passage":  "- **Custom Business Objects:** membuat entitas data yang belum ada di standar SAP, lengkap dengan tabel, aplikasi Fiori, dan API sederhana.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"- **Custom Business Objects:** membuat entitas data yang belum ada di standar SAP, lengkap dengan tabel, aplikasi Fiori,\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apa itu key-user (in-app) extensibility di SAP S/4HANA?",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apa itu key-user (in-app) extensibility di SAP S/4HANA?\""
+                                  },
+                                  {
+                                      "passage":  "Dalam strategi SAP, key-user extensibility adalah satu dari tiga jalur perluasan yang sah: *key-user extensibility*, *developer extensibility* (ABAP Cloud), dan *side-by-side extensibility* di SAP BTP (SAP Learning).",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Dalam strategi SAP, key-user extensibility adalah satu dari tiga jalur perluasan yang sah: *key-user extensibility*, *de\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

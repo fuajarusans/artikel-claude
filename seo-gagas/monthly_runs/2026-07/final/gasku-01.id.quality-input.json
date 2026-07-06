@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07\\final\\gasku-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-09T12:10:50+07:00",
+    "word_count":  1612,
+    "paragraph_count":  18,
+    "sentence_count":  98,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.396,
+                        "sentence_burstiness":  0.684,
+                        "top30_vocab_share":  0.314,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.396 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Harga Gasku Rp4.500/LSP dikutip dari gagas.co.id (Juni 2026), sedangkan Pertamax Rp12.750/liter mengacu data per Desember 2025 (CNBC Indonesia); keduanya dapat berubah sesuai kebijakan.",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"Harga Gasku Rp4.500/LSP dikutip dari gagas.co.id (Juni 2026), sedangkan Pertamax Rp12.750/liter mengacu data per Desembe\""
+                                  },
+                                  {
+                                      "passage":  "Per November 2025, PGN mengoperasikan 14 SPBG di 7 provinsi yang melayani sekitar 2.200 kendaraan per hari (CNBC Indonesia, November 2025), termasuk Jakarta dan Surabaya.",
+                                      "candidate_score":  29,
+                                      "web_search_query":  "\"Per November 2025, PGN mengoperasikan 14 SPBG di 7 provinsi yang melayani sekitar 2.200 kendaraan per hari (CNBC Indones\""
+                                  },
+                                  {
+                                      "passage":  "LSP (*Liter Setara Premium*) adalah satuannya: 1 LSP setara konsumsi 1 liter bensin Premium, sehingga harga BBG bisa dibandingkan langsung dengan bensin.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"LSP (*Liter Setara Premium*) adalah satuannya: 1 LSP setara konsumsi 1 liter bensin Premium, sehingga harga BBG bisa dib\""
+                                  },
+                                  {
+                                      "passage":  "Gasku adalah layanan Bahan Bakar Gas (BBG) berbasis CNG dari PGN Gagas untuk transportasi: gas bumi dikompresi hingga ~200 bar dan dijual Rp4.500/LSP (gagas.co.id, Juni 2026).",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Gasku adalah layanan Bahan Bakar Gas (BBG) berbasis CNG dari PGN Gagas untuk transportasi: gas bumi dikompresi hingga ~2\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai anak usaha PGN, PGN Gagas menyalurkan BBG transportasi lewat jaringan SPBG sendiri melalui layanan Gasku.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Sebagai anak usaha PGN, PGN Gagas menyalurkan BBG transportasi lewat jaringan SPBG sendiri melalui layanan Gasku.\""
+                                  },
+                                  {
+                                      "passage":  "## Bagaimana Cara Kerja Gasku, dari Pipa Gas hingga Tangki Kendaraan Anda?",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Bagaimana Cara Kerja Gasku, dari Pipa Gas hingga Tangki Kendaraan Anda?\""
+                                  },
+                                  {
+                                      "passage":  "**Masuk tabung kendaraan.** CNG mengisi tabung berstandar internasional (ISO 11439 / ECE R110) di kendaraan.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"**Masuk tabung kendaraan.** CNG mengisi tabung berstandar internasional (ISO 11439 / ECE R110) di kendaraan.\""
+                                  },
+                                  {
+                                      "passage":  "**Kompresi.** Gas dipampatkan dari tekanan pipa hingga sekitar 200 bar, tekanan kerja CNG kendaraan.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"**Kompresi.** Gas dipampatkan dari tekanan pipa hingga sekitar 200 bar, tekanan kerja CNG kendaraan.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

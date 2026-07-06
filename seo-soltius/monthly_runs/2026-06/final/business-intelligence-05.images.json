@@ -1,0 +1,63 @@
+{
+  "brief_id": "business-intelligence-05",
+  "article_title_id": "5 Alasan Proyek Business Intelligence Gagal — dan Cara Mencegahnya",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-02",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Infografik horizontal bernomor \"5 Penyebab Kegagalan Proyek BI\" — lima kolom dengan ikon per penyebab dan warning sign-nya; warna merah-oranye untuk penyebab, hijau untuk solusi; teks Bahasa Indonesia; gaya korporat bersih",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Lima penyebab bernomor beserta warning sign dan solusi bersifat text-forward — infografik bernomor adalah format yang paling tepat untuk memvisualisasikan daftar terstruktur dan bisa dibagikan secara mandiri.",
+      "visual_direction": "Infografik horizontal satu-baris dengan lima kolom bernomor (01–05), masing-masing kolom memuat: nomor urut besar di atas (tipografi tebal korporat), ikon minimalis monoline di tengah (contoh: ikon database retak untuk #1, ikon orang tanpa tanda hubung untuk #2, ikon target kabur untuk #3, ikon jam melebar untuk #4, ikon roda gigi tanpa orang untuk #5), nama penyebab dalam teks Bold Bahasa Indonesia di bawah ikon, dan tanda warning sign dalam kotak kecil berwarna merah-oranye (#E04E39 / #F7941D) di bagian bawah setiap kolom. Di bawah seluruh baris, tambahkan strip hijau (#2E8B57) tipis dengan teks solusi ringkas (satu baris per kolom). Latar belakang putih bersih (#FFFFFF); pemisah kolom garis vertikal abu-abu tipis (#E0E0E0); tipografi sans-serif korporat (misalnya Inter atau Roboto). Ukuran: 1200×400px (landscape). Logo atau wordmark Soltius kecil di pojok kanan bawah bersifat opsional.",
+      "in_image_text_id": [
+        "01 — Data Master Tidak Siap",
+        "02 — Tidak Ada Business Champion",
+        "03 — Tujuan Tidak Spesifik",
+        "04 — Scope Creep & Perfeksionisme",
+        "05 — Tidak Ada Change Management",
+        "Warning: Analis lebih banyak cleansing daripada menganalisis",
+        "Warning: UAT didominasi IT; bisnis tidak terlibat",
+        "Warning: Tidak ada KPI sukses di dokumen proyek",
+        "Warning: Bulan ke-8, belum ada dashboard live",
+        "Warning: Manajer masih minta laporan Excel",
+        "Solusi: Data Readiness Assessment sebelum proyek",
+        "Solusi: Identifikasi Data Champion tiap unit bisnis",
+        "Solusi: Definisikan 3–5 pertanyaan bisnis terukur",
+        "Solusi: MVP — satu domain, 3–5 KPI, go-live 8–12 minggu",
+        "Solusi: Integrasikan BI ke rapat rutin; ubah kebiasaan kerja"
+      ],
+      "alt_id": "Infografik lima penyebab kegagalan proyek Business Intelligence beserta warning sign dan solusi pencegahannya",
+      "caption_id": "Menurut estimasi Gartner, 70–80% proyek Business Intelligence tidak menghasilkan nilai yang diharapkan. Lima penyebab berulang ini bisa dideteksi sejak awal — jauh sebelum proyek terlanjur melebar.",
+      "sourcing_note": "Infografik orisinal yang dibuat oleh tim desain Soltius/WEBARQ — tidak memerlukan lisensi pihak ketiga. Gunakan palet merah-oranye (#E04E39, #F7941D) untuk kolom penyebab/warning dan hijau (#2E8B57) untuk strip solusi. Ikon monoline tersedia di pustaka bebas seperti Phosphor Icons atau Material Icons (gunakan lisensi MIT/Apache).",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body",
+      "concept_from_writer": "Diagram tiga kolom — \"Adoption Rate\" (>60% aktif mingguan), \"Data Trust Index\" (manajemen merujuk dashboard di rapat), \"Time-to-Insight\" (hari dari pertanyaan ke jawaban data); warna biru-hijau korporat; teks Bahasa Indonesia; caption: \"Pantau sejak minggu pertama go-live\"",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Tiga metrik leading indicator dengan threshold kuantitatif divisualisasikan paling jelas dalam format diagram kolom atau kartu metrik berdampingan — lebih terarah daripada stock photo dan lebih ringkas daripada infografik panjang.",
+      "visual_direction": "Diagram tiga kartu metrik berdampingan (layout horizontal, setiap kartu berukuran sama). Setiap kartu memuat: nama metrik dalam teks Bold besar di bagian atas (warna biru korporat #0057A8), ikon relevan di tengah (ikon grafik naik untuk Adoption Rate, ikon komentar/meeting untuk Data Trust Index, ikon jam kilat untuk Time-to-Insight), threshold atau deskripsi kualitatif dalam kotak highlight berwarna biru-teal muda (#E8F4FD) di bagian bawah kartu, dan label status di bawah kotak highlight (teks hijau #2E8B57 untuk kondisi sehat, merah #E04E39 untuk kondisi perlu intervensi). Latar belakang keseluruhan putih (#FFFFFF) dengan shadow kartu tipis untuk kesan tiga dimensi ringan. Garis pemisah atau spasi putih antar kartu. Di bawah tiga kartu, satu baris teks kecil italic: \"Pantau sejak minggu pertama go-live.\" Tipografi sans-serif korporat konsisten dengan IMAGE_01. Ukuran: 1200×450px (landscape).",
+      "in_image_text_id": [
+        "Adoption Rate",
+        ">60% pengguna aktif setiap minggu",
+        "Sehat: >60% | Perlu intervensi: <30%",
+        "Data Trust Index",
+        "Manajemen merujuk dashboard dalam rapat",
+        "Sehat: Dipakai tanpa konfirmasi manual | Perlu intervensi: Masih minta rekap Excel",
+        "Time-to-Insight",
+        "Hari dari pertanyaan bisnis ke jawaban berbasis data",
+        "Sehat: Lebih cepat dari sebelum BI | Perlu intervensi: Tidak ada perubahan dari baseline",
+        "Pantau sejak minggu pertama go-live"
+      ],
+      "alt_id": "Diagram tiga leading indicator proyek Business Intelligence: Adoption Rate, Data Trust Index, dan Time-to-Insight beserta threshold kesehatannya",
+      "caption_id": "Tiga leading indicator ini lebih awal terdeteksi daripada ROI finansial. Jika adoption rate masih di bawah 30% setelah tiga bulan go-live, masalahnya hampir pasti bukan teknologi.",
+      "sourcing_note": "Diagram orisinal yang dibuat oleh tim desain Soltius/WEBARQ — tidak memerlukan lisensi pihak ketiga. Threshold yang ditampilkan (>60% aktif mingguan, <30% perlu intervensi) adalah patokan praktis lapangan seperti yang dijelaskan dalam artikel; label sebagai 'patokan praktis' bukan klaim riset formal jika digunakan di materi lain. Ikon monoline tersedia di pustaka bebas (Phosphor Icons, Material Icons).",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

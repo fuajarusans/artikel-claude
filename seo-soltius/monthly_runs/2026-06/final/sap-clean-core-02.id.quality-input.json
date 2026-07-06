@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-06\\final\\sap-clean-core-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-03T01:13:12+07:00",
+    "word_count":  1615,
+    "paragraph_count":  19,
+    "sentence_count":  92,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.489,
+                        "sentence_burstiness":  0.916,
+                        "top30_vocab_share":  0.337,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "**Fase Analisis: ABAP Test Cockpit (ATC).** Jalankan ABAP Test Cockpit (ATC) dalam ABAP Development Tools (ADT) Eclipse.",
+                                      "candidate_score":  34,
+                                      "web_search_query":  "\"**Fase Analisis: ABAP Test Cockpit (ATC).** Jalankan ABAP Test Cockpit (ATC) dalam ABAP Development Tools (ADT) Eclipse.\""
+                                  },
+                                  {
+                                      "passage":  "**Fase Inventarisasi: SAP Readiness Check.** Jalankan SAP Readiness Check melalui portal SAP for Me (gratis bagi pemegang kontrak SAP aktif; tersedia juga di SAP Cloud ALM).",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"**Fase Inventarisasi: SAP Readiness Check.** Jalankan SAP Readiness Check melalui portal SAP for Me (gratis bagi pemegan\""
+                                  },
+                                  {
+                                      "passage":  "SAP Custom Code Migration app (Fiori) melacak status triase per objek secara terpusat.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"SAP Custom Code Migration app (Fiori) melacak status triase per objek secara terpusat.\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai SAP Platinum Partner melalui United VARs, Soltius mendampingi perusahaan dari audit custom code hingga migrasi ke model ABAP Cloud, termasuk memfasilitasi keputusan triase bersama tim IT klien.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Sebagai SAP Platinum Partner melalui United VARs, Soltius mendampingi perusahaan dari audit custom code hingga migrasi k\""
+                                  },
+                                  {
+                                      "passage":  "SAP Readiness Check diakses melalui portal SAP for Me (gratis bagi pemegang kontrak SAP aktif; tersedia juga di SAP Cloud ALM).",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"SAP Readiness Check diakses melalui portal SAP for Me (gratis bagi pemegang kontrak SAP aktif; tersedia juga di SAP Clou\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apa itu ABAP Cloud dan apa bedanya dengan ABAP klasik?",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apa itu ABAP Cloud dan apa bedanya dengan ABAP klasik?\""
+                                  },
+                                  {
+                                      "passage":  "**Fase Migrasi dan Verifikasi: ABAP Cloud.** Kode yang dipertahankan ditulis ulang menggunakan *released objects* dan API resmi SAP.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"**Fase Migrasi dan Verifikasi: ABAP Cloud.** Kode yang dipertahankan ditulis ulang menggunakan *released objects* dan AP\""
+                                  },
+                                  {
+                                      "passage":  "Kerangka triase yang konsisten digunakan komunitas SAP dan panduan migrasi (Custom Code Migration Guide for SAP S/4HANA 2025) membagi kode ke dalam beberapa jalur keputusan.",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"Kerangka triase yang konsisten digunakan komunitas SAP dan panduan migrasi (Custom Code Migration Guide for SAP S/4HANA \""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

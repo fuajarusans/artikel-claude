@@ -1,0 +1,87 @@
+{
+  "brief_id": "data-warehouse-solutions-02",
+  "article_title_id": "Real-Time vs Batch Data Warehouse: Kapan Anda Perlu Data Seketika",
+  "language": "id",
+  "image_count": 3,
+  "planned_at": "2026-06-08",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Infografik vertikal tiga kolom berdampingan berlabel \"Batch\", \"Near-Real-Time (CDC)\", dan \"Streaming\". Tiap kolom menampilkan ikon jam yang menunjukkan latensi (jam/hari → detik/menit → milidetik), ikon kompleksitas (sederhana → menengah → tinggi), dan satu contoh use-case (laporan keuangan → stok gudang → deteksi fraud). Gaya korporat biru-putih, teks Bahasa Indonesia, mudah di-screenshot untuk dibagikan via chat internal.",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Membandingkan tiga pola dengan atribut paralel (latensi, kompleksitas, use-case) paling tepat disajikan sebagai infografik kolom visual — jauh lebih cepat dipahami sekilas oleh pembaca B2B daripada tabel teks.",
+      "visual_direction": "Infografik vertikal lebar penuh, tiga kolom berdampingan dengan proporsi sama. Latar belakang putih bersih, header kolom di atas dengan latar biru korporat tua (#003b6f atau senada). Judul kartu masing-masing kolom: 'Batch', 'Near-Real-Time (CDC)', 'Streaming'. Setiap kolom berisi tiga baris ikon + teks: (1) ikon jam analog — Batch menunjukkan angka jam/hari bertuliskan 'Latensi: Jam hingga Hari', Near-Real-Time menunjukkan angka menit dengan 'Latensi: Detik hingga Menit', Streaming menunjukkan kilat/stopwatch dengan 'Latensi: Milidetik'; (2) ikon speedometer atau bintang kompleksitas — Batch berlabel 'Kompleksitas: Rendah' (warna hijau), Near-Real-Time berlabel 'Kompleksitas: Menengah' (warna kuning), Streaming berlabel 'Kompleksitas: Tinggi' (warna merah); (3) ikon use-case — dokumen laporan untuk Batch berlabel 'Contoh: Laporan Keuangan Bulanan', ikon gudang/stok untuk Near-Real-Time berlabel 'Contoh: Stok Lintas Gudang', ikon perisai deteksi untuk Streaming berlabel 'Contoh: Deteksi Fraud Real-Time'. Garis pemisah kolom tipis abu-abu. Tipografi sans-serif bersih, semua teks dalam Bahasa Indonesia. Ukuran minimum 1200 × 600 px agar mudah dibagikan via chat internal.",
+      "in_image_text_id": [
+        "Batch",
+        "Near-Real-Time (CDC)",
+        "Streaming",
+        "Latensi: Jam hingga Hari",
+        "Latensi: Detik hingga Menit",
+        "Latensi: Milidetik",
+        "Kompleksitas: Rendah",
+        "Kompleksitas: Menengah",
+        "Kompleksitas: Tinggi",
+        "Contoh: Laporan Keuangan Bulanan",
+        "Contoh: Stok Lintas Gudang",
+        "Contoh: Deteksi Fraud Real-Time"
+      ],
+      "alt_id": "Infografik tiga kolom membandingkan pola data warehouse: Batch (jam/hari), Near-Real-Time CDC (detik/menit), dan Streaming (milidetik)",
+      "caption_id": "Tiga pola integrasi data warehouse dibedakan oleh latensi dan kompleksitas. Pilihan yang tepat bergantung pada seberapa cepat keputusan bisnis harus bereaksi setelah data berubah — bukan seberapa canggih teknologinya.",
+      "sourcing_note": "Ilustrasi orisinal — tidak memerlukan screenshot SAP. Tim desain dapat membuat infografik ini dari awal menggunakan palet korporat biru-putih Soltius. Tidak ada UI SAP yang perlu direplikasi.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body — setelah H2 'Apa Bedanya di Mata Pembaca Bisnis'",
+      "concept_from_writer": "Diagram arsitektur SAP Datasphere hibrida (flow diagram horizontal). Menunjukkan tiga jalur data masuk ke SAP Datasphere secara bersamaan: (1) panah \"Batch\" dari berbagai sumber via Data Flow, (2) panah \"Near-Real-Time / CDC\" dari S/4HANA via Replication Flow, (3) panah \"Federasi virtual\" dari sistem sumber via Remote Table. Di dalam Datasphere: Transformation Flow → Data Mart → keluar ke SAP Analytics Cloud. Label singkat di tiap jalur, gaya korporat biru-putih, teks Bahasa Indonesia.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Diagram alur arsitektur (flow diagram) adalah format yang tepat untuk menunjukkan tiga jalur data yang berjalan bersamaan dalam satu platform — informasi ini bersifat teknis dan relasional, tidak bisa disampaikan cukup dengan teks atau foto stok.",
+      "visual_direction": "Flow diagram horizontal berukuran lebar. Dibagi tiga zona utama dari kiri ke kanan: (1) Zona Sumber Data, (2) Zona SAP Datasphere (kotak besar di tengah berwarna biru tua dengan logo teks 'SAP Datasphere'), (3) Zona Output. Di zona kiri, tiga grup sumber ditumpuk vertikal: grup atas berlabel 'Sumber Data Umum' (ikon silinder database, warna abu-abu), grup tengah berlabel 'SAP S/4HANA' (ikon roda gigi atau logo SAP generik, warna biru muda), grup bawah berlabel 'Sistem Sumber Lain' (ikon silinder, warna abu-abu). Tiga panah dari kiri ke tengah, masing-masing diberi label: panah dari 'Sumber Data Umum' berlabel 'Batch — via Data Flow' (panah abu-abu, garis tebal), panah dari 'SAP S/4HANA' berlabel 'Near-Real-Time / CDC — via Replication Flow' (panah biru cerah, ikon kilat kecil di tengah panah), panah dari 'Sistem Sumber Lain' berlabel 'Federasi Virtual — via Remote Table' (panah putus-putus, ikon kunci/virtual). Di dalam kotak SAP Datasphere: subkotak 'Transformation Flow' → subkotak 'Data Mart' (dihubungkan panah internal kanan). Dari sisi kanan kotak SAP Datasphere, satu panah keluar berlabel 'Analitik & Laporan' menuju kotak kanan 'SAP Analytics Cloud' (ikon biru muda). Semua teks dalam Bahasa Indonesia. Tipografi sans-serif, palet biru tua / biru muda / putih / abu-abu, latar putih. Catatan untuk tim: JANGAN mereplikasi UI aktual SAP Datasphere — ini adalah diagram arsitektur skematis, bukan screenshot produk.",
+      "in_image_text_id": [
+        "Sumber Data Umum",
+        "SAP S/4HANA",
+        "Sistem Sumber Lain",
+        "Batch — via Data Flow",
+        "Near-Real-Time / CDC — via Replication Flow",
+        "Federasi Virtual — via Remote Table",
+        "SAP Datasphere",
+        "Transformation Flow",
+        "Data Mart",
+        "Analitik & Laporan",
+        "SAP Analytics Cloud"
+      ],
+      "alt_id": "Diagram arsitektur SAP Datasphere menampilkan tiga jalur integrasi data: Batch via Data Flow, CDC via Replication Flow, dan federasi via Remote Table",
+      "caption_id": "SAP Datasphere menggabungkan tiga pola integrasi dalam satu platform: batch terjadwal via Data Flow, near-real-time CDC via Replication Flow dari S/4HANA, dan akses federasi virtual via Remote Table. Setiap sumber data dipetakan ke jalur yang paling sesuai.",
+      "sourcing_note": "Diagram arsitektur skematis — TIDAK memerlukan screenshot antarmuka SAP Datasphere yang asli. Jangan mereplikasi atau merekayasa tampilan UI SAP; gunakan kotak dan panah berlabel untuk merepresentasikan komponen arsitektur. Jika tim ingin menyertakan screenshot SAP Datasphere asli sebagai pendukung terpisah, minta kepada tim SAP atau Soltius — jangan fabrikasi UI.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_03",
+      "position": "body — setelah H2 'Apa Bedanya di Mata Pembaca Bisnis' (sebelum H2 'Kapan Real-Time Justru Pemborosan')",
+      "concept_from_writer": "Flowchart keputusan minimalis berjudul \"Batch atau Streaming?\". Mulai dari kotak \"Seberapa cepat keputusan harus bereaksi setelah data berubah?\" → dua cabang: \">1 jam\" (mengarah ke \"Batch terjadwal cukup\", warna hijau) dan \"<15 menit\" (mengarah ke pertanyaan lanjutan \"Apakah tindakan diambil otomatis?\"). Cabang otomatis → \"Pertimbangkan CDC/streaming\". Gaya diagram bersih, warna korporat, teks Bahasa Indonesia.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Panduan keputusan bercabang paling efektif dalam format flowchart — pembaca B2B dapat menelusuri jalur yang relevan dengan bisnis mereka dalam hitungan detik, lebih cepat dari membaca tabel teks.",
+      "visual_direction": "Flowchart keputusan vertikal minimalis dengan latar belakang putih bersih. Judul di atas: 'Batch atau Streaming? Panduan Keputusan' (tipografi bold, biru tua). Struktur node dari atas ke bawah: (1) Kotak persegi panjang biru tua di paling atas berlabel 'Seberapa cepat keputusan bisnis harus bereaksi setelah data berubah?'. Dua panah turun ke kiri dan kanan: panah kiri berlabel 'Lebih dari 1 jam', panah kanan berlabel 'Kurang dari 15 menit'. (2) Panah kiri menuju kotak persegi panjang berwarna hijau (#2e7d32 atau senada) berlabel 'Batch terjadwal sudah cukup' — di bawahnya kotak kecil abu-abu bertuliskan contoh: 'Laporan keuangan, rekonsiliasi, BI historis'. (3) Panah kanan menuju kotak belah ketupat (diamond) berwarna kuning/oranye berlabel 'Apakah tindakan diambil secara otomatis oleh sistem?'. Dari diamond, dua panah: panah kiri berlabel 'Tidak — manusia memutuskan' menuju kotak hijau muda berlabel 'Near-real-time opsional — timbang biaya vs manfaat'; panah kanan berlabel 'Ya — sistem otomatis' menuju kotak biru cerah berlabel 'Pertimbangkan CDC / Near-Real-Time' — di bawahnya kotak kecil abu-abu bertuliskan contoh: 'Deteksi fraud, restock otomatis, harga dinamis'. Semua garis koneksi berwarna abu-abu gelap, sudut membulat. Tipografi sans-serif bersih, semua teks Bahasa Indonesia. Ukuran minimum 800 × 900 px.",
+      "in_image_text_id": [
+        "Batch atau Streaming? Panduan Keputusan",
+        "Seberapa cepat keputusan bisnis harus bereaksi setelah data berubah?",
+        "Lebih dari 1 jam",
+        "Kurang dari 15 menit",
+        "Batch terjadwal sudah cukup",
+        "Laporan keuangan, rekonsiliasi, BI historis",
+        "Apakah tindakan diambil secara otomatis oleh sistem?",
+        "Tidak — manusia memutuskan",
+        "Near-real-time opsional — timbang biaya vs manfaat",
+        "Ya — sistem otomatis",
+        "Pertimbangkan CDC / Near-Real-Time",
+        "Deteksi fraud, restock otomatis, harga dinamis"
+      ],
+      "alt_id": "Flowchart panduan keputusan memilih antara batch dan streaming berdasarkan kecepatan reaksi keputusan bisnis dan otomasi tindakan",
+      "caption_id": "Panduan keputusan sederhana: mulai dari kecepatan reaksi yang dibutuhkan, bukan dari teknologinya. Jika tindakan tidak berubah dalam kurang dari satu jam, batch terjadwal hampir selalu lebih efisien.",
+      "sourcing_note": "Ilustrasi orisinal — tidak memerlukan screenshot SAP. Tim desain membuat flowchart ini dari awal menggunakan palet korporat biru-putih-hijau Soltius. Tidak ada UI produk yang perlu direplikasi.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

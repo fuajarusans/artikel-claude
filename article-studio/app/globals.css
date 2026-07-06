@@ -1,0 +1,112 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+
+  --bg: #0b0f17;
+  --surface: #111725;
+  --surface-2: #161f31;
+  --border: #243049;
+  --ink: #e7ecf5;
+  --muted: #93a0b8;
+  --brand: #4f7cff;
+  --brand-ink: #ffffff;
+  --ok: #34d399;
+  --warn: #fbbf24;
+  --danger: #f87171;
+}
+
+* {
+  border-color: var(--border);
+}
+
+html,
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-sans);
+}
+
+body {
+  min-height: 100vh;
+}
+
+/* Thin scrollbars */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--border) transparent;
+}
+
+/* Rendered article (preview) typography */
+.prose-article {
+  line-height: 1.7;
+  color: var(--ink);
+}
+.prose-article h1 {
+  font-size: 1.7rem;
+  font-weight: 700;
+  margin: 1.2rem 0 0.6rem;
+}
+.prose-article h2 {
+  font-size: 1.3rem;
+  font-weight: 650;
+  margin: 1.6rem 0 0.5rem;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.3rem;
+}
+.prose-article h3 {
+  font-size: 1.08rem;
+  font-weight: 600;
+  margin: 1.1rem 0 0.4rem;
+}
+.prose-article p {
+  margin: 0.6rem 0;
+}
+.prose-article ul,
+.prose-article ol {
+  margin: 0.6rem 0 0.6rem 1.4rem;
+}
+.prose-article ul {
+  list-style: disc;
+}
+.prose-article ol {
+  list-style: decimal;
+}
+.prose-article li {
+  margin: 0.25rem 0;
+}
+.prose-article a {
+  color: var(--brand);
+  text-decoration: underline;
+}
+.prose-article blockquote {
+  border-left: 3px solid var(--brand);
+  padding: 0.4rem 0.9rem;
+  margin: 0.8rem 0;
+  background: var(--surface-2);
+  border-radius: 0 6px 6px 0;
+  color: var(--muted);
+}
+.prose-article table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0.9rem 0;
+  font-size: 0.92rem;
+}
+.prose-article th,
+.prose-article td {
+  border: 1px solid var(--border);
+  padding: 0.45rem 0.65rem;
+  text-align: left;
+}
+.prose-article th {
+  background: var(--surface-2);
+}
+.prose-article code {
+  background: var(--surface-2);
+  padding: 0.1rem 0.35rem;
+  border-radius: 4px;
+  font-size: 0.85em;
+}

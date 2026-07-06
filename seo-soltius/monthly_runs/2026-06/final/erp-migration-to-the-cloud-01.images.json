@@ -1,0 +1,56 @@
+{
+  "brief_id": "erp-migration-to-the-cloud-01",
+  "article_title_id": "Brownfield, Greenfield, atau Bluefield? Panduan Memilih Jalur Migrasi ERP ke Cloud",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-02",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Infografis tiga jalur migrasi paralel — dari kotak \"SAP ECC On-Premises\" menuju \"SAP S/4HANA Cloud\", tiga jalur berlabel \"Brownfield / System Conversion\", \"Greenfield / New Implementation\", \"Bluefield / Selective Data Transition\" dengan ikon pembeda (kunci inggris untuk brownfield, benih untuk greenfield, pinset untuk bluefield), gaya korporat biru-abu-putih, teks Bahasa Indonesia",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Diagram alur paralel paling tepat untuk menggambarkan tiga jalur yang berbeda menuju tujuan yang sama — lebih informatif dan spesifik-substansi daripada stock photo, sesuai audiens B2B IT.",
+      "visual_direction": "Infografis horizontal berbentuk flowchart dengan latar belakang putih bersih dan aksen biru korporat (Soltius). Di sisi kiri: satu kotak biru tua bertuliskan 'SAP ECC On-Premises'. Dari kotak ini keluar tiga panah melengkung (masing-masing lebar, berbeda warna) menuju ke kanan menuju satu kotak biru muda bertuliskan 'SAP S/4HANA Cloud'. Jalur atas berlabel 'Brownfield / System Conversion' berwarna biru tua dengan ikon kunci inggris di tengah jalur; jalur tengah berlabel 'Greenfield / New Implementation' berwarna hijau teal dengan ikon benih/tunas; jalur bawah berlabel 'Bluefield / Selective Data Transition' berwarna ungu-biru dengan ikon pinset. Di bawah setiap label jalur terdapat satu baris keterangan ringkas: brownfield = 'Semua data & konfigurasi dipertahankan', greenfield = 'Implementasi baru dari nol', bluefield = 'Data & proses dipilih secara selektif'. Font sans-serif modern, ukuran judul 18–20pt, keterangan 11–12pt. Dimensi disarankan 1200 x 500 px landscape.",
+      "in_image_text_id": [
+        "SAP ECC On-Premises",
+        "SAP S/4HANA Cloud",
+        "Brownfield / System Conversion",
+        "Greenfield / New Implementation",
+        "Bluefield / Selective Data Transition",
+        "Semua data & konfigurasi dipertahankan",
+        "Implementasi baru dari nol",
+        "Data & proses dipilih secara selektif"
+      ],
+      "alt_id": "Diagram tiga jalur migrasi ERP ke cloud: brownfield, greenfield, dan bluefield dari SAP ECC menuju SAP S/4HANA Cloud",
+      "caption_id": "Tiga jalur utama migrasi ERP ke cloud: brownfield (konversi langsung), greenfield (implementasi baru), dan bluefield/Selective Data Transition (migrasi selektif). Berdasarkan penelitian ISG 2026, bluefield/SDT kini menjadi pendekatan terpopuler dengan sekitar 48% proyek SAP S/4HANA global.",
+      "sourcing_note": "Buat sebagai diagram/infografis original — tidak membutuhkan screenshot SAP. Gunakan palet Soltius (biru korporat #003087 atau sejenisnya, putih, abu-abu muda). Ikon: kunci inggris, benih/tunas, dan pinset tersedia di Flaticon atau Noun Project (lisensi komersial). Alternatif: ilustrasi vektor sederhana yang dibuat tim desain.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body",
+      "concept_from_writer": "Matriks visual dua dimensi — sumbu X \"Level Kustomisasi ECC\" (rendah ke tinggi), sumbu Y \"Volume Data Historis\" (rendah ke tinggi), dengan tiga zona berwarna: zona kiri-bawah \"Greenfield\" (hijau), zona kanan-atas \"Brownfield\" (biru), zona tengah \"Bluefield / SDT\" (ungu), ikon perusahaan kecil dan enterprise sebagai contoh posisi, teks Bahasa Indonesia, gaya infografis korporat",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Matriks dua dimensi adalah format infografis (bukan diagram alur) yang paling efektif untuk memetakan empat variabel keputusan secara visual — membantu pembaca B2B langsung 'menemukan' posisi bisnis mereka tanpa membaca teks panjang.",
+      "visual_direction": "Infografis kotak/matriks dengan dua sumbu: sumbu X horizontal berlabel 'Level Kustomisasi ECC' (ujung kiri = 'Rendah', ujung kanan = 'Tinggi') dan sumbu Y vertikal berlabel 'Volume Data Historis' (bawah = 'Rendah', atas = 'Tinggi'). Area matriks dibagi menjadi tiga zona warna semi-transparan yang tumpang tindih di tengah: zona kiri-bawah diisi warna hijau muda bertuliskan 'Greenfield' dengan subjudul 'Proses standar, data tidak kritikal'; zona kanan-atas diisi warna biru tua bertuliskan 'Brownfield' dengan subjudul 'Kustomisasi tinggi, data wajib dibawa'; zona tengah-diagonal diisi warna ungu/lavender bertuliskan 'Bluefield / SDT' dengan subjudul 'Selektivitas optimal'. Tambahkan 2–3 ikon posisi contoh di dalam matriks: ikon gedung kecil (perusahaan menengah) di zona greenfield; ikon gedung besar (enterprise) di zona brownfield; ikon dua gedung (konglomerat) di zona bluefield. Latar belakang putih, border abu-abu tipis, font sans-serif, palet korporat Soltius. Dimensi disarankan 900 x 750 px portrait/square.",
+      "in_image_text_id": [
+        "Level Kustomisasi ECC",
+        "Rendah",
+        "Tinggi",
+        "Volume Data Historis",
+        "Greenfield",
+        "Proses standar, data tidak kritikal",
+        "Brownfield",
+        "Kustomisasi tinggi, data wajib dibawa",
+        "Bluefield / SDT",
+        "Selektivitas optimal"
+      ],
+      "alt_id": "Matriks keputusan migrasi SAP: zona greenfield, brownfield, dan bluefield berdasarkan level kustomisasi ECC dan volume data historis",
+      "caption_id": "Matriks keputusan dua dimensi untuk memilih jalur migrasi ERP ke cloud. Posisikan kondisi bisnis Anda berdasarkan dua variabel utama: seberapa besar kustomisasi SAP ECC yang ada, dan seberapa kritis data historis yang harus dibawa ke S/4HANA.",
+      "sourcing_note": "Buat sebagai infografis original — tidak membutuhkan screenshot SAP. Warna zona: gunakan palet korporat Soltius untuk biru (brownfield), tambah hijau teal (greenfield), dan ungu/lavender (bluefield) yang harmonis. Ikon gedung tersedia di Flaticon, Material Icons, atau dibuat custom sebagai ilustrasi vektor sederhana.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

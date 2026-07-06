@@ -1,0 +1,80 @@
+{
+  "keyword": "Perusahaan CNG Indonesia",
+  "keyword_slug": "perusahaan-cng-indonesia",
+  "month": "2026-07",
+  "captured_at": "2026-06-09",
+  "landing_page": "https://gagas.co.id/perusahaan-cng-indonesia/",
+  "landing_page_summary": "Hub hibrida (condong informasional, ~70% edukasi CNG + 30% pitch). Menjelaskan definisi & karakteristik CNG, model distribusi 'virtual pipeline' (GTM, PRS, telemetri IoT), portofolio Gasku & Gaslink, segmen pasar (keramik, peleburan logam, tekstil, kertas, BRT, hospitality, RS, logistik, Horeka), klaim keselamatan tingkat tinggi & security of supply via ekosistem PGN, peran CNG di transisi energi & dampak makroekonomi, ditutup CTA konsultasi. CELAH: tidak ada sertifikasi pihak ketiga yang dirinci, tidak ada studi kasus/testimoni, tidak ada transparansi harga, tidak ada bagian batasan/kapan-tidak-cocok, tidak ada perbandingan kriteria pemilihan penyedia, tidak ada walkthrough langkah berlangganan yang jelas.",
+  "data_sources_used": ["live_serp_blocked_degraded_to_websearch", "websearch", "landing_page_webfetch"],
+  "ahrefs_available": false,
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Topik penyedia/beyond-pipeline CNG aktif di pemberitaan 2024-2026 (PGN/Subholding Gas ekspansi ke Balikpapan, Bali, Bandung; BioCNG); minat 'apa itu CNG' & 'CNG aman' meningkat (beberapa artikel CNBC Indonesia Mei 2026).",
+    "report_rank": "n/a (seo_report: none di keywords.md)"
+  },
+  "serp": {
+    "note": "Google SERP (q=perusahaan+cng+indonesia / penyedia+cng+industri / supplier+cng+indonesia / cng+beyond+pipeline+penyedia, hl=id gl=id) DIBLOKIR (error page) untuk keempat query -> degrade ke WebSearch sesuai instruksi. Daftar di bawah = hasil WebSearch sebagai proksi SERP.",
+    "top_results_competitors": [
+      { "url": "https://cng.co.id/", "title": "PT Citra Nusantara Gemilang - Compressed Natural Gas (CNG)", "angle_summary": "Distributor CNG pionir (berdiri Des 2005), merek GASRA; halaman korporat/profil, segmen industri menengah-besar, transportasi, rumah, IPP. Listed (CGAS)." },
+      { "url": "https://mosafaprimasinergi.co.id/", "title": "PT Mosafa Prima Sinergi - Penyedia Gas CNG Berizin Resmi", "angle_summary": "Penyedia CNG untuk hotel, restoran, kafe, home industry, pabrik; menekankan 'berizin resmi' & pasokan berkualitas. Juga punya artikel edukasi 'Mengenal CNG'." },
+      { "url": "https://www.gasra.co.id/en/home-2/", "title": "GASRA - Compressed Natural Gas (CNG) Indonesia", "angle_summary": "Merek CNG (di bawah CNG.co.id grup) dengan segmen pelanggan industri skala menengah-besar." },
+      { "url": "https://gasalamsentosa.com/", "title": "PT Gas Alam Sentosa", "angle_summary": "Distributor CNG sejak 2012; cakupan Jabar/Jatim/Jateng; klaim 200+ pelanggan setia. Halaman profil/jangkauan." },
+      { "url": "https://sentralgas.com/agen-cng/", "title": "CNG - Pemasok/Agen/Suplier Gas Alam (PT Sentral Gas Energi)", "angle_summary": "Penyedia layanan & instalasi CNG (berdiri 2020); halaman kata-kunci 'agen/pemasok/suplier CNG'." },
+      { "url": "https://subangenergiabadi.com/bisnis-kami/cng/", "title": "CNG - PT Subang Energi Abadi", "angle_summary": "Lini bisnis CNG; halaman layanan." },
+      { "url": "https://www.gagas.co.id/", "title": "PT Gagas Energi Indonesia", "angle_summary": "Klien. Anak usaha PGN/Subholding Gas Pertamina; CNG beyond-pipeline; Gasku + Gaslink." },
+      { "url": "https://ekonomi.bisnis.com/read/20211214/44/1477480/perusahaan-gas-negara-pgas-sasar-pasar-cng-untuk-sektor-industri-dan-komersial", "title": "PGAS Sasar Pasar CNG untuk Sektor Industri dan Komersial", "angle_summary": "Berita: PGN menyasar pasar CNG industri/komersial via Gaslink C-cyl." }
+    ],
+    "serp_features": ["paa_from_websearch_proxy", "no_google_ai_overview_captured_serp_blocked"],
+    "ai_overview_entities": ["CNG", "virtual pipeline", "Gas Transport Module (GTM)", "Pressure Reduction Station (PRS)", "beyond pipeline", "Subholding Gas Pertamina", "Gaslink", "Gasku", "MMBTU"],
+    "competitor_gap_analysis": "Mayoritas pesaing menampilkan halaman profil/pitch atau artikel 'apa itu CNG' generik. Tidak ada satu pun panduan pembeli vendor-neutral (kriteria memilih penyedia), walkthrough proses berlangganan yang transparan (form->survei->min konsumsi->komisioning), bagian jujur 'kesalahan/keterbatasan saat memilih', atau checklist jaminan keandalan/keselamatan terstruktur. Itu whitespace komersial untuk 5 brief ini."
+  },
+  "paa": [
+    "Apa saja perusahaan penyedia CNG di Indonesia?",
+    "Bagaimana cara memilih penyedia/perusahaan CNG yang andal?",
+    "Apa itu sistem virtual pipeline (beyond pipeline) untuk CNG?",
+    "Bagaimana cara berlangganan CNG untuk industri atau komersial?",
+    "Apakah ada syarat minimum pemakaian untuk berlangganan CNG?",
+    "Apakah CNG aman untuk operasional industri?",
+    "Standar keselamatan apa yang harus dipenuhi penyedia CNG?",
+    "Berapa potensi penghematan biaya jika beralih ke CNG?",
+    "Industri apa saja yang cocok memakai CNG?",
+    "Apa beda penyedia CNG dengan penyedia gas pipa (PGN)?",
+    "Bagaimana penyedia menjamin pasokan CNG tetap stabil (security of supply)?",
+    "Sertifikasi apa yang menandakan penyedia CNG kredibel?"
+  ],
+  "verified_facts_to_recheck": {
+    "note": "Fakta dari WebSearch yang BISA dipakai brief sebagai hook E-E-A-T, TAPI researcher WAJIB verifikasi ulang dengan sumber primer sebelum writer memakainya. Jangan dipakai sebagai klaim tanpa verifikasi.",
+    "gagas_scale": "563+ pelanggan Gaslink; 16.111.888 MMBTU distribusi gas bumi selama 5 tahun; 189 pelanggan industri + 374 HORECA; 11 SPBG PGN + 2 SPBG Pertamina + 3 MRU di 14+ kota (Sumatra/Jawa/Bali/Kalimantan). [verifikasi: rilis PGN/Gagas terbaru; profil internal hanya sebut 12 SPBG/4 MRU per akhir 2021 -> angka lebih baru perlu sumber]",
+    "subscription_flow": "Daftar via formulir calon pelanggan -> tim survei lokasi -> syarat konsumsi minimum (mis. setara >=20 tabung gas 50 kg/bulan). C-Cyl: tabung baja silinder kapasitas 28 m3 untuk lahan terbatas. [verifikasi: halaman Gaslink/Gagas terbaru]",
+    "savings": "Potensi pemangkasan biaya bahan bakar hingga ~30% vs BBM/LPG (klaim umum industri; contoh laundry Bogor hemat Rp7 juta/bulan, 2017). [verifikasi & label sebagai rentang/estimasi, bukan jaminan]",
+    "safety_standards": "ISO 11439 (silinder gas tekanan tinggi), ECE R110 (instalasi sistem CNG), NGV-2 (tangki/komponen kendaraan gas, Amerika Utara), SNI/BSN, SKKNI (kompetensi operator); tabung lulus impact/bonfire/gunfire test; keamanan bergantung pada kualitas instalasi + perawatan berkala + kompetensi operator. [verifikasi standar mana yang relevan untuk distribusi CNG industri vs kendaraan]",
+    "dirjen_migas_cng_safer_lpg": "Dirjen Migas: CNG lebih aman dari LPG (CNBC Indonesia, 19 Mei 2026). [verifikasi kutipan & konteks]",
+    "gagas_certifications": "ISO 9001:2015, ISO 45001:2018 (khusus layanan distribusi CNG), ISO 37001:2016 ABMS (semua 2025) - dari company_profile.md, sudah tepercaya. Layanan 24 jam. Ekosistem PGN/Subholding Gas Pertamina.",
+    "competitor_landscape_caution": "Banyak pemain CNG (CNG/GASRA, Mosafa, Gas Alam Sentosa, Sentral Gas, Subang Energi, dll). DILARANG klaim 'terbesar/nomor satu' atau menyebut/merendahkan kompetitor. Bandingkan KATEGORI penyedia, bukan merek. Posisikan Gagas sebagai penyedia kredibel, bukan satu-satunya."
+  },
+  "history_snapshot": {
+    "existing_articles_for_keyword": [],
+    "cluster_shared_hub_note": "Hub https://gagas.co.id/perusahaan-cng-indonesia/ DIBAGI dengan keyword 'CNG Indonesia' (informasional). Dedup lintas keduanya.",
+    "informational_half_angles_NOT_mine": [
+      "Apa itu CNG (Compressed Natural Gas) & cara kerjanya",
+      "CNG vs LNG vs LPG: apa bedanya & kapan pakai yang mana",
+      "Manfaat CNG untuk industri & lingkungan (efisiensi, emisi lebih rendah)",
+      "CNG 'beyond pipeline': cara gas bumi menjangkau daerah tanpa pipa",
+      "CNG & transisi energi Indonesia: peran gas bumi menuju energi bersih"
+    ],
+    "my_commercial_half_angles": [
+      "01 Cara memilih perusahaan/penyedia CNG di Indonesia: kriteria wajib dicek (decision)",
+      "02 Layanan penyedia CNG: pasokan, distribusi (GTM), hingga dukungan teknis (commercial)",
+      "03 Industri yang dilayani penyedia CNG + cara mulai berlangganan (commercial/how-to)",
+      "04 Keamanan & keandalan pasokan CNG: yang wajib dijamin penyedia (trust/commercial)",
+      "05 Kesalahan umum saat memilih penyedia CNG (jujur) (counter-conventional)"
+    ],
+    "dedup_boundary": "Commercial half = MEMILIH/MENILAI/BERLANGGANAN penyedia (pembeli B2B sudah tahu apa itu CNG). Informational half = MENJELASKAN CNG itu sendiri. Brief komersial hanya memberi gloss 1 baris tentang 'apa itu CNG', lalu fokus ke evaluasi vendor. Tidak ada brief komersial yang menjadikan 'definisi/cara kerja/CNG vs LNG/manfaat lingkungan/mekanisme beyond-pipeline' sebagai inti H2."
+  },
+  "cousins_available": {
+    "https://gagas.co.id/gaslink/": "CNG industri/komersial via GTM (paling kuat untuk mayoritas brief komersial: pembeli B2B industri/Horeka).",
+    "https://gagas.co.id/gasku/": "CNG transportasi (BBG kendaraan/armada).",
+    "https://gagas.co.id/perusahaan-lng-indonesia/": "Lanskap penyedia LNG (untuk konteks pilihan moda/penyedia gas beyond-pipeline)."
+  }
+}

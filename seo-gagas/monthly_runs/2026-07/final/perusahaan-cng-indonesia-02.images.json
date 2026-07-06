@@ -1,0 +1,82 @@
+{
+  "brief_id": "perusahaan-cng-indonesia-02",
+  "article_title_id": "Layanan Penyedia CNG: Pasokan, Distribusi GTM, hingga Dukungan Teknis",
+  "language": "id",
+  "image_count": 3,
+  "planned_at": "2026-06-09",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Diagram horizontal 'lingkup layanan penyedia CNG' yang membentang dari kiri ke kanan dengan lima blok bernomor — (1) Pasokan & kompresi di Mother Station, (2) Distribusi GTM, (3) Instalasi & komisioning PRS di lokasi, (4) Telemetri pemantauan volume & tekanan, (5) Dukungan teknis & layanan 24 jam. Tiap blok diberi ikon dan label Bahasa Indonesia. Garis penghubung menandakan satu rantai layanan tunggal, bukan lima vendor terpisah. Gaya flat infographic B2B, palet biru-hijau energi bersih, format landscape.",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Lima komponen layanan berurutan cocok disajikan sebagai alur linear bernomor — teks-forward, langsung menjawab 'apa saja yang Anda beli' tanpa foto generik.",
+      "visual_direction": "Format landscape (rasio 16:9). Lima blok persegi panjang membulat berjajar horizontal dari kiri ke kanan, dihubungkan oleh panah chevron biru gelap. Latar belakang putih bersih atau abu-abu sangat muda. Setiap blok berisi: (a) nomor urut dalam lingkaran aksen hijau energi (#2ECC40 atau setara) di sudut kiri atas, (b) ikon garis putih di atas bidang biru profesional (#1A3A6B atau setara), (c) judul blok dalam teks biru gelap tebal di bawah ikon, (d) satu baris deskripsi singkat di bawah judul dalam abu-abu (#555). Ikon per blok: (1) fasilitas kompresor / pabrik mini, (2) truk tanki / GTM berjalan, (3) katup tekanan / PRS box, (4) sinyal wifi + grafik garis kecil (telemetri), (5) headset / spanner (dukungan teknis). Di bawah seluruh rantai, satu label kapsul berwarna hijau-tosca bertuliskan teks: 'Satu Rantai Layanan — Satu Penanggung Jawab'. Tipografi sans-serif bersih (misalnya Inter atau Nunito). Tidak ada foto; gaya flat vector.",
+      "in_image_text_id": [
+        "1. Pasokan & Kompresi",
+        "Mother Station",
+        "2. Distribusi GTM",
+        "Gas Transport Module",
+        "3. Instalasi & Komisioning PRS",
+        "Pressure Reduction Station",
+        "4. Telemetri & Pemantauan",
+        "Volume & Tekanan",
+        "5. Dukungan Teknis",
+        "Layanan 24 Jam",
+        "Satu Rantai Layanan — Satu Penanggung Jawab"
+      ],
+      "alt_id": "Infografik lima tahap layanan penyedia CNG: Mother Station, distribusi GTM, instalasi PRS, telemetri, dukungan teknis",
+      "caption_id": "Layanan penyedia CNG yang lengkap mencakup lima komponen dalam satu rantai — dari kompresi di Mother Station hingga dukungan teknis 24 jam. Yang Anda beli bukan sekadar gas, melainkan keandalan pasokan ke lokasi tanpa pipa.",
+      "sourcing_note": "Infografik orisinal — dibuat oleh tim desain berdasarkan brief ini. Tidak ada foto fasilitas atau branding PGN Gagas yang diperlukan. Pastikan ikon dan label tidak menyebut nama kompetitor.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body — di dalam H2 'Dari Mother Station ke Burner: Rantai Layanan yang Anda Beli'",
+      "concept_from_writer": "Ilustrasi 'rantai layanan = rantai tanggung jawab' — alur empat fase (Mother Station, GTM, PRS, peralatan pelanggan) digambarkan sebagai estafet, dengan garis putus-putus vertikal yang menandai titik serah-terima antara wilayah penyedia dan wilayah pelanggan. Tujuannya menegaskan 'di tahap mana tanggung jawab berpindah'. Gaya skematik bersih, palet biru-oranye, teks Bahasa Indonesia.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Konsep 'titik serah-terima tanggung jawab' memerlukan batas spasial yang jelas antara dua pihak — diagram skematik dengan garis pemisah menyampaikan hal ini lebih tepat daripada foto atau infografik teks.",
+      "visual_direction": "Format landscape (rasio 4:3 atau 16:9). Latar belakang putih. Empat ikon/node berjajar horizontal kiri ke kanan, dihubungkan panah lurus: (1) ikon fasilitas kompresor berlabel 'Mother Station', (2) ikon truk GTM berlabel 'Distribusi GTM', (3) ikon kotak katup berlabel 'PRS di Lokasi', (4) ikon boiler/burner berlabel 'Peralatan Pelanggan'. Di antara node (3) PRS dan (4) Peralatan, terdapat garis putus-putus vertikal tebal berwarna oranye (#E87722 atau setara) yang membagi bidang gambar menjadi dua zona: zona kiri diberi label kapsul biru gelap 'Wilayah Tanggung Jawab Penyedia', zona kanan diberi label kapsul abu-abu 'Wilayah Tanggung Jawab Pelanggan'. Di bawah garis putus-putus, teks kecil miring berwarna oranye: 'Titik serah-terima — wajib hitam-putih di kontrak'. Node (1)-(3) diberi warna biru profesional (#1A3A6B); node (4) diberi warna abu-abu netral. Gaya flat vector, tipografi sans-serif. Tidak ada foto.",
+      "in_image_text_id": [
+        "Mother Station",
+        "Distribusi GTM",
+        "PRS di Lokasi",
+        "Peralatan Pelanggan",
+        "Wilayah Tanggung Jawab Penyedia",
+        "Wilayah Tanggung Jawab Pelanggan",
+        "Titik serah-terima — wajib hitam-putih di kontrak"
+      ],
+      "alt_id": "Diagram alur layanan CNG: garis pemisah menandai batas tanggung jawab penyedia (Mother Station, GTM, PRS) dan pelanggan",
+      "caption_id": "Garis putus-putus oranye menandai titik serah-terima tanggung jawab: penyedia umumnya menanggung pasokan, distribusi GTM, dan PRS; pelanggan bertanggung jawab atas instalasi pipa internal ke peralatan. Pembagian persisnya harus tertulis jelas di kontrak.",
+      "sourcing_note": "Diagram orisinal — dibuat oleh tim desain berdasarkan brief ini. Tidak ada foto fasilitas atau branding nyata yang diperlukan. Kapasitas angkut GTM tidak perlu dicantumkan dalam gambar (sesuai guardrail: GTM no capacity numbers).",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_03",
+      "position": "body — di dalam H2 'Tanda Layanan yang Tipis di Lapangan'",
+      "concept_from_writer": "Infografik checklist 'tanda layanan CNG yang tipis di lapangan' — empat kartu peringatan bergaya rambu, masing-masing memasangkan klaim brosur (kiri, abu-abu) dengan pertanyaan uji yang harus diajukan pembeli (kanan, biru). Contoh: '24 jam' ↔ 'Berapa jam waktu tanggap, untuk wilayah mana?'. Gaya korporat, ikon perisai/jam/dokumen, teks Bahasa Indonesia, format portrait agar mudah dishare di grup procurement.",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Empat pasang 'klaim vs pertanyaan uji' paling efektif sebagai infografik kartu dua-kolom yang bisa disimpan dan dibagikan oleh tim procurement — lebih actionable daripada foto atau diagram alur.",
+      "visual_direction": "Format portrait (rasio 3:4 atau A4 landscape dipotong). Judul di bagian atas: 'Layanan CNG: Uji Klaim Brosur Sebelum Tanda Tangan' dalam teks biru gelap (#1A3A6B) tebal. Di bawah judul, empat baris kartu, masing-masing kartu terbagi dua kolom: kolom kiri (55% lebar) berlatar abu-abu muda (#F2F2F2) berisi klaim brosur generik dalam teks abu-abu gelap italic; kolom kanan (45% lebar) berlatar biru profesional (#1A3A6B) berisi pertanyaan uji dalam teks putih tebal. Tanda panah kecil oranye (#E87722) menghubungkan kedua kolom di tengah setiap baris. Ikon kecil di sudut kiri setiap kartu: baris 1 = ikon jam (klaim 24 jam), baris 2 = ikon sinyal wifi / meter (klaim telemetri), baris 3 = ikon kunci inggris / kontrak (klaim instalasi), baris 4 = ikon truk / jadwal (klaim unit cadangan). Konten teks empat kartu: [Baris 1] Kiri: 'Layanan 24 jam tersedia' — Kanan: 'Berapa jam waktu tanggap teknisi tiba di lokasi Anda, dan untuk wilayah mana?' [Baris 2] Kiri: 'Penagihan berbasis pemakaian' — Kanan: 'Apakah ada telemetri/smart meter? Atau estimasi manual?' [Baris 3] Kiri: 'Instalasi termasuk dalam layanan' — Kanan: 'Siapa pemilik dan penanggung jawab PRS setelah dipasang? Ada garansinya?' [Baris 4] Kiri: 'Pengiriman terjadwal rutin' — Kanan: 'Ada GTM cadangan bila satu unit bermasalah? Mother Station alternatif?' Di bagian bawah, satu baris footer kecil abu-abu: 'Penyedia yang kredibel tidak keberatan menjawab pertanyaan ini secara rinci.' Tipografi sans-serif bersih. Tidak ada foto atau logo brand.",
+      "in_image_text_id": [
+        "Layanan CNG: Uji Klaim Brosur Sebelum Tanda Tangan",
+        "Klaim Brosur",
+        "Pertanyaan Uji untuk Pembeli",
+        "Layanan 24 jam tersedia",
+        "Berapa jam waktu tanggap teknisi tiba di lokasi Anda, dan untuk wilayah mana?",
+        "Penagihan berbasis pemakaian",
+        "Apakah ada telemetri/smart meter? Atau estimasi manual?",
+        "Instalasi termasuk dalam layanan",
+        "Siapa pemilik dan penanggung jawab PRS setelah dipasang? Ada garansinya?",
+        "Pengiriman terjadwal rutin",
+        "Ada GTM cadangan bila satu unit bermasalah? Mother Station alternatif?",
+        "Penyedia yang kredibel tidak keberatan menjawab pertanyaan ini secara rinci."
+      ],
+      "alt_id": "Infografik empat kartu uji layanan CNG: tiap klaim brosur dipasangkan pertanyaan yang harus dijawab penyedia sebelum kontrak",
+      "caption_id": "Empat sinyal layanan CNG yang tampak lengkap di slide tetapi perlu diuji di lapangan. Tim procurement sebaiknya meminta jawaban tertulis atas pertanyaan-pertanyaan ini sebelum menandatangani kontrak.",
+      "sourcing_note": "Infografik orisinal — dibuat oleh tim desain berdasarkan brief ini. Tidak ada foto fasilitas atau branding nyata yang diperlukan. Jangan cantumkan nama penyedia atau kompetitor di dalam gambar; konten bersifat vendor-neutral.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

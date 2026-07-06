@@ -1,0 +1,81 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-06\\final\\digital-manufacturing-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-03T01:45:53+07:00",
+    "word_count":  1497,
+    "paragraph_count":  27,
+    "sentence_count":  81,
+    "ai_detector":  {
+                        "score":  0.09,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.43,
+                        "sentence_burstiness":  0.91,
+                        "top30_vocab_share":  0.3,
+                        "flags":  [
+                                      {
+                                          "pattern":  "em-dash-overuse",
+                                          "severity":  "medium",
+                                          "snippet":  "Em-dashes count: 3 (max 2)",
+                                          "line":  -1
+                                      },
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.43 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Data dari 29 perusahaan *National Lighthouse Industri 4.0* binaan Kemenperin (per 2024): produktivitas meningkat 10–200%, *speed-to-market* 26–99%, agility 10–90%, dan efisiensi energi hingga 40% (Kemenperin.go.id).",
+                                      "candidate_score":  46,
+                                      "web_search_query":  "\"Data dari 29 perusahaan *National Lighthouse Industri 4.0* binaan Kemenperin (per 2024): produktivitas meningkat 10–200%\""
+                                  },
+                                  {
+                                      "passage":  "- **Medium-term (1–2 tahun):** Peningkatan OEE (*Overall Equipment Effectiveness*, yang mengukur Ketersediaan × Kinerja × Kualitas mesin); pengurangan *unplanned downtime*; pengurangan stok *safety* berlebih.",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"- **Medium-term (1–2 tahun):** Peningkatan OEE (*Overall Equipment Effectiveness*, yang mengukur Ketersediaan × Kinerja \""
+                                  },
+                                  {
+                                      "passage":  "Data 29 perusahaan *National Lighthouse* binaan Kemenperin menunjukkan produktivitas naik 10–200% dan *speed-to-market* meningkat 26–99%.",
+                                      "candidate_score":  29,
+                                      "web_search_query":  "\"Data 29 perusahaan *National Lighthouse* binaan Kemenperin menunjukkan produktivitas naik 10–200% dan *speed-to-market* \""
+                                  },
+                                  {
+                                      "passage":  "## Cara Menghitung ROI Digital Manufacturing: Kerangka 4 Langkah Tidak ada rumus universal, tapi ada kerangka yang membuat kalkulasi bisa diperiksa asumsinya: 1.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"## Cara Menghitung ROI Digital Manufacturing: Kerangka 4 Langkah Tidak ada rumus universal, tapi ada kerangka yang membu\""
+                                  },
+                                  {
+                                      "passage":  "*Payback period* MES umumnya dilaporkan antara 12–36 bulan menurut referensi industri MESA International.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"*Payback period* MES umumnya dilaporkan antara 12–36 bulan menurut referensi industri MESA International.\""
+                                  },
+                                  {
+                                      "passage":  "## Mengapa Business Case Digital Manufacturing Sering Gagal Meyakinkan Direksi Masalahnya ada di cara proposal disusun.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## Mengapa Business Case Digital Manufacturing Sering Gagal Meyakinkan Direksi Masalahnya ada di cara proposal disusun.\""
+                                  },
+                                  {
+                                      "passage":  "Yang dapat dipastikan adalah struktur TCO-nya: SAP Digital Manufacturing Cloud menggunakan model *subscription* SaaS, biaya implementasi \u0026 *consulting* umumnya mencakup 40–60% dari total proyek.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Yang dapat dipastikan adalah struktur TCO-nya: SAP Digital Manufacturing Cloud menggunakan model *subscription* SaaS, bi\""
+                                  },
+                                  {
+                                      "passage":  "Berbagai studi dari McKinsey dan Deloitte mengindikasikan pengurangan *unplanned downtime* 20–50% dan biaya *maintenance* 10–25% setelah implementasi *predictive maintenance* berbasis IoT.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Berbagai studi dari McKinsey dan Deloitte mengindikasikan pengurangan *unplanned downtime* 20–50% dan biaya *maintenance\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

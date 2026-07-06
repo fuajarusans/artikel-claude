@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-06\\final\\erp-migration-to-the-cloud-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-03T01:17:37+07:00",
+    "word_count":  1769,
+    "paragraph_count":  32,
+    "sentence_count":  101,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.453,
+                        "sentence_burstiness":  0.815,
+                        "top30_vocab_share":  0.355,
+                        "flags":  [
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 35.5% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Per SAP Support Portal, mainstream maintenance untuk SAP ECC (Enhancement Package 6–8, mayoritas instalasi) berakhir 31 Desember 2027.",
+                                      "candidate_score":  36,
+                                      "web_search_query":  "\"Per SAP Support Portal, mainstream maintenance untuk SAP ECC (Enhancement Package 6–8, mayoritas instalasi) berakhir 31 \""
+                                  },
+                                  {
+                                      "passage":  "Mainstream maintenance SAP ECC berakhir 31 Desember 2027, dan proyek migrasi rata-rata membutuhkan 12–18 bulan.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Mainstream maintenance SAP ECC berakhir 31 Desember 2027, dan proyek migrasi rata-rata membutuhkan 12–18 bulan.\""
+                                  },
+                                  {
+                                      "passage":  "Untuk deployment satu negara standar: brownfield 6–10 bulan, greenfield 12–18 bulan, bluefield/SDT 9–18 bulan.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Untuk deployment satu negara standar: brownfield 6–10 bulan, greenfield 12–18 bulan, bluefield/SDT 9–18 bulan.\""
+                                  },
+                                  {
+                                      "passage":  "## SAP ECC 2027: Mengapa Keputusan Jalur Migrasi Harus Diambil Sekarang Tekanan waktu ini nyata dan tidak bisa diabaikan.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"## SAP ECC 2027: Mengapa Keputusan Jalur Migrasi Harus Diambil Sekarang Tekanan waktu ini nyata dan tidak bisa diabaikan\""
+                                  },
+                                  {
+                                      "passage":  "Bukan hanya biaya teknologi: ini biaya perubahan berupa pelatihan ulang pengguna, penyesuaian SOP, dan risiko disruption bisnis selama implementasi 12–18 bulan.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Bukan hanya biaya teknologi: ini biaya perubahan berupa pelatihan ulang pengguna, penyesuaian SOP, dan risiko disruption\""
+                                  },
+                                  {
+                                      "passage":  "Berdasarkan penelitian ISG 2026 yang dikutip sumber industri, SDT/bluefield menjadi pendekatan terpopuler (sekitar 48% proyek), diikuti brownfield (sekitar 34%) dan greenfield (sekitar 18%).",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Berdasarkan penelitian ISG 2026 yang dikutip sumber industri, SDT/bluefield menjadi pendekatan terpopuler (sekitar 48% p\""
+                                  },
+                                  {
+                                      "passage":  "Panduan Memilih Jalur Migrasi ERP ke Cloud Banyak perusahaan pengguna SAP ECC yang sudah tahu mereka harus pindah ke cloud.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Panduan Memilih Jalur Migrasi ERP ke Cloud Banyak perusahaan pengguna SAP ECC yang sudah tahu mereka harus pindah ke clo\""
+                                  },
+                                  {
+                                      "passage":  "Perusahaan yang belum mulai *assessment* pertengahan 2026 berisiko membayar extended maintenance (+2%/tahun) sambil menyelesaikan transisi.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Perusahaan yang belum mulai *assessment* pertengahan 2026 berisiko membayar extended maintenance (+2%/tahun) sambil meny\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

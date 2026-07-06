@@ -1,0 +1,81 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-06\\final\\digital-manufacturing-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-03T01:33:31+07:00",
+    "word_count":  1499,
+    "paragraph_count":  28,
+    "sentence_count":  83,
+    "ai_detector":  {
+                        "score":  0.08,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.421,
+                        "sentence_burstiness":  0.68,
+                        "top30_vocab_share":  0.37,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.421 (target \u003e=0.45)",
+                                          "line":  -1
+                                      },
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 37% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "MES/Execution Layer | MES, MOM | Mengelola eksekusi lantai produksi: urutan kerja, OEE, quality | ISA-95 Level 2–3; SAP Digital Manufacturing | | 3.",
+                                      "candidate_score":  42,
+                                      "web_search_query":  "\"MES/Execution Layer | MES, MOM | Mengelola eksekusi lantai produksi: urutan kerja, OEE, quality | ISA-95 Level 2–3; SAP \""
+                                  },
+                                  {
+                                      "passage":  "Berdasarkan data National Lighthouse program, pabrik yang mencapai level Industry 4.0 mencatat produktivitas naik hingga 101%, *speed-to-market* 2–600x, dan *operational agility* 10–50% (Kemenperin / WEF Global Lighthouse Network).",
+                                      "candidate_score":  39,
+                                      "web_search_query":  "\"Berdasarkan data National Lighthouse program, pabrik yang mencapai level Industry 4.0 mencatat produktivitas naik hingga\""
+                                  },
+                                  {
+                                      "passage":  "Sensor/IIoT Layer | Sensor, PLC, SCADA, RFID | Mengumpulkan data mesin \u0026 proses real-time | ISA-95 Level 0–1 | | 2.",
+                                      "candidate_score":  38,
+                                      "web_search_query":  "\"Sensor/IIoT Layer | Sensor, PLC, SCADA, RFID | Mengumpulkan data mesin \u0026 proses real-time | ISA-95 Level 0–1 | | 2.\""
+                                  },
+                                  {
+                                      "passage":  "ERP/Planning Layer | ERP Production Planning | Perencanaan kapasitas, jadwal, kebutuhan bahan | ISA-95 Level 4; SAP S/4HANA PP/PP-DS | | 4.",
+                                      "candidate_score":  35,
+                                      "web_search_query":  "\"ERP/Planning Layer | ERP Production Planning | Perencanaan kapasitas, jadwal, kebutuhan bahan | ISA-95 Level 4; SAP S/4H\""
+                                  },
+                                  {
+                                      "passage":  "| Lapisan | Komponen | Fungsi | Standar / Platform Referensi | |---|---|---|---| | 1.",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"| Lapisan | Komponen | Fungsi | Standar / Platform Referensi | |---|---|---|---| | 1.\""
+                                  },
+                                  {
+                                      "passage":  "Standar ISA-95 mendefinisikan hierarki fungsi manufaktur dari Level 0 (sensor/perangkat) hingga Level 4 (ERP/perencanaan bisnis).",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"Standar ISA-95 mendefinisikan hierarki fungsi manufaktur dari Level 0 (sensor/perangkat) hingga Level 4 (ERP/perencanaan\""
+                                  },
+                                  {
+                                      "passage":  "Di Indonesia, Making Indonesia 4.0 (Kemenperin, April 2018) menjadi panduan nasional di 5 sektor industri prioritas.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"Di Indonesia, Making Indonesia 4.0 (Kemenperin, April 2018) menjadi panduan nasional di 5 sektor industri prioritas.\""
+                                  },
+                                  {
+                                      "passage":  "OEE (*Overall Equipment Effectiveness*) mengukur seberapa efektif sebuah lini produksi digunakan: OEE = *Availability* × *Performance* × *Quality*.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"OEE (*Overall Equipment Effectiveness*) mengukur seberapa efektif sebuah lini produksi digunakan: OEE = *Availability* ×\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

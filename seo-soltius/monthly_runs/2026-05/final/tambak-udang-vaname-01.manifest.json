@@ -1,0 +1,26 @@
+﻿[
+    {
+        "prompt":  "Photorealistic wide-angle photograph of an intensive vannamei shrimp (Litopenaeus vannamei) pond in tropical coastal Indonesia at golden hour, warm orange-amber sunlight raking low across the water surface from the horizon, four to six large paddlewheel aerators (kincir air) actively spinning and throwing white foam arcs across a dark olive-green brackish pond surface, rectangular pond with earthen berm walls and a thin plastic pond liner visible at the water edge, tall tropical grasses and low coconut palms silhouetted on the berm in the background, humid haze of coastal Java or Sulawesi, sky gradient from deep orange near horizon to soft purple-blue above, reflections of the kincir foam trails shimmering on the pond surface, photojournalism composition with slight lens flare from low sun, 16:9 landscape aspect ratio, shallow depth of field on midground kincir, no workers visible, no text overlays, no watermarks, no logos, no anatomical errors, no garbage, no dead animals, no branded equipment.",
+        "output_path":  "C:/Users/seo/Documents/seo-stp/monthly_runs/2026-05/final/tambak-udang-vaname-01-01.png",
+        "size":  "1408x960",
+        "quality":  "high",
+        "format":  "png",
+        "background":  "auto"
+    },
+    {
+        "prompt":  "Clean modern illustrated infographic on white background showing the four sequential phases of intensive vannamei shrimp production as a left-to-right horizontal timeline with four equal-width cards connected by arrows, card 1 labeled with a bracket placeholder [PERSIAPAN] showing a simple flat icon of a dry empty rectangular pond with a lime-powder bag icon and a shovel, card 2 labeled [PENEBARAN BENUR] showing a small shrimp larvae silhouette icon inside a water droplet and a calendar icon indicating days 1-7, card 3 labeled [GROW-OUT] showing a feed pellet icon alongside a spinning paddlewheel aerator icon and a small adult shrimp silhouette, card 4 labeled [PANEN] showing a harvest net scoop icon and a weighing scale icon, soft aquaculture color palette of teal, seafoam green, and sandy beige on white background, sans-serif typography, each card has 2-3 short bullet-line placeholder brackets below the icon, no specific text values written (use [LABEL] brackets only), 16:9 aspect ratio, educational infographic style, no logos, no watermarks, no text beyond bracketed placeholders.",
+        "output_path":  "C:/Users/seo/Documents/seo-stp/monthly_runs/2026-05/final/tambak-udang-vaname-01-02.png",
+        "size":  "1408x960",
+        "quality":  "medium",
+        "format":  "png",
+        "background":  "auto"
+    },
+    {
+        "prompt":  "Clean scientific monitoring dashboard illustration on dark navy-blue background showing four circular gauge dial instruments arranged in a 2x2 grid, each dial has a thin arc scale with a clearly marked green optimal zone arc and pointer needle, dial 1 shows a thermometer icon labeled with a bracket placeholder [SUHU] with the green zone occupying roughly the middle third of the arc, dial 2 shows a water-drop salinity icon labeled [SALINITAS] with the green zone in the mid-range, dial 3 shows a pH symbol icon labeled [pH] with green zone in the alkaline-neutral range, dial 4 shows a bubble oxygen icon labeled [DO] with the green zone in the upper portion of the arc, each dial has a small legend strip below it showing a green bar for optimal zone but no specific numbers written, dark navy and deep teal background with subtle grid lines, clean flat-design instrument aesthetic similar to a scientific field meter interface, soft glow effect around each green zone arc, aquaculture monitoring mood, 16:9 landscape aspect ratio, no logos, no watermarks, no text beyond [BRACKET PLACEHOLDER] labels.",
+        "output_path":  "C:/Users/seo/Documents/seo-stp/monthly_runs/2026-05/final/tambak-udang-vaname-01-03.png",
+        "size":  "1408x960",
+        "quality":  "medium",
+        "format":  "png",
+        "background":  "auto"
+    }
+]

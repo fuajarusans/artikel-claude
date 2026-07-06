@@ -1,0 +1,81 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07\\final\\cng-indonesia-05.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-09T15:41:27+07:00",
+    "word_count":  1551,
+    "paragraph_count":  19,
+    "sentence_count":  78,
+    "ai_detector":  {
+                        "score":  0.08,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.376,
+                        "sentence_burstiness":  0.673,
+                        "top30_vocab_share":  0.362,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.376 (target \u003e=0.45)",
+                                          "line":  -1
+                                      },
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 36.2% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "## Sisi Lain: Mengapa Gas Bukan Solusi Akhir (dan Apa Risikonya) Gas bukan tujuan akhir, dan mengakui keterbatasannya justru memperkuat kredibilitas.",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"## Sisi Lain: Mengapa Gas Bukan Solusi Akhir (dan Apa Risikonya) Gas bukan tujuan akhir, dan mengakui keterbatasannya ju\""
+                                  },
+                                  {
+                                      "passage":  "Dalam Rencana Umum Energi Nasional (RUEN), gas bumi ditargetkan mengisi sekitar 24% bauran energi nasional pada 2050, berdampingan dengan minyak bumi 20% dan EBT 31%.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Dalam Rencana Umum Energi Nasional (RUEN), gas bumi ditargetkan mengisi sekitar 24% bauran energi nasional pada 2050, be\""
+                                  },
+                                  {
+                                      "passage":  "Karena EBT belum mengejar target: bauran EBT nasional baru mencapai 15,75% pada 2025, di bawah target 23% (Kementerian ESDM, 2025).",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Karena EBT belum mengejar target: bauran EBT nasional baru mencapai 15,75% pada 2025, di bawah target 23% (Kementerian E\""
+                                  },
+                                  {
+                                      "passage":  "Untuk produksi, pemerintah menargetkan 12 BSCFD pada 2030 lewat Permen ESDM 35/2021.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Untuk produksi, pemerintah menargetkan 12 BSCFD pada 2030 lewat Permen ESDM 35/2021.\""
+                                  },
+                                  {
+                                      "passage":  "## Apa Itu Energi Transisi, dan Mengapa Gas Bumi Termasuk di Dalamnya?",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Apa Itu Energi Transisi, dan Mengapa Gas Bumi Termasuk di Dalamnya?\""
+                                  },
+                                  {
+                                      "passage":  "Menurut IEA (*International Energy Agency*) dalam Global Methane Tracker 2025, emisi *lifecycle*-nya sekitar 35% lebih rendah dari batu bara, sebuah keunggulan nyata, tetapi bukan nol.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Menurut IEA (*International Energy Agency*) dalam Global Methane Tracker 2025, emisi *lifecycle*-nya sekitar 35% lebih r\""
+                                  },
+                                  {
+                                      "passage":  "**Menjaga ketahanan energi domestik.** Lebih dari 60% produksi gas bumi nasional kini dialokasikan untuk dalam negeri, bergeser dari orientasi historis yang berfokus ekspor (Ditjen Migas, Kementerian ESDM).",
+                                      "candidate_score":  11,
+                                      "web_search_query":  "\"**Menjaga ketahanan energi domestik.** Lebih dari 60% produksi gas bumi nasional kini dialokasikan untuk dalam negeri, b\""
+                                  },
+                                  {
+                                      "passage":  "### Apa target bauran energi gas bumi Indonesia pada 2030 dan 2050?",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"### Apa target bauran energi gas bumi Indonesia pada 2030 dan 2050?\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

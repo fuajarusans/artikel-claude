@@ -1,0 +1,87 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-06\\final\\sap-clean-core-05.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-03T01:15:29+07:00",
+    "word_count":  1922,
+    "paragraph_count":  34,
+    "sentence_count":  105,
+    "ai_detector":  {
+                        "score":  0.23,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.449,
+                        "sentence_burstiness":  1.029,
+                        "top30_vocab_share":  0.368,
+                        "flags":  [
+                                      {
+                                          "pattern":  "em-dash-overuse",
+                                          "severity":  "medium",
+                                          "snippet":  "Em-dashes count: 5 (max 2)",
+                                          "line":  -1
+                                      },
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.449 (target \u003e=0.45)",
+                                          "line":  -1
+                                      },
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 36.8% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Satu konteks yang perlu diingat: SAP Business Suite 7 dan SAP ECC EhP 6–8 mengakhiri *mainstream maintenance* pada 31 Desember 2027 (SAP Support Portal).",
+                                      "candidate_score":  33,
+                                      "web_search_query":  "\"Satu konteks yang perlu diingat: SAP Business Suite 7 dan SAP ECC EhP 6–8 mengakhiri *mainstream maintenance* pada 31 De\""
+                                  },
+                                  {
+                                      "passage":  "Fungsionalitas yang masih dibutuhkan harus dibangun ulang menggunakan standar modern: *key-user extensibility* (konfigurasi tanpa kode), SAP Build, atau ABAP Cloud via SAP BTP.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Fungsionalitas yang masih dibutuhkan harus dibangun ulang menggunakan standar modern: *key-user extensibility* (konfigur\""
+                                  },
+                                  {
+                                      "passage":  "SAP mensyaratkan compatibility check via SAP Readiness Check dan Custom Code Migration Worklist untuk mengidentifikasi objek mana yang perlu diadaptasi ke standar ABAP Cloud.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"SAP mensyaratkan compatibility check via SAP Readiness Check dan Custom Code Migration Worklist untuk mengidentifikasi o\""
+                                  },
+                                  {
+                                      "passage":  "**Brownfield** (*system conversion*) adalah konversi teknis sistem ECC yang ada ke S/4HANA menggunakan SAP Software Update Manager (SUM) dengan opsi Database Migration Option (DMO).",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"**Brownfield** (*system conversion*) adalah konversi teknis sistem ECC yang ada ke S/4HANA menggunakan SAP Software Upda\""
+                                  },
+                                  {
+                                      "passage":  "GROW with SAP diposisikan untuk perusahaan *midsize* atau unit bisnis baru yang ingin implementasi greenfield cepat di S/4HANA Cloud Public Edition, dengan *fit-to-standard* yang ketat (SAP Learning, 2026).",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"GROW with SAP diposisikan untuk perusahaan *midsize* atau unit bisnis baru yang ingin implementasi greenfield cepat di S\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai panduan lapangan: brownfield biasanya membutuhkan 9–18 bulan tergantung jumlah kode Z yang harus diremediasi; greenfield dengan re-desain proses bisnis cenderung 12–24 bulan atau lebih.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Sebagai panduan lapangan: brownfield biasanya membutuhkan 9–18 bulan tergantung jumlah kode Z yang harus diremediasi; gr\""
+                                  },
+                                  {
+                                      "passage":  "### Apa risiko utama migrasi brownfield jika core sudah sangat banyak kustomisasi?",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"### Apa risiko utama migrasi brownfield jika core sudah sangat banyak kustomisasi?\""
+                                  },
+                                  {
+                                      "passage":  "**Selective Data Transition (SDT)**, sering disebut \"bluefield\" di komunitas SAP (meski istilah resmi SAP adalah *Selective Data Transition*), adalah pendekatan hibrida.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"**Selective Data Transition (SDT)**, sering disebut  bluefield  di komunitas SAP (meski istilah resmi SAP adalah *Select\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

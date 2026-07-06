@@ -1,0 +1,89 @@
+{
+  "brief_id": "cng-indonesia-05",
+  "article_title_id": "CNG & Transisi Energi Indonesia: Peran Gas Bumi Menuju Energi Bersih",
+  "language": "id",
+  "image_count": 3,
+  "planned_at": "2026-06-09",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Diagram alur 'Empat Peran Gas Bumi dalam Transisi Energi' — ilustrasi horizontal yang menampilkan empat peran berurutan (substitusi bahan bakar kotor → baseload backup EBT → bahan bakar transportasi → ketahanan energi domestik) dengan ikon per peran; latar bergradasi dari abu-abu 'kotor' di kiri ke hijau 'bersih' di kanan. Teks kunci Bahasa Indonesia: 'Target gas 24% bauran 2050', '12 BSCFD 2030', 'NZE 2060'. Gaya flat infographic B2B, palet hijau-biru, cocok di-screenshot.",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Empat peran bernomor urut dengan ikon, label kebijakan, dan gradasi arah — format infografis horizontal adalah cara paling efisien untuk menampilkan urutan kausal sekaligus angka target dalam satu pandangan.",
+      "visual_direction": "Format horizontal landscape (rasio 16:9 atau 2:1). Empat kolom berurutan dari kiri ke kanan, masing-masing mewakili satu peran gas bumi. Latar belakang bergradasi: abu-abu gelap (#4A4A4A) di ujung kiri berangsur ke hijau energi (#2E8B57 atau #27AE60) di ujung kanan, melambangkan pergeseran dari 'kotor' ke 'lebih bersih'. Tiap kolom berisi: (a) ikon flat putih di bagian atas — api/cerobong untuk peran 1, baterai+matahari untuk peran 2, bus/kendaraan untuk peran 3, peta Indonesia untuk peran 4; (b) nomor urut (1–4) dalam lingkaran aksen hijau-muda; (c) label judul peran dalam huruf tebal Bahasa Indonesia (lihat in_image_text_id); (d) satu baris sub-keterangan singkat. Di bagian bawah, sebuah banner tipis berwarna biru tua (#1A3A6E) memuat tiga data kunci sejajar: '24% bauran 2050 (RUEN)', '12 BSCFD 2030 (ESDM)', 'NZE 2060'. Tipografi sans-serif modern, teks utama putih. Sudut kanan bawah: logo atau wordmark 'PGN Gagas' berwarna putih semi-transparan (watermark kecil). Keseluruhan gaya flat infographic B2B, tanpa efek 3D atau gradasi objek yang berlebihan.",
+      "in_image_text_id": [
+        "Empat Peran Gas Bumi dalam Transisi Energi",
+        "1. Substitusi Bahan Bakar Lebih Kotor",
+        "Gas gantikan batu bara & solar di industri",
+        "2. Baseload Backup EBT",
+        "Pasokan daya saat surya & angin tak berproduksi",
+        "3. Bahan Bakar Transisi Transportasi",
+        "CNG/BBG untuk armada sebelum EV merata",
+        "4. Ketahanan Energi Domestik",
+        ">60% produksi gas dialokasikan dalam negeri",
+        "24% bauran 2050 (RUEN/ESDM)",
+        "12 BSCFD 2030 (Permen ESDM 35/2021)",
+        "NZE 2060"
+      ],
+      "alt_id": "Infografis empat peran gas bumi dalam transisi energi: substitusi BBM, backup EBT, transportasi, ketahanan energi",
+      "caption_id": "Gas bumi memainkan empat peran sekaligus dalam transisi energi Indonesia: menggantikan bahan bakar lebih kotor, mendukung keandalan sistem EBT, menjadi bahan bakar jembatan di transportasi, dan memperkuat ketahanan energi domestik. Pemerintah menargetkan gas mengisi 24% bauran energi nasional pada 2050 (RUEN/ESDM).",
+      "sourcing_note": "Infografis orisinal — buat dari nol oleh tim desain PGN Gagas. Semua data harus dicantumkan atribusinya (ESDM/RUEN/Permen ESDM 35/2021). Jangan menggunakan foto fasilitas atau branding kompetitor. Tidak memerlukan foto asli Gagas.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "in-body — setelah paragraf tentang empat fungsi gas (H2 'Peran Gas Bumi dalam Transisi: Empat Fungsi Utama')",
+      "concept_from_writer": "Grafik batang perbandingan emisi CO2 pembangkitan listrik — tiga batang berlabel 'Gas Bumi (~490 g CO2/kWh)', 'Solar/Diesel', dan 'Batu Bara (~820 g CO2/kWh)', dengan batang gas paling pendek/hijau dan batu bara paling tinggi/abu gelap. Tambahkan catatan jujur di bawah: 'Lebih rendah bukan berarti nol emisi (sumber: data IEA/ESDM)'. Gaya flat, palet hijau-biru, teks Bahasa Indonesia, format kartu standalone.",
+      "suggested_asset_type": "chart",
+      "asset_type_rationale": "Tiga nilai g CO2/kWh yang berbeda secara signifikan paling jelas dikomunikasikan sebagai grafik batang; memungkinkan pembaca membandingkan skala emisi sekaligus membaca catatan kejujuran 'bukan nol' dalam satu kartu.",
+      "visual_direction": "Grafik batang vertikal, format kartu persegi atau landscape (rasio 4:3 atau 16:9). Latar belakang putih atau abu-abu sangat muda (#F5F5F5). Tiga batang vertikal berurutan dari kiri ke kanan dengan jarak merata: (1) batang kiri berlabel 'Gas Bumi (CNG)' berwarna hijau energi (#27AE60), tinggi proporsional ~490 unit; (2) batang tengah berlabel 'Solar/Diesel' berwarna abu-abu sedang (#8A9BA8), tinggi proporsional ~670 unit sebagai estimasi rentang menengah; (3) batang kanan berlabel 'Batu Bara' berwarna abu-abu gelap (#4A4A4A), tinggi proporsional ~820 unit. Di atas masing-masing batang, tampilkan nilai angka dalam teks tebal: '~490 g CO2/kWh', '~650-700 g CO2/kWh*', '~820 g CO2/kWh'. Sumbu Y tidak perlu label angka — nilai sudah tertera di atas batang. Judul kartu di bagian atas: 'Perbandingan Emisi CO2 Pembangkitan Listrik per Bahan Bakar'. Di bagian bawah kartu, sebuah blok berwarna biru muda (#EBF5FB) memuat dua baris teks kecil: 'Lebih rendah bukan berarti nol emisi.' dan 'Sumber: data faktor emisi IEA/ESDM. *Estimasi rentang solar/diesel.' Aksen garis bawah judul berwarna biru tua (#1A3A6E). Tipografi sans-serif, seluruh teks Bahasa Indonesia. Watermark kecil 'PGN Gagas' di sudut kanan bawah.",
+      "in_image_text_id": [
+        "Perbandingan Emisi CO2 Pembangkitan Listrik per Bahan Bakar",
+        "Gas Bumi (CNG)",
+        "~490 g CO2/kWh",
+        "Solar/Diesel",
+        "~650-700 g CO2/kWh*",
+        "Batu Bara",
+        "~820 g CO2/kWh",
+        "Lebih rendah bukan berarti nol emisi.",
+        "Sumber: data faktor emisi IEA/ESDM. *Estimasi rentang solar/diesel."
+      ],
+      "alt_id": "Grafik batang perbandingan emisi CO2 gas bumi, solar/diesel, dan batu bara dalam pembangkitan listrik per kWh",
+      "caption_id": "Gas bumi menghasilkan sekitar 490 g CO2 per kWh — sekitar 35% lebih rendah dari batu bara secara lifecycle (IEA, 2025). Namun 'lebih rendah' tidak sama dengan 'nol emisi'; itulah mengapa gas diposisikan sebagai energi transisi, bukan tujuan akhir.",
+      "sourcing_note": "Grafik orisinal — buat dari nol oleh tim desain. Data angka emisi bersumber dari IEA Global Methane Tracker 2025 (persentase 35%) dan data faktor emisi ESDM (g/kWh). Angka solar/diesel adalah estimasi rentang standar; cantumkan tanda bintang (*) dan keterangan 'estimasi' sesuai arahan peneliti. Jangan menyatakan angka ini sebagai angka definitif tanpa atribusi sumber.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_03",
+      "position": "in-body — di dalam H2 'Sisi Lain: Mengapa Gas Bukan Solusi Akhir (dan Apa Risikonya)'",
+      "concept_from_writer": "Timeline horizontal 'Peta Jalan Transisi Energi Indonesia menuju NZE 2060' — garis waktu dari 'Sekarang' → 2030 (12 BSCFD) → 2039 (puncak emisi 706 juta ton CO2e) → 2050 (gas 24% bauran) → 2060 (NZE, sisa emisi 401 juta ton CO2e). Ikon gas bumi mengecil dan ikon EBT membesar menuju 2060. Semua angka bersumber ESDM. Gaya flat, palet hijau-biru, teks Bahasa Indonesia.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Lima titik tonggak kebijakan yang berurutan secara kronologis paling tepat divisualisasikan sebagai diagram garis waktu horizontal; ikon yang 'mengecil/membesar' menceritakan pergeseran peran gas vs EBT tanpa memerlukan teks panjang.",
+      "visual_direction": "Timeline horizontal, format landscape (rasio 16:9). Latar belakang putih atau biru sangat muda (#EAF4FB). Sebuah garis horizontal tebal berwarna biru tua (#1A3A6E) membentang dari kiri ke kanan, di mana lima titik waktu ditandai dengan lingkaran berwarna-warni: (1) 'Sekarang (2026)' — lingkaran abu-abu sedang, ikon pabrik/kilang kecil berwarna abu, label di bawah; (2) '2030' — lingkaran biru, ikon tabung/silinder gas CNG berwarna biru, label '12 BSCFD' di bawah, sub-label 'Target produksi gas (Permen ESDM 35/2021)'; (3) '2039' — lingkaran oranye muda (#E67E22), ikon grafik/kurva naik lalu datar berwarna oranye, label '706 Juta Ton CO2e' di bawah, sub-label 'Puncak emisi ketenagalistrikan (ESDM)'; (4) '2050' — lingkaran hijau (#27AE60), ikon gas kecil + ikon surya/angin lebih besar berdampingan berwarna hijau, label 'Gas 24% Bauran Energi' di bawah, sub-label 'Target RUEN/ESDM'; (5) '2060' — lingkaran hijau cerah (#1ABC9C), ikon EBT besar + ikon gas sangat kecil, label 'NZE 2060' di atas garis menonjol, sub-label di bawah '~401 Juta Ton CO2e Residual (industri & transportasi — ESDM)'. Di atas garis waktu, antara titik 1 dan 4, gambarkan ikon silinder gas bumi yang secara bertahap mengecil kiri-ke-kanan; di bawah garis, ikon panel surya + turbin angin yang bertahap membesar. Ini memvisualisasikan pergeseran peran. Warna transisi keseluruhan: abu-abu di kiri, biru di tengah, hijau di kanan. Judul di bagian atas tengah: 'Peta Jalan Transisi Energi Indonesia Menuju NZE 2060'. Catatan sumber di pojok kiri bawah dalam teks kecil: 'Sumber: Kementerian ESDM'. Watermark kecil 'PGN Gagas' di sudut kanan bawah.",
+      "in_image_text_id": [
+        "Peta Jalan Transisi Energi Indonesia Menuju NZE 2060",
+        "Sekarang (2026)",
+        "2030",
+        "12 BSCFD",
+        "Target produksi gas (Permen ESDM 35/2021)",
+        "2039",
+        "706 Juta Ton CO2e",
+        "Puncak emisi ketenagalistrikan (ESDM)",
+        "2050",
+        "Gas 24% Bauran Energi",
+        "Target RUEN/ESDM",
+        "2060",
+        "NZE 2060",
+        "~401 Juta Ton CO2e Residual",
+        "Sisa emisi dari industri & transportasi (ESDM)",
+        "Sumber: Kementerian ESDM"
+      ],
+      "alt_id": "Diagram peta jalan transisi energi Indonesia dari 2026 menuju NZE 2060 dengan tonggak 2030, 2039, dan 2050 bersumber ESDM",
+      "caption_id": "Peta jalan transisi energi Indonesia menempatkan gas bumi sebagai jembatan bertahap: produksi gas ditargetkan 12 BSCFD pada 2030, emisi ketenagalistrikan diproyeksikan memuncak 706 juta ton CO2e pada 2039, lalu menurun menuju Net Zero Emission 2060 — dengan sisa emisi ~401 juta ton CO2e dari sektor yang sulit didekarbonisasi (Kementerian ESDM).",
+      "sourcing_note": "Diagram orisinal — buat dari nol oleh tim desain. Semua angka bersumber resmi dari Kementerian ESDM (NZE 2060, puncak emisi 2039, residual 2060) dan Permen ESDM 35/2021 (target 12 BSCFD) serta RUEN (target 24% bauran 2050). Cantumkan atribusi 'Sumber: Kementerian ESDM' di dalam visual. Angka-angka ini adalah komitmen kebijakan resmi, bukan estimasi spekulatif. Jangan merekayasa logo atau fasilitas Gagas dalam infografis ini.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

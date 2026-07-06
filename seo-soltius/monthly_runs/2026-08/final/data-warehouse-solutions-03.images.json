@@ -1,0 +1,86 @@
+{
+  "brief_id": "data-warehouse-solutions-03",
+  "article_title_id": "Migrasi Data Warehouse Lama ke Platform Modern: Panduan Brownfield",
+  "language": "id",
+  "image_count": 3,
+  "planned_at": "2026-06-08",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "body — setelah paragraf pembuka sebelum H2 pertama",
+      "concept_from_writer": "Timeline horizontal akhir dukungan SAP BW — empat penanda tahun: 2016 (BW 7.5 masuk mode maintenance), 2027 (akhir mainstream maintenance), 2030 (akhir extended maintenance berbayar), 2040 (batas komitmen BW/4HANA), tiap penanda dengan ikon kecil; gaya korporat biru-abu, teks Bahasa Indonesia",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Empat tonggak waktu yang berurutan paling jelas dibaca sebagai garis waktu — memvisualkan urgensi tenggat 2027 tanpa teks panjang, dan memperkuat argumen utama artikel secara langsung.",
+      "visual_direction": "Timeline horizontal lebar, satu jalur tunggal dari kiri (masa lalu) ke kanan (masa depan). Latar putih bersih, aksen biru korporat Soltius (#1E5FA8 atau ekuivalen) dan abu-abu (#6B7280). Empat penanda bertanda lingkaran atau berlian berwarna berbeda-beda sesuai status: abu-abu gelap untuk 2016 (sudah lewat), merah-oranye peringatan untuk 2027 (tenggat kritis), oranye redup untuk 2030 (extended berbayar), hijau tenang untuk 2040 (aman/jangka panjang). Di atas setiap penanda: label tahun dalam angka tebal. Di bawah setiap penanda: satu baris label pendek dalam Bahasa Indonesia. Ikon kecil (16–20 px) di atas lingkaran penanda: kunci-pas (2016), tanda seru (2027), tanda tanya/koin (2030), perisai (2040). Di bagian bawah kiri, sumber kecil: 'Sumber: BARC, SAP Community'. Lebar minimal 900 px, tinggi 220–280 px. Tidak ada gradien berlebihan — kesan clean dan profesional. Label teks in-image seluruhnya Bahasa Indonesia (lihat in_image_text_id).",
+      "in_image_text_id": [
+        "2016",
+        "BW 7.5 masuk mode maintenance — tidak ada fitur baru",
+        "2027",
+        "Akhir mainstream maintenance SAP BW 7.5",
+        "2030",
+        "Akhir extended maintenance (biaya tambahan)",
+        "2040",
+        "Komitmen dukungan SAP BW/4HANA",
+        "Sumber: BARC, SAP Community"
+      ],
+      "alt_id": "Timeline akhir dukungan SAP BW 7.5 dan BW/4HANA: tonggak 2016, 2027, 2030, dan 2040",
+      "caption_id": "SAP BW 7.5 sudah tidak menerima fitur baru sejak 2016 dan mainstream maintenance-nya berakhir 31 Desember 2027. SAP BW/4HANA, jalur migrasi resmi, berkomitmen mendapat dukungan setidaknya hingga 2040.",
+      "sourcing_note": "Diagram yang dibuat oleh tim desain berdasarkan data dari BARC (barc.com/end-of-maintenance-sap-bw/) dan SAP Community. Tidak memerlukan screenshot SAP — murni diagram data/timeline.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body — di tengah H2 'Apakah Bisa Migrasi dari Teradata atau Oracle ke Platform SAP?'",
+      "concept_from_writer": "Diagram side-by-side dua skenario integrasi — kiri \"Federasi\" (panah dua arah antara sistem lama dan platform modern, label \"data tetap di sumber\"), kanan \"Replikasi\" (panah satu arah, label \"data berpindah dan disalin\"); di bawah masing-masing satu kalimat kapan memilihnya; gaya korporat biru-hijau, teks Bahasa Indonesia",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Dua skenario integrasi yang berlawanan secara konseptual — panah arah berbeda, data berpindah atau tidak — paling jelas dikomunikasikan lewat diagram perbandingan berdampingan; teks deskriptif saja kurang intuitif untuk audiens non-teknis.",
+      "visual_direction": "Kanvas dibagi dua kolom seimbang dengan garis pemisah tipis di tengah. Latar putih, judul kolom dalam kotak header: kiri biru korporat (#1E5FA8), kanan hijau teal (#0D9488). Kolom kiri — 'FEDERASI': di atas, kotak berlabel 'Sistem Lama (Teradata / Oracle / BW)' dengan ikon server/silinder; di bawah, kotak berlabel 'SAP Datasphere'; di antara keduanya, panah dua arah (kiri-kanan) berwarna biru dengan label di tengah panah 'akses virtual — data tetap di sumber'. Di bawah diagram kecil ini, satu kalimat rekomendasi dalam Bahasa Indonesia. Kolom kanan — 'REPLIKASI': layout identik, tetapi hanya ada satu panah satu arah (kiri ke kanan) berwarna hijau teal, label 'data berpindah dan disalin ke platform baru'. Di bawahnya satu kalimat rekomendasi Bahasa Indonesia. Di paling bawah, footer abu-abu muda dengan teks kecil 'Strategi awal yang umum: mulai dengan Federasi, lalu Replikasi per domain'. Tipografi: Inter atau sans-serif bersih, tidak ada drop-shadow berlebihan. Ukuran kanvas minimal 900×450 px. Seluruh label in-image dalam Bahasa Indonesia (lihat in_image_text_id).",
+      "in_image_text_id": [
+        "FEDERASI",
+        "Sistem Lama (Teradata / Oracle / BW)",
+        "SAP Datasphere",
+        "akses virtual — data tetap di sumber",
+        "Gunakan saat: ingin mengakses data legacy tanpa memindahkannya, atau saat model data belum divalidasi",
+        "REPLIKASI",
+        "data berpindah dan disalin ke platform baru",
+        "Gunakan saat: model data sudah terbukti benar dan siap untuk migrasi penuh per domain",
+        "Strategi awal yang umum: mulai dengan Federasi, lalu Replikasi per domain"
+      ],
+      "alt_id": "Diagram perbandingan federasi vs replikasi data di SAP Datasphere, menampilkan arah aliran dan kapan memilih masing-masing",
+      "caption_id": "SAP Datasphere mendukung dua strategi masuk untuk migrasi: federasi (data tetap di sistem lama, diakses virtual) dan replikasi (data disalin ke platform baru). Pendekatan yang umum adalah federasi terlebih dahulu, baru replikasi bertahap per domain setelah model data divalidasi.",
+      "sourcing_note": "Diagram konseptual yang dibuat oleh tim desain — tidak memerlukan screenshot produk SAP. Konsep berdasarkan SAP Help Portal dan SAP Learning (diverifikasi di dossier). Tidak perlu mereproduksi tampilan UI SAP Datasphere.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_03",
+      "position": "body — setelah tabel lima fase, di akhir H2 'Lima Fase Migrasi yang Meminimalkan Risiko Operasional'",
+      "concept_from_writer": "Infografik vertikal lima fase migrasi brownfield berurutan — (1) Asesmen & Inventarisasi, (2) Desain Target & Pemetaan, (3) Migrasi Bertahap per Domain, (4) Parallel Run & Rekonsiliasi, (5) Cutover & Dekomisioning; tiap fase satu ikon dan satu label risiko utama; warna progresif abu menuju hijau, teks Bahasa Indonesia",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Lima langkah berurutan dengan masing-masing risiko utamanya adalah konten tekstual yang terstruktur — infografik vertikal bertahap memberi pembaca ringkasan visual yang bisa langsung disimpan atau dipakai sebagai referensi, melengkapi tabel di artikel tanpa menduplikasinya.",
+      "visual_direction": "Infografik vertikal tinggi (tinggi minimal 900 px, lebar 500–600 px) dengan lima blok bertumpuk dari atas ke bawah, dihubungkan oleh garis konektor tipis atau chevron mengarah ke bawah. Setiap blok memiliki: (a) nomor fase (1–5) dalam lingkaran berwarna di sebelah kiri, (b) nama fase dalam teks tebal, (c) satu baris label risiko utama dalam teks lebih kecil dan berwarna merah-oranye muted, (d) ikon kecil (24 px) yang relevan di sebelah kanan nomor. Palet warna progresif: blok 1 abu-abu (#9CA3AF), blok 2 biru muda (#60A5FA), blok 3 biru sedang (#2563EB), blok 4 biru-teal (#0891B2), blok 5 hijau (#16A34A) — progresif menuju 'selesai/sukses'. Latar putih bersih, shadow minimal, border-radius sedikit untuk kesan modern. Di paling atas, judul pendek dalam Bahasa Indonesia. Di paling bawah, logo atau nama Soltius ukuran kecil (sesuai panduan branding). Tidak ada clipart generik. Seluruh teks in-image dalam Bahasa Indonesia (lihat in_image_text_id).",
+      "in_image_text_id": [
+        "5 Fase Migrasi Data Warehouse Brownfield",
+        "1",
+        "Asesmen & Inventarisasi",
+        "Risiko: ruang lingkup diremehkan",
+        "2",
+        "Desain Target & Pemetaan",
+        "Risiko: ketidakcocokan model data",
+        "3",
+        "Migrasi Bertahap per Domain",
+        "Risiko: downtime bila dilakukan sekaligus",
+        "4",
+        "Parallel Run & Rekonsiliasi",
+        "Risiko: kriteria penerimaan tidak jelas",
+        "5",
+        "Cutover & Dekomisioning",
+        "Risiko: dependensi tersembunyi terlewat"
+      ],
+      "alt_id": "Infografik lima fase migrasi data warehouse brownfield: asesmen, desain target, migrasi per domain, parallel run, dan cutover",
+      "caption_id": "Migrasi data warehouse yang aman berjalan dalam lima fase berurutan — dari inventarisasi awal hingga dekomisioning sistem lama. Setiap fase membawa risiko spesifik yang perlu dimitigasi sebelum melangkah ke fase berikutnya.",
+      "sourcing_note": "Infografik yang dibuat oleh tim desain berdasarkan kerangka migrasi lima fase dalam artikel. Tidak memerlukan screenshot SAP. Data fase dan risiko diambil dari tabel di artikel dan dossier (Exasol, OvalEdge, Protiviti).",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "brief_id": "turnover-karyawan-c01",
+  "article_title_id": "Turnover Karyawan: Penyebab, Cara Menghitung, dan Cara Menguranginya",
+  "language": "id",
+  "image_count": 3,
+  "planned_at": "2026-06-17",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "post-lead (setelah paragraf pembuka, sebelum H2 pertama)",
+      "concept_from_writer": "Diagram loop \"siklus biaya turnover karyawan\" — lima komponen melingkar (rekrutmen, onboarding, pelatihan, produktivitas hilang, dampak tim) dengan label persentase gaji tahunan 50%–200% di tengah; gaya infografik korporat, warna biru-hijau, teks Bahasa Indonesia",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Konsep 'siklus' dengan lima komponen yang saling terhubung paling jelas disampaikan lewat diagram lingkaran/loop, bukan foto atau ilustrasi lepas; angka 50%–200% sebagai anchor tengah memperkuat argumen biaya di lead.",
+      "visual_direction": "Diagram loop melingkar (circular flow) berlatar putih bersih. Di tengah lingkaran, teks besar tebal '50%–200% Gaji Tahunan' dalam warna biru gelap (#1A3D6E atau setara) sebagai anchor biaya, dengan sub-teks kecil 'Total Biaya Penggantian Satu Karyawan'. Mengelilingi pusat, lima node berbentuk lingkaran kecil berwarna solid biru medium (#2E6DB4) dihubungkan oleh panah melengkung searah jarum jam, masing-masing dengan ikon garis putih di dalamnya dan label teks di luar node: (1) Rekrutmen & Seleksi — ikon kaca pembesar/orang, (2) Onboarding — ikon jabat tangan/checklist, (3) Pelatihan & Ramp-Up — ikon buku/graduation cap, (4) Produktivitas Hilang — ikon grafik turun/jam pasir, (5) Dampak pada Tim — ikon grup orang/puzzle. Panah antar-node berwarna biru muda (#6AABDC). Tipografi: sans-serif modern (misalnya Roboto atau Inter). Seluruh teks dalam Bahasa Indonesia. Ukuran output: 1200×1200 px (square) atau 1200×800 px (landscape). Tidak ada elemen dekoratif berlebihan — gaya flat korporat profesional.",
+      "in_image_text_id": [
+        "50%–200% Gaji Tahunan",
+        "Total Biaya Penggantian Satu Karyawan",
+        "Rekrutmen & Seleksi",
+        "Onboarding",
+        "Pelatihan & Ramp-Up",
+        "Produktivitas Hilang",
+        "Dampak pada Tim"
+      ],
+      "alt_id": "Diagram siklus biaya turnover karyawan menunjukkan lima komponen biaya penggantian senilai 50–200 persen gaji tahunan",
+      "caption_id": "Mengganti satu karyawan tidak sekadar mengisi kursi kosong — siklus biaya mencakup rekrutmen, onboarding, pelatihan, hingga hilangnya produktivitas dan dampak pada tim. Menurut Gallup (2019), total biaya ini bisa mencapai 50–200% dari gaji tahunan posisi yang ditinggalkan.",
+      "sourcing_note": "Infografik orisinal — tidak ada screenshot SAP. Desainer dapat mengeksekusi langsung dari brief di atas. Data 50–200% bersumber dari Gallup (2019) dan SHRM; tidak perlu lisensi data eksternal.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "di dalam H2 'Apa Saja Penyebab Turnover Karyawan Tinggi?' (setelah paragraf terakhir H2 tersebut)",
+      "concept_from_writer": "Infografik vertikal \"6 penyebab utama turnover\" — tiap penyebab (kompensasi, jenjang karir, kualitas manajer, onboarding buruk, beban kerja/burnout, budaya kerja) dengan ikon dan satu kalimat singkat; gaya korporat bersih, aksen warna Soltius, teks Bahasa Indonesia",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Enam item diskrit dengan label + kalimat penjelasan cocok untuk infografis daftar vertikal; format ini mudah dipindai cepat oleh pembaca B2B dan dapat dikutip/di-screenshot untuk berbagi di media sosial.",
+      "visual_direction": "Infografis daftar vertikal berlatar putih bersih dengan header di bagian atas. Header: teks '6 Penyebab Utama Turnover Karyawan Tinggi' dalam font bold, putih di atas band biru gelap (#1A3D6E) yang memanjang penuh lebar. Di bawah header, enam baris item tersusun vertikal. Setiap baris memiliki: (kiri) ikon garis putih dalam lingkaran solid biru medium (#2E6DB4) berdiameter ±40 px; (tengah) judul penyebab dalam bold biru gelap; (bawah judul) satu kalimat deskripsi singkat dalam abu gelap (#444444). Urutan item: (1) ikon uang/koin — 'Kompensasi Tidak Kompetitif' — 'Gaji tertinggal pasar mendorong talenta terbaik mencari tawaran lain'; (2) ikon tangga/panah naik — 'Ketiadaan Jenjang Karir' — 'Karyawan berkinerja tinggi butuh melihat masa depan di perusahaan'; (3) ikon orang & bintang — 'Kualitas Manajer Lini' — 'Gallup (2024): kualitas atasan berkontribusi 29% kepergian yang bisa dicegah'; (4) ikon checklist/clipboard — 'Onboarding yang Buruk' — '±22% karyawan baru keluar dalam 90 hari pertama karena pelatihan lemah'; (5) ikon api/jam — 'Beban Kerja & Burnout' — 'Tuntutan berlebihan tanpa dukungan memicu kelelahan dan resign'; (6) ikon hati/bintang rusak — 'Budaya Kerja Tidak Sehat' — 'Konflik, kurang apresiasi, dan lingkungan toksik mempercepat kepergian'. Pemisah antar-baris: garis tipis abu muda. Footer kecil: 'Sumber: Gallup (2024), AIHR (2025)'. Seluruh teks Bahasa Indonesia. Ukuran output: 800×1200 px (portrait). Gaya flat korporat, tidak ada gradien berlebihan.",
+      "in_image_text_id": [
+        "6 Penyebab Utama Turnover Karyawan Tinggi",
+        "Kompensasi Tidak Kompetitif",
+        "Gaji tertinggal pasar mendorong talenta terbaik mencari tawaran lain",
+        "Ketiadaan Jenjang Karir",
+        "Karyawan berkinerja tinggi butuh melihat masa depan di perusahaan",
+        "Kualitas Manajer Lini",
+        "Gallup (2024): kualitas atasan berkontribusi 29% kepergian yang bisa dicegah",
+        "Onboarding yang Buruk",
+        "±22% karyawan baru keluar dalam 90 hari pertama karena pelatihan lemah",
+        "Beban Kerja & Burnout",
+        "Tuntutan berlebihan tanpa dukungan memicu kelelahan dan resign",
+        "Budaya Kerja Tidak Sehat",
+        "Konflik, kurang apresiasi, dan lingkungan toksik mempercepat kepergian",
+        "Sumber: Gallup (2024), AIHR (2025)"
+      ],
+      "alt_id": "Infografis enam penyebab utama turnover karyawan tinggi mulai dari kompensasi hingga budaya kerja",
+      "caption_id": "Riset Gallup (2024) menemukan 42% pengunduran diri sukarela sebenarnya bisa dicegah — dengan kompensasi & karir (30%) dan kualitas manajer (29%) sebagai penyebab terbesar. Memahami keenam pemicu ini adalah langkah pertama merancang strategi retensi yang tepat sasaran.",
+      "sourcing_note": "Infografik orisinal — tidak ada screenshot SAP. Data penyebab bersumber dari Gallup (2024) dan AIHR/InsightGlobal (2025); angka sudah terverifikasi di dossier. Tidak perlu lisensi data eksternal.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_03",
+      "position": "di dalam H2 'Cara Menghitung Turnover Karyawan: Rumus dan Contoh' (setelah tabel perhitungan langkah-per-langkah)",
+      "concept_from_writer": "Infografik \"math card\" rumus turnover rate dengan contoh angka — flowchart horizontal tiga kotak (12 keluar → ÷ 144 rata-rata → × 100 = 8,3%), gaya bersih dan korporat, warna biru-putih, teks Bahasa Indonesia",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Rumus matematis dengan contoh angka konkret paling efektif divisualisasikan sebagai 'math card' atau flowchart horizontal; membantu pembaca mengingat urutan langkah dan memindainya lebih cepat daripada membaca teks rumus.",
+      "visual_direction": "Infografis 'math card' horizontal berlatar biru gelap (#1A3D6E) dengan tiga kotak putih bersih tersusun sejajar dan dihubungkan oleh operator matematika. Tata letak dari kiri ke kanan: KOTAK 1 (lebar ±200 px) — label kecil abu muda di atas 'Karyawan Keluar', angka besar bold biru gelap di kotak putih '12', sub-teks kecil 'dalam satu tahun'; OPERATOR 1 — simbol '÷' dalam lingkaran biru medium (#2E6DB4), ukuran sedang, melayang di antara kotak; KOTAK 2 — label 'Rata-rata Karyawan', angka besar '144', sub-teks '(150 + 138) ÷ 2'; OPERATOR 2 — simbol '× 100' dalam lingkaran biru medium; KOTAK 3 (aksen) — latar biru medium, teks putih, label 'Turnover Rate', angka besar bold putih '8,3%', sub-teks 'Kategori: Sehat (< 10%)'. Di bawah tiga kotak, satu baris teks kecil abu: 'Rumus: (Jumlah Keluar ÷ Rata-rata Karyawan) × 100 — Metodologi SHRM'. Di pojok kanan bawah, badge kecil 'Contoh ilustratif'. Seluruh teks Bahasa Indonesia. Ukuran output: 1200×500 px (landscape/banner). Font sans-serif modern. Tidak ada dekorasi berlebihan — fokus pada keterbacaan angka.",
+      "in_image_text_id": [
+        "Karyawan Keluar",
+        "12",
+        "dalam satu tahun",
+        "÷",
+        "Rata-rata Karyawan",
+        "144",
+        "(150 + 138) ÷ 2",
+        "× 100",
+        "Turnover Rate",
+        "8,3%",
+        "Kategori: Sehat (< 10%)",
+        "Rumus: (Jumlah Keluar ÷ Rata-rata Karyawan) × 100 — Metodologi SHRM",
+        "Contoh ilustratif"
+      ],
+      "alt_id": "Infografis rumus cara menghitung turnover rate karyawan dengan contoh: 12 keluar dibagi 144 rata-rata dikali 100 sama dengan 8,3 persen",
+      "caption_id": "Rumus turnover rate standar SHRM terdiri dari tiga langkah: hitung karyawan yang keluar, bagi dengan rata-rata headcount periode yang sama, lalu kalikan 100. Pada contoh di atas, 12 karyawan keluar dari rata-rata 144 menghasilkan turnover rate 8,3% — masuk kategori sehat.",
+      "sourcing_note": "Infografik orisinal — tidak ada screenshot SAP. Angka contoh (12 keluar, 144 rata-rata, 8,3%) adalah angka ilustratif yang konsisten dengan tabel di badan artikel dan dossier (Tabel 1). Tidak perlu lisensi data eksternal.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

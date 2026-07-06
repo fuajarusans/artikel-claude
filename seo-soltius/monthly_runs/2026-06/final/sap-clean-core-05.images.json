@@ -1,0 +1,65 @@
+{
+  "brief_id": "sap-clean-core-05",
+  "article_title_id": "Clean Core SAP: Bagaimana Dampaknya pada Pilihan Brownfield vs Greenfield?",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-02",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Diagram alur keputusan vertikal tiga jalur — \"Kondisi Clean Core\" sebagai titik awal percabangan; tiga jalur mengarah ke \"Brownfield / System Conversion\", \"Selective Data Transition (SDT)\", dan \"Greenfield / New Implementation\"; tiap jalur memiliki trigger kondisi (tingkat kustomisasi, anggaran, toleransi disruption); gaya infografik korporat biru-putih, teks Bahasa Indonesia",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Alur keputusan tiga-jalur paling tepat disajikan sebagai flowchart/diagram — struktur percabangan tidak bisa disederhanakan menjadi tabel atau foto, dan visualisasi ini berdiri sendiri sebagai referensi standalone bagi tim IT/manajemen.",
+      "visual_direction": "Diagram alur vertikal dengan latar belakang putih bersih dan aksen biru korporat (biru navy #003366 untuk elemen utama, biru muda #0070B8 untuk jalur, abu-abu #F5F5F5 untuk latar kotak). Struktur: (1) Di atas: kotak persegi panjang lebar bertuliskan 'Kondisi Clean Core SAP Saat Ini' (font bold, biru navy, ikon database di sisi kiri). (2) Dari kotak ini, tiga panah vertikal ke bawah bercabang menjadi tiga jalur berjejer kiri-tengah-kanan. (3) Jalur kiri: kotak berjudul 'Core RENDAH — Banyak kode Z, modifikasi luas' (ikon peringatan segitiga merah kecil), panah ke bawah ke kotak rekomendasi 'Brownfield Bertahap atau SDT' dengan sub-teks 'Remediasi kode Z dulu; hindari brownfield langsung tanpa cleanup'. (4) Jalur tengah: kotak berjudul 'Core SEDANG — Beberapa kustomisasi inti' (ikon setengah lingkaran kuning), panah ke bawah ke kotak 'Brownfield + Cleanup ATAU Greenfield' dengan sub-teks 'Lakukan SAP Readiness Check; audit kode Z sebelum memutuskan'. (5) Jalur kanan: kotak berjudul 'Core TINGGI — Relatif standar, sedikit modifikasi' (ikon centang hijau), panah ke bawah ke kotak 'Greenfield ATAU Brownfield Cepat' dengan sub-teks 'Sedikit remediasi; cocok juga untuk GROW with SAP jika unit baru'. (6) Di bawah setiap rekomendasi: label kecil abu-abu bertuliskan program SAP relevan ('RISE with SAP Private Edition' untuk kiri dan tengah; 'RISE atau GROW with SAP' untuk kanan). Tipografi: sans-serif bersih (Montserrat atau Inter); semua teks Bahasa Indonesia. Ukuran minimum 1200x900px untuk keterbacaan.",
+      "in_image_text_id": [
+        "Kondisi Clean Core SAP Saat Ini",
+        "Core RENDAH — Banyak kode Z, modifikasi luas",
+        "Core SEDANG — Beberapa kustomisasi inti",
+        "Core TINGGI — Relatif standar, sedikit modifikasi",
+        "Brownfield Bertahap atau SDT",
+        "Remediasi kode Z dulu; hindari brownfield langsung tanpa cleanup",
+        "Brownfield + Cleanup ATAU Greenfield",
+        "Lakukan SAP Readiness Check; audit kode Z sebelum memutuskan",
+        "Greenfield ATAU Brownfield Cepat",
+        "Sedikit remediasi; cocok juga untuk GROW with SAP jika unit baru",
+        "RISE with SAP Private Edition",
+        "RISE atau GROW with SAP"
+      ],
+      "alt_id": "Diagram alur keputusan tiga jalur migrasi SAP S/4HANA berdasarkan kondisi clean core: brownfield, SDT, atau greenfield",
+      "caption_id": "Kondisi clean core SAP yang ada saat ini menentukan jalur migrasi ke S/4HANA yang paling realistis. Sistem dengan technical debt tinggi menghadapi opsi yang berbeda secara fundamental dibanding sistem yang sudah relatif standar.",
+      "sourcing_note": "Infografik/diagram orisinal — tidak memerlukan screenshot SAP. Tim desain dapat membuat dari nol menggunakan panduan visual direction di atas. Tidak ada elemen UI SAP yang perlu direplikasi. Referensi konten: tabel keputusan di artikel dan Notes for image-planner dossier.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body",
+      "concept_from_writer": "Infografik tiga kolom menampilkan perbandingan nasib kode Z di tiga pendekatan — kolom kiri \"Brownfield: kode Z dibawa, wajib diremediasi ke ABAP Cloud\"; kolom tengah \"SDT: kode Z dipilih selektif\"; kolom kanan \"Greenfield: kode Z ditinggal, dibangun ulang di BTP\"; gaya korporat biru-putih, ikon kode/database di tiap kolom, teks Bahasa Indonesia",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Perbandingan tiga-cara dengan fakta kunci per kolom adalah format infografik klasik — mudah dipindai, bisa beredar mandiri di LinkedIn atau chat internal, dan lebih efektif dari tabel teks biasa untuk audiens CIO/IT yang membaca cepat.",
+      "visual_direction": "Infografik tiga kolom horizontal dengan latar putih dan garis pembatas tipis abu-abu (#E0E0E0) antar kolom. Setiap kolom memiliki header berwarna berbeda namun tetap dalam palet korporat: kolom kiri header biru navy #003366, kolom tengah header biru medium #0070B8, kolom kanan header biru muda/teal #00A0B0 — ini membantu membedakan tiga pendekatan secara visual. Layout per kolom dari atas ke bawah: (1) Header: nama pendekatan dalam font bold putih ('BROWNFIELD / Konversi Sistem', 'SELECTIVE DATA TRANSITION (SDT)', 'GREENFIELD / Implementasi Baru'). (2) Ikon tengah: ikon kode/database yang representatif — kolom kiri: ikon kotak kode dengan tanda panah 'masuk' (kode Z terbawa); kolom tengah: ikon kotak kode dengan tanda filter/seleksi (dipilih); kolom kanan: ikon kotak kode dengan tanda silang merah kecil dan ikon BTP/cloud di sampingnya (ditinggal, dibangun di BTP). (3) Tiga baris fakta kunci per kolom dalam font reguler biru gelap: baris pertama tentang status kode Z, baris kedua tentang tindakan yang diperlukan, baris ketiga tentang implikasi biaya/waktu. (4) Footer setiap kolom: label kecil abu-abu untuk program SAP terkait. Semua teks Bahasa Indonesia. Ukuran minimum 1400x700px agar tiga kolom mudah dibaca; rasio landscape. Desain bersih, tidak ramai — maksimal dua ikon per kolom.",
+      "in_image_text_id": [
+        "BROWNFIELD / Konversi Sistem",
+        "SELECTIVE DATA TRANSITION (SDT)",
+        "GREENFIELD / Implementasi Baru",
+        "Kode Z dibawa semua ke S/4HANA",
+        "Wajib diremediasi agar kompatibel dengan ABAP Cloud",
+        "Remediasi bisa jadi item biaya terbesar",
+        "Kode Z dipilih secara selektif",
+        "Pemetaan data selektif — proses paling kompleks",
+        "Biaya tertinggi dari ketiga pendekatan",
+        "Kode Z ditinggal — tidak dibawa ke sistem baru",
+        "Dibangun ulang di SAP BTP atau dengan SAP Build",
+        "Evaluasi ulang apakah tiap kustomisasi masih dibutuhkan",
+        "RISE with SAP",
+        "RISE with SAP",
+        "RISE atau GROW with SAP"
+      ],
+      "alt_id": "Infografik tiga kolom perbandingan nasib kode Z SAP dalam pendekatan brownfield, SDT, dan greenfield migrasi S/4HANA",
+      "caption_id": "Nasib kode Z sangat berbeda di setiap pendekatan migrasi S/4HANA: brownfield membawa semuanya dan mewajibkan remediasi, SDT memilih selektif, sementara greenfield meninggalkan semua kode Z dan membangun ulang fungsionalitas di SAP BTP.",
+      "sourcing_note": "Infografik orisinal — tidak memerlukan screenshot SAP. Tim desain membuat dari nol berdasarkan visual direction di atas. Tidak ada elemen UI SAP yang direplikasi. Konten faktual bersumber dari artikel dan dossier (SAP Community, SAP Support Portal). Cocok untuk digunakan kembali sebagai aset LinkedIn atau materi presentasi klien.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

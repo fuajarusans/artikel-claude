@@ -1,0 +1,54 @@
+{
+  "brief_id": "sap-clean-core-03",
+  "article_title_id": "Seberapa \"Bersih\" Core SAP Anda? Kerangka Penilaian Clean Core Maturity",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-02",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Diagram pentagon/wheel lima dimensi clean core — setiap sudut pentagon berlabel satu dimensi (Extensibility, Integrations, Processes, Data, Operations) dengan ikon representatif, warna gradient biru-hijau korporat, teks Bahasa Indonesia, di tengah teks \"Clean Core Maturity\", gaya infografik bersih untuk pembaca eksekutif",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Lima dimensi yang setara dan saling berhubungan paling tepat digambarkan sebagai pentagon/wheel — format ini menunjukkan keseimbangan dan interkoneksi antar dimensi tanpa membuat hierarki yang tidak ada.",
+      "visual_direction": "Infografis berbentuk pentagon simetris di atas latar putih bersih. Setiap dari lima sudut pentagon mewakili satu dimensi dengan ikon minimalis garis tunggal (line-icon) berwarna biru tua (#1A3A5C) di atas lingkaran kecil biru muda (#D6E8F7): sudut atas = Extensibility (ikon kode/blok bangunan), kanan atas = Integrations (ikon rantai/API), kanan bawah = Operations (ikon roda gigi pengaturan), kiri bawah = Data (ikon silinder database), kiri atas = Processes (ikon diagram alir). Label setiap dimensi ditulis dalam Bahasa Indonesia bold di bawah ikonnya, ukuran 11pt, warna abu-tua (#333333). Tepi pentagon menggunakan garis gradient biru-ke-hijau (#1A3A5C ke #27AE60), lebar 3px. Area dalam pentagon diisi gradient biru-hijau transparan (opacity 15%). Di pusat pentagon, teks dua baris: baris 1 \"Clean Core\" bold 14pt biru tua, baris 2 \"Maturity\" regular 12pt abu-tua. Seluruh elemen tipografi dalam Bahasa Indonesia. Rasio kanvas 1:1 atau 4:3 landscape untuk fleksibilitas header artikel.",
+      "in_image_text_id": [
+        "Extensibility",
+        "Integrations",
+        "Processes",
+        "Data",
+        "Operations",
+        "Clean Core",
+        "Maturity"
+      ],
+      "alt_id": "Diagram pentagon lima dimensi SAP clean core maturity: Extensibility, Integrations, Processes, Data, dan Operations",
+      "caption_id": "Lima dimensi SAP clean core maturity yang harus dinilai secara independen — kondisi satu dimensi tidak otomatis mencerminkan kesiapan dimensi lainnya. Sumber: SAP Learning Journey, 2025.",
+      "sourcing_note": "Buat ilustrasi orisinal — tidak perlu screenshot SAP. Desainer dapat membuat pentagon/wheel dari nol menggunakan panduan warna korporat Soltius (biru profesional #1A3A5C + putih). Hindari menggunakan diagram dari SAP.com secara langsung karena hak cipta; cukup gunakan konsep geometris pentagon dengan label teks.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body",
+      "concept_from_writer": "Diagram tiga langkah horizontal self-assessment — Langkah 1 \"Kumpulkan Data Input\" (ikon dokumen/laporan), Langkah 2 \"Nilai Per Dimensi\" (ikon checklist dengan skala 1–4), Langkah 3 \"Interpretasikan Pola Skor\" (ikon grafik radar/spider), warna progresif abu ke hijau, teks Bahasa Indonesia, gaya step-diagram bersih korporat",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Tiga langkah berurutan yang harus dilakukan secara linear paling efektif dikomunikasikan sebagai step-diagram horizontal dengan panah progresif — pembaca eksekutif langsung memahami urutan dan dapat memperkirakan upaya yang dibutuhkan.",
+      "visual_direction": "Step-diagram horizontal tiga kotak yang dihubungkan oleh panah chevron. Latar kanvas putih, rasio 16:9 atau 3:1 landscape. Setiap kotak berukuran sama (proporsi persegi), sudut membulat (radius 8px), dengan warna fill progresif: Langkah 1 = abu muda (#E8E8E8 fill, #999999 border), Langkah 2 = biru muda (#D6E8F7 fill, #1A3A5C border), Langkah 3 = hijau muda (#D5F0E0 fill, #27AE60 border). Di dalam setiap kotak: (a) nomor langkah bold 18pt di pojok kiri atas berwarna sesuai border, (b) ikon garis tunggal berukuran 32px di tengah atas kotak — Langkah 1: ikon dokumen/laporan, Langkah 2: ikon checklist dengan angka 1–4, Langkah 3: ikon grafik radar/spider, (c) judul langkah bold 11pt Bahasa Indonesia di bawah ikon, (d) deskripsi singkat 8pt abu-tua 1 baris di bawah judul. Panah chevron (#1A3A5C, lebar 24px) menghubungkan kotak 1→2 dan 2→3. Semua teks dalam Bahasa Indonesia.",
+      "in_image_text_id": [
+        "1",
+        "Kumpulkan Data Input",
+        "Jalankan SAP Readiness Check; buat katalog integrasi",
+        "2",
+        "Nilai Per Dimensi",
+        "Tetapkan level 1–4 per dimensi berdasarkan kondisi aktual",
+        "3",
+        "Interpretasikan Pola Skor",
+        "Identifikasi dimensi blocker untuk jalur migrasi yang dipilih"
+      ],
+      "alt_id": "Tiga langkah self-assessment SAP clean core maturity: kumpulkan data input, nilai per dimensi, interpretasikan pola skor",
+      "caption_id": "Tiga langkah self-assessment clean core maturity yang dapat dijalankan secara mandiri menggunakan SAP Readiness Check dan SAP Transformation Navigator — keduanya tersedia gratis untuk pelanggan SAP aktif.",
+      "sourcing_note": "Buat ilustrasi orisinal — tidak ada screenshot SAP yang diperlukan. Desainer membuat step-diagram dari nol sesuai panduan visual di atas. Ikon garis tunggal (line icons) untuk dokumen, checklist, dan grafik radar tersedia di library ikon umum seperti Feather Icons atau Material Icons (lisensi bebas) — tidak perlu ikon khusus SAP.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

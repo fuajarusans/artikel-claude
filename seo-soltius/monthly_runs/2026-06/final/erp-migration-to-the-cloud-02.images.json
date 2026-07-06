@@ -1,0 +1,60 @@
+{
+  "brief_id": "erp-migration-to-the-cloud-02",
+  "article_title_id": "Migrasi ERP ke Cloud Tanpa Ganggu Operasional: Strategi Minimasi Downtime",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-02",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "intro — setelah paragraf definisi dan sebelum H2 pertama",
+      "concept_from_writer": "Diagram timeline horizontal proses Downtime-Optimized Conversion — tiga fase berwarna: (a) biru muda \"Sistem Aktif + Migrasi Berjalan di Background\", (b) kuning \"Trigger Recording Perubahan\", (c) hijau \"Cutover Singkat — Switch ke Sistem Baru\". Teks Bahasa Indonesia, gaya korporat bersih.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Proses teknis tiga fase yang berjalan secara berurutan paling tepat disajikan sebagai diagram alur/timeline; stock photo tidak bisa menyampaikan mekanisme NZDT, dan infografis teks terlalu statis untuk menggambarkan paralelisme fase (a) vs. (b).",
+      "visual_direction": "Diagram timeline horizontal lurus (baca kiri ke kanan) pada latar putih bersih. Tiga blok fase berurutan dihubungkan panah tebal: FASE 1 (blok biru muda, ikon server berputar) bertulisan 'Fase 1: Sistem Lama Tetap Aktif' dengan subjudul 'Konversi data berjalan di background via SUM 2.0'; FASE 2 (blok kuning, ikon petir/trigger) bertulisan 'Fase 2: Trigger Merekam Perubahan Pengguna' dengan subjudul 'Semua transaksi baru dicatat secara real-time'; FASE 3 (blok hijau, ikon checkmark/swap) bertulisan 'Fase 3: Cutover Singkat — Switch ke Sistem Baru' dengan subjudul 'Downtime terkompresi: hitungan jam, bukan hari'. Di bawah FASE 1 tambahkan tanda kurung kurawal dengan label 'Pekerjaan berat di sini'. Di atas FASE 3 tambahkan label merah 'Jendela Downtime Nyata' dengan panah kecil menunjuk ke blok hijau. Tipografi sans-serif modern (Roboto/Lato). Palet: biru korporat (#1A3C6E), biru muda (#5B9BD5), kuning (#F4C430), hijau (#4CAF50), teks abu-gelap. Lebar kanvas disarankan 1200×480 px, rasio 5:2.",
+      "in_image_text_id": [
+        "Fase 1: Sistem Lama Tetap Aktif",
+        "Konversi data berjalan di background via SUM 2.0",
+        "Fase 2: Trigger Merekam Perubahan Pengguna",
+        "Semua transaksi baru dicatat secara real-time",
+        "Fase 3: Cutover Singkat — Switch ke Sistem Baru",
+        "Downtime terkompresi: hitungan jam, bukan hari",
+        "Pekerjaan berat di sini",
+        "Jendela Downtime Nyata"
+      ],
+      "alt_id": "Diagram tiga fase Downtime-Optimized Conversion SAP: sistem aktif paralel, trigger perubahan, lalu cutover singkat ke S/4HANA",
+      "caption_id": "Metode Downtime-Optimized Conversion (doC) SAP membagi proses migrasi menjadi tiga fase: sistem lama tetap berjalan saat pekerjaan konversi besar berlangsung di background, trigger database merekam setiap perubahan pengguna, dan cutover final — satu-satunya jendela downtime nyata — hanya membutuhkan hitungan jam. Tersedia via Software Update Manager (SUM) 2.0 SP18 ke atas.",
+      "sourcing_note": "Diagram teknis — tidak membutuhkan screenshot SAP. Desainer membuat diagram dari awal berdasarkan deskripsi di atas. Untuk referensi akurasi teknis, lihat SAP Support Portal: https://support.sap.com/en/tools/software-logistics-tools/software-update-manager/downtime-optimized-conversion-approach.html",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "setelah tabel perbandingan metode cutover di H2 'Berapa Lama Jendela Cutover yang Realistis'",
+      "concept_from_writer": "Infografis empat metode cutover bergaya tabel visual — empat kolom (Big Bang, Phased, doC, NZDT) dengan ikon jam yang semakin kecil dari kiri ke kanan menunjukkan downtime semakin singkat. Di bawah tiap kolom: ikon perusahaan kecil/menengah/besar. Teks Bahasa Indonesia, warna korporat biru-abu.",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Data perbandingan empat metode dengan dua dimensi (durasi downtime + ukuran perusahaan) paling efektif disajikan sebagai infografis tabel visual; diagram tidak fleksibel untuk empat kolom perbandingan, dan chart batang kurang kontekstual tanpa label kualitatif.",
+      "visual_direction": "Infografis tabel visual empat kolom di atas latar putih/abu-sangat-muda. Header baris paling atas bertulisan 'Perbandingan Metode Migrasi ERP ke Cloud' (bold, biru korporat #1A3C6E, font 18px). Empat kolom dari kiri ke kanan: (1) 'Big Bang (Konvensional)', (2) 'Phased Rollout (Wave)', (3) 'Downtime-Optimized (doC)', (4) 'NZDT (SAP Global Delivery)'. Setiap kolom memiliki tiga baris konten: BARIS A — ikon jam analog; ukuran ikon semakin kecil dari kolom 1 (jam besar, merah) ke kolom 4 (jam kecil, hijau), secara visual menunjukkan downtime makin singkat; BARIS B — label durasi: kolom 1 '72 jam – 2 pekan', kolom 2 '24–48 jam per wave', kolom 3 'Jauh lebih singkat dari konvensional', kolom 4 'Hitungan jam (cutover final)'; BARIS C — ikon gedung/perusahaan + label ukuran: kolom 1 ikon bangunan kecil + 'Perusahaan Kecil', kolom 2 ikon bangunan besar + 'Enterprise Multi-Negara', kolom 3 ikon bangunan sedang-besar + 'Enterprise Menengah–Besar', kolom 4 ikon bangunan sangat besar + 'Enterprise Besar, Sistem Kritis'. Kolom 3 dan 4 memiliki latar header sedikit lebih gelap (biru #2B5492) sebagai highlight 'opsi modern'. Footer di bawah keempat kolom: 'Durasi cutover aktual bergantung volume data, modul aktif, dan kustomisasi. Mock cutover (dry-run) adalah satu-satunya cara mengetahui angka pasti untuk proyek Anda.' (italic, abu #888, font 11px). Palet keseluruhan: biru korporat #1A3C6E, abu-medium #6E7B8B, putih #FFFFFF, aksen merah #E53935, aksen hijau #4CAF50. Ukuran kanvas disarankan 1200×560 px.",
+      "in_image_text_id": [
+        "Perbandingan Metode Migrasi ERP ke Cloud",
+        "Big Bang (Konvensional)",
+        "Phased Rollout (Wave)",
+        "Downtime-Optimized (doC)",
+        "NZDT (SAP Global Delivery)",
+        "72 jam – 2 pekan",
+        "24–48 jam per wave",
+        "Jauh lebih singkat dari konvensional",
+        "Hitungan jam (cutover final)",
+        "Perusahaan Kecil",
+        "Enterprise Multi-Negara",
+        "Enterprise Menengah–Besar",
+        "Enterprise Besar, Sistem Kritis",
+        "Durasi cutover aktual bergantung volume data, modul aktif, dan kustomisasi. Mock cutover (dry-run) adalah satu-satunya cara mengetahui angka pasti untuk proyek Anda."
+      ],
+      "alt_id": "Infografis perbandingan empat metode migrasi ERP ke cloud: Big Bang, Phased Rollout, Downtime-Optimized Conversion, dan NZDT SAP",
+      "caption_id": "Empat pendekatan migrasi ERP ke cloud dengan profil downtime yang berbeda: dari Big Bang konvensional (72 jam hingga dua pekan) hingga NZDT SAP yang menekan cutover final menjadi hitungan jam. Pilihan metode bergantung pada skala perusahaan, volume data, dan toleransi risiko — bukan pada metode yang paling canggih secara teknis.",
+      "sourcing_note": "Infografis orisinal berdasarkan data tabel dari artikel dan dossier — tidak membutuhkan screenshot SAP. Semua angka durasi dapat diverifikasi di tabel H2 dalam artikel. Desainer membuat grafis dari awal; tidak ada UI SAP yang direproduksi.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

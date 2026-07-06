@@ -1,0 +1,61 @@
+{
+  "brief_id": "digital-manufacturing-05",
+  "article_title_id": "5 Tantangan Nyata Digital Manufacturing di Indonesia dan Cara Mengatasinya",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-02",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Infografik \"5 Tantangan Digital Manufacturing di Indonesia\" — lima kartu vertikal berwarna berbeda (merah/oranye/kuning/biru/ungu), masing-masing berisi ikon, nama tantangan, dan satu gejala khas; gaya korporat latar putih; semua teks Bahasa Indonesia",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Lima item bernomor dengan gejala per item sangat cocok dirangkum sebagai infografik kartu; format ini mudah dipindai oleh pembaca B2B yang sibuk dan berpotensi menjadi featured snippet visual.",
+      "visual_direction": "Lima kartu vertikal tersusun sejajar dalam satu baris, di atas latar putih bersih. Setiap kartu memiliki warna aksen berbeda di bagian atasnya: kartu 1 merah (#D32F2F), kartu 2 oranye (#E65100), kartu 3 kuning gelap (#F9A825), kartu 4 biru korporat (#1565C0), kartu 5 ungu (#6A1B9A). Tiap kartu memuat: (a) ikon garis tipis putih/abu-abu pada blok warna atas berukuran sekitar 60×60 px — kartu 1 ikon database/tabel, kartu 2 ikon orang-dengan-tanda-tanya, kartu 3 ikon konektor/rantai, kartu 4 ikon gembok/perisai, kartu 5 ikon orang-dengan-checklist; (b) nomor urut bold di pojok kiri atas blok warna; (c) nama tantangan dalam teks bold 14–16 pt di bawah blok warna, warna gelap; (d) satu kalimat gejala khas dalam teks reguler 11–12 pt, warna abu-abu gelap. Di bagian bawah setiap kartu ada garis tipis warna aksen kartu tersebut. Header di atas kelima kartu: \"5 Tantangan Digital Manufacturing di Indonesia\" dalam font bold 20 pt, warna biru korporat (#1565C0). Logo Soltius kecil di pojok kanan bawah keseluruhan infografis. Proporsi keseluruhan: landscape 1200×628 px atau 1:1 untuk sosial media. Gaya bersih, modern, profesional — tidak ada ilustrasi foto.",
+      "in_image_text_id": [
+        "5 Tantangan Digital Manufacturing di Indonesia",
+        "1. Master Data Tidak Bersih",
+        "Gejala: BOM ketinggalan, data OEE tidak dapat dipercaya",
+        "2. Kesenjangan Talenta Digital",
+        "Gejala: Operator tidak bisa baca dashboard OEE",
+        "3. Integrasi Sistem Legacy",
+        "Gejala: PLC dengan protokol proprietary tidak connect ke MES",
+        "4. Keamanan Siber OT",
+        "Gejala: Jaringan OT-IT terhubung tanpa segmentasi",
+        "5. Change Management Terabaikan",
+        "Gejala: Supervisor tetap pakai Excel meski MES live"
+      ],
+      "alt_id": "Infografik tantangan digital manufacturing Indonesia: 5 hambatan dari master data kotor hingga change management terabaikan",
+      "caption_id": "Lima tantangan yang paling sering menjegal proyek digital manufacturing di pabrik Indonesia — dari master data yang tidak bersih hingga change management yang diabaikan. Riset McKinsey menunjukkan dua pertiga kegagalan transformasi berskala besar berakar pada faktor budaya dan people, bukan kegagalan teknologi.",
+      "sourcing_note": "Infografis orisinal — tidak memerlukan screenshot SAP. Tim desain dapat membuat dari nol menggunakan panduan warna dan teks di atas. Referensi gaya: kartu diagnostik B2B seperti yang digunakan McKinsey atau Gartner dalam ringkasan laporan.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "mid-article",
+      "concept_from_writer": "Diagram \"Readiness Checklist Digital Manufacturing\" bergaya traffic light — 8 indikator kesiapan dengan ikon hijau (siap) dan kuning (perlu persiapan), dengan catatan \"minimal 5 dari 8\" di bagian bawah; layout dua kolom; teks Bahasa Indonesia",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Delapan indikator biner (siap/perlu persiapan) dengan threshold keputusan paling efektif ditampilkan sebagai diagram checklist traffic-light; format ini membantu pembaca melakukan self-assessment secara visual sebelum membaca teks detail.",
+      "visual_direction": "Layout dua kolom, latar putih, 8 baris indikator dibagi rata: 4 baris di kolom kiri, 4 baris di kolom kanan. Setiap baris terdiri dari: (a) ikon lingkaran traffic light di sisi kiri baris — lingkaran hijau solid (#2E7D32) untuk kondisi 'Siap', lingkaran kuning solid (#F9A825) untuk 'Perlu Persiapan'; (b) nomor urut 1–8 dalam font bold; (c) teks indikator dalam font reguler 12–13 pt, warna hitam/abu-abu gelap; (d) label mini di bawah teks indikator: 'Siap' (teks hijau) atau 'Perlu Persiapan' (teks kuning). Di antara dua kolom terdapat garis pemisah vertikal tipis berwarna abu-abu muda. Header: 'Checklist Kesiapan Digital Manufacturing' dalam font bold 18 pt, biru korporat (#1565C0), di atas dua kolom. Di bagian bawah — lebar penuh, dibatasi kotak dengan latar biru muda (#E3F2FD) — teks bold: 'Rekomendasi praktis: Penuhi minimal 5 dari 8 indikator sebelum memulai proyek'. Ukuran keseluruhan: 1200×700 px atau proporsi 4:3. Logo Soltius kecil di pojok kanan bawah. Gaya bersih dan mudah dipindai — tidak ada fotografi atau ilustrasi dekoratif.",
+      "in_image_text_id": [
+        "Checklist Kesiapan Digital Manufacturing",
+        "1. ERP berjalan stabil tanpa workaround manual",
+        "2. Master data (item, BOM, routing) bersih dan terkini",
+        "3. Proses produksi terdokumentasi dengan SOP jelas",
+        "4. Tim IT internal tersedia untuk support harian",
+        "5. Anggaran mencakup implementasi + operasional 2–3 tahun",
+        "6. Sponsor eksekutif aktif dalam steering committee",
+        "7. Pilot line teridentifikasi berdasarkan data",
+        "8. Mitra implementasi berpengalaman sudah dipilih",
+        "Siap",
+        "Perlu Persiapan",
+        "Rekomendasi praktis: Penuhi minimal 5 dari 8 indikator sebelum memulai proyek"
+      ],
+      "alt_id": "Checklist kesiapan digital manufacturing dengan 8 indikator bergaya traffic light: hijau siap, kuning perlu persiapan",
+      "caption_id": "Delapan indikator kesiapan sebelum memulai proyek digital manufacturing — dari stabilitas ERP hingga pemilihan mitra implementasi. Ini panduan praktis, bukan standar industri resmi; namun jika kurang dari 5 poin terpenuhi, memperkuat fondasi lebih dulu hampir selalu lebih bijak daripada memaksakan go-live.",
+      "sourcing_note": "Diagram orisinal — tidak memerlukan screenshot SAP. Tim desain membuat dari nol menggunakan panduan layout, warna, dan teks di atas. Data dari artikel dan dossier; tidak ada sumber eksternal yang perlu dicantumkan di dalam gambar.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

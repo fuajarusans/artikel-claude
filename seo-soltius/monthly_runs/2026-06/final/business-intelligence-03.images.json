@@ -1,0 +1,56 @@
+{
+  "brief_id": "business-intelligence-03",
+  "article_title_id": "Embedded Analytics di SAP S/4HANA: Business Intelligence Operasional Real-Time Tanpa Lapisan Tambahan",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-02",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Diagram arsitektur tiga lapis embedded analytics SAP S/4HANA — lapisan bawah: SAP HANA in-memory database (warna biru tua), lapisan tengah: CDS Views lapisan semantik data (warna biru sedang), lapisan atas: SAP Fiori Launchpad antarmuka pengguna (warna biru muda). Panah vertikal menunjukkan aliran data real-time dari transaksi ERP ke dashboard. Gaya flat design korporat, label dalam Bahasa Indonesia.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Arsitektur tiga lapisan teknikal paling tepat dijelaskan sebagai diagram berlapis dengan arah aliran — bukan foto stok; tipe diagram memungkinkan desainer menampilkan hierarki dan aliran data secara akurat dan ringkas.",
+      "visual_direction": "Diagram vertikal berlapis tiga, lebar penuh, rasio sekitar 4:3. Latar belakang putih bersih dengan border tipis abu muda. Lapisan paling bawah: persegi panjang biru tua (#003366) berlabel 'SAP HANA In-Memory Database' — tambahkan ikon silinder database di sudut kiri. Lapisan tengah: persegi panjang biru sedang (#0066CC) berlabel 'CDS Views — Lapisan Semantik Data' — tambahkan ikon entitas terhubung (node-link) kecil. Lapisan paling atas: persegi panjang biru muda (#4DA6FF) berlabel 'SAP Fiori Launchpad — Antarmuka Pengguna' — tambahkan ikon tile dashboard kecil. Tiga panah vertikal berwarna putih dengan garis putus-putus mengarah ke atas dari lapisan bawah ke atas, diberi label 'Aliran Data Real-Time'. Di sudut kanan bawah: kotak kecil berwarna abu muda dengan teks 'Transaksi ERP Masuk' + ikon dokumen kecil, dihubungkan panah masuk ke lapisan HANA. Tipografi: sans-serif modern (misalnya Inter atau Open Sans), ukuran label lapisan 14–16px bold, warna putih. Gaya keseluruhan: flat design korporat, tanpa gradien berlebihan, clean dan mudah dibaca pada layar desktop.",
+      "in_image_text_id": [
+        "SAP Fiori Launchpad — Antarmuka Pengguna",
+        "CDS Views — Lapisan Semantik Data",
+        "SAP HANA In-Memory Database",
+        "Aliran Data Real-Time",
+        "Transaksi ERP Masuk"
+      ],
+      "alt_id": "Diagram arsitektur tiga lapis embedded analytics SAP S/4HANA: HANA database, CDS Views semantik, dan Fiori Launchpad dengan aliran data real-time",
+      "caption_id": "Embedded analytics SAP S/4HANA berjalan di tiga lapisan: SAP HANA sebagai mesin kalkulasi real-time, CDS Views sebagai lapisan semantik data, dan SAP Fiori Launchpad sebagai antarmuka pengguna berbasis peran. Seluruh aliran terjadi di dalam sistem ERP tanpa ETL eksternal.",
+      "sourcing_note": "Diagram arsitektur — tidak memerlukan screenshot SAP asli. Desainer membuat ilustrasi berdasarkan brief ini. Referensi visual tambahan: diagram SAP Help Portal dan SAP Learning Journey 'Discovering SAP S/4HANA Embedded Analytics' (https://learning.sap.com) dapat digunakan sebagai panduan struktur, bukan untuk disalin.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body",
+      "concept_from_writer": "Infografis dua kolom yang memvisualisasikan perbandingan Embedded Analytics S/4HANA vs SAP Analytics Cloud. Kolom kiri (warna biru): ikon operator/supervisor, lingkup S/4HANA, KPI real-time. Kolom kanan (warna ungu): ikon eksekutif, multi-source, planning+prediktif. Di bagian bawah: panah yang menunjukkan 'mulai di sini' (embedded) → 'ekspansi ke sini' (SAC). Teks dalam Bahasa Indonesia.",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Perbandingan dua produk dengan atribut berlawanan paling efektif sebagai infografis dua kolom — memungkinkan pembaca memindai perbedaan sekilas; sesuai dengan tabel yang sudah ada di artikel dan menambahkan nilai visual yang tidak diulang teks.",
+      "visual_direction": "Infografis horizontal dua kolom, rasio sekitar 16:9, latar belakang abu muda (#F5F7FA). Header atas: judul terpusat 'Embedded Analytics S/4HANA vs SAP Analytics Cloud' dalam tipografi bold 18px, warna abu gelap. Kolom kiri (60% lebar): latar biru (#0066CC), sudut membulat. Di bagian atas kolom kiri: ikon orang/tim kecil berwarna putih (merepresentasikan operator/supervisor/manajer lini). Di bawah ikon: daftar 4 poin dalam teks putih — (1) Lingkup: data S/4HANA saja, (2) Pengguna: operator, supervisor, manajer lini, (3) Fitur utama: KPI real-time, drill-down ke transaksi, (4) Lisensi: termasuk dalam S/4HANA. Label kolom kiri: 'Embedded Analytics S/4HANA' bold putih di bagian atas. Kolom kanan (60% lebar): latar ungu (#6B3FA0), sudut membulat, dengan tumpang tindih sedikit di tengah untuk efek koneksi. Di bagian atas kolom kanan: ikon eksekutif/grafik naik berwarna putih. Di bawah ikon: daftar 4 poin teks putih — (1) Lingkup: multi-sumber (SAP + non-SAP), (2) Pengguna: eksekutif, tim FP&A, (3) Fitur utama: enterprise BI, planning, prediktif ML, (4) Lisensi: lisensi SAC terpisah. Label kolom kanan: 'SAP Analytics Cloud (SAC)' bold putih. Di bagian bawah infografis: banner putih penuh lebar, dengan panah kanan berwarna biru-ke-ungu gradien. Teks banner: 'Mulai di sini →' (biru, di bawah kolom kiri) dan '→ Ekspansi ke sini' (ungu, di bawah kolom kanan). Tipografi keseluruhan: sans-serif (Inter/Open Sans), label poin 12–13px, judul kolom 15px bold. Tidak ada gradien berlebihan; desain bersih dan mudah dibaca di layar desktop.",
+      "in_image_text_id": [
+        "Embedded Analytics S/4HANA vs SAP Analytics Cloud",
+        "Embedded Analytics S/4HANA",
+        "SAP Analytics Cloud (SAC)",
+        "Lingkup: data S/4HANA saja",
+        "Pengguna: operator, supervisor, manajer lini",
+        "Fitur utama: KPI real-time, drill-down ke transaksi",
+        "Lisensi: termasuk dalam S/4HANA",
+        "Lingkup: multi-sumber (SAP + non-SAP)",
+        "Pengguna: eksekutif, tim FP&A",
+        "Fitur utama: enterprise BI, planning, prediktif ML",
+        "Lisensi: lisensi SAC terpisah",
+        "Mulai di sini →",
+        "→ Ekspansi ke sini"
+      ],
+      "alt_id": "Infografis perbandingan Embedded Analytics SAP S/4HANA versus SAP Analytics Cloud: lingkup data, pengguna, fitur, dan jalur ekspansi",
+      "caption_id": "Embedded analytics S/4HANA dan SAP Analytics Cloud bukan pesaing, melainkan dua lapisan yang saling melengkapi: embedded analytics untuk KPI operasional real-time yang sudah termasuk lisensi, SAC untuk kebutuhan multi-sumber dan perencanaan strategis saat organisasi siap berekspansi.",
+      "sourcing_note": "Infografis orisinal — tidak memerlukan aset SAP. Desainer membuat sepenuhnya berdasarkan brief ini. Tidak ada UI SAP yang perlu direproduksi. Paleta warna: biru Soltius (#0066CC) untuk kolom embedded analytics, ungu (#6B3FA0) untuk kolom SAC agar secara visual mudah dibedakan.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

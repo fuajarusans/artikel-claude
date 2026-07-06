@@ -1,0 +1,61 @@
+{
+  "brief_id": "low-code-platform-03",
+  "article_title_id": "Cara Membangun Program Citizen Developer di Perusahaan dengan Low-Code Platform",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-02",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "body — setelah tabel kesiapan, sebelum H2 langkah-langkah",
+      "concept_from_writer": "Timeline horizontal 5 tahap program citizen developer — dari kiri ke kanan: (1) Pilih Use Case, (2) Rekrut Pilot, (3) Training, (4) Setup Governance, (5) Ukur ROI — tiap tahap dengan ikon korporat, gaya biru-putih, teks Bahasa Indonesia, format landscape",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Lima tahap berurutan paling efektif disampaikan sebagai timeline infografis — mudah dipindai, memperkuat urutan yang benar, dan dapat disimpan pembaca sebagai referensi.",
+      "visual_direction": "Layout landscape, orientasi horizontal. Lima kotak/node yang tersambung dengan panah kanan, masing-masing mewakili satu tahap. Warna latar belakang putih bersih dengan aksen biru korporat Soltius (biru tua #003087 atau sejenisnya). Setiap node berbentuk persegi panjang membulat dengan ikon garis korporat di bagian atas (ikon sederhana: kaca pembesar untuk 'Pilih Use Case', orang/grup untuk 'Rekrut Pilot', buku/laptop untuk 'Training', perisai/gembok untuk 'Setup Governance', grafik naik untuk 'Ukur ROI'). Di bawah ikon, nomor urut besar (1–5) berwarna biru tua, lalu label utama dalam huruf tebal, lalu kalimat pendek penjelasan (maks 8 kata) dalam warna abu-abu gelap. Panah penghubung antar node berwarna biru muda. Header kecil di pojok kiri atas: 'Program Citizen Developer — 5 Langkah'. Tipografi sans-serif bersih (misal Roboto atau Open Sans). Tidak ada foto; murni ikon vektor dan tipografi.",
+      "in_image_text_id": [
+        "Program Citizen Developer — 5 Langkah",
+        "1 | Pilih Use Case",
+        "Mulai dari proses yang hasilnya terasa cepat",
+        "2 | Rekrut Pilot",
+        "5–10 orang selektif dari unit bisnis",
+        "3 | Training",
+        "Learning journey modular platform enterprise",
+        "4 | Setup Governance",
+        "Kebijakan akses data dan proses review",
+        "5 | Ukur ROI",
+        "Laporkan angka ke manajemen setiap kuartal"
+      ],
+      "alt_id": "Infografis lima langkah membangun program citizen developer dengan low-code platform di perusahaan enterprise",
+      "caption_id": "Lima tahap membangun program citizen developer yang bertahan: dari pemilihan use case pertama hingga pengukuran ROI. Urutan ini penting — memulai dari use case yang salah adalah penyebab kegagalan paling umum di lapangan.",
+      "sourcing_note": "Infografis orisinal — tidak membutuhkan screenshot SAP. Tim desain membuat dari nol menggunakan panduan warna dan ikon di atas. Ikon vektor gratis tersedia di: Flaticon (cari 'magnifier', 'team', 'book', 'shield', 'chart increase') atau Noun Project dengan lisensi CC.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body — di dalam H2 model governance, setelah tabel perbandingan tiga pendekatan",
+      "concept_from_writer": "Diagram lingkaran governance model federated — IT di pusat sebagai \"Policy Hub\" (warna biru gelap), dikelilingi unit bisnis Finance, Operations, HR, Supply Chain masing-masing dengan label \"Champion\" dan panah dua arah ke IT; warna biru gelap dan biru muda/abu; teks Bahasa Indonesia",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Model hub-and-spoke federated adalah konsep arsitektur — diagram lingkaran/radial adalah format paling tepat untuk memperlihatkan hubungan IT pusat dan unit bisnis secara visual, jauh lebih jelas dari deskripsi teks.",
+      "visual_direction": "Layout bujur sangkar atau landscape (rasio 4:3 atau 1:1). Struktur hub-and-spoke: lingkaran besar di tengah berlabel 'IT — Policy Hub' dengan ikon perisai/kunci berwarna putih di latar biru tua (#003087). Dari pusat, empat garis tebal dengan panah dua arah (panah di kedua ujung) mengarah ke empat lingkaran satelit yang lebih kecil di posisi atas, kanan, bawah, kiri. Keempat lingkaran satelit berwarna latar biru muda (#D0E4F7 atau sejenisnya) dengan teks nama unit bisnis di baris pertama (tebal): 'Keuangan', 'Operasional', 'SDM', 'Supply Chain' — dan di baris kedua label kecil berwarna abu-abu: '[ Champion ]'. Garis/panah penghubung berwarna biru sedang. Label kecil pada panah: satu arah ke luar bertuliskan 'Kebutuhan Aplikasi', satu arah ke dalam bertuliskan 'Kebijakan & Standar'. Latar belakang keseluruhan putih bersih. Header di atas diagram: 'Model Governance Federated — Rekomendasi untuk Enterprise'. Tipografi sans-serif konsisten dengan IMAGE_01. Tidak ada foto; murni bentuk vektor dan tipografi.",
+      "in_image_text_id": [
+        "Model Governance Federated — Rekomendasi untuk Enterprise",
+        "IT — Policy Hub",
+        "Keuangan",
+        "[ Champion ]",
+        "Operasional",
+        "[ Champion ]",
+        "SDM",
+        "[ Champion ]",
+        "Supply Chain",
+        "[ Champion ]",
+        "Kebutuhan Aplikasi",
+        "Kebijakan & Standar"
+      ],
+      "alt_id": "Diagram model governance federated low-code: IT sebagai Policy Hub di pusat, dikelilingi unit bisnis Keuangan, Operasional, SDM, dan Supply Chain dengan champion terdaftar",
+      "caption_id": "Model governance federated menempatkan IT sebagai penjaga kebijakan — bukan penjaga gerbang. Setiap unit bisnis punya champion terdaftar yang bertanggung jawab terhadap aplikasi di areanya, sementara standar keamanan data tetap ditetapkan IT secara terpusat.",
+      "sourcing_note": "Diagram orisinal — tidak membutuhkan screenshot SAP. Tim desain membuat dari nol menggunakan panduan di atas. Aset vektor hub-and-spoke tersedia di template Figma/Canva (cari 'hub spoke diagram' atau 'network diagram'); sesuaikan warna dan label menggunakan panduan di atas.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

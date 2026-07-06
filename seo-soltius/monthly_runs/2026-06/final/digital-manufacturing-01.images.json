@@ -1,0 +1,59 @@
+{
+  "brief_id": "digital-manufacturing-01",
+  "article_title_id": "Digital Manufacturing: Fondasi Pabrik Cerdas di Era Industry 4.0",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-02",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Infografik piramida empat lapisan ekosistem digital manufacturing — dari bawah: Sensor/IIoT Layer (biru muda), MES/Execution Layer (biru), ERP/Planning Layer (biru tua), Analytics Layer (oranye di puncak). Tiap lapisan berlabel nama + contoh platform (SAP Digital Manufacturing di lapisan 2–3, SAP S/4HANA di lapisan 3–4). Tanda panah dua arah antar lapisan menunjukkan aliran data. Teks Bahasa Indonesia. Gaya korporat bersih.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Arsitektur empat lapisan dengan aliran data dua arah adalah struktur relasional — diagram piramida berlapis menyampaikan hierarki dan konektivitas secara langsung, lebih efektif daripada foto atau infografik teks-berat.",
+      "visual_direction": "Diagram piramida vertikal dengan empat lapisan horizontal, latar putih bersih. Dari bawah ke atas: (1) Lapisan terbawah dan terlebar — 'Sensor/IIoT Layer' — latar biru muda (#B3D4F5), ikon sensor/mesin kecil di kiri, label sub-teks 'Sensor, PLC, SCADA, RFID — ISA-95 Level 0–1'; (2) Lapisan kedua — 'MES/Execution Layer' — latar biru medium (#3A7FC1), sub-teks 'SAP Digital Manufacturing — ISA-95 Level 2–3'; (3) Lapisan ketiga — 'ERP/Planning Layer' — latar biru tua (#1A4F8A), sub-teks 'SAP S/4HANA PP/PP-DS — ISA-95 Level 4'; (4) Lapisan paling atas dan terkecil — 'Analytics Layer' — latar oranye aksento (#E87722), sub-teks 'SAP Analytics Cloud, AI Core'. Di sisi kiri dan kanan piramida, tanda panah dua arah vertikal dengan label 'Aliran Data Real-Time' menghubungkan seluruh lapisan. Font sans-serif bersih, ukuran judul lapisan 14–16pt, sub-teks 10–11pt. Palette korporat Soltius: biru (#1A4F8A), putih, aksen oranye (#E87722). Ukuran output minimal 1200×900px.",
+      "in_image_text_id": [
+        "Sensor/IIoT Layer",
+        "Sensor, PLC, SCADA, RFID — ISA-95 Level 0–1",
+        "MES/Execution Layer",
+        "SAP Digital Manufacturing — ISA-95 Level 2–3",
+        "ERP/Planning Layer",
+        "SAP S/4HANA PP/PP-DS — ISA-95 Level 4",
+        "Analytics Layer",
+        "SAP Analytics Cloud, AI Core",
+        "Aliran Data Real-Time"
+      ],
+      "alt_id": "Diagram piramida empat lapisan ekosistem digital manufacturing: IIoT, MES, ERP, dan Analytics dengan aliran data dua arah",
+      "caption_id": "Ekosistem digital manufacturing terdiri dari empat lapisan terintegrasi — dari sensor di lantai produksi hingga analitik di level strategis. Tanpa integrasi keempat lapisan ini, pabrik hanya mengalami 'island of automation', bukan digital manufacturing yang sesungguhnya.",
+      "sourcing_note": "Infografik/diagram orisinal buatan tim desain — tidak memerlukan screenshot SAP. Gunakan palet biru korporat Soltius (#1A4F8A, #3A7FC1, #B3D4F5) dengan aksen oranye (#E87722) untuk lapisan Analytics. Referensi visual: cari 'manufacturing automation pyramid ISA-95 diagram', 'digital manufacturing stack layers infographic' sebagai inspirasi tata letak.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body",
+      "concept_from_writer": "Infografik side-by-side dua kartu — kiri 'Manufaktur Konvensional' dengan ikon clipboard, spreadsheet, jam pasir, warna abu-merah; kanan 'Digital Manufacturing' dengan ikon dashboard real-time, koneksi berjejaring, warna biru-hijau. Tiap kartu menampilkan 4–5 poin kunci dalam Bahasa Indonesia. Gaya korporat modern.",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Perbandingan dua kondisi yang memiliki poin-poin diskrit paling efektif divisualisasikan sebagai dua kartu paralel dengan ikon dan teks ringkas — format infografik teks-visual yang umum dipakai untuk pengambil keputusan B2B.",
+      "visual_direction": "Tata letak dua kartu berdampingan, latar putih, garis pembatas tipis abu di tengah. KARTU KIRI — 'Manufaktur Konvensional': header latar abu gelap (#4A4A4A), ikon clipboard/kertas di header. Lima baris poin masing-masing dengan ikon abu-merah kecil di kiri: (1) ikon jam pasir — 'Laporan manual, data basi berjam-jam'; (2) ikon spreadsheet — 'Perencanaan berdasarkan asumsi'; (3) ikon tanda seru merah — 'Downtime diketahui setelah terjadi'; (4) ikon clipboard — 'Quality check manual di akhir lini'; (5) ikon grafik datar — 'OEE rata-rata 40–60%'. KARTU KANAN — 'Digital Manufacturing': header latar biru korporat (#1A4F8A), ikon jaringan terhubung di header. Lima baris poin dengan ikon biru-hijau: (1) ikon dashboard — 'Real-time visibility lantai produksi'; (2) ikon siklus data — 'Perencanaan berbasis data aktual'; (3) ikon lonceng notifikasi — 'Alert otomatis, menuju predictive maintenance'; (4) ikon tanda centang hijau — 'In-process quality monitoring & traceability'; (5) ikon grafik naik — 'OEE menuju 85%+ (standar kelas dunia)'. Font sans-serif, judul kartu 16pt bold, teks poin 11–12pt. Output minimal 1400×800px.",
+      "in_image_text_id": [
+        "Manufaktur Konvensional",
+        "Laporan manual, data basi berjam-jam",
+        "Perencanaan berdasarkan asumsi",
+        "Downtime diketahui setelah terjadi",
+        "Quality check manual di akhir lini",
+        "OEE rata-rata 40–60%",
+        "Digital Manufacturing",
+        "Real-time visibility lantai produksi",
+        "Perencanaan berbasis data aktual",
+        "Alert otomatis, menuju predictive maintenance",
+        "In-process quality monitoring & traceability",
+        "OEE menuju 85%+ (standar kelas dunia)"
+      ],
+      "alt_id": "Perbandingan manufaktur konvensional versus digital manufacturing dalam lima dimensi operasional termasuk visibilitas data dan OEE",
+      "caption_id": "Perbedaan terbesar antara manufaktur konvensional dan digital manufacturing bukan pada kecepatan mesin, melainkan pada kecepatan pengambilan keputusan. Pabrik konvensional rata-rata beroperasi di OEE 40–60%; pabrik digital berpotensi mencapai 85%+ menurut standar MESA International.",
+      "sourcing_note": "Infografik orisinal buatan tim desain — tidak memerlukan screenshot SAP. Kartu kiri gunakan palet abu (#4A4A4A) dan merah lembut (#C0392B) untuk nuansa 'lama/lambat'; kartu kanan gunakan biru korporat (#1A4F8A) dan hijau (#27AE60) untuk nuansa 'modern/efisien'. Referensi visual: cari 'before after comparison card infographic B2B', 'traditional vs digital manufacturing comparison visual'.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

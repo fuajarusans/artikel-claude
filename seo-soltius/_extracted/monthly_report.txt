@@ -1,0 +1,764 @@
+GLOBAL SEVILLA
+
+          SEARCH ENGINE OPTIMIZATION
+                          REPORT
+                                                                                                                        Apr 1, 2026 - Apr 30, 2026  arow_drop_down
+
+ORGANIC OVERVIEW
+
+Analisis ini menyajikan gambaran menyeluruh mengenai performa situs web, mencakup total user dan jumlah halaman dilihat. Grafik
+yang memvisualisasikan sesi dan pengguna memberikan wawasan tentang tren aktivitas yang terjadi, sementara data demografi
+mengungkap distribusi usia dan jenis kelamin pengguna.
+
+Selain itu, analisis kategori perangkat yang digunakan membantu memahami preferensi device, sedangkan informasi mengenai user
+interest memberikan insight lebih dalam terkait topik atau minat yang relevan dengan pengunjung. Data ini dapat dimanfaatkan untuk
+mengidentifikasi pola perilaku visitor serta menyusun strategi pemasaran digital yang lebih efektif dan terarah.
+
+       Sessions                     Daily Sessions
+
+   3,357                                         Sessions    Apr 7  Apr 9     Apr 11  Apr 13 Apr 15 Apr 17 Apr 19 Apr 21 Apr 23 Apr 25 Apr 27 Apr 29
+                                    200
+          45.7%
+                                    150
+     Total users
+                                    100
+  2,482
+                                     50
+          52.3%
+                                       0
+        Views                           Apr 1 Apr 3 Apr 5
+
+  4,830                             Daily Users
+
+          35.8%                                 Total users   Total users (previous month)
+                                    150                      Apr 7 Apr 9 Apr 11 Apr 13 Apr 15 Apr 17 Apr 19 Apr 21 Apr 23 Apr 25 Apr 27 Apr 29
+Average session duration
+                                    100
+  00:02:21
+                                     50
+            -27.0%
+                                      0
+                                       Apr 1 Apr 3 Apr 5
+
+Device Category
+
+                Total users
+mobile
+
+deskt...
+
+tablet       200              400            600  800        1K            1.2K         1.4K           1.6K  1.8K       2K       2.2K               2.4K
+       0
+
+All Landing Page
+
+Tabel dibawah menampilkan daftar halaman landing yang memiliki trafik organik terbanyak, beserta perubahan jumlah sesi dan
+pengguna dibandingkan periode sebelumnya. Data ini membantu dalam menganalisis efektivitas strategi SEO, mengidentifikasi
+halaman dengan performa terbaik, serta menemukan area yang perlu dioptimalkan agar meningkatkan visibilitas dan
+keterlibatan pengguna melalui pencarian organik.
+
+    Landing page
+
+    Equals            Enter a value
+
+          Landing page                            Sessions                 %          Total users              %            Views           %
+
+1.        /                                            919               42.7%                 768           46.6%             2,064     28.3%
+                                                       662               63.5%                 581           66.5%               718     62.4%
+2.        /mengenal-apa-itu-stem                       352               90.3%                 322           77.9%               484     76.0%
+                                                       236               58.4%                 205           44.4%                   0
+3.        /ini-kisaran-biaya-sekolah-intern...         336               30.2%                 186           37.8%               403               -
+                                                       166               167.7%                160           175.9%              197     30.8%
+4.        (not set)                                     96               92.0%                  90           95.7%               109    185.5%
+                                                        86               177.4%                 79           163.3%              101     94.6%
+5.        /academic/calendar                            64               48.8%                  58           48.7%                 75   173.0%
+                                                        34                6.3%                  31            6.9%                 40    44.2%
+6.        /preschool-jakarta-timur                      34                6.3%                  26            -3.7%                55    21.2%
+                                                        26                8.3%                  25            8.7%                 38    37.5%
+7.        /preschool-jakarta-barat                      30               150.0%                 24           100.0%                47    18.8%
+                                                        23                4.5%                  22           10.0%                 56    67.9%
+8.        /rekomendasi-sekolah-internasio...            19               -32.1%                 18           -30.8%                20   -26.3%
+                                                                                                                                        -52.4%
+9.        /cambridge-international-school
+
+10. /stem-learning-methods
+
+11. /aboutus/ourhistory
+
+12. /contactus
+
+13. /aboutus/leadership
+
+14. /international-school-in-jakarta
+
+15. /rekomendasi-sekolah-internasio...
+
+Monthly Traffic
+
+           Active users           Sessions        Views
+
+6K
+
+4K
+
+2K
+
+ 0           Feb 2026         Mar 2026 Apr 2026 May 2026            Jun 2026          Jul 2026  Aug 2026 Sep 2026       Oct 2026 Nov 2026           Dec 20...
+Jan 2026
+
+                     Date (Year Month)                       Total users                        Sessions                    Views
+
+1.                           May 2026                               664                         769                          1,103
+                                                                                                                             4,830
+2.                            Apr 2026                       2,877                              3,342                        3,558
+                                                                                                                             4,741
+3.                           Mar 2026                        1,942                              2,301                        4,886
+
+4.                            Feb 2026                       2,571                              3,056
+
+5.                            Jan 2026                       2,713                              3,247
+
+Source Traffic (All Sources)
+
+             First user primary channel group                              Total users                                  Views 
+
+1.                           Organic Search                                    2,512                                      4,973
+                                                                               1,325                                      2,207
+2.                            Direct                                                                                        101
+                                                                                 56
+3.                            Referral                                           21                                         25
+                                                                                  7                                         12
+4.                           Organic Social                                    3,922                                      7,319
+
+5.                           Unassigned
+
+                             Grand total
+
+                                          WEBARQ Promote Copyright © PT Web Architect Technology. All Rights Reserved.
+                                                                                                                    Apr 1, 2026 - Apr 30, 2026  arow_drop_down
+
+CONVERSION
+
+ Informasi dibawah ini memberikan gambaran tentang jumlah dan jenis konversi yang terjadi di website. Grafik konversi harian
+ menunjukkan tren perubahan jumlah interaksi, sementara bagian Breakdown Conversions merinci jumlah kejadian pada setiap
+ event beserta URL halaman tempat konversi terjadi. Data ini membantu dalam mengevaluasi efektivitas elemen CTA (Call-to-
+ Action) serta mengidentifikasi peluang optimasi untuk meningkatkan tingkat konversi.
+
+                                                           Click Whatsapp Button
+
+                                                                78.0
+
+                                                                         44.4%
+
+Graphic Conversions Day by Day (Button Whatsapp)
+
+ Grafik berikut menyajikan analisis data konversi dari titik ini, yang dapat digunakan untuk memahami pola dan waktu puncak
+ terjadinya konversi yang datang melalui button whatsapp.
+
+             Event count                                                             7                6          7                       6
+
+    8                                                                                                    5
+
+                                                               6
+
+    6
+
+    43                                                  3                  33     3                                                         3
+                                                                                                                                                        2
+                   222                                            2            2                                    2
+                                                                                                                          11                      0
+    2       111                      1                                  1                   11                                        0
+
+    0       Apr 3  Apr 5      Apr 7     Apr 9                     Apr 11 Apr 13 Apr 15 Apr 17 Apr 19     Apr 21     Apr 23 Apr 25 Apr 27 Apr 29
+     Apr 1
+
+Month to Month Conversion
+
+ Grafik ini menyajikan analisis komparatif mengenai data konversi bulanan. Informasi ini dirancang untuk memfasilitasi evaluasi
+ performa antar periode serta menjadi dasar pengambilan keputusan untuk strategi pemasaran di masa mendatang.
+
+           Button_Whatsapp
+
+90
+
+                                                    78
+
+75
+
+60                        54
+
+45
+
+30
+
+                                                                    20
+
+15
+
+ 0          Feb 2026 Mar 2026 Apr 2026 May 2026 Jun 2026                          Jul 2026  Aug 2026 Sep 2026       Oct 2026 Nov 2026           Dec 20...
+Jan 2026
+
+                                     WEBARQ Promote Copyright © PT Web Architect Technology. All Rights Reserved.
+KEYWORD RANK
+
+Informasi ini menyajikan analisis mengenai peringkat dan performa kata kunci dalam pencarian organik,
+khususnya untuk kata kunci yang dioptimalkan oleh WEBARQ. Anda dapat memantau perkembangan performa
+setiap kata kunci secara bulanan.
+
+Monthly Ranking Overview of Optimized Keywords
+
+              school wellbeing jakarta          sekolah internasional ja...              international school jak...         mindfulness school jak...
+
+             cambridge School Jakarta                       Cambridge School Jakarta        sekolah internasional di jak...     preschool jakarta
+
+    0
+
+    5
+
+    10
+
+    15
+
+    20            Feb 2026            Mar 2026  Apr 2026     May 2026          Jun 2026     Jul 2026  Aug 2026        Sep 2026  Oct 2026       Nov 2026  Dec 2026
+    Jan 2026
+
+Keyword Ranking
+
+         Keywords  Links                        Status       Before    Jan Feb Mar Apr Mei Jun Jul Ags Sep Okt Nov Des
+                                                             SEO
+    1. sekolah inter... https: //www....        not guar...            5         3       5  9         null null null null null null null null
+    2. sekolah inter... https: //www....        guarante...  5
+    3. school wellbe... https: //www....        guarante...  2         1         2       2  2         null null null null null null null null
+    4. preschool jak... https: //www....        guarante...  100
+    5. preschool jak... https: //www....        guarante...  1         100 1             2  2         null null null null null null null null
+    6. mindfulness s... https: //www....        guarante...  2
+    7. international ... https: //www....       not guar...  4         1         1       1  1         null null null null null null null null
+    8. Preschool Ja... https: //www....         guarante...  3
+    9. Cambridge S... https: //www....          guarante...  1         1         1       1  3         null null null null null null null null
+                                                             4
+                                                                       3         3       3  2         null null null null null null null null
+
+                                                                       2         5       3  5         null null null null null null null null
+
+                                                                       1         1       1  1         null null null null null null null null
+
+                                                                       3         4       3  6         null null null null null null null null
+
+Traffic Optimized Landing Pages
+
+                                                                                            March                               Month / Sessions / Total users / Views
+                                                                                            Views
+                                                                                                                                                                                          April
+                                                                                               691
+    Page path and screen c...                   Sessions        Total users                                     Sessions        Total users              Views
+    /                                                  586                459                                       1,035
+                                                                                                                                          814            1,164
+
+    /preschool-jakarta-timur                    60                     56                   61                        169                 161            171
+
+    /preschool-jakarta-barat                    36                     31                   36                        101                 93             101
+
+    /cambridge-                                 41                     31                   39                        71                  60             74
+    international-school
+
+    /rekomendasi-sekolah-                       26                     23                   29                        22                  19             20
+
+    internasional-di-jakarta-
+
+    barat
+
+    /mindfulnessbasedschoo                      19                     17                   22                        27                  23             25
+
+    l/school-wellbeing-
+
+    jakarta
+
+    Grand total                                 768                    617                  878                       1,425     1,170                    1,555
+
+Overview Google Search Console
+
+3.4 Top 15 Query
+
+Informasi ini menampilkan daftar kata kunci dengan jumlah klik dan impresi tertinggi, serta perubahan peringkatnya dibandingkan periode
+sebelumnya. Data ini membantu dalam memahami efektivitas strategi SEO, mengidentifikasi kata kunci yang mendatangkan traffic terbesar,
+serta menemukan peluang optimasi untuk meningkatkan visibilitas website di hasil pencarian.
+
+           Query                                Url Clicks               %               Impressions                   %        Average Position          %
+
+1.         global sevilla school                           197           28.8%                        5,479           42.9%                   3.26       -19.1%
+                                                           187           98.9%                                                                2.67       -31.7%
+2.         global sevilla                                  147          212.8%              6,571                     70.1%                   2.06       -26.5%
+                                                           139           20.9%                                                                2.98       -39.9%
+3.         stem                                            105           61.5%              18,466                    27.5%                   2.42       -53.4%
+                                                            92           84.0%                                                                1.45       16.9%
+4.         global sevilla pulomas                           38           31.0%              5,207                     27.7%                   1.49       23.8%
+                                                            28          115.4%                                                                1.42        9.9%
+5.         global sevilla puri indah                        26         2,500.0%             4,094                     16.4%                   2.46       -43.8%
+                                                            21           23.5%                                                                2.22       -35.2%
+6.         stem adalah                                      21           50.0%              8,403                     52.9%                   2.75       -17.5%
+                                                            20           42.9%                                                                1.54       37.1%
+7.         apa itu stem                                     20           33.3%              2,526                     29.7%                   4.38        1.0%
+                                                            18          100.0%                                                                7.37       -7.9%
+8.         pembelajaran stem adalah                         18           63.6%              412                       97.1%                   1.82       -77.1%
+
+9.         global sevilla school (pulo...                                                   1,091                     1,198.8%
+
+10. sevilla school                                                                          913                       29.7%
+
+11. global sevilla school pulo...                                                           456                       5.1%
+
+12. pembelajaran stem                                                                       355                       132.0%
+
+13. global sevilla academic ca...                                                           160                       37.9%
+
+14. preschool terdekat                                                                      3,194                     91.0%
+
+15. global sevilla puri                                                                     706                       172.6%
+
+                                                WEBARQ Promote Copyright © PT Web Architect Technology. All Rights Reserved.
+                                                                                                                 Apr 1, 2026 - Apr 30, 2026  arow_drop_down
+
+OFF-PAGE ACTIVITY
+
+Informasi ini memberikan gambaran tentang aktivitas optimasi SEO di luar website yang dilakukan untuk meningkatkan visibilitas dan
+otoritas domain. Laporan ini mencakup data mengenai sumber backlink, jenis tautan, serta status publikasi.Informasi ini membantu
+dalam mengevaluasi efektivitas strategi link building, serta memastikan bahwa aktivitas off-page mendukung peningkatan peringkat
+website di mesin pencari. Dengan analisis ini, dapat ditentukan langkah optimasi lanjutan untuk memperkuat profil backlink dan
+meningkatkan trafik organik.
+
+3. 1 Backlink Articles                                                                    Type                                                                                            
+
+     KW Groups                               Backlink                                     Type                        < > 1 - 81 / 81
+
+1.   sekolah internasional jakarta           https: //www.instapaper.com/read/2009022238  Forum
+
+2.   sekolah internasional jakarta           https: //sulselpedia.com/tips-lulus-beasiswa-lpdp-... Content Placement
+
+3.   sekolah internasional jakarta           https: //www.ganjingworld.com/post/1ih3r33oefh... Social Bookmark
+
+4.   sekolah internasional jakarta           https: //id.quora.com/profile/Ninobantujawab/Pe... Social Bookmark
+
+5.   sekolah internasional jakarta           https: //murl.com/ksxzf/                     Forum
+
+6.   sekolah internasional jakarta           https: //www.catatanyustrini.com/2026/04/skill-k... Content Placement
+
+7.   sekolah internasional jakarta           https: //www.catatanatiqoh.com/2026/04/7-cara-... Content Placement
+
+8.   sekolah internasional jakarta           https: //flip.it/k.L8Rv                      Social Media
+
+9.   sekolah internasional jakarta           https: //www.linkedin.com/feed/update/urn:li:acti... Social Media
+
+10.  sekolah internasional di jakarta barat  https: //onthebus-project.com/5-aplikasi-belajar-o... Content Placement
+
+11.  sekolah internasional di jakarta barat  https: //falai.net/manfaat-pendidikan-karakter-sej... Content Placement
+
+12.  sekolah internasional di jakarta barat  https: //www.linkedin.com/feed/update/urn:li:acti... Social Media
+
+13.  sekolah internasional di jakarta barat  https: //www.ganjingworld.com/post/1ih3r6k2p1iS... Social Bookmark
+
+14.  sekolah internasional di jakarta barat  https: //vandanagovil.com/cara-meningkatkan-m... Content Placement
+
+15.  sekolah internasional di jakarta barat  https: //id.quora.com/profile/Ninobantujawab/Car... Social Bookmark
+
+16.  sekolah internasional di jakarta barat  https: //flip.it/9TZENh                      Social Media
+
+17.  sekolah internasional di jakarta barat  https: //murl.com/hfkqc/                     Forum
+
+18.  sekolah internasional di jakarta barat  https: //www.instapaper.com/read/2009022566  Forum
+
+19.  school wellbeing jakarta                https: //bahasadinding.com/strategi-belajar-efekti... Content Placement
+
+20.  school wellbeing jakarta                https: //catatanmilenial.com/pentingnya-pendidik... Content Placement
+
+21.  school wellbeing jakarta                https: //www.instapaper.com/read/2009023099  Forum
+
+22.  school wellbeing jakarta                https: //murl.com/uk6vq/                     Forum
+
+23.  school wellbeing jakarta                https: //id.quora.com/profile/Ninobantujawab/Ko... Social Bookmark
+
+24.  school wellbeing jakarta                https: //flip.it/j2gtpF                      Social Media
+
+25.  school wellbeing jakarta                https: //www.linkedin.com/feed/update/urn:li:acti... Social Media
+
+26.  school wellbeing jakarta                https: //www.ganjingworld.com/post/1ih3rku0tpg... Social Bookmark
+
+27.  school wellbeing jakarta                https: //peranpenting.com/tips-mencari-tempat-... Content Placement
+
+28.  preschool jakarta timur                 https: //www.ganjingworld.com/post/1ih3rdh5onr... Social Bookmark
+
+29.  preschool jakarta timur                 https: //www.bokban.my.id/2026/04/cara-belajar-... Content Placement
+
+30.  preschool jakarta timur                 https: //rockawaybeachatxaustin.com/peran-oran... Content Placement
+
+31.  preschool jakarta timur                 https: //lemparopini.com/tren-edukasi-berbasis-ai... Content Placement
+
+32.  preschool jakarta timur                 https: //murl.com/6x01e/                     Forum
+
+33.  preschool jakarta timur                 https: //id.quora.com/profile/Ninobantujawab/Tip... Social Bookmark
+
+34.  preschool jakarta timur                 https: //www.instapaper.com/read/2009022851  Forum
+
+35.  preschool jakarta timur                 https: //flip.it/NRVFgI                      Social Media
+
+36.  preschool jakarta timur                 https: //www.linkedin.com/feed/update/urn:li:acti... Social Media
+
+37.  preschool jakarta                       https: //flip.it/GXGCAO                      Social Media
+
+38.  preschool jakarta                       https: //www.linkedin.com/feed/update/urn:li:acti... Social Media
+
+39.  preschool jakarta                       https: //www.ganjingworld.com/post/1ih3rbe3rn7... Social Bookmark
+
+40.  preschool jakarta                       https: //id.quora.com/profile/Ninobantujawab/Car... Social Bookmark
+
+41.  preschool jakarta                       https: //findmeguilty-themovie.com/6-soft-skill-y... Content Placement
+
+42.  preschool jakarta                       https: //generatefreerobux.com/cara-mengatur-w... Content Placement
+
+43.  preschool jakarta                       https: //worldzoftechnology.com/rahasia-sukses-... Content Placement
+
+44.  preschool jakarta                       https: //www.instapaper.com/read/2009022676  Forum
+
+45.  preschool jakarta                       https: //murl.com/izjfo/                     Forum
+
+46.  mindfulness school jakarta              https: //freeskinsblog.com/panduan-lengkap-mas... Content Placement
+
+47.  mindfulness school jakarta              https: //kutas.id/manfaat-belajar-coding-sejak-sd/ Content Placement
+
+48.  mindfulness school jakarta              https: //evrinews.com/cara-membuat-rpp-menari... Content Placement
+
+49.  mindfulness school jakarta              https: //www.instapaper.com/read/2009023009  Forum
+
+50.  mindfulness school jakarta              https: //murl.com/cegph/                     Forum
+
+51.  mindfulness school jakarta              https: //www.linkedin.com/feed/update/urn:li:acti... Social Media
+
+52.  mindfulness school jakarta              https: //flip.it/4guL3t                      Social Media
+
+53.  mindfulness school jakarta              https: //id.quora.com/profile/Ninobantujawab/Daf... Social Bookmark
+
+54.  mindfulness school jakarta              https: //www.ganjingworld.com/post/1ih3riu4554... Social Bookmark
+
+55.  international school jakarta            https: //flip.it/Y_oiEr                      Social Media
+
+56.  international school jakarta            https: //www.linkedin.com/feed/update/urn:li:acti... Social Media
+
+57.  international school jakarta            https: //id.quora.com/profile/Ninobantujawab/Me... Social Bookmark
+
+58.  international school jakarta            https: //www.ganjingworld.com/post/1ih3r9ho9qd... Social Bookmark
+
+59.  international school jakarta            https: //iammulvihill.com/pentingnya-kursus-skill-... Content Placement
+
+60.  international school jakarta            https: //blandfordhillwindfarm.co.uk/panduan-me... Content Placement
+
+61.  international school jakarta            https: //murl.com/iouyy/                     Forum
+
+62.  international school jakarta            https: //www.instapaper.com/read/2009022593  Forum
+
+63.  international school jakarta            https: //socialwinapp.com/10-universitas-terbaik-... Content Placement
+
+64.  Preschool Jakarta Barat                 https: //kemanakabar.com/strategi-menang-lom... Content Placement
+
+65.  Preschool Jakarta Barat                 https: //www.instapaper.com/read/2009022927  Forum
+
+66.  Preschool Jakarta Barat                 https: //murl.com/aemqa/                     Forum
+
+67.  Preschool Jakarta Barat                 https: //rotasimesin.com/7-hobi-yang-bisa-meng... Content Placement
+
+68   P h lJ k B                              h //      li k di         /f d/ d / li i S i l M di
+
+                                   WEBARQ Promote Copyright © PT Web Architect Technology. All Rights Reserved.
+ARTICLE SUGGESTION
+
+Informasi ini merupakan daftar topik yang disarankan untuk pembuatan artikel blog bulanan guna meningkatkan trafik
+organik dan keterlibatan pengguna. Saran topik didasarkan pada analisis tren pencarian, performa kata kunci, serta
+kebutuhan audiens yang relevan dengan niche website.
+
+5. 1 Content Article
+
+     Keyword                        Title  Volume                                                                 Type
+
+1.   literasi digital adalah        Mengenal Apa itu Literasi Digital 13000                                       Information
+                                                                                                                  Information
+2.   Bullying di Sekolah            Cara Mencegah Bullying di Seko... 3600                                        Information
+                                                                                                                  Information
+3.   how to reduce screen time      How to Reduce Screen Time: 10 ... 3300                                        Information
+                                                                                                                  Information
+4.   critical thinking exercises    Effective Critical Thinking Exerci... 2300                                    Information
+                                                                                                                  Information
+5.   manfaat literasi digital       Memahami Manfaat Literasi Dig... 1700                                         Information
+                                                                                                                  Information
+6.   top universities in japan      Study in Japan: The Official 2026... 1000                                     Information
+                                                                                                                  Information
+7.   top universities in australia  Top Universities in Australia 202... 1000                                     Information
+                                                                                                                  Information
+8.   top universities in usa        The Ultimate Guide to the Top U... 500                                        Information
+                                                                                                                  Information
+9.   top universities in uk         Top Universities in the UK (2026)... 500                                      Information
+                                                                                                                  Information
+10.  top universities in netherlands Top Universities in the Netherlan... 500                                     Information
+                                                                                                                  Information
+11.  cambridge assessment internati... Panduan Lengkap Cambridge A... 390                                         Information
+                                                                                                                  Information
+12.  Bully Verbal                   Mengenal Apa itu Bully Verbal d... 350                                        Information
+                                                                                                                  Information
+13.  private schools vs public schools Sekolah Swasta vs Sekolah Nege... 260                                      Information
+                                                                                                                  Information
+14.  cambridge igcse                Apa Itu Cambridge IGCSE? Pand... 260                                          Information
+                                                                                                                  Information
+15.  cambridge a levels             Cambridge A Levels: Persiapan T... 210                                        Information
+
+16.  cambridge primary checkpoint Mengenal Cambridge Primary C... 210                                             < > Information
+                                                                                                                                   1 - 42 / 42
+17.  summer camp jakarta            Summer Camp di Jakarta: Piliha... 170
+
+18.  cambridge exams                Menghadapi Ujian Cambridge: T... 170
+
+19.  a level subjects               Mengenal Mata Pelajaran A Leve... 140
+
+20.  summer camp indonesia          Summer Camp di Indonesia: Pro... 110
+
+21.  cambridge primary              Cambridge Primary: Membangu... 110
+
+22.  Native teacher                 Kelebihan Native Teacher Dalam... 100
+
+23.  cara menumbuhkan kepercayaa... 10 Cara Menumbuhkan Kepercay... 80
+
+24.  Memilih Jurusan Kuliah         Anak Bingung Memilih Jurusan?... 70
+
+25.  cambridge global perspectives Cambridge Global Perspectives: ... 50
+
+26.  a levels vs ib                 A Levels vs IB: Mana yang Lebih ... 40
+
+27.  cambridge learner attributes   Cambridge Learner Attributes: K... 40
+
+28.  international general certificate ... International General Certificate ... 20
+
+29.  cambridge checkpoint tests     Menghadapi Cambridge Checkp... 20
+
+30.  cambridge teacher training     Cambridge Teacher Training: Me... 20
+
+                                    WEBARQ Promote Copyright © PT Web Architect Technology. All Rights Reserved.
+TOXIC BACKLINK REPORT
+
+Toxic backlink adalah tautan masuk (backlink) dari situs web lain yang berkualitas rendah dan berpotensi merusak reputasi serta
+peringkat situs Anda di mesin pencari seperti Google. Tautan ini dianggap sebagai upaya manipulasi dan dapat menyebabkan penurunan
+peringkat atau bahkan penalti dari Google. Contohnya berasal dari: Situs spam atau link farm.
+
+Setelah mengidentifikasi semua domain berbahaya, Anda dapat melakukan penolakan link (disavow links), setelah hal itu dilakukan Anda
+dapat memantau berkala referensi backlink yang Anda dapatkan perbulannya.
+
+Referring page title   Referring page URL      Target URL
+
+                                      No data
+
+Hasil analisis bulan ini menunjukkan bahwa tidak terdapat toxic backlink yang teridentifikasi pada situs Anda.
+                                                                                                                                        Apr 1, 2026 - Apr 30, 2026     arow_drop_down
+
+                                                        Traffic coming from AI-search
+
+                                             Total Users                            AI Search Users                           AI Search Sessions
+
+                                             Active users                               Active users                                  Sessions
+
+                                              2,471                                     24                                         25
+
+                                                   53.4%                                      9.1%                                       -16.7%
+
+                                             All Session source                                          AI Session source
+
+                                             32.3%                                  google                   32.3%                      google
+                                                                                    (direct)                                            (direct)
+                                                                 61.2%              bing                                      61.2%     bing
+                                                                                    id.search.yahoo....                                 id.search.yahoo....
+                                                                                    ntp.msn.com                                         ntp.msn.com
+                                                                                    yahoo                                               yahoo
+                                                                                    Others                                              Others
+
+    AI Searches Referral - landing pages
+
+                Session source Page referrer                                        Landing page                                                                Sessions 
+
+        1.      perplexity.ai                    https://www.perplexity.ai/         /mengenal-apa-itu-stem                                                                         6
+                                                                                                                                                                                   4
+        2. gemini.google.co... https://gemini.google.com/ /                                                                                                                        3
+                                                                                                                                                                                   3
+        3. chatgpt.com                                                              /                                                                                              3
+                                                                                                                                                                                   2
+        4. chatgpt.com                           https://chatgpt.com/               /                                                                                            25
+
+        5. chatgpt.com                           https://www.globalsevilla.or... /                                                             < > 1 - 25 / 25
+
+        6. gemini.google.co... https://www.globalsevilla.or... /                                                                              1
+                                                                                     Grand total
+                                                                                                                                        United States
+Sessions from AI Searches per country
+
+                  chatgpt.com                     perplexity.ai        gemini.google.com                     claude.ai
+
+        25
+
+        20                                   223
+
+                                         18
+
+        15
+
+        10                                   11
+
+            5                                                                                 1
+
+            0                                                                             Pakistan
+                                             Indonesia
+
+AI Searches Referral per country - landing pages
+
+                Session source                          Page referrer                     Landing page Country                                      Sessions 
+
+1.              perplexity.ai                           https://www.perplexity.ai/        /mengenal-apa-i... Indonesia                                                6
+                                                                                                                                                                      4
+2. gemini.google.com                                    https://gemini.google.com/        /                             Indonesia                                     3
+                                                                                                                                                                      2
+3. chatgpt.com                                          https://chatgpt.com/              /                             Indonesia                                     2
+                                                                                                                                                                      2
+4. chatgpt.com                                                                            /                             Indonesia                                     2
+                                                                                                                                                                       1
+5. chatgpt.com                                          https://www.globalsevilla.org/    /                             Indonesia                                      1
+                                                                                                                                                                       1
+6. gemini.google.com                                    https://www.globalsevilla.org/    /                             Indonesia                                      1
+                                                                                                                                                                     25
+7. chatgpt.com                                                                            /mengenal-apa-i... Indonesia
+                                                                                                                                          < > 1 - 27 / 27
+8. chatgpt.com                                          https://www.globalsevilla.org/care... /                         Indonesia
+                                                                                                                                        May 2026
+9. chatgpt.com                                          https://www.globalsevilla.org/?ut... /                          Indonesia
+                                                                                                                                                 4
+10. chatgpt.com                                         https://www.globalsevilla.org/abo... /                          Indonesia
+                                                                                                                                              May 2026
+11. chatgpt.com                                         https://www.globalsevilla.org/abo... /                          Indonesia
+
+                                                                                                                        Grand total
+
+Sessions from AI Searches Platform over time
+
+               chatgpt.com                        perplexity.ai      gemini.google.com                   claude.ai
+
+    20
+
+        15
+
+    10
+
+        5
+
+        0                                               Feb 2026                        Mar 2026                        Apr 2026
+                           Jan 2026
+                                                                                                                                25
+    Total Sessions from AI Searches over time
+                                                                                                                             Apr 2026
+                Sessions
+
+            30                 26                                26
+
+                                                                                                         30
+
+            20
+
+            10
+
+                0                                                Feb 2026                 Mar 2026
+                                   Jan 2026
+
+AI Searches Referral - Query Use
+
+                Session source Page referrer                                            Landing page                                                                    Sessions
+
+    1.          perplexity.ai                     https://www.perplexity.ai/            /mengenal-apa-itu-stem                                                                        6
+                                                                                        /                                                                                             4
+    2.          gemini.google.com https://gemini.google.com/                            /                                                                                             3
+                                                                                        /                                                                                             3
+    3.          chatgpt.com                                                             /                                                                                             3
+                                                                                        /                                                                                             2
+    4.          chatgpt.com                       https://chatgpt.com/                  Grand total                                                                                 25
+
+    5.          chatgpt.com                       https://www.globalsevilla.org/                                                                             < > 1 - 25 / 25
+
+    6.          gemini.google.com https://www.globalsevilla.org/
+
+Sessions from AI Searches over time
+
+                   chatgpt.com                    perplexity.ai        gemini.google.com                     claude.ai
+
+        30
+
+        20
+
+            10
+
+            0                                                    Feb 2026                 Mar 2026                            Apr 2026                       May 2026
+                                Jan 2026
+
+            AI Contribution to Conversion
+
+                Full page URL                                                                                Event name                 Event count
+                                                                                                             Button_Whatsapp                   1
+            1.  www.globalsevilla.org/
+                                                                                                             Grand total                       1
+
+AI OVERVIEW RESULT
+
+Google Penelusuran kini punya AI Overview, fitur yang memanfaatkan AI generatif untuk memberikan ringkasan jawaban langsung dari
+sumber web tepercaya di bagian atas hasil pencarian. Dengan muncul di sana, Brand Anda bisa mendapatkan keuntungan pengenalan
+merek yang lebih baik karena diakui sebagai referensi informasi yang paling relevan.
+FINDING & RECOMMENDATION
+
+ Berikut adalah ringkasan komprehensif dari laporan SEO bulan ini, yang mencakup informasi utama terkait kinerja situs web selama
+ periode berjalan serta rekomendasi strategis yang dapat dipertimbangkan untuk meningkatkan performa SEO secara keseluruhan.
+ Tujuannya adalah untuk membuka peluang lebih besar agar situs Anda tampil lebih optimal di hasil pencarian Google.
+
+Finding 
+
+1. Keyword Ranking:
+a. Keseluruhan kata-kunci berhasil masuk ke halaman pertama Google.
+2. Trafik analisis & Strategi Konten:
+a. Pada periode ini total user yang mengakses website mengalami peningkatan sebesar 52% dibandingkan dengan bulan sebelumnya.
+b. Rata-rata durasi kunjungan pengguna pada situs berkurang sebesar 27%, menjadi 2 menit 21 detik.
+
+3. Konversi:
+a. Pada periode ini jumlah konversi mengalami peningkatan pada "klik Whatsapp" dibandingkan dengan bulan sebelumnya.
+b. Pelacakan konversi form submission tidak dapat dilakukan secara langsung karena form submission Global Sevilla menggunakan layanan pihak
+ketiga seperti "Form Office", bukan dibangun di atas arsitektur internal website.
+
+4. Off-Page Activity:
+a. Meningkatkan kualitas backlink dengan memberikan website media dan juga website bertraffic.
+
+5. Toxic Backlinks Issue:
+a. Tidak ada toxic backlinks terdeteksi pada bulan pengoptimasian ini.
+
+                                                                                                    < > 1 - 1 / 1
+
+Recommendation 
+
+1. Keyword Ranking:
+a. Monitor secara berkala presensi brand di SERP (Search Engine Result Pages) pada setiap kata-kunci yang dioptimasi. Pantau perubahan rangking
+yang terjadi untuk menghadapi perubahan Algoritma atau kompetitor yang.
+
+2. Trafik analisis & Strategi Konten:
+a. Pengupload-an konten yang konsisten dapat secara substansial meningkatkan visibilitas Global Sevilla di antara target audiens.
+b. Untuk meningkatkan durasi sesi, Anda perlu mengoptimalkan kecepatan muat halaman dan kualitas konten pembuka guna menarik perhatian
+instan, sembari memperkuat keterbacaan melalui elemen visual, video, serta strategi internal linking yang relevan agar pengguna terdorong untuk
+mengeksplorasi halaman lain lebih dalam.
+
+3. Konversi:
+
+a. Global Sevilla disarankan untuk mengimplementasikan pelacakan konversi hingga level isian form leads dengan memanfaatkan halaman khusus
+yang dibangun di dalam website atau platform web milik Global Sevilla sendiri. Pendekatan ini akan memberikan akurasi dan kontrol pelacakan
+yang lebih optimal dibandingkan penggunaan Google Form saat ini.
+
+4. Off-Page Activity:
+
+a. Melakukan pendektan by email untuk memasukan Global Sevilla kedalam listing web agregator yang muncul di first-page Google.
+
+b. Kami sangat merekomendasikan Global Sevilla untuk rutin melakukan promosi melalui rilis media. Tujuannya adalah untuk memperkuat brand
+awareness, mengoptimalkan AI signal, dan mempromosikan program-program Anda di luar website utama.
+                                                                                                    < > 1 - 1 / 1
+

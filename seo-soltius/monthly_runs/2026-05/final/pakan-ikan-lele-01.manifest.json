@@ -1,0 +1,26 @@
+﻿[
+    {
+        "prompt":  "High-resolution close-up product photograph of African catfish (Clarias gariepinus) floating pellets arranged in four distinct clusters on a weathered teak wood surface, each cluster progressively larger in granule diameter from left to right: fine crumbles approximately 0.6-1 mm (fry phase), small round pellets approximately 1-2 mm (fingerling phase), medium round pellets approximately 2-3 mm (grow-out phase), and larger pellets approximately 3-4 mm (finisher phase). Pellets are warm amber-brown and orange-brown in color with a slightly rough matte surface texture typical of extruded aquaculture feed. Soft natural directional light from upper left casts gentle shadows that highlight pellet texture and size differences. Clean shallow depth of field keeps all four clusters in sharp focus. Background is the same warm teak wood surface, slightly defocused at the edges. No packaging, no brand text, no labels visible on the pellets themselves. Shot from a 45-degree overhead angle. Aquaculture trade publication product photography style, photorealistic, 16:9 aspect ratio, no text overlays, no watermarks, no logos, no signatures, no artificial labels or tags placed near the clusters.",
+        "output_path":  "C:/Users/seo/Documents/seo-stp/monthly_runs/2026-05/final/pakan-ikan-lele-01-01.png",
+        "size":  "1408x960",
+        "quality":  "high",
+        "format":  "png",
+        "background":  "auto"
+    },
+    {
+        "prompt":  "Clean modern flat-design infographic illustration showing a four-phase catfish aquaculture growth timeline as four horizontal cards stacked vertically on a white background. Each card has rounded corners and a distinct soft pastel color progressing top to bottom: light sky-blue (phase 1 fry), soft mint-green (phase 2 fingerling), warm teal (phase 3 grow-out), and rich deep green (phase 4 finisher). Each card contains only language-neutral pictographic icons with no written text or numbers: a small catfish silhouette icon that grows progressively larger from the top card to the bottom card, a circular dial icon representing protein percentage, a ruler or pellet-diameter bracket icon, a clock icon representing feeding frequency, and a small calendar icon representing phase duration in days. A vertical timeline ribbon with circular nodes runs down the left side connecting all four cards. At the bottom a highlighted summary card in deep aquaculture blue contains a stack of three feed-sack icons. Generous whitespace, subtle drop shadows, professional editorial illustration style suitable for an aquaculture trade magazine. No text, no numbers, no letters, no labels rendered inside the image. 16:9 aspect ratio, white background, no watermarks, no logos.",
+        "output_path":  "C:/Users/seo/Documents/seo-stp/monthly_runs/2026-05/final/pakan-ikan-lele-01-02.png",
+        "size":  "1408x960",
+        "quality":  "medium",
+        "format":  "png",
+        "background":  "auto"
+    },
+    {
+        "prompt":  "Editorial documentary photograph of an Indonesian catfish aquaculture farmer in his late 30s wearing a plain light-blue cotton long-sleeve shirt and dark work trousers with no visible brand logos, standing at the edge of a rectangular open-top earthen or tarpaulin-lined catfish pond in rural Java or Sumatra during midday. He is holding a simple plastic bucket in one outstretched hand, caught in the motion of scattering floating pellets across the water surface. The pond surface shows dozens of dark grey-brown African catfish (Clarias gariepinus) vigorously surfacing and competing for the floating pellets, creating splashing and rippling. The pond water is a healthy jade-green color from phytoplankton bloom, indicating good water quality. The background shows lush tropical vegetation, a glimpse of simple farm infrastructure such as a low wooden or bamboo fence, and soft blue-white sky. Bright midday Indonesian sunlight, high-key natural exposure, clear sharp focus on the catfish surfacing at the feed area and on the farmer\u0027s hand releasing pellets. Full-frame photographic style, 50mm equivalent, photorealistic, authentic working farm documentary atmosphere, not staged or commercial looking. No text overlays, no brand labels, no watermarks, no logos, no signatures. 16:9 aspect ratio.",
+        "output_path":  "C:/Users/seo/Documents/seo-stp/monthly_runs/2026-05/final/pakan-ikan-lele-01-03.png",
+        "size":  "1408x960",
+        "quality":  "medium",
+        "format":  "png",
+        "background":  "auto"
+    }
+]

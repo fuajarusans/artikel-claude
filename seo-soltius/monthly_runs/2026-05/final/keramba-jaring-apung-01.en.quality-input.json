@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "C:\\Users\\seo\\Documents\\seo-stp\\monthly_runs\\2026-05\\final\\keramba-jaring-apung-01.en.md",
+    "language":  "en",
+    "generated_at":  "2026-05-26T15:17:03+07:00",
+    "word_count":  2885,
+    "paragraph_count":  38,
+    "sentence_count":  129,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.563,
+                        "sentence_burstiness":  1.22,
+                        "top30_vocab_share":  0.21,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "## Worked Example: One-Year Profit Outlook Across Three Scenarios Most KJA business calculators circulating online produce a single, suspiciously rosy profit figure.",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"## Worked Example: One-Year Profit Outlook Across Three Scenarios Most KJA business calculators circulating online produ\""
+                                  },
+                                  {
+                                      "passage":  "Three scenarios below share the same baseline assumptions: four cages × 2,500 fish (10,000 per cycle), survival rate (SR) 80-90%, two cycles per year, FCR 1.5-1.7.",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"Three scenarios below share the same baseline assumptions: four cages × 2,500 fish (10,000 per cycle), survival rate (SR\""
+                                  },
+                                  {
+                                      "passage":  "**Fry phase (1-5 g, 2-3 weeks)**: crumble feed at 40% protein such as PA GOLD, fed 4-6 times daily to support early tissue formation.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"**Fry phase (1-5 g, 2-3 weeks)**: crumble feed at 40% protein such as PA GOLD, fed 4-6 times daily to support early tiss\""
+                                  },
+                                  {
+                                      "passage":  "**Nursery to grower (5-30 g, 3-5 weeks)**: small pellets at 32% protein such as STP NGA 10, accelerating growth before transfer to grow-out bags.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"**Nursery to grower (5-30 g, 3-5 weeks)**: small pellets at 32% protein such as STP NGA 10, accelerating growth before t\""
+                                  },
+                                  {
+                                      "passage":  "STP operates five feedmills (Medan, South Lampung, Purwakarta, Gresik, Banyuwangi) covering every major KJA region.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"STP operates five feedmills (Medan, South Lampung, Purwakarta, Gresik, Banyuwangi) covering every major KJA region.\""
+                                  },
+                                  {
+                                      "passage":  "**Grow-out (30-200 g, 2-3 months)**: extruded floating pellets at 26% protein such as STP SPF Extruder.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"**Grow-out (30-200 g, 2-3 months)**: extruded floating pellets at 26% protein such as STP SPF Extruder.\""
+                                  },
+                                  {
+                                      "passage":  "The Lake Maninjau event of December 2025 (1,428.73 tons lost, IDR 32.86 billion in damages) confirms upwelling is recurring rather than freak.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"The Lake Maninjau event of December 2025 (1,428.73 tons lost, IDR 32.86 billion in damages) confirms upwelling is recurr\""
+                                  },
+                                  {
+                                      "passage":  "Indonesia\u0027s version is concentrated in inland reservoirs and deep volcanic lakes: Cirata, Saguling, and Jatiluhur in West Java, plus Lake Toba, Maninjau, and Singkarak in Sumatra.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Indonesia\u0027s version is concentrated in inland reservoirs and deep volcanic lakes: Cirata, Saguling, and Jatiluhur in Wes\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

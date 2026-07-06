@@ -1,0 +1,68 @@
+{
+  "brief_id": "erp-migration-to-the-cloud-01",
+  "article_title_id": "RISE with SAP vs GROW with SAP: Mana Jalur Migrasi ERP ke Cloud yang Tepat?",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-08",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero / setelah paragraf pembuka definisi snippet",
+      "concept_from_writer": "Diagram side-by-side perbandingan \"RISE with SAP\" vs \"GROW with SAP\" — dua kolom, kiri biru tua bertema enterprise/kompleks, kanan hijau bertema growth/cepat; baris mencakup target audiens, edisi cloud, kustomisasi, siklus update, dan kecepatan go-live; gaya korporat, teks Bahasa Indonesia, format landscape agar bisa dipotong sebagai infografik mandiri",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Lima dimensi keputusan berupa teks terstruktur sangat cocok disajikan sebagai infografik tabel dua kolom — lebih informatif dari stock photo dan dapat berfungsi sebagai featured snippet visual yang dibagikan secara mandiri.",
+      "visual_direction": "Format landscape (rasio 16:9, minimal 1200×675 px). Dua kolom berdampingan dipisahkan garis vertikal tipis abu-abu muda. Kolom kiri berlatar biru tua (#0A2D6E, warna utama Soltius) dengan judul 'RISE with SAP' (teks putih, bold, 18px); kolom kanan berlatar hijau korporat (#1B7F4F) dengan judul 'GROW with SAP' (teks putih, bold, 18px). Lima baris perbandingan dengan latar putih/abu-abu bergantian untuk keterbacaan: (1) Target Audiens, (2) Edisi Cloud, (3) Pendekatan Migrasi, (4) Kustomisasi, (5) Kecepatan Go-Live. Setiap sel berisi ikon kecil (16px, flat-style) di sebelah kiri teks — misalnya ikon gedung perusahaan untuk 'Target Audiens', ikon server untuk 'Edisi Cloud', ikon roda gigi untuk 'Kustomisasi', dan ikon kalender untuk 'Kecepatan Go-Live'. Header baris di kolom paling kiri berwarna abu-abu gelap (#444444). Logo 'soltius.co.id' kecil di pojok kanan bawah. Semua teks dalam Bahasa Indonesia. Font sans-serif bersih (Montserrat atau Open Sans).",
+      "in_image_text_id": [
+        "RISE with SAP",
+        "GROW with SAP",
+        "Target Audiens",
+        "Edisi Cloud",
+        "Pendekatan Migrasi",
+        "Kustomisasi",
+        "Kecepatan Go-Live",
+        "SAP Cloud ERP Private (Single-Tenant)",
+        "SAP Cloud ERP (Multi-Tenant)",
+        "Greenfield + Brownfield",
+        "Greenfield Saja (Fit-to-Standard)",
+        "ABAP Penuh + Key-User + BTP",
+        "Key-User + BTP; Tanpa ABAP Kustom",
+        "Perusahaan SAP Eksisting, Lanskap Kompleks",
+        "Perusahaan Baru / Menengah, Adopsi Cepat",
+        "8–14 Bulan (Brownfield Kompleks)",
+        "4 Minggu (Minimal) hingga ~16 Minggu (Umum)",
+        "soltius.co.id"
+      ],
+      "alt_id": "Infografik perbandingan RISE with SAP vs GROW with SAP mencakup target audiens, edisi cloud, kustomisasi, dan kecepatan go-live",
+      "caption_id": "Dua program migrasi ERP ke cloud SAP menjawab dua titik awal yang berbeda: RISE untuk lanskap eksisting yang kompleks, GROW untuk adopsi cepat berbasis standar. Pilihan jalur menentukan edisi cloud, kebebasan kustomisasi, dan siklus update bertahun-tahun ke depan.",
+      "sourcing_note": "Infografik buatan desainer internal — tidak memerlukan screenshot SAP. Semua data baris bersumber dari tabel perbandingan di artikel (verified terhadap SAP Learning 'Differentiating GROW and RISE with SAP'). Desainer tidak perlu mengakses produk SAP.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "setelah tabel perbandingan 7 dimensi, di awal seksi 'Perusahaan Seperti Apa yang Cocok'",
+      "concept_from_writer": "Flowchart sederhana dua jalur divergen dari satu titik awal \"Memutuskan Migrasi ERP ke Cloud\" — cabang kiri menuju RISE (enterprise, kompleks, brownfield) dan cabang kanan menuju GROW (menengah, baru, greenfield), tiap cabang menampilkan 3–4 milestone: penilaian kesiapan, pemilihan program, implementasi, go-live; warna biru untuk RISE, hijau untuk GROW, teks Bahasa Indonesia",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Dua jalur keputusan bercabang dari satu titik adalah konten proses/alur yang paling jelas divisualisasikan sebagai flowchart/diagram — jauh lebih berguna bagi CIO/CFO yang sedang mengevaluasi program daripada foto generik.",
+      "visual_direction": "Format landscape (rasio 16:9, minimal 1200×675 px). Di bagian atas tengah: kotak persegi panjang abu-abu gelap (#333333) berlabel 'Memutuskan Migrasi ERP ke Cloud' (teks putih, bold). Dari kotak ini keluar dua panah tebal yang menyebar ke kiri dan kanan. Cabang KIRI (biru tua, #0A2D6E): empat kotak berurutan dari atas ke bawah terhubung panah ke bawah — (1) 'Penilaian Kesiapan & Lanskap ECC', (2) 'Pilih RISE with SAP', (3) 'Implementasi (8–14 Bulan)', (4) 'Go-Live: SAP Cloud ERP Private'. Di bawah kotak keempat, label kecil italic: 'Enterprise | Kompleks | Brownfield/Greenfield'. Cabang KANAN (hijau korporat, #1B7F4F): empat kotak berurutan — (1) 'Penilaian Kesiapan & Proses Bisnis', (2) 'Pilih GROW with SAP', (3) 'Implementasi (~12–16 Minggu)', (4) 'Go-Live: SAP Cloud ERP'. Di bawah kotak keempat, label kecil italic: 'Menengah/Baru | Fit-to-Standard | Greenfield'. Setiap kotak memiliki ikon flat-style di sisi kiri (kaca pembesar untuk 'Penilaian', roket kecil untuk 'Implementasi', centang hijau untuk 'Go-Live'). Latar belakang keseluruhan putih bersih. Garis pemisah antara dua cabang: garis tipis putus-putus vertikal di tengah. Logo 'soltius.co.id' pojok kanan bawah, kecil. Font sans-serif (Montserrat atau Open Sans). Semua teks dalam Bahasa Indonesia.",
+      "in_image_text_id": [
+        "Memutuskan Migrasi ERP ke Cloud",
+        "Penilaian Kesiapan & Lanskap ECC",
+        "Pilih RISE with SAP",
+        "Implementasi (8–14 Bulan)",
+        "Go-Live: SAP Cloud ERP Private",
+        "Enterprise | Kompleks | Brownfield/Greenfield",
+        "Penilaian Kesiapan & Proses Bisnis",
+        "Pilih GROW with SAP",
+        "Implementasi (~12–16 Minggu)",
+        "Go-Live: SAP Cloud ERP",
+        "Menengah/Baru | Fit-to-Standard | Greenfield",
+        "soltius.co.id"
+      ],
+      "alt_id": "Diagram dua jalur migrasi ERP ke cloud: cabang RISE with SAP untuk perusahaan kompleks dan cabang GROW with SAP untuk perusahaan baru",
+      "caption_id": "Dari satu titik keputusan yang sama, dua jalur migrasi membawa ke program yang berbeda — RISE untuk lanskap SAP eksisting yang kompleks, GROW untuk perusahaan yang memulai dari awal. Durasi implementasi antara keduanya bisa berbeda hingga tiga kali lipat.",
+      "sourcing_note": "Diagram buatan desainer internal — tidak memerlukan screenshot SAP. Semua milestone dan durasi bersumber dari data artikel yang telah diverifikasi (SAP Learning, SAP NBS GROW Fast). Desainer tidak perlu mengakses produk SAP.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

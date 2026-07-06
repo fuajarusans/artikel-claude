@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07\\final\\gasku-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-09T12:10:52+07:00",
+    "word_count":  1632,
+    "paragraph_count":  21,
+    "sentence_count":  98,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.526,
+                        "sentence_burstiness":  0.781,
+                        "top30_vocab_share":  0.289,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Per November 2025, terdapat 14 SPBG di 7 provinsi, termasuk Jakarta, Jawa Barat, Jawa Tengah, Jawa Timur, Palembang, Balikpapan, dan Batam (CNBC Indonesia, November 2025).",
+                                      "candidate_score":  50,
+                                      "web_search_query":  "\"Per November 2025, terdapat 14 SPBG di 7 provinsi, termasuk Jakarta, Jawa Barat, Jawa Tengah, Jawa Timur, Palembang, Bal\""
+                                  },
+                                  {
+                                      "passage":  "Per Juni 2026, Gasku Rp 4.500/LSP versus Pertalite Rp 10.000/liter memberi selisih Rp 5.500/LSP (Bisnis.com, Juni 2026).",
+                                      "candidate_score":  33,
+                                      "web_search_query":  "\"Per Juni 2026, Gasku Rp 4.500/LSP versus Pertalite Rp 10.000/liter memberi selisih Rp 5.500/LSP (Bisnis.com, Juni 2026).\""
+                                  },
+                                  {
+                                      "passage":  "Pemerintah menerbitkan Perpres 64/2012 tentang penetapan harga BBG transportasi, dan PGN melalui CSR telah mengonversi 187 kendaraan online (2023–2025).",
+                                      "candidate_score":  33,
+                                      "web_search_query":  "\"Pemerintah menerbitkan Perpres 64/2012 tentang penetapan harga BBG transportasi, dan PGN melalui CSR telah mengonversi 1\""
+                                  },
+                                  {
+                                      "passage":  "- **Selisih per liter**: ~Rp 5.500/liter BBG dibanding Pertalite (CNBC Indonesia, Maret 2024; masih valid Juni 2026 karena harga Pertalite tidak berubah).",
+                                      "candidate_score":  31,
+                                      "web_search_query":  "\"- **Selisih per liter**: ~Rp 5.500/liter BBG dibanding Pertalite (CNBC Indonesia, Maret 2024; masih valid Juni 2026 kare\""
+                                  },
+                                  {
+                                      "passage":  "Contohnya, kendaraan online yang menghabiskan 20 liter sehari dengan Pertalite Rp 10.000/liter menghemat Rp 5.500 × 20 × 26 = sekitar **Rp 2,86 juta per bulan per kendaraan**.",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"Contohnya, kendaraan online yang menghabiskan 20 liter sehari dengan Pertalite Rp 10.000/liter menghemat Rp 5.500 × 20 ×\""
+                                  },
+                                  {
+                                      "passage":  "Gasku Rp 4.500/LSP versus Pertalite Rp 10.000/liter berarti hemat Rp 5.500 per liter setara, sekitar 55% lebih murah per satuan volume (per Juni 2026).",
+                                      "candidate_score":  29,
+                                      "web_search_query":  "\"Gasku Rp 4.500/LSP versus Pertalite Rp 10.000/liter berarti hemat Rp 5.500 per liter setara, sekitar 55% lebih murah per\""
+                                  },
+                                  {
+                                      "passage":  "Kisaran pasar converter kit adalah Rp 14 juta (tabung besi) hingga Rp 25 juta (komposit ringan), tergantung tipe tangki (Komogas; CNBC Indonesia, Maret 2024).",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"Kisaran pasar converter kit adalah Rp 14 juta (tabung besi) hingga Rp 25 juta (komposit ringan), tergantung tipe tangki \""
+                                  },
+                                  {
+                                      "passage":  "**Petakan rute operasional vs lokasi SPBG.** Cocokkan jalur harian armada dengan ketersediaan SPBG (Stasiun Pengisian Bahan Bakar Gas).",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"**Petakan rute operasional vs lokasi SPBG.** Cocokkan jalur harian armada dengan ketersediaan SPBG (Stasiun Pengisian Ba\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

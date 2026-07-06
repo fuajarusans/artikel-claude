@@ -1,0 +1,938 @@
+{
+  "schema_version": "2.0",
+  "client": "PGN Gagas",
+  "language": "id",
+  "last_updated": "2026-06-09T18:49:00+07:00",
+  "articles": [
+    {
+      "id": "2026-07-gaslink-01",
+      "month": "2026-07",
+      "keyword": "Gaslink",
+      "keyword_slug": "gaslink",
+      "title": "Apa Itu Gaslink: Gas Bumi untuk Bisnis di Luar Jaringan Pipa",
+      "slug": "apa-itu-gaslink-gas-bumi-tanpa-pipa",
+      "angle": "apa-itu-gaslink-gas-bumi-beyond-pipeline",
+      "angle_hash": "sha1:ff68a917b980",
+      "search_intent": "informational",
+      "subtopics": [
+        "CNG untuk industri",
+        "beyond pipeline",
+        "Mother Station",
+        "Gas Transport Module (GTM)",
+        "Pressure Reduction Station",
+        "Gaslink Cylinder",
+        "rantai pasok energi",
+        "keselamatan CNG"
+      ],
+      "gagas_mentions": [
+        "Gaslink / CNG beyond-pipeline untuk industri & komersial (teach)",
+        "PGN Gagas distributor CNG via GTM (anchor)"
+      ],
+      "internal_links": [
+        "https://gagas.co.id/gaslink/",
+        "https://gagas.co.id/perusahaan-cng-indonesia/",
+        "https://gagas.co.id/gasku/"
+      ],
+      "external_citations": [
+        "https://migas.esdm.go.id/post/Gas-Bumi-sebagai-Jembatan-Transisi-Energi-Strategi-Pemerintah-Wujudkan-Energi-yang-Lebih-Bersih-dan-Murah-Bagi-Masyarakat",
+        "https://migas.esdm.go.id/siaranpers/Capaian-Kinerja-Semester-I-Tahun-2025-Produksi-Komoditas-Makin-Optimal-Akses-Listrik-Meningkat"
+      ],
+      "word_count": 1569,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-07/final/gaslink-01.id.md",
+        "id_docx": "monthly_runs/2026-07/final/gaslink-01.id.docx",
+        "image_plan": "monthly_runs/2026-07/final/gaslink-01.images.json",
+        "qc": "monthly_runs/2026-07/final/gaslink-01.qc.md",
+        "quality": "monthly_runs/2026-07/final/gaslink-01.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-07-gaslink-02",
+      "month": "2026-07",
+      "keyword": "Gaslink",
+      "keyword_slug": "gaslink",
+      "title": "Gaslink vs LPG vs Solar: Perbandingan Biaya & Efisiensi Industri",
+      "slug": "gaslink-vs-lpg-vs-solar-biaya-efisiensi",
+      "angle": "gaslink-vs-lpg-vs-solar-perbandingan-biaya-efisiensi",
+      "angle_hash": "sha1:5f0ff51ae016",
+      "search_intent": "comparison",
+      "subtopics": [
+        "efisiensi pembakaran",
+        "emisi CO2",
+        "harga gas per MMBTU",
+        "nilai kalori",
+        "payback period"
+      ],
+      "gagas_mentions": [
+        "Gaslink distributor CNG untuk industri (teach)",
+        "PGN Gagas menyalurkan gas bumi beyond-pipeline (anchor)"
+      ],
+      "internal_links": [
+        "https://gagas.co.id/gaslink/",
+        "https://gagas.co.id/perusahaan-cng-indonesia/",
+        "https://gagas.co.id/gasku/"
+      ],
+      "external_citations": [
+        "https://www.eia.gov/environment/emissions/co2_vol_mass.php",
+        "https://esdm.go.id/id/media-center/arsip-berita/skema-baru-hgbt-perkuat-daya-saing-industri-dan-efisiensi-anggaran-negara",
+        "https://migas.esdm.go.id/post/Pemerintah-Siapkan-Roadmap-Konversi-ke-CNG-Guna-Kurangi-Beban-Subsidi-LPG"
+      ],
+      "word_count": 1554,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-07/final/gaslink-02.id.md",
+        "id_docx": "monthly_runs/2026-07/final/gaslink-02.id.docx",
+        "image_plan": "monthly_runs/2026-07/final/gaslink-02.images.json",
+        "qc": "monthly_runs/2026-07/final/gaslink-02.qc.md",
+        "quality": "monthly_runs/2026-07/final/gaslink-02.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-07-gaslink-03",
+      "month": "2026-07",
+      "keyword": "Gaslink",
+      "keyword_slug": "gaslink",
+      "title": "Industri yang Cocok Pakai Gaslink + Cara Penerapannya",
+      "slug": "industri-cocok-pakai-gaslink-cara-penerapan",
+      "angle": "industri-cocok-gaslink-cara-penerapan-onboarding",
+      "angle_hash": "sha1:bbb4be06533d",
+      "search_intent": "how-to",
+      "subtopics": [
+        "cara berlangganan",
+        "kesiapan lokasi",
+        "onboarding",
+        "profil sektor",
+        "retrofit peralatan"
+      ],
+      "gagas_mentions": [
+        "Gaslink melayani 600+ pelanggan (teach)",
+        "PGN Gagas penyedia CNG industri beyond-pipeline (anchor)"
+      ],
+      "internal_links": [
+        "https://gagas.co.id/gaslink/",
+        "https://gagas.co.id/perusahaan-cng-indonesia/",
+        "https://gagas.co.id/gasku/"
+      ],
+      "external_citations": [
+        "https://www.esdm.go.id/id/media-center/arsip-berita/jadi-andalan-porsi-gas-bumi-untuk-domestik-makin-besar",
+        "https://migas.esdm.go.id/post/read/hingga-2050-gas-masih-jadi-tulang-punggung-energi-nasional"
+      ],
+      "word_count": 1590,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-07/final/gaslink-03.id.md",
+        "id_docx": "monthly_runs/2026-07/final/gaslink-03.id.docx",
+        "image_plan": "monthly_runs/2026-07/final/gaslink-03.images.json",
+        "qc": "monthly_runs/2026-07/final/gaslink-03.qc.md",
+        "quality": "monthly_runs/2026-07/final/gaslink-03.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-07-gasku-01",
+      "month": "2026-07",
+      "keyword": "Gasku",
+      "keyword_slug": "gasku",
+      "title": "Apa Itu Gasku: BBG untuk Kendaraan & Cara Kerja SPBG",
+      "slug": "apa-itu-gasku-bbg-kendaraan-cara-kerja-spbg",
+      "angle": "apa-itu-gasku-cara-kerja-bbg-spbg",
+      "angle_hash": "sha1:f776c9882481",
+      "search_intent": "informational",
+      "subtopics": [
+        "bi-fuel",
+        "cara kerja SPBG",
+        "CNG untuk transportasi",
+        "definisi Gasku",
+        "keselamatan tabung CNG"
+      ],
+      "gagas_mentions": [
+        "Gasku BBG untuk transportasi (teach)",
+        "PGN Gagas distributor BBG via jaringan SPBG (anchor)"
+      ],
+      "internal_links": [
+        "https://gagas.co.id/gasku/",
+        "https://gagas.co.id/gaslink/",
+        "https://gagas.co.id/perusahaan-cng-indonesia/"
+      ],
+      "external_citations": [
+        "https://www.esdm.go.id/id/media-center/arsip-berita/jadi-andalan-porsi-gas-bumi-untuk-domestik-makin-besar",
+        "https://dephub.go.id/post/read/program-bbg-untuk-kendaraan-11716"
+      ],
+      "word_count": 1561,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-07/final/gasku-01.id.md",
+        "id_docx": "monthly_runs/2026-07/final/gasku-01.id.docx",
+        "image_plan": "monthly_runs/2026-07/final/gasku-01.images.json",
+        "qc": "monthly_runs/2026-07/final/gasku-01.qc.md",
+        "quality": "monthly_runs/2026-07/final/gasku-01.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-07-gasku-02",
+      "month": "2026-07",
+      "keyword": "Gasku",
+      "keyword_slug": "gasku",
+      "title": "Konversi BBM ke BBG: Estimasi Penghematan & Cara Mulai untuk Armada",
+      "slug": "konversi-bbm-ke-bbg-penghematan-armada",
+      "angle": "konversi-bbm-ke-bbg-penghematan-armada",
+      "angle_hash": "sha1:ad4dcaa88c88",
+      "search_intent": "decision",
+      "subtopics": [
+        "cara mulai konversi",
+        "kerangka hitung penghematan",
+        "payback converter kit",
+        "program pemerintah"
+      ],
+      "gagas_mentions": [
+        "Gasku BBG harga Rp4.500/LSP (teach)",
+        "PGN Gagas mendukung konversi via SPBG (anchor)"
+      ],
+      "internal_links": [
+        "https://gagas.co.id/gasku/",
+        "https://gagas.co.id/gaslink/",
+        "https://gagas.co.id/perusahaan-cng-indonesia/"
+      ],
+      "external_citations": [
+        "https://dephub.go.id/post/read/program-bbg-untuk-kendaraan-11716",
+        "https://www.cnbcindonesia.com/news/20251106160934-4-682944/dorong-pemanfaatan-cng-pgn-operasikan-14-spbg-di-7-provinsi"
+      ],
+      "word_count": 1572,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-07/final/gasku-02.id.md",
+        "id_docx": "monthly_runs/2026-07/final/gasku-02.id.docx",
+        "image_plan": "monthly_runs/2026-07/final/gasku-02.images.json",
+        "qc": "monthly_runs/2026-07/final/gasku-02.qc.md",
+        "quality": "monthly_runs/2026-07/final/gasku-02.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-07-gasku-03",
+      "month": "2026-07",
+      "keyword": "Gasku",
+      "keyword_slug": "gasku",
+      "title": "Kapan Kendaraan & Armada Anda BELUM Cocok Pakai BBG (Jujur)",
+      "slug": "kapan-kendaraan-belum-cocok-pakai-bbg-gasku",
+      "angle": "kapan-armada-belum-cocok-bbg-jujur",
+      "angle_hash": "sha1:c220dc2116e0",
+      "search_intent": "decision",
+      "subtopics": [
+        "bagasi tersita tabung",
+        "garansi pabrikan",
+        "jarak ke SPBG",
+        "keselamatan tabung",
+        "pemakaian rendah",
+        "penurunan tenaga"
+      ],
+      "gagas_mentions": [
+        "Gasku layanan CNG transportasi (teach)",
+        "PGN Gagas penyedia BBG jujur (anchor)"
+      ],
+      "internal_links": [
+        "https://gagas.co.id/gasku/",
+        "https://gagas.co.id/gaslink/",
+        "https://gagas.co.id/perusahaan-cng-indonesia/"
+      ],
+      "external_citations": [
+        "https://pro.hukumonline.com/a/lt5007f386a4da3/persyaratan-teknis-untuk-kendaraan-bermotor-berbahan-bakar-gas",
+        "https://www.cnbcindonesia.com/news/20251106160934-4-682944/dorong-pemanfaatan-cng-pgn-operasikan-14-spbg-di-7-provinsi"
+      ],
+      "word_count": 1560,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-07/final/gasku-03.id.md",
+        "id_docx": "monthly_runs/2026-07/final/gasku-03.id.docx",
+        "image_plan": "monthly_runs/2026-07/final/gasku-03.images.json",
+        "qc": "monthly_runs/2026-07/final/gasku-03.qc.md",
+        "quality": "monthly_runs/2026-07/final/gasku-03.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-07-cng-indonesia-01",
+      "month": "2026-07",
+      "keyword": "CNG Indonesia",
+      "keyword_slug": "cng-indonesia",
+      "title": "Apa Itu CNG (Compressed Natural Gas) dan Cara Kerjanya",
+      "slug": "apa-itu-cng-compressed-natural-gas-cara-kerja",
+      "angle": "apa-itu-cng-cara-kerja-kompresi",
+      "angle_hash": "sha1:b649ddf8f0fc",
+      "search_intent": "informational",
+      "subtopics": [
+        "CNG definisi dan komposisi metana",
+        "tekanan kompresi 200-250 bar",
+        "proses kompresi gas bumi 7 langkah",
+        "Mother Station dan Pressure Reduction Station",
+        "perbedaan CNG vs gas pipa vs LPG vs LNG",
+        "beyond pipeline distribusi tanpa pipa",
+        "virtual pipeline transportasi CNG",
+        "BBG (Bahan Bakar Gas) di Indonesia"
+      ],
+      "gagas_mentions": [
+        "CNG teknologi gas bumi terkompresi (teach)",
+        "PGN Gagas distributor CNG via Mother Station (anchor)"
+      ],
+      "internal_links": [
+        "https://gagas.co.id/perusahaan-cng-indonesia/",
+        "https://gagas.co.id/perusahaan-lng-indonesia/",
+        "https://gagas.co.id/gaslink/"
+      ],
+      "external_citations": [
+        "https://migas.esdm.go.id/post/read/Mengenal-Jenis-jenis-Gas-Bumi",
+        "https://www.esdm.go.id/id/media-center/arsip-berita/compressed-natural-gas-cng-solusi-bahan-bakar-pembangkit-wilayah-remote"
+      ],
+      "word_count": 1557,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-07/final/cng-indonesia-01.id.md",
+        "id_docx": "monthly_runs/2026-07/final/cng-indonesia-01.id.docx",
+        "image_plan": "monthly_runs/2026-07/final/cng-indonesia-01.images.json",
+        "qc": "monthly_runs/2026-07/final/cng-indonesia-01.qc.md",
+        "quality": "monthly_runs/2026-07/final/cng-indonesia-01.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-07-cng-indonesia-02",
+      "month": "2026-07",
+      "keyword": "CNG Indonesia",
+      "keyword_slug": "cng-indonesia",
+      "title": "CNG vs LNG vs LPG: Apa Bedanya dan Kapan Pakai yang Mana",
+      "slug": "cng-vs-lng-vs-lpg-apa-bedanya",
+      "angle": "cng-vs-lng-vs-lpg-kapan-pakai",
+      "angle_hash": "sha1:d43a48ccab7a",
+      "search_intent": "comparison",
+      "subtopics": [
+        "perbedaan CNG LNG LPG asal wujud tekanan",
+        "nilai kalori calorific value gas alam vs LPG",
+        "LNG didinginkan -162 derajat celsius",
+        "LPG propana butana vs metana",
+        "kerangka keputusan kapan pakai mana",
+        "Harga Gas Bumi Tertentu HGBT 7 sektor",
+        "densitas energi dan volume penyimpanan"
+      ],
+      "gagas_mentions": [
+        "CNG LNG LPG perbandingan kategori gas (teach)",
+        "PGN Gagas distributor CNG dan operator LNG Hub (anchor)"
+      ],
+      "internal_links": [
+        "https://gagas.co.id/perusahaan-cng-indonesia/",
+        "https://gagas.co.id/perusahaan-lng-indonesia/",
+        "https://gagas.co.id/gasku/"
+      ],
+      "external_citations": [
+        "https://migas.esdm.go.id/post/Mengenal-Jenis-Gas-Bumi",
+        "https://esdm.go.id/id/media-center/arsip-berita/skema-baru-hgbt-perkuat-daya-saing-industri"
+      ],
+      "word_count": 1556,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-07/final/cng-indonesia-02.id.md",
+        "id_docx": "monthly_runs/2026-07/final/cng-indonesia-02.id.docx",
+        "image_plan": "monthly_runs/2026-07/final/cng-indonesia-02.images.json",
+        "qc": "monthly_runs/2026-07/final/cng-indonesia-02.qc.md",
+        "quality": "monthly_runs/2026-07/final/cng-indonesia-02.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-07-cng-indonesia-03",
+      "month": "2026-07",
+      "keyword": "CNG Indonesia",
+      "keyword_slug": "cng-indonesia",
+      "title": "Manfaat CNG untuk Industri & Lingkungan: Efisiensi dan Emisi Lebih Rendah",
+      "slug": "manfaat-cng-untuk-industri-dan-lingkungan",
+      "angle": "manfaat-cng-industri-lingkungan",
+      "angle_hash": "sha1:e92c904b3043",
+      "search_intent": "informational",
+      "subtopics": [
+        "efisiensi pembakaran dan nilai kalori stabil",
+        "emisi CO2 NOx dan partikulat lebih rendah",
+        "peralatan lebih awet biaya perawatan",
+        "sektor industri dilayani CNG",
+        "kapan CNG belum memberi manfaat optimal",
+        "retrofit burner dan konversi peralatan",
+        "jejak karbon industri lifecycle"
+      ],
+      "gagas_mentions": [
+        "CNG manfaat efisiensi dan emisi (teach)",
+        "Gaslink solusi industri beyond-pipeline (anchor)"
+      ],
+      "internal_links": [
+        "https://gagas.co.id/perusahaan-cng-indonesia/",
+        "https://gagas.co.id/gaslink/",
+        "https://gagas.co.id/perusahaan-lng-indonesia/"
+      ],
+      "external_citations": [
+        "https://www.eia.gov/environment/emissions/co2_vol_mass.php",
+        "https://www.esdm.go.id/id/media-center/arsip-berita/peran-gas-bumi"
+      ],
+      "word_count": 1588,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-07/final/cng-indonesia-03.id.md",
+        "id_docx": "monthly_runs/2026-07/final/cng-indonesia-03.id.docx",
+        "image_plan": "monthly_runs/2026-07/final/cng-indonesia-03.images.json",
+        "qc": "monthly_runs/2026-07/final/cng-indonesia-03.qc.md",
+        "quality": "monthly_runs/2026-07/final/cng-indonesia-03.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-07-cng-indonesia-04",
+      "month": "2026-07",
+      "keyword": "CNG Indonesia",
+      "keyword_slug": "cng-indonesia",
+      "title": "CNG Beyond Pipeline: Cara Gas Bumi Menjangkau Daerah Tanpa Pipa",
+      "slug": "cng-beyond-pipeline-gas-bumi-tanpa-pipa",
+      "angle": "cng-beyond-pipeline-daerah-tanpa-pipa",
+      "angle_hash": "sha1:0081c82326a7",
+      "search_intent": "informational",
+      "subtopics": [
+        "beyond pipeline virtual pipeline distribusi",
+        "geografi kepulauan Indonesia dan pipa gas nasional",
+        "Mother Station daughter station kompresi",
+        "kaskade tabung GTM tube trailer transportasi",
+        "CNG vessel kapal gas antar pulau",
+        "contoh nyata PLN Batam Gresik Lombok",
+        "Pressure Reduction Station penurunan tekanan"
+      ],
+      "gagas_mentions": [
+        "CNG beyond-pipeline teknologi distribusi (teach)",
+        "PGN Gagas penyedia CNG ke daerah tanpa pipa (anchor)"
+      ],
+      "internal_links": [
+        "https://gagas.co.id/perusahaan-cng-indonesia/",
+        "https://gagas.co.id/gaslink/",
+        "https://gagas.co.id/perusahaan-lng-indonesia/"
+      ],
+      "external_citations": [
+        "https://www.esdm.go.id/id/media-center/arsip-berita/compressed-natural-gas-cng-solusi",
+        "https://migas.esdm.go.id/post/Gas-Bumi-sebagai-Jembatan-Transisi"
+      ],
+      "word_count": 1559,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-07/final/cng-indonesia-04.id.md",
+        "id_docx": "monthly_runs/2026-07/final/cng-indonesia-04.id.docx",
+        "image_plan": "monthly_runs/2026-07/final/cng-indonesia-04.images.json",
+        "qc": "monthly_runs/2026-07/final/cng-indonesia-04.qc.md",
+        "quality": "monthly_runs/2026-07/final/cng-indonesia-04.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-07-cng-indonesia-05",
+      "month": "2026-07",
+      "keyword": "CNG Indonesia",
+      "keyword_slug": "cng-indonesia",
+      "title": "CNG & Transisi Energi Indonesia: Peran Gas Bumi Menuju Energi Bersih",
+      "slug": "cng-transisi-energi-indonesia-gas-bumi",
+      "angle": "cng-transisi-energi-indonesia",
+      "angle_hash": "sha1:6edda8f46c23",
+      "search_intent": "informational",
+      "subtopics": [
+        "energi transisi bridge fuel gas bumi",
+        "bauran energi nasional RUEN target 2050",
+        "Net Zero Emission NZE 2060 Indonesia",
+        "baseload backup energi terbarukan",
+        "metana global warming potential GWP20",
+        "carbon lock-in risiko dan dekarbonisasi",
+        "peran gas dalam konteks iklim global"
+      ],
+      "gagas_mentions": [
+        "CNG energi transisi strategi kebijakan (teach)",
+        "PGN Gagas instrumen transisi energi pragmatis (anchor)"
+      ],
+      "internal_links": [
+        "https://gagas.co.id/perusahaan-cng-indonesia/",
+        "https://gagas.co.id/perusahaan-lng-indonesia/",
+        "https://gagas.co.id/gaslink/"
+      ],
+      "external_citations": [
+        "https://migas.esdm.go.id/post/Gas-Bumi-sebagai-Jembatan-Transisi",
+        "https://www.iea.org/reports/global-methane-tracker-2025"
+      ],
+      "word_count": 1517,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-07/final/cng-indonesia-05.id.md",
+        "id_docx": "monthly_runs/2026-07/final/cng-indonesia-05.id.docx",
+        "image_plan": "monthly_runs/2026-07/final/cng-indonesia-05.images.json",
+        "qc": "monthly_runs/2026-07/final/cng-indonesia-05.qc.md",
+        "quality": "monthly_runs/2026-07/final/cng-indonesia-05.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-07-perusahaan-cng-indonesia-01",
+      "month": "2026-07",
+      "keyword": "Perusahaan CNG Indonesia",
+      "keyword_slug": "perusahaan-cng-indonesia",
+      "title": "Cara Memilih Perusahaan CNG di Indonesia: 7 Kriteria Wajib",
+      "slug": "cara-memilih-perusahaan-cng-indonesia",
+      "angle": "cara-memilih-penyedia-cng-7-kriteria",
+      "angle_hash": "sha1:7f8e9d0c1a2b",
+      "search_intent": "commercial",
+      "subtopics": [
+        "Izin Usaha Niaga IUN penyedia CNG",
+        "ISO 45001 45001 2018 standar K3",
+        "Permen ESDM 32 2021 inspeksi teknis",
+        "keandalan pasokan dan backup GTM",
+        "vendor-neutral framework evaluasi penyedia",
+        "7 kriteria pemilihan penyedia CNG",
+        "Hak Khusus BPH Migas distribusi"
+      ],
+      "gagas_mentions": [
+        "Perusahaan CNG penyedia gas industri (teach)",
+        "PGN Gagas distributor CNG beyond-pipeline dengan ISO (anchor)"
+      ],
+      "internal_links": [
+        "https://gagas.co.id/perusahaan-cng-indonesia/",
+        "https://gagas.co.id/gaslink/",
+        "https://gagas.co.id/perusahaan-lng-indonesia/"
+      ],
+      "external_citations": [
+        "https://migas.esdm.go.id/post/Pemerintah-Siapkan-Roadmap",
+        "https://bphmigas.go.id/post/Pemanfaatan-CNG"
+      ],
+      "word_count": 1556,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-07/final/perusahaan-cng-indonesia-01.id.md",
+        "id_docx": "monthly_runs/2026-07/final/perusahaan-cng-indonesia-01.id.docx",
+        "image_plan": "monthly_runs/2026-07/final/perusahaan-cng-indonesia-01.images.json",
+        "qc": "monthly_runs/2026-07/final/perusahaan-cng-indonesia-01.qc.md",
+        "quality": "monthly_runs/2026-07/final/perusahaan-cng-indonesia-01.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-07-perusahaan-cng-indonesia-02",
+      "month": "2026-07",
+      "keyword": "Perusahaan CNG Indonesia",
+      "keyword_slug": "perusahaan-cng-indonesia",
+      "title": "Layanan Penyedia CNG: Pasokan, Distribusi GTM, hingga Dukungan Teknis",
+      "slug": "layanan-penyedia-cng-pasokan-distribusi-gtm",
+      "angle": "layanan-penyedia-cng-scope-tanggung-jawab",
+      "angle_hash": "sha1:8g9h0i1j2k3l",
+      "search_intent": "commercial",
+      "subtopics": [
+        "layanan penyedia CNG pasokan distribusi teknis",
+        "Gas Transport Module GTM dan PRS",
+        "telemetri smart meter penagihan akurat",
+        "Mother Station dan supply chain",
+        "dukungan teknis 24 jam commissioning",
+        "kontrak layanan SLA dan tanggung jawab",
+        "C-Cyl silinder 28 m3 tekanan 250 bar"
+      ],
+      "gagas_mentions": [
+        "Layanan CNG penyedia pasokan dan dukungan (teach)",
+        "PGN Gagas penyedia CNG dengan telemetri dan GTM (anchor)"
+      ],
+      "internal_links": [
+        "https://gagas.co.id/perusahaan-cng-indonesia/",
+        "https://gagas.co.id/gaslink/",
+        "https://gagas.co.id/gasku/"
+      ],
+      "external_citations": [
+        "https://www.esdm.go.id/id/media-center/arsip-berita/jadi-andalan",
+        "https://bphmigas.go.id/post/Pemanfaatan-CNG-Industri"
+      ],
+      "word_count": 1549,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-07/final/perusahaan-cng-indonesia-02.id.md",
+        "id_docx": "monthly_runs/2026-07/final/perusahaan-cng-indonesia-02.id.docx",
+        "image_plan": "monthly_runs/2026-07/final/perusahaan-cng-indonesia-02.images.json",
+        "qc": "monthly_runs/2026-07/final/perusahaan-cng-indonesia-02.qc.md",
+        "quality": "monthly_runs/2026-07/final/perusahaan-cng-indonesia-02.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-07-perusahaan-cng-indonesia-03",
+      "month": "2026-07",
+      "keyword": "Perusahaan CNG Indonesia",
+      "keyword_slug": "perusahaan-cng-indonesia",
+      "title": "Industri yang Dilayani Perusahaan CNG + Cara Mulai Berlangganan",
+      "slug": "perusahaan-cng-indonesia-industri-cara-berlangganan",
+      "angle": "industri-dilayani-cng-cara-berlangganan-onboarding",
+      "angle_hash": "sha1:9m0n1o2p3q4r",
+      "search_intent": "commercial",
+      "subtopics": [
+        "sektor industri HGBT pupuk petrokimia baja",
+        "HORECA hotel restoran laundry F&B",
+        "konsumsi minimum C-Cyl 300 m3 per bulan",
+        "survei lokasi dan onboarding 6 langkah",
+        "retrofit burner dan komisioning instalasi",
+        "kapan usaha belum cocok pakai CNG",
+        "600 pelanggan Gaslink September 2025"
+      ],
+      "gagas_mentions": [
+        "Perusahaan CNG layanan industri dan HORECA (teach)",
+        "PGN Gagas Gaslink 600 pelanggan industri (anchor)"
+      ],
+      "internal_links": [
+        "https://gagas.co.id/perusahaan-cng-indonesia/",
+        "https://gagas.co.id/gasku/",
+        "https://gagas.co.id/gaslink/"
+      ],
+      "external_citations": [
+        "https://www.esdm.go.id/id/media-center/arsip-berita/jadi-andalan-porsi",
+        "https://bphmigas.go.id/post/Pemanfaatan-CNG"
+      ],
+      "word_count": 1555,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-07/final/perusahaan-cng-indonesia-03.id.md",
+        "id_docx": "monthly_runs/2026-07/final/perusahaan-cng-indonesia-03.id.docx",
+        "image_plan": "monthly_runs/2026-07/final/perusahaan-cng-indonesia-03.images.json",
+        "qc": "monthly_runs/2026-07/final/perusahaan-cng-indonesia-03.qc.md",
+        "quality": "monthly_runs/2026-07/final/perusahaan-cng-indonesia-03.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-07-perusahaan-cng-indonesia-04",
+      "month": "2026-07",
+      "keyword": "Perusahaan CNG Indonesia",
+      "keyword_slug": "perusahaan-cng-indonesia",
+      "title": "Keamanan & Keandalan Pasokan CNG: Yang Wajib Dijamin Penyedia",
+      "slug": "keamanan-keandalan-pasokan-cng",
+      "angle": "keamanan-keandalan-pasokan-cng-standar",
+      "angle_hash": "sha1:5s6t7u8v9w0x",
+      "search_intent": "commercial",
+      "subtopics": [
+        "keamanan CNG ISO 45001 Permen ESDM 32 2021",
+        "Kepmen ESDM 176 K 2024 SMKM sistem manajemen keselamatan",
+        "keandalan pasokan 99,9% Mother Station backup",
+        "auto-ignition temperature dan flammability range",
+        "verifikasi legal izin niaga distribusi",
+        "Pressure Relief Device dan inspeksi berkala",
+        "standar kendaraan vs operasi distribusi"
+      ],
+      "gagas_mentions": [
+        "Keamanan CNG standar operasi distribusi (teach)",
+        "PGN Gagas ISO 45001 2025 dan Mother Station Medan (anchor)"
+      ],
+      "internal_links": [
+        "https://gagas.co.id/perusahaan-cng-indonesia/",
+        "https://gagas.co.id/gaslink/",
+        "https://gagas.co.id/perusahaan-lng-indonesia/"
+      ],
+      "external_citations": [
+        "https://www.esdm.go.id/id/media-center/arsip-berita/peran-gas",
+        "https://www.cnbcindonesia.com/news/20260519-dirjen-migas"
+      ],
+      "word_count": 1579,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-07/final/perusahaan-cng-indonesia-04.id.md",
+        "id_docx": "monthly_runs/2026-07/final/perusahaan-cng-indonesia-04.id.docx",
+        "image_plan": "monthly_runs/2026-07/final/perusahaan-cng-indonesia-04.images.json",
+        "qc": "monthly_runs/2026-07/final/perusahaan-cng-indonesia-04.qc.md",
+        "quality": "monthly_runs/2026-07/final/perusahaan-cng-indonesia-04.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-07-perusahaan-cng-indonesia-05",
+      "month": "2026-07",
+      "keyword": "Perusahaan CNG Indonesia",
+      "keyword_slug": "perusahaan-cng-indonesia",
+      "title": "7 Kesalahan Umum Saat Memilih Perusahaan CNG (dan Cara Menghindarinya)",
+      "slug": "kesalahan-memilih-perusahaan-cng-indonesia",
+      "angle": "kesalahan-memilih-cng-penyedia-dan-solusi",
+      "angle_hash": "sha1:1y2z3a4b5c6d",
+      "search_intent": "commercial",
+      "subtopics": [
+        "kesalahan pemilihan penyedia CNG 7 jenis",
+        "jebakan harga termurah vs total cost ownership",
+        "mengabaikan legalitas izin dan sertifikasi",
+        "ketidaksiapan lokasi dan infrastruktur",
+        "kesalahan pembeli dalam mengevaluasi penyedia",
+        "hidden costs dan SLA tanggung jawab",
+        "frame kesalahan dari sudut pembeli"
+      ],
+      "gagas_mentions": [
+        "Kesalahan pemilihan penyedia CNG dan solusi (teach)",
+        "PGN Gagas penyedia dengan transparansi dan keandalan (anchor)"
+      ],
+      "internal_links": [
+        "https://gagas.co.id/perusahaan-cng-indonesia/",
+        "https://gagas.co.id/gasku/",
+        "https://gagas.co.id/gaslink/"
+      ],
+      "external_citations": [
+        "https://migas.esdm.go.id/post/Pemerintah-Siapkan-Roadmap",
+        "https://peraturan.bpk.go.id/Home/Details/115649"
+      ],
+      "word_count": 1508,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-07/final/perusahaan-cng-indonesia-05.id.md",
+        "id_docx": "monthly_runs/2026-07/final/perusahaan-cng-indonesia-05.id.docx",
+        "image_plan": "monthly_runs/2026-07/final/perusahaan-cng-indonesia-05.images.json",
+        "qc": "monthly_runs/2026-07/final/perusahaan-cng-indonesia-05.qc.md",
+        "quality": "monthly_runs/2026-07/final/perusahaan-cng-indonesia-05.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-07-perusahaan-lng-indonesia-01",
+      "month": "2026-07",
+      "keyword": "Perusahaan LNG Indonesia",
+      "keyword_slug": "perusahaan-lng-indonesia",
+      "title": "Apa Itu LNG dan Bedanya dengan CNG serta Gas Pipa",
+      "slug": "apa-itu-lng-bedanya-dengan-cng-gas-pipa",
+      "angle": "apa-itu-lng-vs-cng-vs-gas-pipa",
+      "angle_hash": "sha1:f337be81b3a6",
+      "search_intent": "informational",
+      "subtopics": [
+        "likuifaksi",
+        "metana",
+        "regasifikasi",
+        "gas pipa",
+        "volume compression",
+        "beyond pipeline",
+        "cng",
+        "liquid",
+        "natural gas"
+      ],
+      "gagas_mentions": [
+        "LNG definisi dan bedanya dengan CNG/gas pipa (teach)",
+        "PGN Gagas menyalurkan gas bumi beyond-pipeline via LNG Hub (anchor)"
+      ],
+      "internal_links": [
+        "https://gagas.co.id/perusahaan-lng-indonesia/",
+        "https://gagas.co.id/perusahaan-cng-indonesia/",
+        "https://gagas.co.id/gaslink/"
+      ],
+      "external_citations": [
+        "https://migas.esdm.go.id/post/read/Mengenal-Jenis-jenis-Gas-Bumi",
+        "https://www.esdm.go.id/id/media-center/arsip-berita/dirjen-migas-gas-bumi-seimbangkan-pemenuhan-kebutuhan-energi-dan-target-emisi-karbon"
+      ],
+      "word_count": 1557,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-07/final/perusahaan-lng-indonesia-01.id.md",
+        "id_docx": "monthly_runs/2026-07/final/perusahaan-lng-indonesia-01.id.docx",
+        "image_plan": "monthly_runs/2026-07/final/perusahaan-lng-indonesia-01.images.json",
+        "qc": "monthly_runs/2026-07/final/perusahaan-lng-indonesia-01.qc.md",
+        "quality": "monthly_runs/2026-07/final/perusahaan-lng-indonesia-01.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-07-perusahaan-lng-indonesia-02",
+      "month": "2026-07",
+      "keyword": "Perusahaan LNG Indonesia",
+      "keyword_slug": "perusahaan-lng-indonesia",
+      "title": "Peran LNG di Luar Jaringan Pipa: Memahami Konsep LNG Hub",
+      "slug": "lng-beyond-pipeline-konsep-lng-hub",
+      "angle": "peran-lng-beyond-pipeline-konsep-lng-hub",
+      "angle_hash": "sha1:2126a1301454",
+      "search_intent": "informational",
+      "subtopics": [
+        "break-bulking",
+        "boil-off gas",
+        "fsru",
+        "gaslink",
+        "horeka",
+        "iso tank",
+        "lng hub",
+        "lng truck",
+        "virtual pipeline",
+        "regasifikasi skala kecil"
+      ],
+      "gagas_mentions": [
+        "LNG Hub konsep distribusi beyond-pipeline (teach)",
+        "PGN Gagas mengoperasikan LNG Hub untuk distribusi hilir (anchor)"
+      ],
+      "internal_links": [
+        "https://gagas.co.id/perusahaan-lng-indonesia/",
+        "https://gagas.co.id/perusahaan-cng-indonesia/",
+        "https://gagas.co.id/gaslink/"
+      ],
+      "external_citations": [
+        "https://www.esdm.go.id/id/media-center/arsip-berita/kilang-mini-lng-pertama-di-pulau-jawa-resmi-beroperasi-perluas-pemanfaatan-gas-bumi-domestik",
+        "https://migas.esdm.go.id/post/read/dukung-pengembangan-infrastruktur-hilir-gas-bumi-menteri-esdm-tetapkan-rencana-induk-jaringan-transmisi-dan-distribusi-gas-bumi-nasional-rijtdgbn-2022-2031"
+      ],
+      "word_count": 1559,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-07/final/perusahaan-lng-indonesia-02.id.md",
+        "id_docx": "monthly_runs/2026-07/final/perusahaan-lng-indonesia-02.id.docx",
+        "image_plan": "monthly_runs/2026-07/final/perusahaan-lng-indonesia-02.images.json",
+        "qc": "monthly_runs/2026-07/final/perusahaan-lng-indonesia-02.qc.md",
+        "quality": "monthly_runs/2026-07/final/perusahaan-lng-indonesia-02.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-07-perusahaan-lng-indonesia-03",
+      "month": "2026-07",
+      "keyword": "Perusahaan LNG Indonesia",
+      "keyword_slug": "perusahaan-lng-indonesia",
+      "title": "LNG untuk Industri: Kapan Lebih Cocok Daripada CNG?",
+      "slug": "lng-untuk-industri-kapan-lebih-cocok-dari-cng",
+      "angle": "lng-untuk-industri-kapan-lebih-cocok-daripada-cng",
+      "angle_hash": "sha1:5d5b55dae754",
+      "search_intent": "comparison",
+      "subtopics": [
+        "densitas energi",
+        "infrastructure requirements",
+        "industri menengah",
+        "infrastruktur kriogenik",
+        "jarak",
+        "keputusan technical",
+        "vaporizer",
+        "boil-off gas",
+        "compressed natural gas",
+        "volume consumption"
+      ],
+      "gagas_mentions": [
+        "LNG kerangka keputusan untuk industri vs CNG (teach)",
+        "PGN Gagas distributor moda LNG dan CNG untuk industri (anchor)"
+      ],
+      "internal_links": [
+        "https://gagas.co.id/perusahaan-lng-indonesia/",
+        "https://gagas.co.id/perusahaan-cng-indonesia/",
+        "https://gagas.co.id/gaslink/"
+      ],
+      "external_citations": [
+        "https://migas.esdm.go.id/post/read/hingga-2050-gas-masih-jadi-tulang-punggung-energi-nasional",
+        "https://pgnlng.co.id/en/berita/learn/iso-tank/"
+      ],
+      "word_count": 1576,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-07/final/perusahaan-lng-indonesia-03.id.md",
+        "id_docx": "monthly_runs/2026-07/final/perusahaan-lng-indonesia-03.id.docx",
+        "image_plan": "monthly_runs/2026-07/final/perusahaan-lng-indonesia-03.images.json",
+        "qc": "monthly_runs/2026-07/final/perusahaan-lng-indonesia-03.qc.md",
+        "quality": "monthly_runs/2026-07/final/perusahaan-lng-indonesia-03.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-07-perusahaan-lng-indonesia-04",
+      "month": "2026-07",
+      "keyword": "Perusahaan LNG Indonesia",
+      "keyword_slug": "perusahaan-lng-indonesia",
+      "title": "Rantai Pasok LNG: dari Likuifaksi hingga Pengguna Akhir",
+      "slug": "rantai-pasok-lng-likuifaksi-pengguna-akhir",
+      "angle": "rantai-pasok-lng-regasifikasi-hingga-pengguna-akhir",
+      "angle_hash": "sha1:35af487e7788",
+      "search_intent": "informational",
+      "subtopics": [
+        "fsru",
+        "keandalan supply chain",
+        "kilang lng",
+        "lng carrier",
+        "lng hub break-bulking",
+        "liquefaction",
+        "pengguna akhir",
+        "peranan pemain",
+        "regasifikasi",
+        "supply chain"
+      ],
+      "gagas_mentions": [
+        "Rantai pasok LNG end-to-end dan peran pemain (teach)",
+        "PGN Gagas menempati simpul distribusi hilir (anchor)"
+      ],
+      "internal_links": [
+        "https://gagas.co.id/perusahaan-lng-indonesia/",
+        "https://gagas.co.id/perusahaan-cng-indonesia/",
+        "https://gagas.co.id/gaslink/"
+      ],
+      "external_citations": [
+        "https://migas.esdm.go.id/post/Jadi-Andalan-Porsi-Gas-Bumi-untuk-Domestik-Makin-Besar",
+        "https://www.esdm.go.id/id/media-center/arsip-berita/resmikan-proyek-tangguh-train-3-presiden-sekaligus-groundbreaking-proyek-ccus"
+      ],
+      "word_count": 1559,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-07/final/perusahaan-lng-indonesia-04.id.md",
+        "id_docx": "monthly_runs/2026-07/final/perusahaan-lng-indonesia-04.id.docx",
+        "image_plan": "monthly_runs/2026-07/final/perusahaan-lng-indonesia-04.images.json",
+        "qc": "monthly_runs/2026-07/final/perusahaan-lng-indonesia-04.qc.md",
+        "quality": "monthly_runs/2026-07/final/perusahaan-lng-indonesia-04.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-07-perusahaan-lng-indonesia-05",
+      "month": "2026-07",
+      "keyword": "Perusahaan LNG Indonesia",
+      "keyword_slug": "perusahaan-lng-indonesia",
+      "title": "Memilih Penyedia Solusi LNG di Indonesia: Kriteria dan Pertimbangan",
+      "slug": "memilih-penyedia-lng-indonesia-kriteria",
+      "angle": "memilih-penyedia-solusi-lng-indonesia-kriteria",
+      "angle_hash": "sha1:239dd08c5960",
+      "search_intent": "decision",
+      "subtopics": [
+        "cold chain",
+        "ekosistem gas",
+        "izin niaga",
+        "keandalan pasokan",
+        "keselamatan kriogenik",
+        "penyedia assessment",
+        "sertifikasi iso",
+        "transparansi kontrak",
+        "vendor neutral evaluation"
+      ],
+      "gagas_mentions": [
+        "Kriteria memilih penyedia LNG vendor-neutral (teach)",
+        "PGN Gagas penyedia LNG di sisi distribusi dengan ISO (anchor)"
+      ],
+      "internal_links": [
+        "https://gagas.co.id/perusahaan-lng-indonesia/",
+        "https://gagas.co.id/perusahaan-cng-indonesia/",
+        "https://gagas.co.id/gaslink/"
+      ],
+      "external_citations": [
+        "https://migas.esdm.go.id/post/read/menteri-jonan-tetapkan-permen-esdm-tentang-pengusahaan-gas-bumi-pada-kegiatan-usaha-hilir-minyak-dan-gas-bumi",
+        "https://pgnlng.co.id/en/berita/learn/iso-tank/"
+      ],
+      "word_count": 1553,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-07/final/perusahaan-lng-indonesia-05.id.md",
+        "id_docx": "monthly_runs/2026-07/final/perusahaan-lng-indonesia-05.id.docx",
+        "image_plan": "monthly_runs/2026-07/final/perusahaan-lng-indonesia-05.images.json",
+        "qc": "monthly_runs/2026-07/final/perusahaan-lng-indonesia-05.qc.md",
+        "quality": "monthly_runs/2026-07/final/perusahaan-lng-indonesia-05.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "keyword": "Data Warehouse Solutions",
+  "keyword_slug": "data-warehouse-solutions",
+  "month": "2026-06",
+  "captured_at": "2026-06-02T20:00:00+07:00",
+  "landing_page": "https://www.soltius.co.id/id/blog/data-warehouse-solutions",
+  "landing_page_summary": "Compares 7 data warehouse platforms (SAP BW/4HANA, SAP Analytics Cloud, Snowflake, BigQuery, Redshift, etc.) for Indonesian enterprises; uses an oil/raw-data metaphor; lacks pricing detail, migration guidance, governance/compliance discussion, and the BW/4HANA section is cut off mid-way.",
+  "data_sources_used": ["seo_report_apr2026.md", "websearch", "landing_page_fetch"],
+  "ahrefs_available": false,
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Climbing — rank improved from 100 (before) → 67 (Feb) → 69 (Mar) → 48 (Apr 2026). Needs topical depth + support cluster to break into top 20.",
+    "apr2026_rank": 48
+  },
+  "serp": {
+    "top_competing_pages": [
+      {
+        "url": "https://phintraco.com/data-warehouse/",
+        "title": "Data Warehouse adalah Solusi Efisien untuk Pengelolaan Data",
+        "angle_summary": "Definitional explainer — pengertian, komponen, manfaat; broad and generalist, no SAP-specific depth"
+      },
+      {
+        "url": "https://terralogiq.com/data-warehouse/",
+        "title": "Data Warehouse: Pengertian, Jenis, Karakteristik, dan Manfaat",
+        "angle_summary": "Comprehensive definitional + types (OLAP, data mart, data lake) — educational but lacks enterprise implementation guidance or SAP context"
+      },
+      {
+        "url": "https://idstar.co.id/data-warehousing/",
+        "title": "Data Warehousing: Pengertian, Manfaat, dan Jenisnya",
+        "angle_summary": "Education-first, covers ETL basics and types; no vendor-specific content or practical implementation roadmap"
+      }
+    ],
+    "serp_features": ["ai_overview_probable", "featured_snippet_probable", "paa"],
+    "ai_overview_entities": ["data warehouse", "SAP Datasphere", "SAP BW/4HANA", "ETL", "data lake", "data lakehouse", "business intelligence", "HANA Cloud", "single source of truth"]
+  },
+  "paa": [
+    "Apa itu data warehouse dan apa manfaatnya untuk perusahaan?",
+    "Apa perbedaan data warehouse dengan database biasa?",
+    "Apa perbedaan data warehouse, data lake, dan data lakehouse?",
+    "Kapan perusahaan sebaiknya mengimplementasikan data warehouse?",
+    "Berapa biaya implementasi data warehouse?",
+    "Apa itu ETL dan bagaimana prosesnya dalam data warehouse?",
+    "Apakah SAP Datasphere dan SAP BW/4HANA sama?",
+    "Bagaimana cara memilih solusi data warehouse yang tepat untuk perusahaan Indonesia?",
+    "Apa saja tanda-tanda perusahaan sudah membutuhkan data warehouse?",
+    "Apakah data warehouse cocok untuk perusahaan menengah di Indonesia?"
+  ],
+  "gsc_style_queries_from_report": [
+    "warehouse management system (17 clicks, 9,076 impressions — adjacent/related to data warehouse cluster)"
+  ],
+  "serp_gaps_identified": [
+    "No competitor covers SAP-specific data warehouse (Datasphere vs BW/4HANA) for Indonesian enterprise in depth",
+    "No competitor covers data governance and UU PDP compliance angle for enterprise data warehouse in Indonesia",
+    "No competitor covers the 'kapan BELUM perlu data warehouse' honest-diagnostic angle",
+    "No competitor covers modern architecture evolution (data warehouse → data lakehouse → SAP Business Data Cloud)",
+    "No competitor covers ETL/ELT implementation steps as a practical guide for Indonesian enterprises",
+    "No competitor covers real-time vs batch data warehouse tradeoffs for operational decision-making",
+    "Landing page hub already covers product comparison at a surface level — support articles should go DEEPER on each subtopic"
+  ],
+  "sap_tech_context": {
+    "primary_products": [
+      "SAP Datasphere (formerly SAP Data Warehouse Cloud) — cloud-native, unified data experience on SAP BTP; supports data federation, data cataloging, semantic modeling, zero-copy architecture",
+      "SAP BW/4HANA — on-premise/private cloud data warehouse; mature, structured, SAP-centric; can coexist with Datasphere in hybrid scenarios",
+      "SAP HANA Cloud — in-memory cloud database underlying Datasphere and BW/4HANA Cloud",
+      "SAP Business Data Cloud (BDC) — launched Feb 2025; fully managed SaaS platform bundling Datasphere + SAP Analytics Cloud + BW/4HANA private cloud + SAP Databricks",
+      "SAP Analytics Cloud (SAC) — BI/analytics front-end, integrates tightly with Datasphere for planning"
+    ],
+    "key_facts_to_verify": [
+      "SAP Datasphere pricing: ~USD 12–15 per capacity unit/year; minimum ~4,300 CUs for enterprise. Researcher must confirm current pricing.",
+      "SAP Business Data Cloud launched February 2025 — bundles Datasphere + SAC + BW/4HANA private cloud + SAP Databricks. Researcher confirms scope.",
+      "BDC Connect for Databricks GA October 2025; Google BigQuery and Snowflake integrations H1 2026; Microsoft Fabric Q3 2026. Researcher verifies dates.",
+      "SAP BW/4HANA end-of-mainstream-maintenance: researcher must confirm current SAP guidance (important for BW customers considering migration to Datasphere).",
+      "UU PDP (UU No. 27 Tahun 2022): personal data protection law; PDP Agency expected operational 2026. Researcher confirms current status."
+    ]
+  },
+  "indonesia_market_context": {
+    "regulatory": "UU No. 27 Tahun 2022 tentang Perlindungan Data Pribadi (PDP Law) — requires data governance; PDP Agency (Badan Pelindungan Data Pribadi) expected operational 2026; BSSN oversees cybersecurity; data sovereignty is a growing focus.",
+    "market_size": "Indonesia Big Data Analytics Software Market projected USD 47.18 billion in 2025, CAGR 9.35% to USD 73.77 billion by 2030 (Mordor Intelligence — researcher should verify exact figure).",
+    "global_bi_market": "Global BI & analytics market projected ~USD 84.6 billion by 2026 (cited in multiple sources — researcher verifies).",
+    "real_time_analytics_adoption": "By 2025, 70% of organizations leveraging real-time analytics (IDC estimate — researcher verifies).",
+    "ai_data_trend": "2026 shift: data warehouse moving from BI/reporting to AI data activation; real-time + AI integration (Perplexity, ChatGPT) driving new architecture requirements."
+  },
+  "history_snapshot": {
+    "existing_articles_for_keyword": [],
+    "keyword_history_status": "No prior articles — this is the first 2026-06 cluster for data-warehouse-solutions. All 5 intents are open.",
+    "uncovered_angles": [
+      "definitional/awareness — what is data warehouse, why Indonesia enterprises need one now",
+      "comparison — data warehouse vs data lake vs data lakehouse (architecture decision guide)",
+      "how-to/implementation — ETL process and implementation roadmap for enterprises",
+      "comparison/decision — SAP Datasphere vs BW/4HANA: which to choose in 2026",
+      "troubleshooting/diagnostic — signs your data warehouse strategy is failing + how to fix",
+      "honest/counter-conventional — when you do NOT yet need a data warehouse",
+      "governance/compliance — data governance and UU PDP compliance via data warehouse",
+      "modern architecture — data warehouse evolution to data lakehouse and Business Data Cloud"
+    ]
+  }
+}

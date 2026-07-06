@@ -1,0 +1,59 @@
+{
+  "brief_id": "sap-clean-core-01",
+  "article_title_id": "Tata Kelola SAP Clean Core: Mengapa Core Kembali 'Kotor' Setelah Go-Live dan Cara Mencegahnya",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-08",
+  "generation": "none — design team executes the visuals from this brief (no AI image generation, per project decision)",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Timeline horizontal 'perjalanan drift core' — titik Go-Live (ikon core hijau bersih) → 6 bulan (exemption mulai menumpuk, kuning) → 12-18 bulan (objek Level C dan D tumbuh, oranye) → upgrade berikutnya (biaya tinggi, merah). Di bawah setiap titik, label tindakan governance yang mencegah drift. Gaya korporat biru-putih SAP, teks Bahasa Indonesia.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Timeline dengan empat titik waktu berurutan adalah struktur diagram sekuensial; visualisasi proses temporal yang bisa dikodekan dengan warna status (hijau→merah) untuk menyampaikan eskalasi risiko.",
+      "visual_direction": "Timeline horizontal empat titik (milestone nodes) di atas garis gradasi dari biru-tua (Go-Live) ke merah (Upgrade berikutnya). Latar putih bersih, rasio lanskap 2:1, lebar penuh kolom artikel. Tiap node lingkaran berisi ikon minimal: (1) biru-tua, ikon checkmark — Go-Live; (2) kuning, ikon dokumen bertumpuk — 6 bulan; (3) oranye, ikon grafik naik — 12–18 bulan; (4) merah, ikon segitiga peringatan — Upgrade berikutnya. Di atas tiap node: label waktu bold. Di bawah: satu baris status (warna node) + dua baris kecil abu-abu tindakan governance. Antar node: panah tipis abu-abu dengan label pemicu drift (italic). Tipografi sans-serif modern (Roboto/Inter). Palette: biru SAP #003B5C, putih, abu #F5F5F5, kuning #F0B400, oranye #E06C00, merah #CC1F1A. Tanpa foto, tanpa bayangan tebal. Semua teks Bahasa Indonesia.",
+      "in_image_text_id": [
+        "Go-Live",
+        "Core bersih — governance mulai",
+        "Tindakan: tetapkan ATC blocking mode & CoE",
+        "6 Bulan Pasca Go-Live",
+        "Exemption ATC mulai menumpuk",
+        "Tindakan: tinjau exemption log — jangan tunggu menumpuk",
+        "12–18 Bulan Pasca Go-Live",
+        "Objek Level C & D bertambah diam-diam",
+        "Tindakan: quarterly health review + roadmap remediasi",
+        "Upgrade Berikutnya",
+        "Biaya pengujian tinggi — technical debt sudah terkunci",
+        "Tindakan: governance konsisten sejak go-live mencegah ini"
+      ],
+      "alt_id": "Timeline drift core SAP S/4HANA pasca go-live: empat tahap dari core bersih hingga biaya upgrade tinggi akibat technical debt.",
+      "caption_id": "Tanpa governance aktif, core S/4HANA yang bersih saat go-live bisa kembali kotor dalam 12–18 bulan — ditandai exemption ATC yang menumpuk dan objek Level C/D yang bertambah diam-diam. Tiap titik waktu punya tindakan governance yang bisa mencegah eskalasi.",
+      "sourcing_note": "Aset orisinal — desainer membuat diagram dari nol berdasarkan brief ini. Tidak ada screenshot SAP yang dibutuhkan. Data titik waktu dan tindakan governance bersumber dari dossier (IgniteSAP, Maret 2026; SAP Community ATC governance guide).",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body — H2 'Empat pilar operasional yang menjaga core tetap bersih', setelah tabel mekanisme governance",
+      "concept_from_writer": "Diagram roda empat pilar tata kelola clean core — ATC (gerbang kode), SAP Cloud ALM (dashboard KPI), Transport Governance (kontrol perpindahan), CoE (pemilik keputusan) di pusat. Panah melingkar menunjukkan siklus kuartalan. Warna biru/putih SAP, ikon tiap pilar, teks Bahasa Indonesia.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Empat elemen yang mengelilingi satu pusat pengambil keputusan dengan siklus perputaran adalah struktur diagram roda/hub-and-spoke; diagram orisinal paling tepat menyampaikan hubungan siklikal antar pilar. Tidak ada UI SAP yang perlu ditampilkan.",
+      "visual_direction": "Diagram roda (radial) format 1:1 hingga 4:3, latar putih. Pusat: lingkaran biru-tua #003B5C berisi 'SAP Center of Excellence (CoE)' (font putih bold). Empat panel membulat (latar biru muda #EAF2FB, border biru-tua tipis) memancar dari pusat: atas = ABAP Test Cockpit (ATC); kanan = SAP Cloud ALM; bawah = Transport Governance; kiri = Siklus Kuartalan. Tiap panel: ikon garis minimal (gerbang/kunci untuk ATC; dashboard untuk Cloud ALM; truk/dokumen untuk Transport), nama pilar bold biru-tua, satu baris deskriptor abu-abu. Panah melengkung searah jarum jam mengelilingi diagram dengan label 'Siklus Tata Kelola Kuartalan' (italic abu-abu). Garis penghubung abu-abu #CCCCCC. Tanpa bayangan tebal. Sans-serif modern (Roboto/Inter). Semua teks Bahasa Indonesia.",
+      "in_image_text_id": [
+        "SAP Center of Excellence (CoE)",
+        "Pemilik keputusan & eskalasi",
+        "ABAP Test Cockpit (ATC)",
+        "Gerbang kode — blocking mode Prioritas 1 & 2",
+        "SAP Cloud ALM",
+        "Dashboard KPI — Technical Debt Score & Clean Core Share",
+        "Transport Governance",
+        "Kontrol perpindahan kode ke QA/Produksi",
+        "Siklus Tata Kelola Kuartalan"
+      ],
+      "alt_id": "Diagram roda empat pilar tata kelola SAP Clean Core: ATC, SAP Cloud ALM, Transport Governance, dan CoE di pusat siklus kuartalan.",
+      "caption_id": "Tata kelola SAP Clean Core bersandar pada empat pilar yang bekerja dalam siklus: ATC sebagai gerbang kode otomatis, SAP Cloud ALM untuk pemantauan KPI, Transport Governance untuk kontrol perpindahan, dan SAP Center of Excellence sebagai pemilik keputusan di pusat. Tanpa CoE yang aktif, ketiga alat lainnya tidak dipakai konsisten.",
+      "sourcing_note": "Aset orisinal — desainer membuat diagram roda dari nol berdasarkan brief ini. Tidak ada screenshot SAP yang dibutuhkan. Nama produk (ABAP Test Cockpit, SAP Cloud ALM) adalah nama resmi SAP dan ditulis persis. Jangan memfabrikasi tampilan antarmuka SAP — ini diagram konseptual.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

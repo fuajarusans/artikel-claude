@@ -1,0 +1,73 @@
+{
+  "brief_id": "perusahaan-lng-indonesia-01",
+  "article_title_id": "Apa Itu LNG dan Bedanya dengan CNG serta Gas Pipa",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-09",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero — ditempatkan setelah blok definisi singkat (blockquote), sebelum H2 pertama",
+      "concept_from_writer": "Infografik horizontal tiga kolom membandingkan tiga moda penyaluran gas bumi — kolom 1 'LNG' (ikon tangki kriogenik biru, label 'dicairkan ~-162 derajat C, volume ~1/600'), kolom 2 'CNG' (ikon truk bertabung, label 'dikompresi ~200-250 bar, volume ~1/250'), kolom 3 'Gas Pipa' (ikon pipa dengan aliran kontinu, label 'tidak dipadatkan, dialirkan tetap'). Di bawah tiap kolom: cara memadatkan, cara mengangkut, paling cocok untuk apa. Gaya flat minimalis B2B, palet biru-hijau, semua teks Bahasa Indonesia.",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Tiga kolom berisi angka dan label teknis (suhu, tekanan, rasio volume, moda angkut, use-case) yang paling efektif disampaikan secara visual terstruktur -- infografik teks-forward langsung bisa di-screenshot dan diekstrak sebagai featured snippet visual.",
+      "visual_direction": "Kanvas landscape (rasio 16:9 atau 3:1), latar putih atau abu sangat muda (#F7F9FC). Tiga kolom sejajar dengan lebar sama, dipisahkan garis tipis biru tua (#0D4F8B) atau ruang kosong. Tajuk kolom masing-masing bercetak tebal besar: 'LNG', 'CNG', 'Gas Pipa'. Di bawah tajuk, ikon flat minimalis: kolom LNG = tangki kriogenik silinder bertutup kubah (warna biru langit #3A8FC8, aksen putih untuk efek metalik); kolom CNG = truk GTM tampak samping dengan tabung silinder di bak (warna biru tua #0D4F8B); kolom Gas Pipa = potongan pipa horizontal dengan panah aliran kontinu (warna hijau energi #2BAE66). Di bawah ikon, tiga baris data dalam kotak abu muda: Baris 1 'Cara memadatkan' -- LNG: 'Pendinginan kriogenik (~-162 C)', CNG: 'Kompresi ~200-250 bar, suhu ruang', Gas Pipa: 'Tidak dipadatkan, dialirkan kontinu'. Baris 2 'Rasio volume' -- LNG: '~1/600 volume gas normal', CNG: '~1/250 volume gas normal', Gas Pipa: '1:1 (tidak dipadatkan)'. Baris 3 'Cara mengangkut' -- LNG: 'Kapal LNG carrier / ISO tank kriogenik', CNG: 'Truk GTM / tube trailer', Gas Pipa: 'Jaringan pipa tetap'. Baris 4 'Paling cocok untuk' -- LNG: 'Volume besar, jarak jauh, lintas pulau', CNG: 'Volume kecil-menengah, jarak dekat-menengah', Gas Pipa: 'Lokasi yang sudah dilintasi pipa'. Footer kecil di pojok kiri bawah: 'Sumber: Ditjen Migas ESDM' dalam font reguler 9pt abu gelap. Logo PGN Gagas (biru-hijau) di pojok kanan bawah, ukuran kecil. Tipografi: sans-serif bersih (misalnya Poppins atau Nunito); tajuk kolom 18pt tebal; label baris 11pt regular; nilai data 13pt semibold biru tua. Palet keseluruhan: biru profesional (#0D4F8B), biru langit (#3A8FC8), hijau energi (#2BAE66), putih, abu muda -- tidak ada merah atau warna hangat.",
+      "in_image_text_id": [
+        "LNG",
+        "CNG",
+        "Gas Pipa",
+        "Cara memadatkan",
+        "Pendinginan kriogenik (~-162 C)",
+        "Kompresi ~200-250 bar, suhu ruang",
+        "Tidak dipadatkan, dialirkan kontinu",
+        "Rasio volume",
+        "~1/600 volume gas normal",
+        "~1/250 volume gas normal",
+        "1:1 (tidak dipadatkan)",
+        "Cara mengangkut",
+        "Kapal LNG carrier / ISO tank kriogenik",
+        "Truk GTM / tube trailer",
+        "Jaringan pipa tetap",
+        "Paling cocok untuk",
+        "Volume besar, jarak jauh, lintas pulau",
+        "Volume kecil-menengah, jarak dekat-menengah",
+        "Lokasi yang sudah dilintasi pipa",
+        "Sumber: Ditjen Migas ESDM"
+      ],
+      "alt_id": "Infografik perbandingan LNG, CNG, dan gas pipa: cara memadatkan, rasio volume, moda angkut, dan kecocokan penggunaan",
+      "caption_id": "Tiga moda penyaluran gas bumi yang sama — LNG, CNG, dan gas pipa — berbeda bukan pada jenis gasnya, melainkan cara memadatkan dan mengangkutnya. LNG paling padat (~1/600) sehingga unggul untuk jarak jauh; CNG (~1/250) praktis untuk volume menengah; gas pipa paling ekonomis bila jaringan sudah tersedia.",
+      "sourcing_note": "Infografik orisinal -- dibuat oleh tim desain PGN Gagas dari data Ditjen Migas ESDM ('Mengenal Jenis-jenis Gas Bumi'). Tidak memerlukan foto fasilitas nyata. Pastikan angka tekanan CNG (200-250 bar) dan rasio volume (LNG ~1/600; CNG ~1/250) dikutip dengan kata 'sekitar/~' sesuai sumber ESDM -- jangan tampilkan sebagai angka pasti.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "mid-body -- ditempatkan setelah tabel perbandingan LNG/CNG/Gas Pipa, sebelum H2 'Mengapa Ketiganya Sering Disalahpahami'",
+      "concept_from_writer": "Diagram alur rantai LNG empat tahap dari kiri ke kanan -- (1) 'Lapangan gas ke kilang likuifaksi' ikon kilang, (2) 'Diangkut: kapal LNG carrier / ISO tank' ikon kapal dan truk kriogenik, (3) 'Regasifikasi di terminal / LNG Hub' ikon tangki dengan panah uap, (4) 'Pengguna akhir: pembangkit / industri / HOREKA' ikon pabrik. Tekankan dua transformasi: gas dipadatkan jadi cair lalu dikembalikan jadi gas. Diagram prinsip, bukan peta. Gaya flat, palet biru-hijau, teks Bahasa Indonesia.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Alur empat tahap dengan dua transformasi fisik (likuifaksi dan regasifikasi) paling jelas digambarkan sebagai diagram proses berurutan -- menunjukkan urutan kausal yang tidak bisa digantikan foto atau infografik teks-forward.",
+      "visual_direction": "Kanvas landscape (rasio 16:9), latar putih atau biru sangat muda (#EEF4FB). Empat kotak/node berurutan dari kiri ke kanan, dihubungkan panah tebal biru (#0D4F8B). Di atas alur, sebuah 'rel' atau garis horizontal tipis mengikat keempat node. Node 1 (kiri): ikon kilang likuifaksi flat (cerobong + tangki, warna biru tua); label dua baris tebal 'Lapangan Gas' dan subtext kecil regular 'kilang likuifaksi'. Di bawah node 1: label proses kecil berwarna biru langit 'Gas didinginkan hingga ~-162 C -- berubah jadi cair (LNG)'. Panah 1 ke 2 bertuliskan 'Likuifaksi'. Node 2: ikon kapal LNG carrier (tampak samping, biru langit #3A8FC8) DAN ikon truk ISO tank (tampak samping, biru tua) disusun vertikal di dalam satu node; label tebal 'Pengangkutan' subtext 'Kapal LNG carrier / ISO tank kriogenik'. Panah 2 ke 3 bertuliskan 'Pengangkutan jarak jauh'. Node 3: ikon tangki vertikal berinsulasi dengan panah uap ke atas (warna campuran biru dan hijau #2BAE66, uap putih); label tebal 'Regasifikasi' subtext 'Terminal / LNG Hub -- LNG dipanaskan kembali jadi gas'. Di bawah node 3: label proses kecil hijau 'Gas dikembalikan ke wujud semula'. Panah 3 ke 4 bertuliskan 'Distribusi gas'. Node 4 (kanan): tiga ikon kecil vertikal -- ikon pabrik, ikon gedung komersial/hotel, ikon lampu/pembangkit; label tebal 'Pengguna Akhir' subtext 'Industri / HOREKA / Pembangkit'. Di bawah alur node, banner tipis dengan tulisan 'Diagram prinsip -- bukan peta jalur nyata'. Footer pojok kiri bawah: 'Sumber: Ditjen Migas ESDM; PT PGN LNG Indonesia' 9pt abu. Logo PGN Gagas pojok kanan bawah. Tipografi konsisten dengan IMAGE_01 (Poppins/Nunito). Dua transformasi fisik harus mencolok secara visual: transisi gas-ke-cair di node 1-2 (perubahan warna ikon dari abu/putih ke biru solid) dan cair-ke-gas di node 3-4 (ikon dengan efek uap/panah ke atas, perubahan ke hijau).",
+      "in_image_text_id": [
+        "Lapangan Gas",
+        "kilang likuifaksi",
+        "Gas didinginkan hingga ~-162 C -- berubah jadi cair (LNG)",
+        "Likuifaksi",
+        "Pengangkutan",
+        "Kapal LNG carrier / ISO tank kriogenik",
+        "Pengangkutan jarak jauh",
+        "Regasifikasi",
+        "Terminal / LNG Hub -- LNG dipanaskan kembali jadi gas",
+        "Gas dikembalikan ke wujud semula",
+        "Distribusi gas",
+        "Pengguna Akhir",
+        "Industri / HOREKA / Pembangkit",
+        "Diagram prinsip -- bukan peta jalur nyata",
+        "Sumber: Ditjen Migas ESDM; PT PGN LNG Indonesia"
+      ],
+      "alt_id": "Diagram alur rantai LNG: dari lapangan gas, likuifaksi, pengangkutan, regasifikasi, hingga pengguna akhir industri",
+      "caption_id": "Rantai LNG melibatkan dua transformasi fisik: gas bumi pertama didinginkan menjadi cair (~-162 C) agar bisa diangkut jauh, lalu diregasifikasi -- dipanaskan kembali jadi gas -- sebelum sampai ke pengguna akhir seperti industri, HOREKA, atau pembangkit listrik.",
+      "sourcing_note": "Diagram prinsip orisinal -- dibuat tim desain PGN Gagas; tidak memerlukan foto fasilitas nyata. PENTING: jangan gambarkan fasilitas kilang atau FSRU yang secara spesifik mengacu pada Badak Bontang, Tangguh, atau FSRU Nusantara Regas -- diagram ini bersifat edukatif/generik, bukan representasi aset spesifik PGN Gagas. Label 'LNG Hub' di node 3 boleh disebut generik (bukan klaim fasilitas Gagas sudah beroperasi). Pastikan label 'Diagram prinsip -- bukan peta jalur nyata' tetap ada untuk menghindari penafsiran keliru.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

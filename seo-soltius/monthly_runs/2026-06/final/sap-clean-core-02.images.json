@@ -1,0 +1,58 @@
+{
+  "brief_id": "sap-clean-core-02",
+  "article_title_id": "Remediasi Custom Code SAP: Langkah Membersihkan Z-Code Menuju ABAP Cloud",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-02",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Infografis horizontal 4 fase remediasi custom code SAP — Inventarisasi (ikon SAP for Me, warna oranye) → Analisis (ikon ATC/Eclipse, warna merah) → Triase (ikon tabel Keep/Eliminate/Rebuild, warna kuning) → Migrasi (ikon ABAP Cloud/perisai, warna hijau) — teks Bahasa Indonesia, gaya korporat bersih, gradien oranye ke hijau menggambarkan kemajuan dari 'masalah' ke 'kode bersih'",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Empat fase berurutan dengan alat dan output per tahap cocok disajikan sebagai infografis alur horizontal — memudahkan pembaca melihat kemajuan dari inventarisasi hingga kode bersih sekaligus.",
+      "visual_direction": "Infografis horizontal berformat landscape (rasio 16:9 atau 3:1), latar putih bersih. Empat kotak/panel berurutan dari kiri ke kanan, dihubungkan panah progresif tebal. Setiap panel memiliki warna aksen berbeda: (1) Inventarisasi — aksen oranye, ikon portal SAP for Me (awan + kaca pembesar), label 'Fase 1: Inventarisasi', sub-label 'SAP Readiness Check via SAP for Me'; (2) Analisis — aksen merah tua, ikon logo Eclipse/ADT (lingkaran dengan titik), label 'Fase 2: Analisis', sub-label 'ABAP Test Cockpit (ATC)'; (3) Triase — aksen kuning keemasan, ikon tabel tiga kolom (Keep/Eliminate/Rebuild), label 'Fase 3: Triase', sub-label 'Custom Code Migration App (Fiori)'; (4) Migrasi & Verifikasi — aksen hijau, ikon perisai dengan tanda centang (ABAP Cloud), label 'Fase 4: Migrasi & Verifikasi', sub-label 'ABAP Cloud / SAP BTP'. Gradien keseluruhan dari oranye (kiri, masalah) ke hijau (kanan, kode bersih). Paleta korporat: biru tua Soltius (#003087 atau setara) untuk teks utama dan bingkai, putih untuk latar. Judul di atas: 'Empat Fase Remediasi Custom Code SAP'. Footer kecil: logo Soltius + soltius.co.id. Tidak ada foto — ikon flat design bergaya modern.",
+      "in_image_text_id": [
+        "Empat Fase Remediasi Custom Code SAP",
+        "Fase 1: Inventarisasi",
+        "SAP Readiness Check via SAP for Me",
+        "Fase 2: Analisis",
+        "ABAP Test Cockpit (ATC)",
+        "Fase 3: Triase",
+        "Custom Code Migration App (Fiori)",
+        "Fase 4: Migrasi & Verifikasi",
+        "ABAP Cloud / SAP BTP"
+      ],
+      "alt_id": "Infografis alur empat fase remediasi custom code SAP menuju ABAP Cloud: Inventarisasi, Analisis ATC, Triase, dan Migrasi",
+      "caption_id": "Proses remediasi Z-code SAP terbagi menjadi empat fase berurutan: dari inventarisasi menggunakan SAP Readiness Check, analisis dengan ABAP Test Cockpit, triase per kelompok objek, hingga migrasi ke model ABAP Cloud yang upgrade-safe.",
+      "sourcing_note": "Tidak memerlukan screenshot SAP — ini adalah infografis konseptual. Desainer dapat membuat dari nol menggunakan panduan visual di atas. Untuk ikon alat SAP (SAP for Me, Eclipse ADT), gunakan ikon flat design generik atau minta izin penggunaan aset SAP dari tim Soltius. Jangan mereproduksi logo SAP tanpa izin.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body",
+      "concept_from_writer": "Infografis tabel triase Keep/Eliminate/Rebuild — tiga kolom berwarna berbeda (Keep/Swap = biru muda, Eliminate = abu-abu/merah, Rebuild = hijau), tiap kolom berisi contoh tipe kode dan ikon representatif; format infografis ringkas siap dibagikan tim IT, teks Bahasa Indonesia, gaya korporat bersih",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Tabel triase tiga jalur dengan contoh tipe kode dan rekomendasi cocok disajikan sebagai infografis kolom berwarna — lebih mudah dipindai dan dibagikan tim IT dibanding tabel teks biasa, sekaligus memperkuat kerangka triase sebagai referensi cepat.",
+      "visual_direction": "Infografis vertikal atau landscape (rasio 4:3 atau 1:1 untuk kemudahan berbagi), latar putih bersih. Tiga kolom berdampingan dengan header berwarna kuat: Kolom kiri — 'Keep / Swap API' dengan latar biru muda (#0070C0 atau setara), ikon gembok terbuka dengan panah melingkar (simbol pertukaran); Kolom tengah — 'Eliminate' dengan latar abu-abu gelap atau merah tua (#C00000 atau setara), ikon tempat sampah atau tanda silang; Kolom kanan — 'Rebuild' dengan latar hijau (#00B050 atau setara), ikon bangunan dengan tanda plus atau ikon SAP BTP. Di bawah setiap header: dua hingga tiga contoh tipe kode dalam kotak putih dengan border tipis, teks ukuran kecil Bahasa Indonesia. Contoh isi Kolom Keep: 'Kode kecil dengan released API pengganti tersedia' dan 'Logika utama valid; cukup ganti referensi ke released object'. Contoh isi Kolom Eliminate: 'Dead code (0–1 eksekusi per tahun)' dan 'Fungsi sudah ada di S/4HANA standard'. Contoh isi Kolom Rebuild: 'Logika bisnis unik tanpa padanan di SAP standard' dan 'Extension ditulis ulang di SAP BTP sebagai side-by-side extension'. Judul di atas: 'Triase Z-Code SAP: Pilih Jalur yang Tepat'. Sub-judul kecil: 'Kerangka yang umum digunakan dalam proyek konversi brownfield S/4HANA'. Footer kecil: logo Soltius + soltius.co.id. Tipografi bersih, tanpa foto, flat design korporat biru-putih-hijau.",
+      "in_image_text_id": [
+        "Triase Z-Code SAP: Pilih Jalur yang Tepat",
+        "Kerangka yang umum digunakan dalam proyek konversi brownfield S/4HANA",
+        "Keep / Swap API",
+        "Eliminate",
+        "Rebuild",
+        "Kode kecil dengan released API pengganti tersedia",
+        "Logika utama valid; cukup ganti referensi ke released object",
+        "Dead code (0–1 eksekusi per tahun)",
+        "Fungsi sudah ada di S/4HANA standard",
+        "Logika bisnis unik tanpa padanan di SAP standard",
+        "Extension ditulis ulang di SAP BTP sebagai side-by-side extension"
+      ],
+      "alt_id": "Infografis triase Z-code SAP tiga jalur: Keep atau Swap API (biru), Eliminate (merah), Rebuild ke SAP BTP (hijau)",
+      "caption_id": "Kerangka triase tiga jalur yang umum digunakan dalam proyek konversi brownfield S/4HANA: Keep/Swap API untuk kode yang masih relevan dan punya released API pengganti, Eliminate untuk dead code dan fungsi redundan, serta Rebuild ke SAP BTP untuk logika bisnis unik yang tidak ada padanannya di SAP standard.",
+      "sourcing_note": "Tidak memerlukan screenshot SAP — ini adalah infografis konseptual berbasis kerangka triase. Desainer membuat dari nol sesuai panduan visual di atas. Warna kolom dapat disesuaikan dengan palet brand Soltius selama kontras biru/abu-abu-merah/hijau tetap terbaca dan dapat dibedakan.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

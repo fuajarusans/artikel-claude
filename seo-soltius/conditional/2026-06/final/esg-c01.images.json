@@ -1,0 +1,88 @@
+{
+  "brief_id": "esg-c01",
+  "article_title_id": "Apa Itu ESG dan Mengapa Penting bagi Perusahaan Indonesia",
+  "language": "id",
+  "image_count": 3,
+  "planned_at": "2026-06-17",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "body — setelah paragraf definisi ESG, sebelum H2 'Tiga Pilar ESG'",
+      "concept_from_writer": "Infografik tiga pilar ESG — diagram segitiga atau tiga kolom dengan ikon (daun/bumi untuk Environmental, kelompok orang untuk Social, gedung/neraca untuk Governance). Tiap pilar menampilkan tiga contoh metrik singkat. Gaya korporat bersih, palet hijau-biru, teks Bahasa Indonesia: \"Lingkungan\", \"Sosial\", \"Tata Kelola\".",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Tiga pilar ESG adalah konten definitif dengan label, ikon, dan metrik — format infografik tiga-kolom langsung menyampaikan struktur tanpa butuh foto; cocok untuk CIO yang memindai sekilas.",
+      "visual_direction": "Infografik tiga kolom vertikal berjajar horizontal, lebar penuh. Kolom kiri berwarna hijau tua (#1B5E20 atau setara), tengah biru korporat (#1565C0), kanan biru abu gelap (#37474F). Setiap kolom terdiri dari: (1) ikon besar di atas — kolom kiri: ikon daun/pohon, kolom tengah: ikon tiga siluet orang/komunitas, kolom kanan: ikon gedung kantor atau timbangan hukum; (2) label pilar tebal di bawah ikon dalam Bahasa Indonesia: 'Lingkungan (E)', 'Sosial (S)', 'Tata Kelola (G)'; (3) tiga baris metrik contoh dalam font lebih kecil, masing-masing diawali tanda centang atau titik bulat — kolom E: 'Emisi Scope 1/2/3 (tCO₂e)', 'Intensitas energi (GJ/ton)', 'Volume air daur ulang (%)'; kolom S: 'Tingkat kecelakaan kerja (LTIR)', 'Rasio gender manajemen (%)', 'Perputaran karyawan (%)'; kolom G: 'Komisaris independen (%)', 'Kasus pelanggaran etika', 'Skor audit internal'. Latar belakang putih bersih. Tipografi sans-serif modern. Judul infografik di atas tengah: 'Tiga Pilar ESG' dalam warna biru korporat, ukuran besar. Tidak ada logo vendor yang menonjol. Gaya sesuai brand Soltius: profesional, bersih, korporat.",
+      "in_image_text_id": [
+        "Tiga Pilar ESG",
+        "Lingkungan (E)",
+        "Sosial (S)",
+        "Tata Kelola (G)",
+        "Emisi Scope 1/2/3 (tCO₂e)",
+        "Intensitas energi (GJ/ton)",
+        "Volume air daur ulang (%)",
+        "Tingkat kecelakaan kerja (LTIR)",
+        "Rasio gender manajemen (%)",
+        "Perputaran karyawan (%)",
+        "Komisaris independen (%)",
+        "Kasus pelanggaran etika",
+        "Skor audit internal"
+      ],
+      "alt_id": "Infografik tiga pilar ESG: Lingkungan, Sosial, dan Tata Kelola dengan contoh metrik masing-masing pilar",
+      "caption_id": "ESG terdiri dari tiga pilar yang masing-masing diukur dengan metrik terverifikasi: Lingkungan (emisi, energi, air), Sosial (K3, keberagaman, rantai pasokan), dan Tata Kelola (transparansi, etika, komposisi dewan). Ketiganya saling berkaitan — tata kelola yang lemah biasanya membuat klaim lingkungan sulit dipercaya.",
+      "sourcing_note": "Aset orisinal desain tim — tidak memerlukan screenshot SAP. Gunakan palet korporat Soltius (biru/putih/hijau). Ikon dapat diambil dari library ikon umum (misalnya Material Icons, Feather Icons) dengan lisensi bebas royalti.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body — di dalam H2 'ESG dan Regulasi di Indonesia: Dari POJK 51 hingga Bursa Karbon', setelah tabel regulasi",
+      "concept_from_writer": "Timeline horizontal lanskap regulasi ESG Indonesia — penanda dari 2017 (POJK 51), 2023 (IDXCarbon), Okt 2025 (Perpres 110), Feb 2026 (TKBI v3), hingga 2027 (PSPK 1 & 2 berlaku). Garis menanjak untuk menyiratkan momentum yang meningkat. Gaya infografik bersih, warna progresif biru ke hijau, teks tanggal Bahasa Indonesia.",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Urutan kronologis regulasi dengan tanggal spesifik paling efektif divisualisasikan sebagai timeline — pembaca eksekutif langsung membaca arah momentum tanpa perlu membaca tabel baris demi baris.",
+      "visual_direction": "Timeline horizontal membentang dari kiri ke kanan dengan garis sumbu berwarna gradasi biru muda (#1565C0) ke hijau (#2E7D32). Di atas garis terdapat lima penanda berbentuk lingkaran — bergantian atas dan bawah untuk menghindari tumpang tindih label. Urutan dan label tiap penanda: (1) '27 Juli 2017' di atas, label bawah: 'POJK 51/POJK.03/2017 — Laporan Keberlanjutan wajib'; (2) '26 Sep 2023' di bawah, label atas: 'IDXCarbon — Bursa Karbon Indonesia beroperasi'; (3) '10 Okt 2025' di atas, label bawah: 'Perpres 110/2025 — Nilai Ekonomi Karbon'; (4) '5 Feb 2026' di bawah, label atas: 'TKBI Versi 3 — Taksonomi Keuangan Berkelanjutan'; (5) '1 Jan 2027' di atas dengan bingkai berbeda (putus-putus atau ikon kalender) menandai efektif mendatang, label bawah: 'PSPK 1 & 2 berlaku — Pengungkapan Iklim Wajib'. Garis sumbu sedikit menanjak ke kanan untuk menyiratkan intensitas regulasi yang meningkat. Warna penanda berubah progresif: biru tua (2017) → biru cerah (2023) → biru-hijau (2025) → hijau (2026) → hijau tua (2027). Latar belakang putih. Judul di atas: 'Lanskap Regulasi ESG Indonesia: 2017–2027'. Tipografi sans-serif, bersih. Tidak ada logo OJK/BEI yang menonjol — hanya nama regulasi.",
+      "in_image_text_id": [
+        "Lanskap Regulasi ESG Indonesia: 2017–2027",
+        "27 Juli 2017",
+        "POJK 51/POJK.03/2017 — Laporan Keberlanjutan wajib",
+        "26 Sep 2023",
+        "IDXCarbon — Bursa Karbon Indonesia beroperasi",
+        "10 Okt 2025",
+        "Perpres 110/2025 — Nilai Ekonomi Karbon",
+        "5 Feb 2026",
+        "TKBI Versi 3 — Taksonomi Keuangan Berkelanjutan",
+        "1 Jan 2027",
+        "PSPK 1 & 2 berlaku — Pengungkapan Iklim Wajib"
+      ],
+      "alt_id": "Timeline regulasi ESG Indonesia dari POJK 51 tahun 2017 hingga berlakunya PSPK 1 dan 2 pada 2027",
+      "caption_id": "Regulasi ESG Indonesia bukan satu aturan tunggal, melainkan lapisan yang terus bertambah sejak POJK 51 ditetapkan pada 2017. Dengan PSPK 1 & 2 berbasis IFRS S2 yang berlaku efektif 1 Januari 2027, kerangka pelaporan akan semakin ketat dan spesifik — terutama untuk pengungkapan iklim.",
+      "sourcing_note": "Aset orisinal desain tim — tidak memerlukan screenshot SAP atau sistem eksternal. Semua tanggal dan nama regulasi sudah terverifikasi dalam dossier; pastikan tim desain menggunakan data ini verbatim agar tidak ada tanggal yang keliru.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_03",
+      "position": "body — di dalam H2 'ESG Bukan Sekadar Branding: Mengapa Data yang Dapat Diaudit Menentukan', setelah paragraf yang menyebut SAP Sustainability Control Tower dan SAP Green Ledger",
+      "concept_from_writer": "Diagram alur \"dari data ke laporan ESG\" — tiga kolom: SUMBER (ikon ERP/S/4HANA, sistem HR, sensor IoT/meteran utilitas) → KONSOLIDASI (data warehouse / sustainability control tower) → OUTPUT (Laporan Keberlanjutan audit-ready, anggaran karbon, dashboard ESG). Panah alur jelas, gaya korporat, palet biru-hijau, teks Bahasa Indonesia. Hindari logo vendor yang menonjol; fokus pada alur data.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Alur data dari sumber ke output adalah arsitektur tiga-lapis yang paling jelas disampaikan sebagai diagram alur — ini adalah inti argumen 'ESG sebagai masalah sistem', bukan sekadar konsep yang bisa difoto.",
+      "visual_direction": "Diagram alur tiga kolom horizontal dengan panah besar yang menghubungkan setiap kolom. Latar belakang putih bersih. Kolom 1 — 'SUMBER DATA' (header biru tua, #1565C0): tiga kotak bertumpuk — kotak atas ikon server/ERP dengan label 'ERP / S/4HANA', kotak tengah ikon profil karyawan dengan label 'Sistem HR', kotak bawah ikon sensor/stopwatch/meteran dengan label 'Sensor IoT & Meteran Utilitas'. Kolom 2 — 'KONSOLIDASI' (header biru-hijau, #00695C): satu kotak besar di tengah dengan ikon gudang data/server cluster, label dua baris: 'Platform Keberlanjutan' dan '(Sustainability Control Tower / Data Warehouse)'. Kolom 3 — 'OUTPUT' (header hijau tua, #2E7D32): tiga kotak bertumpuk — kotak atas ikon dokumen dengan tanda centang, label 'Laporan Keberlanjutan Audit-Ready'; kotak tengah ikon grafik batang/karbon, label 'Anggaran & Pelacakan Karbon'; kotak bawah ikon dashboard/layar, label 'Dashboard KPI ESG'. Dua panah tebal — satu dari kolom 1 ke kolom 2, satu dari kolom 2 ke kolom 3 — berwarna gradasi biru ke hijau. Di bawah diagram, satu baris catatan kecil dalam huruf miring: 'Data dari sistem inti, bukan rekap spreadsheet, adalah fondasi laporan yang dapat diaudit.' Tidak ada logo SAP, Soltius, atau vendor lain yang menonjol — label generik diutamakan.",
+      "in_image_text_id": [
+        "SUMBER DATA",
+        "ERP / S/4HANA",
+        "Sistem HR",
+        "Sensor IoT & Meteran Utilitas",
+        "KONSOLIDASI",
+        "Platform Keberlanjutan",
+        "(Sustainability Control Tower / Data Warehouse)",
+        "OUTPUT",
+        "Laporan Keberlanjutan Audit-Ready",
+        "Anggaran & Pelacakan Karbon",
+        "Dashboard KPI ESG",
+        "Data dari sistem inti, bukan rekap spreadsheet, adalah fondasi laporan yang dapat diaudit."
+      ],
+      "alt_id": "Diagram alur data ESG: dari sumber ERP dan sistem HR ke platform konsolidasi hingga laporan keberlanjutan audit-ready",
+      "caption_id": "Data ESG yang andal tidak lahir dari rekap spreadsheet menjelang tenggat, melainkan dari sistem inti — ERP, HR, dan sensor operasional — yang mengalir ke satu platform konsolidasi. Dari sana, laporan keberlanjutan, anggaran karbon, dan dashboard KPI dapat dihasilkan dengan kontrol audit yang setara data keuangan.",
+      "sourcing_note": "Aset orisinal desain tim — TIDAK memerlukan screenshot SAP. Diagram ini bersifat konseptual dan generik; label menggunakan istilah umum ('Platform Keberlanjutan', 'ERP') agar tidak mengklaim tampilan produk SAP tertentu. Jika tim desain ingin menyertakan nama produk spesifik (mis. 'SAP Sustainability Control Tower'), pastikan ini disetujui tim Soltius/SAP dan JANGAN merekayasa tampilan UI SAP — gunakan teks label saja, bukan tangkapan layar.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

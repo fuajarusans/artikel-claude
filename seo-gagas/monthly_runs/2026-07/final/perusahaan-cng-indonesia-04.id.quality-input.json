@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07\\final\\perusahaan-cng-indonesia-04.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-09T15:41:40+07:00",
+    "word_count":  1643,
+    "paragraph_count":  16,
+    "sentence_count":  82,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.444,
+                        "sentence_burstiness":  0.982,
+                        "top30_vocab_share":  0.274,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.444 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Penyangga titik pasok pun diperluas: pada 2025 PGN Gagas membangun Mother Station CNG Medan (1 MMSCFD) dan LNG Hub Bandung (0,5 MMSCFD).",
+                                      "candidate_score":  41,
+                                      "web_search_query":  "\"Penyangga titik pasok pun diperluas: pada 2025 PGN Gagas membangun Mother Station CNG Medan (1 MMSCFD) dan LNG Hub Bandu\""
+                                  },
+                                  {
+                                      "passage":  "32/2021** (inspeksi teknis instalasi migas), **Kepmen ESDM 176.K/2024** tentang Sistem Manajemen Keselamatan Migas (SMKM, berlaku 25 Januari 2025), dan **ISO 45001:2018** (manajemen K3 yang dapat diaudit pihak ketiga).",
+                                      "candidate_score":  36,
+                                      "web_search_query":  "\"32/2021** (inspeksi teknis instalasi migas), **Kepmen ESDM 176.K/2024** tentang Sistem Manajemen Keselamatan Migas (SMKM\""
+                                  },
+                                  {
+                                      "passage":  "Dirjen Migas (CNBC Indonesia, 19 Mei 2026) menyebut risiko kebakaran CNG relatif lebih rendah.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Dirjen Migas (CNBC Indonesia, 19 Mei 2026) menyebut risiko kebakaran CNG relatif lebih rendah.\""
+                                  },
+                                  {
+                                      "passage":  "## Standar \u0026 Sertifikasi Keselamatan yang Wajib Dipenuhi Penyedia CNG Untuk menilai keselamatan layanan distribusi CNG ke lokasi industri, tiga acuan yang relevan adalah **Permen ESDM No.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## Standar \u0026 Sertifikasi Keselamatan yang Wajib Dipenuhi Penyedia CNG Untuk menilai keselamatan layanan distribusi CNG k\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai gambaran, infrastruktur PGN sebagai induk grup menjaga keandalan di level 99,9% dengan Tim Penanganan Gangguan bersiaga 24 jam (PGN via ANTARA, 2025).",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Sebagai gambaran, infrastruktur PGN sebagai induk grup menjaga keandalan di level 99,9% dengan Tim Penanganan Gangguan b\""
+                                  },
+                                  {
+                                      "passage":  "Penyedia andal dapat menjelaskan sumber gas, kapasitas Mother Station, rencana cadangan armada GTM, pemantauan tekanan *real-time*, serta SLA dengan waktu respons tertulis.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Penyedia andal dapat menjelaskan sumber gas, kapasitas Mother Station, rencana cadangan armada GTM, pemantauan tekanan *\""
+                                  },
+                                  {
+                                      "passage":  "\"Aman\" diterjemahkan menjadi sertifikat berlingkup tepat dan inspeksi sesuai Permen ESDM 32/2021; \"andal\" menjadi kapasitas Mother Station, redundansi armada, telemetri, dan SLA tertulis.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\" Aman  diterjemahkan menjadi sertifikat berlingkup tepat dan inspeksi sesuai Permen ESDM 32/2021;  andal  menjadi kapasi\""
+                                  },
+                                  {
+                                      "passage":  "Risiko utama meliputi kebocoran (dimitigasi detektor gas, ventilasi, inspeksi), tekanan berlebih (*Pressure Relief Device* dan pemeriksaan PRS rutin), kegagalan komponen, serta kesalahan operator.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Risiko utama meliputi kebocoran (dimitigasi detektor gas, ventilasi, inspeksi), tekanan berlebih (*Pressure Relief Devic\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

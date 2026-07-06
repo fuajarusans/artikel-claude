@@ -1,0 +1,81 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-06\\final\\digital-manufacturing-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-03T01:35:12+07:00",
+    "word_count":  1351,
+    "paragraph_count":  27,
+    "sentence_count":  78,
+    "ai_detector":  {
+                        "score":  0.19,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.407,
+                        "sentence_burstiness":  0.686,
+                        "top30_vocab_share":  0.32,
+                        "flags":  [
+                                      {
+                                          "pattern":  "em-dash-overuse",
+                                          "severity":  "medium",
+                                          "snippet":  "Em-dashes count: 5 (max 2)",
+                                          "line":  -1
+                                      },
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.407 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "### Apakah SAP Digital Manufacturing Cloud bisa diintegrasikan dengan SAP S/4HANA on-premise?",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"### Apakah SAP Digital Manufacturing Cloud bisa diintegrasikan dengan SAP S/4HANA on-premise?\""
+                                  },
+                                  {
+                                      "passage":  "**Layer 2 — MES/Execution.** Di lapisan tengah, **SAP Digital Manufacturing (SAP DM)** mengelola eksekusi produksi berbasis cloud: *shop floor control*, pemantauan OEE, *traceability*, *paperless production*, dan manajemen kualitas.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"**Layer 2 — MES/Execution.** Di lapisan tengah, **SAP Digital Manufacturing (SAP DM)** mengelola eksekusi produksi berba\""
+                                  },
+                                  {
+                                      "passage":  "Production order dari S/4HANA mengalir otomatis ke SAP DM; konfirmasi aktual produksi dikirim kembali real-time tanpa input manual (SAP Help Documentation, 2026).",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Production order dari S/4HANA mengalir otomatis ke SAP DM; konfirmasi aktual produksi dikirim kembali real-time tanpa in\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai SAP Platinum Partner melalui United VARs, Soltius mendampingi perusahaan manufaktur dari asesmen kesiapan shop floor hingga implementasi SAP Digital Manufacturing dan dukungan pasca go-live.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Sebagai SAP Platinum Partner melalui United VARs, Soltius mendampingi perusahaan manufaktur dari asesmen kesiapan shop f\""
+                                  },
+                                  {
+                                      "passage":  "## Yang Sering Salah: Pasang MES Sebelum ERP Beres Bagian ini jarang ditulis, padahal di sinilah banyak proyek digital manufacturing berakhir mengecewakan.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Yang Sering Salah: Pasang MES Sebelum ERP Beres Bagian ini jarang ditulis, padahal di sinilah banyak proyek digital m\""
+                                  },
+                                  {
+                                      "passage":  "## Apa Perbedaan MES dan ERP — dan Mengapa Keduanya Harus Berdialog?",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Apa Perbedaan MES dan ERP — dan Mengapa Keduanya Harus Berdialog?\""
+                                  },
+                                  {
+                                      "passage":  "Ketika manajer membuka laporan jam 9 pagi, ia melihat kondisi pabrik jam 6 sore kemarin.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Ketika manajer membuka laporan jam 9 pagi, ia melihat kondisi pabrik jam 6 sore kemarin.\""
+                                  },
+                                  {
+                                      "passage":  "Dalam berbagai implementasi MES-ERP yang terdokumentasi, peningkatan OEE (*Overall Equipment Effectiveness*) berkisar 15–25 poin persentase setelah integrasi real-time diterapkan.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Dalam berbagai implementasi MES-ERP yang terdokumentasi, peningkatan OEE (*Overall Equipment Effectiveness*) berkisar 15\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

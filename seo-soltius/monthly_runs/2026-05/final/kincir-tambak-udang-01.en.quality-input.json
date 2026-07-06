@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "C:\\Users\\seo\\Documents\\seo-stp\\monthly_runs\\2026-05\\final\\kincir-tambak-udang-01.en.md",
+    "language":  "en",
+    "generated_at":  "2026-05-26T15:17:21+07:00",
+    "word_count":  2880,
+    "paragraph_count":  38,
+    "sentence_count":  160,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.519,
+                        "sentence_burstiness":  0.718,
+                        "top30_vocab_share":  0.206,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "FAO data document significant field mortality once DO falls to 2.7 ppm, and mass kills below 1.2 ppm ([FAO Penaeid Shrimp Manual](https://www.fao.org/4/ac006e/AC006E04.htm)).",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"FAO data document significant field mortality once DO falls to 2.7 ppm, and mass kills below 1.2 ppm ([FAO Penaeid Shrim\""
+                                  },
+                                  {
+                                      "passage":  "## Frequently Asked Questions ### What does a 2 HP shrimp pond paddlewheel consume per month?",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"## Frequently Asked Questions ### What does a 2 HP shrimp pond paddlewheel consume per month?\""
+                                  },
+                                  {
+                                      "passage":  "Once biomass crosses 50 percent of peak target, 20 to 24 hour operation becomes standard, particularly from 22:00 through 09:00 when photosynthesis stops but respiration continues.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Once biomass crosses 50 percent of peak target, 20 to 24 hour operation becomes standard, particularly from 22:00 throug\""
+                                  },
+                                  {
+                                      "passage":  "Example: 500,000 shrimp at 15 g average equals 7,500 kg, divided by 500 equals 15 HP minimum, scaled up to roughly 18 to 20 HP installed.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Example: 500,000 shrimp at 15 g average equals 7,500 kg, divided by 500 equals 15 HP minimum, scaled up to roughly 18 to\""
+                                  },
+                                  {
+                                      "passage":  "An intensive 1-hectare pond running 16 units of 2 HP paddlewheels for 20 hours per day consumes around 17,000 to 22,000 kWh per month on aeration alone.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"An intensive 1-hectare pond running 16 units of 2 HP paddlewheels for 20 hours per day consumes around 17,000 to 22,000 \""
+                                  },
+                                  {
+                                      "passage":  "## Operational Benefits: What Goes Wrong When Aeration Is Light The numbers speak.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Operational Benefits: What Goes Wrong When Aeration Is Light The numbers speak.\""
+                                  },
+                                  {
+                                      "passage":  "Assume average harvest weight of 15 grams, so peak biomass equals 7,500 kg.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Assume average harvest weight of 15 grams, so peak biomass equals 7,500 kg.\""
+                                  },
+                                  {
+                                      "passage":  "KKP research published in *Media Akuakultur* recorded FCR of 1.36 at 1,000 shrimp per square meter and 1.40 at 750.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"KKP research published in *Media Akuakultur* recorded FCR of 1.36 at 1,000 shrimp per square meter and 1.40 at 750.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

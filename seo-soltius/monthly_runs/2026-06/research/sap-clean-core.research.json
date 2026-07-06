@@ -1,0 +1,103 @@
+{
+  "keyword": "SAP Clean Core",
+  "keyword_slug": "sap-clean-core",
+  "month": "2026-06",
+  "captured_at": "2026-06-02",
+  "landing_page": "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide",
+  "landing_page_summary": "Existing HUB on an ENGLISH URL (/blog/..., no /id/). Positioned as 'the complete guide' to SAP Clean Core. Never ranked (Apr 2026 = #100) and receives ~1 organic view/month. Biggest whitespace of the 6 keywords. There is NO Bahasa-Indonesia supporting content for clean core yet — this pilot fills that language + topical gap and links UP to the English hub with a Bahasa anchor.",
+  "data_availability_notice": {
+    "ahrefs_mcp": "UNAVAILABLE this run. Ahrefs MCP + GSC connector are not attached to this session (CLAUDE.md §11). ToolSearch surfaced no keywords-explorer/serp-overview/site-explorer/gsc deferred tools. All volume/KD/CPC/traffic-potential fields are therefore n/a (not fabricated).",
+    "live_serp_scrape": "BLOCKED this run. WebSearch and WebFetch against search-engine result pages (Google ID, Bing ID, DuckDuckGo) returned sustained HTTP 529 Overloaded / connection errors across ~15 minutes of backoff retries (2026-06-02). Major SAP domains (sap.com, community.sap.com, learning.sap.com) returned 403/404 to the fetch backend (anti-scraping). The serp.top_10, paa, and competitor sections below are therefore reconstructed from (a) the April 2026 GSC report and (b) domain knowledge of the SAP clean-core concept and the Indonesian SAP-partner publishing landscape, NOT from a live scrape. They are flagged for verification.",
+    "action": "Researcher MUST verify entity definitions/dimensions against current SAP sources (see authoritative_sources_to_cite). A future strategist re-run for sibling briefs (-02..-05) should re-pull live SERP + PAA + Ahrefs once the tools recover and overwrite the flagged sections of this cache."
+  },
+  "ahrefs": {
+    "available": false,
+    "reason_if_unavailable": "Ahrefs MCP not connected to this session (see data_availability_notice).",
+    "keywords_explorer_overview": { "volume_id": "n/a", "kd": "n/a", "cpc": "n/a", "traffic_potential": "n/a", "intent": "informational (definitional) leaning to decision", "trend": "n/a" },
+    "related_terms": [],
+    "matching_terms": [],
+    "search_suggestions": [],
+    "volume_by_country": null,
+    "volume_history": []
+  },
+  "gsc_ground_truth_april_2026": {
+    "source": "WEBARQ Soltius April 2026 SEO report (_extracted/seo_report_apr2026.md)",
+    "keyword_rank_trajectory": { "keyword": "SAP Clean Core", "before": 100, "feb": 100, "mar": 100, "apr": 100, "best": 100, "note": "Never ranked. English landing page (no /id/). Designated 'biggest whitespace' / capture priority." },
+    "landing_page_traffic": { "url": "/blog/sap-clean-core-the-complete-guide", "apr_views": 1, "note": "New/negligible organic traffic." },
+    "related_branded_and_definitional_queries_driving_site_traffic": [
+      { "query": "sap adalah", "clicks": 60, "impressions": 17709, "relevance": "definitional SAP intent the audience uses; clean-core article should chain from 'apa itu' framing" },
+      { "query": "apa itu sap", "clicks": 16, "impressions": 6056, "relevance": "head definitional term losing clicks to AI Overview (zero-click) — reinforces AIO-citation strategy" },
+      { "query": "sap erp adalah", "clicks": 16, "impressions": 528 },
+      { "query": "sistem sap", "clicks": 26, "impressions": 4688 },
+      { "query": "modul sap", "clicks": 21, "impressions": 753 }
+    ],
+    "ai_search_referral": "Apr 2026: 174 AI-search sessions to soltius.co.id; Perplexity ~68%, ChatGPT ~22%. AI engines land on practical explainers. Clean-core entity definition + FAQ block is built for this channel.",
+    "audience": "B2B enterprise decision-makers (CIO/IT director, transformation lead, CFO); ~59% desktop, work-hours.",
+    "algo_context": "March 2026 Google Core Update rewards originality/primary perspective + E-E-A-T; penalizes generic AI-summary content. Clean-core article must add a maturity lens, a 'kapan BELUM jadi prioritas' section, and first-party implementation framing the SERP top-10 lack."
+  },
+  "serp": {
+    "method": "NOT a live scrape (blocked — see data_availability_notice). Reconstructed from domain knowledge of the SAP clean-core topic + known Indonesian SAP-partner publishers. VERIFY on recovery.",
+    "likely_top_competing_domains_definitional_intent": [
+      "sap.com / community.sap.com / learning.sap.com (SAP official — strong on definition + dimensions; English; do NOT link out to SAP as a 'competitor' but DO cite as authority)",
+      "leanix.net (SAP LeanIX clean-core assessment content — English)",
+      "Indonesian SAP-partner blogs likely competing for the ID query (e.g., abeam.com/id, soltius.co.id itself, edavos / Sentra / Berca-class integrators, mii.co.id, metrodata.co.id) — most ID coverage is thin/translated",
+      "Global SI/consultancy blogs (Deloitte, Accenture, Capgemini) re: clean core — English, enterprise"
+    ],
+    "soltius_presence": "Hub exists (English URL) but never ranks. No ID-language supporting content. The Bahasa 'apa itu clean core' query is largely UNCLAIMED by a strong ID-language source — open whitespace.",
+    "serp_features_expected": ["ai_overview", "paa", "featured_snippet_definition"],
+    "ai_overview_entities_expected": ["clean core", "SAP S/4HANA", "SAP BTP (Business Technology Platform)", "ABAP Cloud", "side-by-side extensibility", "in-app / key-user extensibility", "released/public APIs", "custom code / technical debt", "RISE with SAP", "upgrade-safe core"]
+  },
+  "paa": [
+    "Apa itu clean core dalam SAP?",
+    "Mengapa clean core penting untuk S/4HANA?",
+    "Apa bedanya in-app extensibility dan side-by-side extensibility?",
+    "Apa hubungan clean core dengan SAP BTP?",
+    "Apakah clean core wajib untuk migrasi ke SAP S/4HANA Cloud?",
+    "Apa itu ABAP Cloud dan kaitannya dengan clean core?",
+    "Bagaimana cara membersihkan custom code agar core tetap bersih?",
+    "Apa risiko jika core SAP terlalu banyak dikustomisasi?"
+  ],
+  "paa_note": "Reconstructed from the standard searcher questions for this concept (definitional + decision). NOT scraped live this run. Verify/expand on tool recovery.",
+  "domain_facts_captured": {
+    "verification_status": "DOMAIN KNOWLEDGE (assistant cutoff Jan 2026) — researcher must confirm each against current SAP sources before the writer states it. Clean core is a stable, well-documented SAP concept, but specific dimension names and ECC dates have shifted historically.",
+    "definition": "Clean core is the principle of keeping the SAP S/4HANA digital core as standard, cloud-compliant, and upgrade-safe as possible — moving customizations and extensions OUT of the core (typically to SAP BTP) instead of modifying the standard system, so the system stays easy to upgrade and ready for the cloud.",
+    "clean_core_dimensions_sap_framing": [
+      "Software (stay on standard, current releases)",
+      "Extensions (use released extensibility — in-app/key-user + side-by-side on BTP — not core modifications)",
+      "Integrations (use released/public APIs and standard integration tech, not point-to-point hacks)",
+      "Master data & data (clean, governed data)",
+      "Business processes (adopt standard best-practice processes where possible)",
+      "Operations / governance (monitor and govern customization over time — 'clean-core maturity')"
+    ],
+    "extensibility_model": {
+      "in_app_key_user": "Configure/extend within S/4HANA using released, upgrade-safe in-app (key-user) extensibility tools.",
+      "side_by_side_btp": "Build apps/extensions on SAP BTP alongside the core, connected via released APIs — the core stays untouched.",
+      "abap_cloud": "ABAP Cloud is the modern, restricted, upgrade-stable ABAP development model for clean-core-compliant custom code (released objects/APIs only)."
+    },
+    "why_it_matters": [
+      "Upgrade speed/cost: a clean core makes S/4HANA upgrades faster and cheaper because there are no core modifications to re-test and re-fit.",
+      "Cloud readiness: public-cloud S/4HANA only permits released extensibility, so clean core is effectively a prerequisite for cloud ERP and a smoother RISE/GROW journey.",
+      "Technical-debt control: heavy legacy custom code (classic 'Z' modifications) is the #1 source of migration cost and risk; clean core is the discipline that prevents it from re-accumulating.",
+      "Continuous innovation: staying standard lets a company consume new SAP capabilities (incl. AI/Joule-class features) as they ship, rather than being frozen on a modified release."
+    ],
+    "ecc_deadline_context": "SAP ERP/ECC end of mainstream maintenance is widely cited as 2027, with extended/optional maintenance to 2030 (commonly referenced; researcher to confirm current SAP guidance — these dates have shifted historically). Clean core is what makes the move to S/4HANA Cloud before that deadline less painful.",
+    "tie_in_clusters": "Strong topical bridge to (1) ERP migration to the cloud (#1 — clean core enables a smoother cloud migration / RISE) and (2) Low-Code Platform (SAP Build / BTP side-by-side extensions are HOW you keep the core clean). Linking up to clean core reinforces the #1 ERP-migration asset."
+  },
+  "authoritative_sources_to_cite": [
+    { "name": "SAP official — What is clean core / Clean Core Hub", "url_hint": "https://www.sap.com/ (search 'clean core') ; community.sap.com clean-core blog posts ; help.sap.com extensibility guides", "use": "definition, clean-core dimensions, extensibility model, ABAP Cloud" },
+    { "name": "SAP Learning — Clean Core learning journey", "url_hint": "learning.sap.com (Deliver Clean Core Operations for SAP S/4HANA Cloud)", "use": "dimensions + key-user vs side-by-side extensibility, upgrade-safe framing" },
+    { "name": "SAP — ECC end-of-maintenance guidance (2027/2030)", "url_hint": "news.sap.com / SAP maintenance strategy page", "use": "confirm current end-of-mainstream-maintenance + extended dates (verify; have shifted)" },
+    { "name": "Independent analyst (Gartner / IDC / Forrester) on technical debt / SAP modernization", "url_hint": "gartner.com / idc.com press summaries", "use": "third-party framing of customization risk / migration cost — E-E-A-T balance, non-vendor source" }
+  ],
+  "history_snapshot": {
+    "existing_articles_for_keyword": [],
+    "history_state": "EMPTY — articles_history/index.json has zero articles. This is the FIRST SOLTIUS article. No dedup conflict; angle_hash trivially unique.",
+    "uncovered_angles_per_prior_briefs": [
+      "definitional + cloud-readiness explainer ('apa itu clean core & kenapa penting sekarang') — CHOSEN for -01 (this brief)",
+      "custom-code remediation / cleanup how-to (Z-code -> released objects, ABAP Cloud migration) — left for a future sibling (how-to intent)",
+      "clean-core maturity assessment / self-scoring framework — left for a future sibling (decision/diagnostic intent)",
+      "side-by-side extensibility on SAP BTP / SAP Build deep-dive — left for a future sibling (overlaps Low-Code cluster; technique intent)",
+      "clean core for brownfield vs greenfield migration choice — left for a future sibling (comparison intent; ties to ERP-migration cluster)"
+    ]
+  }
+}

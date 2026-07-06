@@ -1,0 +1,104 @@
+{
+  "keyword": "Data Warehouse Solutions",
+  "keyword_slug": "data-warehouse-solutions",
+  "month": "2026-08",
+  "captured_at": "2026-06-08",
+  "landing_page": "https://www.soltius.co.id/id/blog/data-warehouse-solutions",
+  "landing_page_summary": "Hub adalah panduan teknis luas yang membandingkan ~7 platform data warehouse untuk 2026 (SAP BW/4HANA, Snowflake, Google BigQuery, Amazon Redshift, Cloudera, Teradata, IBM Db2), plus perbedaan arsitektur warehouse vs data lake vs data mart dan kriteria pemilihan + tabel use-case. Implikasi: artikel pendukung harus lebih dalam/sempit dari perbandingan head-term ini (bukan mengulang 'apa itu' atau 'platform mana yang terbaik').",
+  "data_sources_used": ["seo_report_apr2026.md", "websearch", "live_serp_via_websearch", "hub_webfetch"],
+  "ahrefs_available": false,
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Topik 'cloud data warehouse', 'real-time/streaming', dan 'data warehouse untuk AI' naik kuat di 2026; SAP Business Data Cloud (Databricks) GA H2 2026 jadi tema dominan (sumber: news.sap.com, databricks.com).",
+    "apr2026_rank": 48,
+    "rank_trajectory": "before 100 -> Feb 67 -> Mar 69 -> Apr 48 (naik perlahan; butuh kedalaman + internal links)"
+  },
+  "serp": {
+    "note": "WebFetch langsung ke google.com/search diblokir (mengembalikan halaman akses). SERP/PAA didekati lewat WebSearch pada keyword + query turunan (jalur degradasi sesuai playbook).",
+    "top_organic_observed": [
+      { "url": "https://www.sangfor.com/id/blog/cloud-and-infrastructure/manfaat-data-warehouse", "title": "8 Manfaat Data Warehouse untuk Bisnis Anda", "angle_summary": "Listicle manfaat generik, tanpa konteks SAP/enterprise Indonesia." },
+      { "url": "https://www.cloudcomputing.id/pengetahuan-dasar/apa-itu-data-warehouse", "title": "Apa Itu Data Warehouse? Pengertian dan Fungsinya untuk Perusahaan", "angle_summary": "Definisi dasar + fungsi; vendor-neutral, dangkal." },
+      { "url": "https://www.jurnal.id/id/blog/contoh-data-warehouse-sbc/", "title": "Pengertian, Fungsi, Konsep dan Contoh Data Warehouse - Mekari Jurnal", "angle_summary": "Definisi + contoh; orientasi UKM/akuntansi." },
+      { "url": "https://www.soltius.co.id/id/blog/Pengertian-Data-Warehouse-Manfaat-Komponen-dan-Jenisnya", "title": "Pengertian Data Warehouse, Manfaat, Komponen, dan Jenisnya (Soltius)", "angle_summary": "Artikel definisi milik Soltius sendiri yang sudah ranking — kandidat DOWN-link internal; konfirmasi ruang definisi sudah jenuh." },
+      { "url": "https://www.sekawanmedia.co.id/blog/data-warehouse/", "title": "Data Warehouse: Fungsi, Cara Kerja, 5 Komponen, dan 3 Jenis", "angle_summary": "Definisi + komponen + jenis; generik." },
+      { "url": "https://phincon.com/articles/data-warehouse-adalah/", "title": "Data Warehouse adalah ... (PhinCon)", "angle_summary": "Definisi + inovasi pengelolaan informasi; vendor lokal." }
+    ],
+    "serp_features": ["paa", "ai_overview_likely"],
+    "serp_reading": "SERP head-term 'data warehouse' didominasi konten definisi generik berbahasa Indonesia (sangfor, cloudcomputing.id, sekawan, mekari, phincon) + satu artikel definisi milik Soltius. Whitespace nyata = konten keputusan/spesifik yang TIDAK ada: TCO/biaya, real-time vs batch, migrasi DW legacy, per-industri, fondasi AI/ML. Inilah arah 5 brief baru.",
+    "ai_overview_entities": ["data warehouse", "OLAP", "ETL", "single source of truth", "cloud data warehouse", "SAP Datasphere", "data lakehouse", "data mining"]
+  },
+  "paa": [
+    "Apa itu data warehouse dan apa fungsinya untuk perusahaan?",
+    "Berapa biaya membangun data warehouse?",
+    "Apa perbedaan data warehouse on-premise dan cloud?",
+    "Apa perbedaan batch dan real-time data warehouse?",
+    "Bagaimana cara migrasi dari data warehouse lama (Teradata/Oracle) ke cloud?",
+    "Apa itu SAP Business Data Cloud?",
+    "Apakah data warehouse diperlukan untuk AI dan machine learning?",
+    "Apa itu master data management dan kaitannya dengan data warehouse?",
+    "Industri apa saja yang membutuhkan data warehouse?",
+    "Apa perbedaan data warehouse, data lake, dan data lakehouse?"
+  ],
+  "gsc_style_queries_from_report": [
+    "sap adalah (60 klik / 17.709 impresi) — definisi-query dominan; format 'X adalah' tetap penting untuk snippet",
+    "sistem sap (26 / 4.688)",
+    "Tidak ada baris GSC spesifik 'data warehouse' di laporan April; landing page traffic 'negligible' — pipeline pendukung memang untuk membangun otoritas topik."
+  ],
+  "key_facts_for_researchers_to_verify": [
+    "SAP BW/4HANA: mainstream maintenance rilis 2023 s.d. 31 Des 2030; komitmen SAP maintenance BW/4HANA setidaknya s.d. 2040 (selaras S/4HANA). Sumber: sap.com docs + community.sap.com. VERIFY tanggal terkini.",
+    "SAP BW 7.5 (legacy): mainstream s.d. 2027, extended s.d. 2030 (biaya tambahan). VERIFY.",
+    "SAP Business Data Cloud (BDC): diluncurkan 13 Feb 2025; SAP Databricks sebagai komponen native; SAP BDC Connect for Databricks GA direncanakan H2 2026; zero-copy via Delta Sharing; integrasi BigQuery/Snowflake/Microsoft Fabric direncanakan akhir 2026. Sumber: news.sap.com (2026-05), databricks.com. VERIFY status GA terkini saat menulis.",
+    "Statistik AI-readiness: 'hanya 7% enterprise menilai datanya benar-benar siap untuk AI' — sumber sekunder (ewsolutions/quicklaunch). CARI sumber primer (mis. survei vendor besar / Gartner/IDC) sebelum dikutip.",
+    "MDM ROI: '303% ROI 3 tahun, payback <12 bulan' — sumber sekunder (profisee/Forrester TEI). VERIFY ke studi Forrester TEI asli.",
+    "Statistik 'bisnis kehilangan 15-25% pendapatan akibat masalah data' — VERIFY sumber primer.",
+    "Confluent terintegrasi native dengan SAP Datasphere (streaming/Kafka) — VERIFY scope via confluent.com / help.sap.com.",
+    "Klaim 'organisasi dengan analitik matang mengambil keputusan 30% lebih cepat' — VERIFY sumber."
+  ],
+  "lsi_pool": [
+    "gudang data", "single source of truth", "ETL", "ELT", "OLAP", "data mart",
+    "SAP Datasphere", "SAP BW/4HANA", "SAP HANA Cloud", "SAP Business Data Cloud",
+    "cloud data warehouse", "on-premise", "TCO", "OpEx", "CapEx", "consumption-based pricing",
+    "real-time analytics", "batch processing", "streaming data", "change data capture (CDC)",
+    "data federation", "data replication", "data lakehouse", "medallion architecture",
+    "master data management", "data quality", "data governance", "semantic layer",
+    "AI-ready data", "machine learning", "Databricks", "Delta Sharing", "zero-copy",
+    "Teradata", "Oracle", "data migration", "parallel run", "decommission",
+    "OLAP cube", "data modeling", "business intelligence", "data silo"
+  ],
+  "cousins_chosen_this_month": [
+    { "keyword": "Business Intelligence", "url": "https://www.soltius.co.id/id/blog/business-intelligence", "why": "BI mengkonsumsi data dari data warehouse — pasangan cousin terkuat." },
+    { "keyword": "ERP migration to the cloud", "url": "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud", "why": "ERP (S/4HANA) adalah sumber data utama; lapisan data di cloud sejalan dengan migrasi ERP." }
+  ],
+  "optional_down_links": [
+    "https://www.soltius.co.id/id/blog/Pengertian-Data-Warehouse-Manfaat-Komponen-dan-Jenisnya (artikel definisi Soltius yang sudah ranking — pakai sebagai DOWN-link bila konteks 'apa itu' muncul)"
+  ],
+  "soltius_anchor": {
+    "service": "Data and AI Consulting (Supports) + Data Management solution",
+    "credibility": "SAP Platinum Partner via United VARs; Data and AI Consulting; AMS pasca go-live; pengalaman lintas industri (manufaktur, distribusi, perkebunan, ritel).",
+    "framing_rule": "Soltius mengimplementasikan/merancang/memigrasikan/mendukung — bukan membuat SAP Datasphere/BW/BDC. Maks 2-3 sebut Soltius, umumnya di penutup."
+  },
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      { "id": "2026-06-data-warehouse-solutions-01", "angle": "definisi-manfaat-enterprise-indonesia", "intent": "informational" },
+      { "id": "2026-06-data-warehouse-solutions-02", "angle": "data-warehouse-vs-data-lake-vs-lakehouse", "intent": "comparison" },
+      { "id": "2026-06-data-warehouse-solutions-03", "angle": "roadmap-implementasi-etl-5-fase", "intent": "how-to" },
+      { "id": "2026-06-data-warehouse-solutions-04", "angle": "sap-datasphere-vs-bw4hana-pemilihan", "intent": "comparison" },
+      { "id": "2026-06-data-warehouse-solutions-05", "angle": "data-governance-uu-pdp", "intent": "informational" }
+    ],
+    "uncovered_angles_chosen_for_2026_08": [
+      "TCO & biaya data warehouse (decision) -> brief 01",
+      "real-time/streaming vs batch (comparison) -> brief 02",
+      "migrasi DW legacy (Teradata/Oracle/BW lama) ke modern (how-to) -> brief 03",
+      "data warehouse per industri (informational) -> brief 04",
+      "data warehouse sebagai fondasi AI/ML + SAP Business Data Cloud/Databricks (decision) -> brief 05"
+    ],
+    "explicitly_avoided_to_prevent_overlap": [
+      "definisi 'apa itu data warehouse' (sudah di -01 + artikel definisi Soltius existing)",
+      "warehouse vs lake vs lakehouse sebagai topik utama (di -02) — brief 05 hanya menyinggung medallion/lakehouse sbg konteks AI",
+      "roadmap implementasi greenfield umum (di -03) — brief 03 fokus migrasi/brownfield DW lama, bukan bangun dari nol",
+      "Datasphere vs BW/4HANA sebagai perbandingan produk (di -04) — brief 05 deep-dive BDC/Databricks yang di -04 hanya disebut sekilas",
+      "data governance & UU PDP sebagai topik utama (di -05)"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "brief_id": "data-warehouse-solutions-03",
+  "article_title_id": "Cara Implementasi Data Warehouse: Roadmap 5 Fase untuk Perusahaan Indonesia",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-02",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Infografik timeline horizontal lima fase implementasi data warehouse. Tiap fase dengan ikon, estimasi durasi di bawah setiap kotak, output utama tiap fase. Warna progresif dari biru muda ke hijau. Teks Bahasa Indonesia, format landscape untuk blog enterprise.",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Artikel menyajikan tabel lima fase dengan durasi dan risiko per fase; infografik timeline horizontal memvisualisasikan urutan dan proporsi waktu tiap fase secara langsung — lebih mudah dibaca sekali pandang oleh CIO/IT manager dibanding tabel.",
+      "visual_direction": "Infografik horizontal landscape (rasio 16:9 atau 2:1) dengan latar putih bersih. Lima kotak persegi panjang berjajar dari kiri ke kanan, dihubungkan oleh panah tipis mengarah ke kanan. Warna kotak progresif: fase 1 biru muda (#A8C8E8), fase 2 biru medium (#5A9FD4), fase 3 biru tua (#1B6FAA), fase 4 biru-hijau teal (#2E8B7A), fase 5 hijau (#3BAD6A). Tipografi sans-serif modern (contoh: Inter atau Nunito Sans). Isi tiap kotak dari atas ke bawah: (1) ikon garis tipis minimalis sesuai fase — kaca pembesar (Fase 1), cetak biru/bagan (Fase 2), roda gigi + pipeline (Fase 3), tanda centang + kualitas (Fase 4), roket/bendera (Fase 5); (2) nomor dan nama fase dalam teks tebal putih; (3) estimasi durasi dalam teks kecil putih di bawah nama fase. Di luar kotak, langsung di bawah kotak, output utama ditulis dalam font abu-abu gelap ukuran kecil. Footer kiri bawah: label 'Total Estimasi: 4–6 Bulan' dalam teks tebal biru tua. Tidak ada bayangan berlebihan; estetika flat design korporat.",
+      "in_image_text_id": [
+        "Fase 1: Requirements & Audit Data",
+        "2–4 Minggu",
+        "Fase 2: Arsitektur & Data Modeling",
+        "3–6 Minggu",
+        "Fase 3: Pengembangan ETL/ELT & Pipeline",
+        "6–10 Minggu",
+        "Fase 4: Testing, Quality & UAT",
+        "3–5 Minggu",
+        "Fase 5: Go-Live, Pelatihan & Adopsi",
+        "2–4 Minggu",
+        "Total Estimasi: 4–6 Bulan"
+      ],
+      "alt_id": "Infografik roadmap implementasi data warehouse: 5 fase dari requirements hingga go-live dengan estimasi durasi tiap fase",
+      "caption_id": "Roadmap implementasi data warehouse terdiri dari lima fase yang harus diselesaikan secara berurutan. Untuk perusahaan menengah dengan tiga hingga lima sumber data utama, total durasi umumnya berkisar antara 4 hingga 6 bulan — lebih lama jika kualitas data sumber lebih buruk dari perkiraan awal.",
+      "sourcing_note": "Infografik orisinal — tidak memerlukan screenshot SAP. Tim desain membuat dari nol menggunakan data fase, durasi, dan ikon dari brief ini. Referensi gaya: infografik enterprise B2B bergaya clean flat design, palet biru-hijau korporat Soltius.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body — di bawah paragraf penjelasan ELT dan SAP Datasphere, bagian 'ETL atau ELT? Pilihan yang Menentukan Arsitektur Anda'",
+      "concept_from_writer": "Diagram dua jalur paralel menunjukkan perbedaan ETL dan ELT. Jalur kiri berlabel ETL: Extract, Transform di middleware (SAP Data Services), Load ke DWH (SAP BW/4HANA). Jalur kanan berlabel ELT: Extract, Load ke cloud storage, Transform di cloud layer (SAP Datasphere). Warna jalur kiri abu-biru, kanan hijau-biru. Teks Bahasa Indonesia.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Artikel menjelaskan dua alur arsitektur teknis yang berbeda urutan prosesnya; diagram jalur paralel adalah format paling efektif untuk menunjukkan perbedaan urutan langkah secara visual dan langsung — lebih informatif dari ilustrasi generik atau foto stok.",
+      "visual_direction": "Diagram arsitektur dua kolom berdampingan (landscape, rasio 16:9), latar putih bersih dengan garis pemisah tipis abu-abu di tengah. Label judul kolom di atas masing-masing: kolom kiri 'ETL' (warna header abu-biru #6B8FAD), kolom kanan 'ELT' (warna header teal-biru #2E8B7A). Setiap kolom menampilkan tiga kotak persegi panjang bertumpuk secara vertikal dihubungkan panah ke bawah. Kolom kiri (ETL): kotak 1 'Ekstrak' (abu-biru muda, ikon silinder/database), kotak 2 'Transform di Middleware — SAP Data Services' (abu-biru sedang, ikon roda gigi), kotak 3 'Load ke Data Warehouse — SAP BW/4HANA' (abu-biru tua, ikon gudang data). Kolom kanan (ELT): kotak 1 'Ekstrak' (teal muda, ikon silinder/database), kotak 2 'Load ke Cloud Storage' (teal sedang, ikon awan), kotak 3 'Transform di Cloud Layer — SAP Datasphere' (teal tua, ikon roda gigi + awan). Font sans-serif modern, teks hitam di dalam kotak. Di bagian bawah setiap kolom, satu baris keterangan kecil: kolom kiri 'Cocok untuk: on-premise, regulasi ketat', kolom kanan 'Cocok untuk: cloud-native, volume besar'. Gaya: flat design korporat, tidak ada bayangan atau efek 3D.",
+      "in_image_text_id": [
+        "ETL",
+        "ELT",
+        "Ekstrak",
+        "Transform di Middleware",
+        "SAP Data Services",
+        "Load ke Data Warehouse",
+        "SAP BW/4HANA",
+        "Load ke Cloud Storage",
+        "Transform di Cloud Layer",
+        "SAP Datasphere",
+        "Cocok untuk: on-premise, regulasi ketat",
+        "Cocok untuk: cloud-native, volume besar"
+      ],
+      "alt_id": "Diagram perbandingan alur ETL vs ELT: ETL memakai SAP Data Services dan BW/4HANA, ELT memakai SAP Datasphere di cloud",
+      "caption_id": "Perbedaan utama ETL dan ELT terletak pada urutan transformasi data: ETL mentransformasi di middleware sebelum dimuat ke data warehouse (kiri), sementara ELT memuat data mentah ke cloud terlebih dahulu lalu mentransformasinya di sana (kanan). SAP Datasphere mendukung keduanya melalui tipe flow yang berbeda.",
+      "sourcing_note": "Diagram orisinal — tidak memerlukan screenshot UI SAP. Tim desain membuat dari nol berdasarkan alur arsitektur di brief ini. Jangan rekayasa atau fabrikasi tampilan antarmuka SAP Data Services atau SAP Datasphere — gunakan representasi kotak-dan-panah yang bersifat skematik.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

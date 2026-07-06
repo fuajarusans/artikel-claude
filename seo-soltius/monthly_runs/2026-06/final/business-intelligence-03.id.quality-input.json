@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-06\\final\\business-intelligence-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-03T01:25:33+07:00",
+    "word_count":  1496,
+    "paragraph_count":  32,
+    "sentence_count":  94,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.514,
+                        "sentence_burstiness":  0.848,
+                        "top30_vocab_share":  0.333,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "## Embedded Analytics vs SAP Analytics Cloud: Dua Layer yang Saling Melengkapi Kesalahpahaman umum: SAP Analytics Cloud (*SAC*) menggantikan embedded analytics.",
+                                      "candidate_score":  36,
+                                      "web_search_query":  "\"## Embedded Analytics vs SAP Analytics Cloud: Dua Layer yang Saling Melengkapi Kesalahpahaman umum: SAP Analytics Cloud \""
+                                  },
+                                  {
+                                      "passage":  "# Embedded Analytics di SAP S/4HANA: Business Intelligence Operasional Real-Time Tanpa Lapisan Tambahan Manajer produksi Anda menelepon tim IT setiap Senin meminta laporan minggu lalu.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"# Embedded Analytics di SAP S/4HANA: Business Intelligence Operasional Real-Time Tanpa Lapisan Tambahan Manajer produksi\""
+                                  },
+                                  {
+                                      "passage":  "## Mengapa Embedded Analytics Sering Tidak Dimanfaatkan, Walau Sudah Dibayar Bagian ini jarang ditulis.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## Mengapa Embedded Analytics Sering Tidak Dimanfaatkan, Walau Sudah Dibayar Bagian ini jarang ditulis.\""
+                                  },
+                                  {
+                                      "passage":  "**Overview Page (OVP)**: dashboard multi-card per peran (cocok untuk Plant Manager) 4.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"**Overview Page (OVP)**: dashboard multi-card per peran (cocok untuk Plant Manager) 4.\""
+                                  },
+                                  {
+                                      "passage":  "Dengan data bersih, biasanya 4–8 minggu, patokan lapangan bukan spesifikasi resmi SAP.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Dengan data bersih, biasanya 4–8 minggu, patokan lapangan bukan spesifikasi resmi SAP.\""
+                                  },
+                                  {
+                                      "passage":  "Untuk Finance saja lebih dari 350 analytical apps, mencakup KPI tiles, Analytical List Pages, dan Overview Pages untuk manajemen kas, piutang, utang, aset tetap, hingga controlling.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"Untuk Finance saja lebih dari 350 analytical apps, mencakup KPI tiles, Analytical List Pages, dan Overview Pages untuk m\""
+                                  },
+                                  {
+                                      "passage":  "**Smart Business Cockpit**: KPI designer untuk tampilan KPI kustom Dari KPI tile, pengguna bisa langsung *drill-down* ke dokumen transaksi individual tanpa keluar dari Fiori Launchpad.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"**Smart Business Cockpit**: KPI designer untuk tampilan KPI kustom Dari KPI tile, pengguna bisa langsung *drill-down* ke\""
+                                  },
+                                  {
+                                      "passage":  "Bagi yang sedang mempertimbangkan [migrasi ERP ke cloud](https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud): S/4HANA Cloud Public Edition mengintegrasikan *embedded SAC* langsung di Fiori Launchpad, memberikan *story-based analytics* yang lebih kaya dibanding on-premise.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Bagi yang sedang mempertimbangkan [migrasi ERP ke cloud](https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud): S/4HAN\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

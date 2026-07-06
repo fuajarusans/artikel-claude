@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\seo\\Documents\\seo-stp\\monthly_runs\\2026-05\\final\\pakan-ikan-nila-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-05-26T13:18:32+07:00",
+    "word_count":  2696,
+    "paragraph_count":  50,
+    "sentence_count":  159,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.583,
+                        "sentence_burstiness":  1.009,
+                        "top30_vocab_share":  0.351,
+                        "flags":  [
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 35.1% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Contoh: 900 ekor × 100 g = 90 kg biomassa; pada FR 3% = 2,7 kg pakan/hari, dibagi 3 kali pemberian pukul 08.00, 12.00, dan 16.00.",
+                                      "candidate_score":  37,
+                                      "web_search_query":  "\"Contoh: 900 ekor × 100 g = 90 kg biomassa; pada FR 3% = 2,7 kg pakan/hari, dibagi 3 kali pemberian pukul 08.00, 12.00, d\""
+                                  },
+                                  {
+                                      "passage":  "Studi lapangan di Keramba Jaring Apung Danau Batur mencatat FCR 1,06 hingga 1,39 antar region.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Studi lapangan di Keramba Jaring Apung Danau Batur mencatat FCR 1,06 hingga 1,39 antar region.\""
+                                  },
+                                  {
+                                      "passage":  "Metode FCR-Target untuk Planning Modal Metode ini paling cepat untuk menyusun RAB sebelum benih ditebar: Untuk 1000 ekor: (225 − 5) × 1,17 = **257 kg**.",
+                                      "candidate_score":  27,
+                                      "web_search_query":  "\"Metode FCR-Target untuk Planning Modal Metode ini paling cepat untuk menyusun RAB sebelum benih ditebar: Untuk 1000 ekor\""
+                                  },
+                                  {
+                                      "passage":  "# Cara Menghitung Kebutuhan Pakan Ikan Nila per 1000 Ekor sampai Panen Berapa kilo **pakan ikan nila** yang sebenarnya Anda butuhkan untuk satu siklus 1000 ekor sampai panen?",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"# Cara Menghitung Kebutuhan Pakan Ikan Nila per 1000 Ekor sampai Panen Berapa kilo **pakan ikan nila** yang sebenarnya A\""
+                                  },
+                                  {
+                                      "passage":  "- **Memakai feeding rate seragam sepanjang siklus**: 3% untuk semua fase tampak praktis, tapi fase benih sebenarnya butuh 5–7% dan fase pra-panen cukup 1,5–2%.",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"- **Memakai feeding rate seragam sepanjang siklus**: 3% untuk semua fase tampak praktis, tapi fase benih sebenarnya butu\""
+                                  },
+                                  {
+                                      "passage":  "Menurut SEAFDEC, sistem semi-intensif menggunakan 2–3% biomassa per hari, sedangkan sistem intensif 3–5%.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Menurut SEAFDEC, sistem semi-intensif menggunakan 2–3% biomassa per hari, sedangkan sistem intensif 3–5%.\""
+                                  },
+                                  {
+                                      "passage":  "Feeding rate disesuaikan per fase: 5–7% pada benih, 3–4% pada pendederan, 2–3% pada pembesaran, 1,5–2% pada pra-panen.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Feeding rate disesuaikan per fase: 5–7% pada benih, 3–4% pada pendederan, 2–3% pada pembesaran, 1,5–2% pada pra-panen.\""
+                                  },
+                                  {
+                                      "passage":  "## Studi Kasus: Hitung Pakan untuk 1000 Ekor Nila sampai Panen 4 Bulan Bagian ini menggabungkan ketiga metode di atas dalam satu siklus lengkap.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"## Studi Kasus: Hitung Pakan untuk 1000 Ekor Nila sampai Panen 4 Bulan Bagian ini menggabungkan ketiga metode di atas da\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

@@ -1,0 +1,82 @@
+{
+  "brief_id": "gasku-02",
+  "article_title_id": "Konversi BBM ke BBG: Estimasi Penghematan & Cara Mulai untuk Armada",
+  "language": "id",
+  "image_count": 3,
+  "planned_at": "2026-06-09",
+  "generation": "none — design team executes from this brief",
+  "cost_number_guardrail": "Semua angka biaya di brief ini (Rp 14–25 juta untuk converter kit) adalah kisaran pasar umum, BUKAN tarif resmi PGN Gagas. Teks dalam gambar HARUS menyertakan label 'Ilustrasi — asumsi lihat artikel' atau setara. Jangan tampilkan angka sebagai harga resmi atau garansi hasil.",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "body — setelah definisi snippet (blockquote), sebelum H2 pertama",
+      "concept_from_writer": "Infografik kerangka hitung penghematan konversi BBG untuk armada — alur tiga kotak dari kiri ke kanan: (1) \"Konsumsi BBM harian Anda (liter)\" → (2) \"× Selisih harga BBG vs BBM (Rp 5.500/LSP)\" → (3) \"= Penghematan per bulan\". Di bawah rumus, baris contoh: \"20 L/hari × Rp 5.500 × 26 hari = Rp 2,86 juta/bulan\". Gaya flat infographic B2B bersih, palet hijau-biru energi, teks Bahasa Indonesia, format horizontal.",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Konten ini adalah sebuah rumus tiga-langkah dengan contoh angka — format infografik teks-forward paling tepat untuk menyampaikan logika kalkulasi sekaligus menjadi kandidat Google featured-snippet / AI-Overview.",
+      "visual_direction": "Format horizontal, lebar penuh (16:9 atau 2:1). Tiga kotak/panel sejajar dari kiri ke kanan, dihubungkan tanda panah (→) tebal berwarna hijau energi (#2E7D32 atau setara). Panel 1 (kiri): ikon tetesan bensin atau tangki kendaraan, teks utama 'Konsumsi BBM Harian Anda' (besar, tebal, warna putih di atas latar biru tua #1A3A5C), teks sekunder 'liter / hari' (kecil, warna biru muda). Panel 2 (tengah): ikon kalkulator atau simbol ×, teks utama '× Selisih Harga BBG vs BBM' (putih/biru tua), teks sekunder 'Gasku Rp 4.500/LSP vs BBM Anda' (kecil, abu-putih). Panel 3 (kanan): ikon dompet atau koin, teks utama '= Penghematan per Bulan' (putih di atas latar hijau energi #388E3C). Di bawah ketiga panel, satu baris tipis berwarna latar abu terang (#F5F5F5) yang memuat contoh numerik: 'Contoh: 20 L/hari × Rp 5.500 × 26 hari = Rp 2,86 juta/bulan'. Teks contoh dalam font monospace atau tabel kecil, warna abu gelap, dengan label kecil italic di pojok kanan bawah baris: 'Ilustrasi — asumsi: Pertalite Rp 10.000/L, Gasku Rp 4.500/LSP (per Juni 2026)'. Keseluruhan tipografi sans-serif modern (misal Poppins atau Nunito). Logo PGN Gagas kecil di sudut kanan bawah. Tidak ada elemen dekoratif berlebihan — bersih, B2B, mudah dibaca di layar mobile.",
+      "in_image_text_id": [
+        "Konsumsi BBM Harian Anda",
+        "liter / hari",
+        "× Selisih Harga BBG vs BBM",
+        "Gasku Rp 4.500/LSP vs BBM Anda",
+        "= Penghematan per Bulan",
+        "Contoh: 20 L/hari × Rp 5.500 × 26 hari = Rp 2,86 juta/bulan",
+        "Ilustrasi — asumsi: Pertalite Rp 10.000/L, Gasku Rp 4.500/LSP (per Juni 2026)"
+      ],
+      "alt_id": "Infografik rumus tiga langkah menghitung penghematan konversi BBM ke BBG untuk armada kendaraan",
+      "caption_id": "Cara menghitung penghematan konversi BBM ke BBG dalam tiga langkah: kalikan konsumsi harian dengan selisih harga Gasku versus BBM Anda. Contoh armada intensif (20 L/hari): sekitar Rp 2,86 juta hemat per bulan — semua angka adalah ilustrasi dengan asumsi tersurat.",
+      "sourcing_note": "Infografik orisinal — dibuat oleh tim desain. Tidak ada foto fasilitas atau branding PGN Gagas yang perlu difabrikasi. Pastikan label 'Ilustrasi' tertera agar angka tidak disalahartikan sebagai jaminan atau tarif resmi Gagas.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body — setelah tabel payback (H2 'Biaya Converter Kit vs Penghematan'), sebelum H2 'Cara Memulai'",
+      "concept_from_writer": "Grafik break-even/payback — sumbu X \"Bulan operasi\" (0–24), sumbu Y \"Akumulasi penghematan (Rp juta)\". Satu garis horizontal putus-putus = biaya converter kit Rp 25 juta. Dua kurva naik: \"Pemakaian intensif (20 L/hari)\" memotong garis di ~bulan 9, dan \"Pemakaian sedang (10 L/hari)\" memotong di ~bulan 18. Tandai titik persilangan sebagai \"Balik modal\". Caption kecil: \"Ilustrasi; asumsi lihat tabel\". Gaya chart infografis editorial, teks Bahasa Indonesia.",
+      "suggested_asset_type": "chart",
+      "asset_type_rationale": "Artikel menyajikan data kuantitatif payback (bulan vs akumulasi penghematan Rp) dari dua profil pemakaian berbeda — kurva break-even adalah cara paling efisien untuk memvisualisasikan kapan investasi kembali dan mengapa intensitas pemakaian menentukan, jauh lebih kuat dari teks tabel saja.",
+      "visual_direction": "Chart garis (line chart) bergaya editorial infografis — bukan slide korporat. Dimensi horizontal (lebar > tinggi), misal 1200 × 600 px. Latar putih bersih dengan grid horizontal tipis berwarna abu muda. Sumbu X: 'Bulan operasi' (0, 3, 6, 9, 12, 15, 18, 21, 24) — label di bawah, font kecil abu. Sumbu Y: 'Akumulasi penghematan (Rp juta)' (0 hingga 30+) — label di kiri. Elemen utama: (1) Garis horizontal putus-putus berwarna merah/oranye tua (#C62828) berlabel 'Biaya converter kit: Rp 25 juta' — label rata kanan di ujung garis. (2) Kurva naik berwarna hijau energi (#2E7D32), tebal 2,5 px, berlabel 'Pemakaian intensif (20 L/hari)' — menyentuh garis putus-putus di sekitar bulan ke-9; titik persilangan ditandai lingkaran isi hijau dengan anotasi teks 'Balik modal ±9 bulan' (warna hitam, font kecil tebal). (3) Kurva naik berwarna biru tua (#1A3A5C), tebal 2,5 px, berlabel 'Pemakaian sedang (10 L/hari)' — menyentuh garis di sekitar bulan ke-18; titik persilangan ditandai lingkaran isi biru dengan anotasi 'Balik modal ±18 bulan'. Area di bawah setiap kurva dapat diberi warna fill transparan (10–15% opacity) sesuai warna kurva agar mudah dibedakan. Di bagian bawah chart, satu baris teks kecil italic berwarna abu: 'Ilustrasi. Asumsi: Pertalite Rp 10.000/L, Gasku Rp 4.500/LSP (Juni 2026), converter kit Rp 25 juta. Lihat tabel artikel untuk rincian.' Logo PGN Gagas kecil di sudut kanan bawah. Tidak ada efek 3D atau shadow berlebihan — clean editorial.",
+      "in_image_text_id": [
+        "Bulan operasi",
+        "Akumulasi penghematan (Rp juta)",
+        "Biaya converter kit: Rp 25 juta",
+        "Pemakaian intensif (20 L/hari)",
+        "Pemakaian sedang (10 L/hari)",
+        "Balik modal ±9 bulan",
+        "Balik modal ±18 bulan",
+        "Ilustrasi. Asumsi: Pertalite Rp 10.000/L, Gasku Rp 4.500/LSP (Juni 2026), converter kit Rp 25 juta. Lihat tabel artikel untuk rincian."
+      ],
+      "alt_id": "Grafik kurva payback konversi BBM ke BBG: pemakaian intensif balik modal ~bulan ke-9, pemakaian sedang ~bulan ke-18",
+      "caption_id": "Kurva break-even ilustratif konversi BBM ke BBG: semakin tinggi pemakaian harian, semakin cepat converter kit Rp 25 juta balik modal. Armada intensif (~20 L/hari) mencapai titik impas sekitar bulan ke-9; armada sedang (~10 L/hari) sekitar bulan ke-18. Semua angka ilustrasi — asumsi lihat tabel di atas.",
+      "sourcing_note": "Chart orisinal — dibuat tim desain berdasarkan data ilustratif dari dossier (CNBC Indonesia, Maret 2024; Komogas). Data titik kurva yang harus diplot: kurva intensif (Rp 2,86 juta/bulan × bulan), kurva sedang (Rp 1,375 juta/bulan × bulan), garis flat Rp 25 juta. Angka-angka ini adalah kisaran pasar umum, BUKAN tarif resmi PGN Gagas — label wajib tercantum dalam gambar. Tidak ada foto fasilitas yang diperlukan.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_03",
+      "position": "body — setelah nomor 6 dalam daftar langkah konversi (H2 'Cara Memulai Konversi Armada ke BBG: 6 Langkah Praktis')",
+      "concept_from_writer": "Diagram alur horizontal 6 langkah konversi armada — enam ikon berurutan dengan label angka: (1) kendaraan/cek mesin, (2) peta/GPS dengan pin SPBG, (3) bengkel bersertifikat, (4) converter kit/tabung, (5) alat uji tekanan, (6) nozzle SPBG. Warna gradasi progresif per langkah dari abu ke hijau, label Bahasa Indonesia, gaya flat infographic yang ramah featured-snippet.",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Konten adalah proses berurutan 6 langkah dengan aksi konkret per langkah — diagram alur bernomor adalah format standar terbaik untuk HowTo yang dapat diindeks sebagai featured snippet / AI-Overview list, dan jauh lebih komunikatif dibanding foto atau stock art untuk topik prosedural ini.",
+      "visual_direction": "Format horizontal, lebar penuh, tinggi sedang (misal 1200 × 400 px). Enam kotak/kartu sejajar kiri ke kanan, dihubungkan tanda panah kecil (→) berwarna abu sedang. Setiap kartu memiliki: nomor langkah di sudut kiri atas (bulat, font tebal putih); ikon flat di tengah atas; label teks singkat tebal di bawah ikon; satu baris sublabel kecil italic di bawah label. Warna latar kartu ber-gradasi progresif dari abu muda (#E0E0E0) di langkah 1 menuju hijau energi penuh (#388E3C) di langkah 6, dengan transisi bertahap (langkah 2–5 menggunakan campuran biru-hijau muda hingga sedang). Ikon flat satu warna putih di setiap kartu: (1) ikon kendaraan/mobil dengan tanda ceklis atau kaca pembesar = 'Audit Kendaraan'; (2) ikon peta dengan pin lokasi = 'Peta Rute vs SPBG'; (3) ikon bangunan bengkel atau kunci inggris bersertifikat (ada tanda bintang/badge) = 'Bengkel Tersertifikasi Kemenhub'; (4) ikon tabung/silinder gas atau toolbox = 'Pilih Converter Kit'; (5) ikon alat ukur tekanan/manometer atau tanda centang dengan perisai = 'Uji Tekanan & Kebocoran'; (6) ikon nozzle pengisian BBG atau pompa SPBG = 'Registrasi & Mulai Isi di SPBG'. Tipografi sans-serif bersih. Di bawah seluruh diagram, satu baris teks kecil abu: 'Pemasangan wajib di bengkel bersertifikat PM Perhubungan No. 39/2012.' Logo PGN Gagas kecil di sudut kanan bawah. Tidak ada foto nyata yang diperlukan — seluruhnya ikon flat vektor.",
+      "in_image_text_id": [
+        "1 — Audit Kendaraan",
+        "Cek mesin & ruang tangki",
+        "2 — Peta Rute vs SPBG",
+        "Cocokkan jalur armada",
+        "3 — Bengkel Tersertifikasi Kemenhub",
+        "Minta bukti sertifikat",
+        "4 — Pilih Converter Kit",
+        "Tipe besi–komposit (Rp 14–25 jt*)",
+        "5 — Uji Tekanan & Kebocoran",
+        "Prosedur wajib keselamatan",
+        "6 — Registrasi & Mulai Isi di SPBG",
+        "Daftarkan sebagai kendaraan BBG",
+        "Pemasangan wajib di bengkel bersertifikat PM Perhubungan No. 39/2012.",
+        "* Kisaran pasar umum, bukan tarif resmi Gagas"
+      ],
+      "alt_id": "Diagram alur 6 langkah konversi armada dari BBM ke BBG: audit kendaraan hingga registrasi dan pengisian di SPBG",
+      "caption_id": "Enam langkah wajib konversi armada ke BBG, dari audit kendaraan hingga pengisian pertama di SPBG. Langkah ketiga (bengkel tersertifikasi Kemenhub) dan kelima (uji tekanan) adalah penentu keselamatan yang tidak boleh dilewati.",
+      "sourcing_note": "Infografik orisinal — dibuat tim desain menggunakan ikon flat vektor. Tidak ada foto fasilitas PGN Gagas asli yang diperlukan untuk gambar ini. Jika tim desain ingin menambahkan foto SPBG sebagai elemen latar tipis di belakang langkah 6, minta foto asli dari tim PGN Gagas — jangan gunakan foto rekayasa atau stock yang menampilkan branding Gagas/PGN.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

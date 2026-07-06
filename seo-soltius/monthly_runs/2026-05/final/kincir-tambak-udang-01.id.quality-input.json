@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "C:\\Users\\seo\\Documents\\seo-stp\\monthly_runs\\2026-05\\final\\kincir-tambak-udang-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-05-26T15:17:17+07:00",
+    "word_count":  2530,
+    "paragraph_count":  38,
+    "sentence_count":  160,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.487,
+                        "sentence_burstiness":  0.789,
+                        "top30_vocab_share":  0.264,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Berdasarkan data third-party WWF Indonesia Aquaculture Challenge, kapasitas oksigenasi varian 2 HP diperkirakan di kisaran 6.000 L/menit dengan kebutuhan daya 500–2.200 watt.",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"Berdasarkan data third-party WWF Indonesia Aquaculture Challenge, kapasitas oksigenasi varian 2 HP diperkirakan di kisar\""
+                                  },
+                                  {
+                                      "passage":  "Contoh: 500.000 ekor × 15 g = 7.500 kg → 15 HP minimal → ~18–20 HP terpasang.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Contoh: 500.000 ekor × 15 g = 7.500 kg → 15 HP minimal → ~18–20 HP terpasang.\""
+                                  },
+                                  {
+                                      "passage":  "Target operasional: DO ≥4 ppm pagi hari, ≥5–6 ppm siang hari, sesuai Peraturan Menteri Kelautan dan Perikanan No.",
+                                      "candidate_score":  27,
+                                      "web_search_query":  "\"Target operasional: DO ≥4 ppm pagi hari, ≥5–6 ppm siang hari, sesuai Peraturan Menteri Kelautan dan Perikanan No.\""
+                                  },
+                                  {
+                                      "passage":  "Standard Aeration Efficiency (SAE) paddlewheel berkisar 2,6–3,0 kg O₂/kWh pada kondisi air tawar baku (Boyd, 1998, *Aquacultural Engineering*).",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"Standard Aeration Efficiency (SAE) paddlewheel berkisar 2,6–3,0 kg O₂/kWh pada kondisi air tawar baku (Boyd, 1998, *Aqua\""
+                                  },
+                                  {
+                                      "passage":  "FAO mencatat ambang kritis DO 2,7 ppm sudah menyebabkan mortalitas lapangan signifikan, dan \u003c1,2 ppm memicu kematian massal ([FAO Penaeid Manual](https://www.fao.org/4/ac006e/AC006E04.htm)).",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"FAO mencatat ambang kritis DO 2,7 ppm sudah menyebabkan mortalitas lapangan signifikan, dan \u003c1,2 ppm memicu kematian mas\""
+                                  },
+                                  {
+                                      "passage":  "Rumus \u0026 Worked Example Aturan dasarnya sederhana: **1 HP kincir per 500 kg biomassa udang puncak**.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Rumus \u0026 Worked Example Aturan dasarnya sederhana: **1 HP kincir per 500 kg biomassa udang puncak**.\""
+                                  },
+                                  {
+                                      "passage":  "Jika beroperasi 24 jam penuh selama 30 hari, konsumsinya 720–1.368 kWh/bulan per unit.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Jika beroperasi 24 jam penuh selama 30 hari, konsumsinya 720–1.368 kWh/bulan per unit.\""
+                                  },
+                                  {
+                                      "passage":  "Boyd (2021, JWAS) yang mengaudit tambak Asia mencatat kebutuhan 2,0–3,33 HP per metrik ton, dan SOP BPBAP Situbondo KKP menggunakan angka yang sama dalam pedoman teknis lapangan.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Boyd (2021, JWAS) yang mengaudit tambak Asia mencatat kebutuhan 2,0–3,33 HP per metrik ton, dan SOP BPBAP Situbondo KKP \""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

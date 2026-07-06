@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07\\final\\perusahaan-lng-indonesia-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-09T18:01:53+07:00",
+    "word_count":  1611,
+    "paragraph_count":  17,
+    "sentence_count":  90,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.392,
+                        "sentence_burstiness":  0.942,
+                        "top30_vocab_share":  0.33,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.392 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "CNG dikompresi ~200–250 bar pada suhu ruang sehingga tetap berwujud gas (volume ~1/250).",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"CNG dikompresi ~200–250 bar pada suhu ruang sehingga tetap berwujud gas (volume ~1/250).\""
+                                  },
+                                  {
+                                      "passage":  "Dengan mendinginkannya hingga sekitar −162°C, volumenya menyusut ~1/600, sehingga satu tangki bisa memuat energi setara sekitar 600 tangki gas atmosferik.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Dengan mendinginkannya hingga sekitar −162°C, volumenya menyusut ~1/600, sehingga satu tangki bisa memuat energi setara \""
+                                  },
+                                  {
+                                      "passage":  "## Mengapa Ketiganya Sering Disalahpahami, dan Kapan Bedanya Tak Penting bagi Anda Tiga moda ini sering tertukar karena terlihat mirip di mata pengguna akhir.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## Mengapa Ketiganya Sering Disalahpahami, dan Kapan Bedanya Tak Penting bagi Anda Tiga moda ini sering tertukar karena \""
+                                  },
+                                  {
+                                      "passage":  "- **\"LNG sama dengan CNG.\"** Keduanya memang gas bumi yang sama, tetapi cara memadatkannya berbeda total: LNG didinginkan jadi cair, CNG ditekan tetap berwujud gas.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"- ** LNG sama dengan CNG. ** Keduanya memang gas bumi yang sama, tetapi cara memadatkannya berbeda total: LNG didinginka\""
+                                  },
+                                  {
+                                      "passage":  "Dalam wujud cair, volumenya menyusut hingga sekitar 1/600 dibanding kondisi gasnya (Kementerian ESDM).",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Dalam wujud cair, volumenya menyusut hingga sekitar 1/600 dibanding kondisi gasnya (Kementerian ESDM).\""
+                                  },
+                                  {
+                                      "passage":  "Yang berbeda hanya cara penyalurannya: gas pipa dialirkan kontinu lewat jaringan tetap; LNG dicairkan lalu diregasifikasi; CNG dikompresi bertekanan tinggi.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Yang berbeda hanya cara penyalurannya: gas pipa dialirkan kontinu lewat jaringan tetap; LNG dicairkan lalu diregasifikas\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apa itu LNG (Liquefied Natural Gas)?",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apa itu LNG (Liquefied Natural Gas)?\""
+                                  },
+                                  {
+                                      "passage":  "Gas bumi sendiri ditargetkan menyumbang 24% bauran energi nasional pada 2050, dan sekitar 22,57% produksinya saat ini diekspor dalam bentuk LNG (Kementerian ESDM).",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"Gas bumi sendiri ditargetkan menyumbang 24% bauran energi nasional pada 2050, dan sekitar 22,57% produksinya saat ini di\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

@@ -1,0 +1,88 @@
+{
+  "brief_id": "data-warehouse-solutions-04",
+  "article_title_id": "Data Warehouse per Industri: Use Case Nyata di Manufaktur, Distribusi, dan Lainnya",
+  "language": "id",
+  "image_count": 3,
+  "planned_at": "2026-06-08",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Diagram arsitektur tiga lapisan horizontal — bawah: sumber data (ERP/S4HANA, mesin produksi, CRM, file Excel) dengan ikon; tengah: kotak besar berlabel \"Data Warehouse — Single Source of Truth\"; atas: konsumen data (dashboard BI, laporan manajemen, analitik AI). Panah mengalir dari bawah ke atas. Gaya korporat biru-putih, label teks Bahasa Indonesia, tanpa logo merek.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Artikel menjelaskan konsep arsitektur data warehouse sebagai lapisan penengah antara sumber data dan konsumen analitik — diagram alur tiga tingkat jauh lebih komunikatif dan tahan-lama dibanding foto stok generik.",
+      "visual_direction": "Diagram tiga lapisan horizontal dengan latar putih bersih. LAPISAN BAWAH (sumber data): empat kotak ikon berderet horizontal — (1) ikon silinder database berlabel 'ERP / S/4HANA', (2) ikon roda gigi berlabel 'Mesin Produksi (OT)', (3) ikon orang-orang berlabel 'CRM & Penjualan', (4) ikon spreadsheet berlabel 'File Excel / Eksternal'. Kotak-kotak ini berwarna abu-abu muda (#E8ECF0) dengan ikon biru tua (#1A3A5C). LAPISAN TENGAH: satu kotak persegi panjang lebar dengan latar biru tua (#1A3A5C) dan teks putih tebal 'Data Warehouse — Single Source of Truth' di tengah; di bawah teks utama ada subketerangan kecil 'SAP Datasphere / BW/4HANA'. LAPISAN ATAS (konsumen data): tiga kotak ikon berderet — (1) ikon layar grafik berlabel 'Dashboard BI', (2) ikon dokumen berlabel 'Laporan Manajemen', (3) ikon bintang/AI berlabel 'Analitik & AI'. Kotak konsumen berwarna biru langit muda (#D6E8F7) dengan ikon biru tua. Panah tebal biru tua (#1A3A5C) mengalir ke atas dari setiap kotak sumber ke lapisan tengah, dan dari lapisan tengah ke setiap kotak konsumen. Judul di atas diagram: 'Arsitektur Data Warehouse: Dari Sumber Data ke Analitik Bisnis' (huruf tebal, abu gelap). Seluruh teks dalam Bahasa Indonesia. Tidak ada logo merek. Rasio 16:9, resolusi minimal 1200×675 px.",
+      "in_image_text_id": [
+        "Arsitektur Data Warehouse: Dari Sumber Data ke Analitik Bisnis",
+        "ERP / S/4HANA",
+        "Mesin Produksi (OT)",
+        "CRM & Penjualan",
+        "File Excel / Eksternal",
+        "Data Warehouse — Single Source of Truth",
+        "SAP Datasphere / BW/4HANA",
+        "Dashboard BI",
+        "Laporan Manajemen",
+        "Analitik & AI",
+        "Sumber Data",
+        "Konsumen Data"
+      ],
+      "alt_id": "Diagram arsitektur data warehouse tiga lapisan: sumber data ERP dan mesin di bawah, data warehouse sebagai single source of truth di tengah, konsumen BI dan analitik di atas",
+      "caption_id": "Arsitektur data warehouse menempatkan satu lapisan terpusat di antara berbagai sumber data operasional dan para konsumen analitik. Tanpa lapisan ini, setiap tim membaca data yang berbeda dan menghasilkan angka yang tidak pernah cocok satu sama lain.",
+      "sourcing_note": "Buat sebagai diagram/ilustrasi — BUKAN screenshot produk SAP. Tidak ada UI nyata yang perlu ditampilkan; cukup kotak, ikon, dan panah dengan label teks. Desainer dapat menggunakan tool diagram (Figma, Illustrator, atau Miro) dengan palet biru korporat Soltius.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "inline — di dalam seksi 'Manufaktur: Dari OEE Lintas Lini hingga Perencanaan Bahan', setelah paragraf yang menyebut OEE world-class 85% vs rata-rata global 55–60%",
+      "concept_from_writer": "Grafik batang sederhana dua bar — \"Rata-rata global OEE: 55–60%\" vs \"World-class OEE: 85%\" — dengan latar garis-garis mesin pabrik yang di-blur. Judul di atas: \"Celah OEE yang Bisa Dipersempit dengan Data Terintegrasi\". Warna biru korporat untuk bar world-class, abu untuk rata-rata. Teks Bahasa Indonesia.",
+      "suggested_asset_type": "chart",
+      "asset_type_rationale": "Artikel mengutip dua angka konkret dari Evocon (rata-rata global 55–60% vs standar world-class 85%) — grafik batang dua-bar menyampaikan celah ini secara instan dan merupakan format yang paling sering dikutip oleh AI-engine saat menjawab pertanyaan benchmark OEE.",
+      "visual_direction": "Grafik batang horizontal dua bar, latar putih bersih dengan bayangan tipis mesin pabrik (silhouette garis abu sangat muda, opacity 8–12%) di area belakang. JUDUL di atas grafik: 'Celah OEE yang Bisa Dipersempit dengan Data Terintegrasi' (huruf tebal, abu gelap #333333, ukuran sedang). BAR PERTAMA (atas): label kiri 'Rata-rata Pabrik Global' dalam abu gelap; bar memanjang ke kanan hingga 58% dari area grafik, warna abu-biru (#7A9BBF), di ujung bar angka tebal '55–60%'. BAR KEDUA (bawah): label kiri 'Standar World-Class (TPM)' dalam biru tua; bar memanjang ke kanan hingga 85% dari area grafik, warna biru tua korporat (#1A3A5C), di ujung bar angka tebal '85%'. Garis vertikal putus-putus tipis di posisi 85% sebagai penanda batas world-class. Area antara kedua bar diberi warna arsir oranye terang (#F5A623) dengan label kecil di tengah: 'Celah ±25–30 poin persentase'. Di bawah grafik, catatan kecil abu: 'Sumber: Evocon, analisis 3.500+ mesin di 50+ negara (Mei 2023–Juni 2024)'. Seluruh teks dalam Bahasa Indonesia. Rasio landscape 4:3 atau 16:9, resolusi minimal 900×600 px.",
+      "in_image_text_id": [
+        "Celah OEE yang Bisa Dipersempit dengan Data Terintegrasi",
+        "Rata-rata Pabrik Global",
+        "Standar World-Class (TPM)",
+        "55–60%",
+        "85%",
+        "Celah ±25–30 poin persentase",
+        "Sumber: Evocon, analisis 3.500+ mesin di 50+ negara (Mei 2023–Juni 2024)"
+      ],
+      "alt_id": "Grafik perbandingan OEE: rata-rata pabrik global 55–60 persen versus standar world-class TPM 85 persen, menunjukkan celah sekitar 25–30 poin persentase",
+      "caption_id": "Hanya sekitar 6% pabrik di dunia yang mencapai OEE di atas 85% secara konsisten sepanjang tahun — sementara rata-rata global berada di kisaran 55–60% (Evocon, 2024). Celah inilah yang mulai bisa dipersempit ketika data produksi terbaca secara terintegrasi, bukan seminggu kemudian.",
+      "sourcing_note": "Buat sebagai grafik/chart — bukan screenshot SAP. Data dari Evocon (sumber terverifikasi di dossier). Angka yang diplot: bar 1 = 58% (titik tengah range 55–60%), bar 2 = 85%. Desainer dapat merender di Figma, Canva, atau tool BI apa pun. Pastikan atribusi sumber ditampilkan di bawah grafik.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_03",
+      "position": "inline — di dalam seksi 'Bagaimana Industri Lain — Agribisnis, Jasa Keuangan, Logistik — Memetik Manfaatnya?', tepat setelah tabel industri × use case × KPI",
+      "concept_from_writer": "Tabel infografis horizontal lima industri — manufaktur, distribusi/ritel, perkebunan, jasa keuangan, logistik — masing-masing dengan ikon sektor di kolom kiri, use case utama di tengah, dan satu KPI kunci di kanan. Gaya bersih, warna biru-hijau korporat, teks Bahasa Indonesia, cocok di-share di LinkedIn.",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Memperkuat tabel Markdown di artikel dengan versi visual yang mudah di-share; format lima-baris ikon+teks adalah format Featured Snippet visual yang populer dikutip AI-engine dan direproduksi pembaca di presentasi internal.",
+      "visual_direction": "Infografis kartu lima baris, orientasi portrait atau landscape lebar, latar putih (#FFFFFF) dengan border kartu abu sangat tipis (#E0E4E8). Setiap baris adalah satu kartu horizontal dengan tiga zona: ZONA KIRI (ikon + nama industri, lebar ~20%), ZONA TENGAH (use case utama, lebar ~50%), ZONA KANAN (satu KPI kunci, lebar ~30%). Warna aksen kiri per industri: Manufaktur = biru tua (#1A3A5C), Distribusi/Ritel = biru tengah (#2E6EA6), Perkebunan/Agribisnis = hijau tua (#2E7D52), Jasa Keuangan = ungu biru (#3D4E8A), Logistik/Transportasi = abu-biru (#4F7098). Isi per baris: BARIS 1 — ikon roda gigi pabrik + 'Manufaktur' | 'Konsolidasi data ERP + mesin; OEE lintas lini produksi' | 'OEE target ≥85%'. BARIS 2 — ikon troli belanja + 'Distribusi / Ritel' | 'Perputaran stok per SKU, margin per cabang, peramalan permintaan' | 'Inventory Turnover, Dead Stock %'. BARIS 3 — ikon daun/kebun + 'Perkebunan / Agribisnis' | 'Produktivitas per blok kebun, traceability komoditas' | 'Ton/ha, Kepatuhan Traceability'. BARIS 4 — ikon bangunan bank + 'Jasa Keuangan' | 'Deteksi anomali transaksi, kepatuhan regulasi' | 'Fraud Detection Rate, KYC/AML Score'. BARIS 5 — ikon truk + 'Logistik / Transportasi' | 'Utilisasi armada, optimasi rute, ketepatan pengiriman' | 'On-Time Delivery %, Cost per Km'. Header di atas tabel: 'Use Case Data Warehouse per Industri' (biru tua, tebal). Footer kecil abu: 'Soltius — Data and AI Consulting'. Seluruh teks dalam Bahasa Indonesia. Rasio portrait ~4:5 atau square 1:1 agar optimal di LinkedIn. Resolusi minimal 1080×1080 px.",
+      "in_image_text_id": [
+        "Use Case Data Warehouse per Industri",
+        "Manufaktur",
+        "Konsolidasi data ERP + mesin; OEE lintas lini produksi",
+        "OEE target ≥85%",
+        "Distribusi / Ritel",
+        "Perputaran stok per SKU, margin per cabang, peramalan permintaan",
+        "Inventory Turnover, Dead Stock %",
+        "Perkebunan / Agribisnis",
+        "Produktivitas per blok kebun, traceability komoditas",
+        "Ton/ha, Kepatuhan Traceability",
+        "Jasa Keuangan",
+        "Deteksi anomali transaksi, kepatuhan regulasi",
+        "Fraud Detection Rate, KYC/AML Score",
+        "Logistik / Transportasi",
+        "Utilisasi armada, optimasi rute, ketepatan pengiriman",
+        "On-Time Delivery %, Cost per Km",
+        "Soltius — Data and AI Consulting"
+      ],
+      "alt_id": "Infografis use case data warehouse per industri: manufaktur OEE, distribusi perputaran stok, agribisnis traceability, jasa keuangan deteksi fraud, logistik ketepatan pengiriman",
+      "caption_id": "Setiap industri mengajukan pertanyaan bisnis yang berbeda kepada data warehouse-nya — dari OEE di lantai pabrik hingga traceability komoditas di kebun. Memetakan use case dan KPI per sektor adalah langkah pertama sebelum merancang arsitektur solusi.",
+      "sourcing_note": "Buat sebagai infografis desain — bukan screenshot produk SAP. Tidak ada UI yang perlu ditampilkan. Isi teks berdasarkan tabel industri yang sudah ada di bodi artikel (H2 'Bagaimana Industri Lain'). Desainer dapat merender di Figma atau Canva. Format square/portrait dioptimalkan untuk berbagi di LinkedIn.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

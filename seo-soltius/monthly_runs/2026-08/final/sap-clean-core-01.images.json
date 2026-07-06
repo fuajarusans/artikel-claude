@@ -1,0 +1,77 @@
+{
+  "brief_id": "sap-clean-core-01",
+  "article_title_id": "SAP Clean Core: Fondasi AI dan Joule di S/4HANA",
+  "language": "id",
+  "image_count": 3,
+  "planned_at": "2026-06-08",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Diagram piramida \"Tiga Prasyarat AI di SAP\" — tiga tingkat dari bawah ke atas (1. Clean Core / Proses Standar, 2. Data Tepercaya, 3. Integrasi API-first) dengan ikon Joule/Business AI di puncak; gaya infografik datar korporat, warna biru-emas SAP, seluruh label teks Bahasa Indonesia",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Struktur tiga tingkat bersifat konseptual dan hierarkis — infografik piramida datar adalah format paling tepat untuk mengomunikasikan urutan prasyarat sekaligus berfungsi sebagai hero image yang informatif.",
+      "visual_direction": "Infografik piramida bertingkat tiga, orientasi potret atau lanskap lebar. Latar belakang putih bersih. Piramida dibagi tiga lapisan dengan warna progresif dari bawah ke atas: (1) Lapisan paling bawah dan terlebar — biru tua (#003366 atau setara SAP dark blue) berlabel 'Clean Core & Proses Standar'; di dalam atau di sisi lapisan ini: ikon kotak/inti sistem yang stilasi. (2) Lapisan tengah — biru menengah (#0057A0 atau SAP medium blue) berlabel 'Data Tepercaya'; ikon silinder database atau tumpukan data. (3) Lapisan paling atas dan tersempit — biru muda ke emas (#F0AB00 atau SAP gold) berlabel 'Integrasi API-first'; ikon dua simpul terhubung dengan garis (API). Di atas puncak piramida: ikon gelembung percakapan atau bintang emas kecil dengan teks 'Joule & SAP Business AI siap beroperasi'. Font sans-serif bersih (Roboto atau Noto Sans); semua teks di dalam gambar dalam Bahasa Indonesia. Margin cukup di semua sisi; gaya flat/minimalis korporat. Ukuran rekomendasi: 1200 × 630 px (rasio 16:9 untuk hero) atau 800 × 900 px (rasio potret untuk body).",
+      "in_image_text_id": [
+        "Clean Core & Proses Standar",
+        "Data Tepercaya",
+        "Integrasi API-first",
+        "Joule & SAP Business AI siap beroperasi"
+      ],
+      "alt_id": "Diagram piramida tiga prasyarat AI di SAP: Clean Core, Data Tepercaya, dan Integrasi API-first sebagai fondasi SAP Joule",
+      "caption_id": "SAP menempatkan tiga prasyarat nilai AI enterprise: clean core, data tepercaya, dan integrasi API-first — positioning yang ditegaskan kembali di SAP Sapphire 2026. Tanpa ketiga fondasi ini, kemampuan SAP Joule dan Business AI tidak dapat dioptimalkan.",
+      "sourcing_note": "Aset orisinal — tidak memerlukan screenshot produk SAP. Tim desain membuat infografik dari deskripsi di atas. Untuk referensi warna resmi SAP: biru tua SAP (#003366), biru SAP (#0057A0), emas SAP (#F0AB00).",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "mid-body (setelah paragraf tentang model maturity 4 level dan sebelum tabel kondisi core)",
+      "concept_from_writer": "Tabel visual \"Kondisi Core vs Kemampuan Joule\" — empat baris (Bersih / Sebagian / Kotor / SAP ECC) dengan indikator lampu hijau-kuning-merah untuk kapabilitas AI yang tersedia per baris; format heatmap sederhana, mudah di-screenshot, teks Bahasa Indonesia, warna biru-emas SAP",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Tabel perbandingan empat kondisi core ini adalah inti keputusan bagi pembaca (CIO/IT director); format heatmap bergaya infografik — bukan tabel markdown biasa — membuatnya lebih mudah dipindai, di-screenshot, dan dibagikan di internal chat, sesuai catatan dossier tentang nilai shareability untuk audiens B2B.",
+      "visual_direction": "Tabel heatmap horizontal lima kolom, latar belakang putih, garis pemisah baris tipis abu-abu (#E0E0E0). Baris header gelap (biru tua #003366, teks putih) dengan label kolom: 'Kondisi Core', 'Deskripsi Singkat', 'Kapabilitas Joule/AI', 'Prasyarat', 'Status'. Empat baris data dengan warna latar belakang baris yang mencerminkan status: (1) 'Bersih (Level A)' — latar hijau muda (#E6F4EA); ikon lingkaran hijau penuh di kolom Status, label 'Siap penuh'. (2) 'Sebagian (Level B/C)' — latar kuning muda (#FFF8E1); ikon lingkaran kuning di kolom Status, label 'Siap sebagian'. (3) 'Kotor (Level D)' — latar oranye sangat muda (#FFF3E0); ikon lingkaran oranye/merah di kolom Status, label 'Terbatas'. (4) 'SAP ECC (on-premise)' — latar abu-abu muda (#F5F5F5); ikon lingkaran merah/silang di kolom Status, label 'Tidak tersedia native'. Teks sel singkat dan padat — gunakan frasa pendek bukan kalimat panjang. Judul tabel di atas: 'Kondisi Core vs Kemampuan Joule & SAP Business AI' dalam font tebal biru tua. Catatan kaki kecil di bawah: 'Sumber: SAP News Center 2025–2026'. Ukuran rekomendasi: 1200 × 500 px (lanskap), mudah dibaca di layar desktop.",
+      "in_image_text_id": [
+        "Kondisi Core vs Kemampuan Joule & SAP Business AI",
+        "Kondisi Core",
+        "Deskripsi Singkat",
+        "Kapabilitas Joule/AI",
+        "Prasyarat",
+        "Status",
+        "Bersih (Level A)",
+        "Sebagian (Level B/C)",
+        "Kotor (Level D)",
+        "SAP ECC (on-premise)",
+        "Siap penuh",
+        "Siap sebagian",
+        "Terbatas",
+        "Tidak tersedia native",
+        "Sumber: SAP News Center 2025–2026"
+      ],
+      "alt_id": "Tabel heatmap kondisi SAP Clean Core versus kemampuan Joule dan Business AI: dari core bersih hingga SAP ECC",
+      "caption_id": "Kemampuan SAP Joule yang dapat dimanfaatkan bergantung langsung pada kondisi core Anda saat ini. Core bersih (Level A) membuka Joule penuh termasuk agen transaksional; sistem SAP ECC tidak memiliki akses Joule secara native sama sekali.",
+      "sourcing_note": "Aset orisinal berbasis data dari artikel dan dossier — tidak memerlukan screenshot produk SAP. Tim desain membuat tabel heatmap dari deskripsi di atas. Data empat baris sesuai tabel di artikel (baris Bersih/Sebagian/Kotor/ECC). Isi teks sel dapat diambil langsung dari tabel markdown di dalam draft.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_03",
+      "position": "mid-body (setelah penjelasan empat fondasi clean core, sebelum bagian kapan AI belum prioritas)",
+      "concept_from_writer": "Diagram horizontal empat langkah \"Empat Fondasi Clean Core yang Membuka Nilai AI\" — empat blok berurutan (Proses Standar → Released API & ABAP Cloud → Data Tepercaya → Integrasi API-first), tiap blok dengan ikon dan label singkat; di bawahnya label \"Joule & Business AI siap dioperasikan\"; desain minimalis, warna progresif abu ke biru-emas, teks Bahasa Indonesia",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Empat fondasi memiliki hubungan berurutan (bukan hierarkis) yang paling jelas disampaikan melalui diagram alur/step horizontal — format ini membedakannya secara visual dari piramida IMAGE_01 dan tabel IMAGE_02, serta mencerminkan logika 'langkah demi langkah' yang berguna bagi pembaca yang merencanakan perjalanan clean core.",
+      "visual_direction": "Diagram alur horizontal empat blok berurutan, orientasi lanskap. Latar belakang putih. Empat blok persegi panjang berukuran sama dihubungkan oleh panah tipis ke kanan (warna abu-abu #9E9E9E). Warna blok progresif dari kiri ke kanan — mencerminkan perjalanan dari fondasi ke kesiapan AI: Blok 1 abu-abu muda (#ECEFF1), Blok 2 biru muda (#E3F2FD), Blok 3 biru menengah (#BBDEFB), Blok 4 biru-emas (#1565C0 dengan aksen emas #F0AB00). Setiap blok berisi: (atas) ikon yang relevan — ikon alur proses/checklist untuk Blok 1, ikon API/konektor untuk Blok 2, ikon database/perisai untuk Blok 3, ikon rantai/link untuk Blok 4; (tengah) nomor urut kecil; (bawah) label singkat. Di bawah keempat blok, sebuah garis horizontal tipis emas (#F0AB00) diikuti label terpusat dalam font tebal: 'Joule & SAP Business AI siap dioperasikan'. Label keempat blok dalam Bahasa Indonesia seperti tercantum di in_image_text_id. Judul di atas diagram: 'Empat Fondasi Clean Core yang Membuka Nilai AI'. Gaya flat/minimalis, font sans-serif, tanpa bayangan tebal. Ukuran rekomendasi: 1200 × 480 px.",
+      "in_image_text_id": [
+        "Empat Fondasi Clean Core yang Membuka Nilai AI",
+        "1. Proses Standar (Fit-to-Standard)",
+        "2. Ekstensi via Released API & ABAP Cloud",
+        "3. Data Tepercaya & Konsisten",
+        "4. Integrasi API-first",
+        "Joule & SAP Business AI siap dioperasikan"
+      ],
+      "alt_id": "Diagram empat fondasi clean core SAP yang membuka nilai AI: Proses Standar, Released API, Data Tepercaya, dan Integrasi API-first",
+      "caption_id": "Keempat fondasi clean core bekerja secara berurutan: tanpa proses standar dan released API sebagai lapisan pertama, SAP Joule tidak memiliki konteks untuk bertindak secara akurat. Data tepercaya dan integrasi API-first melengkapi fondasi agar agen AI dapat mengorkestrasikan alur kerja lintas sistem.",
+      "sourcing_note": "Aset orisinal — tidak memerlukan screenshot produk SAP. Tim desain membuat diagram langkah dari deskripsi di atas. Empat label blok harus sesuai persis dengan urutan yang digunakan di dalam artikel. Tidak ada UI SAP yang perlu direplikasi.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

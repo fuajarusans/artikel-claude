@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07\\final\\gaslink-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-09T12:10:52+07:00",
+    "word_count":  1632,
+    "paragraph_count":  19,
+    "sentence_count":  88,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.634,
+                        "sentence_burstiness":  0.963,
+                        "top30_vocab_share":  0.317,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Pemerintah menetapkan Harga Gas Bumi Tertentu (HGBT) USD 7/MMBTU lewat Kepmen ESDM No.",
+                                      "candidate_score":  27,
+                                      "web_search_query":  "\"Pemerintah menetapkan Harga Gas Bumi Tertentu (HGBT) USD 7/MMBTU lewat Kepmen ESDM No.\""
+                                  },
+                                  {
+                                      "passage":  "Pemerintah memproyeksikan efisiensi hingga ~30% dalam roadmap konversi LPG ke CNG (Ditjen Migas ESDM, 2026), dan contoh perhotelan 2017 menyebut 20–50% dibanding LPG.",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"Pemerintah memproyeksikan efisiensi hingga ~30% dalam roadmap konversi LPG ke CNG (Ditjen Migas ESDM, 2026), dan contoh \""
+                                  },
+                                  {
+                                      "passage":  "Karena tiap satuan fisik membawa energi berbeda: satu liter solar ~9.150 kkal, satu kilogram LPG ~11.823 kkal, satu meter kubik gas bumi ~9.000–11.000 kkal.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Karena tiap satuan fisik membawa energi berbeda: satu liter solar ~9.150 kkal, satu kilogram LPG ~11.823 kkal, satu mete\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai gambaran harga publik, LPG nonsubsidi diproyeksikan ~USD 22/MMBTU sementara CNG tabung ~USD 10–15/MMBTU.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Sebagai gambaran harga publik, LPG nonsubsidi diproyeksikan ~USD 22/MMBTU sementara CNG tabung ~USD 10–15/MMBTU.\""
+                                  },
+                                  {
+                                      "passage":  "Pemerintah menetapkan HGBT USD 7/MMBTU, tetapi hanya untuk 7 sektor industri tertentu (pupuk, baja, dll.), bukan pelanggan komersial umum.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Pemerintah menetapkan HGBT USD 7/MMBTU, tetapi hanya untuk 7 sektor industri tertentu (pupuk, baja, dll.), bukan pelangg\""
+                                  },
+                                  {
+                                      "passage":  "## Bagaimana Cara Menghitung Penghematan Jika Beralih dari Solar ke Gas Bumi?",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Bagaimana Cara Menghitung Penghematan Jika Beralih dari Solar ke Gas Bumi?\""
+                                  },
+                                  {
+                                      "passage":  "## Payback dan Ambang Volume: Kapan Peralihan Mulai Masuk Akal Tidak ada angka *payback* tunggal.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Payback dan Ambang Volume: Kapan Peralihan Mulai Masuk Akal Tidak ada angka *payback* tunggal.\""
+                                  },
+                                  {
+                                      "passage":  "# Gaslink vs LPG vs Solar: Perbandingan Biaya \u0026 Efisiensi Industri Anda sudah tahu gas bumi berpotensi lebih hemat.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"# Gaslink vs LPG vs Solar: Perbandingan Biaya \u0026 Efisiensi Industri Anda sudah tahu gas bumi berpotensi lebih hemat.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

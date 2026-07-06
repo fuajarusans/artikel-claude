@@ -1,0 +1,33 @@
+{
+    "elapsed_seconds":  26,
+    "failed":  3,
+    "images":  [
+                   {
+                       "index":  0,
+                       "output_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-05\\final\\sap-business-one-01-01.png",
+                       "status":  "unknown",
+                       "bytes":  0,
+                       "error":  "no STATUS line parsed",
+                       "job_state":  "Completed"
+                   },
+                   {
+                       "index":  1,
+                       "output_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-05\\final\\sap-business-one-01-02.png",
+                       "status":  "unknown",
+                       "bytes":  0,
+                       "error":  "no STATUS line parsed",
+                       "job_state":  "Completed"
+                   },
+                   {
+                       "index":  2,
+                       "output_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-05\\final\\sap-business-one-01-03.png",
+                       "status":  "unknown",
+                       "bytes":  0,
+                       "error":  "no STATUS line parsed",
+                       "job_state":  "Completed"
+                   }
+               ],
+    "manifest_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-05\\final\\sap-business-one-01.manifest.json",
+    "total_images":  3,
+    "succeeded":  0
+}

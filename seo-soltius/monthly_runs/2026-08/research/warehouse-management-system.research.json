@@ -1,0 +1,128 @@
+{
+  "keyword": "warehouse management system",
+  "keyword_slug": "warehouse-management-system",
+  "month": "2026-08",
+  "captured_at": "2026-06-08",
+  "landing_page": "https://www.soltius.co.id/id/blog/konsep-warehouse-management-system-yang-wajib-anda-tahu",
+  "landing_page_summary": "Hub menjelaskan definisi WMS (sistem manajemen pergudangan) yang mengontrol proses inbound/penyimpanan/outbound; membahas FIFO/LIFO/FEFO; dua manfaat utama (kecepatan proses & optimasi lokasi penyimpanan); dan membedakan WMS dari SCM (WMS = subset logistik/inventory dalam supply chain). TIDAK menyebut produk SAP apa pun.",
+  "data_sources_used": ["live_websearch (google blocked direct scrape; used WebSearch for SERP+PAA)", "websearch", "sap_official_via_websearch", "seo_report_apr2026.md"],
+  "ahrefs_available": false,
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Permintaan stabil-tinggi; topik logistik/gudang evergreen di Indonesia. Sinyal kuat dari GSC Soltius April 2026: 17 klik / 9.076 impresi (CTR ~0,19% => peringkat rendah, peluang besar). Konteks SAP: classic WM (LE-WM) end-of-life mendorong gelombang migrasi ke SAP EWM 2025-2030.",
+    "apr2026_rank": "n/a (bukan salah satu dari 6 keyword yang dilacak di laporan April; muncul sebagai top organic query GSC dengan 17 klik / 9.076 impresi)"
+  },
+  "serp": {
+    "note": "Google direct scrape diblokir; lanskap SERP disusun dari WebSearch (Google ID). Halaman page-1 untuk 'warehouse management system' (ID) didominasi penjelas generik 'pengertian/manfaat/jenis/cara'.",
+    "top_organic_observed": [
+      { "url": "https://www.prieds.com/post/panduan-lengkap-warehouse-management-system-wms", "title": "Warehouse Management System: Pengertian, Manfaat, Fitur dan Proses Integrasi | PRIEDS", "angle_summary": "Panduan lengkap generik: definisi, manfaat, fitur, integrasi." },
+      { "url": "https://waresix.com/warehouse-management-system/", "title": "Warehouse Management System: Definisi, Tugas dan Manfaat - Waresix", "angle_summary": "Definisi + tugas + manfaat; sudut logistik 3PL." },
+      { "url": "https://www.jurnal.id/id/blog/sistem-manajemen-gudang-pergudangan-warehouse-management-system-adalah/", "title": "Optimalkan Manajemen Gudang dengan WMS - Mekari Jurnal", "angle_summary": "Definisi + optimasi gudang; sudut software akuntansi/SME." },
+      { "url": "https://kledo.com/blog/warehouse-management-system/", "title": "WMS: Pengertian, Manfaat, dan Jenisnya - Kledo", "angle_summary": "Pengertian/manfaat/jenis; sudut software SME." },
+      { "url": "https://www.zoho.com/blog/id/general/warehouse-management-system-wms-pengertian-manfaat-dan-jenisnya.html", "title": "WMS: Pengertian, Manfaat, dan Jenisnya - Zoho", "angle_summary": "Pengertian/manfaat/jenis; vendor SaaS." },
+      { "url": "https://scaleocean.com/id/blog/solusi/pengertian-warehouse-management-system-wms", "title": "WMS: Pengertian dan Manfaat - ScaleOcean", "angle_summary": "Pengertian + manfaat; vendor ERP/WMS." },
+      { "url": "https://omni.gg/blog/manfaat-warehouse-management-system/", "title": "8 Manfaat Warehouse Management System bagi Perusahaan - Omni", "angle_summary": "Listicle manfaat; vendor omnichannel." },
+      { "url": "https://automata.co.id/blog/perbedaan-aplikasi-gudang-dan-warehouse-management-system-wms", "title": "Aplikasi Gudang vs WMS - Automata", "angle_summary": "Pembanding ringan 'aplikasi gudang vs WMS' (sinyal intent perbandingan ada di SERP)." }
+    ],
+    "soltius_existing_live_posts_for_keyword": [
+      "https://www.soltius.co.id/id/blog/konsep-warehouse-management-system-yang-wajib-anda-tahu (HUB)",
+      "https://www.soltius.co.id/id/blog/jenis-manfaat-dan-cara-implementasi-warehouse-management-system (sudah ada: jenis+manfaat+cara implementasi -> JANGAN duplikasi)",
+      "https://www.soltius.co.id/id/blog/Manfaat-penerapan-Warehouse-Management-System (sudah ada: 6 manfaat penerapan -> JANGAN duplikasi)"
+    ],
+    "serp_features": ["paa", "kemungkinan_ai_overview_untuk_query_definisi"],
+    "ai_overview_entities": ["WMS / sistem manajemen gudang", "inbound/putaway/picking/packing/shipping", "barcode", "RFID", "real-time inventory visibility", "integrasi ERP", "cloud vs on-premise WMS", "FIFO/LIFO/FEFO"]
+  },
+  "paa": [
+    "Apa itu warehouse management system?",
+    "Apa saja jenis WMS (cloud, on-premise, standalone, modul ERP)?",
+    "Apa perbedaan WMS dan ERP?",
+    "Apa perbedaan aplikasi gudang biasa dengan WMS?",
+    "Kapan perusahaan butuh WMS / apa tanda gudang butuh WMS?",
+    "Apa manfaat warehouse management system bagi perusahaan?",
+    "Berapa biaya implementasi WMS?",
+    "Bagaimana cara kerja WMS (barcode/RFID)?",
+    "Bagaimana WMS terintegrasi dengan ERP?",
+    "Apa itu SAP EWM dan bedanya dengan SAP WM?"
+  ],
+  "lsi_terms": [
+    "sistem manajemen gudang",
+    "manajemen pergudangan",
+    "inbound putaway picking packing shipping",
+    "real-time inventory visibility",
+    "barcode dan RFID",
+    "integrasi ERP",
+    "WMS cloud vs on-premise",
+    "standalone WMS vs modul ERP",
+    "traceability batch/serial/expired (FEFO)",
+    "bin/lokasi penyimpanan (slotting)",
+    "akurasi inventaris",
+    "order fulfillment",
+    "SAP Extended Warehouse Management (EWM)",
+    "SAP Stock Room Management",
+    "material flow system (MFS) / robotika gudang",
+    "labor management gudang"
+  ],
+  "sap_mapping_derived": {
+    "note": "Keyword ini TIDAK ada di product_matrix.md -> mapping diturunkan via riset SAP-official (WebSearch ke SAP Help/Learning/Community + SAP-PRESS/PwC).",
+    "strategic_product": "SAP Extended Warehouse Management (SAP EWM) — solusi WMS strategis SAP.",
+    "deployment_options": [
+      "Embedded EWM di SAP S/4HANA (sejak S/4HANA 1610; fungsi dasar tercakup lisensi S/4HANA, fitur advanced butuh lisensi tambahan).",
+      "Decentralized / standalone SAP EWM (untuk gudang kompleks/volume tinggi, dipisah dari core ERP).",
+      "SAP Stock Room Management (sejak S/4HANA 1909; fungsi gudang dasar, BUKAN solusi strategis, tanpa inovasi masa depan; perpanjangan use-right untuk RISE hingga 2030).",
+      "Classic SAP WM (LE-WM) — solusi lama, dalam compatibility scope; berakhir di S/4HANA (lihat tanggal)."
+    ],
+    "lifecycle_facts_TO_VERIFY_by_researcher": [
+      "Classic SAP WM (LE-WM) compatibility/licensing di S/4HANA berakhir 31 Des 2025; mulai 1 Jan 2026 tanpa dukungan teknis/maintenance lanjutan (konfirmasi SAP Note/Community).",
+      "WM di ECC: mainstream maintenance s.d. 31 Des 2027; extended maintenance s.d. 31 Des 2030 (sejalan dengan deadline ECC).",
+      "EWM tercakup mainstream maintenance S/4HANA hingga ~2040 (tergantung release).",
+      "Embedded EWM dirilis di S/4HANA 1610; Stock Room Management di S/4HANA 1909.",
+      "Stock Room Management use-right extension untuk RISE hingga 2030 — verifikasi cakupan persis."
+    ],
+    "ewm_capabilities": ["inbound/outbound/internal processing", "wave management", "slotting & rearrangement", "labor management", "yard management", "value-added services & kitting", "cross-docking", "Material Flow System (MFS) untuk integrasi konveyor/PLC", "SAP Warehouse Robotics (AMR/AGV)", "RFmenu/RF & SAP Fiori apps"],
+    "soltius_anchor_derived": "Layanan Implementation (New Implementation/Migration/Roll Out) + pengalaman supply chain & logistik (industri Transportation & Logistics, Wholesale Distribution, Consumer Products, Retail, Plantation/Mill Products). Framing: Soltius MENGIMPLEMENTASI/ MEMIGRASI/ MENGINTEGRASI/ MENDUKUNG SAP EWM & WMS — bukan membuat software. Maks 2-3 sebutan, umumnya di penutup. Kredibilitas: SAP Platinum Partner via United VARs; AMS pasca go-live.",
+    "soltius_internal_downlink_candidates": [
+      "https://www.soltius.co.id/id/blog/jenis-manfaat-dan-cara-implementasi-warehouse-management-system",
+      "https://www.soltius.co.id/id/blog/Manfaat-penerapan-Warehouse-Management-System"
+    ]
+  },
+  "cousins_chosen": {
+    "primary_cousin_all_briefs": {
+      "keyword": "ERP migration to the cloud",
+      "url": "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud",
+      "why": "Cousin terkuat: SAP EWM tertanam (embedded) di S/4HANA dan classic LE-WM pensiun saat pindah ke S/4HANA cloud; modernisasi WMS adalah bagian keputusan migrasi ERP. Juga menyalurkan link equity ke hub prioritas #1 (defend)."
+    },
+    "rotating_cousin_2": {
+      "data_warehouse_solutions": { "url": "https://www.soltius.co.id/id/blog/data-warehouse-solutions", "why": "WMS menghasilkan data operasional volume tinggi (inventory/throughput/labor) yang mengalir ke data warehouse untuk analitik lintas-sumber." },
+      "business_intelligence": { "url": "https://www.soltius.co.id/id/blog/business-intelligence", "why": "KPI gudang (akurasi picking, dock-to-stock, throughput) ditampilkan di dashboard BI untuk visibilitas manajemen." }
+    },
+    "excluded": { "sap_clean_core": "WMS bersifat operasional, bukan topik extensibility/clean core — relevansi cousin paling lemah; dikecualikan." }
+  },
+  "history_snapshot": {
+    "existing_articles_for_keyword_in_index": [],
+    "note": "Tidak ada artikel di articles_history/index.json untuk slug ini (cluster baru). Namun ADA 2 post WMS live di soltius.co.id (jenis+manfaat+cara implementasi; 6 manfaat) -> dipakai sebagai sinyal anti-duplikasi & kandidat down-link, BUKAN untuk diulang.",
+    "uncovered_angles_to_claim": [
+      "Decision boundary: WMS vs modul gudang ERP vs aplikasi inventory (kapan modul ERP tidak cukup) -> comparison",
+      "SAP-specific: EWM vs Stock Room Management vs LE-WM + deadline 2025/2027/2030 -> decision (WHITESPACE; tak ada kompetitor ID yang punya)",
+      "Tanda butuh WMS + 'kapan BELUM perlu' (jujur, counter-conventional) -> troubleshooting",
+      "Arsitektur & integrasi: WMS cloud vs on-premise + cara integrasi ke ERP (barcode/RFID/real-time) -> how-to"
+    ],
+    "angles_deliberately_left_for_future": [
+      "ROI/TCO WMS dengan contoh hitungan (decision finansial)",
+      "WMS untuk industri spesifik (manufaktur/FMCG/3PL/cold-chain FEFO)",
+      "Material Flow System (MFS) & robotika gudang / otomasi (deep-dive teknis)",
+      "Labor management & slotting optimization di EWM",
+      "WMS & traceability/compliance (mis. farmasi, halal, cold chain)"
+    ]
+  },
+  "external_sources_captured": [
+    "https://www.sap.com/products/scm/extended-warehouse-management/features.html",
+    "https://www.sap.com/products/scm/extended-warehouse-management.html",
+    "https://learning.sap.com/courses/processes-in-sap-s-4hana-ewm/differentiating-the-sap-solutions-for-warehouse-management",
+    "https://community.sap.com/t5/enterprise-architecture-knowledge-base/sap-s-4hana-extended-warehouse-management-vs-stockroom-management/ta-p/14103196",
+    "https://community.sap.com/t5/enterprise-resource-planning-blog-posts-by-sap/the-sap-extended-warehouse-management-faq-series-end-of-mainstream/ba-p/13607684",
+    "https://www.pwc.com/us/en/technology/alliances/sap-implementation/sap-warehousing-comparison-ewm-srm.html",
+    "https://support.sap.com/en/release-upgrade-maintenance/maintenance-information/maintenance-strategy/s4hana-business-suite7.html"
+  ],
+  "cache_source": "first run for warehouse-management-system / 2026-08"
+}

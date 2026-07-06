@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07\\final\\perusahaan-lng-indonesia-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-09T18:01:57+07:00",
+    "word_count":  1601,
+    "paragraph_count":  18,
+    "sentence_count":  86,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.32,
+                        "sentence_burstiness":  0.667,
+                        "top30_vocab_share":  0.309,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.32 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Contohnya, PT Pertagas Niaga (afiliasi Subholding Gas Pertamina) pernah memasok LNG via ISO tank ke Hotel Conrad Bali sekitar 700–800 MMBTU per bulan untuk dapur dan pemanas air.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Contohnya, PT Pertagas Niaga (afiliasi Subholding Gas Pertamina) pernah memasok LNG via ISO tank ke Hotel Conrad Bali se\""
+                                  },
+                                  {
+                                      "passage":  "## Kapan LNG Hub BUKAN Jawaban Terbaik LNG Hub paling masuk akal untuk lokasi tanpa pipa dengan kebutuhan gas cukup besar.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"## Kapan LNG Hub BUKAN Jawaban Terbaik LNG Hub paling masuk akal untuk lokasi tanpa pipa dengan kebutuhan gas cukup besa\""
+                                  },
+                                  {
+                                      "passage":  "Pada 11 Februari 2026, kilang mini LNG pertama di Pulau Jawa resmi beroperasi di Pasuruan, Jawa Timur, dengan kapasitas sekitar 20 ton LNG per hari.",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"Pada 11 Februari 2026, kilang mini LNG pertama di Pulau Jawa resmi beroperasi di Pasuruan, Jawa Timur, dengan kapasitas \""
+                                  },
+                                  {
+                                      "passage":  "Kapasitasnya 20.000–40.000 liter, bergantung pada ukuran 20 atau 40 kaki (PT PGN LNG Indonesia, 2026), cukup memasok industri kecil-menengah selama beberapa hari hingga minggu.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Kapasitasnya 20.000–40.000 liter, bergantung pada ukuran 20 atau 40 kaki (PT PGN LNG Indonesia, 2026), cukup memasok ind\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai anak usaha PGN, bagian dari Subholding Gas Pertamina, PGN Gagas berperan sebagai operator LNG Hub dan penyalur gas bumi beyond-pipeline lewat Gaslink, bukan produsen atau pemilik kilang.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Sebagai anak usaha PGN, bagian dari Subholding Gas Pertamina, PGN Gagas berperan sebagai operator LNG Hub dan penyalur g\""
+                                  },
+                                  {
+                                      "passage":  "Pada suhu itu, gas bumi menyusut menjadi sekitar 1/600 volume gas pada kondisi atmosferik (PT PGN LNG Indonesia, 2026), sehingga efisien diangkut jarak jauh tanpa pipa.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Pada suhu itu, gas bumi menyusut menjadi sekitar 1/600 volume gas pada kondisi atmosferik (PT PGN LNG Indonesia, 2026), \""
+                                  },
+                                  {
+                                      "passage":  "Strukturnya berdinding ganda dengan insulasi vakum, mirip termos raksasa, agar suhu −162°C tetap terjaga selama perjalanan.",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"Strukturnya berdinding ganda dengan insulasi vakum, mirip termos raksasa, agar suhu −162°C tetap terjaga selama perjalan\""
+                                  },
+                                  {
+                                      "passage":  "**Pencairan (likuifaksi).** Gas bumi didinginkan hingga −162°C di kilang LNG sehingga menjadi cair, contohnya di Bontang, Tangguh, atau kilang mini Pasuruan.",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"**Pencairan (likuifaksi).** Gas bumi didinginkan hingga −162°C di kilang LNG sehingga menjadi cair, contohnya di Bontang\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

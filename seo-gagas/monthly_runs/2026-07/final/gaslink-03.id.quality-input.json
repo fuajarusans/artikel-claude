@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07\\final\\gaslink-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-09T12:10:53+07:00",
+    "word_count":  1633,
+    "paragraph_count":  16,
+    "sentence_count":  93,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.505,
+                        "sentence_burstiness":  0.87,
+                        "top30_vocab_share":  0.298,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "## Profil Kecocokan per Sektor: Manufaktur, Hotel, Rumah Sakit, Laundry Keempat sektor cocok karena alasan spesifik.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"## Profil Kecocokan per Sektor: Manufaktur, Hotel, Rumah Sakit, Laundry Keempat sektor cocok karena alasan spesifik.\""
+                                  },
+                                  {
+                                      "passage":  "RS Hasan Sadikin Bandung memakai Gaslink CNG sejak Agustus 2025, sekitar 1.500 m³ per bulan untuk dapur gizi.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"RS Hasan Sadikin Bandung memakai Gaslink CNG sejak Agustus 2025, sekitar 1.500 m³ per bulan untuk dapur gizi.\""
+                                  },
+                                  {
+                                      "passage":  "Di Bali, PT Puri Saron Seminyak menandatangani perjanjian jual-beli gas Gaslink sejak 2022.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Di Bali, PT Puri Saron Seminyak menandatangani perjanjian jual-beli gas Gaslink sejak 2022.\""
+                                  },
+                                  {
+                                      "passage":  "Pemerintah pun menargetkan gas bumi menyumbang 24% bauran energi nasional pada 2050 (Ditjen Migas ESDM, 2021).",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Pemerintah pun menargetkan gas bumi menyumbang 24% bauran energi nasional pada 2050 (Ditjen Migas ESDM, 2021).\""
+                                  },
+                                  {
+                                      "passage":  "- **Lahan tak memadai.** Bila ruang untuk Pressure Reduction Station maupun penempatan tabung tak tersedia, perlu evaluasi teknis, meski Gaslink Cylinder kerap melonggarkannya.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"- **Lahan tak memadai.** Bila ruang untuk Pressure Reduction Station maupun penempatan tabung tak tersedia, perlu evalua\""
+                                  },
+                                  {
+                                      "passage":  "## Apa yang Perlu Disiapkan di Lokasi Sebelum Beralih Empat hal menentukan kesiapan: ruang untuk Pressure Reduction Station, akses kendaraan pengangkut, kompatibilitas peralatan, dan estimasi konsumsi yang jelas.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## Apa yang Perlu Disiapkan di Lokasi Sebelum Beralih Empat hal menentukan kesiapan: ruang untuk Pressure Reduction Stat\""
+                                  },
+                                  {
+                                      "passage":  "## Sektor Apa Saja yang Paling Cocok Pakai Gaslink, dan Kenapa Yang menentukan kecocokan bukan label industrinya, melainkan aplikasi panasnya.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Sektor Apa Saja yang Paling Cocok Pakai Gaslink, dan Kenapa Yang menentukan kecocokan bukan label industrinya, melain\""
+                                  },
+                                  {
+                                      "passage":  "# Industri yang Cocok Pakai Gaslink + Cara Penerapannya Anda mungkin sudah yakin gas bumi lebih hemat dan bersih dibanding solar atau LPG tabung.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"# Industri yang Cocok Pakai Gaslink + Cara Penerapannya Anda mungkin sudah yakin gas bumi lebih hemat dan bersih dibandi\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

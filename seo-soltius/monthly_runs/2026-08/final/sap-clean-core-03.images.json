@@ -1,0 +1,91 @@
+{
+  "brief_id": "sap-clean-core-03",
+  "article_title_id": "Clean Core untuk Pengguna Bisnis: Kustomisasi SAP Tanpa Coding lewat Key-User Extensibility",
+  "language": "id",
+  "image_count": 3,
+  "planned_at": "2026-06-08",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero / setelah paragraf pengantar roadmap",
+      "concept_from_writer": "Diagram alur kerja key-user extensibility lima langkah horizontal — (1) Buka Fiori launchpad, (2) Pilih app yang extensible, (3) Gunakan Custom Fields and Logic atau Adapt UI, (4) Uji di tenant development, (5) Export ke production — tiap langkah dengan ikon SAP Fiori, gaya korporat biru-abu, teks Bahasa Indonesia",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Alur proses berurutan dengan lima langkah diskrit paling jelas sebagai diagram flowchart horizontal — lebih informatif daripada foto stok dan tidak memerlukan screenshot produk SAP nyata.",
+      "visual_direction": "Diagram flowchart horizontal lima langkah dengan latar putih bersih. Setiap langkah diwakili oleh kotak membulat (rounded rectangle) berwarna biru korporat (#003D70 atau setara biru SAP) yang dihubungkan oleh panah tipis berwarna abu-abu. Di atas setiap kotak terdapat nomor langkah (1–5) dalam lingkaran putih berbordir biru. Di dalam setiap kotak terdapat ikon garis tipis (line icon) monokromatik putih yang mewakili aksi: (1) ikon layar/laptop untuk 'Buka Fiori Launchpad', (2) ikon kursor-seleksi untuk 'Pilih Aplikasi yang Dapat Diperluas', (3) ikon field-tambah atau kunci-inggris untuk 'Gunakan Custom Fields and Logic atau Adapt UI', (4) ikon layar dengan tanda centang untuk 'Uji di Tenant Development', (5) ikon panah-upload ke atas untuk 'Ekspor ke Produksi'. Label teks setiap langkah ditulis di bawah kotak dalam font sans-serif bersih, ukuran sedang, hitam/abu-tua. Judul diagram di bagian atas: 'Alur Kerja Key-User Extensibility di SAP S/4HANA' dalam font bold biru tua. Keseluruhan desain menggunakan palet biru (#003D70) dan putih dengan aksen abu (#F5F5F5 untuk latar kotak label), proporsional landscape (16:9 atau 4:3). Semua teks dalam Bahasa Indonesia.",
+      "in_image_text_id": [
+        "Alur Kerja Key-User Extensibility di SAP S/4HANA",
+        "1. Buka Fiori Launchpad",
+        "2. Pilih Aplikasi yang Dapat Diperluas",
+        "3. Gunakan Custom Fields and Logic atau Adapt UI",
+        "4. Uji di Tenant Development",
+        "5. Ekspor ke Produksi"
+      ],
+      "alt_id": "Diagram alur lima langkah key-user extensibility SAP S/4HANA: dari Fiori launchpad hingga ekspor ke produksi tanpa coding",
+      "caption_id": "Alur kerja key-user extensibility di SAP S/4HANA dimulai dari Fiori launchpad dan selesai dengan ekspor perubahan ke sistem produksi — semuanya tanpa satu baris kode. Mekanisme ini tersedia di seluruh opsi penerapan S/4HANA, baik cloud publik, privat, maupun on-premise.",
+      "sourcing_note": "Buat sebagai diagram orisinal — tidak memerlukan screenshot SAP. Ikon dapat diambil dari library ikon SAP Fiori (SAP Icons) yang tersedia publik di SAP UI5 icon explorer, atau diganti ikon generis bergaya serupa. Pastikan tidak mereproduksi logo atau UI SAP secara verbatim.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "di dalam seksi 'Key-user vs developer vs side-by-side' — sebelum atau sesudah tabel perbandingan",
+      "concept_from_writer": "Tabel infografis perbandingan tiga jalur extensibility SAP S/4HANA — tiga kolom (Key-User, Developer, Side-by-Side) dengan ikon peran (pengguna bisnis, developer ABAP, arsitek BTP), indikator butuh-coding (centang/silang), dan satu contoh use case per kolom; warna brand SAP biru-abu, teks Bahasa Indonesia, format screenshot-friendly",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Perbandingan tiga pilihan dengan atribut diskrit (peran, kebutuhan coding, contoh kasus) paling efektif sebagai infografis tabel visual — mudah dibagikan, dapat dibaca sekilas, dan lebih kuat daripada tabel teks biasa di artikel.",
+      "visual_direction": "Infografis tabel tiga kolom dengan header kolom berwarna biru tua (#003D70): kolom 1 'Key-User (In-App)', kolom 2 'Developer Extensibility', kolom 3 'Side-by-Side (SAP BTP)'. Di bawah setiap header kolom terdapat ikon peran besar (64px): kolom 1 — ikon orang dengan tanda bintang/kunci (pengguna bisnis), kolom 2 — ikon orang dengan tanda kode '</>' (developer ABAP), kolom 3 — ikon awan dengan sambungan API (arsitek BTP); ikon monokromatik putih di atas latar biru. Setiap kolom memuat tiga baris konten di bawah ikon: (a) Baris 'Butuh Coding?' — kolom 1 menampilkan tanda silang merah (X) dengan label 'Tidak', kolom 2 dan 3 menampilkan tanda centang hijau dengan label 'Ya'; (b) Baris 'Contoh Kebutuhan' — teks singkat per kolom sesuai label in_image_text_id; (c) Baris 'Aman saat Upgrade?' — tiga tanda centang hijau identik (semua 'Ya'). Latar baris bergantian putih dan abu sangat muda (#F8F8F8). Border kolom garis tipis abu (#DDDDDD). Judul di atas tabel: 'Tiga Jalur Kustomisasi SAP S/4HANA yang Clean-Core-Safe'. Catatan kaki kecil di bawah: 'Sumber: SAP Learning, SAP News Center'. Palet: biru tua, putih, abu; aksen centang hijau (#2E7D32) dan silang merah (#C62828). Rasio landscape, semua teks Bahasa Indonesia.",
+      "in_image_text_id": [
+        "Tiga Jalur Kustomisasi SAP S/4HANA yang Clean-Core-Safe",
+        "Key-User (In-App)",
+        "Developer Extensibility",
+        "Side-by-Side (SAP BTP)",
+        "Pengguna Bisnis",
+        "Developer ABAP",
+        "Arsitek BTP",
+        "Butuh Coding?",
+        "Tidak",
+        "Ya",
+        "Ya",
+        "Contoh Kebutuhan",
+        "Tambah field di layar PO; validasi harga; atur kolom laporan",
+        "Laporan kompleks; wrapper API; perluas objek bisnis RAP",
+        "Aplikasi mobile terpisah; integrasi ERP-CRM; persetujuan multi-sistem",
+        "Aman saat Upgrade?",
+        "Ya",
+        "Ya",
+        "Ya",
+        "Sumber: SAP Learning, SAP News Center"
+      ],
+      "alt_id": "Infografis perbandingan tiga jalur extensibility SAP S/4HANA: key-user tanpa coding, developer ABAP, dan side-by-side di BTP",
+      "caption_id": "Ketiga jalur extensibility SAP S/4HANA — key-user, developer, dan side-by-side di BTP — bersifat clean-core-safe karena hanya memakai mekanisme yang telah di-release SAP. Perbedaan utamanya ada pada siapa yang mengerjakannya dan seberapa kompleks kebutuhannya.",
+      "sourcing_note": "Buat sebagai infografis orisinal berdasarkan data dari artikel dan dossier — tidak memerlukan screenshot SAP. Data acuan: tabel perbandingan di dalam artikel (SAP Learning, SAP News Center Agustus 2025). Tidak ada UI SAP yang perlu direproduksi.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_03",
+      "position": "di dalam seksi 'Kapan key-user extensibility TIDAK cukup' — setelah paragraf pembuka seksi",
+      "concept_from_writer": "Diagram dua zona keputusan — zona hijau 'Bisa dikerjakan key user' (tambah field, atur UI Fiori, validasi/kalkulasi sederhana) dan zona kuning-merah 'Perlu developer' (logika kompleks, integrasi lintas sistem, aplikasi baru), dengan panah eskalasi menuju developer extensibility / SAP BTP; teks Bahasa Indonesia, gaya korporat bersih",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Kerangka pengambilan keputusan dua zona (bisa vs perlu eskalasi) paling efektif sebagai diagram visual — membantu pembaca memutuskan jalur secara mandiri dan lebih kuat daripada daftar bullet teks.",
+      "visual_direction": "Diagram dua zona berdampingan (side-by-side) dalam satu kanvas landscape berlatar putih. Zona kiri berlabel 'Bisa Dikerjakan Key User' dengan bingkai dan latar hijau muda (#E8F5E9), berisi tiga item dengan ikon centang hijau (#2E7D32): (1) ikon field/form — 'Menambah custom field ke layar atau laporan', (2) ikon kursor drag-drop — 'Mengatur tampilan UI Fiori (Adapt UI)', (3) ikon tanda sama dengan — 'Validasi dan kalkulasi sederhana via Custom Logic'. Di bagian bawah zona kiri terdapat label kecil 'Tidak perlu coding' dalam font italic abu-tua. Zona kanan berlabel 'Perlu Diserahkan ke Developer' dengan bingkai dan latar kuning-oranye (#FFF3E0 hingga #FFCCBC), berisi tiga item dengan ikon tanda seru oranye (#E65100): (1) ikon cabang-kode — 'Logika bisnis kompleks dengan akses data luas', (2) ikon rantai-sambungan — 'Integrasi lintas sistem atau aplikasi', (3) ikon jendela-aplikasi — 'Aplikasi Fiori baru yang lengkap'. Di bawah zona kanan terdapat dua chip/badge kecil berwarna biru: 'Developer Extensibility (ABAP Cloud)' dan 'Side-by-Side (SAP BTP)'. Di antara dua zona terdapat panah tebal berwarna abu-biru bertuliskan 'Eskalasi' yang menunjuk dari zona kiri ke zona kanan. Judul diagram di atas: 'Kapan Key User Cukup — Kapan Harus Eskalasi ke Developer'. Tipografi sans-serif bersih, semua teks Bahasa Indonesia. Palet: hijau muda, oranye muda, putih, biru tua untuk judul dan chip.",
+      "in_image_text_id": [
+        "Kapan Key User Cukup — Kapan Harus Eskalasi ke Developer",
+        "Bisa Dikerjakan Key User",
+        "Menambah custom field ke layar atau laporan",
+        "Mengatur tampilan UI Fiori (Adapt UI)",
+        "Validasi dan kalkulasi sederhana via Custom Logic",
+        "Tidak perlu coding",
+        "Perlu Diserahkan ke Developer",
+        "Logika bisnis kompleks dengan akses data luas",
+        "Integrasi lintas sistem atau aplikasi",
+        "Aplikasi Fiori baru yang lengkap",
+        "Eskalasi",
+        "Developer Extensibility (ABAP Cloud)",
+        "Side-by-Side (SAP BTP)"
+      ],
+      "alt_id": "Diagram dua zona keputusan SAP S/4HANA: kapan key user bisa mengerjakan sendiri dan kapan harus eskalasi ke developer",
+      "caption_id": "Panduan keputusan praktis: zona hijau menunjukkan kebutuhan yang bisa ditangani key user secara mandiri — dari custom field hingga validasi sederhana — sementara zona oranye menandai titik di mana keterlibatan developer extensibility atau SAP BTP menjadi keharusan. Memaksakan kebutuhan besar ke alat key-user menghasilkan logika yang sulit dipelihara saat upgrade.",
+      "sourcing_note": "Buat sebagai diagram orisinal — tidak memerlukan screenshot SAP. Konten zona mengacu pada SAP Learning ('Explaining Key User Extensibility') dan SAP Community ('Layering of Key User Extensibility and Developer Extensibility'). Tidak ada UI SAP yang perlu direproduksi.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

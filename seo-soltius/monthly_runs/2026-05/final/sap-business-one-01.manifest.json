@@ -1,0 +1,26 @@
+[
+  {
+    "prompt": "Photorealistic photograph of a professional Indonesian woman in her early 40s, wearing business casual attire, seated at a modern clean-lined office desk, intently reviewing financial dashboards on a laptop and a tablet simultaneously, warm natural light streaming from large windows behind her, shallow depth of field with a softly blurred open-plan corporate office background showing glass partitions and colleagues in the distance, expression focused and thoughtful as if weighing an important business decision, corporate B2B aesthetic, cool blue and warm amber accent tones, professional trade-publication quality, 16:9 aspect ratio, no text, no watermarks, no logos, no readable lettering",
+    "output_path": "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-05\\final\\sap-business-one-01-01.png",
+    "size": "1440x960",
+    "quality": "high",
+    "format": "png",
+    "background": "auto"
+  },
+  {
+    "prompt": "Clean conceptual split-screen flat illustration in a modern B2B SaaS style, left half depicting visual chaos: a cluttered desk with scattered paper ledgers, sticky notes in different colors, and three mismatched monitor screens each showing different disconnected spreadsheet grids, muted red and grey tones, slight visual tension, right half depicting calm order: a single large monitor displaying a clean unified dashboard with smooth connected workflow icons representing finance, sales, inventory, and purchasing all flowing into one central hub, cool blue and green tones, visual sense of clarity and integration, a subtle vertical dividing line between the two halves, minimalist office setting, professional enterprise software aesthetic, no text, no watermarks, no logos, no readable lettering",
+    "output_path": "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-05\\final\\sap-business-one-01-02.png",
+    "size": "1440x960",
+    "quality": "medium",
+    "format": "png",
+    "background": "auto"
+  },
+  {
+    "prompt": "Modern flat illustration of a professional project roadmap scene, a diverse team of three business consultants standing around a large bright glass whiteboard in a contemporary corporate meeting room, the whiteboard displays a horizontal left-to-right connected milestone path with five distinct circular milestone nodes connected by arrows, each node contains only a simple abstract icon (no text), the nodes progress in color from cool grey on the far left through increasingly saturated teal and then to a vivid green node on the far right representing completion, floor-to-ceiling windows in the background with a city skyline, clean white and light grey interior, warm natural daylight, professional B2B enterprise aesthetic, sense of forward momentum and collaborative planning, no text, no watermarks, no logos, no readable lettering",
+    "output_path": "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-05\\final\\sap-business-one-01-03.png",
+    "size": "1440x960",
+    "quality": "medium",
+    "format": "png",
+    "background": "auto"
+  }
+]

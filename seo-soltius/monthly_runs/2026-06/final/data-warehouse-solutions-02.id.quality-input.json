@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-06\\final\\data-warehouse-solutions-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-03T01:45:15+07:00",
+    "word_count":  1450,
+    "paragraph_count":  32,
+    "sentence_count":  87,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.468,
+                        "sentence_burstiness":  0.855,
+                        "top30_vocab_share":  0.386,
+                        "flags":  [
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 38.6% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "## SAP Datasphere: Ketika Batas antara Warehouse dan Lake Kabur SAP Datasphere, nama terbaru untuk SAP Data Warehouse Cloud sejak Q1 2023, bukan sekadar data warehouse.",
+                                      "candidate_score":  39,
+                                      "web_search_query":  "\"## SAP Datasphere: Ketika Batas antara Warehouse dan Lake Kabur SAP Datasphere, nama terbaru untuk SAP Data Warehouse Cl\""
+                                  },
+                                  {
+                                      "passage":  "Data lakehouse menggabungkan keduanya: menyimpan data raw seperti lake, tapi mendukung ACID transactions dan performa tinggi seperti warehouse, menggunakan format open table seperti Delta Lake atau Apache Iceberg.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Data lakehouse menggabungkan keduanya: menyimpan data raw seperti lake, tapi mendukung ACID transactions dan performa ti\""
+                                  },
+                                  {
+                                      "passage":  "## Jangan Terjebak Hype: Mengapa Data Lake Sering Underdeliver Bagian ini jarang ditulis vendor; justru di sinilah kejujuran membangun kepercayaan.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Jangan Terjebak Hype: Mengapa Data Lake Sering Underdeliver Bagian ini jarang ditulis vendor; justru di sinilah kejuj\""
+                                  },
+                                  {
+                                      "passage":  "## Perbandingan Head-to-Head: Trade-Off Nyata di 7 Dimensi Tabel berikut adalah bahan diskusi untuk rapat arsitektur, bukan keputusan final.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"## Perbandingan Head-to-Head: Trade-Off Nyata di 7 Dimensi Tabel berikut adalah bahan diskusi untuk rapat arsitektur, bu\""
+                                  },
+                                  {
+                                      "passage":  "## Tiga Paradigma: Definisi yang Perlu Disepakati Dulu Ketiga istilah ini sering dipertukarkan bahkan di diskusi teknis, dan pencampuran itu biasanya awal dari keputusan arsitektur yang keliru.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Tiga Paradigma: Definisi yang Perlu Disepakati Dulu Ketiga istilah ini sering dipertukarkan bahkan di diskusi teknis,\""
+                                  },
+                                  {
+                                      "passage":  "File CSV, JSON, log server, rekaman audio, semuanya masuk tanpa transformasi awal.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"File CSV, JSON, log server, rekaman audio, semuanya masuk tanpa transformasi awal.\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai SAP Platinum Partner melalui United VARs, Soltius mendampingi perusahaan dalam keputusan arsitektur data, dari assessment hingga implementasi.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Sebagai SAP Platinum Partner melalui United VARs, Soltius mendampingi perusahaan dalam keputusan arsitektur data, dari a\""
+                                  },
+                                  {
+                                      "passage":  "Migrasi ke platform seperti SAP Datasphere atau BW/4HANA Cloud berlangsung antara 3 hingga 12 bulan untuk fungsionalitas inti, bergantung pada volume data, kompleksitas skema, dan kualitas data awal.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Migrasi ke platform seperti SAP Datasphere atau BW/4HANA Cloud berlangsung antara 3 hingga 12 bulan untuk fungsionalitas\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

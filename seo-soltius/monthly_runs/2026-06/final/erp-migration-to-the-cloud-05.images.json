@@ -1,0 +1,59 @@
+{
+  "brief_id": "erp-migration-to-the-cloud-05",
+  "article_title_id": "Setelah Go-Live ERP Cloud: Tantangan yang Jarang Diceritakan (dan Cara Mengatasinya)",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-02",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Infografik horizontal tiga fase pasca go-live — \"Hypercare\" (minggu 1–8, warna hijau muda), \"Stabilisasi\" (bulan 2–6, warna biru), \"Steady State\" (bulan 6+, warna biru tua) — tiap fase menampilkan ikon, deskripsi singkat aktivitas utama, dan penanggung jawab; gaya korporat bersih, teks Bahasa Indonesia",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Tiga fase berurutan dengan label, ikon, dan tanggung jawab berbeda paling efektif disajikan sebagai infografis alur horizontal; format ini langsung dapat dipindai pembaca B2B yang tidak punya waktu membaca paragraf narasi.",
+      "visual_direction": "Infografis horizontal dengan tiga kolom fase yang terhubung oleh panah satu arah (kiri ke kanan). Latar belakang putih bersih. Setiap kolom memiliki blok warna header: kolom 1 hijau muda (#A8D5A2), kolom 2 biru medium (#2D7DD2), kolom 3 biru tua (#1A4A8A). Di dalam setiap kolom: (1) ikon monoline yang relevan — kolom 1: ikon headset dukungan, kolom 2: ikon gear/roda gigi, kolom 3: ikon checkmark/bintang; (2) label fase dalam huruf bold (font sans-serif korporat, putih untuk kolom 2 dan 3, hijau tua untuk kolom 1); (3) rentang waktu dalam huruf lebih kecil di bawah label fase; (4) 2–3 poin aktivitas utama dalam bullet singkat (font hitam, ukuran 10–11pt); (5) baris teks 'Penanggung Jawab:' beserta nama pihak dalam huruf italic di bagian bawah kolom. Di bawah keseluruhan infografis, satu baris footer kecil: 'Sumber: Praktik Implementasi SAP; insightsoftware.com, 2024'. Seluruh teks dalam Bahasa Indonesia. Rasio lebar:tinggi sekitar 16:7.",
+      "in_image_text_id": [
+        "Hypercare",
+        "Minggu 1–8 pasca go-live",
+        "Dukungan intensif; tiket eskalasi cepat; daily stand-up; perbaikan bug kritis",
+        "Penanggung Jawab: Tim Implementasi / Mitra",
+        "Stabilisasi",
+        "Bulan 2–6",
+        "Peningkatan adoption rate; pembangunan custom report; penyempurnaan integrasi; pelatihan lanjutan",
+        "Penanggung Jawab: Tim IT Internal + Mitra AMS",
+        "Steady State",
+        "Bulan 6+",
+        "Sistem berjalan mandiri; AMS mengelola operasional rutin; enhancement terencana",
+        "Penanggung Jawab: Mitra AMS + Tim IT Internal"
+      ],
+      "alt_id": "Infografis tiga fase pasca go-live ERP cloud: Hypercare (minggu 1–8), Stabilisasi (bulan 2–6), dan Steady State (bulan 6+) beserta penanggung jawab masing-masing",
+      "caption_id": "Fase pasca go-live ERP cloud terbagi tiga: Hypercare (4–8 minggu pertama dukungan intensif mitra implementasi), Stabilisasi (bulan 2–6 penguatan adopsi dan integrasi), dan Steady State (bulan 6+ operasional mandiri). Memahami ketiga fase ini penting agar anggaran pendampingan dan ekspektasi manajemen disusun secara realistis sejak awal proyek.",
+      "sourcing_note": "Infografis asli yang dibuat oleh tim desain berdasarkan data artikel dan dossier — tidak memerlukan screenshot produk SAP. Gunakan palet warna korporat Soltius (biru #1A4A8A dan #2D7DD2, aksen hijau #A8D5A2 untuk fase pertama). Data dasar berasal dari tabel timeline di dossier dan insightsoftware.com survey 2024.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body — setelah daftar 5 tantangan, sebelum H2 'Berapa Lama Fase Transisi'",
+      "concept_from_writer": "Bar chart berpasangan — kiri \"Tantangan yang diprediksi sebelum migrasi\" (keamanan data 38%, biaya 38%); kanan \"Tantangan yang benar-benar dihadapi setelah migrasi\" (integrasi 49%, kesenjangan skill 47%, change management 47%) — visualisasi kontras ekspektasi vs realita; warna: biru muda untuk prediksi, biru tua untuk realita; sumber insightsoftware.com 2024; teks Bahasa Indonesia",
+      "suggested_asset_type": "chart",
+      "asset_type_rationale": "Data kuantitatif berpasangan dari survei insightsoftware.com 2024 paling kuat disajikan sebagai bar chart grouped/berpasangan; memperlihatkan 'kejutan' ekspektasi vs realita secara visual yang langsung terbaca pembaca C-level dalam 3 detik tanpa membaca teks.",
+      "visual_direction": "Bar chart grouped (berpasangan) dengan orientasi horizontal. Dua kelompok utama dipisahkan oleh spasi vertikal yang cukup agar kontras terlihat jelas. Kelompok atas berlabel 'Tantangan yang Diprediksi Sebelum Migrasi' (badge biru muda #74B3E3): dua bar — 'Keamanan data' 38% dan 'Biaya & anggaran' 38%. Kelompok bawah berlabel 'Tantangan yang Benar-Benar Dihadapi Setelah Migrasi' (badge biru tua #1A4A8A): tiga bar — 'Integrasi sistem' 49%, 'Kesenjangan skill IT' 47%, 'Change management / adopsi pengguna' 47%. Setiap bar menampilkan label persentase di ujung kanan bar (bold, warna sesuai kelompok). Sumbu X: 0%–60%, grid line tipis abu-abu setiap 10%. Latar belakang putih. Di pojok kanan bawah: teks footnote kecil 'Sumber: insightsoftware.com, November 2024 — SAP S/4HANA Cloud Migration Challenges Survey'. Judul chart: 'Ekspektasi vs Realita Pasca Migrasi ERP Cloud' (bold, 14pt, hitam). Seluruh label dalam Bahasa Indonesia. Rasio lebar:tinggi sekitar 16:9.",
+      "in_image_text_id": [
+        "Ekspektasi vs Realita Pasca Migrasi ERP Cloud",
+        "Tantangan yang Diprediksi Sebelum Migrasi",
+        "Keamanan data — 38%",
+        "Biaya & anggaran — 38%",
+        "Tantangan yang Benar-Benar Dihadapi Setelah Migrasi",
+        "Integrasi sistem — 49%",
+        "Kesenjangan skill IT — 47%",
+        "Change management / adopsi pengguna — 47%",
+        "Sumber: insightsoftware.com, November 2024"
+      ],
+      "alt_id": "Bar chart perbandingan tantangan yang diprediksi sebelum migrasi ERP cloud (keamanan 38%, biaya 38%) versus tantangan aktual pasca migrasi (integrasi 49%, skill gap 47%, change management 47%)",
+      "caption_id": "Tantangan yang paling banyak ditakutkan sebelum migrasi — keamanan dan biaya — ternyata bukan yang paling banyak dialami. Integrasi sistem (49%), kesenjangan skill IT (47%), dan rendahnya adopsi pengguna (47%) menjadi tantangan terbesar pasca go-live berdasarkan survei insightsoftware.com terhadap tim keuangan berbasis SAP, November 2024.",
+      "sourcing_note": "Chart dibangun dari data primer survei insightsoftware.com (November 2024) yang dikutip langsung dalam artikel — tidak memerlukan izin tambahan untuk visualisasi data dengan atribusi sumber yang jelas. Tim desain dapat membuat chart ini di tool visualisasi data pilihan (Figma, Canva, Adobe Illustrator, atau Excel/Google Sheets export). Pastikan footnote sumber tetap terbaca. Tidak ada screenshot SAP yang diperlukan.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

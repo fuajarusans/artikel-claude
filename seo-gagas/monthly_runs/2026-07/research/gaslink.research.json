@@ -1,0 +1,81 @@
+{
+  "keyword": "Gaslink",
+  "keyword_slug": "gaslink",
+  "month": "2026-07",
+  "captured_at": "2026-06-09",
+  "landing_page": "https://gagas.co.id/gaslink/",
+  "landing_page_summary": "Hub Gaslink: mendefinisikan Gaslink sebagai layanan gas bumi terkompresi (CNG) yang disalurkan via Gas Transport Module (GTM) untuk industri, komersial, HOREKA, dan UMKM di luar jaringan pipa; menjelaskan GTM sebagai 'pipa gas virtual' yang terhubung ke Pressure Reduction Station di lokasi pelanggan; menyebut varian Gaslink Cylinder (tabung baja 28 m3); menonjolkan benefit (Harga Kompetitif, Ramah Lingkungan, Perhitungan Akurat/smart metering 'bayar sesuai pemakaian', Lebih Aman, Pelayanan 24 Jam) dan klaim hemat hingga 30%. CTA: 021-29071415, info@gagas.co.id, Form Pendaftaran.",
+  "data_sources_used": ["live_serp (gagas.co.id landing page fetched fresh)", "websearch (google.com/search blocked by anti-bot for raw SERP; degraded to WebSearch for SERP landscape, PAA-style questions, competitor angles, and authoritative stats)"],
+  "ahrefs_available": false,
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Branded product keyword with rising commercial signal — PGN Gagas reports Gaslink reaching 600+ pelanggan and 4.067.002 MMBTU tersalur sepanjang 2025 (kumparan/ANTARA, Sep 2025); active news coverage 2021-2025 indicates growing category interest. No numeric volume available without Ahrefs.",
+    "report_rank": "n/a (no seo_report named in keywords.md; seo_report: none)"
+  },
+  "serp": {
+    "top_10": [
+      { "url": "https://www.gagas.co.id/gaslink/", "title": "Gaslink", "angle_summary": "Own hub — definisi Gaslink, GTM sebagai pipa gas virtual, Gaslink Cylinder 28 m3, benefit & form pendaftaran." },
+      { "url": "https://katadata.co.id/happyfajrian/berita/61b8692b9ddaf/gaslink-cara-baru-pgn-distribusikan-gas-untuk-industri-dan-komersial", "title": "Gaslink, Cara Baru PGN Distribusikan Gas Untuk Industri dan Komersial - Katadata", "angle_summary": "Berita/PR — memperkenalkan Gaslink sebagai skema distribusi gas baru PGN untuk industri & komersial (news framing, bukan explainer mendalam)." },
+      { "url": "https://money.kompas.com/read/2022/08/22/174430126/gaslink-cylinder-inovasi-cng-dalam-tabung-untuk-pelaku-umkm-dan-industri", "title": "Gaslink Cylinder, Inovasi CNG dalam Tabung untuk Pelaku UMKM dan Industri - Kompas", "angle_summary": "Fokus sempit ke varian Gaslink Cylinder (CNG dalam tabung) untuk UMKM; tidak menjelaskan rantai pasok GTM/beyond-pipeline secara utuh." },
+      { "url": "https://petrominer.com/gaslink-solusi-distribusi-gas-tanpa-pipa/", "title": "Gaslink, Solusi Distribusi Gas Tanpa Pipa - Petrominer", "angle_summary": "Media energi — menonjolkan angle 'distribusi gas tanpa pipa'; berita singkat, bukan panduan pengambil keputusan." },
+      { "url": "https://industri.kontan.co.id/news/anak-usaha-pgn-genjot-pemanfaatan-cng-ke-wilayah-non-jaringan-pipa", "title": "Anak usaha PGN Genjot Pemanfaatan CNG ke Wilayah Non Jaringan Pipa - Kontan", "angle_summary": "Berita korporat — ekspansi CNG PGN ke wilayah non-pipa; konteks bisnis, bukan edukasi 'apa itu/bagaimana cara kerja'." },
+      { "url": "https://www.antaranews.com/berita/3068237/gaslink-cng-perkuat-layanan-gas-bumi-subholding-gas-pertamina-di-bali", "title": "Gaslink CNG perkuat layanan gas bumi Subholding Gas Pertamina di Bali - ANTARA", "angle_summary": "Berita regional (Bali/perhotelan) — Gaslink memperkuat layanan gas Subholding Gas Pertamina; PR-style." },
+      { "url": "https://kumparan.com/kumparanbisnis/pgn-salurkan-gaslink-ke-600-pelanggan-per-september-2025-hotel-hingga-dapur-mbg-26Bugu2sc4Z", "title": "PGN Salurkan Gaslink ke 600 Pelanggan per September 2025, Hotel hingga Dapur MBG - kumparan", "angle_summary": "Berita capaian — 600 pelanggan & 4.067.002 MMBTU per Sep 2025; data faktual berguna sebagai E-E-A-T (bukan explainer)." },
+      { "url": "https://www.dunia-energi.com/gaslink-cng-jadi-bahan-bakar-alternatif-industri-perhotelan-di-bali/", "title": "Gaslink CNG Jadi Bahan Bakar Alternatif Industri Perhotelan di Bali - Dunia Energi", "angle_summary": "Use-case perhotelan Bali; angle aplikasi sektor, bukan definisi konsep." },
+      { "url": "https://www.ruangenergi.com/pt-gagas-luncurkan-inovasi-penyaluran-gaslink-melalui-cng-cylinder/", "title": "PT Gagas Luncurkan Inovasi Penyaluran Gaslink Melalui CNG Cylinder - RuangEnergi", "angle_summary": "Peluncuran Gaslink Cylinder; berita produk." },
+      { "url": "https://gasra.co.id/produk/gasra-industri/", "title": "GASRA Industri - (penyedia CNG kompetitor)", "angle_summary": "Kompetitor CNG (GASRA) — produk CNG industri via GTM untuk pelanggan di luar pipa, estimasi 20.000-1.500.000 Sm3/bulan; menunjukkan kategori, bukan Gaslink." }
+    ],
+    "serp_features": ["organic_news_heavy", "paa (inferred via websearch — raw google blocked)"],
+    "ai_overview_entities": ["Gaslink", "CNG (Compressed Natural Gas)", "gas bumi terkompresi", "Gas Transport Module (GTM)", "PT Gagas Energi Indonesia / PGN Gagas", "PGN (Subholding Gas Pertamina)", "beyond-pipeline / non jaringan pipa", "Pressure Reduction Station", "Gaslink Cylinder (tabung 28 m3)", "industri-komersial-UMKM-HOREKA"]
+  },
+  "paa": [
+    "Apa itu Gaslink?",
+    "Apa bedanya Gaslink dengan gas pipa (jaringan gas PGN)?",
+    "Apa itu Gas Transport Module (GTM) dan bagaimana cara kerjanya?",
+    "Bagaimana cara berlangganan Gaslink dan menghitung biayanya?",
+    "Apakah Gaslink (CNG) aman digunakan di lokasi usaha?",
+    "Industri apa saja yang bisa memakai Gaslink?",
+    "Apa itu Gaslink Cylinder dan bedanya dengan Gaslink GTM?",
+    "Apakah beralih ke CNG/Gaslink lebih hemat dibanding LPG atau solar?",
+    "Apa itu 'beyond pipeline' dan kenapa relevan untuk industri tanpa pipa gas?"
+  ],
+  "gsc_style_queries_from_report": [],
+  "competitor_landscape": {
+    "news_PR_dominates_SERP": "Top organic untuk 'gaslink' didominasi berita/PR (Katadata, Kompas, Petrominer, Kontan, ANTARA, kumparan, Dunia Energi, RuangEnergi). Tidak ada explainer pengambil keputusan yang utuh (definisi + cara kerja rantai pasok + kapan cocok/belum cocok + FAQ) selain landing page sendiri.",
+    "rival_cng_providers": ["GASRA (gasra.co.id) - CNG industri via GTM", "SGE / sentralgas.com - pemasok GTM CNG", "suppliercng.com - distributor CNG", "PT Reethau Cipta Energi (UGM thesis on GTM utilization)"],
+    "gap_to_exploit": "Belum ada satu halaman netral yang menjelaskan KONSEP Gaslink secara lengkap untuk pengambil keputusan: definisi yang dapat dikutip + rantai pasok Mother Station -> kompresi -> GTM -> Pressure Reduction Station di lokasi -> mengapa 'beyond pipeline' menjawab masalah lokasi tanpa pipa, ditambah bagian jujur 'kapan bisnis BELUM cocok pakai Gaslink' dan FAQ terstruktur. SERP saat ini = berita pendek + halaman produk; kosong untuk explainer GEO-citable."
+  },
+  "key_facts_captured": {
+    "definition_verbatim_from_gagas": "Gaslink adalah layanan gas bumi terkompresi (CNG) yang disalurkan melalui moda transportasi gas (gas transport module) untuk berbagai pelaku usaha di sektor industri, komersial hingga UMKM yang belum dilalui oleh jaringan gas pipa dengan harga yang kompetitif.",
+    "gtm_as_virtual_pipeline": "GTM = truk yang terhubung langsung ke Pressure Reduction Station permanen di lokasi pelanggan; berfungsi sebagai 'pipa gas virtual' / infrastruktur bergerak.",
+    "gaslink_cylinder_capacity": "Tabung baja kapasitas 28 m3 (untuk pelanggan dengan keterbatasan lahan).",
+    "gtm_capacity_INDUSTRY_GENERAL_VERIFY": "Sumber industri (bukan Gagas): GTM 10ft ~800-1.000 Sm3, 20ft ~2.500-2.800 Sm3, 40ft ~3.500-4.500 Sm3. HARUS DIVERIFIKASI sebagai spesifikasi Gagas; jangan diklaim sebagai angka resmi Gaslink tanpa konfirmasi.",
+    "gaslink_operational_sep2025_VERIFY": "kumparan/ANTARA (Sep 2025): Gaslink ke 600+ pelanggan; total penyaluran 4.067.002 MMBTU sepanjang 2025; sumber lain menyebut 14 SPBG. Lebih baru dari company_profile.md (12 SPBG/4 MRU per akhir 2021) - researcher konfirmasi angka terkini & beri sumber.",
+    "cost_savings_examples_VERIFY": "Hotel Dharmawangsa (Republika/merdeka): CNG hemat ~20-50% vs LPG. RS Kariadi Semarang (2025): tekan biaya operasional ~Rp3 miliar/tahun beralih dari solar & LPG. Usaha laundry: hemat 40-50% vs LPG. Semua perlu atribusi sumber + tahun; frame sebagai contoh/rentang, bukan jaminan.",
+    "safety_facts": "CNG lebih ringan dari udara (cepat menguap saat bocor, kurangi risiko ledakan); titik nyala lebih tinggi (lebih sulit terbakar dibanding bensin/solar).",
+    "national_stat_for_eeat_VERIFY": "Kementerian ESDM (Laporan Kinerja Ditjen Migas 2025): pemanfaatan domestik gas bumi 3.908 BBTUD (69% dari ~5.600 BBTUD); konsumen gas domestik terbesar = sektor industri ~30,83%. Lifting gas 2025 ~951,8 MBOEPD. Anchor E-E-A-T yang kuat; researcher verifikasi angka & URL ESDM."
+  },
+  "authoritative_sources_for_eeat": [
+    { "source": "Kementerian ESDM - Laporan Kinerja Ditjen Migas 2025", "url_hint": "https://www.esdm.go.id/assets/media/content/content-laporan-kinerja-ditjen-minyak-dan-gas-bumi-tahun-2025.pdf", "backs": "pemanfaatan domestik gas bumi & porsi sektor industri" },
+    { "source": "Kementerian ESDM - 'Peran Gas Bumi dalam Bauran Energi Nasional akan Ditingkatkan'", "url_hint": "https://www.esdm.go.id/id/media-center/arsip-berita/peran-gas-bumi-dalan-bauran-energi-nasional-akan-ditingkatkan", "backs": "gas bumi sebagai energi transisi & prioritas nasional" },
+    { "source": "Purnomo Yusgiantoro Center - Laporan Studi Konversi LPG ke CNG (2023)", "url_hint": "https://www.purnomoyusgiantorocenter.org/wp-content/uploads/2023/11/Laporan-Hasil-Studi-Konversi-LPG-ke-CNG_compressed.pdf", "backs": "ekonomi konversi LPG->CNG (gunakan untuk klaim penghematan yang berimbang)" }
+  ],
+  "comparison_addendum_for_gaslink02_VERIFY": {
+    "note": "Captured via WebSearch on 2026-06-09 specifically to fill the cost/efficiency gap for gaslink-02. ALL figures must be re-verified by the researcher with source + date and framed as RANGES, not guarantees.",
+    "esdm_bio_cng_vs_lpg": "Kementerian ESDM ('ESDM Dorong Bio-CNG jadi Subtitusi LPG', esdm.go.id): CNG ~20-30% lebih murah per satuan kalori dibanding LPG; LPG ~US$22/MMBTU vs CNG tabung kecil proyeksi ~US$15/MMBTU; ongkos material tabung CNG ~US$10-13/MMBTU. VERIFY angka & tahun.",
+    "esdm_gas_price_benchmarks": "Harga gas bumi tertentu industri / plant gate (Kepmen/Permen ESDM, HGBT) dan gas pembangkit ~US$6/MMBTU — gunakan sebagai patokan harga gas, BUKAN harga Gaslink spesifik. VERIFY angka terkini.",
+    "calorific_values_for_equivalence": "Untuk menjelaskan kenapa 'harga per liter solar' tak bisa diadu langsung dengan 'harga per m3 gas': nilai kalori solar ~9.150 kcal/liter; ~1 liter solar setara ~0,84-1,0 m3 gas bumi/CNG (sumber akademik ejournal undip/uniska + repository). VERIFY & pakai sebagai konsep, beri sumber.",
+    "savings_range_framing": "Konversi solar->gas bumi diklaim menekan biaya produksi ~30-50% (sumber akademik) — gunakan sebagai RENTANG ilustratif, bukan janji. Konsisten dengan Hotel Dharmawangsa ~20-50% (2017) yang sudah dipakai gaslink-01.",
+    "DO_NOT_CONFUSE": "Program 'CNG tabung 3 kg pengganti LPG 3 kg' + figur retail 27%/40% lebih murah (CNN/Bloomberg Technoz, 2026) adalah program substitusi LPG KONSUMEN/rumah tangga, BUKAN Gaslink industri/komersial. Jangan dipakai sebagai contoh Gaslink (bahaya yang sama dengan kasus RS Kariadi = gas pipa, bukan Gaslink)."
+  },
+  "history_snapshot": {
+    "existing_articles_for_keyword": [],
+    "history_index_status": "articles_history/index.json -> articles: [] (kosong; Gaslink belum punya artikel). by_keyword/gaslink/ belum ada. Ini artikel PERTAMA cluster Gaslink (dan pertama proyek) - tidak ada konflik kanibalisasi.",
+    "uncovered_angles": [
+      "01 (THIS): definisi + rantai pasok beyond-pipeline (informasional/cornerstone)",
+      "02 reserved: Gaslink vs LPG vs solar - perbandingan biaya & efisiensi (comparison)",
+      "03 reserved: industri yang cocok + cara penerapan (how-to/use-case)"
+    ]
+  }
+}

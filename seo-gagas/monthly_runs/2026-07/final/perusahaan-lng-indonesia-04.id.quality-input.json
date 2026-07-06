@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07\\final\\perusahaan-lng-indonesia-04.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-09T18:01:59+07:00",
+    "word_count":  1597,
+    "paragraph_count":  16,
+    "sentence_count":  83,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.433,
+                        "sentence_burstiness":  0.765,
+                        "top30_vocab_share":  0.326,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.433 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Tangguh mencapai total 11,4 MTPA setelah *Train* 3 diresmikan pada 24 November 2023 (Kementerian ESDM, 2023), sementara Donggi Senoro beroperasi dengan satu *train* 2,1 MTPA.",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"Tangguh mencapai total 11,4 MTPA setelah *Train* 3 diresmikan pada 24 November 2023 (Kementerian ESDM, 2023), sementara \""
+                                  },
+                                  {
+                                      "passage":  "Kilang Bontang memiliki kapasitas terpasang (*nameplate*) sekitar 22,5 MTPA dari delapan *train*, meski kini hanya 2–3 *train* beroperasi akibat penurunan pasokan gas hulu (Finance.detik.com, 2024).",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"Kilang Bontang memiliki kapasitas terpasang (*nameplate*) sekitar 22,5 MTPA dari delapan *train*, meski kini hanya 2–3 *\""
+                                  },
+                                  {
+                                      "passage":  "Kilang aktif Indonesia: Bontang (PT Badak NGL), Tangguh (BP), dan Donggi Senoro (DSLNG).",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Kilang aktif Indonesia: Bontang (PT Badak NGL), Tangguh (BP), dan Donggi Senoro (DSLNG).\""
+                                  },
+                                  {
+                                      "passage":  "Sektor pembangkit listrik termasuk konsumen utama, dengan serapan 683,49 BBTUD dari total 3.745 BBTUD gas domestik pada 2023 menurut Kementerian ESDM.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"Sektor pembangkit listrik termasuk konsumen utama, dengan serapan 683,49 BBTUD dari total 3.745 BBTUD gas domestik pada \""
+                                  },
+                                  {
+                                      "passage":  "**Transportasi.** Dua moda: kapal *LNG carrier* (120.000–180.000 m³) untuk jarak jauh antarpulau, dan *LNG ISO tank* (20.000–40.000 liter) lewat truk untuk distribusi darat modular, kerap disebut *virtual pipeline*.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"**Transportasi.** Dua moda: kapal *LNG carrier* (120.000–180.000 m³) untuk jarak jauh antarpulau, dan *LNG ISO tank* (20\""
+                                  },
+                                  {
+                                      "passage":  "# Rantai Pasok LNG: dari Likuifaksi hingga Pengguna Akhir Saat seorang manajer energi mendengar \"pasokan ini datang dalam bentuk LNG\", ia jarang tahu jalan panjang di belakangnya.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"# Rantai Pasok LNG: dari Likuifaksi hingga Pengguna Akhir Saat seorang manajer energi mendengar  pasokan ini datang dala\""
+                                  },
+                                  {
+                                      "passage":  "**Pengguna akhir.** Pembangkit listrik, industri besar seperti petrokimia, industri menengah, HOREKA (hotel, restoran, kafe), dan fasilitas publik seperti rumah sakit.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"**Pengguna akhir.** Pembangkit listrik, industri besar seperti petrokimia, industri menengah, HOREKA (hotel, restoran, k\""
+                                  },
+                                  {
+                                      "passage":  "Di Indonesia, rantainya membentang dari kilang seperti Bontang dan Tangguh hingga terminal regasifikasi di Arun, Lampung, dan Teluk Jakarta.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Di Indonesia, rantainya membentang dari kilang seperti Bontang dan Tangguh hingga terminal regasifikasi di Arun, Lampung\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "C:\\Users\\seo\\Documents\\seo-stp\\monthly_runs\\2026-05\\final\\pakan-ikan-lele-01.en.md",
+    "language":  "en",
+    "generated_at":  "2026-05-26T15:16:42+07:00",
+    "word_count":  2884,
+    "paragraph_count":  42,
+    "sentence_count":  136,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.558,
+                        "sentence_burstiness":  0.975,
+                        "top30_vocab_share":  0.254,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Indonesia produced **1,157,755 tonnes of farmed catfish in 2024**, up from 1,136,619 tonnes in 2023 according to the Ministry of Marine Affairs and Fisheries (KKP).",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"Indonesia produced **1,157,755 tonnes of farmed catfish in 2024**, up from 1,136,619 tonnes in 2023 according to the Min\""
+                                  },
+                                  {
+                                      "passage":  "**Pellet diameter** sized to mouth gape: 0.6-1 mm for hatchery, 1-2 mm for fingerling, 2-3 mm for grow-out, 3-4 mm for finisher.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"**Pellet diameter** sized to mouth gape: 0.6-1 mm for hatchery, 1-2 mm for fingerling, 2-3 mm for grow-out, 3-4 mm for f\""
+                                  },
+                                  {
+                                      "passage":  "**Crude protein** by phase: 38-40 percent for fry, 32-35 percent for fingerling, 30-33 percent for grow-out, and 26-30 percent for finisher.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"**Crude protein** by phase: 38-40 percent for fry, 32-35 percent for fingerling, 30-33 percent for grow-out, and 26-30 p\""
+                                  },
+                                  {
+                                      "passage":  "## Combining Commercial Feed with BSF Maggot and Fermented Inputs Partial substitution of commercial pellet with alternative ingredients has gained traction since pellet prices climbed through 2022-2024.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"## Combining Commercial Feed with BSF Maggot and Fermented Inputs Partial substitution of commercial pellet with alterna\""
+                                  },
+                                  {
+                                      "passage":  "## Frequently Asked Questions ### How many times per day should adult catfish be fed?",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Frequently Asked Questions ### How many times per day should adult catfish be fed?\""
+                                  },
+                                  {
+                                      "passage":  "### What does catfish feed cost per 30 kg sack in 2026?",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"### What does catfish feed cost per 30 kg sack in 2026?\""
+                                  },
+                                  {
+                                      "passage":  "## Worked Example: Feed Requirement for 1,000 Catfish Fingerlings Theoretical numbers earn their keep when projected onto a concrete scenario.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"## Worked Example: Feed Requirement for 1,000 Catfish Fingerlings Theoretical numbers earn their keep when projected ont\""
+                                  },
+                                  {
+                                      "passage":  "- **FCR jumps above 1.5** when the same feed previously delivered 1.2.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"- **FCR jumps above 1.5** when the same feed previously delivered 1.2.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

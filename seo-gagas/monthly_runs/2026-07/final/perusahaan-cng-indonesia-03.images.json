@@ -1,0 +1,88 @@
+{
+  "brief_id": "perusahaan-cng-indonesia-03",
+  "article_title_id": "Industri yang Dilayani Perusahaan CNG + Cara Mulai Berlangganan",
+  "language": "id",
+  "image_count": 3,
+  "planned_at": "2026-06-09",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "body — setelah paragraf definisi singkat, sebelum H2 'Siapa yang Paling Diuntungkan Beralih ke CNG?'",
+      "concept_from_writer": "Grid ikon sektoral 'siapa yang dilayani perusahaan CNG' — lima panel: Manufaktur Termal (ikon kiln/furnace), Hotel & Restoran (ikon kompor komersial), Rumah Sakit (ikon dapur + laundry), Laundry Komersial (ikon mesin pengering), Transportasi/Armada (ikon bus CNG). Tiap panel diberi label Bahasa Indonesia + satu frasa singkat 'mengapa cocok'. Gaya flat infographic korporat, palet hijau-biru energi bersih, format horizontal landscape.",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Lima sektor dengan alasan kesesuaian masing-masing adalah konten tekstual-visual yang paling efektif disampaikan sebagai grid ikon berlabel — memberi nilai ekstraksi untuk AI Overview dan Featured Snippet.",
+      "visual_direction": "Infografik grid horizontal 5 kolom, rasio landscape 16:9 atau 2:1. Latar belakang putih bersih atau abu sangat muda (#F5F7FA). Setiap kolom adalah sebuah 'kartu' dengan sudut melengkung dan border tipis biru tua (#1A4F8A). Urutan kolom kiri ke kanan: (1) Manufaktur Termal, (2) Hotel & Restoran, (3) Rumah Sakit, (4) Laundry Komersial, (5) Transportasi / Armada. Struktur tiap kartu dari atas ke bawah: ikon flat line-art berwarna hijau energi (#2EAA5A) berukuran ~48px, lalu nama sektor dalam teks bold biru tua (#1A4F8A) ukuran 13–14pt, lalu satu baris frasa singkat alasan kesesuaian dalam teks abu gelap (#444444) ukuran 11pt. Frasa per kartu: (1) 'Kiln & furnace butuh panas kontinu', (2) 'Dapur & laundry sepanjang hari', (3) 'Operasi 24 jam, konsumsi rutin', (4) 'Panas harian, sensitif biaya', (5) 'Isi BBG via SPBG / MRU'. Judul infografik di bagian atas tengah: 'Sektor yang Paling Diuntungkan oleh CNG Beyond-Pipeline' dalam font sans-serif bold biru tua, ukuran 16pt. Ikon menggunakan stroke tunggal, gaya modern minimal — bukan kartun. Semua teks dalam Bahasa Indonesia.",
+      "in_image_text_id": [
+        "Sektor yang Paling Diuntungkan oleh CNG Beyond-Pipeline",
+        "Manufaktur Termal",
+        "Kiln & furnace butuh panas kontinu",
+        "Hotel & Restoran",
+        "Dapur & laundry sepanjang hari",
+        "Rumah Sakit",
+        "Operasi 24 jam, konsumsi rutin",
+        "Laundry Komersial",
+        "Panas harian, sensitif biaya",
+        "Transportasi / Armada",
+        "Isi BBG via SPBG / MRU"
+      ],
+      "alt_id": "Infografik lima sektor pengguna CNG beyond-pipeline: manufaktur termal, hotel, rumah sakit, laundry komersial, transportasi",
+      "caption_id": "Lima sektor yang paling diuntungkan oleh pasokan CNG beyond-pipeline — mulai dari pabrik keramik dengan kiln kontinu hingga rumah sakit yang beroperasi 24 jam. Benang merahnya adalah kebutuhan panas rutin di lokasi yang belum terjangkau jaringan pipa gas.",
+      "sourcing_note": "Infografik orisinal — tidak memerlukan foto fasilitas atau branding PGN Gagas. Desainer membuat sendiri berdasarkan arahan visual di atas. Ikon dapat diambil dari library flat-icon berlisensi komersial (mis. Flaticon, Noun Project) dengan kategori pencarian: 'industrial furnace icon', 'hotel kitchen icon', 'hospital laundry icon', 'commercial dryer icon', 'CNG bus icon'. Pastikan semua ikon memiliki gaya stroke konsisten.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body — setelah daftar bernomor enam langkah berlangganan CNG, dalam H2 'Cara Mulai Berlangganan CNG: dari Pendaftaran sampai Gas Mengalir'",
+      "concept_from_writer": "Flowchart horizontal enam langkah berlangganan CNG — (1) Isi Formulir → (2) Penilaian Utilitas → (3) Survei Lokasi → (4) Penawaran & Kontrak → (5) Instalasi PRS & Komisioning → (6) Gas Mengalir. Tiap tahap punya ikon sederhana dan nomor urut. Berguna untuk skema HowTo dan dibagikan ke pengambil keputusan. Gaya garis bersih, palet hijau-biru, teks Bahasa Indonesia.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Alur berurutan enam langkah adalah konten proses linier yang paling tepat disajikan sebagai diagram flowchart — mendukung HowTo schema, mudah dipindai, dan dapat dibagikan sebagai referensi internal bagi pengambil keputusan.",
+      "visual_direction": "Diagram flowchart horizontal enam node, rasio landscape 16:5 (format banner lebar). Latar belakang putih. Enam node berbentuk kotak persegi panjang dengan sudut melengkung (border-radius ~8px), dihubungkan oleh panah tebal berwarna hijau energi (#2EAA5A) yang mengarah ke kanan. Setiap node memiliki tiga elemen: nomor urut (bulat kecil berwarna solid hijau energi dengan teks putih bold, ukuran 18pt) di pojok kiri atas kartu; ikon flat line-art biru tua (#1A4F8A) berukuran ~36px di tengah atas kartu; dan label nama tahap dalam teks bold biru tua ukuran 12pt di bawah ikon. Node 1 hingga 6 berisi: (1) ikon formulir/dokumen — label 'Isi Formulir'; (2) ikon checklist/kalkulasi — label 'Penilaian Utilitas'; (3) ikon lokasi pin/peta -- label 'Survei Lokasi'; (4) ikon jabat tangan/kontrak — label 'Penawaran & Kontrak'; (5) ikon kunci inggris/instalasi — label 'Instalasi PRS & Komisioning'; (6) ikon api/gas mengalir — label 'Gas Mengalir'. Warna latar tiap kartu: node 1–5 putih dengan border biru tua tipis (#1A4F8A); node 6 (hasil akhir) diberi aksen latar hijau muda (#E8F7EE) untuk membedakan 'kondisi akhir yang dicapai'. Judul diagram di atas kiri: 'Alur Berlangganan CNG: 6 Langkah dari Formulir hingga Gas Mengalir' dalam font sans-serif bold biru tua ukuran 14pt. Catatan kecil di bawah node 5 dalam teks abu (#666666) ukuran 9pt: 'Durasi bervariasi — tergantung hasil survei lokasi'. Semua teks Bahasa Indonesia.",
+      "in_image_text_id": [
+        "Alur Berlangganan CNG: 6 Langkah dari Formulir hingga Gas Mengalir",
+        "1",
+        "Isi Formulir",
+        "2",
+        "Penilaian Utilitas",
+        "3",
+        "Survei Lokasi",
+        "4",
+        "Penawaran & Kontrak",
+        "5",
+        "Instalasi PRS & Komisioning",
+        "6",
+        "Gas Mengalir",
+        "Durasi bervariasi — tergantung hasil survei lokasi"
+      ],
+      "alt_id": "Flowchart 6 langkah berlangganan CNG: isi formulir, penilaian utilitas, survei lokasi, kontrak, instalasi PRS, gas mengalir",
+      "caption_id": "Alur berlangganan CNG dari nol hingga gas mengalir terdiri dari enam tahap konseptual. Tidak ada tombol 'langsung berlangganan' — setiap calon pelanggan diverifikasi teknis melalui survei lokasi sebelum kontrak ditandatangani.",
+      "sourcing_note": "Diagram orisinal — tidak memerlukan foto fasilitas atau aset branding PGN Gagas. Desainer membuat dari arahan visual di atas. Ikon dapat diambil dari library flat-icon berlisensi (kategori: 'form document icon', 'checklist calculation icon', 'location survey icon', 'contract handshake icon', 'installation wrench icon', 'gas flame icon'). Pastikan gaya ikon konsisten satu set.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_03",
+      "position": "body — setelah H2 'Kapan Usaha Anda BELUM Layak Berlangganan CNG' dan daftar bullet kondisi, sebelum FAQ",
+      "concept_from_writer": "Diagram dua panel berdampingan membandingkan moda pasokan — kiri 'GTM' (truk besar → PRS → jaringan pipa internal pabrik, label 'volume besar, lahan memadai'); kanan 'C-Cyl / CNG Silinder' (tabung/box → regulator → peralatan, label 'volume kecil, lahan terbatas, ~300 m³/bulan'). Ilustrasi vektor teknikal ringan, palet hijau-biru, teks Bahasa Indonesia.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Perbandingan dua moda distribusi (GTM vs C-Cyl) dengan alur fisik dari sumber ke peralatan adalah konten teknikal yang jauh lebih informatif sebagai diagram alur berlabel daripada foto atau ilustrasi generik — langsung menjawab pertanyaan 'moda mana yang cocok untuk saya?'",
+      "visual_direction": "Diagram dua panel berdampingan (split 50/50), rasio landscape 16:7. Latar belakang abu sangat muda (#F5F7FA). Garis pembagi vertikal di tengah berwarna abu muda (#DDDDDD). Panel kiri: judul 'GTM (Gas Transport Module)' dalam teks bold biru tua (#1A4F8A) 13pt di atas. Di bawahnya, alur dari kiri ke kanan menggunakan ikon flat line-art: ikon truk besar (biru tua) → panah hijau (#2EAA5A) berlabel 'pengiriman terjadwal' → ikon kotak GTM/modul tangki (biru tua, ukuran lebih besar) → panah hijau → ikon PRS/stasiun pereduksi tekanan berlabel 'PRS' → panah hijau → ikon pipa gedung/pabrik. Di bawah alur, dua label ringkas dalam teks abu gelap (#444444) ukuran 10pt: 'Volume besar' dan 'Lahan memadai diperlukan'. Panel kanan: judul 'C-Cyl (CNG Silinder)' dalam teks bold hijau energi (#2EAA5A) 13pt di atas (dibedakan warna judul untuk memberi kontras visual). Di bawahnya, alur: ikon truk kecil/van (hijau) → panah hijau berlabel 'pengiriman terjadwal' → ikon tabung/box silinder (hijau) → panah hijau → ikon regulator kecil → panah hijau → ikon peralatan (kompor/boiler kecil). Di bawah alur, tiga label ringkas teks abu gelap ukuran 10pt: 'Volume lebih kecil', 'Lahan terbatas', dan 'Mulai ~300 m³/bulan'. Kedua panel memiliki latar kartu putih dengan border tipis warna panel masing-masing (biru tua kiri, hijau kanan). Catatan di bawah diagram tengah dalam teks abu (#888888) ukuran 9pt: 'Penyedia menentukan moda yang sesuai saat survei lokasi'. Semua ikon flat line-art gaya modern, konsisten satu set. Semua teks Bahasa Indonesia.",
+      "in_image_text_id": [
+        "GTM (Gas Transport Module)",
+        "pengiriman terjadwal",
+        "PRS",
+        "Volume besar",
+        "Lahan memadai diperlukan",
+        "C-Cyl (CNG Silinder)",
+        "pengiriman terjadwal",
+        "Volume lebih kecil",
+        "Lahan terbatas",
+        "Mulai ~300 m³/bulan",
+        "Penyedia menentukan moda yang sesuai saat survei lokasi"
+      ],
+      "alt_id": "Diagram perbandingan moda distribusi CNG: GTM untuk volume besar, C-Cyl untuk lahan terbatas mulai 300 m3 per bulan",
+      "caption_id": "Dua moda distribusi CNG untuk pelanggan industri dan komersial: GTM (Gas Transport Module) untuk volume besar dengan lahan memadai, dan C-Cyl (CNG Silinder) untuk lokasi berlahan terbatas dengan kebutuhan mulai sekitar 300 m³/bulan. Pilihan moda ditentukan saat survei lokasi, bukan di awal pendaftaran.",
+      "sourcing_note": "Diagram orisinal — tidak memerlukan foto fasilitas atau aset branding PGN Gagas. Jangan merekayasa atau memfabrikasi visual truk GTM, logo, atau fasilitas PGN Gagas yang nyata. Desainer membuat semua elemen sebagai ilustrasi vektor konseptual berdasarkan arahan di atas. Ikon dapat diambil dari library flat-icon berlisensi (kategori: 'tanker truck icon', 'gas cylinder icon', 'pressure regulator icon', 'industrial boiler icon', 'pipeline icon').",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

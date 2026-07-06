@@ -1,0 +1,120 @@
+{
+  "keyword": "ERP migration to the cloud",
+  "keyword_slug": "erp-migration-to-the-cloud",
+  "month": "2026-06",
+  "captured_at": "2026-06-02",
+  "landing_page": "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud",
+  "landing_page_summary": "Hub page covers: the business case for cloud ERP migration; five strategic approaches (Rehost, Replatform, Refactor, Repurchase, Retire); a five-phase roadmap (discovery, planning, data migration, testing, go-live); key benefits (OpEx vs CapEx, security, scalability); common pitfalls (hidden costs, downtime, data sovereignty); and FAQs. It is a broad, strategy-oriented overview — does NOT go deep on brownfield/greenfield/bluefield tradeoffs, public vs private edition selection, post-migration challenges, TCO/cost framework, data security regulations, or the GROW vs RISE distinction.",
+  "data_sources_used": ["seo_report_apr2026.md", "live_serp", "websearch"],
+  "ahrefs_available": false,
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Rising sharply — SAPinsider reports record migration volumes before SAP ECC mainstream support end (2027). Garuda Indonesia migrated to RISE with SAP in early 2026. ISG 2026 survey: 60% of SAP migration projects ran over budget/time.",
+    "apr2026_rank": 1
+  },
+  "serp": {
+    "top_10": [
+      {
+        "url": "https://beonesolution.com/migrasi-sap-s4hana/",
+        "title": "Migrasi SAP S/4HANA Jadi Prioritas Perusahaan Indonesia",
+        "angle_summary": "Overview article: why S/4HANA migration is now a priority in Indonesia; ECC end-of-life urgency."
+      },
+      {
+        "url": "https://8thinktank.com/sap-greenfield-vs-brownfield-vs-bluefield/",
+        "title": "SAP Greenfield vs Brownfield vs Bluefield: Apa Bedanya?",
+        "angle_summary": "Comparison of three migration paths with decision criteria for Indonesian businesses."
+      },
+      {
+        "url": "https://www.crowe.com/id/insights/sap-ecc-support-ends-in-2027-what-leaders-should-do",
+        "title": "SAP ECC Support Ends in 2027: What Leaders Should Do",
+        "angle_summary": "Deadline-urgency framing; what steps enterprise leaders should take now."
+      },
+      {
+        "url": "https://www.crowe.com/id/insights/grow-with-sap-vs-rise-with-sap-key-differences",
+        "title": "GROW with SAP vs. RISE with SAP Key Differences",
+        "angle_summary": "Explainer on the two SAP cloud journeys; target market differences (enterprise vs mid-market)."
+      },
+      {
+        "url": "https://birchmangroup.com/7-top-challenges-and-best-practices-for-sap-cloud-erp-s-4hana-public-migration-in-2026",
+        "title": "SAP S/4HANA Cloud Migration Challenges & Best Practices in 2026",
+        "angle_summary": "Practitioner guide to top migration challenges; skills gap, data integration, change management."
+      },
+      {
+        "url": "https://www.babelinsight.id/garuda-indonesia-resmi-gunakan-sap-cloud-erp-demi-transformasi-digital-2026-yang-lebih-efisien",
+        "title": "Garuda Indonesia Resmi Gunakan SAP Cloud ERP",
+        "angle_summary": "News: Garuda Indonesia implemented RISE with SAP in 2026 as a concrete Indonesian case."
+      },
+      {
+        "url": "https://datacommcloud.co.id/sap-cloud-migration/",
+        "title": "SAP Cloud Migration Indonesia",
+        "angle_summary": "Vendor landing page: migration services for SAP on cloud infrastructure."
+      },
+      {
+        "url": "https://www.snpgroup.com/en/resources/blog/how-to-achieve-near-zero-downtime-in-sap-migrations/",
+        "title": "How to Achieve Near-Zero Downtime in SAP Migrations",
+        "angle_summary": "Technical deep-dive: NZDT methodology, delta migration slices, cutover window."
+      },
+      {
+        "url": "https://www.bssn.go.id/67-sektor-publik-indonesia-sudah-adopsi-cloud-computing/",
+        "title": "67% Sektor Publik Indonesia Sudah Adopsi Cloud Computing — BSSN",
+        "angle_summary": "BSSN stat: 67% of Indonesia public sector has adopted cloud; security standards context."
+      },
+      {
+        "url": "https://intelliswat.com/sap-s-4hana-cloud-migration-trends-bluefield-vs-greenfield-in-2026/",
+        "title": "SAP S/4HANA Cloud Migration, Bluefield vs Greenfield in 2026",
+        "angle_summary": "2026 trend piece: bluefield increasingly popular; ISG data on budget overruns."
+      }
+    ],
+    "serp_features": ["ai_overview", "paa", "featured_snippet"],
+    "ai_overview_entities": [
+      "SAP ECC", "SAP S/4HANA Cloud", "RISE with SAP", "GROW with SAP",
+      "brownfield", "greenfield", "bluefield", "SAP BTP",
+      "near-zero downtime", "clean core", "UU PDP", "BSSN"
+    ]
+  },
+  "paa": [
+    "Apa itu migrasi ERP ke cloud?",
+    "Berapa lama proses migrasi ERP ke cloud?",
+    "Apa perbedaan brownfield, greenfield, dan bluefield dalam migrasi SAP?",
+    "Apa itu RISE with SAP?",
+    "Apa perbedaan RISE with SAP dan GROW with SAP?",
+    "Kapan SAP ECC tidak lagi didukung?",
+    "Bagaimana cara meminimalkan downtime saat migrasi ERP?",
+    "Berapa biaya migrasi ERP ke cloud?",
+    "Apa risiko keamanan data dalam migrasi ERP ke cloud?",
+    "Apakah perusahaan UKM perlu migrasi ERP ke cloud?",
+    "Apa yang terjadi setelah go-live ERP cloud?",
+    "Bagaimana memilih antara S/4HANA Public Cloud dan Private Cloud?"
+  ],
+  "gsc_style_queries_from_report": [
+    "sap erp adalah (16 clicks, 528 impressions — Apr 2026)",
+    "migrasi erp ke cloud (inferred from #1 rank — primary keyword)",
+    "sistem sap (26 clicks, 4,688 impressions — Apr 2026)"
+  ],
+  "history_snapshot": {
+    "existing_articles_for_keyword": [],
+    "uncovered_angles": [
+      "brownfield vs greenfield vs bluefield decision guide (comparison intent)",
+      "downtime minimization and cutover planning (how-to / troubleshooting)",
+      "public cloud vs private cloud edition selection (comparison intent)",
+      "TCO and cost framework for cloud ERP migration (decision-stage)",
+      "post-migration challenges: adoption, change management, AMS (troubleshooting/decision)",
+      "data security and Indonesian regulatory compliance (UU PDP/BSSN) in cloud ERP (informational)",
+      "RISE with SAP vs GROW with SAP: which fits your company (comparison / decision)",
+      "ECC 2027 deadline urgency and what to do now (awareness / how-to)",
+      "clean core strategy as foundation for migration success (informational/strategic)"
+    ]
+  },
+  "key_facts_for_briefs": {
+    "ecc_deadline": "SAP ECC mainstream maintenance ends 2027; extended support available until 2030 at +2% premium (total +9–12% above annual increases)",
+    "rise_vs_grow": "RISE with SAP = large enterprise, private cloud, brownfield-friendly; GROW with SAP = mid-market, public cloud, greenfield/net-new",
+    "migration_approaches": "Greenfield (rebuild from scratch); Brownfield (system conversion in-place); Bluefield/Selective Data Transition (selective — mix of both)",
+    "downtime": "Near-Zero Downtime (NZDT) methodology: delta migration slices keep source system live during main migration",
+    "cost_data": "Extended maintenance 2028–2030: +2% of maintenance base per year = total +9–12% over base; data migration cost range Rp 10–75 juta depending on volume",
+    "budget_risk": "ISG 2026 survey: 60% of SAP migration projects ran over budget or time regardless of approach",
+    "post_migration": "82% of SAP users cite poor data management/integration as biggest post-migration challenge (data integrity); 47% face skills gaps; 49% face integration challenges",
+    "indonesia_cloud_security": "UU PDP (Law No. 27/2022) fully effective Oct 2024; BSSN Reg. No. 8/2020 mandates info security management; 67% of Indonesian public sector has adopted cloud (BSSN stat)",
+    "garuda_case": "Garuda Indonesia migrated to SAP Cloud ERP Private (RISE with SAP) in 2026 to cut costs and unify fragmented systems — cited by Indonesian media"
+  }
+}

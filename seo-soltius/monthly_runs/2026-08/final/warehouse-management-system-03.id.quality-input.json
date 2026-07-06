@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-08\\final\\warehouse-management-system-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-08T18:15:45+07:00",
+    "word_count":  2023,
+    "paragraph_count":  20,
+    "sentence_count":  109,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.45,
+                        "sentence_burstiness":  0.694,
+                        "top30_vocab_share":  0.27,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Nilai transaksi e-commerce nasional tumbuh 17,08% dibanding tahun sebelumnya, mencapai Rp 1.288,93 triliun pada 2024 ([data BPS via Databoks](https://databoks.katadata.co.id/en/technology-telecommunications/statistics/69325fdf33aa9/e-commerce-transaction-value-in-indonesia-increased-by-17-in-2024)).",
+                                      "candidate_score":  32,
+                                      "web_search_query":  "\"Nilai transaksi e-commerce nasional tumbuh 17,08% dibanding tahun sebelumnya, mencapai Rp 1.288,93 triliun pada 2024 ([d\""
+                                  },
+                                  {
+                                      "passage":  "# 7 Tanda Gudang Anda Butuh Warehouse Management System (dan Kapan Belum Perlu) Hampir tidak ada manajer operasi yang bangun pagi lalu memutuskan \"hari ini saya beli WMS\".",
+                                      "candidate_score":  27,
+                                      "web_search_query":  "\"# 7 Tanda Gudang Anda Butuh Warehouse Management System (dan Kapan Belum Perlu) Hampir tidak ada manajer operasi yang ba\""
+                                  },
+                                  {
+                                      "passage":  "## 7 Tanda Gudang Anda Sudah Butuh WMS Gudang Anda kemungkinan sudah butuh WMS ketika beberapa gejala berikut muncul bersamaan dan menetap, bukan sekadar sesekali.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"## 7 Tanda Gudang Anda Sudah Butuh WMS Gudang Anda kemungkinan sudah butuh WMS ketika beberapa gejala berikut muncul ber\""
+                                  },
+                                  {
+                                      "passage":  "**SAP Stock Room Management (SRM)** menambah manajemen bin dasar; ini penerus resmi modul WM lama (LE-WM), tersedia sejak rilis S/4HANA 1909.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"**SAP Stock Room Management (SRM)** menambah manajemen bin dasar; ini penerus resmi modul WM lama (LE-WM), tersedia seja\""
+                                  },
+                                  {
+                                      "passage":  "Laporan industri menunjukkan kombinasi RFID dan WMS dapat menaikkan akurasi dari kisaran 65–70% menjadi di atas 95%, dengan waktu *cycle count* turun hingga hampir 80% dalam banyak kasus.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Laporan industri menunjukkan kombinasi RFID dan WMS dapat menaikkan akurasi dari kisaran 65–70% menjadi di atas 95%, den\""
+                                  },
+                                  {
+                                      "passage":  "Pada 500.000 order per tahun, selisih akurasi antara 97% dan 99,5% berarti 15.000 versus 2.500 order salah kemas, sebuah beban logistik balik yang signifikan.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Pada 500.000 order per tahun, selisih akurasi antara 97% dan 99,5% berarti 15.000 versus 2.500 order salah kemas, sebuah\""
+                                  },
+                                  {
+                                      "passage":  "**Muncul tuntutan traceability batch, kedaluwarsa, atau serial.** Industri seperti farmasi dan makanan menuntut *traceability* (penelusuran asal-usul) berbasis FEFO (*first expired, first out*).",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"**Muncul tuntutan traceability batch, kedaluwarsa, atau serial.** Industri seperti farmasi dan makanan menuntut *traceab\""
+                                  },
+                                  {
+                                      "passage":  "Di atas 80–100 order/hari, proses manual menciptakan inefisiensi yang bertumpuk (panduan konsultan WMS, 2024–2025).",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Di atas 80–100 order/hari, proses manual menciptakan inefisiensi yang bertumpuk (panduan konsultan WMS, 2024–2025).\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

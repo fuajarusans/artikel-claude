@@ -1,0 +1,62 @@
+{
+  "brief_id": "cara-kerja-sistem-sap-c01",
+  "article_title_id": "Cara Kerja Sistem SAP dan Fungsinya untuk Perusahaan (Update 2026)",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-17",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "body — setelah paragraf pembuka H2 'Bagaimana Cara Kerja Sistem SAP?' (sebelum contoh pesanan penjualan diuraikan)",
+      "concept_from_writer": "Diagram alur kerja sistem SAP — satu pesanan penjualan (Sales Order) mengalir dari modul SD ke MM (cek stok), lalu PP (jadwal produksi bila stok kurang), dan berakhir di FI/CO (piutang dan biaya), semua berakar di satu basis data terpusat berlabel 'SAP HANA'. Lima kotak modul mengelilingi pusat database dengan panah dua arah. Gaya infografik enterprise bersih, palet biru-putih, semua label dalam Bahasa Indonesia",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Alur data antar-modul bersifat sekuensial dan berkaitan — diagram alir (flowchart) menjelaskan relasi sebab-akibat dan arah data jauh lebih efektif daripada ilustrasi atau foto stok.",
+      "visual_direction": "Diagram alur horizontal dengan satu jalur naratif utama dan inti database di tengah. Layout: lebar landscape (rasio 16:9 atau 4:3). Di tengah gambar, sebuah silinder atau heksagon berlabel dua baris — 'SAP HANA' (baris atas, font lebih besar) dan 'Satu Basis Data Terpusat' (baris bawah, font lebih kecil) — berwarna biru tua (#0D3270 atau setara). Dari inti ini keluar lima kotak modul tersusun melingkar: di atas 'SD — Penjualan & Distribusi', kanan atas 'MM — Manajemen Material', kanan bawah 'PP — Perencanaan Produksi', kiri bawah 'FI — Akuntansi Keuangan', kiri atas 'CO — Pengendalian Biaya'. Setiap kotak modul berwarna biru muda (#3B82F6 atau setara) dengan teks putih. Panah dua arah (putih atau abu-abu muda) menghubungkan setiap kotak modul ke inti database, menunjukkan data mengalir bolak-balik secara real-time. Di bagian bawah atau samping diagram, satu strip infografik kecil menampilkan alur sekuensial pesanan: ikon dokumen pesanan → panah → kotak SD → panah berlabel 'cek stok' → kotak MM → panah berlabel 'jadwal produksi (jika stok kurang)' → kotak PP → panah berlabel 'catat piutang & biaya' → kotak FI/CO. Strip ini berwarna latar abu-abu sangat muda (#F3F4F6) agar kontras dengan diagram utama. Tidak ada elemen dekoratif yang tidak informatif. Latar belakang keseluruhan putih bersih. Font: sans-serif modern (setara Inter atau Roboto). Semua teks dalam Bahasa Indonesia.",
+      "in_image_text_id": [
+        "SAP HANA",
+        "Satu Basis Data Terpusat",
+        "SD — Penjualan & Distribusi",
+        "MM — Manajemen Material",
+        "PP — Perencanaan Produksi",
+        "FI — Akuntansi Keuangan",
+        "CO — Pengendalian Biaya",
+        "Pesanan Penjualan",
+        "Cek Stok",
+        "Jadwal Produksi (jika stok kurang)",
+        "Catat Piutang & Biaya",
+        "Data real-time, tanpa input ulang"
+      ],
+      "alt_id": "Diagram cara kerja sistem SAP: pesanan penjualan mengalir dari modul SD ke MM, PP, dan FI/CO lewat satu basis data SAP HANA",
+      "caption_id": "Cara kerja sistem SAP bertumpu pada satu prinsip: satu basis data terpusat yang diakses semua modul secara real-time. Satu pesanan penjualan yang dimasukkan di modul SD otomatis memicu pengecekan stok (MM), jadwal produksi (PP), dan pencatatan piutang serta biaya (FI/CO) — tanpa input manual ulang di setiap departemen.",
+      "sourcing_note": "Ini adalah diagram konseptual — tidak memerlukan screenshot SAP asli. Tim desain dapat membuat dari awal menggunakan tools diagram (Figma, Illustrator, atau sejenisnya) berdasarkan deskripsi di atas. Tidak ada UI SAP yang perlu direplikasi; semua elemen adalah label dan panah abstrak.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body — setelah tabel modul utama SAP di H2 'Modul-Modul Utama SAP dan Fungsinya', sebelum catatan tentang SAP FICO",
+      "concept_from_writer": "Ilustrasi 'web modul SAP' — lima lingkaran berlabel MM, SD, PP, FI, CO mengelilingi inti pusat bertuliskan 'SAP Database / Single Source of Truth', dengan garis penghubung antar-modul untuk menunjukkan integrasi. Gaya bersih dan sederhana, palet biru-putih, label Bahasa Indonesia",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Topologi hub-and-spoke antar-modul SAP adalah relasi struktural, bukan proses sekuensial — diagram jaringan (network/hub diagram) mengomunikasikan integrasi dan kesetaraan antar-modul lebih tepat daripada ilustrasi generik atau foto stok.",
+      "visual_direction": "Diagram hub-and-spoke berbentuk lingkaran, orientasi potret atau persegi (rasio 1:1 atau 4:5). Di pusat: lingkaran besar berwarna biru tua (#0D3270) berlabel dua baris — 'SAP Database' (baris atas, lebih besar) dan 'Single Source of Truth' (baris bawah, lebih kecil, dapat juga ditulis dalam tanda kutip miring sebagai istilah teknis). Mengelilingi inti: lima lingkaran satelit berukuran sama, tersusun merata seperti jam — posisi 12 untuk SD, posisi 2 untuk MM, posisi 5 untuk PP, posisi 7 untuk FI, posisi 10 untuk CO. Setiap lingkaran satelit berwarna biru menengah (#3B82F6) dengan teks putih dua baris: singkatan modul (font besar, bold) dan nama lengkap dalam Bahasa Indonesia di bawahnya (font kecil, regular). Contoh: 'SD' besar di baris pertama, 'Penjualan & Distribusi' di baris kedua. Garis penghubung: garis lurus tipis berwarna biru muda (#93C5FD) menghubungkan inti ke setiap lingkaran satelit (5 garis total). Tambahkan juga garis putus-putus tipis yang menghubungkan lingkaran satelit satu sama lain (membentuk pentagon) untuk menunjukkan bahwa modul-modul saling berinteraksi, bukan hanya ke pusat. Latar belakang putih bersih. Tidak ada bayangan berat atau gradien yang mencolok. Font sans-serif modern. Seluruh teks dalam Bahasa Indonesia.",
+      "in_image_text_id": [
+        "SAP Database",
+        "Single Source of Truth",
+        "SD",
+        "Penjualan & Distribusi",
+        "MM",
+        "Manajemen Material",
+        "PP",
+        "Perencanaan Produksi",
+        "FI",
+        "Akuntansi Keuangan",
+        "CO",
+        "Pengendalian Biaya"
+      ],
+      "alt_id": "Diagram hub-and-spoke lima modul utama SAP (MM, SD, PP, FI, CO) yang terintegrasi melalui satu basis data SAP terpusat",
+      "caption_id": "Lima modul inti SAP — MM, SD, PP, FI, dan CO — tidak berdiri sendiri, melainkan terhubung ke satu basis data terpusat yang menjadi 'single source of truth' organisasi. Integrasi inilah yang membuat perubahan di satu modul langsung tercermin di seluruh sistem tanpa rekonsiliasi manual.",
+      "sourcing_note": "Ini adalah diagram konseptual — tidak memerlukan screenshot SAP asli. Tim desain dapat membuat dari awal menggunakan tools diagram (Figma, Illustrator, atau sejenisnya) berdasarkan deskripsi di atas. Tidak ada UI SAP yang perlu direplikasi; semua elemen adalah label dan bentuk geometris abstrak.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

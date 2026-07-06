@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\conditional\\2026-06\\final\\jurnal-umum-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-17T23:58:59+07:00",
+    "word_count":  2252,
+    "paragraph_count":  28,
+    "sentence_count":  113,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.436,
+                        "sentence_burstiness":  1.301,
+                        "top30_vocab_share":  0.336,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.436 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Standar akuntansi di Indonesia sendiri diatur oleh Ikatan Akuntan Indonesia (IAI) melalui Standar Akuntansi Keuangan (SAK) yang berbasis IFRS dan berlaku konvergen sejak 1 Januari 2015.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Standar akuntansi di Indonesia sendiri diatur oleh Ikatan Akuntan Indonesia (IAI) melalui Standar Akuntansi Keuangan (SA\""
+                                  },
+                                  {
+                                      "passage":  "## Contoh Jurnal Umum (Perusahaan Jasa) Berikut contoh konkret jurnal umum: CV Mitra Konsultan, sebuah perusahaan jasa konsultasi yang baru berdiri, dengan tujuh transaksi pada bulan pertamanya.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Contoh Jurnal Umum (Perusahaan Jasa) Berikut contoh konkret jurnal umum: CV Mitra Konsultan, sebuah perusahaan jasa k\""
+                                  },
+                                  {
+                                      "passage":  "Akun Kas didebit karena aset perusahaan (kas) bertambah; akun Modal dikredit karena ekuitas pemilik bertambah.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Akun Kas didebit karena aset perusahaan (kas) bertambah; akun Modal dikredit karena ekuitas pemilik bertambah.\""
+                                  },
+                                  {
+                                      "passage":  "Format umum jurnal umum terdiri dari kolom Tanggal, Keterangan/Akun, Nomor Referensi (Ref), Debit, dan Kredit.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Format umum jurnal umum terdiri dari kolom Tanggal, Keterangan/Akun, Nomor Referensi (Ref), Debit, dan Kredit.\""
+                                  },
+                                  {
+                                      "passage":  "Kalau sebuah toko mencatat ratusan penjualan tunai per hari, menulisnya satu per satu di jurnal umum jadi melelahkan dan rawan salah.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Kalau sebuah toko mencatat ratusan penjualan tunai per hari, menulisnya satu per satu di jurnal umum jadi melelahkan dan\""
+                                  },
+                                  {
+                                      "passage":  "Untuk perusahaan dagang, polanya sama, hanya jenis akunnya bertambah: pembelian barang dagang secara kredit, misalnya, dicatat dengan mendebit Persediaan Barang Dagang dan mengkredit Utang Usaha.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Untuk perusahaan dagang, polanya sama, hanya jenis akunnya bertambah: pembelian barang dagang secara kredit, misalnya, d\""
+                                  },
+                                  {
+                                      "passage":  "Pendapatan menambah ekuitas, jadi ikut saldo normal kredit; beban menguranginya, jadi saldo normalnya debit.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Pendapatan menambah ekuitas, jadi ikut saldo normal kredit; beban menguranginya, jadi saldo normalnya debit.\""
+                                  },
+                                  {
+                                      "passage":  "Berikut rinciannya: - **Fungsi historis:** mencatat transaksi secara berurutan sesuai tanggal kejadian, sehingga kronologi keuangan perusahaan terjaga rapi.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Berikut rinciannya: - **Fungsi historis:** mencatat transaksi secara berurutan sesuai tanggal kejadian, sehingga kronolo\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

@@ -1,0 +1,57 @@
+{
+  "brief_id": "digital-manufacturing-02",
+  "article_title_id": "MES dan ERP: Cara Menghubungkan Lantai Produksi ke Sistem Pusat",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-02",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Diagram arsitektur tiga layer vertikal — Layer 1 di bawah: ikon mesin/PLC/sensor (abu-hijau tua), Layer 2 tengah: kotak SAP Digital Manufacturing Cloud (biru SAP), Layer 3 atas: SAP S/4HANA PP (ikon awan biru). Panah dua arah antar layer dengan label protokol: \"OPC UA / MQTT\" antara Layer 1–2, \"SAP Cloud Integration\" antara Layer 2–3. Gaya diagram teknis bersih, teks Bahasa Indonesia, latar putih",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Arsitektur tiga layer adalah konsep teknis yang paling efektif dijelaskan lewat diagram alur berlabel — stock photo atau ilustrasi tidak dapat menyampaikan koneksi protokol dan hierarki layer secara akurat.",
+      "visual_direction": "Diagram vertikal tiga panel bertumpuk dengan latar putih bersih dan tipografi sans-serif. Panel bawah (Layer 1 — OT/Shop Floor): ikon pabrik/mesin CNC, PLC, dan sensor IoT industri berwarna abu-abu tua dengan aksen hijau tua; label teks 'Layer 1: OT / Shop Floor — Mesin, PLC, Sensor'. Panel tengah (Layer 2 — MES/Execution): kotak persegi panjang biru SAP (#1B5299 atau setara) bertuliskan 'SAP Digital Manufacturing Cloud'; sub-label kecil 'SAP Production Connector (on-premise)' di tepi bawah kotak. Panel atas (Layer 3 — ERP/Planning): ikon awan biru gelap dengan tulisan 'SAP S/4HANA — Production Planning (PP)'. Antar setiap panel terdapat dua panah dua arah tebal berwarna biru medium — satu arah ke atas, satu ke bawah — di sisi kanan diagram. Di samping panah Layer 1–2: label 'OPC UA / MQTT'. Di samping panah Layer 2–3: label 'SAP Cloud Integration'. Keseluruhan diagram menggunakan palet biru-putih korporat Soltius; tidak ada gradien berlebihan; border panel tipis abu-abu. Ukuran: landscape atau portrait 16:9 atau 4:3.",
+      "in_image_text_id": [
+        "Layer 1: OT / Shop Floor — Mesin, PLC, Sensor",
+        "Layer 2: SAP Digital Manufacturing Cloud",
+        "SAP Production Connector (on-premise)",
+        "Layer 3: SAP S/4HANA — Production Planning (PP)",
+        "OPC UA / MQTT",
+        "SAP Cloud Integration"
+      ],
+      "alt_id": "Diagram arsitektur tiga layer integrasi shop floor: OT di bawah, SAP Digital Manufacturing Cloud di tengah, SAP S/4HANA di atas",
+      "caption_id": "Arsitektur integrasi tiga layer digital manufacturing: mesin dan sensor di lantai produksi terhubung ke SAP Digital Manufacturing Cloud via SAP Production Connector (OPC UA/MQTT), yang selanjutnya tersinkronisasi dengan SAP S/4HANA Production Planning via SAP Cloud Integration. Aliran data berjalan dua arah tanpa input manual.",
+      "sourcing_note": "Ini adalah diagram arsitektur teknis yang harus dibuat oleh desainer — bukan screenshot produk SAP. Tidak perlu meminta screenshot SAP; cukup buat diagram sesuai visual direction di atas. Referensi visual: cari 'IT OT integration architecture diagram three layer clean' untuk inspirasi gaya.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body — setelah penjelasan arsitektur tiga layer, sebelum bagian 'Yang Sering Salah'",
+      "concept_from_writer": "Infografik dua panel berdampingan. Panel kiri \"Sebelum Integrasi\": alur manual — mesin → clipboard → Excel → ketik ulang ke SAP (ikon jam merah menandai delay, warna abu-merah). Panel kanan \"Setelah Integrasi\": alur otomatis — mesin → SAP Production Connector → SAP DM Cloud → SAP S/4HANA (panah langsung, centang hijau). Teks Bahasa Indonesia, gaya ilustrasi profesional",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Perbandingan 'sebelum vs sesudah' adalah format infografik — teks dan ikon yang dikontraskan secara visual lebih persuasif daripada foto, dan langsung menjawab masalah utama artikel (rekap manual vs aliran data otomatis) tanpa memerlukan UI SAP asli.",
+      "visual_direction": "Infografik dua panel berdampingan dengan garis pembagi vertikal di tengah. Latar putih bersih, tipografi sans-serif profesional. PANEL KIRI — 'Sebelum Integrasi' (header teks merah atau abu-merah gelap): alur vertikal dari atas ke bawah — (1) ikon mesin/pabrik abu-abu → (2) ikon clipboard/kertas dengan pensil → (3) ikon spreadsheet Excel hijau → (4) ikon orang mengetik di komputer → (5) ikon SAP/ERP berwarna abu. Antara setiap langkah: panah ke bawah tipis. Di sisi kanan alur panel kiri: ikon jam tangan atau jam pasir berwarna merah/oranye dengan label 'Delay: beberapa jam'. Keseluruhan panel kiri bernuansa abu-merah, menunjukkan proses lambat dan manual. PANEL KANAN — 'Setelah Integrasi' (header teks hijau tua atau biru): alur vertikal dari atas ke bawah — (1) ikon mesin/pabrik → (2) ikon SAP Production Connector (kotak kecil berlabel 'ProdCon') → (3) ikon SAP DM Cloud (biru SAP) → (4) ikon SAP S/4HANA (awan biru). Antara setiap langkah: panah tebal berwarna biru dengan kilat/lightning kecil menandai 'real-time'. Di sisi kanan alur panel kanan: ikon centang hijau besar dengan label 'Data real-time, tanpa input manual'. Palet panel kanan: biru-hijau tua, bersih dan modern. Di bagian bawah infografik, baris ringkasan dua kolom: kiri 'Rekap manual — beberapa jam' | kanan 'Aliran otomatis — real-time'.",
+      "in_image_text_id": [
+        "Sebelum Integrasi",
+        "Setelah Integrasi",
+        "Mesin / Lantai Produksi",
+        "Clipboard / Catatan Manual",
+        "Spreadsheet (Excel)",
+        "Input Manual ke SAP",
+        "Delay: beberapa jam",
+        "SAP Production Connector",
+        "SAP Digital Manufacturing Cloud",
+        "SAP S/4HANA",
+        "Data real-time, tanpa input manual",
+        "Rekap manual — beberapa jam",
+        "Aliran otomatis — real-time"
+      ],
+      "alt_id": "Infografik perbandingan alur data lantai produksi: sebelum integrasi MES-ERP (manual via Excel) vs sesudah integrasi (otomatis real-time)",
+      "caption_id": "Tanpa integrasi MES-ERP, data produksi menempuh jalur manual — dicatat di kertas, direkap ke Excel, lalu diinput ulang ke SAP — dengan jeda beberapa jam per shift. Dengan integrasi, data mengalir otomatis dari mesin ke SAP Digital Manufacturing Cloud dan terus ke S/4HANA secara real-time.",
+      "sourcing_note": "Infografik konseptual — dibuat oleh desainer, tidak memerlukan screenshot SAP. Tidak ada UI SAP yang perlu difabrikasi. Referensi gaya: cari 'before after process comparison infographic B2B manufacturing blue clean' untuk inspirasi visual.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

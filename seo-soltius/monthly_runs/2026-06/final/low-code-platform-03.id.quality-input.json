@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-06\\final\\low-code-platform-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-03T01:30:47+07:00",
+    "word_count":  2021,
+    "paragraph_count":  21,
+    "sentence_count":  107,
+    "ai_detector":  {
+                        "score":  0.05,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.493,
+                        "sentence_burstiness":  0.91,
+                        "top30_vocab_share":  0.334,
+                        "flags":  [
+                                      {
+                                          "pattern":  "em-dash-overuse",
+                                          "severity":  "medium",
+                                          "snippet":  "Em-dashes count: 3 (max 2)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "## Mengapa Banyak Program Citizen Developer Kehilangan Momentum di Tahun Pertama Bagian ini jarang ditulis, tapi justru di sinilah perbedaan antara program yang bertahan dan yang ditutup diam-diam.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## Mengapa Banyak Program Citizen Developer Kehilangan Momentum di Tahun Pertama Bagian ini jarang ditulis, tapi justru \""
+                                  },
+                                  {
+                                      "passage":  "# Cara Membangun Program Citizen Developer di Perusahaan dengan Low-Code Platform Banyak perusahaan Indonesia sudah membeli lisensi *low-code platform* — lalu enam bulan kemudian platformnya tidak dipakai.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"# Cara Membangun Program Citizen Developer di Perusahaan dengan Low-Code Platform Banyak perusahaan Indonesia sudah memb\""
+                                  },
+                                  {
+                                      "passage":  "## 5 Langkah Membangun Program Citizen Developer yang Berhasil Urutan langkah ini disusun dari pola yang berulang dalam implementasi di lapangan.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"## 5 Langkah Membangun Program Citizen Developer yang Berhasil Urutan langkah ini disusun dari pola yang berulang dalam \""
+                                  },
+                                  {
+                                      "passage":  "## Model Governance Low-Code: Tiga Pendekatan dan Trade-off-nya Governance adalah topik yang paling sering dilewati, dan paling sering menjadi penyebab program gagal atau menghasilkan chaos.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Model Governance Low-Code: Tiga Pendekatan dan Trade-off-nya Governance adalah topik yang paling sering dilewati, dan\""
+                                  },
+                                  {
+                                      "passage":  "Platform enterprise seperti SAP Build berjalan di atas SAP BTP (*Business Technology Platform*) dengan koneksi bawaan ke sistem ERP, *role-based access control*, approval workflow, dan audit log.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Platform enterprise seperti SAP Build berjalan di atas SAP BTP (*Business Technology Platform*) dengan koneksi bawaan ke\""
+                                  },
+                                  {
+                                      "passage":  "Menurut Gartner, rasionya terhadap professional developer akan mencapai 4:1 di enterprise besar pada 2026.",
+                                      "candidate_score":  11,
+                                      "web_search_query":  "\"Menurut Gartner, rasionya terhadap professional developer akan mencapai 4:1 di enterprise besar pada 2026.\""
+                                  },
+                                  {
+                                      "passage":  "Pada 2026, rasio *citizen developer* terhadap *professional developer* di enterprise besar diproyeksikan mencapai **4:1** (Gartner, dikutip via Kissflow).",
+                                      "candidate_score":  11,
+                                      "web_search_query":  "\"Pada 2026, rasio *citizen developer* terhadap *professional developer* di enterprise besar diproyeksikan mencapai **4:1*\""
+                                  },
+                                  {
+                                      "passage":  "Citizen developer mengisi kebutuhan aplikasi bisnis internal yang sederhana hingga menengah: formulir digital, workflow, dashboard departemen.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Citizen developer mengisi kebutuhan aplikasi bisnis internal yang sederhana hingga menengah: formulir digital, workflow,\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

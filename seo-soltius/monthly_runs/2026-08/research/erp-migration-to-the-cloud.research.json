@@ -1,0 +1,96 @@
+{
+  "keyword": "ERP migration to the cloud",
+  "keyword_slug": "erp-migration-to-the-cloud",
+  "month": "2026-08",
+  "captured_at": "2026-06-08",
+  "landing_page": "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud",
+  "landing_page_summary": "Hub explainer (2025): defines cloud ERP migration, why-migrate business case, the 5R method (Rehost/Replatform/Refactor/Repurchase/Retire), a 5-phase roadmap (Discovery to Go-Live), and common challenges/pitfalls + FAQ. Vendor-NEUTRAL: does NOT go deep on RISE/GROW with SAP, system-integrator selection, per-industry migration, readiness assessment, or post-migration optimization. These are open whitespace for supporting articles to fill and link up.",
+  "data_sources_used": ["seo_report_apr2026.md", "live_serp_blocked_fell_back_to_websearch", "websearch"],
+  "ahrefs_available": false,
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Strategic priority = DEFEND. Apr 2026 rank #1 (trajectory: Before 100 -> Feb 79 -> Mar 100 -> Apr 1). Surging long-tail enterprise term per April WEBARQ report; protect with a deeper non-overlapping cluster.",
+    "apr2026_rank": 1
+  },
+  "serp": {
+    "note": "Direct Google ID SERP fetch (google.com/search?q=migrasi+erp+ke+cloud&hl=id&gl=id) was blocked by Google anti-bot (returned error page). SERP landscape reconstructed from multiple WebSearch passes on Indonesian results + the hub-page fetch.",
+    "top_results_observed_id": [
+      { "url": "https://www.zettagrid.id/blog/2023/07/20/migrasi-ke-cloud-strategi-manfaat-dan-layanan-cloud-computing/", "title": "Migrasi ke Cloud: Strategi, Manfaat, dan Layanan Cloud Computing", "angle_summary": "Generic IaaS cloud-migration explainer from a cloud service provider; not ERP/SAP-specific." },
+      { "url": "https://www.telkom.co.id/sites/berita/id_ID/article/migrasi-cloud-tanpa-gangguan-panduan-langkah-demi-langkah-49", "title": "Migrasi Cloud Tanpa Gangguan: Panduan Langkah Demi Langkah | Telkom", "angle_summary": "Generic step-by-step cloud migration; infra-level, not ERP decision-stage." },
+      { "url": "https://blog.floucloud.id/mengenal-8-tahapan-dalam-cloud-migration-journey/", "title": "Mengenal 8 Tahapan dalam Migrasi Cloud", "angle_summary": "8-stage cloud migration journey; generic, vendor-neutral, infra-focused." },
+      { "url": "https://www.hashmicro.com/id/blog/erp-migration-checklist/", "title": "Migrasi Sistem: Manfaat dan Tantangannya bagi Perusahaan (HashMicro)", "angle_summary": "ERP-software vendor blog; generic ERP migration benefits/challenges, promotes own non-SAP ERP." },
+      { "url": "https://www.mas-software.com/blog/6-langkah-implementasi-erp-lengkap-dan-anti-gagal", "title": "6 Langkah Implementasi ERP Lengkap dan Anti Gagal", "angle_summary": "Generic ERP implementation steps; SME-oriented, non-SAP." },
+      { "url": "https://elitery.com/articles/5-persiapan-yang-harus-dilakukan-sebelum-migrasi-ke-teknologi-cloud/", "title": "5 Persiapan Sebelum Migrasi ke Teknologi Cloud (Elitery)", "angle_summary": "Pre-migration prep listicle; cloud infra MSP angle, not ERP-specific." },
+      { "url": "https://www.pilarcloud.com/solusi-migrasi-server-ke-cloud/", "title": "Solusi Migrasi Server ke Cloud | Pilar Cloud", "angle_summary": "Server-to-cloud migration service page; infra lift-and-shift, not ERP." }
+    ],
+    "serp_features": ["paa_likely", "ai_overview_likely_on_definitional_variants"],
+    "ai_overview_entities": ["cloud ERP", "cloud migration", "data migration", "downtime", "ERP implementation phases"],
+    "whitespace_read": "Indonesian SERP for the head term is dominated by (a) generic IaaS/cloud-migration providers (Zettagrid, Telkom, Floucloud, Elitery, Pilarcloud) and (b) non-SAP ERP-software listicle blogs (HashMicro, MAS, ImpactFirst, 8thinktank, Prismatech). NONE are SAP-specific enterprise decision-stage content. No dedicated ID article on RISE vs GROW with SAP, on SAP migration readiness assessment, or on choosing a SAP system integrator. This is wide whitespace for SOLTIUS's enterprise/SAP authority angle - exactly the audience the hub funnels."
+  },
+  "paa": [
+    "Apa perbedaan RISE with SAP dan GROW with SAP?",
+    "Apa itu migrasi ERP ke cloud?",
+    "Berapa lama proses migrasi ERP ke cloud?",
+    "Apa saja tahapan migrasi ERP ke cloud?",
+    "Apa saja yang harus disiapkan sebelum migrasi ERP ke cloud?",
+    "Bagaimana cara memilih partner atau vendor SAP yang tepat?",
+    "Lebih baik migrasi bertahap (phased) atau sekaligus (big bang)?",
+    "Berapa biaya migrasi ERP ke cloud?",
+    "Apakah data aman saat migrasi ERP ke cloud?",
+    "Kapan SAP ECC berhenti didukung (end of support)?",
+    "Apa itu readiness assessment sebelum implementasi ERP?",
+    "RISE with SAP cocok untuk perusahaan seperti apa?"
+  ],
+  "gsc_style_queries_from_report": [
+    "sap adalah (60 clicks / 17,709 impr)",
+    "sap (35 / 31,889)",
+    "sistem sap (26 / 4,688)",
+    "apa itu sap (16 / 6,056)",
+    "sap erp adalah (16 / 528)",
+    "Read: ERP migration to the cloud landing page jumped to #1 in April; audience searches definitional + decision queries in Bahasa Indonesia even for English concepts. Articles should answer apa-itu / cara / kapan / apa-bedanya in ID."
+  ],
+  "verified_facts_for_researcher": {
+    "ecc_end_of_maintenance": "SAP ERP 6.0 (Business Suite 7) mainstream maintenance ends 31 Dec 2027; optional extended maintenance until end of 2030 at +2% on standard fees. (support.sap.com maintenance strategy; Rimini Street; Natuvion). RE-CONFIRM via SAP official before publishing.",
+    "ecc_2031_2033_option": "Q1 2025 SAP announced 'SAP ERP, private edition, transition option' extending ECC support 2031-2033 for select large/complex customers who sign a RISE with SAP cloud subscription; requires moving to HANA DB by end of 2030 and dropping unsupported third-party tooling (e.g., Java). (Forrester 2025; 2-data; TJC Group). RE-CONFIRM scope/conditions via SAP official.",
+    "rise_vs_grow": "RISE with SAP = for existing/complex SAP customers modernizing their landscape; core = SAP S/4HANA Cloud Private Edition; offers BOTH public and private deployment paths; bundles platform services, Business Process Intelligence (Signavio), SAP Business Network, BTP credits. GROW with SAP = for NET-NEW SAP customers adopting cloud ERP from scratch; SAP S/4HANA Cloud PUBLIC Edition only; standardized best-practice processes, fast onboarding (go-live as fast as ~4 weeks). (SAP Learning; Crowe Indonesia; Arvato). RE-CONFIRM current bundle inclusions via SAP official.",
+    "deployment_models": "S/4HANA Cloud Public Edition (multi-tenant, standardized, fit-to-standard) vs Private Edition (single-tenant, more customization/control). GROW=public only; RISE=public or private.",
+    "phased_vs_big_bang": "Big bang = whole org cuts over at once (faster, potentially cheaper, higher risk, needs full validation). Phased = by location/function/BU with parallel run (lower risk, better adoption/training cadence, longer, higher running cost). Phased recommended for most mid-market/complex enterprises; big bang only when processes standardized + leadership commitment high + data fully validated. (Panorama; Captivea; Arion ERP).",
+    "partner_selection_criteria": "Partner tier/certification (SAP Platinum highest), industry vertical experience, certified consultant bench depth, customization+local integration (e-Faktur/PPN/PPh for Indonesia), post-go-live support/SLA/escalation, data migration + integration capability, structured global methodology (e.g., SAP Activate). Generic claim 'success ~80% depends on partner quality' appears in ID SAP-partner content - frame as widely-cited industry view, not a hard SAP stat. (8thinktank; sapbusinessone.id; ImpactFirst).",
+    "readiness_dimensions": "ERP/cloud migration readiness assessment = structured PRE-project evaluation across: business/strategy alignment & objectives; current system & landscape inventory (sizing, architecture, custom code); data quality & mapping by department; security & compliance posture; people/skills readiness & change capacity; cost/TCO baseline; integration/system compatibility. SAP-specific tools to mention: SAP Readiness Check, SAP Signavio Process Insights, SAP Transformation Navigator. (SAP ERP migration checklist; ERP Software Blog; TierPoint). RE-CONFIRM SAP Readiness Check scope via SAP official."
+  },
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      { "id": "2026-06-erp-migration-to-the-cloud-01", "angle": "brownfield-greenfield-bluefield-decision-guide", "intent": "comparison", "subtopics": ["brownfield SAP", "greenfield migration", "bluefield selective data transition", "RISE with SAP", "SAP ECC 2027 deadline"] },
+      { "id": "2026-06-erp-migration-to-the-cloud-02", "angle": "downtime-cutover-minimisasi-risiko-migrasi", "intent": "how-to", "subtopics": ["Near-Zero Downtime", "cutover planning", "phased rollout (downtime context only)", "downtime window", "checklist go-live"] },
+      { "id": "2026-06-erp-migration-to-the-cloud-03", "angle": "tco-biaya-roi-migrasi-erp-cloud", "intent": "decision", "subtopics": ["TCO migrasi ERP", "OpEx vs CapEx", "biaya RISE with SAP (cost only)", "break-even point", "extended maintenance SAP ECC"] },
+      { "id": "2026-06-erp-migration-to-the-cloud-04", "angle": "keamanan-data-regulasi-cloud-erp-indonesia", "intent": "informational", "subtopics": ["keamanan ERP cloud", "UU PDP 2024", "BSSN", "shared responsibility model", "data residency Indonesia"] },
+      { "id": "2026-06-erp-migration-to-the-cloud-05", "angle": "pasca-go-live-tantangan-adopsi-change-management", "intent": "troubleshooting", "subtopics": ["pasca go-live", "hypercare", "AMS", "adopsi pengguna (post-go-live context)", "change management (post-go-live context)"] }
+    ],
+    "reserved_open_angles_from_history_notes": [
+      "panduan brownfield spesifik industri manufaktur / per-industri (from -01)",
+      "rehearsal cutover, testing strategy pre-go-live, parallel run (from -02)",
+      "ROI post-migration kalkulasi, perbandingan vendor cloud untuk SAP hosting (from -03)",
+      "incident response plan, penetration testing cloud ERP (from -04)",
+      "program pelatihan pengguna SAP, KPI sukses pasca go-live, continuous improvement (from -05)"
+    ],
+    "uncovered_angles_selected_this_run": [
+      "RISE with SAP vs GROW with SAP - dedicated program-selection decision matrix (comparison/decision; -01 was migration-PATH approaches, -03 touched RISE cost only; no committed article compares the two SAP cloud-ERP commercial programs head-to-head)",
+      "ERP migration readiness assessment - pre-project 'are you ready' self-evaluation (informational/decision; ALL committed articles are mid- or post-project; this is the awareness->consideration front door)",
+      "Choosing a SAP system integrator / implementation partner for the migration (decision; vendor-evaluation stage; entirely untouched in cluster, ID SERP only has SAP Business One reseller pages)"
+    ],
+    "deliberately_left_for_future_runs": [
+      "Deep-dive migrasi data SAP (cleansing, mapping, mock conversion, reconciliation) - technical how-to",
+      "Phased vs big-bang as a standalone deployment-strategy comparison (touched as downtime-context in -02; could stand alone later)",
+      "Per-industri migration (manufaktur / distribusi) deep-dive",
+      "KPI / metrik sukses migrasi & ROI post-migration measurement",
+      "Memilih hosting hyperscaler untuk SAP (AWS/Azure/GCP/Huawei) under RISE"
+    ]
+  },
+  "cousins_chosen_for_month_2026_08": {
+    "primary_hub": "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud (anchor: 'migrasi ERP ke cloud')",
+    "cousin_1": "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide (SAP Clean Core - clean core enables a smooth cloud migration; in this month's keyword set)",
+    "cousin_2": "https://www.soltius.co.id/id/blog/data-warehouse-solutions (Data Warehouse Solutions - the data layer that moves/modernizes alongside ERP on cloud; in this month's keyword set)",
+    "note": "Cross-link map lists ERP-migration cousins as SAP Clean Core + (Data Warehouse Solutions / digital manufacturing). digital manufacturing is NOT in the 2026-08 set, so the two most-related in-set cousins are SAP Clean Core and Data Warehouse Solutions."
+  }
+}

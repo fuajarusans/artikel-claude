@@ -1,0 +1,68 @@
+{
+  "brief_id": "business-intelligence-04",
+  "article_title_id": "Self-Service BI vs BI Tradisional: Framework Keputusan untuk Perusahaan Anda",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-02",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Infografik dua kolom horizontal berjudul \"Self-Service BI vs BI Tradisional\" — kolom kiri ikon business user dengan tablet dan label \"eksplorasi mandiri, jam-hari\"; kolom kanan ikon tim IT dengan server dan label \"laporan standar, minggu\". Di bawah tiap kolom tiga ikon: kecepatan (jam), governance (perisai), data literacy (buku). Gaya korporat biru-putih, teks Bahasa Indonesia",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Perbandingan dua pendekatan BI paling efektif divisualisasikan sebagai infografik dua kolom — memberi pembaca B2B ringkasan sekilas yang bisa dipindai dalam 5 detik, sekaligus optimal untuk Featured Snippet extraction.",
+      "visual_direction": "Infografik landscape berukuran 1200x630px. Latar belakang putih bersih. Judul besar di tengah atas: 'Self-Service BI vs BI Tradisional' (font bold, biru tua #003366). Garis vertikal abu-abu tipis memisahkan dua kolom. KOLOM KIRI — header biru cerah #0066CC, label 'Self-Service BI'. Ikon tunggal: figur bisnis (manajer/non-teknis) memegang tablet, bergaya outline biru. Di bawah ikon, dua baris teks biru tebal: 'Eksplorasi Mandiri' dan 'Insight: Jam–Hari'. Tiga ikon baris bawah dengan label: (1) ikon jam/stopwatch biru — 'Kecepatan Tinggi'; (2) ikon perisai — 'Governance: Prasyarat'; (3) ikon buku — 'Data Literacy: Tinggi'. KOLOM KANAN — header biru tua #003366, label 'BI Tradisional'. Ikon tunggal: dua figur tim IT dengan server/rack, bergaya outline biru tua. Di bawah ikon, dua baris teks biru tua tebal: 'Laporan Standar' dan 'Insight: Minggu'. Tiga ikon baris bawah dengan label: (1) ikon jam/stopwatch abu — 'Kecepatan Terbatas'; (2) ikon perisai penuh biru tua — 'Governance: Terpusat'; (3) ikon buku abu — 'Data Literacy: Rendah (sisi user)'. Footer tipis: logo Soltius kecil di pojok kanan bawah.",
+      "in_image_text_id": [
+        "Self-Service BI vs BI Tradisional",
+        "Self-Service BI",
+        "BI Tradisional",
+        "Eksplorasi Mandiri",
+        "Insight: Jam–Hari",
+        "Laporan Standar",
+        "Insight: Minggu",
+        "Kecepatan Tinggi",
+        "Governance: Prasyarat",
+        "Data Literacy: Tinggi",
+        "Kecepatan Terbatas",
+        "Governance: Terpusat",
+        "Data Literacy: Rendah (sisi user)"
+      ],
+      "alt_id": "Infografik perbandingan self-service BI dan BI tradisional: kecepatan insight, kebutuhan governance, dan tingkat data literacy",
+      "caption_id": "Self-service BI memungkinkan insight dalam hitungan jam, namun membutuhkan data governance yang matang dan data literacy yang memadai di sisi pengguna bisnis. BI tradisional menjamin konsistensi, namun siklus permintaan laporan bisa memakan berminggu-minggu.",
+      "sourcing_note": "Buat desain original — tidak memerlukan screenshot SAP. Gunakan ikon vector bersih bergaya korporat. Referensi pencarian: 'business intelligence infographic comparison two-column blue white corporate', 'data analytics B2B infographic enterprise'. Pastikan semua teks dalam Bahasa Indonesia sesuai spesifikasi di atas.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body — setelah paragraf 'Mengapa Self-Service BI Sering Berakhir dengan Banyak Dashboard'",
+      "concept_from_writer": "Diagram tangga empat level berjudul \"Analytics Maturity Model\" — Level 1 (Reaktif/spreadsheet, warna abu), Level 2 (Deskriptif/BI standar, warna biru muda), Level 3 (Analitik/self-service, warna biru), Level 4 (Prediktif/AI, warna biru tua). Tiap anak tangga dengan ikon dan satu bullet \"tanda utama\". Teks Bahasa Indonesia, gaya korporat bersih",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Model kematangan analitik 4-level divisualisasikan paling jelas sebagai diagram tangga progresif — menunjukkan urutan dan hierarki maturity yang tidak bisa digambarkan hanya dengan teks, dan membantu IT manager menilai posisi organisasinya secara visual.",
+      "visual_direction": "Diagram portrait atau landscape 1200x800px. Latar belakang putih bersih. Judul di atas: 'Analytics Maturity Model' (font bold, biru tua #003366). Empat anak tangga naik dari kiri bawah ke kanan atas, masing-masing lebih tinggi dari sebelumnya. ANAK TANGGA 1 (paling bawah kiri) — warna abu #888888, label besar 'Level 1' dan 'Reaktif', sub-label kecil 'Spreadsheet Dominan', ikon dokumen/Excel. ANAK TANGGA 2 — warna biru muda #66AADD, label 'Level 2' dan 'Deskriptif', sub-label 'BI Standar & KPI Dasar', ikon bar chart sederhana. ANAK TANGGA 3 — warna biru #0066CC, label 'Level 3' dan 'Analitik', sub-label 'Self-Service BI Tersebar', ikon dashboard/user dengan tablet. ANAK TANGGA 4 (paling atas kanan) — warna biru tua #003366, label 'Level 4' dan 'Prediktif', sub-label 'AI & Augmented Analytics', ikon otak/AI dengan kilat. Di bawah setiap anak tangga, satu kotak kecil dengan border tipis berisi satu bullet tanda utama: Level 1 — 'Data tersebar di Excel, tidak ada SSOT'; Level 2 — 'Business user masih minta laporan ke IT'; Level 3 — 'Definisi metrik disepakati, ada data champions'; Level 4 — 'Model prediksi sudah live, AI membantu keputusan'. Panah kanan bawah ke kiri atas menunjukkan arah progres. Footer: logo Soltius kecil pojok kanan bawah.",
+      "in_image_text_id": [
+        "Analytics Maturity Model",
+        "Level 1",
+        "Reaktif",
+        "Spreadsheet Dominan",
+        "Data tersebar di Excel, tidak ada SSOT",
+        "Level 2",
+        "Deskriptif",
+        "BI Standar & KPI Dasar",
+        "Business user masih minta laporan ke IT",
+        "Level 3",
+        "Analitik",
+        "Self-Service BI Tersebar",
+        "Definisi metrik disepakati, ada data champions",
+        "Level 4",
+        "Prediktif",
+        "AI & Augmented Analytics",
+        "Model prediksi sudah live, AI membantu keputusan"
+      ],
+      "alt_id": "Diagram tangga Analytics Maturity Model empat level dari Reaktif hingga Prediktif untuk memilih pendekatan Business Intelligence",
+      "caption_id": "Framework kematangan analitik 4-level: mulai dari Level 1 (spreadsheet dominan) hingga Level 4 (AI-driven insights). Sebagian besar perusahaan Indonesia berada di Level 1–2 — fondasi BI tradisional harus dibangun sebelum self-service BI bisa berhasil.",
+      "sourcing_note": "Buat desain original — tidak memerlukan screenshot SAP. Gunakan ikon vector bergaya korporat bersih. Referensi pencarian: 'analytics maturity model diagram staircase four levels blue corporate', 'data maturity framework infographic enterprise'. Pastikan semua teks dalam Bahasa Indonesia sesuai spesifikasi di atas. Gradasi warna abu ke biru muda ke biru ke biru tua penting untuk menunjukkan progres kematangan.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

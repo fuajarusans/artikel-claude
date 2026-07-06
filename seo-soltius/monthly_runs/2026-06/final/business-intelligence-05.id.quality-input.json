@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-06\\final\\business-intelligence-05.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-03T01:27:29+07:00",
+    "word_count":  1684,
+    "paragraph_count":  45,
+    "sentence_count":  96,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.587,
+                        "sentence_burstiness":  0.901,
+                        "top30_vocab_share":  0.332,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "## Satu Hal yang Sering Disalahpahami: Masalah BI Bukan Soal Tools Ini bagian yang jarang ditulis vendor BI, karena tidak ada insentifnya.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Satu Hal yang Sering Disalahpahami: Masalah BI Bukan Soal Tools Ini bagian yang jarang ditulis vendor BI, karena tida\""
+                                  },
+                                  {
+                                      "passage":  "*Warning sign:* Proyek sudah masuk bulan ke-8 tapi belum satu pun dashboard live.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"*Warning sign:* Proyek sudah masuk bulan ke-8 tapi belum satu pun dashboard live.\""
+                                  },
+                                  {
+                                      "passage":  "Fase pertama yang sehat: satu domain bisnis, 3–5 KPI, seharusnya bisa go-live dalam 8–12 minggu.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Fase pertama yang sehat: satu domain bisnis, 3–5 KPI, seharusnya bisa go-live dalam 8–12 minggu.\""
+                                  },
+                                  {
+                                      "passage":  "## 5 Penyebab Utama Proyek BI Gagal Urutan di bawah ini bukan ranking mutlak.",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"## 5 Penyebab Utama Proyek BI Gagal Urutan di bawah ini bukan ranking mutlak.\""
+                                  },
+                                  {
+                                      "passage":  "## BI yang Berhasil vs BI yang Gagal: Perbedaan di Fase Perencanaan Perbedaan antara proyek BI yang menghasilkan dan yang tidak biasanya sudah terlihat jauh sebelum platform dipilih.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"## BI yang Berhasil vs BI yang Gagal: Perbedaan di Fase Perencanaan Perbedaan antara proyek BI yang menghasilkan dan yan\""
+                                  },
+                                  {
+                                      "passage":  "Menurut estimasi Gartner, antara 70–80% proyek Business Intelligence tidak menghasilkan nilai yang diharapkan.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Menurut estimasi Gartner, antara 70–80% proyek Business Intelligence tidak menghasilkan nilai yang diharapkan.\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Berapa persentase proyek Business Intelligence yang gagal?",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Berapa persentase proyek Business Intelligence yang gagal?\""
+                                  },
+                                  {
+                                      "passage":  "Memilih platform yang lebih baru: SAC (*SAP Analytics Cloud*), Power BI, atau Tableau, tidak menyelesaikan masalah data yang buruk atau organisasi yang belum siap berubah.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Memilih platform yang lebih baru: SAC (*SAP Analytics Cloud*), Power BI, atau Tableau, tidak menyelesaikan masalah data \""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

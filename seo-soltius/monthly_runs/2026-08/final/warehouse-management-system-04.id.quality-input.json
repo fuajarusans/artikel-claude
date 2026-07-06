@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-08\\final\\warehouse-management-system-04.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-08T18:13:40+07:00",
+    "word_count":  1992,
+    "paragraph_count":  22,
+    "sentence_count":  95,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.311,
+                        "sentence_burstiness":  0.75,
+                        "top30_vocab_share":  0.298,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.311 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Studi Auburn University RFID Lab dan GS1 US (2018) menemukan akurasi inventori naik dari rata-rata 63% ke 95% setelah implementasi RFID, dengan konteks industri ritel.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Studi Auburn University RFID Lab dan GS1 US (2018) menemukan akurasi inventori naik dari rata-rata 63% ke 95% setelah im\""
+                                  },
+                                  {
+                                      "passage":  "## Peran Barcode, RFID, dan Perangkat Mobile dalam Eksekusi Gudang Integrasi sebersih apa pun tidak berarti jika data salah ditangkap di sumbernya.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Peran Barcode, RFID, dan Perangkat Mobile dalam Eksekusi Gudang Integrasi sebersih apa pun tidak berarti jika data sa\""
+                                  },
+                                  {
+                                      "passage":  "# WMS Cloud vs On-Premise: Cara Memilih dan Mengintegrasikan dengan ERP Tim IT Anda sudah sepakat: gudang butuh sistem yang lebih baik daripada spreadsheet dan kartu stok.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"# WMS Cloud vs On-Premise: Cara Memilih dan Mengintegrasikan dengan ERP Tim IT Anda sudah sepakat: gudang butuh sistem y\""
+                                  },
+                                  {
+                                      "passage":  "Sebaliknya, embedded EWM berbagi nasib dengan ERP-nya, jika sistem inti *down*, gudang ikut berhenti.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Sebaliknya, embedded EWM berbagi nasib dengan ERP-nya, jika sistem inti *down*, gudang ikut berhenti.\""
+                                  },
+                                  {
+                                      "passage":  "## Cloud, On-Premise, atau Embedded di ERP — Apa Pilihan Deployment WMS?",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Cloud, On-Premise, atau Embedded di ERP — Apa Pilihan Deployment WMS?\""
+                                  },
+                                  {
+                                      "passage":  "Klaim umum bahwa \"cloud WMS tetap jalan saat internet putus\" perlu diperiksa.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Klaim umum bahwa  cloud WMS tetap jalan saat internet putus  perlu diperiksa.\""
+                                  },
+                                  {
+                                      "passage":  "Sebagian besar solusi cloud WMS modern punya kemampuan offline terbatas, operasi kritis tertentu bisa dilanjutkan dan data disinkronkan otomatis saat koneksi pulih.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Sebagian besar solusi cloud WMS modern punya kemampuan offline terbatas, operasi kritis tertentu bisa dilanjutkan dan da\""
+                                  },
+                                  {
+                                      "passage":  "## Kapan On-Premise Masih Pilihan yang Lebih Tepat Tidak selalu cloud yang menang.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"## Kapan On-Premise Masih Pilihan yang Lebih Tepat Tidak selalu cloud yang menang.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

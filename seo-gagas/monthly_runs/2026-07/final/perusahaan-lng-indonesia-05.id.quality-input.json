@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07\\final\\perusahaan-lng-indonesia-05.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-09T18:01:53+07:00",
+    "word_count":  1603,
+    "paragraph_count":  17,
+    "sentence_count":  91,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.462,
+                        "sentence_burstiness":  0.55,
+                        "top30_vocab_share":  0.287,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Pemain hulu (kilang) mencairkan gas bumi menjadi LNG pada suhu sekitar -162 derajat Celsius; pada titik itu volumenya menyusut sekitar 1/600 (PT PGN LNG Indonesia, 2025).",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Pemain hulu (kilang) mencairkan gas bumi menjadi LNG pada suhu sekitar -162 derajat Celsius; pada titik itu volumenya me\""
+                                  },
+                                  {
+                                      "passage":  "Berdasarkan ketentuan Kementerian ESDM, penyedia yang melakukan niaga gas bumi dalam bentuk LNG melalui moda non-pipa wajib memiliki Izin Usaha Niaga Minyak dan Gas Bumi.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Berdasarkan ketentuan Kementerian ESDM, penyedia yang melakukan niaga gas bumi dalam bentuk LNG melalui moda non-pipa wa\""
+                                  },
+                                  {
+                                      "passage":  "# Memilih Penyedia Solusi LNG di Indonesia: Kriteria dan Pertimbangan Anda sudah memutuskan butuh LNG untuk pabrik atau hotel yang tidak dilewati pipa gas.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"# Memilih Penyedia Solusi LNG di Indonesia: Kriteria dan Pertimbangan Anda sudah memutuskan butuh LNG untuk pabrik atau \""
+                                  },
+                                  {
+                                      "passage":  "\u003e **Secara singkat:** Memilih penyedia solusi LNG berarti mengevaluasi mitra di sisi distribusi gas bumi *beyond-pipeline*, bukan sekadar mencari \"perusahaan LNG\" termurah.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"\u003e **Secara singkat:** Memilih penyedia solusi LNG berarti mengevaluasi mitra di sisi distribusi gas bumi *beyond-pipelin\""
+                                  },
+                                  {
+                                      "passage":  "Bagaimana prosedur boil-off dan darurat?\" | Sistem K3 terstandar mengurangi risiko penanganan kriogenik | | **Transparansi \u0026 SLA** | \"Bagaimana volume terkirim dihitung?",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Bagaimana prosedur boil-off dan darurat?  | Sistem K3 terstandar mengurangi risiko penanganan kriogenik | | **Transparan\""
+                                  },
+                                  {
+                                      "passage":  "## Checklist Evaluasi Penyedia LNG: Apa yang Ditanyakan Cara tercepat menilai penyedia adalah mengubah kriteria menjadi pertanyaan langsung.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Checklist Evaluasi Penyedia LNG: Apa yang Ditanyakan Cara tercepat menilai penyedia adalah mengubah kriteria menjadi \""
+                                  },
+                                  {
+                                      "passage":  "## Tidak Semua \"Perusahaan LNG\" Berperan Sama Istilah \"perusahaan LNG\" menutupi tiga peran yang sangat berbeda.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Tidak Semua  Perusahaan LNG  Berperan Sama Istilah  perusahaan LNG  menutupi tiga peran yang sangat berbeda.\""
+                                  },
+                                  {
+                                      "passage":  "LNG tidak bisa langsung dipakai sebagai gas bakar; ia harus diuapkan dulu melalui *Small-scale Regasification Unit* (SRU) di sisi pelanggan (PT PGN LNG Indonesia, 2025).",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"LNG tidak bisa langsung dipakai sebagai gas bakar; ia harus diuapkan dulu melalui *Small-scale Regasification Unit* (SRU\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

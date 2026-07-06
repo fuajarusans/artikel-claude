@@ -1,0 +1,1690 @@
+{
+  "schema_version": "2.0",
+  "client": "SOLTIUS",
+  "language": "id",
+  "last_updated": "2026-06-08T18:00:00+07:00",
+  "articles": [
+    {
+      "id": "2026-06-business-intelligence-01",
+      "month": "2026-06",
+      "keyword": "Business Intelligence",
+      "keyword_slug": "business-intelligence",
+      "title": "Business Intelligence: Mengapa Data Berlimpah Belum Tentu Menghasilkan Keputusan Lebih Baik",
+      "slug": "business-intelligence-data-berlimpah-keputusan-lebih-baik",
+      "angle": "definisi-bi-mengapa-data-tidak-otomatis-jadi-keputusan",
+      "angle_hash": "sha1:a3f7c2d89b1e",
+      "search_intent": "informational",
+      "subtopics": ["BI vs analytics", "data-driven decision", "dashboard vs BI", "kapan butuh BI", "SAP Analytics Cloud"],
+      "soltius_mentions": ["SAP Analytics Cloud (teach); Soltius SAP Analytics Cloud implementation (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/business-intelligence",
+        "https://www.soltius.co.id/id/blog/data-warehouse-solutions",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud"
+      ],
+      "external_citations": [
+        "https://www.sap.com/products/data-cloud/cloud-analytics/what-is-business-intelligence.html",
+        "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/five-facts-how-customer-analytics-boosts-corporate-performance"
+      ],
+      "word_count": 1982,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-06/final/business-intelligence-01.id.md",
+        "id_docx": "monthly_runs/2026-06/final/business-intelligence-01.id.docx",
+        "image_plan": "monthly_runs/2026-06/final/business-intelligence-01.images.json",
+        "qc": "monthly_runs/2026-06/final/business-intelligence-01.qc.md",
+        "quality": "monthly_runs/2026-06/final/business-intelligence-01.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-06-business-intelligence-02",
+      "month": "2026-06",
+      "keyword": "Business Intelligence",
+      "keyword_slug": "business-intelligence",
+      "title": "SAP Analytics Cloud: Satu Platform untuk BI, Planning, dan Analitik Prediktif",
+      "slug": "sap-analytics-cloud-bi-planning-prediktif-tiga-pilar",
+      "angle": "sap-analytics-cloud-tiga-pilar-bi-planning-predictive",
+      "angle_hash": "sha1:b8e4a1c67f3d",
+      "search_intent": "consideration",
+      "subtopics": ["SAP Analytics Cloud", "BI planning prediktif", "tiga pilar SAC", "SAC vs BusinessObjects", "FP&A SAP"],
+      "soltius_mentions": ["SAP Analytics Cloud (teach); Soltius SAC implementation (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/business-intelligence",
+        "https://www.soltius.co.id/id/blog/data-warehouse-solutions",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud"
+      ],
+      "external_citations": [
+        "https://www.sap.com/products/data-cloud/cloud-analytics.html",
+        "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-businessobjects-bi-2025-updated-release-timeline-and-maintenance/ba-p/13932657"
+      ],
+      "word_count": 2030,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-06/final/business-intelligence-02.id.md",
+        "id_docx": "monthly_runs/2026-06/final/business-intelligence-02.id.docx",
+        "image_plan": "monthly_runs/2026-06/final/business-intelligence-02.images.json",
+        "qc": "monthly_runs/2026-06/final/business-intelligence-02.qc.md",
+        "quality": "monthly_runs/2026-06/final/business-intelligence-02.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-06-business-intelligence-03",
+      "month": "2026-06",
+      "keyword": "Business Intelligence",
+      "keyword_slug": "business-intelligence",
+      "title": "Embedded Analytics di SAP S/4HANA: BI Operasional Real-Time Tanpa Lapisan Tambahan",
+      "slug": "embedded-analytics-s4hana-business-intelligence-real-time",
+      "angle": "embedded-analytics-s4hana-bi-operasional-real-time",
+      "angle_hash": "sha1:c9d5b2e81a4f",
+      "search_intent": "how-to",
+      "subtopics": ["embedded analytics S/4HANA", "SAP Fiori tiles", "BI operasional real-time", "CDS views", "embedded vs SAC"],
+      "soltius_mentions": ["SAP S/4HANA embedded analytics (teach); Soltius S/4HANA implementation (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/business-intelligence",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud",
+        "https://www.soltius.co.id/id/blog/data-warehouse-solutions"
+      ],
+      "external_citations": [
+        "https://learning.sap.com/learning-journeys/discovering-sap-s-4hana-embedded-analytics/exploring-the-pre-delivered-apps-of-sap-s-4hana-embedded-analytics_a8c49b69-f2ae-40c5-a571-5924c90f3dc6",
+        "https://community.sap.com/t5/enterprise-architecture-knowledge-base/when-to-use-sap-s-4hana-embedded-analytics/ta-p/5154"
+      ],
+      "word_count": 1768,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-06/final/business-intelligence-03.id.md",
+        "id_docx": "monthly_runs/2026-06/final/business-intelligence-03.id.docx",
+        "image_plan": "monthly_runs/2026-06/final/business-intelligence-03.images.json",
+        "qc": "monthly_runs/2026-06/final/business-intelligence-03.qc.md",
+        "quality": "monthly_runs/2026-06/final/business-intelligence-03.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-06-business-intelligence-04",
+      "month": "2026-06",
+      "keyword": "Business Intelligence",
+      "keyword_slug": "business-intelligence",
+      "title": "Self-Service BI vs BI Tradisional: Framework Keputusan untuk Perusahaan Anda",
+      "slug": "self-service-bi-vs-bi-tradisional-framework-keputusan",
+      "angle": "self-service-bi-vs-traditional-bi-framework-keputusan",
+      "angle_hash": "sha1:d2f6c3a79e5b",
+      "search_intent": "comparison",
+      "subtopics": ["self-service BI", "BI tradisional", "kematangan analitik", "data governance", "augmented analytics"],
+      "soltius_mentions": ["SAP Analytics Cloud self-service (teach); Soltius BI advisory (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/business-intelligence",
+        "https://www.soltius.co.id/id/blog/data-warehouse-solutions",
+        "https://www.soltius.co.id/id/blog/low-code-and-no-code-platforms"
+      ],
+      "external_citations": [
+        "https://www.sap.com/products/data-cloud/cloud-analytics.html",
+        "https://www.gartner.com/reviews/market/augmented-analytics"
+      ],
+      "word_count": 1688,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-06/final/business-intelligence-04.id.md",
+        "id_docx": "monthly_runs/2026-06/final/business-intelligence-04.id.docx",
+        "image_plan": "monthly_runs/2026-06/final/business-intelligence-04.images.json",
+        "qc": "monthly_runs/2026-06/final/business-intelligence-04.qc.md",
+        "quality": "monthly_runs/2026-06/final/business-intelligence-04.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-06-business-intelligence-05",
+      "month": "2026-06",
+      "keyword": "Business Intelligence",
+      "keyword_slug": "business-intelligence",
+      "title": "5 Alasan Proyek Business Intelligence Gagal — dan Cara Mencegahnya",
+      "slug": "alasan-proyek-business-intelligence-gagal-dan-cara-mencegah",
+      "angle": "mengapa-proyek-bi-gagal-diagnosis-dan-perbaikan",
+      "angle_hash": "sha1:e4g7d1b92c6e",
+      "search_intent": "troubleshooting",
+      "subtopics": ["kegagalan proyek BI", "ROI BI", "change management BI", "data quality", "adoption BI"],
+      "soltius_mentions": ["SAP Analytics Cloud implementasi (teach); Soltius BI implementation partner (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/business-intelligence",
+        "https://www.soltius.co.id/id/blog/data-warehouse-solutions",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud"
+      ],
+      "external_citations": [
+        "https://www.gartner.com/en/newsroom/press-releases/2024-02-28-gartner-predicts-80-percent-of-data-and-analytics-governance-initiatives-will-fail-by-2027-due-to-a-lack-of-a-real-or-manufactured-crisis-",
+        "https://www.gartner.com/en/articles/genai-project-failure"
+      ],
+      "word_count": 1916,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-06/final/business-intelligence-05.id.md",
+        "id_docx": "monthly_runs/2026-06/final/business-intelligence-05.id.docx",
+        "image_plan": "monthly_runs/2026-06/final/business-intelligence-05.images.json",
+        "qc": "monthly_runs/2026-06/final/business-intelligence-05.qc.md",
+        "quality": "monthly_runs/2026-06/final/business-intelligence-05.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-06-data-warehouse-solutions-01",
+      "month": "2026-06",
+      "keyword": "Data Warehouse Solutions",
+      "keyword_slug": "data-warehouse-solutions",
+      "title": "Data Warehouse Solutions: Apa Itu dan Mengapa Perusahaan Indonesia Butuh Satu Sekarang",
+      "slug": "data-warehouse-solutions-panduan-perusahaan-indonesia",
+      "angle": "definisi-manfaat-enterprise-indonesia",
+      "angle_hash": "sha1:a3f1c9e2d8b5",
+      "search_intent": "informational",
+      "subtopics": ["definisi data warehouse", "ETL", "single source of truth", "SAP Datasphere", "data silo"],
+      "soltius_mentions": ["SAP Datasphere / SAP BW/4HANA (teach); Soltius data platform implementation (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/data-warehouse-solutions",
+        "https://www.soltius.co.id/id/blog/business-intelligence",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud"
+      ],
+      "external_citations": [
+        "https://help.sap.com/docs/SAP_DATASPHERE",
+        "https://www.dataideology.com/the-state-of-big-data-analytics-in-2025-market-growth-adoption-investment-trends/"
+      ],
+      "word_count": 1722,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-06/final/data-warehouse-solutions-01.id.md",
+        "id_docx": "monthly_runs/2026-06/final/data-warehouse-solutions-01.id.docx",
+        "image_plan": "monthly_runs/2026-06/final/data-warehouse-solutions-01.images.json",
+        "qc": "monthly_runs/2026-06/final/data-warehouse-solutions-01.qc.md",
+        "quality": "monthly_runs/2026-06/final/data-warehouse-solutions-01.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-06-data-warehouse-solutions-02",
+      "month": "2026-06",
+      "keyword": "Data Warehouse Solutions",
+      "keyword_slug": "data-warehouse-solutions",
+      "title": "Data Warehouse vs Data Lake vs Data Lakehouse: Panduan Memilih Arsitektur Data yang Tepat",
+      "slug": "data-warehouse-vs-data-lake-vs-lakehouse-panduan-memilih",
+      "angle": "data-warehouse-vs-data-lake-vs-lakehouse-pilihan-arsitektur",
+      "angle_hash": "sha1:b7d2e4f1a093",
+      "search_intent": "comparison",
+      "subtopics": ["data warehouse vs data lake", "data lakehouse", "arsitektur data modern", "SAP Datasphere", "schema-on-write vs schema-on-read"],
+      "soltius_mentions": ["SAP Datasphere modern data platform (teach); Soltius data architecture advisory (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/data-warehouse-solutions",
+        "https://www.soltius.co.id/id/blog/business-intelligence",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud"
+      ],
+      "external_citations": [
+        "https://www.ibm.com/think/topics/data-warehouse-vs-data-lake-vs-data-lakehouse"
+      ],
+      "word_count": 1722,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-06/final/data-warehouse-solutions-02.id.md",
+        "id_docx": "monthly_runs/2026-06/final/data-warehouse-solutions-02.id.docx",
+        "image_plan": "monthly_runs/2026-06/final/data-warehouse-solutions-02.images.json",
+        "qc": "monthly_runs/2026-06/final/data-warehouse-solutions-02.qc.md",
+        "quality": "monthly_runs/2026-06/final/data-warehouse-solutions-02.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-06-data-warehouse-solutions-03",
+      "month": "2026-06",
+      "keyword": "Data Warehouse Solutions",
+      "keyword_slug": "data-warehouse-solutions",
+      "title": "Cara Implementasi Data Warehouse: Roadmap 5 Fase untuk Perusahaan Indonesia",
+      "slug": "roadmap-implementasi-data-warehouse-solutions-5-fase",
+      "angle": "roadmap-implementasi-etl-langkah-praktis",
+      "angle_hash": "sha1:c5a8f3b2e71d",
+      "search_intent": "how-to",
+      "subtopics": ["roadmap implementasi data warehouse", "ETL vs ELT", "5 fase implementasi", "go-live", "data quality management"],
+      "soltius_mentions": ["SAP Datasphere ETL/ELT (teach); Soltius data warehouse implementation (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/data-warehouse-solutions",
+        "https://www.soltius.co.id/id/blog/business-intelligence",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud"
+      ],
+      "external_citations": [
+        "https://community.sap.com/t5/technology-blog-posts-by-sap/sap-datasphere-extract-transform-amp-load-etl-best-practices/ba-p/14363004",
+        "https://www.gartner.com/en/newsroom/press-releases/2024-02-28-gartner-predicts-80-percent-of-data-and-analytics-governance-initiatives-will-fail-by-2027-due-to-a-lack-of-a-real-or-manufactured-crisis"
+      ],
+      "word_count": 1776,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-06/final/data-warehouse-solutions-03.id.md",
+        "id_docx": "monthly_runs/2026-06/final/data-warehouse-solutions-03.id.docx",
+        "image_plan": "monthly_runs/2026-06/final/data-warehouse-solutions-03.images.json",
+        "qc": "monthly_runs/2026-06/final/data-warehouse-solutions-03.qc.md",
+        "quality": "monthly_runs/2026-06/final/data-warehouse-solutions-03.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-06-data-warehouse-solutions-04",
+      "month": "2026-06",
+      "keyword": "Data Warehouse Solutions",
+      "keyword_slug": "data-warehouse-solutions",
+      "title": "SAP Datasphere vs SAP BW/4HANA: Panduan Memilih Data Warehouse Solution yang Tepat di 2026",
+      "slug": "sap-datasphere-vs-bw4hana-data-warehouse-solutions-2026",
+      "angle": "sap-datasphere-vs-bw4hana-panduan-pemilihan",
+      "angle_hash": "sha1:d9e3c7a1f52b",
+      "search_intent": "comparison",
+      "subtopics": ["SAP Datasphere vs BW/4HANA", "SAP Business Data Cloud", "data federation", "cloud-native warehouse", "migrasi BW ke Datasphere"],
+      "soltius_mentions": ["SAP Datasphere / BW/4HANA / Business Data Cloud (teach); Soltius SAP data platform advisory (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/data-warehouse-solutions",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud",
+        "https://www.soltius.co.id/id/blog/business-intelligence"
+      ],
+      "external_citations": [
+        "https://news.sap.com/2025/02/sap-business-data-cloud-databricks-turbocharge-business-ai/"
+      ],
+      "word_count": 1657,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-06/final/data-warehouse-solutions-04.id.md",
+        "id_docx": "monthly_runs/2026-06/final/data-warehouse-solutions-04.id.docx",
+        "image_plan": "monthly_runs/2026-06/final/data-warehouse-solutions-04.images.json",
+        "qc": "monthly_runs/2026-06/final/data-warehouse-solutions-04.qc.md",
+        "quality": "monthly_runs/2026-06/final/data-warehouse-solutions-04.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-06-data-warehouse-solutions-05",
+      "month": "2026-06",
+      "keyword": "Data Warehouse Solutions",
+      "keyword_slug": "data-warehouse-solutions",
+      "title": "Data Governance dan UU PDP: Mengapa Infrastruktur Data Warehouse Anda Menentukan Kepatuhan",
+      "slug": "data-warehouse-solutions-governance-uu-pdp-indonesia",
+      "angle": "data-governance-kepatuhan-uu-pdp-indonesia",
+      "angle_hash": "sha1:e1b6d8c4f093",
+      "search_intent": "informational",
+      "subtopics": ["data governance", "UU PDP Indonesia", "BPDP", "data lineage", "RBAC audit trail SAP Datasphere"],
+      "soltius_mentions": ["SAP Datasphere governance (teach); Soltius data platform governance advisory (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/data-warehouse-solutions",
+        "https://www.soltius.co.id/id/blog/business-intelligence",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud"
+      ],
+      "external_citations": [
+        "https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022",
+        "https://www.sap.com/assetdetail/2026/03/f25cee56-417f-0010-bca6-c68f7e60039b.html"
+      ],
+      "word_count": 1879,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-06/final/data-warehouse-solutions-05.id.md",
+        "id_docx": "monthly_runs/2026-06/final/data-warehouse-solutions-05.id.docx",
+        "image_plan": "monthly_runs/2026-06/final/data-warehouse-solutions-05.images.json",
+        "qc": "monthly_runs/2026-06/final/data-warehouse-solutions-05.qc.md",
+        "quality": "monthly_runs/2026-06/final/data-warehouse-solutions-05.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-06-digital-manufacturing-01",
+      "month": "2026-06",
+      "keyword": "digital manufacturing",
+      "keyword_slug": "digital-manufacturing",
+      "title": "Digital Manufacturing: Fondasi Pabrik Cerdas di Era Industry 4.0",
+      "slug": "digital-manufacturing-fondasi-pabrik-cerdas-industry-4-0",
+      "angle": "definisi-digital-manufacturing-sap",
+      "angle_hash": "sha1:b3c7e91a2f04",
+      "search_intent": "informational",
+      "subtopics": ["definisi digital manufacturing", "IIoT MES ERP", "SAP Digital Manufacturing", "Industry 4.0", "Making Indonesia 4.0"],
+      "soltius_mentions": ["SAP Digital Manufacturing / S/4HANA PP (teach); Soltius manufacturing implementation (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/digital-manufaktur-sistem",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud",
+        "https://www.soltius.co.id/id/blog/business-intelligence"
+      ],
+      "external_citations": [
+        "https://www.kemenperin.go.id/artikel/18967/Making-Indonesia-4.0",
+        "https://www.weforum.org/projects/global-lighthouse-network"
+      ],
+      "word_count": 1752,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-06/final/digital-manufacturing-01.id.md",
+        "id_docx": "monthly_runs/2026-06/final/digital-manufacturing-01.id.docx",
+        "image_plan": "monthly_runs/2026-06/final/digital-manufacturing-01.images.json",
+        "qc": "monthly_runs/2026-06/final/digital-manufacturing-01.qc.md",
+        "quality": "monthly_runs/2026-06/final/digital-manufacturing-01.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-06-digital-manufacturing-02",
+      "month": "2026-06",
+      "keyword": "digital manufacturing",
+      "keyword_slug": "digital-manufacturing",
+      "title": "MES dan ERP: Cara Menghubungkan Lantai Produksi ke Sistem Pusat",
+      "slug": "integrasi-mes-erp-digital-manufacturing-lantai-produksi",
+      "angle": "mes-erp-integrasi-shop-floor",
+      "angle_hash": "sha1:c4d8f02b3a15",
+      "search_intent": "how-to",
+      "subtopics": ["integrasi MES ERP", "SAP Digital Manufacturing Cloud", "shop floor connectivity", "OT IT integration", "paperless production"],
+      "soltius_mentions": ["SAP Digital Manufacturing Cloud (teach); Soltius MES-ERP integration implementation (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/digital-manufaktur-sistem",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud",
+        "https://www.soltius.co.id/id/blog/business-intelligence"
+      ],
+      "external_citations": [
+        "https://help.sap.com/docs/sap-digital-manufacturing/integration-guide/integration-with-sap-s-4hana-cloud",
+        "https://community.sap.com/t5/supply-chain-management-blog-posts-by-sap/setting-up-shop-floor-connectivity-connecting-your-opc-ua-server-with-sap/ba-p/13897749"
+      ],
+      "word_count": 1613,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-06/final/digital-manufacturing-02.id.md",
+        "id_docx": "monthly_runs/2026-06/final/digital-manufacturing-02.id.docx",
+        "image_plan": "monthly_runs/2026-06/final/digital-manufacturing-02.images.json",
+        "qc": "monthly_runs/2026-06/final/digital-manufacturing-02.qc.md",
+        "quality": "monthly_runs/2026-06/final/digital-manufacturing-02.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-06-digital-manufacturing-03",
+      "month": "2026-06",
+      "keyword": "digital manufacturing",
+      "keyword_slug": "digital-manufacturing",
+      "title": "ROI Digital Manufacturing: Kerangka Biaya dan Manfaat untuk Manufaktur Indonesia",
+      "slug": "roi-digital-manufacturing-biaya-manfaat-manufaktur-indonesia",
+      "angle": "roi-biaya-implementasi-digital-manufacturing",
+      "angle_hash": "sha1:e7a9b04c1d26",
+      "search_intent": "decision",
+      "subtopics": ["ROI digital manufacturing", "TCO manufaktur digital", "payback period", "OEE nilai bisnis", "kapan tunda investasi"],
+      "soltius_mentions": ["SAP Digital Manufacturing Cloud IDC Leader (teach); Soltius manufacturing ROI advisory (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/digital-manufaktur-sistem",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud",
+        "https://www.soltius.co.id/id/blog/data-warehouse-solutions"
+      ],
+      "external_citations": [
+        "https://kemenperin.go.id/artikel/20584/Implementasi-Industri-4.0-Dongkrak-Efisiensi-dan-Produktivitas-40-Persen-",
+        "https://www.sap.com/products/scm/digital-manufacturing.html"
+      ],
+      "word_count": 1731,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-06/final/digital-manufacturing-03.id.md",
+        "id_docx": "monthly_runs/2026-06/final/digital-manufacturing-03.id.docx",
+        "image_plan": "monthly_runs/2026-06/final/digital-manufacturing-03.images.json",
+        "qc": "monthly_runs/2026-06/final/digital-manufacturing-03.qc.md",
+        "quality": "monthly_runs/2026-06/final/digital-manufacturing-03.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-06-digital-manufacturing-04",
+      "month": "2026-06",
+      "keyword": "digital manufacturing",
+      "keyword_slug": "digital-manufacturing",
+      "title": "Predictive Maintenance dan OEE dalam Digital Manufacturing: Dua Pilar Pabrik Pintar Berbasis Data",
+      "slug": "predictive-maintenance-oee-digital-manufacturing",
+      "angle": "predictive-maintenance-oee-pabrik-pintar",
+      "angle_hash": "sha1:f2b0e93c5d47",
+      "search_intent": "informational",
+      "subtopics": ["OEE formula", "predictive vs preventive maintenance", "SAP Digital Manufacturing for Insights", "SAP Asset Intelligence Network", "IIoT sensor pabrik"],
+      "soltius_mentions": ["SAP Digital Manufacturing / SAP Asset Intelligence Network (teach); Soltius maintenance digitalization (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/digital-manufaktur-sistem",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud",
+        "https://www.soltius.co.id/id/blog/business-intelligence"
+      ],
+      "external_citations": [
+        "https://help.sap.com/docs/sap-digital-manufacturing/insights/about-sap-digital-manufacturing-for-insights",
+        "https://evocon.com/articles/world-class-oee-industry-benchmarks-from-more-than-50-countries/"
+      ],
+      "word_count": 2013,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-06/final/digital-manufacturing-04.id.md",
+        "id_docx": "monthly_runs/2026-06/final/digital-manufacturing-04.id.docx",
+        "image_plan": "monthly_runs/2026-06/final/digital-manufacturing-04.images.json",
+        "qc": "monthly_runs/2026-06/final/digital-manufacturing-04.qc.md",
+        "quality": "monthly_runs/2026-06/final/digital-manufacturing-04.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-06-digital-manufacturing-05",
+      "month": "2026-06",
+      "keyword": "digital manufacturing",
+      "keyword_slug": "digital-manufacturing",
+      "title": "5 Tantangan Nyata Digital Manufacturing di Indonesia dan Cara Mengatasinya",
+      "slug": "tantangan-digital-manufacturing-indonesia",
+      "angle": "tantangan-implementasi-kapan-belum-siap",
+      "angle_hash": "sha1:a1c5d72e9b38",
+      "search_intent": "troubleshooting",
+      "subtopics": ["tantangan digital manufacturing", "master data kotor", "kesenjangan talenta", "integrasi legacy", "OT security change management"],
+      "soltius_mentions": ["SAP Digital Manufacturing (teach); Soltius manufacturing transformation advisory (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/digital-manufaktur-sistem",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud",
+        "https://www.soltius.co.id/id/blog/low-code-and-no-code-platforms"
+      ],
+      "external_citations": [
+        "https://www.mckinsey.com/capabilities/transformation/our-insights/why-do-most-transformations-fail-a-conversation-with-harry-robinson",
+        "https://www.dragos.com/blog/dragos-industrial-ransomware-analysis-q2-2025"
+      ],
+      "word_count": 1645,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-06/final/digital-manufacturing-05.id.md",
+        "id_docx": "monthly_runs/2026-06/final/digital-manufacturing-05.id.docx",
+        "image_plan": "monthly_runs/2026-06/final/digital-manufacturing-05.images.json",
+        "qc": "monthly_runs/2026-06/final/digital-manufacturing-05.qc.md",
+        "quality": "monthly_runs/2026-06/final/digital-manufacturing-05.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-06-erp-migration-to-the-cloud-01",
+      "month": "2026-06",
+      "keyword": "ERP migration to the cloud",
+      "keyword_slug": "erp-migration-to-the-cloud",
+      "title": "Brownfield, Greenfield, atau Bluefield? Panduan Memilih Jalur Migrasi ERP ke Cloud",
+      "slug": "brownfield-greenfield-bluefield-panduan-migrasi-erp-ke-cloud",
+      "angle": "brownfield-greenfield-bluefield-decision-guide",
+      "angle_hash": "sha1:a3f82c1d9e45",
+      "search_intent": "comparison",
+      "subtopics": ["brownfield SAP", "greenfield migration", "bluefield selective data transition", "RISE with SAP", "SAP ECC 2027 deadline"],
+      "soltius_mentions": ["RISE with SAP / S/4HANA Cloud (teach); Soltius Best RISE Partner migration (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud",
+        "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide",
+        "https://www.soltius.co.id/id/blog/data-warehouse-solutions"
+      ],
+      "external_citations": [
+        "https://support.sap.com/en/release-upgrade-maintenance/maintenance-information/maintenance-strategy/s4hana-business-suite7.html",
+        "https://www.snpgroup.com/en/resources/blog/greenfield-brownfield-bluefield/"
+      ],
+      "word_count": 2053,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-06/final/erp-migration-to-the-cloud-01.id.md",
+        "id_docx": "monthly_runs/2026-06/final/erp-migration-to-the-cloud-01.id.docx",
+        "image_plan": "monthly_runs/2026-06/final/erp-migration-to-the-cloud-01.images.json",
+        "qc": "monthly_runs/2026-06/final/erp-migration-to-the-cloud-01.qc.md",
+        "quality": "monthly_runs/2026-06/final/erp-migration-to-the-cloud-01.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-06-erp-migration-to-the-cloud-02",
+      "month": "2026-06",
+      "keyword": "ERP migration to the cloud",
+      "keyword_slug": "erp-migration-to-the-cloud",
+      "title": "Migrasi ERP ke Cloud Tanpa Ganggu Operasional: Strategi Minimasi Downtime",
+      "slug": "migrasi-erp-ke-cloud-minimasi-downtime-cutover",
+      "angle": "downtime-cutover-minimisasi-risiko-migrasi",
+      "angle_hash": "sha1:b7d14e2f8a93",
+      "search_intent": "how-to",
+      "subtopics": ["Near-Zero Downtime", "cutover planning", "phased rollout", "downtime window", "checklist go-live"],
+      "soltius_mentions": ["RISE with SAP / Downtime-Optimized Conversion (teach); Soltius Best Cloud Partner migration (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud",
+        "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide",
+        "https://www.soltius.co.id/id/blog/digital-manufaktur-sistem"
+      ],
+      "external_citations": [
+        "https://support.sap.com/en/tools/software-logistics-tools/software-update-manager/downtime-optimized-conversion-approach.html",
+        "https://support.sap.com/en/release-upgrade-maintenance/maintenance-information/maintenance-strategy/s4hana-business-suite7.html"
+      ],
+      "word_count": 1891,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-06/final/erp-migration-to-the-cloud-02.id.md",
+        "id_docx": "monthly_runs/2026-06/final/erp-migration-to-the-cloud-02.id.docx",
+        "image_plan": "monthly_runs/2026-06/final/erp-migration-to-the-cloud-02.images.json",
+        "qc": "monthly_runs/2026-06/final/erp-migration-to-the-cloud-02.qc.md",
+        "quality": "monthly_runs/2026-06/final/erp-migration-to-the-cloud-02.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-06-erp-migration-to-the-cloud-03",
+      "month": "2026-06",
+      "keyword": "ERP migration to the cloud",
+      "keyword_slug": "erp-migration-to-the-cloud",
+      "title": "Biaya Migrasi ERP ke Cloud: TCO, Komponen Biaya, dan Kapan BEP Tercapai",
+      "slug": "biaya-migrasi-erp-ke-cloud-tco-komponen-bep",
+      "angle": "tco-biaya-roi-migrasi-erp-cloud",
+      "angle_hash": "sha1:c2e95d3a7f04",
+      "search_intent": "decision",
+      "subtopics": ["TCO migrasi ERP", "OpEx vs CapEx", "biaya RISE with SAP", "break-even point", "extended maintenance SAP ECC"],
+      "soltius_mentions": ["RISE with SAP / GROW with SAP (teach); Soltius ERP migration financial advisory (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud",
+        "https://www.soltius.co.id/id/blog/data-warehouse-solutions",
+        "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide"
+      ],
+      "external_citations": [
+        "https://support.sap.com/en/my-support/software-maintenance.html",
+        "https://www.sap.com/products/erp/rise.html"
+      ],
+      "word_count": 2037,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-06/final/erp-migration-to-the-cloud-03.id.md",
+        "id_docx": "monthly_runs/2026-06/final/erp-migration-to-the-cloud-03.id.docx",
+        "image_plan": "monthly_runs/2026-06/final/erp-migration-to-the-cloud-03.images.json",
+        "qc": "monthly_runs/2026-06/final/erp-migration-to-the-cloud-03.qc.md",
+        "quality": "monthly_runs/2026-06/final/erp-migration-to-the-cloud-03.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-06-erp-migration-to-the-cloud-04",
+      "month": "2026-06",
+      "keyword": "ERP migration to the cloud",
+      "keyword_slug": "erp-migration-to-the-cloud",
+      "title": "Keamanan Data ERP di Cloud: Regulasi Indonesia dan Cara Memitigasi Risikonya",
+      "slug": "keamanan-data-erp-migration-to-the-cloud-regulasi-indonesia",
+      "angle": "keamanan-data-regulasi-cloud-erp-indonesia",
+      "angle_hash": "sha1:d9f03b5c2e16",
+      "search_intent": "informational",
+      "subtopics": ["keamanan ERP cloud", "UU PDP 2024", "BSSN", "shared responsibility model", "data residency Indonesia"],
+      "soltius_mentions": ["SAP S/4HANA Cloud security certifications (teach); Soltius compliance-aware ERP migration (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud",
+        "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide",
+        "https://www.soltius.co.id/id/blog/data-warehouse-solutions"
+      ],
+      "external_citations": [
+        "https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022"
+      ],
+      "word_count": 2043,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-06/final/erp-migration-to-the-cloud-04.id.md",
+        "id_docx": "monthly_runs/2026-06/final/erp-migration-to-the-cloud-04.id.docx",
+        "image_plan": "monthly_runs/2026-06/final/erp-migration-to-the-cloud-04.images.json",
+        "qc": "monthly_runs/2026-06/final/erp-migration-to-the-cloud-04.qc.md",
+        "quality": "monthly_runs/2026-06/final/erp-migration-to-the-cloud-04.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-06-erp-migration-to-the-cloud-05",
+      "month": "2026-06",
+      "keyword": "ERP migration to the cloud",
+      "keyword_slug": "erp-migration-to-the-cloud",
+      "title": "Setelah Go-Live ERP Cloud: Tantangan yang Jarang Diceritakan (dan Cara Mengatasinya)",
+      "slug": "tantangan-pasca-go-live-erp-cloud-cara-mengatasi",
+      "angle": "pasca-go-live-tantangan-adopsi-change-management",
+      "angle_hash": "sha1:e4a17f6b3d25",
+      "search_intent": "troubleshooting",
+      "subtopics": ["pasca go-live ERP", "hypercare period", "AMS Application Management Services", "adopsi pengguna", "change management"],
+      "soltius_mentions": ["SAP S/4HANA Cloud AMS (teach); Soltius Application Management Services post-go-live (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud",
+        "https://www.soltius.co.id/id/blog/business-intelligence",
+        "https://www.soltius.co.id/id/blog/digital-manufaktur-sistem"
+      ],
+      "external_citations": [
+        "https://insightsoftware.com/blog/sap-s-4hana-cloud-public-edition-top-migration-challenges-and-solutions/",
+        "https://www.mckinsey.com/capabilities/transformation/our-insights/why-do-most-transformations-fail-a-conversation-with-harry-robinson"
+      ],
+      "word_count": 2210,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-06/final/erp-migration-to-the-cloud-05.id.md",
+        "id_docx": "monthly_runs/2026-06/final/erp-migration-to-the-cloud-05.id.docx",
+        "image_plan": "monthly_runs/2026-06/final/erp-migration-to-the-cloud-05.images.json",
+        "qc": "monthly_runs/2026-06/final/erp-migration-to-the-cloud-05.qc.md",
+        "quality": "monthly_runs/2026-06/final/erp-migration-to-the-cloud-05.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-06-low-code-platform-01",
+      "month": "2026-06",
+      "keyword": "Low-Code Platform",
+      "keyword_slug": "low-code-platform",
+      "title": "Low-Code Platform: Apa Itu dan Bagaimana Cara Kerjanya untuk Bisnis Enterprise?",
+      "slug": "low-code-platform-apa-itu-cara-kerja-enterprise",
+      "angle": "definisi-dan-cara-kerja-enterprise",
+      "angle_hash": "sha1:a3f8c12d9e74",
+      "search_intent": "informational",
+      "subtopics": ["definisi low-code platform", "low-code vs no-code vs pro-code", "SAP Build BTP", "citizen developer", "enterprise evaluation framework"],
+      "soltius_mentions": ["SAP Build / SAP BTP (teach); Soltius Digital Platform implementation (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/low-code-and-no-code-platforms",
+        "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide",
+        "https://www.soltius.co.id/id/blog/digital-manufaktur-sistem"
+      ],
+      "external_citations": [
+        "https://news.sap.com/2025/03/sap-build-gigaom-study-greater-speed-development/",
+        "https://kissflow.com/low-code/gartner-forecasts-on-low-code-development-market/"
+      ],
+      "word_count": 1893,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-06/final/low-code-platform-01.id.md",
+        "id_docx": "monthly_runs/2026-06/final/low-code-platform-01.id.docx",
+        "image_plan": "monthly_runs/2026-06/final/low-code-platform-01.images.json",
+        "qc": "monthly_runs/2026-06/final/low-code-platform-01.qc.md",
+        "quality": "monthly_runs/2026-06/final/low-code-platform-01.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-06-low-code-platform-02",
+      "month": "2026-06",
+      "keyword": "Low-Code Platform",
+      "keyword_slug": "low-code-platform",
+      "title": "SAP Build di SAP BTP: Platform Low-Code yang Dirancang untuk Ekosistem ERP",
+      "slug": "sap-build-btp-low-code-platform-ekosistem-erp",
+      "angle": "sap-build-btp-enterprise-deployment",
+      "angle_hash": "sha1:b7e2d94f1c83",
+      "search_intent": "comparison",
+      "subtopics": ["SAP Build Apps", "SAP Build Process Automation", "SAP Build Work Zone", "clean core extensibility", "SAP Build vs ABAP"],
+      "soltius_mentions": ["SAP Build / SAP BTP (teach); Soltius SAP Build implementation (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/low-code-and-no-code-platforms",
+        "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud"
+      ],
+      "external_citations": [
+        "https://news.sap.com/2025/03/sap-build-gigaom-study-greater-speed-development/"
+      ],
+      "word_count": 2197,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-06/final/low-code-platform-02.id.md",
+        "id_docx": "monthly_runs/2026-06/final/low-code-platform-02.id.docx",
+        "image_plan": "monthly_runs/2026-06/final/low-code-platform-02.images.json",
+        "qc": "monthly_runs/2026-06/final/low-code-platform-02.qc.md",
+        "quality": "monthly_runs/2026-06/final/low-code-platform-02.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-06-low-code-platform-03",
+      "month": "2026-06",
+      "keyword": "Low-Code Platform",
+      "keyword_slug": "low-code-platform",
+      "title": "Cara Membangun Program Citizen Developer di Perusahaan dengan Low-Code Platform",
+      "slug": "program-citizen-developer-low-code-platform-perusahaan",
+      "angle": "citizen-developer-program-roadmap",
+      "angle_hash": "sha1:c9a4f7e2d1b6",
+      "search_intent": "how-to",
+      "subtopics": ["citizen developer program", "5 langkah roadmap", "governance low-code", "shadow IT prevention", "ROI citizen developer"],
+      "soltius_mentions": ["SAP Build BTP citizen developer (teach); Soltius Digital Platform enablement (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/low-code-and-no-code-platforms",
+        "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide",
+        "https://www.soltius.co.id/id/blog/digital-manufaktur-sistem"
+      ],
+      "external_citations": [
+        "https://kissflow.com/citizen-development/gartner-on-citizen-development/",
+        "https://learning.sap.com/certifications/sap-certified-associate-low-code-no-code-developer-sap-build"
+      ],
+      "word_count": 2249,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-06/final/low-code-platform-03.id.md",
+        "id_docx": "monthly_runs/2026-06/final/low-code-platform-03.id.docx",
+        "image_plan": "monthly_runs/2026-06/final/low-code-platform-03.images.json",
+        "qc": "monthly_runs/2026-06/final/low-code-platform-03.qc.md",
+        "quality": "monthly_runs/2026-06/final/low-code-platform-03.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-06-low-code-platform-04",
+      "month": "2026-06",
+      "keyword": "Low-Code Platform",
+      "keyword_slug": "low-code-platform",
+      "title": "Risiko Low-Code Platform yang Jarang Dibahas: Keamanan Data, Shadow IT, dan Vendor Lock-In",
+      "slug": "risiko-low-code-platform-keamanan-shadow-it-vendor-lock-in",
+      "angle": "risiko-keamanan-governance-enterprise",
+      "angle_hash": "sha1:d2b5e8a3f0c7",
+      "search_intent": "troubleshooting",
+      "subtopics": ["risiko keamanan low-code", "shadow IT", "vendor lock-in", "technical debt", "checklist keamanan"],
+      "soltius_mentions": ["SAP Build enterprise governance (teach); Soltius governance-first implementation (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/low-code-and-no-code-platforms",
+        "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud"
+      ],
+      "external_citations": [
+        "https://www.isaca.org/resources/news-and-trends/newsletters/atisaca/2025/volume-19/from-shadow-it-to-shadow-ai-navigating-the-new-frontier-of-enterprise-risk",
+        "https://www.ibm.com/reports/data-breach"
+      ],
+      "word_count": 1944,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-06/final/low-code-platform-04.id.md",
+        "id_docx": "monthly_runs/2026-06/final/low-code-platform-04.id.docx",
+        "image_plan": "monthly_runs/2026-06/final/low-code-platform-04.images.json",
+        "qc": "monthly_runs/2026-06/final/low-code-platform-04.qc.md",
+        "quality": "monthly_runs/2026-06/final/low-code-platform-04.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-06-low-code-platform-05",
+      "month": "2026-06",
+      "keyword": "Low-Code Platform",
+      "keyword_slug": "low-code-platform",
+      "title": "Low-Code Platform untuk Manufaktur: 5 Use Case Nyata dan ROI yang Bisa Diukur",
+      "slug": "low-code-platform-manufaktur-use-case-roi",
+      "angle": "industri-manufaktur-supply-chain-use-case",
+      "angle_hash": "sha1:e6c1f9b4a7d3",
+      "search_intent": "decision",
+      "subtopics": ["low-code manufaktur use case", "QC digital pabrik", "SAP Build shop floor", "ROI operasional pabrik", "supply chain low-code"],
+      "soltius_mentions": ["SAP Build / SAP BTP industri (teach); Soltius manufacturing digital platform (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/low-code-and-no-code-platforms",
+        "https://www.soltius.co.id/id/blog/digital-manufaktur-sistem",
+        "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide"
+      ],
+      "external_citations": [
+        "https://news.sap.com/2025/03/sap-build-gigaom-study-greater-speed-development/",
+        "https://www.bps.go.id/en/statistics-table/3/T0UxS09GQlBTbk5QWTBNdlVWUmxSMjV3Y3l0VWR6MDkjMw==/distribusi-persentase-produk-domestik-bruto-atas-dasar-harga-berlaku-menurut-lapangan-usaha--persen---2021.html?year=2024"
+      ],
+      "word_count": 1769,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-06/final/low-code-platform-05.id.md",
+        "id_docx": "monthly_runs/2026-06/final/low-code-platform-05.id.docx",
+        "image_plan": "monthly_runs/2026-06/final/low-code-platform-05.images.json",
+        "qc": "monthly_runs/2026-06/final/low-code-platform-05.qc.md",
+        "quality": "monthly_runs/2026-06/final/low-code-platform-05.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-06-sap-clean-core-01",
+      "month": "2026-06",
+      "keyword": "SAP Clean Core",
+      "keyword_slug": "sap-clean-core",
+      "title": "Apa Itu Clean Core SAP dan Mengapa Penting Sebelum Pindah ke Cloud",
+      "slug": "apa-itu-clean-core-sap",
+      "angle": "apa-itu-clean-core-kesiapan-cloud",
+      "angle_hash": "sha1:e1aa99030012",
+      "search_intent": "informational",
+      "subtopics": ["definisi clean core", "in-app vs side-by-side extensibility", "ABAP Cloud", "SAP BTP", "kesiapan migrasi cloud"],
+      "soltius_mentions": ["SAP S/4HANA Clean Core / BTP (teach); Soltius ERP migration readiness (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud",
+        "https://www.soltius.co.id/id/blog/low-code-and-no-code-platforms"
+      ],
+      "external_citations": [
+        "https://learning.sap.com/",
+        "https://support.sap.com/en/release-upgrade-maintenance/maintenance-information/maintenance-strategy/s4hana-business-suite7.html"
+      ],
+      "word_count": 2190,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-06/final/sap-clean-core-01.id.md",
+        "id_docx": "monthly_runs/2026-06/final/sap-clean-core-01.id.docx",
+        "image_plan": "monthly_runs/2026-06/final/sap-clean-core-01.images.json",
+        "qc": "monthly_runs/2026-06/final/sap-clean-core-01.qc.md",
+        "quality": "monthly_runs/2026-06/final/sap-clean-core-01.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-06-sap-clean-core-02",
+      "month": "2026-06",
+      "keyword": "SAP Clean Core",
+      "keyword_slug": "sap-clean-core",
+      "title": "Remediasi Custom Code SAP: Langkah Membersihkan Z-Code Menuju ABAP Cloud",
+      "slug": "remediasi-custom-code-sap-clean-core",
+      "angle": "remediasi-custom-code-abap-cloud",
+      "angle_hash": "sha1:78536fffc72b",
+      "search_intent": "how-to",
+      "subtopics": ["Z-code audit SAP", "ABAP Cloud model", "Keep Eliminate Rebuild triase", "SAP Custom Code Migration app", "ABAP Test Cockpit"],
+      "soltius_mentions": ["ABAP Cloud / SAP Custom Code Migration (teach); Soltius brownfield conversion code remediation (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud",
+        "https://www.soltius.co.id/id/blog/low-code-and-no-code-platforms"
+      ],
+      "external_citations": [
+        "https://help.sap.com/doc/9dcbc5e47ba54a5cbb509afaa49dd5a1/2025.001/en-US/CustomCodeMigration_EndtoEnd.pdf",
+        "https://pages.community.sap.com/topics/abap/abap-cloud-faq"
+      ],
+      "word_count": 1872,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-06/final/sap-clean-core-02.id.md",
+        "id_docx": "monthly_runs/2026-06/final/sap-clean-core-02.id.docx",
+        "image_plan": "monthly_runs/2026-06/final/sap-clean-core-02.images.json",
+        "qc": "monthly_runs/2026-06/final/sap-clean-core-02.qc.md",
+        "quality": "monthly_runs/2026-06/final/sap-clean-core-02.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-06-sap-clean-core-03",
+      "month": "2026-06",
+      "keyword": "SAP Clean Core",
+      "keyword_slug": "sap-clean-core",
+      "title": "Seberapa \"Bersih\" Core SAP Anda? Kerangka Penilaian Clean Core Maturity",
+      "slug": "sap-clean-core-maturity-assessment",
+      "angle": "clean-core-maturity-assessment-kerangka",
+      "angle_hash": "sha1:4fd550c8c78b",
+      "search_intent": "decision",
+      "subtopics": ["clean core maturity model", "5 dimensi clean core", "self-assessment", "SAP Transformation Navigator", "upgrade readiness"],
+      "soltius_mentions": ["SAP clean core maturity framework (teach); Soltius ERP readiness assessment (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud",
+        "https://www.soltius.co.id/id/blog/low-code-and-no-code-platforms"
+      ],
+      "external_citations": [
+        "https://community.sap.com/t5/technology-blog-posts-by-sap/clean-core-maturity-and-the-new-extensibility-levels/ba-p/14293974",
+        "https://www.forrester.com/blogs/sap-offers-on-prem-erp-customers-additional-3-year-support-till-2033-with-conditions/"
+      ],
+      "word_count": 1917,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-06/final/sap-clean-core-03.id.md",
+        "id_docx": "monthly_runs/2026-06/final/sap-clean-core-03.id.docx",
+        "image_plan": "monthly_runs/2026-06/final/sap-clean-core-03.images.json",
+        "qc": "monthly_runs/2026-06/final/sap-clean-core-03.qc.md",
+        "quality": "monthly_runs/2026-06/final/sap-clean-core-03.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-06-sap-clean-core-04",
+      "month": "2026-06",
+      "keyword": "SAP Clean Core",
+      "keyword_slug": "sap-clean-core",
+      "title": "Ekstensi SAP Tanpa Menyentuh Core: Panduan Side-by-Side Extensibility di BTP",
+      "slug": "side-by-side-extensibility-sap-btp-clean-core",
+      "angle": "side-by-side-extensibility-sap-btp-build",
+      "angle_hash": "sha1:84fecc2e4a43",
+      "search_intent": "informational",
+      "subtopics": ["side-by-side extensibility", "in-app vs side-by-side", "SAP Build Apps", "SAP Integration Suite", "loosely coupled architecture"],
+      "soltius_mentions": ["SAP BTP / SAP Build extensibility (teach); Soltius BTP extension implementation (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide",
+        "https://www.soltius.co.id/id/blog/low-code-and-no-code-platforms",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud"
+      ],
+      "external_citations": [
+        "https://help.sap.com/docs/SAP_S4HANA_CLOUD/extensibility"
+      ],
+      "word_count": 1834,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-06/final/sap-clean-core-04.id.md",
+        "id_docx": "monthly_runs/2026-06/final/sap-clean-core-04.id.docx",
+        "image_plan": "monthly_runs/2026-06/final/sap-clean-core-04.images.json",
+        "qc": "monthly_runs/2026-06/final/sap-clean-core-04.qc.md",
+        "quality": "monthly_runs/2026-06/final/sap-clean-core-04.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-06-sap-clean-core-05",
+      "month": "2026-06",
+      "keyword": "SAP Clean Core",
+      "keyword_slug": "sap-clean-core",
+      "title": "Clean Core SAP: Bagaimana Dampaknya pada Pilihan Brownfield vs Greenfield?",
+      "slug": "clean-core-sap-brownfield-vs-greenfield",
+      "angle": "clean-core-brownfield-vs-greenfield-migrasi",
+      "angle_hash": "sha1:40a25e669e97",
+      "search_intent": "comparison",
+      "subtopics": ["brownfield vs greenfield clean core", "selective data transition", "RISE with SAP", "technical debt warisan", "fit-to-standard"],
+      "soltius_mentions": ["RISE with SAP / GROW with SAP brownfield greenfield (teach); Soltius ERP migration strategy (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud",
+        "https://www.soltius.co.id/id/blog/low-code-and-no-code-platforms"
+      ],
+      "external_citations": [
+        "https://support.sap.com/en/release-upgrade-maintenance/maintenance-information/maintenance-strategy/s4hana-business-suite7.html",
+        "https://support.sap.com/en/offerings-programs/support-services/data-management-landscape-transformation/selective-data-transition-engagement.html"
+      ],
+      "word_count": 2184,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-06/final/sap-clean-core-05.id.md",
+        "id_docx": "monthly_runs/2026-06/final/sap-clean-core-05.id.docx",
+        "image_plan": "monthly_runs/2026-06/final/sap-clean-core-05.images.json",
+        "qc": "monthly_runs/2026-06/final/sap-clean-core-05.qc.md",
+        "quality": "monthly_runs/2026-06/final/sap-clean-core-05.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-warehouse-management-system-01",
+      "month": "2026-08",
+      "keyword": "warehouse management system",
+      "keyword_slug": "warehouse-management-system",
+      "title": "WMS vs Modul Gudang ERP vs Aplikasi Inventory: Kapan Modul Bawaan Tidak Cukup?",
+      "slug": "warehouse-management-system-vs-modul-erp",
+      "angle": "wms-vs-erp-vs-inventory-batas-keputusan",
+      "angle_hash": "sha1:2edbdd45c8a0",
+      "search_intent": "comparison",
+      "subtopics": ["aplikasi gudang vs WMS", "bin/lokasi penyimpanan (slotting)", "integrasi WMS dan ERP", "modul inventory ERP vs WMS", "real-time inventory visibility", "SAP Extended Warehouse Management (EWM)", "sistem manajemen gudang", "traceability batch/serial/expired", "WMS vs ERP"],
+      "soltius_mentions": ["SAP Extended Warehouse Management EWM (teach); Soltius SAP Platinum Partner WMS implementation (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/konsep-warehouse-management-system-yang-wajib-anda-tahu",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud",
+        "https://www.soltius.co.id/id/blog/business-intelligence"
+      ],
+      "external_citations": [
+        "https://news.sap.com/2024/05/sap-a-leader-2024-gartner-magic-quadrant-wms/",
+        "https://www.bps.go.id/en/publication/2025/02/11/ccdd2be371e2d7b2a325b8ab/statistik-pergudangan--ekspedisi--dan-kurir-2024.html"
+      ],
+      "word_count": 1690,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-08/final/warehouse-management-system-01.id.md",
+        "id_docx": "monthly_runs/2026-08/final/warehouse-management-system-01.id.docx",
+        "image_plan": "monthly_runs/2026-08/final/warehouse-management-system-01.images.json",
+        "qc": "monthly_runs/2026-08/final/warehouse-management-system-01.qc.md",
+        "quality": "monthly_runs/2026-08/final/warehouse-management-system-01.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-warehouse-management-system-02",
+      "month": "2026-08",
+      "keyword": "warehouse management system",
+      "keyword_slug": "warehouse-management-system",
+      "title": "SAP EWM, Stock Room, atau WM Lama? Memilih WMS di Era S/4HANA",
+      "slug": "warehouse-management-system-sap-ewm-stock-room",
+      "angle": "sap-ewm-vs-stock-room-vs-lewm-pilihan-s4hana",
+      "angle_hash": "sha1:3cb316cc3ec7",
+      "search_intent": "decision",
+      "subtopics": ["embedded vs decentralized EWM", "end of maintenance SAP WM", "Material Flow System MFS", "migrasi WM ke EWM", "RISE with SAP", "SAP Extended Warehouse Management", "SAP Stock Room Management", "SAP WM LE-WM", "warehouse management S/4HANA"],
+      "soltius_mentions": ["SAP EWM / Stock Room Management / LE-WM (teach); Soltius SAP Platinum Partner EWM migration (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/konsep-warehouse-management-system-yang-wajib-anda-tahu",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud",
+        "https://www.soltius.co.id/id/blog/data-warehouse-solutions"
+      ],
+      "external_citations": [
+        "https://news.sap.com/2025/12/sap-announced-final-transition-period-for-compatibility-packs-for-sap-s-4hana-on-premise/",
+        "https://support.sap.com/en/release-upgrade-maintenance/maintenance-information/maintenance-strategy/s4hana-business-suite7.html"
+      ],
+      "word_count": 1676,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-08/final/warehouse-management-system-02.id.md",
+        "id_docx": "monthly_runs/2026-08/final/warehouse-management-system-02.id.docx",
+        "image_plan": "monthly_runs/2026-08/final/warehouse-management-system-02.images.json",
+        "qc": "monthly_runs/2026-08/final/warehouse-management-system-02.qc.md",
+        "quality": "monthly_runs/2026-08/final/warehouse-management-system-02.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-warehouse-management-system-03",
+      "month": "2026-08",
+      "keyword": "warehouse management system",
+      "keyword_slug": "warehouse-management-system",
+      "title": "7 Tanda Gudang Anda Butuh Warehouse Management System (dan Kapan Belum Perlu)",
+      "slug": "tanda-gudang-butuh-warehouse-management-system",
+      "angle": "tanda-gudang-butuh-wms-dan-kapan-belum-perlu",
+      "angle_hash": "sha1:67c5c1ecc022",
+      "search_intent": "troubleshooting",
+      "subtopics": ["akurasi inventaris", "kapan perusahaan butuh WMS", "multi-bin multi-gudang", "picking error", "real-time inventory visibility", "SAP Extended Warehouse Management", "selisih stok sistem vs fisik", "sistem manajemen gudang", "tanda butuh WMS", "traceability batch FEFO"],
+      "soltius_mentions": ["SAP EWM / spectrum SAP WMS (teach); Soltius WMS readiness assessment (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/konsep-warehouse-management-system-yang-wajib-anda-tahu",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud",
+        "https://www.soltius.co.id/id/blog/business-intelligence"
+      ],
+      "external_citations": [
+        "https://news.sap.com/2026/05/sap-leader-2026-gartner-magic-quadrant-warehouse-management-systems/",
+        "https://databoks.katadata.co.id/en/technology-telecommunications/statistics/69325fdf33aa9/e-commerce-transaction-value-in-indonesia-increased-by-17-in-2024"
+      ],
+      "word_count": 1726,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-08/final/warehouse-management-system-03.id.md",
+        "id_docx": "monthly_runs/2026-08/final/warehouse-management-system-03.id.docx",
+        "image_plan": "monthly_runs/2026-08/final/warehouse-management-system-03.images.json",
+        "qc": "monthly_runs/2026-08/final/warehouse-management-system-03.qc.md",
+        "quality": "monthly_runs/2026-08/final/warehouse-management-system-03.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-warehouse-management-system-04",
+      "month": "2026-08",
+      "keyword": "warehouse management system",
+      "keyword_slug": "warehouse-management-system",
+      "title": "WMS Cloud vs On-Premise: Cara Memilih dan Mengintegrasikan dengan ERP",
+      "slug": "wms-cloud-vs-on-premise-integrasi-erp",
+      "angle": "wms-cloud-vs-on-premise-integrasi-erp",
+      "angle_hash": "sha1:1182e778e3cc",
+      "search_intent": "how-to",
+      "subtopics": ["API middleware integrasi", "barcode dan RFID gudang", "data residency UU PDP", "embedded vs decentralized SAP EWM", "integrasi WMS dan ERP", "real-time inventory sync", "SAP Extended Warehouse Management (EWM)", "single source of truth stok", "sistem manajemen gudang", "WMS cloud vs on-premise"],
+      "soltius_mentions": ["SAP EWM embedded/decentralized (teach); Soltius WMS-ERP integration implementation (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/konsep-warehouse-management-system-yang-wajib-anda-tahu",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud",
+        "https://www.soltius.co.id/id/blog/data-warehouse-solutions"
+      ],
+      "external_citations": [
+        "https://community.sap.com/t5/enterprise-architecture-knowledge-base/sap-ewm-deployment-options-embedded-vs-decentral-warehouse-management/ta-p/13593281",
+        "https://www.prnewswire.com/news-releases/new-study-from-the-auburn-university-rfid-lab-and-gs1-us-confirms-rfid-enables-nearly-100-order-accuracy-for-retail-300728128.html"
+      ],
+      "word_count": 1660,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-08/final/warehouse-management-system-04.id.md",
+        "id_docx": "monthly_runs/2026-08/final/warehouse-management-system-04.id.docx",
+        "image_plan": "monthly_runs/2026-08/final/warehouse-management-system-04.images.json",
+        "qc": "monthly_runs/2026-08/final/warehouse-management-system-04.qc.md",
+        "quality": "monthly_runs/2026-08/final/warehouse-management-system-04.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-data-warehouse-solutions-01",
+      "month": "2026-08",
+      "keyword": "Data Warehouse Solutions",
+      "keyword_slug": "data-warehouse-solutions",
+      "title": "Berapa Biaya Data Warehouse? Rincian TCO dan Komponen untuk Perusahaan",
+      "slug": "biaya-data-warehouse-tco-komponen",
+      "angle": "tco-biaya-komponen-data-warehouse",
+      "angle_hash": "sha1:1095a490202b",
+      "search_intent": "decision",
+      "subtopics": ["biaya data warehouse", "biaya implementasi dan integrasi", "biaya pemeliharaan", "cloud data warehouse vs on-premise", "consumption-based pricing", "OpEx vs CapEx", "ROI break-even", "SAP BW/4HANA", "SAP Datasphere", "SAP HANA Cloud", "skalabilitas", "TCO (Total Cost of Ownership)"],
+      "soltius_mentions": ["SAP Datasphere / SAP HANA Cloud / SAP BW/4HANA TCO (teach); Soltius Data and AI Consulting (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/data-warehouse-solutions",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud",
+        "https://www.soltius.co.id/id/blog/business-intelligence"
+      ],
+      "external_citations": [
+        "https://www.techtarget.com/searchdatamanagement/tip/On-premises-vs-cloud-data-warehouses-Pros-and-cons",
+        "https://news.sap.com/hk/2023/03/sap-introduces-sap-datasphere-to-simplify-customers-data-landscape/"
+      ],
+      "word_count": 1657,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-08/final/data-warehouse-solutions-01.id.md",
+        "id_docx": "monthly_runs/2026-08/final/data-warehouse-solutions-01.id.docx",
+        "image_plan": "monthly_runs/2026-08/final/data-warehouse-solutions-01.images.json",
+        "qc": "monthly_runs/2026-08/final/data-warehouse-solutions-01.qc.md",
+        "quality": "monthly_runs/2026-08/final/data-warehouse-solutions-01.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-data-warehouse-solutions-02",
+      "month": "2026-08",
+      "keyword": "Data Warehouse Solutions",
+      "keyword_slug": "data-warehouse-solutions",
+      "title": "Real-Time vs Batch Data Warehouse: Kapan Anda Perlu Data Seketika",
+      "slug": "real-time-vs-batch-data-warehouse",
+      "angle": "real-time-vs-batch-streaming-data-warehouse",
+      "angle_hash": "sha1:7968e4f3cf3c",
+      "search_intent": "comparison",
+      "subtopics": ["batch processing", "change data capture", "data federation", "data replication", "latensi data", "micro-batch", "near-real-time", "real-time data warehouse", "SAP Datasphere", "streaming data"],
+      "soltius_mentions": ["SAP Datasphere real-time/CDC/federation (teach); Soltius data architecture advisory (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/data-warehouse-solutions",
+        "https://www.soltius.co.id/id/blog/business-intelligence",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud"
+      ],
+      "external_citations": [
+        "https://www.confluent.io/learn/change-data-capture/",
+        "https://help.sap.com/docs/SAP_DATASPHERE/be5967d099974c69b77f4549425ca4c0/441d327ead5c49d580d8600301735c83.html"
+      ],
+      "word_count": 1690,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-08/final/data-warehouse-solutions-02.id.md",
+        "id_docx": "monthly_runs/2026-08/final/data-warehouse-solutions-02.id.docx",
+        "image_plan": "monthly_runs/2026-08/final/data-warehouse-solutions-02.images.json",
+        "qc": "monthly_runs/2026-08/final/data-warehouse-solutions-02.qc.md",
+        "quality": "monthly_runs/2026-08/final/data-warehouse-solutions-02.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-data-warehouse-solutions-03",
+      "month": "2026-08",
+      "keyword": "Data Warehouse Solutions",
+      "keyword_slug": "data-warehouse-solutions",
+      "title": "Migrasi Data Warehouse Lama ke Platform Modern: Panduan Brownfield",
+      "slug": "migrasi-data-warehouse-lama-ke-platform-modern",
+      "angle": "migrasi-data-warehouse-legacy-teradata-oracle-ke-modern",
+      "angle_hash": "sha1:acd754ea241d",
+      "search_intent": "how-to",
+      "subtopics": ["data federation", "data lineage", "dekomisioning", "legacy data warehouse", "migrasi data warehouse", "Oracle", "parallel run", "SAP BW end of maintenance", "SAP Datasphere", "single source of truth", "Teradata"],
+      "soltius_mentions": ["SAP Datasphere / SAP BW/4HANA migration (teach); Soltius data platform migration (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/data-warehouse-solutions",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud",
+        "https://www.soltius.co.id/id/blog/business-intelligence"
+      ],
+      "external_citations": [
+        "https://barc.com/end-of-maintenance-sap-bw/",
+        "https://news.sap.com/2023/03/sap-datasphere-business-data-fabric/"
+      ],
+      "word_count": 1655,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-08/final/data-warehouse-solutions-03.id.md",
+        "id_docx": "monthly_runs/2026-08/final/data-warehouse-solutions-03.id.docx",
+        "image_plan": "monthly_runs/2026-08/final/data-warehouse-solutions-03.images.json",
+        "qc": "monthly_runs/2026-08/final/data-warehouse-solutions-03.qc.md",
+        "quality": "monthly_runs/2026-08/final/data-warehouse-solutions-03.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-data-warehouse-solutions-04",
+      "month": "2026-08",
+      "keyword": "Data Warehouse Solutions",
+      "keyword_slug": "data-warehouse-solutions",
+      "title": "Data Warehouse per Industri: Use Case Nyata di Manufaktur, Distribusi, dan Lainnya",
+      "slug": "data-warehouse-per-industri-use-case",
+      "angle": "data-warehouse-per-industri-use-case",
+      "angle_hash": "sha1:15b056b970fc",
+      "search_intent": "informational",
+      "subtopics": ["data silo", "data warehouse agribisnis", "data warehouse distribusi", "data warehouse manufaktur", "KPI operasional", "OEE", "perputaran stok", "SAP Datasphere", "single source of truth", "use case data warehouse"],
+      "soltius_mentions": ["SAP Datasphere / S/4HANA industry data (teach); Soltius Data and AI Consulting across verticals (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/data-warehouse-solutions",
+        "https://www.soltius.co.id/id/blog/business-intelligence",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud"
+      ],
+      "external_citations": [
+        "https://evocon.com/articles/world-class-oee-industry-benchmarks-from-more-than-50-countries/",
+        "https://www.gartner.com/en/newsroom/press-releases/2024-04-29-gartner-finds-61-percent-of-organizations-are-evolving-their-data-and-analytics-operating-model-because-of-ai-technologies"
+      ],
+      "word_count": 1684,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-08/final/data-warehouse-solutions-04.id.md",
+        "id_docx": "monthly_runs/2026-08/final/data-warehouse-solutions-04.id.docx",
+        "image_plan": "monthly_runs/2026-08/final/data-warehouse-solutions-04.images.json",
+        "qc": "monthly_runs/2026-08/final/data-warehouse-solutions-04.qc.md",
+        "quality": "monthly_runs/2026-08/final/data-warehouse-solutions-04.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-data-warehouse-solutions-05",
+      "month": "2026-08",
+      "keyword": "Data Warehouse Solutions",
+      "keyword_slug": "data-warehouse-solutions",
+      "title": "Data Warehouse sebagai Fondasi AI: Model Anda Hanya Sebaik Datanya",
+      "slug": "data-warehouse-fondasi-ai",
+      "angle": "data-warehouse-fondasi-ai-ml-business-data-cloud",
+      "angle_hash": "sha1:bfca7857931a",
+      "search_intent": "decision",
+      "subtopics": ["AI-ready data", "data governance", "data siap AI", "Delta Sharing", "medallion architecture", "SAP Business Data Cloud", "SAP Databricks", "SAP Datasphere", "semantic layer", "single source of truth", "zero-copy"],
+      "soltius_mentions": ["SAP Business Data Cloud / SAP Databricks / SAP Datasphere AI foundation (teach); Soltius Data and AI Consulting (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/data-warehouse-solutions",
+        "https://www.soltius.co.id/id/blog/business-intelligence",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud"
+      ],
+      "external_citations": [
+        "https://www.gartner.com/en/newsroom/press-releases/2025-02-26-lack-of-ai-ready-data-puts-ai-projects-at-risk",
+        "https://news.sap.com/2025/02/sap-databricks-open-bold-new-era-data-ai/"
+      ],
+      "word_count": 1667,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-08/final/data-warehouse-solutions-05.id.md",
+        "id_docx": "monthly_runs/2026-08/final/data-warehouse-solutions-05.id.docx",
+        "image_plan": "monthly_runs/2026-08/final/data-warehouse-solutions-05.images.json",
+        "qc": "monthly_runs/2026-08/final/data-warehouse-solutions-05.qc.md",
+        "quality": "monthly_runs/2026-08/final/data-warehouse-solutions-05.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-business-intelligence-01",
+      "month": "2026-08",
+      "keyword": "Business Intelligence",
+      "keyword_slug": "business-intelligence",
+      "title": "Business Intelligence untuk CFO: Dari Laporan Bulanan ke Keputusan Real-Time",
+      "slug": "business-intelligence-untuk-cfo",
+      "angle": "business-intelligence-untuk-cfo-keuangan-decision-velocity",
+      "angle_hash": "sha1:c4e00dcc0583",
+      "search_intent": "decision",
+      "subtopics": ["dashboard CFO", "decision velocity", "FP&A", "KPI keuangan real-time", "month-end close", "pelaporan keuangan", "rolling forecast", "SAP Analytics Cloud", "single source of truth keuangan"],
+      "soltius_mentions": ["SAP Analytics Cloud FP&A/financial BI (teach); Soltius Data and AI Consulting finance implementation (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/business-intelligence",
+        "https://www.soltius.co.id/id/blog/data-warehouse-solutions",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud"
+      ],
+      "external_citations": [
+        "https://www.cfodive.com/news/many-cfos-still-early-phase-digital-transformation-mckinsey/722091/",
+        "https://news.sap.com/2024/12/sap-a-leader-2024-gartner-magic-quadrant-financial-planning-software/",
+        "https://www.gartner.com/en/newsroom/press-releases/2024-02-28-gartner-predicts-80-percent-of-data-and-analytics-governance-initiatives-will-fail-by-2027-due-to-a-lack-of-a-real-or-manufactured-crisis-"
+      ],
+      "word_count": 1668,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-08/final/business-intelligence-01.id.md",
+        "id_docx": "monthly_runs/2026-08/final/business-intelligence-01.id.docx",
+        "image_plan": "monthly_runs/2026-08/final/business-intelligence-01.images.json",
+        "qc": "monthly_runs/2026-08/final/business-intelligence-01.qc.md",
+        "quality": "monthly_runs/2026-08/final/business-intelligence-01.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-business-intelligence-02",
+      "month": "2026-08",
+      "keyword": "Business Intelligence",
+      "keyword_slug": "business-intelligence",
+      "title": "Augmented Analytics: Bagaimana AI Mengubah Cara Kerja Business Intelligence",
+      "slug": "augmented-analytics-ai-business-intelligence",
+      "angle": "augmented-analytics-generative-ai-joule-dalam-bi",
+      "angle_hash": "sha1:2507bce9e269",
+      "search_intent": "informational",
+      "subtopics": ["augmented analytics", "generative AI dalam BI", "Joule SAP", "Just Ask", "machine learning untuk analitik", "natural language query (NLQ)", "SAP Analytics Cloud", "self-service analytics", "Smart Insights", "Smart Predict"],
+      "soltius_mentions": ["SAP Analytics Cloud augmented analytics / Joule (teach); Soltius Data and AI Consulting (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/business-intelligence",
+        "https://www.soltius.co.id/id/blog/data-warehouse-solutions",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud"
+      ],
+      "external_citations": [
+        "https://www.gartner.com/en/newsroom/press-releases/2025-06-18-gartner-predicts-75-percent-of-analytics-content-to-use-genai-for-enhanced-contextual-intelligence-by-2027",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC9608484/"
+      ],
+      "word_count": 1759,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-08/final/business-intelligence-02.id.md",
+        "id_docx": "monthly_runs/2026-08/final/business-intelligence-02.id.docx",
+        "image_plan": "monthly_runs/2026-08/final/business-intelligence-02.images.json",
+        "qc": "monthly_runs/2026-08/final/business-intelligence-02.qc.md",
+        "quality": "monthly_runs/2026-08/final/business-intelligence-02.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-business-intelligence-03",
+      "month": "2026-08",
+      "keyword": "Business Intelligence",
+      "keyword_slug": "business-intelligence",
+      "title": "Business Intelligence vs Excel: Kapan Harus Berhenti Mengandalkan Spreadsheet",
+      "slug": "business-intelligence-vs-excel-kapan-beralih",
+      "angle": "business-intelligence-vs-spreadsheet-excel-kapan-beralih",
+      "angle_hash": "sha1:724fc1f461d0",
+      "search_intent": "comparison",
+      "subtopics": ["governed Excel", "kapan beralih ke BI tool", "keterbatasan Excel", "otomasi pelaporan", "SAP Analytics Cloud", "skalabilitas data", "single source of truth", "spreadsheet risk", "version control spreadsheet"],
+      "soltius_mentions": ["SAP Analytics Cloud / SAC Excel add-in (teach); Soltius Data and AI Consulting BI implementation (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/business-intelligence",
+        "https://www.soltius.co.id/id/blog/data-warehouse-solutions",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud"
+      ],
+      "external_citations": [
+        "https://support.microsoft.com/en-us/office/excel-specifications-and-limits-1672b34d-7043-467e-8e27-269d656771c3",
+        "http://panko.shidler.hawaii.edu/SSR/Mypapers/whatknow.htm",
+        "https://help.sap.com/docs/SAP_ANALYTICS_CLOUD/00f68c2e08b941f081002fd3691d86a7/7b9a3f80e1d64271b16dcd17ea64eadb.html"
+      ],
+      "word_count": 1657,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-08/final/business-intelligence-03.id.md",
+        "id_docx": "monthly_runs/2026-08/final/business-intelligence-03.id.docx",
+        "image_plan": "monthly_runs/2026-08/final/business-intelligence-03.images.json",
+        "qc": "monthly_runs/2026-08/final/business-intelligence-03.qc.md",
+        "quality": "monthly_runs/2026-08/final/business-intelligence-03.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-business-intelligence-04",
+      "month": "2026-08",
+      "keyword": "Business Intelligence",
+      "keyword_slug": "business-intelligence",
+      "title": "Cara Mendesain Dashboard BI yang Benar-Benar Dipakai (Bukan Diabaikan)",
+      "slug": "cara-mendesain-dashboard-bi-yang-dipakai",
+      "angle": "dashboard-design-best-practice-bi-yang-dipakai",
+      "angle_hash": "sha1:20ca2c26f97a",
+      "search_intent": "how-to",
+      "subtopics": ["adopsi dashboard", "dashboard BI", "data storytelling", "desain dashboard", "executive dashboard", "hierarki visual", "kesalahan grafik", "pemilihan KPI", "SAP Analytics Cloud", "self-service analytics", "visualisasi data"],
+      "soltius_mentions": ["SAP Analytics Cloud dashboard stories (teach); Soltius Data and AI Consulting dashboard implementation (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/business-intelligence",
+        "https://www.soltius.co.id/id/blog/data-warehouse-solutions",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud"
+      ],
+      "external_citations": [
+        "https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/",
+        "https://www.gartner.com/en/newsroom/press-releases/2024-01-29-gartner-predicts-more-than-50-percent-of-cdaos-will-secure-funding-for-data-literacy-and-ai-literacy-programs-by-2027"
+      ],
+      "word_count": 1580,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-08/final/business-intelligence-04.id.md",
+        "id_docx": "monthly_runs/2026-08/final/business-intelligence-04.id.docx",
+        "image_plan": "monthly_runs/2026-08/final/business-intelligence-04.images.json",
+        "qc": "monthly_runs/2026-08/final/business-intelligence-04.qc.md",
+        "quality": "monthly_runs/2026-08/final/business-intelligence-04.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-business-intelligence-05",
+      "month": "2026-08",
+      "keyword": "Business Intelligence",
+      "keyword_slug": "business-intelligence",
+      "title": "ROI Business Intelligence: Cara Menyusun dan Mengukur Nilai Investasinya",
+      "slug": "roi-business-intelligence-business-case",
+      "angle": "roi-bisnis-case-business-intelligence-justifikasi-pengukuran",
+      "angle_hash": "sha1:89949c8d8bf0",
+      "search_intent": "decision",
+      "subtopics": ["biaya implementasi BI", "business case BI", "data-driven decision making", "KPI keberhasilan BI", "manfaat tangible vs intangible", "payback period BI", "ROI business intelligence", "SAP Analytics Cloud", "TCO business intelligence", "value realization"],
+      "soltius_mentions": ["SAP Analytics Cloud ROI/business case (teach); Soltius Strategy + Data and AI Consulting (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/business-intelligence",
+        "https://www.soltius.co.id/id/blog/data-warehouse-solutions",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud"
+      ],
+      "external_citations": [
+        "https://www.gartner.com/en/newsroom/press-releases/2026-04-07-gartner-says-artificial-intelligence-projects-in-infrastructure-and-operations-stall-ahead-of-meaningful-roi-returns",
+        "https://www.gartner.com/en/newsroom/press-releases/2025-02-26-lack-of-ai-ready-data-puts-ai-projects-at-risk"
+      ],
+      "word_count": 1668,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-08/final/business-intelligence-05.id.md",
+        "id_docx": "monthly_runs/2026-08/final/business-intelligence-05.id.docx",
+        "image_plan": "monthly_runs/2026-08/final/business-intelligence-05.images.json",
+        "qc": "monthly_runs/2026-08/final/business-intelligence-05.qc.md",
+        "quality": "monthly_runs/2026-08/final/business-intelligence-05.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-erp-migration-to-the-cloud-01",
+      "month": "2026-08",
+      "keyword": "ERP migration to the cloud",
+      "keyword_slug": "erp-migration-to-the-cloud",
+      "title": "RISE with SAP vs GROW with SAP: Mana Jalur Migrasi ERP ke Cloud yang Tepat?",
+      "slug": "rise-vs-grow-with-sap-migrasi-erp-cloud",
+      "angle": "rise-vs-grow-with-sap-program-selection",
+      "angle_hash": "sha1:ccc731c5ae81",
+      "search_intent": "comparison",
+      "subtopics": ["brownfield vs greenfield", "fit-to-standard", "GROW with SAP", "migrasi ERP ke cloud", "RISE with SAP", "SAP Business Technology Platform", "SAP S/4HANA Cloud Private Edition", "SAP S/4HANA Cloud Public Edition"],
+      "soltius_mentions": ["RISE with SAP / GROW with SAP / S/4HANA Cloud editions (teach); Soltius Best RISE Partner migration (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud",
+        "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide",
+        "https://www.soltius.co.id/id/blog/data-warehouse-solutions"
+      ],
+      "external_citations": [
+        "https://learning.sap.com/courses/exploring-sap-cloud-erp/differentiating-grow-and-rise-with-sap",
+        "https://support.sap.com/en/release-upgrade-maintenance/maintenance-information/maintenance-strategy/s4hana-business-suite7.html",
+        "https://news.sap.com/2025/02/sap-erp-private-edition-transition-option-navigate-complex-rise-with-sap-transformations/"
+      ],
+      "word_count": 1680,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-08/final/erp-migration-to-the-cloud-01.id.md",
+        "id_docx": "monthly_runs/2026-08/final/erp-migration-to-the-cloud-01.id.docx",
+        "image_plan": "monthly_runs/2026-08/final/erp-migration-to-the-cloud-01.images.json",
+        "qc": "monthly_runs/2026-08/final/erp-migration-to-the-cloud-01.qc.md",
+        "quality": "monthly_runs/2026-08/final/erp-migration-to-the-cloud-01.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-erp-migration-to-the-cloud-02",
+      "month": "2026-08",
+      "keyword": "ERP migration to the cloud",
+      "keyword_slug": "erp-migration-to-the-cloud",
+      "title": "ERP Migration Readiness Assessment: Apakah Perusahaan Anda Siap Pindah ke Cloud?",
+      "slug": "erp-migration-readiness-assessment-cloud",
+      "angle": "erp-migration-readiness-assessment-pra-migrasi",
+      "angle_hash": "sha1:798623dbf603",
+      "search_intent": "decision",
+      "subtopics": ["as-is to-be", "change readiness", "custom code legacy", "discovery phase migrasi", "kesiapan migrasi ERP ke cloud", "migrasi ERP ke cloud", "pemetaan proses bisnis (fit-gap)", "readiness assessment ERP", "SAP Readiness Check", "SAP Signavio Process Insights", "TCO baseline"],
+      "soltius_mentions": ["SAP Readiness Check / SAP Signavio Process Insights (teach); Soltius ERP strategy + migration readiness (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud",
+        "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide",
+        "https://www.soltius.co.id/id/blog/data-warehouse-solutions"
+      ],
+      "external_citations": [
+        "https://support.sap.com/en/release-upgrade-maintenance/maintenance-information/maintenance-strategy/s4hana-business-suite7.html",
+        "https://pages.community.sap.com/topics/readiness-check",
+        "https://www.gartner.com/en/information-technology/insights/what-it-leaders-must-do-to-avoid-disappointing-erp-initiatives"
+      ],
+      "word_count": 1680,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-08/final/erp-migration-to-the-cloud-02.id.md",
+        "id_docx": "monthly_runs/2026-08/final/erp-migration-to-the-cloud-02.id.docx",
+        "image_plan": "monthly_runs/2026-08/final/erp-migration-to-the-cloud-02.images.json",
+        "qc": "monthly_runs/2026-08/final/erp-migration-to-the-cloud-02.qc.md",
+        "quality": "monthly_runs/2026-08/final/erp-migration-to-the-cloud-02.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-erp-migration-to-the-cloud-03",
+      "month": "2026-08",
+      "keyword": "ERP migration to the cloud",
+      "keyword_slug": "erp-migration-to-the-cloud",
+      "title": "Cara Memilih Partner Implementasi SAP untuk Migrasi ERP ke Cloud",
+      "slug": "memilih-partner-implementasi-sap-migrasi-erp-cloud",
+      "angle": "memilih-system-integrator-partner-sap-migrasi",
+      "angle_hash": "sha1:72087967cfe8",
+      "search_intent": "decision",
+      "subtopics": ["Application Management Services (AMS)", "due diligence vendor", "metodologi SAP Activate", "migrasi ERP ke cloud", "partner implementasi SAP", "RISE with SAP partner", "SAP Platinum Partner", "system integrator SAP"],
+      "soltius_mentions": ["SAP Platinum Partner / SAP Activate / AMS (teach); Soltius SAP Platinum Partner via United VARs (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud",
+        "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide",
+        "https://www.soltius.co.id/id/blog/data-warehouse-solutions"
+      ],
+      "external_citations": [
+        "https://www.sap.com/about/trust-center/agreements/partner-edge/leveled-partner-agreements.html",
+        "https://learning.sap.com/learning-journeys/discovering-sap-activate-implementation-tools-and-methodology/describing-the-3-pillars-of-sap-activate"
+      ],
+      "word_count": 2247,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-08/final/erp-migration-to-the-cloud-03.id.md",
+        "id_docx": "monthly_runs/2026-08/final/erp-migration-to-the-cloud-03.id.docx",
+        "image_plan": "monthly_runs/2026-08/final/erp-migration-to-the-cloud-03.images.json",
+        "qc": "monthly_runs/2026-08/final/erp-migration-to-the-cloud-03.qc.md",
+        "quality": "monthly_runs/2026-08/final/erp-migration-to-the-cloud-03.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-sap-clean-core-01",
+      "month": "2026-08",
+      "keyword": "SAP Clean Core",
+      "keyword_slug": "sap-clean-core",
+      "title": "SAP Clean Core: Fondasi AI dan Joule di S/4HANA",
+      "slug": "sap-clean-core-fondasi-ai-joule-s4hana",
+      "angle": "clean-core-fondasi-ai-joule-business-ai",
+      "angle_hash": "sha1:81f9f680faa3",
+      "search_intent": "informational",
+      "subtopics": ["ABAP Cloud", "AI readiness S/4HANA", "clean core untuk AI", "data tepercaya", "Joule SAP", "proses standar SAP", "released API", "SAP BTP", "SAP Business AI"],
+      "soltius_mentions": ["SAP Business AI / SAP Joule / ABAP Cloud (teach); Soltius Data and AI Consulting clean core foundation (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud",
+        "https://www.soltius.co.id/id/blog/business-intelligence"
+      ],
+      "external_citations": [
+        "https://news.sap.com/2024/05/the-path-to-ai-with-clean-core/",
+        "https://erp.today/sap-sapphire-2026-ai-readiness-data-clean-core/"
+      ],
+      "word_count": 1535,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-08/final/sap-clean-core-01.id.md",
+        "id_docx": "monthly_runs/2026-08/final/sap-clean-core-01.id.docx",
+        "image_plan": "monthly_runs/2026-08/final/sap-clean-core-01.images.json",
+        "qc": "monthly_runs/2026-08/final/sap-clean-core-01.qc.md",
+        "quality": "monthly_runs/2026-08/final/sap-clean-core-01.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-sap-clean-core-02",
+      "month": "2026-08",
+      "keyword": "SAP Clean Core",
+      "keyword_slug": "sap-clean-core",
+      "title": "Integrasi Clean Core: Cara Menghubungkan SAP Tanpa Mengotori Core",
+      "slug": "integrasi-clean-core-sap-api-first",
+      "angle": "clean-core-integrasi-api-first-integration-suite",
+      "angle_hash": "sha1:ca6958549495",
+      "search_intent": "how-to",
+      "subtopics": ["API Management SAP", "API-first integration", "integrasi clean core", "integrasi event-driven", "integrasi point-to-point vs API", "loose coupling", "released API OData", "RFC BAPI legacy", "SAP Business Accelerator Hub", "SAP Integration Suite"],
+      "soltius_mentions": ["SAP Integration Suite / API Management / SAP Event Mesh (teach); Soltius Integration implementation (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud",
+        "https://www.soltius.co.id/id/blog/low-code-and-no-code-platforms"
+      ],
+      "external_citations": [
+        "https://learning.sap.com/courses/managing-clean-core-for-SAP-Cloud-ERP/exploring-how-to-make-landscapes-core-compliant-1",
+        "https://help.sap.com/docs/business-accelerator-hub/sap-business-accelerator-hub/what-is-sap-business-accelerator-hub"
+      ],
+      "word_count": 1670,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-08/final/sap-clean-core-02.id.md",
+        "id_docx": "monthly_runs/2026-08/final/sap-clean-core-02.id.docx",
+        "image_plan": "monthly_runs/2026-08/final/sap-clean-core-02.images.json",
+        "qc": "monthly_runs/2026-08/final/sap-clean-core-02.qc.md",
+        "quality": "monthly_runs/2026-08/final/sap-clean-core-02.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-sap-clean-core-03",
+      "month": "2026-08",
+      "keyword": "SAP Clean Core",
+      "keyword_slug": "sap-clean-core",
+      "title": "Clean Core untuk Pengguna Bisnis: Kustomisasi SAP Tanpa Coding lewat Key-User Extensibility",
+      "slug": "clean-core-kustomisasi-sap-tanpa-coding-key-user",
+      "angle": "in-app-key-user-extensibility-pengguna-bisnis",
+      "angle_hash": "sha1:d1d16ec56458",
+      "search_intent": "informational",
+      "subtopics": ["adaptasi UI Fiori", "BAdI", "clean-core-safe customization", "custom field S/4HANA", "Custom Fields and Logic", "fit-to-standard", "in-app extensibility", "key-user extensibility", "key-user vs developer extensibility", "kustomisasi SAP tanpa coding"],
+      "soltius_mentions": ["SAP S/4HANA key-user in-app extensibility / Custom Fields and Logic (teach); Soltius S/4HANA implementation + change management (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide",
+        "https://www.soltius.co.id/id/blog/low-code-and-no-code-platforms",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud"
+      ],
+      "external_citations": [
+        "https://learning.sap.com/courses/implementing-sap-s-4hana-cloud-public-edition/introducing-the-key-user-in-app-extensibility-tools",
+        "https://news.sap.com/2025/08/extend-sap-s4hana-cloud-right-way-clean-clear/"
+      ],
+      "word_count": 1682,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-08/final/sap-clean-core-03.id.md",
+        "id_docx": "monthly_runs/2026-08/final/sap-clean-core-03.id.docx",
+        "image_plan": "monthly_runs/2026-08/final/sap-clean-core-03.images.json",
+        "qc": "monthly_runs/2026-08/final/sap-clean-core-03.qc.md",
+        "quality": "monthly_runs/2026-08/final/sap-clean-core-03.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-sap-clean-core-04",
+      "month": "2026-08",
+      "keyword": "SAP Clean Core",
+      "keyword_slug": "sap-clean-core",
+      "title": "Memilih Partner SAP Clean Core: 7 Pertanyaan Kunci",
+      "slug": "memilih-partner-sap-clean-core",
+      "angle": "memilih-partner-si-clean-core",
+      "angle_hash": "sha1:afe2478d12ae",
+      "search_intent": "decision",
+      "subtopics": ["Application Management Services (AMS)", "evaluasi vendor SAP", "fit-to-standard", "get clean stay clean", "memilih partner implementasi SAP", "pertanyaan untuk konsultan SAP", "remediasi custom code", "SAP Platinum Partner", "system integrator SAP"],
+      "soltius_mentions": ["SAP Platinum Partner / fit-to-standard / AMS (teach); Soltius SAP Platinum Partner via United VARs (anchor)"],
+      "internal_links": [
+        "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide",
+        "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud",
+        "https://www.soltius.co.id/id/blog/low-code-and-no-code-platforms"
+      ],
+      "external_citations": [
+        "https://www.techtarget.com/searchsap/feature/SAP-clean-core-approach-changes-game-for-SIs",
+        "https://news.sap.com/2025/08/extend-sap-s4hana-cloud-right-way-clean-clear/"
+      ],
+      "word_count": 1665,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-08/final/sap-clean-core-04.id.md",
+        "id_docx": "monthly_runs/2026-08/final/sap-clean-core-04.id.docx",
+        "image_plan": "monthly_runs/2026-08/final/sap-clean-core-04.images.json",
+        "qc": "monthly_runs/2026-08/final/sap-clean-core-04.qc.md",
+        "quality": "monthly_runs/2026-08/final/sap-clean-core-04.quality.md"
+      },
+      "published_at": null,
+      "live_url": null
+    }
+  ]
+}

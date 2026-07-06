@@ -1,0 +1,79 @@
+{
+  "brief_id": "perusahaan-lng-indonesia-05",
+  "article_title_id": "Memilih Penyedia Solusi LNG di Indonesia: Kriteria dan Pertimbangan",
+  "language": "id",
+  "image_count": 3,
+  "planned_at": "2026-06-09",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero — setelah definisi singkat, sebelum H2 pertama",
+      "concept_from_writer": "Diagram alir horizontal 'Tiga Peran Pemain LNG' — tiga kotak berurut dari kiri ke kanan: (1) Hulu/Kilang, ikon pabrik likuifaksi, label 'mengubah gas bumi menjadi LNG -162 derajat C'; (2) Midstream/FSRU & Regasifikasi, ikon kapal terminal apung, label 'menyimpan & mengubah kembali LNG menjadi gas'; (3) Hilir/Distribusi LNG Hub, ikon truk ISO tank, label 'mengantar ke lokasi tanpa pipa'. Panah menghubungkan ketiganya. Gaya flat infographic isometrik B2B, palet biru-hijau energi bersih, semua teks Bahasa Indonesia.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Artikel berargumen bahwa pembeli sering salah mengidentifikasi peran pemain LNG; diagram rantai tiga-tahap adalah satu-satunya format yang memetakan perbedaan hulu/midstream/hilir secara visual sekaligus mendukung argumen editorial inti.",
+      "visual_direction": "Diagram alir horizontal tiga-panel di atas latar putih bersih. Panel pertama (paling kiri): ikon pabrik kilang bergaya flat isometrik berwarna biru tua (navy #003566), judul panel 'Hulu / Kilang', subkopi satu baris 'Mencairkan gas bumi menjadi LNG pada -162 derajat C'. Panel kedua (tengah): ikon kapal FSRU bergaya flat dengan warna biru sedang (#0077B6), judul panel 'Midstream / FSRU & Regasifikasi', subkopi 'Menyimpan dan mengubah kembali LNG menjadi gas'. Panel ketiga (paling kanan): ikon truk membawa ISO tank berwarna hijau energi (#52B788), judul panel 'Hilir / Distribusi LNG Hub', subkopi 'Mengantar ke lokasi tanpa jaringan pipa'. Antarpanel dihubungkan oleh panah tebal melengkung berwarna abu-abu terang (#D9D9D9) yang menunjukkan arah aliran dari kiri ke kanan. Di bawah setiap panel terdapat label pendek: 'Anda tidak membutuhkan pihak ini' (panel 1 dan 2) dan 'Inilah mitra yang relevan untuk Anda' (panel 3) — ketiganya dalam kotak kecil bertepi putus-putus. Judul diagram di bagian atas: 'Tiga Peran Pemain LNG di Indonesia'. Semua tipografi sans-serif modern (misal Poppins atau Inter); tidak ada logo atau nama perusahaan spesifik; vendor-neutral. Ukuran kanvas landscape 1200 x 600 px.",
+      "in_image_text_id": [
+        "Tiga Peran Pemain LNG di Indonesia",
+        "Hulu / Kilang",
+        "Mencairkan gas bumi menjadi LNG pada -162°C",
+        "Midstream / FSRU & Regasifikasi",
+        "Menyimpan dan mengubah kembali LNG menjadi gas",
+        "Hilir / Distribusi LNG Hub",
+        "Mengantar ke lokasi tanpa jaringan pipa",
+        "Anda tidak membutuhkan pihak ini",
+        "Inilah mitra yang relevan untuk Anda"
+      ],
+      "alt_id": "Diagram tiga peran pemain LNG di Indonesia: kilang hulu, FSRU regasifikasi midstream, dan distribusi LNG Hub hilir",
+      "caption_id": "Tidak semua 'perusahaan LNG' melayani kebutuhan yang sama. Pembeli industri dan HOREKA di luar jaringan pipa umumnya membutuhkan mitra di sisi hilir — operator distribusi LNG Hub — bukan kilang atau terminal regasifikasi.",
+      "sourcing_note": "Infografis/diagram orisinal — tim desain membuat dari nol. Tidak ada aset foto yang diperlukan. Pastikan tidak ada nama perusahaan, logo, atau branding spesifik yang muncul; diagram harus sepenuhnya vendor-neutral sesuai nada artikel.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "di dalam H2 'Checklist Evaluasi Penyedia LNG: Apa yang Ditanyakan' — setelah tabel evaluasi",
+      "concept_from_writer": "Kartu checklist screenshot-friendly '7 Pertanyaan Wajib ke Calon Penyedia LNG' — tujuh baris, tiap baris satu ikon di kiri (gembok untuk izin, rantai untuk cold chain, kapal untuk sumber, perisai untuk keselamatan, dokumen untuk SLA, simpul jaringan untuk ekosistem) dan teks ringkas di kanan (maksimal delapan kata per item). Latar putih bersih dengan aksen biru-hijau PGN Gagas, dirancang agar mudah di-screenshot tim procurement. Teks Bahasa Indonesia.",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Checklist teks-forward dengan ikon per baris adalah format infografis — bukan diagram alir dan bukan foto — dan dirancang khusus untuk kemudahan screenshot/berbagi internal, memaksimalkan daya serap pembaca procurement yang sibuk.",
+      "visual_direction": "Kartu infografis vertikal berlatar putih (#FFFFFF) dengan sudut membulat (radius 12 px) dan bayangan tipis. Header kartu: teks 'Pertanyaan Wajib ke Calon Penyedia LNG' dalam huruf tebal berwarna putih di atas strip warna biru tua (#003566), tinggi strip 48 px. Tujuh baris konten di bawah header, setiap baris terdiri dari: (a) ikon flat berukuran 32 x 32 px di sisi kiri dengan latar lingkaran berwarna biru muda (#E8F4FD), (b) teks singkat maksimal delapan kata di sisi kanan dalam huruf medium abu-abu gelap (#333333). Baris 1 — ikon gembok, teks: 'Apakah izin niaga ESDM Anda masih aktif?' Baris 2 — ikon rantai, teks: 'Berapa armada ISO tank dan rekam jejak pengiriman?' Baris 3 — ikon kapal/terminal, teks: 'LNG bersumber dari kilang atau FSRU mana?' Baris 4 — ikon perisai, teks: 'Sertifikasi ISO apa yang Anda miliki?' Baris 5 — ikon vaporizer/gelombang, teks: 'Siapa menyediakan SRU di lokasi kami?' Baris 6 — ikon dokumen bertanda tangan, teks: 'Bagaimana volume dihitung dan siapa tanggung BOG?' Baris 7 — ikon simpul jaringan, teks: 'Ada layanan darurat 24 jam dan rencana kontingensi?' Setiap baris diselingi garis tipis (#F0F0F0). Footer kartu: strip hijau energi (#52B788) tipis 4 px di bagian bawah sebagai aksen warna. Tidak ada logo. Ukuran kanvas portrait 600 x 700 px agar proporsional saat di-screenshot di layar laptop.",
+      "in_image_text_id": [
+        "Pertanyaan Wajib ke Calon Penyedia LNG",
+        "Apakah izin niaga ESDM Anda masih aktif?",
+        "Berapa armada ISO tank dan rekam jejak pengiriman?",
+        "LNG bersumber dari kilang atau FSRU mana?",
+        "Sertifikasi ISO apa yang Anda miliki?",
+        "Siapa menyediakan SRU di lokasi kami?",
+        "Bagaimana volume dihitung dan siapa tanggung BOG?",
+        "Ada layanan darurat 24 jam dan rencana kontingensi?"
+      ],
+      "alt_id": "Checklist tujuh pertanyaan wajib saat mengevaluasi calon penyedia LNG untuk industri dan HOREKA",
+      "caption_id": "Bawa tujuh pertanyaan ini ke meja negosiasi. Jawaban yang mengambang dari calon penyedia sering lebih informatif daripada presentasi yang mulus — terutama untuk isu izin niaga, tanggung jawab SRU, dan manajemen boil-off gas.",
+      "sourcing_note": "Infografis orisinal — tim desain membuat dari nol berdasarkan tujuh baris di atas. Tidak ada foto atau aset eksternal yang diperlukan. Ikon dapat diambil dari pustaka ikon bebas-royalti (misal Flaticon atau Phosphor Icons) dengan gaya flat/outline yang konsisten. Tidak ada logo perusahaan manapun.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_03",
+      "position": "di dalam H2 'Jebakan Saat Memilih Penyedia LNG' — setelah paragraf ketiga (jebakan tanggung jawab terfragmentasi)",
+      "concept_from_writer": "Ilustrasi teknis 'Rantai Dingin LNG: dari ISO Tank ke Lokasi Pelanggan' — alur dari kiri ke kanan: tangki ISO (label 'kriogenik -162 derajat C') menuju truk transportasi, lalu tiba di lokasi pelanggan, lanjut ke SRU/vaporizer (label 'regasifikasi: LNG menjadi gas'), berakhir di peralatan pengguna (boiler dan kompor industri). Label kecil di atas tangki: 'boil-off gas 0,10–0,15%/hari, dikelola via relief valve'. Gaya flat, palet biru-hijau, teks Bahasa Indonesia.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Artikel menjelaskan empat tahap cold chain LNG yang sering diabaikan pembeli (ISO tank, transport, SRU, penggunaan); diagram alir teknis adalah satu-satunya format yang menunjukkan ketergantungan antartahap sekaligus memberi label angka BOG yang diverifikasi.",
+      "visual_direction": "Diagram alir teknis horizontal lima-tahap di atas latar putih (#FFFFFF). Gaya flat dengan sedikit kedalaman (drop shadow tipis per elemen). Tahap 1 (paling kiri): ilustrasi ISO tank silinder kriogenik berwarna biru tua (#003566) dengan label dua baris di bawahnya: 'ISO Tank Kriogenik' dan '-162 derajat C'. Di sudut kanan atas ISO tank, kotak peringatan kecil berwarna kuning (#FFD166) berisi teks: 'BOG: 0,10-0,15%/hari, dikelola via relief valve'. Tahap 2: ikon truk berwarna biru sedang (#0077B6) dengan label di bawah: 'Transportasi'. Tahap 3: ikon gerbang/pintu lokasi atau ikon bangunan pabrik berwarna abu-abu (#8D99AE) dengan label: 'Tiba di Lokasi Pelanggan'. Tahap 4: ikon SRU/vaporizer (tabung dengan uap naik) berwarna hijau energi (#52B788) dengan label dua baris: 'Regasifikasi (SRU)' dan 'LNG diubah menjadi gas'. Tahap 5 (paling kanan): ikon boiler industri + ikon kompor industri berdampingan, berwarna hijau tua (#2D6A4F), label: 'Peralatan Pengguna'. Antartahap dihubungkan panah tebal berwarna abu-abu (#9E9E9E). Di bawah keseluruhan diagram, satu catatan footer dalam huruf kecil italic: 'Tanpa SRU yang jelas penanggung jawabnya, LNG tidak dapat langsung digunakan sebagai bahan bakar.' Judul diagram di bagian atas: 'Rantai Dingin LNG: dari ISO Tank ke Lokasi Pelanggan'. Tipografi sans-serif; tidak ada logo atau nama perusahaan. Ukuran kanvas landscape 1200 x 500 px.",
+      "in_image_text_id": [
+        "Rantai Dingin LNG: dari ISO Tank ke Lokasi Pelanggan",
+        "ISO Tank Kriogenik",
+        "-162°C",
+        "BOG: 0,10-0,15%/hari, dikelola via relief valve",
+        "Transportasi",
+        "Tiba di Lokasi Pelanggan",
+        "Regasifikasi (SRU)",
+        "LNG diubah menjadi gas",
+        "Peralatan Pengguna",
+        "Tanpa SRU yang jelas penanggung jawabnya, LNG tidak dapat langsung digunakan sebagai bahan bakar."
+      ],
+      "alt_id": "Diagram rantai dingin LNG: ISO tank kriogenik, transportasi, regasifikasi SRU, hingga peralatan industri pelanggan",
+      "caption_id": "Empat tahap cold chain LNG yang harus dipetakan tanggung jawabnya sebelum kontrak ditandatangani. Boil-off gas sebesar 0,10-0,15% volume per hari bukan sekadar angka teknis — ia menentukan siapa menanggung selisih volume pada perjalanan panjang.",
+      "sourcing_note": "Ilustrasi/diagram teknis orisinal — tim desain membuat dari nol. Tidak ada foto fasilitas atau branding yang diperlukan. Angka BOG 0,10-0,15%/hari bersumber dari literatur industri (OwnerTeamConsultation; Cheresources); sajikan sebagai referensi industri, bukan standar baku regulator. Tidak ada logo atau nama perusahaan manapun dalam gambar.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

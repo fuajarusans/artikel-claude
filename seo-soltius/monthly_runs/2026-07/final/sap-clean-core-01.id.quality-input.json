@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-07\\final\\sap-clean-core-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-08T10:43:46+07:00",
+    "word_count":  1661,
+    "paragraph_count":  26,
+    "sentence_count":  87,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.489,
+                        "sentence_burstiness":  0.982,
+                        "top30_vocab_share":  0.306,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "**SAP Cloud ALM** menampung RISE with SAP Methodology Dashboard, tempat KPI clean core dipantau terus-menerus.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"**SAP Cloud ALM** menampung RISE with SAP Methodology Dashboard, tempat KPI clean core dipantau terus-menerus.\""
+                                  },
+                                  {
+                                      "passage":  "# Tata Kelola SAP Clean Core: Mengapa Core Kembali \"Kotor\" Setelah Go-Live dan Cara Mencegahnya Anda baru saja menyelesaikan migrasi S/4HANA dengan core yang relatif bersih.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"# Tata Kelola SAP Clean Core: Mengapa Core Kembali  Kotor  Setelah Go-Live dan Cara Mencegahnya Anda baru saja menyelesa\""
+                                  },
+                                  {
+                                      "passage":  "27/2022) berlaku penuh pada 17 Oktober 2024, dengan sanksi hingga 2% dari pendapatan tahunan, ekspektasi tata kelola IT menguat.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"27/2022) berlaku penuh pada 17 Oktober 2024, dengan sanksi hingga 2% dari pendapatan tahunan, ekspektasi tata kelola IT \""
+                                  },
+                                  {
+                                      "passage":  "Menurut SAP, clean core mencakup lima dimensi: *Processes*, *Extensibility*, *Data*, *Integrations*, dan *Operations* ([SAP, 2026](https://www.sap.com/products/erp/rise/methodology/clean-core.html)).",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Menurut SAP, clean core mencakup lima dimensi: *Processes*, *Extensibility*, *Data*, *Integrations*, dan *Operations* ([\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apa fungsi SAP Cloud ALM untuk tata kelola clean core?",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apa fungsi SAP Cloud ALM untuk tata kelola clean core?\""
+                                  },
+                                  {
+                                      "passage":  "SAP Cloud ALM menampung RISE with SAP Methodology Dashboard yang memantau kepatuhan clean core.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"SAP Cloud ALM menampung RISE with SAP Methodology Dashboard yang memantau kepatuhan clean core.\""
+                                  },
+                                  {
+                                      "passage":  "Tata kelola clean core adalah cara perusahaan menjaga inti S/4HANA tetap standar setelah go-live, bukan kegiatan satu kali melainkan siklus berkelanjutan.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Tata kelola clean core adalah cara perusahaan menjaga inti S/4HANA tetap standar setelah go-live, bukan kegiatan satu ka\""
+                                  },
+                                  {
+                                      "passage":  "Core kembali kotor karena perhatian governance berhenti tepat saat proyek migrasi selesai.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Core kembali kotor karena perhatian governance berhenti tepat saat proyek migrasi selesai.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

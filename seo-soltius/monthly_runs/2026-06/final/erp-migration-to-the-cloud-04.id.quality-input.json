@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-06\\final\\erp-migration-to-the-cloud-04.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-03T01:21:11+07:00",
+    "word_count":  1780,
+    "paragraph_count":  32,
+    "sentence_count":  103,
+    "ai_detector":  {
+                        "score":  0.2,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.474,
+                        "sentence_burstiness":  0.641,
+                        "top30_vocab_share":  0.335,
+                        "flags":  [
+                                      {
+                                          "pattern":  "em-dash-overuse",
+                                          "severity":  "medium",
+                                          "snippet":  "Em-dashes count: 14 (max 2)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "27/2022) disahkan 17 Oktober 2022 dan berlaku penuh, termasuk sanksinya, sejak Oktober 2024.",
+                                      "candidate_score":  29,
+                                      "web_search_query":  "\"27/2022) disahkan 17 Oktober 2022 dan berlaku penuh, termasuk sanksinya, sejak Oktober 2024.\""
+                                  },
+                                  {
+                                      "passage":  "## Mengapa Keamanan Data Menjadi Kekhawatiran Utama dalam Migrasi ERP ke Cloud Sistem ERP memuat data keuangan, karyawan, pelanggan, kontrak pemasok, dan seluruh rantai pasok.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"## Mengapa Keamanan Data Menjadi Kekhawatiran Utama dalam Migrasi ERP ke Cloud Sistem ERP memuat data keuangan, karyawan\""
+                                  },
+                                  {
+                                      "passage":  "**SOC 2 Type II** — menguji efektivitas kontrol keamanan selama periode nyata (6–12 bulan), bukan hanya keberadaan kontrol di satu titik waktu.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"**SOC 2 Type II** — menguji efektivitas kontrol keamanan selama periode nyata (6–12 bulan), bukan hanya keberadaan kontr\""
+                                  },
+                                  {
+                                      "passage":  "## Di Mana Data SAP S/4HANA Cloud Disimpan dan Apakah Ini Mematuhi Hukum Indonesia?",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## Di Mana Data SAP S/4HANA Cloud Disimpan dan Apakah Ini Mematuhi Hukum Indonesia?\""
+                                  },
+                                  {
+                                      "passage":  "## Standar Keamanan yang Harus Dimiliki Vendor Cloud ERP Anda Sertifikasi bukan jaminan, tapi absennya sertifikasi adalah tanda merah.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Standar Keamanan yang Harus Dimiliki Vendor Cloud ERP Anda Sertifikasi bukan jaminan, tapi absennya sertifikasi adala\""
+                                  },
+                                  {
+                                      "passage":  "Perbandingan jujurnya seperti ini: | Aspek | ERP On-Premise | Cloud ERP (mis.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Perbandingan jujurnya seperti ini: | Aspek | ERP On-Premise | Cloud ERP (mis.\""
+                                  },
+                                  {
+                                      "passage":  "27/2022 yang berlaku penuh sejak Oktober 2024; dan (3) tata kelola kontraktual — *Data Processing Agreement* (DPA) dan klausul *data residency* dalam perjanjian dengan vendor cloud.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"27/2022 yang berlaku penuh sejak Oktober 2024; dan (3) tata kelola kontraktual — *Data Processing Agreement* (DPA) dan k\""
+                                  },
+                                  {
+                                      "passage":  "**Data Processing Agreement (DPA)** — dokumen wajib sesuai UU PDP; review bersama tim legal/DPO.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"**Data Processing Agreement (DPA)** — dokumen wajib sesuai UU PDP; review bersama tim legal/DPO.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

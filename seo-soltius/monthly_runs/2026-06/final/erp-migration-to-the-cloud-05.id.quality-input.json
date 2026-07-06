@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-06\\final\\erp-migration-to-the-cloud-05.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-03T01:21:43+07:00",
+    "word_count":  1939,
+    "paragraph_count":  30,
+    "sentence_count":  106,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.545,
+                        "sentence_burstiness":  0.686,
+                        "top30_vocab_share":  0.327,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Fase transisi terbagi tiga: hypercare (4–8 minggu), stabilisasi (bulan 2–6), dan steady state (bulan 6+).",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"Fase transisi terbagi tiga: hypercare (4–8 minggu), stabilisasi (bulan 2–6), dan steady state (bulan 6+).\""
+                                  },
+                                  {
+                                      "passage":  "## Tanda-Tanda Proyek ERP Cloud Anda Perlu Intervensi Segera Tidak semua masalah pasca go-live butuh \"waktu untuk terbiasa\".",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Tanda-Tanda Proyek ERP Cloud Anda Perlu Intervensi Segera Tidak semua masalah pasca go-live butuh  waktu untuk terbia\""
+                                  },
+                                  {
+                                      "passage":  "Setelah validasi selesai, masalah laporan berikutnya biasanya termasuk domain [business intelligence](https://www.soltius.co.id/id/blog/business-intelligence): konfigurasi dashboard, *self-service reporting*, dan pengembangan KPI berbasis SAP Analytics Cloud.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Setelah validasi selesai, masalah laporan berikutnya biasanya termasuk domain [business intelligence](https://www.soltiu\""
+                                  },
+                                  {
+                                      "passage":  "## Change Management: Faktor yang Paling Sering Diabaikan Bagian ini jarang ditulis kompetitor, padahal di sinilah sebagian besar proyek ERP cloud kehilangan ROI-nya setelah go-live.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Change Management: Faktor yang Paling Sering Diabaikan Bagian ini jarang ditulis kompetitor, padahal di sinilah sebag\""
+                                  },
+                                  {
+                                      "passage":  "## Mengapa Go-Live Bukan Akhir Perjalanan Migrasi ERP ke Cloud Ada pergeseran ekspektasi yang sangat umum di lapangan: begitu sistem hidup, proyek dianggap selesai.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Mengapa Go-Live Bukan Akhir Perjalanan Migrasi ERP ke Cloud Ada pergeseran ekspektasi yang sangat umum di lapangan: b\""
+                                  },
+                                  {
+                                      "passage":  "SAP BTP Integration Suite (*Business Technology Platform*) adalah platform yang dirancang untuk menghubungkan SAP dengan sistem non-SAP melalui koneksi API dan *pre-built connector*.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"SAP BTP Integration Suite (*Business Technology Platform*) adalah platform yang dirancang untuk menghubungkan SAP dengan\""
+                                  },
+                                  {
+                                      "passage":  "- Lebih dari 20% pengguna masih menggunakan spreadsheet untuk pekerjaan yang seharusnya ada di SAP setelah bulan ke-2.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"- Lebih dari 20% pengguna masih menggunakan spreadsheet untuk pekerjaan yang seharusnya ada di SAP setelah bulan ke-2.\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apa itu hypercare dalam proyek ERP cloud?",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apa itu hypercare dalam proyek ERP cloud?\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

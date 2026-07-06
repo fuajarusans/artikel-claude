@@ -1,0 +1,84 @@
+{
+  "brief_id": "business-intelligence-02",
+  "article_title_id": "Augmented Analytics: Bagaimana AI Mengubah Cara Kerja Business Intelligence",
+  "language": "id",
+  "image_count": 3,
+  "planned_at": "2026-06-08",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "body — setelah paragraf pengantar roadmap, sebelum H2 'Apa Itu Augmented Analytics?'",
+      "concept_from_writer": "Diagram piramida vertikal 'Tiga Lompatan AI dalam Business Intelligence' — empat tingkat bertumpuk dari bawah ke atas: Natural Language Query, Predictive (ML otomatis), Auto-Insight, dan Agentic (AI agent), tiap tingkat dengan ikon berbeda dan satu kalimat deskripsi. Gradasi warna biru gelap ke biru muda naik ke atas, gaya korporat bersih, teks Bahasa Indonesia, screenshot-friendly",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Piramida bertingkat dengan label dan deskripsi singkat per level adalah format infografis — teks-forward, mudah dibagikan, tidak membutuhkan data numerik yang divisualisasikan sebagai chart",
+      "visual_direction": "Infografis vertikal berbentuk piramida terpotong (trapesium bertumpuk), orientasi portrait, lebar 800–1000 px. Empat lapisan dari bawah ke atas, lebar lapisan mengecil ke atas untuk memperlihatkan hierarki kematangan. Palet: gradasi korporat dari biru tua (#0A2463 atau setara SAP dark blue) di lapisan terbawah naik ke biru muda (#5C9EDF) di lapisan paling atas; latar belakang putih bersih. Tiap lapisan memuat: (1) nomor level di sisi kiri dalam lingkaran putih, (2) nama kapabilitas dalam huruf tebal, (3) nama fitur SAP Analytics Cloud dalam huruf italic di bawah nama kapabilitas, (4) satu ikon garis putih mewakili konsepnya. Konten tiap lapisan — dari bawah ke atas: Lapisan 1 (paling lebar, biru tua): teks 'Bahasa Alami', sub-label 'Just Ask — bertanya dalam bahasa sehari-hari, mendapat grafik instan', ikon: balon obrolan dengan tanda tanya; Lapisan 2: teks 'Prediktif', sub-label 'Smart Predict — model ML otomatis tanpa menulis kode', ikon: grafik tren naik; Lapisan 3: teks 'Auto-Insight', sub-label 'Smart Insights — temukan anomali dan korelasi secara otomatis', ikon: lampu pijar; Lapisan 4 (paling sempit, biru muda): teks 'Agentik', sub-label 'Joule — jawaban langsung di aplikasi kerja', ikon: robot/chip otak. Judul di bagian atas kanvas (di atas piramida): 'Empat Tingkat AI dalam Business Intelligence'. Font sans-serif, semua teks Bahasa Indonesia. Proporsi seimbang, cukup whitespace antar lapisan agar dapat dibaca saat di-screenshot.",
+      "in_image_text_id": [
+        "Empat Tingkat AI dalam Business Intelligence",
+        "Tingkat 1 — Bahasa Alami",
+        "Just Ask — bertanya dalam bahasa sehari-hari, mendapat grafik instan",
+        "Tingkat 2 — Prediktif",
+        "Smart Predict — model ML otomatis tanpa menulis kode",
+        "Tingkat 3 — Auto-Insight",
+        "Smart Insights — temukan anomali dan korelasi secara otomatis",
+        "Tingkat 4 — Agentik",
+        "Joule — jawaban langsung di aplikasi kerja"
+      ],
+      "alt_id": "Infografis piramida empat tingkat AI dalam Business Intelligence: Natural Language Query, Prediktif, Auto-Insight, dan Agentik",
+      "caption_id": "Empat tingkat kapabilitas AI dalam augmented analytics, dari natural language query (Just Ask) di dasar hingga Joule sebagai AI copilot agentik di puncak. Setiap tingkat menambah lapisan otomatisasi di atas fondasi yang ada.",
+      "sourcing_note": "Infografis orisinal — tidak membutuhkan screenshot SAP. Desainer membuat dari nol mengacu brief visual di atas. Tidak ada UI SAP yang perlu direproduksi.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body — setelah tabel perbandingan empat tingkat SAP Analytics Cloud, sebelum H2 'Bagaimana Cara Kerja Tanya Data dengan Bahasa Sehari-hari?'",
+      "concept_from_writer": "Tabel perbandingan dua kolom berdampingan 'BI Tradisional vs Augmented Analytics' — kolom kiri (BI lama) bernuansa merah/abu dengan ikon analis membuat laporan manual, jam menunjukkan 'berhari-hari', logo SQL; kolom kanan (augmented) bernuansa biru/hijau dengan ikon orang mengetik pertanyaan, stopwatch 'detik', balon chat bahasa sehari-hari. Format kartu bersih yang mudah dipindai, teks Bahasa Indonesia",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Perbandingan dua kolom berdampingan berpasangan adalah diagram — merepresentasikan struktur dan relasi konseptual, bukan data numerik yang perlu diplot; visual kontras membantu pembaca menangkap perbedaan sekilas pandang",
+      "visual_direction": "Diagram kartu dua kolom berdampingan, orientasi landscape, rasio 16:9 atau 4:3. Latar belakang abu-abu sangat muda (#F5F5F5). Dua panel persegi panjang berdampingan dengan sudut membulat, dipisahkan garis tengah tipis. Panel kiri — 'BI Tradisional': header berwarna merah bata (#C0392B) dengan teks putih tebal 'BI Tradisional'; body panel berwarna putih dengan aksen abu-abu. Isi panel kiri (tiap baris dengan ikon kecil di kiri): (1) ikon jam pasir + teks 'Waktu untuk insight: berhari-hari'; (2) ikon orang di meja dengan tumpukan dokumen + teks 'Laporan dibuat manual oleh analis'; (3) ikon kode terminal + teks 'Perlu keahlian SQL / tools BI'; (4) ikon kaca pembesar dengan tanda tanya + teks 'Anomali ditemukan manual'; (5) ikon kalender dengan tanda silang + teks 'Prediksi butuh data scientist'. Panel kanan — 'Augmented Analytics': header berwarna biru korporat (#1A73E8 atau SAP blue setara) dengan teks putih tebal 'Augmented Analytics'; body panel berwarna putih dengan aksen biru muda. Isi panel kanan (tiap baris sejajar dengan baris panel kiri): (1) ikon stopwatch + teks 'Waktu untuk insight: detik hingga menit'; (2) ikon orang mengetik ke balon obrolan + teks 'Siapa saja bertanya dalam bahasa sehari-hari'; (3) ikon balon chat + teks 'Tidak perlu kode — cukup pertanyaan biasa'; (4) ikon lampu pijar otomatis + teks 'Smart Insights menemukan anomali secara otomatis'; (5) ikon grafik prediksi + teks 'Smart Predict: model ML otomatis dengan beberapa klik'. Judul di atas kedua panel: 'BI Tradisional vs Augmented Analytics'. Di bagian bawah tengah, catatan kecil berwarna abu-abu: 'Augmented analytics adalah evolusi BI, bukan penggantinya'. Semua teks Bahasa Indonesia, font sans-serif, ukuran baris proporsional.",
+      "in_image_text_id": [
+        "BI Tradisional vs Augmented Analytics",
+        "BI Tradisional",
+        "Waktu untuk insight: berhari-hari",
+        "Laporan dibuat manual oleh analis",
+        "Perlu keahlian SQL / tools BI",
+        "Anomali ditemukan manual",
+        "Prediksi butuh data scientist",
+        "Augmented Analytics",
+        "Waktu untuk insight: detik hingga menit",
+        "Siapa saja bertanya dalam bahasa sehari-hari",
+        "Tidak perlu kode — cukup pertanyaan biasa",
+        "Smart Insights menemukan anomali secara otomatis",
+        "Smart Predict: model ML otomatis dengan beberapa klik",
+        "Augmented analytics adalah evolusi BI, bukan penggantinya"
+      ],
+      "alt_id": "Diagram perbandingan BI Tradisional vs Augmented Analytics: laporan manual berhari-hari di kiri versus pertanyaan bahasa sehari-hari dalam detik di kanan",
+      "caption_id": "Perbedaan mendasar antara BI tradisional dan augmented analytics bukan hanya soal kecepatan, tetapi soal siapa yang bisa mengakses data — dari analis terlatih menjadi siapa saja dalam organisasi. Namun fondasi data yang rapi tetap menjadi prasyarat di kedua model.",
+      "sourcing_note": "Diagram orisinal — tidak membutuhkan screenshot SAP. Desainer membuat dari nol mengacu brief visual di atas. Data baris perbandingan bersumber dari tabel dossier 'BI Tradisional vs Augmented Analytics'.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_03",
+      "position": "body — setelah paragraf pembuka H2 'Dari Dashboard ke Keputusan: Pergeseran Besar 2026', sebelum H2 'Yang Tidak Diceritakan Vendor: Batas Augmented Analytics'",
+      "concept_from_writer": "Diagram piramida prasyarat 'Augmented Analytics yang Bekerja' — tiga lapisan bertumpuk: lapisan dasar terlebar 'Data bersih & terintegrasi', lapisan tengah 'Semantic layer ter-governance + otorisasi', lapisan puncak 'Lapisan AI/NLQ (Just Ask, Smart Predict, Joule)'. Panah ke atas menunjukkan fondasi menopang puncak; warna abu di bawah menuju biru cerah di atas. Teks Bahasa Indonesia, menegaskan pesan 'AI butuh fondasi, bukan tongkat ajaib'",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Piramida fondasi bertingkat dengan arah panah kausal adalah diagram arsitektur konseptual — menunjukkan dependensi/hierarki antara lapisan teknis, bukan statistik; tepat untuk mengomunikasikan argumen utama seksi 'batas yang tidak diceritakan vendor'",
+      "visual_direction": "Diagram piramida tiga lapis, orientasi portrait, gaya arsitektur bersih. Palet: lapisan terbawah abu-abu sedang (#9E9E9E), lapisan tengah biru-abu (#5B8DB8), lapisan puncak biru korporat cerah (#1A73E8 atau SAP blue). Latar belakang putih. Tiap lapisan berbentuk trapesium melebar ke bawah (piramida terpotong), dengan whitespace antar lapisan. Panah vertikal tipis berwarna abu gelap di sisi luar piramida, menunjuk ke atas, dengan label di sebelahnya: 'Fondasi menopang puncak'. Konten tiap lapisan — dari bawah ke atas: Lapisan 1 (terlebar, abu-abu): teks besar putih tebal 'Data Bersih & Terintegrasi'; sub-teks putih kecil di bawahnya: 'Kualitas data, integrasi sumber, master data'; ikon silinder database kecil di sudut kanan; Lapisan 2 (tengah, biru-abu): teks besar putih tebal 'Semantic Layer Ter-Governance'; sub-teks putih kecil: 'Definisi metrik disetujui, otorisasi pengguna, kebijakan akses'; ikon kunci atau tameng di sudut kanan; Lapisan 3 (paling sempit, biru cerah): teks besar putih tebal 'Lapisan AI / NLQ'; sub-teks putih kecil: 'Just Ask, Smart Predict, Joule'; ikon chip/bintang AI di sudut kanan. Di bawah piramida, teks keterangan berwarna abu gelap dalam kotak abu muda: 'AI hanya seakurat fondasi di bawahnya'. Judul di atas piramida: 'Prasyarat Augmented Analytics yang Bekerja'. Semua teks Bahasa Indonesia, font sans-serif, cukup kontras untuk dibaca di layar desktop.",
+      "in_image_text_id": [
+        "Prasyarat Augmented Analytics yang Bekerja",
+        "Lapisan AI / NLQ",
+        "Just Ask, Smart Predict, Joule",
+        "Semantic Layer Ter-Governance",
+        "Definisi metrik disetujui, otorisasi pengguna, kebijakan akses",
+        "Data Bersih & Terintegrasi",
+        "Kualitas data, integrasi sumber, master data",
+        "Fondasi menopang puncak",
+        "AI hanya seakurat fondasi di bawahnya"
+      ],
+      "alt_id": "Diagram piramida tiga lapis prasyarat augmented analytics: data bersih di dasar, semantic layer di tengah, lapisan AI Just Ask dan Joule di puncak",
+      "caption_id": "Augmented analytics berfungsi andal hanya jika dua fondasi di bawahnya sudah kokoh — data yang bersih dan terintegrasi, serta semantic layer yang ter-governance untuk mencegah jawaban salah atau halusinasi AI. Fitur seperti Just Ask dan Joule adalah lapisan puncak, bukan titik mulai.",
+      "sourcing_note": "Diagram orisinal — tidak membutuhkan screenshot SAP. Desainer membuat dari nol mengacu brief visual di atas. Tidak ada UI SAP yang perlu direproduksi. Konsep fondasi bersumber dari dossier 'Notes for image-planner' Concept 3 dan dari klaim terverifikasi tentang semantic layer (dbt Labs).",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

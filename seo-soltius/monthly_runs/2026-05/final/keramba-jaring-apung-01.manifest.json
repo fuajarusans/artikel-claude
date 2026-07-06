@@ -1,0 +1,26 @@
+﻿[
+    {
+        "prompt":  "High-resolution wide-angle photograph of a cluster of eight HDPE floating net cage aquaculture units arranged in two rows of four on a large tropical Indonesian reservoir at early morning, calm glass-like water surface with soft mist rising from the lake, lush green tropical hillside and mountains visible in the background slightly obscured by morning haze, HDPE frames painted dark navy blue or black with orange safety buoys at corners, green aquaculture nets visible just below the clear water surface, soft diffused golden-hour light from the left casting gentle long shadows across the water, several wooden access walkways connecting cage units, a small simple bamboo shelter on one raft, realistic photorealistic aquaculture trade publication style, wide panoramic composition with cages occupying lower two-thirds and sky-hill reflection in water, 16:9 aspect ratio, no text overlays, no watermarks, no logos, no signatures, no dead fish, no garbage, no algae bloom, no people.",
+        "output_path":  "C:/Users/seo/Documents/seo-stp/monthly_runs/2026-05/final/keramba-jaring-apung-01-01.png",
+        "size":  "1408x960",
+        "quality":  "high",
+        "format":  "png",
+        "background":  "auto"
+    },
+    {
+        "prompt":  "Clean modern flat-design infographic illustration showing a breakdown of capital investment components for a four-cage floating net cage aquaculture setup, arranged as a horizontal bar chart or grouped icon layout on white background. Seven labeled component blocks with relative proportions: the largest block represents feed costs (approximately half), followed by a medium block for HDPE frame and flotation, medium block for aquaculture nets, small block for fingerling seed stock, small block for anchors and mooring lines, small block for labor and operations, and smallest block for contingency reserve. Each block is a clean flat-design rectangle with a simple outline icon above it: feed block has a small pellet-bag icon, frame block has a hexagonal HDPE pipe icon, nets block has a net mesh diamond icon, fingerling block has a small fish fry silhouette, anchor block has an anchor icon, operations block has a person-wrench icon, contingency block has a shield icon. Aquaculture color palette: deep teal for the largest bar, graduating through medium blue, soft aqua-green, light sky blue, and pale mint for smaller bars. All icons are simple clean line-art. No text, no numbers, no letters, no labels in the image. White background, generous whitespace, 16:9 aspect ratio, professional infographic style. No watermarks, no logos, no signatures.",
+        "output_path":  "C:/Users/seo/Documents/seo-stp/monthly_runs/2026-05/final/keramba-jaring-apung-01-02.png",
+        "size":  "1408x960",
+        "quality":  "medium",
+        "format":  "png",
+        "background":  "auto"
+    },
+    {
+        "prompt":  "Clean scientific educational illustration in cross-section diagram style showing lake upwelling phenomenon in a freshwater volcanic lake used for fish cage aquaculture. Vertical cross-section of a deep lake showing distinct water column layers: the upper warm oxygenated layer (epilimnion) shown in clear blue-green with small dissolved oxygen bubble icons, a middle thermocline transition zone shown in slightly darker blue, and the deep cold anoxic hypolimnion bottom layer shown in dark murky grey-green with small hydrogen sulfide or low-oxygen icons. Large curved white wind arrows blowing across the lake surface from right to left, causing the cold dark bottom water to overturn and rise upward along the left side of the diagram in an upwelling plume (shown as dark grey-green water column rising). Several floating net cage aquaculture units visible at the water surface above the upwelling zone, shown as simple rectangular HDPE cage outlines. Multiple small fish silhouettes near the surface showing stress response or upside-down mortality posture due to oxygen depletion. A simple circular warning icon or red exclamation marker above the upwelling zone. Color coding: warm surface water in bright teal-blue, cold anoxic water in dark grey-green, upwelling plume in muted olive-grey, cage outlines in navy, wind arrows in clean white. Flat educational illustration style reminiscent of textbook or KKP educational poster, clean line art with semi-transparent color fills, 16:9 aspect ratio, no text labels in the image, no watermarks, no logos, no signatures.",
+        "output_path":  "C:/Users/seo/Documents/seo-stp/monthly_runs/2026-05/final/keramba-jaring-apung-01-03.png",
+        "size":  "1408x960",
+        "quality":  "medium",
+        "format":  "png",
+        "background":  "auto"
+    }
+]

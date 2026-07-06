@@ -1,0 +1,57 @@
+{
+  "brief_id": "cng-indonesia-04",
+  "article_title_id": "CNG Beyond Pipeline: Cara Gas Bumi Menjangkau Daerah Tanpa Pipa",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-09",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Diagram alur rantai pasok CNG beyond-pipeline bernomor 1-5 dari kiri ke kanan — Mother Station (ikon kompresor, label 'kompresi 200-250 bar') -> truk Gas Transport Module/GTM -> bercabang dua: cabang darat (daughter station/Pressure Reduction Station -> pabrik) dan cabang laut (kapal CNG -> jetty pulau -> pembangkit). Gaya flat infographic isometrik B2B, palet hijau-biru energi bersih, teks Bahasa Indonesia, format horizontal landscape.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Rantai 5-langkah Mother Station ke pelanggan adalah substansi utama artikel ini — diagram bernomor menyampaikannya seketika pada audiens B2B dan merupakan unit ekstraksi GEO terbaik; infografis teks-berat tidak seefektif ini.",
+      "visual_direction": "Diagram alur horizontal landscape (rasio 16:9), latar putih bersih atau abu-abu sangat terang. Lima simpul bernomor tersusun dari kiri ke kanan dengan panah konektor tebal berwarna biru tua (#0A3D6B). Simpul 1 — 'Mother Station': ikon kompresor/bangunan industri bergaya flat, kotak biru tua, label utama 'Mother Station', sub-label '(kompresi ~200-250 bar)'. Simpul 2 — 'GTM / Tube Trailer': ikon truk dengan kaskade tabung silinder di bak belakang, kotak biru sedang. Dari simpul 2, alur bercabang dua. CABANG ATAS (darat): Simpul 3A — 'Pengangkutan Darat', ikon truk di jalan; Simpul 4A — 'Pressure Reduction Station', ikon katup/regulator, kotak biru-hijau (#1A7A4E); Simpul 5A — 'Pelanggan Industri/Komersial', ikon pabrik/gedung komersial, kotak hijau energi (#2AAE6F). CABANG BAWAH (laut): Simpul 3B — 'Pengangkutan Laut', ikon kapal CNG di gelombang biru; Simpul 4B — 'Jetty Pulau', ikon dermaga; Simpul 5B — 'Pembangkit / Pelanggan Pulau', ikon menara listrik/pabrik. Semua label teks dalam Bahasa Indonesia, font sans-serif modern (misal Poppins atau Nunito), ukuran cukup terbaca di layar desktop. Aksen hijau energi (#2AAE6F) pada simpul tujuan akhir dan panah cabang laut. Ikon bergaya flat, outline biru gelap tipis, tidak foto-realistik. Tidak ada angka kapasitas GTM. Logo atau nama 'PGN Gagas' tidak ditempatkan di dalam diagram; kredit merek cukup di area luar gambar jika diperlukan.",
+      "in_image_text_id": [
+        "1. Mother Station",
+        "(kompresi ~200-250 bar)",
+        "2. GTM / Tube Trailer",
+        "Cabang Darat",
+        "3A. Pengangkutan Darat",
+        "4A. Pressure Reduction Station",
+        "5A. Pelanggan Industri / Komersial",
+        "Cabang Laut",
+        "3B. Pengangkutan Laut (Kapal CNG)",
+        "4B. Jetty Pulau",
+        "5B. Pembangkit / Pelanggan Pulau"
+      ],
+      "alt_id": "Diagram alur rantai distribusi CNG beyond-pipeline dari Mother Station ke pelanggan melalui truk dan kapal CNG",
+      "caption_id": "Rantai pasok CNG beyond-pipeline berjalan dalam lima langkah: gas dikompresi di Mother Station pada ~200-250 bar, dimuat ke GTM, lalu diangkut truk (jalur darat) atau kapal CNG (jalur laut) sebelum tekanannya diturunkan di Pressure Reduction Station dan dialirkan ke peralatan pelanggan. Konsepnya seperti pipa, tetapi infrastrukturnya bergerak.",
+      "sourcing_note": "Infografis/diagram yang dibuat oleh tim desain — tidak memerlukan foto fasilitas nyata. Pastikan tidak ada angka kapasitas GTM yang tidak diverifikasi. Ikon truk dan kapal cukup bergaya ilustrasi flat; jangan gunakan foto asli fasilitas atau kendaraan PGN Gagas tanpa izin dan konfirmasi keaslian aset.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "mid-body (setelah tabel perbandingan moda darat vs laut, H2 'Beyond Pipeline di Dunia Nyata')",
+      "concept_from_writer": "Peta stilisasi kepulauan Indonesia menampilkan zona terlayani pipa gas (Sumatra-Jawa, diberi warna solid) versus zona beyond-pipeline (wilayah timur: Sulawesi, Maluku, Nusa Tenggara, Papua, diberi arsiran berbeda), dengan panah alur CNG/LNG mengarah ke timur dan ikon kecil truk serta kapal CNG. Gaya flat, palet hijau-biru, legenda dan label dalam Bahasa Indonesia.",
+      "suggested_asset_type": "illustration",
+      "asset_type_rationale": "Guardrail artikel ini melarang peta geografis nyata yang dapat mengimplikasikan cakupan layanan terverifikasi; ilustrasi skematis kepulauan (bukan peta presisi) menyampaikan konsep 'barat berpipa, timur beyond-pipeline' tanpa klaim cakupan yang tidak dapat diverifikasi — lebih aman dan tetap komunikatif bagi audiens B2B.",
+      "visual_direction": "Ilustrasi skematis kepulauan Indonesia bergaya flat (bukan peta geografis presisi/kartografis) dengan format landscape (rasio 16:9). Pulau-pulau digambarkan sebagai bentuk simplifikasi/stilisasi — bukan peta detail — untuk menghindari implikasi cakupan layanan yang spesifik. Latar biru laut muda (#D6EAF8). DUA ZONA WARNA BERBEDA: (A) Zona Barat — Sumatra dan Jawa diberi warna solid biru tua (#0A3D6B) dengan label 'Zona Pipa Gas' dan ikon pipa kecil berwarna biru di atasnya. (B) Zona Timur — Sulawesi, Maluku, Nusa Tenggara, Papua digambarkan dengan arsiran diagonal hijau (#2AAE6F) atau warna hijau transparan, label 'Zona Beyond-Pipeline'. Dua PANAH BESAR melengkung dari kiri (barat) ke kanan (timur): satu panah bertulisan 'CNG (truk)' dengan ikon truk kecil, satu panah bertulisan 'CNG/LNG (kapal)' dengan ikon kapal kecil — keduanya berwarna hijau energi. Legenda di pojok kanan bawah dengan dua item: kotak biru tua 'Jaringan Pipa Gas' dan kotak hijau arsir 'Sistem Beyond-Pipeline'. Judul dalam gambar: 'Distribusi Gas Bumi: Pipa vs Beyond-Pipeline'. Semua teks dalam Bahasa Indonesia. TIDAK ada garis batas wilayah administratif yang presisi, tidak ada nama kota/provinsi spesifik yang mengimplikasikan cakupan layanan terverifikasi PGN Gagas. Gaya ikon flat modern, sama dengan IMAGE_01.",
+      "in_image_text_id": [
+        "Distribusi Gas Bumi: Pipa vs Beyond-Pipeline",
+        "Zona Pipa Gas",
+        "Zona Beyond-Pipeline",
+        "CNG (truk)",
+        "CNG / LNG (kapal)",
+        "Legenda:",
+        "Jaringan Pipa Gas",
+        "Sistem Beyond-Pipeline"
+      ],
+      "alt_id": "Ilustrasi skematis distribusi gas bumi Indonesia: zona pipa di barat versus sistem beyond-pipeline CNG dan LNG ke timur",
+      "caption_id": "Jaringan pipa gas bumi nasional Indonesia (~22.821 km per 2025) terkonsentrasi di Sumatra dan Jawa, sementara wilayah timur seperti Sulawesi, Maluku, Nusa Tenggara, dan Papua mengandalkan sistem beyond-pipeline berupa CNG dan LNG untuk memenuhi kebutuhan energinya (sumber: BPH Migas, Mei 2026).",
+      "sourcing_note": "Ilustrasi skematis yang dibuat tim desain — BUKAN peta geografis presisi dan BUKAN peta cakupan layanan PGN Gagas. Jangan gunakan peta kartografis resmi atau peta operasional PGN/Gagas yang belum diverifikasi. Batas pulau harus stilisasi/simplifikasi, bukan peta detail, untuk menghindari klaim cakupan wilayah yang tidak dapat dikonfirmasi. Tidak ada fasilitas nyata PGN Gagas yang digambarkan atau dilabeli.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

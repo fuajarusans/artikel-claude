@@ -1,0 +1,33 @@
+{
+    "elapsed_seconds":  45.9,
+    "failed":  0,
+    "images":  [
+                   {
+                       "index":  0,
+                       "output_path":  "C:/Users/seo/Documents/seo-stp/monthly_runs/2026-05/final/kincir-tambak-udang-01-01.png",
+                       "status":  "ok",
+                       "bytes":  2047841,
+                       "error":  null,
+                       "job_state":  "Completed"
+                   },
+                   {
+                       "index":  1,
+                       "output_path":  "C:/Users/seo/Documents/seo-stp/monthly_runs/2026-05/final/kincir-tambak-udang-01-02.png",
+                       "status":  "ok",
+                       "bytes":  870410,
+                       "error":  null,
+                       "job_state":  "Completed"
+                   },
+                   {
+                       "index":  2,
+                       "output_path":  "C:/Users/seo/Documents/seo-stp/monthly_runs/2026-05/final/kincir-tambak-udang-01-03.png",
+                       "status":  "ok",
+                       "bytes":  598979,
+                       "error":  null,
+                       "job_state":  "Completed"
+                   }
+               ],
+    "manifest_path":  "C:\\Users\\seo\\Documents\\seo-stp\\monthly_runs\\2026-05\\final\\kincir-tambak-udang-01.manifest.json",
+    "total_images":  3,
+    "succeeded":  3
+}

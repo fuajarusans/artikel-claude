@@ -1,0 +1,88 @@
+{
+  "brief_id": "perusahaan-cng-indonesia-01",
+  "article_title_id": "Cara Memilih Perusahaan CNG di Indonesia: 7 Kriteria Wajib",
+  "language": "id",
+  "image_count": 3,
+  "planned_at": "2026-06-09",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "above-fold — setelah paragraf pembuka dan blok definisi, sebelum H2 pertama",
+      "concept_from_writer": "Infografik horizontal alur 'virtual pipeline' CNG — Sumur Gas → Pipa Transmisi → Mother Station (kompresi) → GTM/truk bertabung → Pressure Reduction Station di lokasi → ikon pabrik, hotel, rumah sakit. Tiap tahap diberi label Bahasa Indonesia. Gaya line-art teknikal bersih, palet biru-oranye, format landscape B2B.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Alur distribusi multi-tahap dengan komponen teknis bernama (Mother Station, GTM, PRS) paling jelas disampaikan lewat diagram alur berlabel — bukan foto dan bukan infografik teks. Diagram juga mendukung definisi snippet yang sudah ada di artikel.",
+      "visual_direction": "Diagram alur horizontal berlabel, format landscape 16:9 atau 2:1. Latar belakang putih bersih atau abu sangat muda (#F5F7FA). Enam simpul/node dari kiri ke kanan, dihubungkan anak panah tebal berwarna biru profesional (#1A4F8A): (1) ikon sumur menara pengeboran berlabel 'Sumur Gas', (2) ikon pipa garis putus-putus berlabel 'Pipa Transmisi', (3) ikon bangunan industri dengan simbol tekanan berlabel 'Mother Station (Kompresi)', (4) ikon truk dengan silinder bertumpuk berlabel 'GTM — Gas Transport Module', (5) ikon kotak valve/regulator berlabel 'Pressure Reduction Station (PRS)', (6) tiga ikon akhir berdampingan: pabrik, hotel, dan rumah sakit masing-masing berlabel 'Pabrik', 'Hotel', 'Rumah Sakit'. Ikon simpul 1–2 berwarna abu-biru gelap (#2C3E50); simpul 3–5 berwarna biru utama (#1A4F8A); simpul 6 berwarna hijau energi (#2E8B57) untuk menandai ujung distribusi. Anak panah berujung solid, warna biru (#1A4F8A), lebar 3 pt. Di atas diagram, judul kecil dalam tipografi sans-serif bold: 'Cara Kerja Distribusi CNG Beyond Pipeline'. Di bawah setiap simpul, nama teknis dicetak bold 10–11 pt, deskripsi singkat 8–9 pt berwarna abu gelap. Tidak ada foto nyata, tidak ada logo vendor, tidak ada nama perusahaan di dalam gambar.",
+      "in_image_text_id": [
+        "Cara Kerja Distribusi CNG Beyond Pipeline",
+        "Sumur Gas",
+        "Pipa Transmisi",
+        "Mother Station (Kompresi)",
+        "GTM — Gas Transport Module",
+        "Pressure Reduction Station (PRS)",
+        "Pabrik",
+        "Hotel",
+        "Rumah Sakit"
+      ],
+      "alt_id": "Diagram alur distribusi CNG beyond pipeline: sumur gas, Mother Station, GTM, hingga ke pabrik, hotel, dan rumah sakit",
+      "caption_id": "Rantai distribusi CNG beyond pipeline: gas bumi dikompresi di Mother Station, diangkut via Gas Transport Module (GTM), lalu diturunkan tekanannya di Pressure Reduction Station (PRS) sebelum masuk ke fasilitas pelanggan. Penyedia CNG beroperasi di seluruh rantai ini — bukan hanya pengirim 'molekul gas'.",
+      "sourcing_note": "Ini diagram konseptual teknis — tidak memerlukan foto fasilitas nyata. Tim desain membuat ilustrasi dari nol berdasarkan brief di atas. Jangan gunakan logo atau nama merek penyedia CNG mana pun di dalam gambar (vendor-neutral). Ikon yang direkomendasikan: set ikon teknis/industri seperti Flaticon Industrial atau Noun Project Engineering (lisensi komersial).",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "tengah artikel — setelah tabel 7 kriteria dan paragraf 'Tiga kriteria pertama...'",
+      "concept_from_writer": "Checklist infografis 7 kriteria pemilihan penyedia CNG dalam grid 2x4, tiap kriteria satu ikon — dokumen (legalitas), rantai (keandalan), peta (cakupan), perisai (keselamatan), roda gigi (layanan), kontrak (harga), bintang/jam (rekam jejak). Format kartu portabel untuk dibagikan di grup procurement. Teks Bahasa Indonesia, palet korporat biru-putih.",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Tujuh kriteria bersifat teks-forward dengan ikon penanda — infografik kartu/grid adalah format terbaik untuk konten checklist yang dirancang untuk di-screenshot dan dibagikan di grup procurement, sesuai intent penulis.",
+      "visual_direction": "Infografik grid 2 kolom x 4 baris (baris ke-4 hanya 1 sel di tengah, atau grid 2x3 + 1 centang 'Semua terpenuhi?' di bagian bawah), format portrait atau square (1:1 atau 4:5 untuk portabilitas mobile). Latar belakang putih (#FFFFFF). Setiap sel kartu berisi: ikon berwarna biru (#1A4F8A) di pojok kiri atas (ukuran 32–36 px), nomor urut bold berwarna biru muda di pojok kanan atas, judul kriteria bold 13–14 pt berwarna abu sangat gelap (#1C1C1C), dan satu baris kalimat tindakan 10–11 pt berwarna abu (#555555). Daftar tujuh sel kartu: KARTU 1 — ikon dokumen/sertifikat, judul 'Legalitas dan Izin Niaga', kalimat 'Minta nomor Izin Usaha Niaga Gas Bumi dari Ditjen Migas'; KARTU 2 — ikon rantai penghubung, judul 'Keandalan Pasokan', kalimat 'Tanyakan sumber gas dan kontrak PJBG jangka panjang'; KARTU 3 — ikon pin lokasi atau peta, judul 'Cakupan Beyond Pipeline', kalimat 'Pastikan penyedia pernah beroperasi di wilayah Anda'; KARTU 4 — ikon perisai dengan tanda centang, judul 'Keselamatan dan Sertifikasi', kalimat 'Minta sertifikat ISO 45001 dan bukti inspeksi Permen ESDM 32/2021'; KARTU 5 — ikon roda gigi, judul 'Layanan Teknis dan Komisioning', kalimat 'Konfirmasi ada tim teknis 24 jam dan SOP instalasi PRS'; KARTU 6 — ikon dokumen kontrak atau pena, judul 'Transparansi Harga dan Kontrak', kalimat 'Cek klausul eskalasi harga dan penalti keterlambatan pasokan'; KARTU 7 — ikon bintang atau jam, judul 'Rekam Jejak dan Ekosistem', kalimat 'Minta daftar referensi pelanggan aktif dan profil afiliasi pasokan'. Di bagian bawah, tambahkan garis batas tipis abu dan teks kecil: 'Gunakan 7 kriteria ini sebagai dasar perbandingan antarpenyedia.' Tidak ada logo vendor atau nama perusahaan CNG di dalam gambar. Border kartu: 1 pt solid #D0D9E8. Gaya font: sans-serif modern (mis. Inter atau Poppins).",
+      "in_image_text_id": [
+        "7 Kriteria Wajib Memilih Perusahaan CNG",
+        "1. Legalitas dan Izin Niaga",
+        "Minta nomor Izin Usaha Niaga Gas Bumi dari Ditjen Migas",
+        "2. Keandalan Pasokan",
+        "Tanyakan sumber gas dan kontrak PJBG jangka panjang",
+        "3. Cakupan Beyond Pipeline",
+        "Pastikan penyedia pernah beroperasi di wilayah Anda",
+        "4. Keselamatan dan Sertifikasi",
+        "Minta sertifikat ISO 45001 dan bukti inspeksi Permen ESDM 32/2021",
+        "5. Layanan Teknis dan Komisioning",
+        "Konfirmasi ada tim teknis 24 jam dan SOP instalasi PRS",
+        "6. Transparansi Harga dan Kontrak",
+        "Cek klausul eskalasi harga dan penalti keterlambatan pasokan",
+        "7. Rekam Jejak dan Ekosistem",
+        "Minta daftar referensi pelanggan aktif dan profil afiliasi pasokan",
+        "Gunakan 7 kriteria ini sebagai dasar perbandingan antarpenyedia."
+      ],
+      "alt_id": "Infografik 7 kriteria wajib memilih perusahaan CNG: legalitas, keandalan, cakupan, keselamatan, layanan, harga, rekam jejak",
+      "caption_id": "Tujuh kriteria pemilihan penyedia CNG yang dapat langsung dipakai sebagai daftar periksa procurement. Tiga kriteria pertama — legalitas, keandalan pasokan, dan sertifikasi keselamatan — menyimpan risiko operasional tertinggi bila diabaikan.",
+      "sourcing_note": "Infografik desain orisinal — tidak memerlukan foto atau aset pihak ketiga. Tim desain membuatnya dari nol berdasarkan brief di atas. Ikon yang direkomendasikan: set icon outline linear dari Flaticon Business atau Phosphor Icons (lisensi komersial). Jangan cantumkan logo atau nama merek penyedia CNG mana pun — konten harus sepenuhnya vendor-neutral agar bisa dipakai ulang di berbagai konteks editorial.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_03",
+      "position": "menjelang akhir artikel — setelah H2 'Kapan Anda BELUM Perlu Buru-buru Tanda Tangan Kontrak CNG' dan daftar empat kondisi tunda",
+      "concept_from_writer": "Diagram keputusan sederhana 'Kapan CNG tepat untuk Anda' — alur bercabang dengan pertanyaan ya/tidak: 'Lokasi dilewati pipa?', 'Volume cukup besar?', 'Pipa akan segera masuk?' menuju kotak hasil (CNG cocok / pertimbangkan pipa / tunda dulu). Gaya flowchart bersih, palet biru-hijau, teks Bahasa Indonesia.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Logika bercabang ya/tidak dengan tiga pertanyaan dan tiga hasil adalah definisi klasik flowchart keputusan — lebih tepat dikategorikan diagram daripada infografik. Visualisasi ini meringkas argumen counter-conventional H2 'Kapan BELUM perlu' menjadi alat bantu keputusan yang bisa langsung dipakai pembaca.",
+      "visual_direction": "Flowchart keputusan vertikal atau diagonal, format portrait (3:4) atau square (1:1). Latar belakang putih bersih. Tipografi sans-serif (Inter atau Poppins). Tata letak dari atas ke bawah: BLOK MULAI — kotak rounded persegi panjang berwarna biru gelap (#1A4F8A), teks putih bold 'Apakah lokasi usaha Anda sudah dilalui jaringan pipa gas?'; dua anak panah ke bawah berlabel 'Ya' (hijau #2E8B57) dan 'Tidak' (abu #888888). Cabang 'Ya' menuju KOTAK HASIL 1 berwarna hijau muda (#E8F5E9), border hijau (#2E8B57), teks: 'Gas pipa lebih hemat untuk volume besar — hubungi penyalur pipa setempat.' Cabang 'Tidak' menuju pertanyaan kedua: kotak rounded berwarna biru sedang (#2B6CB0), teks putih 'Volume konsumsi Anda cukup signifikan (mis. setara lebih dari 20 tabung 50 kg per bulan)?'; dua anak panah berlabel 'Ya' dan 'Tidak'. Cabang 'Tidak' menuju KOTAK HASIL 2 berwarna abu muda (#F0F0F0), border abu (#AAAAAA), teks: 'CNG mungkin belum ekonomis — tunda dulu dan konsultasikan volume Anda.' Cabang 'Ya' menuju pertanyaan ketiga: kotak rounded berwarna biru sedang (#2B6CB0), teks putih 'Jaringan pipa gas dijadwalkan masuk ke area Anda dalam waktu dekat?'; dua anak panah berlabel 'Ya' dan 'Tidak'. Cabang 'Ya' menuju KOTAK HASIL 3 berwarna kuning muda (#FFFDE7), border kuning (#F9A825), teks: 'Pertimbangkan menunggu — mengunci kontrak CNG panjang sebelum pipa masuk bisa kurang efisien.' Cabang 'Tidak' menuju KOTAK HASIL 4 berwarna biru-hijau (#E0F7F4), border hijau teal (#00897B), teks bold: 'CNG via GTM kemungkinan cocok untuk situasi Anda — minta simulasi biaya dari penyedia.' Semua kotak hasil memakai sudut rounded 8 px. Anak panah berujung solid, warna disesuaikan cabang. Di bagian bawah, teks kecil disclamer: 'Diagram ini untuk orientasi awal. Keekonomian aktual bergantung pada jarak, volume, dan kondisi spesifik lokasi.' Tidak ada logo atau nama perusahaan CNG di dalam gambar.",
+      "in_image_text_id": [
+        "Kapan CNG Tepat untuk Usaha Anda?",
+        "Apakah lokasi usaha Anda sudah dilalui jaringan pipa gas?",
+        "Ya",
+        "Tidak",
+        "Gas pipa lebih hemat untuk volume besar — hubungi penyalur pipa setempat.",
+        "Volume konsumsi Anda cukup signifikan (mis. setara lebih dari 20 tabung 50 kg per bulan)?",
+        "Jaringan pipa gas dijadwalkan masuk ke area Anda dalam waktu dekat?",
+        "Pertimbangkan menunggu — mengunci kontrak CNG panjang sebelum pipa masuk bisa kurang efisien.",
+        "CNG mungkin belum ekonomis — tunda dulu dan konsultasikan volume Anda.",
+        "CNG via GTM kemungkinan cocok untuk situasi Anda — minta simulasi biaya dari penyedia.",
+        "Diagram ini untuk orientasi awal. Keekonomian aktual bergantung pada jarak, volume, dan kondisi spesifik lokasi."
+      ],
+      "alt_id": "Diagram keputusan: kapan CNG via GTM cocok untuk usaha berdasarkan ada tidaknya pipa, volume, dan rencana pipa",
+      "caption_id": "Panduan keputusan cepat untuk menilai apakah CNG via GTM relevan bagi lokasi usaha Anda. Tiga pertanyaan kunci — ada tidaknya pipa, kecukupan volume, dan rencana infrastruktur ke depan — sudah cukup untuk menentukan langkah awal sebelum konsultasi dengan penyedia.",
+      "sourcing_note": "Flowchart desain orisinal — tidak memerlukan foto atau aset pihak ketiga. Tim desain membuatnya dari nol berdasarkan tata letak dan warna yang dideskripsikan di atas. Jangan cantumkan logo atau nama merek penyedia CNG mana pun di dalam gambar. Pastikan pertanyaan dan kotak hasil sepenuhnya vendor-neutral dan tidak menyebut nama penyedia spesifik.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

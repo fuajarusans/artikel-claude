@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "C:\\Users\\seo\\Documents\\seo-stp\\monthly_runs\\2026-05\\final\\pakan-ikan-lele-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-05-26T15:16:40+07:00",
+    "word_count":  2555,
+    "paragraph_count":  42,
+    "sentence_count":  135,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.562,
+                        "sentence_burstiness":  1.026,
+                        "top30_vocab_share":  0.316,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "**Ukuran granul** menyesuaikan bukaan mulut: 0,6-1 mm (hatchery), 1-2 mm (pendederan), 2-3 mm (grower), 3-4 mm (finisher).",
+                                      "candidate_score":  34,
+                                      "web_search_query":  "\"**Ukuran granul** menyesuaikan bukaan mulut: 0,6-1 mm (hatchery), 1-2 mm (pendederan), 2-3 mm (grower), 3-4 mm (finisher\""
+                                  },
+                                  {
+                                      "passage":  "Per Mei 2026, harga pakan lele pembesaran berkisar Rp 270.000-Rp 470.000 per sak 30 kg, atau sekitar Rp 9.000-Rp 15.700 per kilogram, tergantung merek dan kelas kualitas.",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"Per Mei 2026, harga pakan lele pembesaran berkisar Rp 270.000-Rp 470.000 per sak 30 kg, atau sekitar Rp 9.000-Rp 15.700 \""
+                                  },
+                                  {
+                                      "passage":  "## Worked Example: Hitung Kebutuhan Pakan 1.000 Ekor Lele Angka teoretis baru hidup kalau dimasukkan ke skenario konkret.",
+                                      "candidate_score":  29,
+                                      "web_search_query":  "\"## Worked Example: Hitung Kebutuhan Pakan 1.000 Ekor Lele Angka teoretis baru hidup kalau dimasukkan ke skenario konkret\""
+                                  },
+                                  {
+                                      "passage":  "Produksi **lele** (*Clarias gariepinus*) di Indonesia menembus **1.157.755 ton pada 2024**, naik dari 1.136.619 ton di 2023 menurut data Kementerian Kelautan dan Perikanan.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"Produksi **lele** (*Clarias gariepinus*) di Indonesia menembus **1.157.755 ton pada 2024**, naik dari 1.136.619 ton di 2\""
+                                  },
+                                  {
+                                      "passage":  "**Kadar protein kasar** sesuai fase: 38-40% untuk benih, 32-35% untuk pendederan, 30-33% untuk grower, dan 26-30% untuk finisher menjelang panen.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"**Kadar protein kasar** sesuai fase: 38-40% untuk benih, 32-35% untuk pendederan, 30-33% untuk grower, dan 26-30% untuk \""
+                                  },
+                                  {
+                                      "passage":  "- **Protein pakan tidak sesuai fase.** Benih dipaksa makan pelet pembesaran karena alasan harga; akibatnya, ADG (*average daily gain*) tertahan di 0,8 g/hari padahal potensinya 1,5-2 g/hari.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"- **Protein pakan tidak sesuai fase.** Benih dipaksa makan pelet pembesaran karena alasan harga; akibatnya, ADG (*averag\""
+                                  },
+                                  {
+                                      "passage":  "STP SPLA 12 berdasarkan listing distributor tercatat di kisaran Rp 420.000-430.000 per sak.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"STP SPLA 12 berdasarkan listing distributor tercatat di kisaran Rp 420.000-430.000 per sak.\""
+                                  },
+                                  {
+                                      "passage":  "## Kombinasi Pakan Komersial dengan Magot BSF dan Fermentasi Substitusi parsial pakan komersial dengan pakan alternatif jadi strategi yang makin populer sejak harga pelet naik 2022-2024.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## Kombinasi Pakan Komersial dengan Magot BSF dan Fermentasi Substitusi parsial pakan komersial dengan pakan alternatif \""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "C:\\Users\\seo\\Documents\\seo-stp\\monthly_runs\\2026-05\\final\\tambak-udang-vaname-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-05-26T15:16:55+07:00",
+    "word_count":  2466,
+    "paragraph_count":  37,
+    "sentence_count":  144,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.513,
+                        "sentence_burstiness":  0.851,
+                        "top30_vocab_share":  0.275,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "SNI 01-7246-2006 menetapkan tolok ukur tambak vaname intensif: *survival rate* (SR) 80–90%, FCR 1,4, ADG 0,2 g/ekor/hari, dan produksi minimal 15.000 kg/ha/siklus ([Jurnal Perikanan Kamasan, Banyuwangi](https://jurnalperikanankamasan.com/index.php/jpk/article/view/72)).",
+                                      "candidate_score":  47,
+                                      "web_search_query":  "\"SNI 01-7246-2006 menetapkan tolok ukur tambak vaname intensif: *survival rate* (SR) 80–90%, FCR 1,4, ADG 0,2 g/ekor/hari\""
+                                  },
+                                  {
+                                      "passage":  "Studi 2023 di Bangkalan, Jawa Timur, mengkonfirmasi keberadaan AHPND di tambak vaname Indonesia via nested PCR ([*Journal of Marine Research*, Undip, Vol 12 No 2, Mei 2023](https://ejournal3.undip.ac.id/index.php/jmr/article/view/35632/0)).",
+                                      "candidate_score":  40,
+                                      "web_search_query":  "\"Studi 2023 di Bangkalan, Jawa Timur, mengkonfirmasi keberadaan AHPND di tambak vaname Indonesia via nested PCR ([*Journa\""
+                                  },
+                                  {
+                                      "passage":  "# Tips Sukses Tambak Udang Vaname Hasil Melimpah: Panduan 12 Langkah Berbasis SNI Mengelola tambak udang vaname yang konsisten panen melimpah bukan soal beruntung.",
+                                      "candidate_score":  37,
+                                      "web_search_query":  "\"# Tips Sukses Tambak Udang Vaname Hasil Melimpah: Panduan 12 Langkah Berbasis SNI Mengelola tambak udang vaname yang kon\""
+                                  },
+                                  {
+                                      "passage":  "**Pengukuran parameter awal.** Cek pH (target 7,5–8,5), salinitas (15–25 ppt optimal, toleransi 5–35 ppt), dan alkalinitas (100–150 ppm) sebelum benur tiba.",
+                                      "candidate_score":  36,
+                                      "web_search_query":  "\"**Pengukuran parameter awal.** Cek pH (target 7,5–8,5), salinitas (15–25 ppt optimal, toleransi 5–35 ppt), dan alkalinit\""
+                                  },
+                                  {
+                                      "passage":  "Indikator siap panen untuk tambak intensif siklus 100–120 hari: - **ABW (Average Body Weight) 15–20 g**: ukuran pasar lokal (50–70 ekor/kg).",
+                                      "candidate_score":  32,
+                                      "web_search_query":  "\"Indikator siap panen untuk tambak intensif siklus 100–120 hari: - **ABW (Average Body Weight) 15–20 g**: ukuran pasar lo\""
+                                  },
+                                  {
+                                      "passage":  "Tambak intensif menggunakan padat tebar 100–300 ekor/m², infrastruktur aerasi penuh, dan manajemen pakan berbasis feeding tray 4–6 kali sehari, dengan target produksi 14–18 ton/ha/siklus.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Tambak intensif menggunakan padat tebar 100–300 ekor/m², infrastruktur aerasi penuh, dan manajemen pakan berbasis feedin\""
+                                  },
+                                  {
+                                      "passage":  "- **ABW 25–30 g**: ukuran ekspor premium (30–40 ekor/kg), umumnya butuh 110–130 hari.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"- **ABW 25–30 g**: ukuran ekspor premium (30–40 ekor/kg), umumnya butuh 110–130 hari.\""
+                                  },
+                                  {
+                                      "passage":  "Dengan siklus 100–120 hari termasuk persiapan 10–14 hari, satu tambak intensif realistis menjalankan 2–3 siklus per tahun.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Dengan siklus 100–120 hari termasuk persiapan 10–14 hari, satu tambak intensif realistis menjalankan 2–3 siklus per tahu\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

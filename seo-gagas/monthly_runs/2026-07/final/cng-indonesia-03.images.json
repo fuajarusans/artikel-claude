@@ -1,0 +1,62 @@
+{
+  "brief_id": "cng-indonesia-03",
+  "article_title_id": "Manfaat CNG untuk Industri & Lingkungan: Efisiensi dan Emisi Lebih Rendah",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-09",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "after-definition-snippet",
+      "concept_from_writer": "Infografik batang vertikal membandingkan emisi CO2 per MMBTU empat bahan bakar — CNG/gas alam 52,91 kg, LPG 62,88 kg, solar/HSD 74,14 kg, bensin 76,11 kg. Sumber data 'EIA, 2024' tercantum kecil di bawah. Gaya korporat bersih, palet hijau-biru untuk gas dan abu-merah untuk bahan bakar cair, teks Bahasa Indonesia, format horizontal untuk mudah di-screenshot.",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Data kuantitatif dengan empat titik pembanding langsung — grafik batang adalah cara paling efektif memperlihatkan selisih 29% (CNG vs solar) dan 16% (CNG vs LPG) sekaligus dapat di-screenshot untuk AI Overview.",
+      "visual_direction": "Grafik batang vertikal dengan empat kolom berdiri sejajar, lebar sama, diurutkan dari nilai terendah (kiri) ke tertinggi (kanan): CNG/Gas Alam (52,91 kg), LPG/Propana (62,88 kg), Solar/HSD (74,14 kg), Bensin (76,11 kg). Sumbu Y berlabel 'Emisi CO2 per MMBTU (kg)' dengan skala 0–90. Setiap batang menampilkan angka tepat di ujung atas batang dalam font tebal. Dua batang kiri (CNG dan LPG) berwarna hijau-biru gradien (#1B6CA8 ke #2EAA6E) untuk mencerminkan gas bumi; dua batang kanan (Solar/HSD dan Bensin) berwarna abu gelap (#5A5A5A) dengan aksen merah-jingga (#D0431A) untuk bahan bakar cair. Latar belakang putih bersih dengan grid horizontal tipis abu muda. Di atas grafik terdapat judul besar: 'Perbandingan Emisi CO2 Bahan Bakar per Satuan Energi'. Di bawah grafik terdapat anotasi anak panah dari batang CNG ke batang Solar bertuliskan '~29% lebih rendah' dan dari batang CNG ke batang LPG bertuliskan '~16% lebih rendah'. Sudut kanan bawah memuat catatan sumber kecil: 'Sumber: U.S. Energy Information Administration (EIA), September 2024.' Format rasio 16:9 atau landscape 1200x675 px agar mudah di-screenshot dan dimuat di artikel. Gaya keseluruhan: korporat B2B bersih, tanpa ornamen dekoratif.",
+      "in_image_text_id": [
+        "Perbandingan Emisi CO2 Bahan Bakar per Satuan Energi",
+        "Emisi CO2 per MMBTU (kg)",
+        "CNG / Gas Alam",
+        "LPG / Propana",
+        "Solar / HSD",
+        "Bensin",
+        "52,91 kg",
+        "62,88 kg",
+        "74,14 kg",
+        "76,11 kg",
+        "~29% lebih rendah",
+        "~16% lebih rendah",
+        "Sumber: U.S. Energy Information Administration (EIA), September 2024"
+      ],
+      "alt_id": "Grafik batang emisi CO2 per MMBTU: CNG 52,91 kg, LPG 62,88 kg, solar 74,14 kg, bensin 76,11 kg — sumber EIA 2024",
+      "caption_id": "Perbandingan emisi CO2 empat bahan bakar per satuan energi yang setara (MMBTU). Berdasarkan data EIA (September 2024), pembakaran CNG/gas alam menghasilkan emisi CO2 sekitar 29% lebih rendah dari solar dan 16% lebih rendah dari LPG.",
+      "sourcing_note": "Aset baru — tidak membutuhkan foto fasilitas PGN Gagas. Desainer membuat grafik batang dari data EIA yang telah diverifikasi. Angka harus persis sesuai sumber: EIA, 'Carbon Dioxide Emissions Coefficients by Fuel,' diperbarui September 2024 (https://www.eia.gov/environment/emissions/co2_vol_mass.php). Jangan ubah angka atau sumber tanpa konfirmasi editor.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "after-dual-benefit-table",
+      "concept_from_writer": "Diagram alur 'manfaat ganda' — satu kotak tengah bertuliskan 'Beralih ke CNG' dengan dua panah keluar. Panah kiri menuju kolom 'Manfaat Bisnis' (biaya bahan bakar turun, perawatan lebih jarang, nilai kalori stabil). Panah kanan menuju kolom 'Manfaat Lingkungan' (CO2 lebih rendah, NOx lebih rendah, partikulat lebih rendah). Gaya vektor bersih B2B, palet biru-hijau, ikon industri bukan rumah tangga, teks Bahasa Indonesia.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Diagram alur cabang dua arah paling tepat memvisualkan argumen inti artikel: satu keputusan (beralih ke CNG) menghasilkan dua kelompok manfaat yang berbeda tapi searah — lebih jelas dari tabel dan lebih ringkas dari infografik multi-panel.",
+      "visual_direction": "Diagram alur horizontal tiga kolom di atas latar putih. Kolom tengah: kotak persegi panjang berisi teks besar 'Beralih ke CNG' dengan ikon silinder CNG/GTM berwarna biru tua (#1B6CA8), sudut membulat. Dari kotak tengah, dua panah tebal bercabang ke kiri dan ke kanan. Panah kiri menuju panel 'Manfaat Bisnis' (latar hijau tua #1A7A4A, ikon industri/pabrik putih di pojok atas kiri) yang memuat daftar poin dengan ikon centang: (1) 'Biaya bahan bakar lebih rendah (30-50% vs solar)', (2) 'Perawatan boiler & oven lebih jarang', (3) 'Nilai kalori stabil, suhu proses konsisten', (4) 'Tidak ada susut volume penguapan'. Panah kanan menuju panel 'Manfaat Lingkungan' (latar biru tua #1B6CA8, ikon daun/emisi putih di pojok atas kanan) yang memuat: (1) 'Emisi CO2 ~29% lebih rendah dari solar (EIA, 2024)', (2) 'NOx lebih rendah', (3) 'Partikulat & jelaga nyaris nol'. Tanda panah tebal berwarna abu gelap #3D3D3D. Seluruh teks dalam Bahasa Indonesia, font sans-serif modern (misalnya Inter atau Poppins). Di bawah diagram, satu baris catatan kecil abu: 'Manfaat terealisasi optimal saat volume konsumsi, lokasi, dan peralatan sesuai profil.' Rasio gambar 16:9 atau 4:3, lebar minimum 1200 px. Gaya: korporat B2B, bersih, vektor, tidak ada foto atau tekstur. Ikon industri (pabrik, boiler, asap berkurang) bukan ikon rumah tangga.",
+      "in_image_text_id": [
+        "Beralih ke CNG",
+        "Manfaat Bisnis",
+        "Biaya bahan bakar lebih rendah (30-50% vs solar)",
+        "Perawatan boiler & oven lebih jarang",
+        "Nilai kalori stabil, suhu proses konsisten",
+        "Tidak ada susut volume penguapan",
+        "Manfaat Lingkungan",
+        "Emisi CO2 ~29% lebih rendah dari solar (EIA, 2024)",
+        "NOx lebih rendah",
+        "Partikulat & jelaga nyaris nol",
+        "Manfaat terealisasi optimal saat volume konsumsi, lokasi, dan peralatan sesuai profil"
+      ],
+      "alt_id": "Diagram alur manfaat ganda CNG: manfaat bisnis (biaya & perawatan hemat) dan manfaat lingkungan (emisi CO2 lebih rendah)",
+      "caption_id": "Satu keputusan beralih ke CNG menghasilkan dua kelompok manfaat yang saling menguatkan: efisiensi operasional di sisi bisnis, dan emisi CO2 sekitar 29% lebih rendah dari solar di sisi lingkungan (EIA, 2024). Keduanya berjalan searah.",
+      "sourcing_note": "Aset baru — tidak membutuhkan foto fasilitas atau branding PGN Gagas. Desainer membuat diagram vektor berdasarkan brief ini. Angka '30-50% vs solar' dan '~29% lebih rendah dari solar (EIA, 2024)' harus persis sesuai artikel; jangan mengubah angka tanpa konfirmasi editor.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

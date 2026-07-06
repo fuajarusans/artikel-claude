@@ -1,0 +1,76 @@
+{
+  "brief_id": "business-intelligence-01",
+  "article_title_id": "Business Intelligence untuk CFO: Dari Laporan Bulanan ke Keputusan Real-Time",
+  "language": "id",
+  "image_count": 3,
+  "planned_at": "2026-06-08",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Ilustrasi konseptual dua kondisi CFO berdampingan — kiri seorang eksekutif membaca laporan kertas bertanggal \"Mei\" di kalender yang sudah menunjuk Juni (nuansa abu, ikon jam pasir); kanan eksekutif yang sama melihat dashboard KPI keuangan real-time di layar (nuansa biru-hijau). Gaya korporat bersih, teks Bahasa Indonesia \"Laporan Bulanan\" vs \"Keputusan Real-Time\".",
+      "suggested_asset_type": "illustration",
+      "asset_type_rationale": "Konsep perbandingan dua kondisi (hindsight vs. real-time) bersifat abstrak dan tidak dapat difoto; ilustrasi vektor korporat memungkinkan kontrol penuh atas komposisi, ikon, dan palet warna Soltius.",
+      "visual_direction": "Kanvas landscape (rasio 16:9), dibagi dua panel simetris dengan garis pembatas tipis berwarna abu muda di tengah. PANEL KIRI — latar abu-putih pucat: siluet eksekutif (setelan formal, gender-netral) duduk di meja, memegang dokumen kertas berlabel 'LAPORAN BULANAN' di sudut kanan atas dokumen; di belakangnya ikon kalender besar menampilkan bulan 'MEI'; di sudut kiri bawah panel ikon jam pasir berwarna abu gelap. Label teks di bawah panel: 'Laporan Bulanan — Data 4 Minggu Lalu'. PANEL KANAN — latar biru muda (#E8F4FD) dengan gradasi ringan: siluet eksekutif yang sama menghadap layar monitor besar yang menampilkan 3–4 widget KPI sederhana (grafik garis naik berwarna biru tua, angka persentase, indikator hijau); di sudut kanan atas ikon sinyal wi-fi atau kilat sebagai simbol real-time. Label teks di bawah panel: 'Keputusan Real-Time — Data Hari Ini'. Seluruh teks dalam Bahasa Indonesia. Palet utama: biru korporat (#1B4F8A), putih, abu muda (#F0F0F0), aksen hijau (#2ECC71). Gaya: flat design modern, ilustrasi vektor, tanpa foto.",
+      "in_image_text_id": [
+        "Laporan Bulanan",
+        "Data 4 Minggu Lalu",
+        "Keputusan Real-Time",
+        "Data Hari Ini"
+      ],
+      "alt_id": "Perbandingan dua kondisi CFO: membaca laporan bulanan manual versus memantau KPI keuangan real-time di dashboard Business Intelligence.",
+      "caption_id": "Pola pelaporan retrospektif masih mendominasi fungsi keuangan — survei McKinsey (Juli 2024) menemukan 41% CFO baru mengotomasi seperempat proses atau kurang. Business Intelligence memungkinkan pergeseran dari laporan bulanan ke pemantauan KPI hari ini.",
+      "sourcing_note": "Ilustrasi vektor korporat yang dibuat oleh tim desain — tidak perlu screenshot SAP. Cari referensi gaya: flat design enterprise, 'CFO dashboard vs report comparison illustration, corporate blue'.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body — setelah paragraf 'Di sinilah koneksi data berperan. SAP Analytics Cloud mendukung live connectivity ke SAP S/4HANA...'",
+      "concept_from_writer": "Diagram alur data horizontal empat node dari kiri ke kanan — \"SAP S/4HANA (sumber transaksi keuangan)\" → \"SAP Datasphere (single source of truth)\" → \"SAP Analytics Cloud (dashboard + planning)\" → \"Excel add-in (tim finance)\". Tiap node sebuah kotak dengan ikon, garis penghubung beranak panah satu arah. Warna biru korporat dengan aksen hijau pada node terakhir. Teks Bahasa Indonesia.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Arsitektur alur data empat komponen (S/4HANA → Datasphere → SAC → Excel) paling jelas dikomunikasikan sebagai diagram alur; diagram membantu CIO/CFO memahami ketergantungan antarkomponen dalam satu pandangan.",
+      "visual_direction": "Diagram alur horizontal (landscape, rasio 16:9 atau 3:1 lebar). Empat kotak/node berurutan dari kiri ke kanan, dihubungkan oleh panah satu arah berwarna biru (#1B4F8A) dengan sedikit efek tebal. Jarak antarkomponen merata. Setiap node berbentuk persegi panjang dengan sudut bulat (border-radius 8px), lebar identik, tinggi identik. Konten tiap node dari kiri ke kanan: NODE 1 — ikon database/silinder biru tua, label atas 'SAP S/4HANA', label bawah lebih kecil 'Sumber Transaksi Keuangan'; NODE 2 — ikon penyimpanan data/cloud berwarna biru sedang, label atas 'SAP Datasphere', label bawah 'Single Source of Truth'; NODE 3 — ikon grafik/dashboard berwarna biru terang, label atas 'SAP Analytics Cloud', label bawah 'Dashboard + Planning (FP&A)'; NODE 4 — ikon spreadsheet/Excel berwarna hijau (#2ECC71), label atas 'SAP Add-In Excel', label bawah 'Tim Finance (Familiar)'. Di bawah setiap panah penghubung, teks italic kecil: antara node 1→2: 'Live Connectivity (CDS Views)', antara node 2→3: 'Data Terkelola', antara node 3→4: 'Add-In Microsoft Excel'. Latar belakang putih bersih, judul diagram di atas (opsional): 'Arsitektur Data BI Keuangan'. Semua teks Bahasa Indonesia.",
+      "in_image_text_id": [
+        "SAP S/4HANA",
+        "Sumber Transaksi Keuangan",
+        "SAP Datasphere",
+        "Single Source of Truth",
+        "SAP Analytics Cloud",
+        "Dashboard + Planning (FP&A)",
+        "SAP Add-In Excel",
+        "Tim Finance (Familiar)",
+        "Live Connectivity (CDS Views)",
+        "Data Terkelola",
+        "Arsitektur Data BI Keuangan"
+      ],
+      "alt_id": "Diagram alur arsitektur data BI keuangan: SAP S/4HANA ke SAP Datasphere ke SAP Analytics Cloud ke add-in Excel untuk tim finance.",
+      "caption_id": "Arsitektur data BI keuangan yang umum: transaksi dari SAP S/4HANA mengalir melalui SAP Datasphere sebagai sumber kebenaran tunggal, kemudian ke SAP Analytics Cloud untuk dashboard dan perencanaan, dan terakhir ke antarmuka Excel yang sudah dikenal tim finance via add-in.",
+      "sourcing_note": "Diagram yang dibuat tim desain berdasarkan spesifikasi di atas — tidak memerlukan screenshot SAP. Komponen yang disebutkan (S/4HANA, Datasphere, SAC, add-in Excel) adalah nama produk resmi SAP; gunakan nama-nama tersebut persis seperti tertulis. Jangan mereproduksi antarmuka atau ikon resmi SAP tanpa izin — gunakan ikon generik.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_03",
+      "position": "body — setelah paragraf 'Beberapa kondisi konkret yang menandakan Anda sebaiknya membereskan fondasi lebih dulu...'",
+      "concept_from_writer": "Infografik \"Periksa Fondasi Dulu\" — sebuah piramida tiga tingkat. Dasar: \"Master Data Bersih\"; tengah: \"Single Source of Truth (mis. SAP Datasphere)\"; puncak: \"Dashboard Real-Time (SAP Analytics Cloud)\". Di samping puncak, label peringatan kecil \"Tanpa fondasi = salah lebih cepat\". Gaya korporat biru, aksen merah pada label peringatan, teks Bahasa Indonesia.",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Hierarki tiga-lapisan (fondasi → tengah → puncak) paling jelas disampaikan sebagai piramida berlabel; infografik menguatkan argumen editorial 'jangan loncat ke dashboard dulu' yang menjadi pembeda artikel ini dari kompetitor.",
+      "visual_direction": "Infografik portrait atau square (rasio 1:1 atau 3:4). Bentuk piramida tiga tingkat berdiri di tengah kanvas putih dengan margin yang cukup. Piramida dibagi menjadi tiga lapisan horizontal dari bawah ke atas, proporsi menyempit ke atas. LAPISAN BAWAH (paling lebar, sekitar 50% tinggi piramida) — warna biru tua (#1B4F8A), teks putih bold: 'FONDASI 1: Master Data Bersih', di bawah teks utama teks kecil italic: 'Kode produk konsisten, vendor tidak duplikat, cost center tepat'. LAPISAN TENGAH (sekitar 30% tinggi piramida) — warna biru sedang (#2E6DB4), teks putih bold: 'FONDASI 2: Single Source of Truth', teks kecil italic: 'mis. SAP Datasphere — satu angka, satu kebenaran'. LAPISAN ATAS/PUNCAK (sekitar 20% tinggi piramida) — warna biru muda (#5B9BD5), teks putih bold: 'DASHBOARD REAL-TIME', teks kecil italic: 'mis. SAP Analytics Cloud'. Di sisi kanan puncak piramida, dua elemen: (1) panah kecil merah mengarah ke puncak dan (2) label kotak merah (#E74C3C) dengan teks putih: 'Tanpa fondasi = salah lebih cepat'. Di bawah piramida, teks kecil hitam bertengah: 'Urutan ini tidak bisa dibalik.' Judul infografik di atas piramida, berwarna biru tua: 'Periksa Fondasi Sebelum Dashboard Real-Time'. Semua teks Bahasa Indonesia. Palet: biru korporat tiga nuansa, merah peringatan, putih.",
+      "in_image_text_id": [
+        "Periksa Fondasi Sebelum Dashboard Real-Time",
+        "FONDASI 1: Master Data Bersih",
+        "Kode produk konsisten, vendor tidak duplikat, cost center tepat",
+        "FONDASI 2: Single Source of Truth",
+        "mis. SAP Datasphere — satu angka, satu kebenaran",
+        "DASHBOARD REAL-TIME",
+        "mis. SAP Analytics Cloud",
+        "Tanpa fondasi = salah lebih cepat",
+        "Urutan ini tidak bisa dibalik."
+      ],
+      "alt_id": "Infografik piramida tiga fondasi BI keuangan: master data bersih, single source of truth, lalu dashboard real-time SAP Analytics Cloud.",
+      "caption_id": "Gartner (Februari 2024) memprediksi 80% inisiatif tata kelola data gagal pada 2027 — argumen kuat bahwa fondasi harus dibangun sebelum dashboard. CFO yang melewati lapisan bawah piramida ini hanya akan salah lebih cepat.",
+      "sourcing_note": "Infografik yang dibuat tim desain berdasarkan spesifikasi di atas — tidak memerlukan screenshot SAP. Nama produk 'SAP Datasphere' dan 'SAP Analytics Cloud' disebutkan sebagai contoh, bukan instruksi untuk mereproduksi antarmuka SAP.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

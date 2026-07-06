@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-08\\final\\business-intelligence-05.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-08T18:25:23+07:00",
+    "word_count":  2165,
+    "paragraph_count":  23,
+    "sentence_count":  105,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.327,
+                        "sentence_burstiness":  1.017,
+                        "top30_vocab_share":  0.296,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.327 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Menurut survei Gartner terhadap 782 pemimpin Infrastructure \u0026 Operations (November–Desember 2025), [hanya 28% proyek AI yang berhasil penuh dan memenuhi ekspektasi ROI](https://www.gartner.com/en/newsroom/press-releases/2026-04-07-gartner-says-artificial-intelligence-projects-in-infrastructure-and-operations-stall-ahead-of-meaningful-roi-returns), sementara 20% gagal total.",
+                                      "candidate_score":  39,
+                                      "web_search_query":  "\"Menurut survei Gartner terhadap 782 pemimpin Infrastructure \u0026 Operations (November–Desember 2025), [hanya 28% proyek AI \""
+                                  },
+                                  {
+                                      "passage":  "ROI (%) = ((Total Manfaat − Total Biaya) / Total Biaya) × 100, dengan *Payback Period* (tahun) = Total Biaya ÷ Manfaat Tahunan.",
+                                      "candidate_score":  33,
+                                      "web_search_query":  "\"ROI (%) = ((Total Manfaat − Total Biaya) / Total Biaya) × 100, dengan *Payback Period* (tahun) = Total Biaya ÷ Manfaat T\""
+                                  },
+                                  {
+                                      "passage":  "ROI BI dihitung dengan rumus standar: ROI (%) = ((Total Manfaat − Total Biaya) / Total Biaya) × 100.",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"ROI BI dihitung dengan rumus standar: ROI (%) = ((Total Manfaat − Total Biaya) / Total Biaya) × 100.\""
+                                  },
+                                  {
+                                      "passage":  "Data prasyarat paling keras datang dari Gartner: hingga 2026, organisasi diprediksi [menghentikan 60% proyek AI yang tidak didukung data siap-AI](https://www.gartner.com/en/newsroom/press-releases/2025-02-26-lack-of-ai-ready-data-puts-ai-projects-at-risk) (survei 248 pemimpin manajemen data, Q3 2024).",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Data prasyarat paling keras datang dari Gartner: hingga 2026, organisasi diprediksi [menghentikan 60% proyek AI yang tid\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai rujukan rentang yang lebih tinggi, studi kasus individual dari lembaga seperti Nucleus Research mencatat ROI 218%–645% dengan payback 1,9–5,5 bulan pada *deployment* analytics tertentu.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Sebagai rujukan rentang yang lebih tinggi, studi kasus individual dari lembaga seperti Nucleus Research mencatat ROI 218\""
+                                  },
+                                  {
+                                      "passage":  "Survei industri yang diagregasi melaporkan rata-rata sekitar 127% dalam 3 tahun, sementara studi kasus individual Nucleus Research mencatat rentang 218%–645% pada deployment spesifik.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Survei industri yang diagregasi melaporkan rata-rata sekitar 127% dalam 3 tahun, sementara studi kasus individual Nucleu\""
+                                  },
+                                  {
+                                      "passage":  "ROI Business Intelligence sangat bervariasi tergantung kematangan data, ruang lingkup, dan tingkat adopsi pengguna.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"ROI Business Intelligence sangat bervariasi tergantung kematangan data, ruang lingkup, dan tingkat adopsi pengguna.\""
+                                  },
+                                  {
+                                      "passage":  "**Estimasi total biaya tiga tahun (TCO).** Gunakan keenam komponen di tabel sebelumnya, termasuk tenaga kerja dan AMS, bukan hanya lisensi tahun pertama.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"**Estimasi total biaya tiga tahun (TCO).** Gunakan keenam komponen di tabel sebelumnya, termasuk tenaga kerja dan AMS, b\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

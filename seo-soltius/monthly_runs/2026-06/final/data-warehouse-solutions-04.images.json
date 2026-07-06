@@ -1,0 +1,55 @@
+{
+  "brief_id": "data-warehouse-solutions-04",
+  "article_title_id": "SAP Datasphere vs SAP BW/4HANA: Panduan Memilih Data Warehouse Solution yang Tepat di 2026",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-02",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Infografik dua kolom berdampingan — kiri \"SAP Datasphere\" ikon cloud dengan koneksi multi-sumber SAP dan non-SAP, label \"Cloud-Native · Data Federation\"; kanan \"SAP BW/4HANA\" ikon server HANA dengan lapisan transformasi, label \"Enterprise Mature · SAP-Centric\". Gaya korporat biru-putih-abu, teks Bahasa Indonesia",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Infografik dua kolom menyampaikan perbandingan berdampingan secara visual dan ringkas — jauh lebih efektif dari foto stok untuk keputusan teknis B2B.",
+      "visual_direction": "Kanvas horizontal (rasio 16:9 atau 4:3), latar putih bersih. Dibagi dua kolom oleh garis tengah vertikal berwarna abu-abu terang (#E0E0E0). Kolom kiri — header berwarna biru gelap Soltius (#1A3A5C) dengan teks putih bertulisan 'SAP Datasphere'. Di bawah header: ikon awan berwarna biru cerah (#0070C0) di tengah, dikelilingi empat ikon sumber data kecil (ikon cloud, database Salesforce, ikon PostgreSQL, ikon S3) yang dihubungkan oleh garis putus-putus berwarna biru muda — menggambarkan federasi data multi-sumber. Di bawahnya, dua label badge berbentuk pill berwarna biru cerah dengan teks putih: 'Cloud-Native' dan 'Data Federation'. Kolom kanan — header berwarna abu-abu biru gelap (#2E4057) dengan teks putih bertulisan 'SAP BW/4HANA'. Di bawah header: ikon server/HANA berbentuk silinder berwarna abu-abu biru dengan lapisan tumpuk (menggambarkan HANA in-memory stack) — tepat di tengah. Di sekeliling ikon server terdapat tiga lapisan teks kecil: 'Transformasi BW', 'HANA Calculation Views', 'Advanced DSO'. Di bawahnya, dua label badge berbentuk pill berwarna abu-abu biru dengan teks putih: 'Enterprise Mature' dan 'SAP-Centric'. Footer bersama di bawah kedua kolom: teks abu-abu kecil 'Keduanya dapat diintegrasikan dalam SAP Business Data Cloud'. Seluruh teks dalam Bahasa Indonesia. Tidak ada fotografi.",
+      "in_image_text_id": [
+        "SAP Datasphere",
+        "Cloud-Native",
+        "Data Federation",
+        "SAP BW/4HANA",
+        "Enterprise Mature",
+        "SAP-Centric",
+        "Keduanya dapat diintegrasikan dalam SAP Business Data Cloud"
+      ],
+      "alt_id": "Infografik perbandingan SAP Datasphere cloud-native data federation versus SAP BW/4HANA enterprise in-memory data warehouse",
+      "caption_id": "SAP Datasphere dan SAP BW/4HANA memiliki arsitektur dan profil penggunaan yang berbeda. Keduanya dapat diintegrasikan dalam SAP Business Data Cloud yang diluncurkan Februari 2025.",
+      "sourcing_note": "Infografik orisinal — buat dari nol oleh tim desain. Tidak ada screenshot SAP yang diperlukan. Ikon sumber data dapat menggunakan ikon generik atau ikon resmi dari brand kit masing-masing vendor (Salesforce, AWS S3, PostgreSQL) jika tersedia lisensi.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body",
+      "concept_from_writer": "Decision tree flowchart sederhana — pertanyaan \"Apakah data Anda multi-sumber (SAP + non-SAP)?\" bercabang ke \"Ya → SAP Datasphere\" dan \"Tidak → SAP BW/4HANA\", dengan cabang ketiga \"Tidak ingin memilih satu → SAP Business Data Cloud\". Simpul bernomor, gaya korporat biru-hijau-abu, teks Bahasa Indonesia",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Flowchart decision tree mewakili logika lima-pertanyaan dalam artikel secara langsung — pembaca B2B dapat mengikuti cabang sesuai kondisi perusahaan mereka dan mendapatkan rekomendasi secara visual.",
+      "visual_direction": "Diagram flowchart vertikal (rasio 3:4 atau A4 portrait), latar putih. Simpul berbentuk kotak membulat (rounded rectangle) dengan garis pinggir biru gelap (#1A3A5C). Alur dari atas ke bawah. Simpul pertama di paling atas: kotak lebar berwarna biru gelap (#1A3A5C) dengan teks putih bold 'Apakah data Anda berasal dari banyak sistem berbeda (SAP + non-SAP)?' — ini adalah pertanyaan utama pembuka. Dua cabang keluar dari simpul ini dengan label panah: 'Ya' ke kiri-bawah dan 'Tidak' ke kanan-bawah. Cabang 'Ya' (kiri): kotak kedua bertanya 'Apakah proyek Anda baru (greenfield) atau tanpa warisan BW yang besar?' dengan dua cabang lagi — 'Ya' menuju simpul hasil berwarna biru cerah (#0070C0) bertulisan 'SAP Datasphere', 'Tidak' menuju simpul percabangan ketiga. Cabang 'Tidak' (kanan): kotak bertanya 'Apakah investasi dan model data BW Anda sudah sangat besar?' — 'Ya' menuju simpul hasil berwarna abu-abu biru (#2E4057) bertulisan 'SAP BW/4HANA'. Simpul konvergensi di tengah-bawah: kotak berlatar abu-abu terang bertulisan 'Tidak ingin memilih satu?' dengan anak panah menuju simpul hasil berwarna hijau tua (#1E6B4A) bertulisan 'SAP Business Data Cloud'. Semua simpul bernomor (1, 2, 3, 4) di sudut kiri atas. Simpul hasil dilengkapi ikon kecil: ikon awan untuk Datasphere, ikon server untuk BW/4HANA, ikon payung/lingkaran untuk BDC. Footer: teks kecil abu-abu 'Framework berdasarkan kondisi data, tim, dan investasi BW perusahaan Anda'. Seluruh teks dalam Bahasa Indonesia.",
+      "in_image_text_id": [
+        "Apakah data Anda berasal dari banyak sistem berbeda (SAP + non-SAP)?",
+        "Ya",
+        "Tidak",
+        "Apakah proyek Anda baru (greenfield) atau tanpa warisan BW yang besar?",
+        "Apakah investasi dan model data BW Anda sudah sangat besar?",
+        "SAP Datasphere",
+        "SAP BW/4HANA",
+        "Tidak ingin memilih satu?",
+        "SAP Business Data Cloud",
+        "Framework berdasarkan kondisi data, tim, dan investasi BW perusahaan Anda"
+      ],
+      "alt_id": "Decision tree pemilihan data warehouse SAP: Datasphere, BW/4HANA, atau Business Data Cloud sesuai kondisi perusahaan",
+      "caption_id": "Decision tree ini menyederhanakan lima faktor utama pemilihan platform data warehouse SAP. Untuk evaluasi mendalam sesuai kondisi spesifik perusahaan Anda, konsultasikan dengan mitra implementasi SAP.",
+      "sourcing_note": "Diagram orisinal — buat dari nol oleh tim desain menggunakan tool diagram (Figma, Lucidchart, atau setara). Tidak ada screenshot SAP yang diperlukan. Pastikan alur cabang konsisten dengan teks artikel (lima pertanyaan kunci di H2 ketiga).",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

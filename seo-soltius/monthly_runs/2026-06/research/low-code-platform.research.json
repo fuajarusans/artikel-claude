@@ -1,0 +1,142 @@
+{
+  "keyword": "Low-Code Platform",
+  "keyword_slug": "low-code-platform",
+  "month": "2026-06",
+  "captured_at": "2026-06-02",
+  "landing_page": "https://www.soltius.co.id/id/blog/low-code-and-no-code-platforms",
+  "landing_page_summary": "Soltius hub page covering low-code vs no-code definitions, feature comparisons (drag-and-drop, pre-built components), target user differences between pro-dev and non-technical teams, driving factors, and integration with enterprise systems — does NOT mention SAP Build specifically or discuss governance, security, ROI, or industry use cases.",
+  "data_sources_used": ["seo_report_apr2026.md", "live_serp", "websearch"],
+  "ahrefs_available": false,
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Rapidly growing — Gartner projects low-code market to reach $44.5B by 2026 (CAGR 19%). 75% of new enterprise apps built on low-code by 2026 (up from <25% in 2020). Indonesian sources confirm active enterprise adoption in 2025-2026.",
+    "apr2026_rank": 6
+  },
+  "serp": {
+    "top_10": [
+      {
+        "url": "https://www.zoho.com/id/creator/application-development/low-code.html",
+        "title": "Apa itu pengembangan aplikasi low-code? | Zoho",
+        "angle_summary": "Vendor definitional explainer — benefits of low-code for enterprise app development"
+      },
+      {
+        "url": "https://www.soltius.co.id/id/blog/low-code-and-no-code-platforms",
+        "title": "Low-Code Platforms: Perbandingan No-Code, Manfaat, dan Integrasinya dalam Sistem Perusahaan",
+        "angle_summary": "Soltius hub page — low-code vs no-code comparison, features, benefits, integration"
+      },
+      {
+        "url": "https://idcloudcommunity.org/wajib-tahu-low-code-development-rahasia-pengembangan-aplikasi-tanpa-coding/",
+        "title": "Wajib Tahu! Low Code Development: Rahasia Pengembangan Aplikasi Tanpa Coding",
+        "angle_summary": "Definitional overview targeting Indonesian tech community"
+      },
+      {
+        "url": "https://www.revou.co/kosakata/low-code",
+        "title": "Apa itu Low Code? Arti, Fungsi, Contoh, FAQs | RevoU",
+        "angle_summary": "Educational glossary + FAQs on low-code for Indonesian learners/professionals"
+      },
+      {
+        "url": "https://kelas.work/blogs/daftar-platform-low-code-yang-digunakan-untuk-app-development",
+        "title": "9 Platform Low Code untuk Mengembangkan Aplikasi Lebih Mudah",
+        "angle_summary": "Listicle of top low-code platforms — generic consumer/developer angle, not enterprise SAP-specific"
+      },
+      {
+        "url": "https://sis.binus.ac.id/2024/10/17/mengenal-platform-low-code-dan-beserta-manfaatnya-bagi-pengembang/",
+        "title": "Mengenal Platform Low Code dan Beserta Manfaatnya bagi Pengembang – Binus SIS",
+        "angle_summary": "Academic/educational overview targeting developers and students"
+      },
+      {
+        "url": "https://codingstudio.id/blog/rekomendasi-low-code-platform/",
+        "title": "5 Rekomendasi Low Code Platform Sebagai Alternatif App Builder",
+        "angle_summary": "Consumer-level platform recommendations — Bubble, Webflow, OutSystems, etc."
+      },
+      {
+        "url": "https://mekari.com/blog/low-code-no-code-platform/",
+        "title": "Low Code No Code Platform: Definisi, Manfaat, Penggunaan – Mekari",
+        "angle_summary": "Vendor (Mekari) definitional guide promoting their own low-code product"
+      },
+      {
+        "url": "https://www.neuronworks.co.id/en/low-code-no-code-solusi-cepat-pengembangan-aplikasi/",
+        "title": "Low-Code No-Code: Solusi Cepat Pengembangan Aplikasi – Neuronworks",
+        "angle_summary": "IT company definitional guide"
+      },
+      {
+        "url": "https://sis.binus.ac.id/2025/04/25/bagaimana-low-code-dan-no-code-mengubah-pengembangan-sistem-informasi/",
+        "title": "Bagaimana Low-Code dan No-Code Mengubah Pengembangan Sistem Informasi – Binus SIS",
+        "angle_summary": "Academic angle on IS transformation via LCNC"
+      }
+    ],
+    "serp_features": ["paa", "ai_overview_likely"],
+    "ai_overview_entities": [
+      "Low-Code Platform",
+      "SAP Build",
+      "SAP BTP (Business Technology Platform)",
+      "citizen developer",
+      "no-code",
+      "Gartner",
+      "shadow IT",
+      "digital transformation"
+    ]
+  },
+  "paa": [
+    "Apa itu low-code platform dan bagaimana cara kerjanya?",
+    "Apa perbedaan low-code dan no-code platform?",
+    "Kapan perusahaan sebaiknya menggunakan low-code platform?",
+    "Apakah low-code platform aman untuk data perusahaan?",
+    "Apa saja contoh low-code platform untuk enterprise?",
+    "Berapa biaya implementasi low-code platform?",
+    "Apa risiko vendor lock-in pada low-code platform?",
+    "Bagaimana low-code platform terhubung dengan SAP?",
+    "Apa itu citizen developer dalam konteks low-code?",
+    "Bagaimana cara menghindari shadow IT saat menggunakan low-code?"
+  ],
+  "gsc_style_queries_from_report": [
+    "low-code platform — rank #6 Apr 2026 (volatile: #9, #4, #11, #6); low direct traffic to hub page (2 views Apr)",
+    "No specific GSC query rows for this keyword in the Apr report — Ahrefs not connected"
+  ],
+  "history_snapshot": {
+    "existing_articles_for_keyword": [],
+    "uncovered_angles": [
+      "definitional — apa itu low-code platform untuk enterprise",
+      "comparison — low-code vs no-code vs pro-code, kapan pakai masing-masing",
+      "SAP-specific — SAP Build (Apps + Process Automation + Work Zone) di atas BTP",
+      "honest/risk — keamanan data, shadow IT, vendor lock-in, kapan BELUM perlu low-code",
+      "how-to — citizen developer, ROI, cara memulai program low-code di perusahaan",
+      "industry use case — low-code untuk manufaktur, supply chain, finance automation",
+      "clean core tie-in — low-code sebagai cara extend SAP tanpa merusak core",
+      "governance framework — model tata kelola citizen development di enterprise"
+    ]
+  },
+  "key_facts_for_briefs": {
+    "market": {
+      "gartner_market_2026": "$44.5 billion low-code market by 2026 (CAGR 19%)",
+      "gartner_adoption": "75% of new enterprise apps built using low-code by 2026 (up from <25% in 2020)",
+      "gartner_user_base": "80% of low-code users will be non-IT (citizen developers) by 2026",
+      "citizen_ratio": "4 citizen developers for every 1 professional developer by 2026 (Gartner projection)",
+      "sap_build_roi": "SAP Build: 3x faster development + 59% less development effort vs custom code (GigaOm, March 2025)"
+    },
+    "risks": {
+      "shadow_it": "30–40% of IT spend in large enterprises flows through shadow IT channels",
+      "governance": "Only 12% of IT departments can keep up with new technology requests — creates backlog that drives shadow IT",
+      "low_code_market_2025": "Low-code market valued at $37.39B in 2025; projected $48.91B in 2026"
+    },
+    "sap_build": {
+      "components": "SAP Build Apps, SAP Build Process Automation, SAP Build Work Zone",
+      "platform": "Runs on SAP BTP (Business Technology Platform)",
+      "clean_core_tie": "SAP Build is the Level A clean-core extensibility tool — side-by-side extensions on BTP, ABAP Cloud on-stack; keeps S/4HANA core upgrade-safe",
+      "joule_studio": "Joule Studio 2.0 (rolling out June 2026) — low-code environment for business analysts/citizen developers"
+    },
+    "indonesian_context": {
+      "existing_players": "Local low-code: Mekari Officeless Studio; global on SERP: Zoho Creator, OutSystems, Microsoft Power Platform",
+      "soltius_angle": "SAP Build on BTP differentiator — integrates natively with SAP S/4HANA, maintains clean core, enterprise-grade governance"
+    }
+  },
+  "competitor_serp_gaps": [
+    "No Indonesian article covering SAP Build specifically as an enterprise low-code platform on BTP",
+    "No Indonesian article on low-code governance / shadow IT prevention for enterprise IT teams",
+    "No Indonesian article on citizen developer program ROI with real numbers (SAP GigaOm 3x speed data unused)",
+    "No Indonesian article on low-code + clean core tie-in (extending SAP without breaking the core)",
+    "No Indonesian article with honest 'when you DON'T need low-code' or vendor lock-in risk discussion for enterprise decision-makers",
+    "Most SERP content is generic or developer-focused; no CIO/CFO decision-stage content exists in Indonesian"
+  ]
+}

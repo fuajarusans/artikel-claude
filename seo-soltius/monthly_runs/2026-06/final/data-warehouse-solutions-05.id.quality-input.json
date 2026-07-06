@@ -1,0 +1,87 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-06\\final\\data-warehouse-solutions-05.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-03T01:48:46+07:00",
+    "word_count":  1622,
+    "paragraph_count":  30,
+    "sentence_count":  95,
+    "ai_detector":  {
+                        "score":  0.28,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.398,
+                        "sentence_burstiness":  0.939,
+                        "top30_vocab_share":  0.358,
+                        "flags":  [
+                                      {
+                                          "pattern":  "em-dash-overuse",
+                                          "severity":  "medium",
+                                          "snippet":  "Em-dashes count: 14 (max 2)",
+                                          "line":  -1
+                                      },
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.398 (target \u003e=0.45)",
+                                          "line":  -1
+                                      },
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 35.8% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Pertama, UU PDP berlaku efektif Oktober 2024 setelah masa transisi dua tahun sejak disahkan 17 Oktober 2022 ([Peraturan BPK](https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022)).",
+                                      "candidate_score":  36,
+                                      "web_search_query":  "\"Pertama, UU PDP berlaku efektif Oktober 2024 setelah masa transisi dua tahun sejak disahkan 17 Oktober 2022 ([Peraturan \""
+                                  },
+                                  {
+                                      "passage":  "27 Tahun 2022 tentang Perlindungan Data Pribadi (*UU PDP*) berlaku efektif Oktober 2024, arsitektur data enterprise Anda juga menentukan apakah perusahaan bisa membuktikan kepatuhan regulasi secara teknis.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"27 Tahun 2022 tentang Perlindungan Data Pribadi (*UU PDP*) berlaku efektif Oktober 2024, arsitektur data enterprise Anda\""
+                                  },
+                                  {
+                                      "passage":  "Kedua, BPDP (*Badan Pelindungan Data Pribadi*) sedang dalam proses pembentukan berdasarkan Peraturan Presiden.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Kedua, BPDP (*Badan Pelindungan Data Pribadi*) sedang dalam proses pembentukan berdasarkan Peraturan Presiden.\""
+                                  },
+                                  {
+                                      "passage":  "**Incident Response \u0026 Breach Notification** — Dokumentasikan prosedur respons insiden, termasuk waktu konfirmasi dan pelaporan *breach* kepada BPDP.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"**Incident Response \u0026 Breach Notification** — Dokumentasikan prosedur respons insiden, termasuk waktu konfirmasi dan pel\""
+                                  },
+                                  {
+                                      "passage":  "## Apa Itu Data Governance dan Mengapa Perusahaan Indonesia Harus Peduli Sekarang?",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## Apa Itu Data Governance dan Mengapa Perusahaan Indonesia Harus Peduli Sekarang?\""
+                                  },
+                                  {
+                                      "passage":  "**Data Ownership \u0026 Stewardship** — Tunjuk *Data Steward* per domain (keuangan, HR, pelanggan).",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"**Data Ownership \u0026 Stewardship** — Tunjuk *Data Steward* per domain (keuangan, HR, pelanggan).\""
+                                  },
+                                  {
+                                      "passage":  "27 Tahun 2022, data governance bukan pilihan — ia kewajiban hukum sekaligus keunggulan kompetitif.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"27 Tahun 2022, data governance bukan pilihan — ia kewajiban hukum sekaligus keunggulan kompetitif.\""
+                                  },
+                                  {
+                                      "passage":  "Sanksi pidana korporasi untuk pelanggaran serius: pemalsuan data pribadi dikenai denda korporasi hingga **Rp 60 miliar** (10× denda individu).",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Sanksi pidana korporasi untuk pelanggaran serius: pemalsuan data pribadi dikenai denda korporasi hingga **Rp 60 miliar**\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

@@ -1,0 +1,63 @@
+{
+  "brief_id": "perusahaan-lng-indonesia-03",
+  "article_title_id": "LNG untuk Industri: Kapan Lebih Cocok Daripada CNG?",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-09",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero — setelah blok definisi snippet, sebelum H2 pertama",
+      "concept_from_writer": "Diagram side-by-side dua tangki gas — kiri tangki kriogenik LNG (biru, dinding ganda berinsulasi vakum, label '-162 derajat C' dan '~1/600'), kanan tangki tekanan CNG (abu-abu/oranye, label '~200-250 bar' dan '~1/250'). Di tengah, ikon yang menunjukkan volume sama menyimpan lebih banyak energi pada LNG. Gaya flat infographic isometrik B2B, palet biru-hijau energi bersih, teks Bahasa Indonesia, format landscape.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Perbandingan dua objek teknis yang berbeda secara struktural (konstruksi tangki, suhu, tekanan, rasio volume) memerlukan diagram berdampingan — bukan foto stok yang tidak bisa menampilkan angka teknis secara akurat dan sekaligus.",
+      "visual_direction": "Layout landscape dua kolom simetris. KOLOM KIRI (LNG): ilustrasi isometrik tangki kriogenik silindris dengan dinding ganda — lapisan luar abu kebiruan, rongga insulasi vakum (ditunjukkan dengan garis putus-putus tipis berlabel 'insulasi vakum'), lapisan dalam biru tua berisi cairan. Di atas tangki: label besar 'LNG' warna putih di atas latar biru gelap (#1A3A5C). Di bawah tangki: dua label data — (1) baris ikon termometer + teks 'Suhu: -162 derajat C' dan (2) baris ikon kompresi + teks 'Penyusutan: ~1/600 volume gas'. KOLOM KANAN (CNG): ilustrasi isometrik tangki silindris bertekanan tinggi dengan dinding tunggal tebal, warna badan abu-abu netral (#6B7280) dengan ring penguat oranye (#F97316) di beberapa titik. Label 'CNG' warna putih di atas latar abu-abu gelap. Di bawah tangki: (1) ikon pengompres + teks 'Tekanan: ~200-250 bar' dan (2) ikon kompresi + teks 'Penyusutan: ~1/250 volume gas'. DI TENGAH: pemisah vertikal tipis berwarna hijau energi (#16A34A) dengan ikon baterai atau bara api kecil dan teks dua baris: 'Energi per unit volume' / 'LNG ~2-3x lebih padat'. HEADER ATAS: judul gambar 'Dua Cara Memadatkan Gas Bumi yang Sama' dalam tipografi sans-serif bersih warna biru tua. FOOTER: catatan kecil 'Gas bumi (metana) yang disalurkan identik — hanya cara memadatkannya yang berbeda.' Palet keseluruhan: biru profesional (#1A3A5C, #2563EB), aksen hijau energi (#16A34A), oranye aksen CNG (#F97316), latar putih atau abu sangat muda (#F8FAFC). Semua teks Bahasa Indonesia, tipografi modern sans-serif, gaya flat isometrik bersih — tidak ada tekstur realistis, tidak ada bayangan berlebih.",
+      "in_image_text_id": [
+        "Dua Cara Memadatkan Gas Bumi yang Sama",
+        "LNG",
+        "CNG",
+        "Suhu: -162 derajat C",
+        "Penyusutan: ~1/600 volume gas",
+        "Tekanan: ~200-250 bar",
+        "Penyusutan: ~1/250 volume gas",
+        "insulasi vakum",
+        "Energi per unit volume",
+        "LNG ~2-3x lebih padat",
+        "Gas bumi (metana) yang disalurkan identik — hanya cara memadatkannya yang berbeda."
+      ],
+      "alt_id": "Diagram perbandingan tangki LNG kriogenik pada -162 derajat C dan tangki CNG pada 200-250 bar untuk industri",
+      "caption_id": "Dua cara memadatkan gas bumi yang sama: LNG didinginkan hingga -162 derajat C sehingga volume menyusut ~1/600, sementara CNG dikompres ~200-250 bar dengan penyusutan ~1/250. Densitas energi LNG per volume sekitar 2-3 kali lebih tinggi — inilah dasar seluruh kerangka keputusan LNG vs CNG untuk industri.",
+      "sourcing_note": "Aset ilustrasi/diagram — BUKAN foto fasilitas nyata. Desainer membuat dari nol berdasarkan deskripsi di atas. Tidak ada fasilitas atau branding PGN Gagas yang perlu ditampilkan pada gambar ini. Referensi visual teknis tangki kriogenik dan tangki bertekanan dapat dilihat pada dokumentasi teknis umum (bukan rekayasa fasilitas spesifik). Jika tim ingin menggunakan referensi foto riset, cari: 'cryogenic LNG storage tank cutaway diagram', 'CNG pressure vessel cross section illustration' — gunakan hanya sebagai referensi proporsi, bukan reproduksi.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "mid-body — setelah tabel keputusan LNG vs CNG, membuka H2 'Apa yang Berubah di Sisi Pabrik'",
+      "concept_from_writer": "Infografik alur sisi pabrik untuk LNG — diagram vertikal: (1) ISO tank truk tiba, (2) LNG dipompa ke tangki kriogenik on-site, (3) vaporizer/SRU mengubah LNG cair kembali menjadi gas, (4) gas masuk ke boiler/burner produksi. Tambahkan cabang loop untuk penanganan boil-off gas (BOG). Gaya flat infographic, palet biru-hijau, label dan istilah Bahasa Indonesia, format vertikal.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Alur proses berurutan dengan cabang (BOG loop) adalah diagram proses — bukan infografik teks, bukan foto. Format ini menggambarkan urutan teknis dan hubungan antar komponen dengan presisi yang tidak bisa dicapai foto stok maupun ilustrasi konseptual generik.",
+      "visual_direction": "Layout vertikal (portrait atau tall landscape) — alur dari atas ke bawah dengan empat tahap utama plus satu cabang loop samping. GAYA: flat design modern, ikon teknis sederhana (bukan kartun, bukan realistis), garis panah tebal, tipografi sans-serif. PALET: latar putih bersih, ikon dan node biru tua (#1A3A5C), panah aliran hijau energi (#16A34A), node BOG loop berwarna kuning-oranye peringatan (#F59E0B) untuk membedakan dari aliran utama. JUDUL: 'Alur Distribusi LNG di Sisi Pabrik' di bagian atas, tipografi bold biru tua. ALUR UTAMA (empat tahap, dari atas ke bawah, dihubungkan panah hijau tebal): [TAHAP 1] Ikon truk tangki besar (ISO tank) menghadap kanan. Label: 'ISO Tank LNG tiba di lokasi pabrik'. Sub-label kecil: 'Kapasitas tipikal: ~20.000-40.000 liter per unit'. [PANAH KE BAWAH] [TAHAP 2] Ikon pompa kriogenik + ikon tangki silindris biru tua (tangki kriogenik on-site, berlabel 'Tangki Penyimpanan Kriogenik On-Site' dan sub-label '-162 derajat C, insulasi vakum'). Dari node tangki ini, keluar CABANG KE SAMPING (kanan atau kiri) dengan ikon gas naik ke atas berlabel 'Boil-Off Gas (BOG) terbentuk alami'. Di ujung cabang BOG, tiga sub-pilihan dalam kotak kecil: (a) 'Dikompres dan direcondensasi', (b) 'Digunakan sebagai bahan bakar', (c) 'Dilepas aman via sistem khusus'. Panah dari sub-pilihan (a) kembali ke tangki (loop daur ulang, garis putus-putus). [PANAH KE BAWAH] [TAHAP 3] Ikon alat berbentuk tabung horizontal + ikon uap/gas keluar, berlabel 'Vaporizer / SRU (Small-Scale Regasification Unit)'. Sub-label: 'LNG cair diuapkan kembali menjadi gas'. [PANAH KE BAWAH] [TAHAP 4] Ikon boiler atau nyala api industri, berlabel 'Gas masuk ke proses produksi'. Sub-label: 'Boiler, tungku pembakaran, atau burner'. FOOTER: catatan kecil italic 'Alur ini berlaku untuk sistem LNG beyond-pipeline — berbeda dari penggunaan gas pipa yang langsung dari jaringan distribusi.' Semua teks Bahasa Indonesia.",
+      "in_image_text_id": [
+        "Alur Distribusi LNG di Sisi Pabrik",
+        "ISO Tank LNG tiba di lokasi pabrik",
+        "Kapasitas tipikal: ~20.000-40.000 liter per unit",
+        "Tangki Penyimpanan Kriogenik On-Site",
+        "-162 derajat C, insulasi vakum",
+        "Boil-Off Gas (BOG) terbentuk alami",
+        "Dikompres dan direcondensasi",
+        "Digunakan sebagai bahan bakar",
+        "Dilepas aman via sistem khusus",
+        "Vaporizer / SRU (Small-Scale Regasification Unit)",
+        "LNG cair diuapkan kembali menjadi gas",
+        "Gas masuk ke proses produksi",
+        "Boiler, tungku pembakaran, atau burner",
+        "Alur ini berlaku untuk sistem LNG beyond-pipeline — berbeda dari penggunaan gas pipa yang langsung dari jaringan distribusi."
+      ],
+      "alt_id": "Diagram alur penerimaan LNG di pabrik: ISO tank, tangki kriogenik, vaporizer, hingga boiler produksi dengan BOG loop",
+      "caption_id": "Adopsi LNG mengubah perangkat keras di sisi pabrik secara menyeluruh: mulai dari penerimaan ISO tank, penyimpanan kriogenik on-site pada -162 derajat C, regasifikasi lewat vaporizer atau SRU, hingga pengelolaan boil-off gas (BOG) yang terbentuk secara alami — semua tahap ini tidak ada pada operasi CNG.",
+      "sourcing_note": "Aset diagram proses — BUKAN foto fasilitas nyata. Desainer membuat dari nol. Tidak ada branding atau logo PGN Gagas yang perlu ditampilkan pada diagram teknis ini (netral dan edukatif). Jika tim membutuhkan referensi proporsi komponen teknis, cari: 'LNG regasification process diagram small scale', 'SRU vaporizer flow chart industrial' — gunakan hanya sebagai referensi teknis, bukan reproduksi. Pastikan istilah teknis dalam gambar menggunakan Bahasa Indonesia sesuai daftar 'in_image_text_id' di atas.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

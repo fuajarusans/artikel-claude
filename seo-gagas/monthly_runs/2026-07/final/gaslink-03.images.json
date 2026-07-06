@@ -1,0 +1,91 @@
+{
+  "brief_id": "gaslink-03",
+  "article_title_id": "Industri yang Cocok Pakai Gaslink + Cara Penerapannya",
+  "language": "id",
+  "image_count": 3,
+  "planned_at": "2026-06-09",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "body — setelah tabel profil per sektor, di dalam H2 'Profil Kecocokan per Sektor: Manufaktur, Hotel, Rumah Sakit, Laundry'",
+      "concept_from_writer": "Infografik empat panel horizontal mewakili sektor Manufaktur, Hotel/HOREKA, Rumah Sakit, dan Laundry Komersial. Tiap panel memuat ikon peralatan utama berbahan bakar gas (boiler, burner dapur, water heater, mesin laundry) dan satu-dua kata 'untuk apa panasnya' (panas proses / memasak + air panas / dapur gizi + laundry linen / boiler uap). Gaya flat infographic bersih bertema energi gas, palet hijau-biru, teks Bahasa Indonesia, format landscape.",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Empat sektor dengan masing-masing aplikasi panas dan peralatan unik paling jelas dikomunikasikan dalam infografik panel berdampingan — memungkinkan pembaca membandingkan sekaligus dan mengidentifikasi sektor mereka sendiri tanpa membaca ulang tabel.",
+      "visual_direction": "Format landscape, empat panel vertikal berdampingan dalam satu baris, lebar setara. Latar belakang keseluruhan putih bersih atau abu sangat muda (#F7F9FC). Tiap panel memiliki judul sektor di bagian atas dengan huruf tebal berwarna putih di atas blok header berwarna biru tua (#003B6F) — urutan dari kiri ke kanan: 'Manufaktur', 'Hotel / HOREKA', 'Rumah Sakit', 'Laundry Komersial'. Di tengah tiap panel: satu ikon flat vector berskala besar (±60–70% tinggi panel) yang mewakili peralatan utama berbahan bakar gas — Manufaktur: ikon boiler industri / furnace; Hotel/HOREKA: ikon kompor dapur komersial dengan lidah api dan ikon water heater; Rumah Sakit: ikon panci steam dapur gizi dan ikon mesin cuci linen; Laundry Komersial: ikon boiler uap besar. Warna ikon: hijau energi (#2EAA5B) sebagai warna utama, detail aksen biru (#1A6FAB). Di bawah ikon, label dua baris dalam huruf sedang berwarna abu gelap (#333333): baris pertama label peralatan (contoh: 'Boiler & Furnace'), baris kedua frasa manfaat panas dalam warna hijau tebal (contoh: 'Panas Proses'). Label lengkap per panel — Manufaktur: 'Boiler & Furnace' / 'Panas Proses'; Hotel/HOREKA: 'Dapur & Water Heater' / 'Memasak + Air Panas'; Rumah Sakit: 'Dapur Gizi & Laundry Linen' / 'Sanitasi Kontinu'; Laundry Komersial: 'Boiler Uap' / 'Produksi Uap 100%'. Garis pembatas tipis vertikal (#D0DDE8) di antara panel. Di paling bawah infografik, satu baris tagline kecil berwarna abu (#888888): 'Sumber: PGN Gagas — Gaslink untuk Industri & Komersial'. Gaya keseluruhan: flat, bersih, profesional — tidak ada gradien mencolok atau efek bayangan berat.",
+      "in_image_text_id": [
+        "Manufaktur",
+        "Hotel / HOREKA",
+        "Rumah Sakit",
+        "Laundry Komersial",
+        "Boiler & Furnace",
+        "Panas Proses",
+        "Dapur & Water Heater",
+        "Memasak + Air Panas",
+        "Dapur Gizi & Laundry Linen",
+        "Sanitasi Kontinu",
+        "Boiler Uap",
+        "Produksi Uap 100%",
+        "Sumber: PGN Gagas — Gaslink untuk Industri & Komersial"
+      ],
+      "alt_id": "Infografik empat sektor pengguna Gaslink: manufaktur, hotel, rumah sakit, dan laundry komersial dan peralatan gasnya",
+      "caption_id": "Gaslink paling cocok untuk usaha yang butuh panas kontinu dalam volume memadai di luar jaringan pipa. Empat sektor ini — manufaktur, hotel/HOREKA, rumah sakit, dan laundry komersial — mewakili sebagian besar dari 600+ pelanggan Gaslink per September 2025.",
+      "sourcing_note": "Aset custom vector — tidak memerlukan foto fasilitas nyata. Desainer membuat flat vector infographic dari nol. Tidak ada branding hotel atau rumah sakit spesifik yang ditampilkan (gunakan ikon generik untuk tiap sektor — jangan menampilkan logo atau nama RS Hasan Sadikin / PT Puri Saron di dalam gambar ini).",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body — setelah daftar bernomor 7 langkah berlangganan, di dalam H2 'Bagaimana Cara Berlangganan Gaslink, Langkah demi Langkah?'",
+      "concept_from_writer": "Timeline horizontal tujuh langkah onboarding Gaslink secara berurutan — pendaftaran, survei lokasi, kesepakatan, instalasi Pressure Reduction Station, retrofit peralatan, komisioning/uji, gas mengalir — masing-masing dengan ikon kecil (formulir, kaca pembesar, jabat tangan, unit PRS, kunci inggris, centang, nyala api). Desain bersih dan profesional bertema industri, palet hijau-biru, teks Bahasa Indonesia.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Proses berurutan dengan tujuh langkah distinktif paling jelas disajikan sebagai diagram alur/timeline — urutan harus terbaca sekilas oleh manajer procurement yang ingin memperkirakan waktu dan milestones sebelum memutuskan untuk mengajukan permintaan.",
+      "visual_direction": "Format landscape, timeline horizontal dengan tujuh node berurutan dari kiri (langkah 1) ke kanan (langkah 7). Alur dihubungkan oleh garis tebal horizontal berwarna biru sedang (#1A6FAB) dengan panah arah ke kanan di antara setiap node. Tiap node berbentuk lingkaran berdiameter sedang (±48px pada ukuran cetak A4 lebar penuh): lingkaran berwarna biru tua (#003B6F) untuk langkah 1–6, dan lingkaran berwarna hijau energi (#2EAA5B) untuk langkah 7 sebagai penanda 'selesai/aktif'. Di dalam tiap lingkaran: ikon flat vector putih berskala kecil — Langkah 1: ikon formulir/dokumen; Langkah 2: ikon kaca pembesar; Langkah 3: ikon jabat tangan; Langkah 4: ikon unit/kotak PRS dengan simbol tekanan; Langkah 5: ikon kunci pas (wrench); Langkah 6: ikon tanda centang (check); Langkah 7: ikon nyala api / lidah api. Di bawah tiap node: nomor langkah dalam huruf kecil abu (#888888) diikuti label singkat dalam dua baris — huruf sedang tebal (#003B6F) baris pertama, abu (#555555) baris kedua jika diperlukan. Label per langkah — (1) 'Ajukan Permintaan' / 'Profil usaha & kebutuhan'; (2) 'Survei Lokasi' / 'Asesmen kelayakan'; (3) 'Kesepakatan Layanan' / 'Perjanjian jual-beli gas'; (4) 'Instalasi PRS' / 'Pressure Reduction Station'; (5) 'Penyesuaian Peralatan' / 'Retrofit burner/boiler'; (6) 'Komisioning & Uji' / 'Uji aliran & keamanan'; (7) 'Gas Mengalir' / 'Smart metering aktif'. Latar belakang putih bersih. Tidak ada angka durasi/SLA di mana pun dalam gambar. Di sudut kanan bawah: teks kecil abu '#888888': 'Gaslink — PGN Gagas'. Gaya: flat, modern, korporat profesional.",
+      "in_image_text_id": [
+        "Ajukan Permintaan",
+        "Profil usaha & kebutuhan",
+        "Survei Lokasi",
+        "Asesmen kelayakan",
+        "Kesepakatan Layanan",
+        "Perjanjian jual-beli gas",
+        "Instalasi PRS",
+        "Pressure Reduction Station",
+        "Penyesuaian Peralatan",
+        "Retrofit burner/boiler",
+        "Komisioning & Uji",
+        "Uji aliran & keamanan",
+        "Gas Mengalir",
+        "Smart metering aktif",
+        "Gaslink — PGN Gagas"
+      ],
+      "alt_id": "Diagram timeline tujuh langkah berlangganan Gaslink: dari pengajuan permintaan hingga instalasi PRS dan gas mengalir.",
+      "caption_id": "Proses berlangganan Gaslink mencakup tujuh tahap — dari pengajuan permintaan dan survei lokasi hingga instalasi Pressure Reduction Station, komisioning, dan gas mengalir dengan pencatatan smart metering. Durasi tiap tahap bervariasi sesuai kondisi lokasi.",
+      "sourcing_note": "Aset custom vector diagram — tidak memerlukan foto. Desainer membangun dari nol menggunakan panduan visual direction di atas. PENTING: jangan cantumkan angka durasi atau SLA apa pun pada gambar karena tidak ada angka resmi yang dipublikasikan PGN Gagas.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_03",
+      "position": "body — akhir H2 'Apa yang Perlu Disiapkan di Lokasi Sebelum Beralih', sebelum H2 'Sektor atau Kondisi yang Justru Belum Cocok'",
+      "concept_from_writer": "Diagram skematik sederhana alur CNG dari kiri ke kanan — Mother Station (kompresi) → truk GTM → Pressure Reduction Station di lokasi pelanggan → jalur pipa internal → peralatan (boiler, dapur, mesin laundry). Tiap komponen diberi label Bahasa Indonesia singkat. Gaya flat technical diagram, palet hijau-biru, format landscape.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Alur 'pipa gas virtual' dari sumber kompresi hingga peralatan pelanggan adalah konsep teknis yang paling sering disalahpahami oleh calon pelanggan — diagram skematik linear menjelaskan sistem infrastruktur CNG beyond-pipeline lebih efektif daripada teks atau foto.",
+      "visual_direction": "Format landscape, diagram alur linear dari kiri ke kanan dalam empat zona utama yang dihubungkan oleh panah tebal berwarna biru (#1A6FAB) menunjuk ke kanan. Latar belakang putih atau abu sangat muda (#F7F9FC). Zona 1 (paling kiri): ilustrasi flat vector 'Mother Station' — bangunan industri kompak dengan pipa dan unit kompresor, warna biru tua (#003B6F) dan abu. Label di bawah ilustrasi, dua baris: 'Mother Station' (tebal biru tua) / 'Kompresi CNG' (abu #555555). Panah tebal ke kanan. Zona 2: ilustrasi flat vector truk tangki CNG tampak samping (truk dengan silinder/module panjang), warna abu-biru dengan aksen biru muda pada silinder. Label: 'Truk GTM' (tebal biru tua) / 'Gas Transportation Module' (abu). Panah tebal ke kanan. Zona 3: ilustrasi flat vector 'Pressure Reduction Station' — kotak/panel teknis dengan simbol tekanan dan katup, warna biru muda (#1A6FAB). Label: 'Pressure Reduction Station' (tebal biru tua) / 'Di lokasi pelanggan' (abu). Panah tebal ke kanan, lalu cabang ke bawah menjadi tiga sub-panah mengarah ke Zona 4. Zona 4 (paling kanan, tiga ikon vertikal berdekatan): ikon flat vector boiler industri (label: 'Boiler'), ikon flat vector kompor/burner dapur (label: 'Dapur Komersial'), ikon flat vector mesin cuci industri (label: 'Mesin Laundry'). Semua ikon Zona 4 berwarna hijau energi (#2EAA5B) untuk menandai 'titik manfaat' di lokasi pelanggan. Di antara Zona 2 dan 3, tambahkan teks kecil miring berwarna hijau: 'Pipa Gas Virtual' untuk mengilustrasikan konsep GTM sebagai pengganti pipa. Di bagian bawah tengah diagram: teks kecil abu '#888888': 'Ilustrasi skematik — Gaslink, PGN Gagas'. Gaya: flat, bersih, teknikal namun mudah dibaca oleh non-engineer.",
+      "in_image_text_id": [
+        "Mother Station",
+        "Kompresi CNG",
+        "Truk GTM",
+        "Gas Transportation Module",
+        "Pressure Reduction Station",
+        "Di lokasi pelanggan",
+        "Boiler",
+        "Dapur Komersial",
+        "Mesin Laundry",
+        "\"Pipa Gas Virtual\"",
+        "Ilustrasi skematik — Gaslink, PGN Gagas"
+      ],
+      "alt_id": "Diagram alur distribusi CNG Gaslink: Mother Station, truk GTM, Pressure Reduction Station, ke peralatan industri pelanggan",
+      "caption_id": "CNG Gaslink tidak memerlukan jaringan pipa ke lokasi pelanggan. Gas dikompresi di Mother Station, diangkut via Gas Transportation Module (GTM), lalu diturunkan tekanannya di Pressure Reduction Station sebelum mengalir ke boiler, dapur, atau mesin laundry di lokasi.",
+      "sourcing_note": "Aset custom vector diagram teknikal — tidak memerlukan foto fasilitas nyata PGN Gagas. Desainer membangun ilustrasi skematik dari nol. PENTING: jangan menampilkan logo, nama, atau foto fasilitas Mother Station atau armada GTM PGN Gagas yang nyata kecuali ada foto resmi yang disediakan oleh tim PGN Gagas. Jika tim PGN Gagas dapat menyediakan foto truk GTM asli sebagai referensi gaya/warna, boleh dipakai sebagai acuan ilustrasi — tetapi tetap dalam bentuk ilustrasi flat vector, bukan foto langsung.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

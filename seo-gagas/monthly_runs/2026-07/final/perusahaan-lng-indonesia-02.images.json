@@ -1,0 +1,81 @@
+{
+  "brief_id": "perusahaan-lng-indonesia-02",
+  "article_title_id": "Peran LNG di Luar Jaringan Pipa: Memahami Konsep LNG Hub",
+  "language": "id",
+  "image_count": 3,
+  "planned_at": "2026-06-09",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero — setelah blockquote definisi, sebelum H2 pertama",
+      "concept_from_writer": "Diagram alur virtual pipeline LNG dari kiri ke kanan — (1) kilang LNG → (2) FSRU/terminal penerima → (3) LNG Hub berlabel 'break-bulking' → (4) ISO tank dan LNG truck → (5) vaporizer di lokasi pelanggan → (6) pengguna akhir (ikon hotel, rumah sakit, pabrik). Label proses Bahasa Indonesia. Gaya flat infographic isometrik B2B, palet biru-hijau energi bersih, format horizontal.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Artikel menjelaskan rantai logistik berlapis (6 tahap bernomor di body H2); diagram alur proses jauh lebih informatif daripada foto atau ilustrasi generik, dan membuat rantai virtual pipeline langsung dipahami dalam satu tatapan.",
+      "visual_direction": "Format horizontal landscape (rasio 16:9 atau 3:1). Enam node disusun kiri-ke-kanan dalam satu garis alur dengan panah tebal menghubungkan tiap node. PALETA: latar putih/abu sangat muda; node dan ikon menggunakan biru tua (#1A3C6E) dan biru sedang (#2E6DA4); panah dan garis alur hijau energi (#2DAA6E); label teks hitam #1A1A1A. IKON per node (gaya flat isometrik sederhana, tidak foto-realistik): (1) 'Kilang LNG' — siluet menara distilasi atau fasilitas kilang mini; (2) 'FSRU / Terminal Penerima' — kapal FSRU bergaya ikon di atas air biru; (3) 'LNG Hub (Break-Bulking)' — gudang/bangunan industri dengan ikon tanda panah keluar ke segala arah, diberi label kotak teks biru tua bertuliskan 'Break-Bulking'; (4) 'ISO Tank & LNG Truck' — ikon peti kemas ISO tank dan truk kriogenik berdampingan; (5) 'Vaporizer di Lokasi Pelanggan' — unit vaporizer tabung vertikal dengan ikon api/gas keluar; (6) 'Pengguna Akhir' — tiga ikon berdampingan: hotel (bangunan bertingkat), rumah sakit (palang merah kecil), pabrik (cerobong). Di bawah tiap node, tambahkan label teks ringkas (lihat in_image_text_id). Di sudut kiri atas atau kanan bawah, tambahkan label kecil bertuliskan 'Sumber: Ilustrasi skematik konsep virtual pipeline LNG' — ini skema konseptual, bukan peta operasional fasilitas Gagas. Hindari menempatkan nama kota, lokasi geografis nyata, atau logo merek nyata.",
+      "in_image_text_id": [
+        "Kilang LNG",
+        "FSRU / Terminal Penerima",
+        "LNG Hub — Break-Bulking",
+        "ISO Tank & LNG Truck",
+        "Vaporizer di Lokasi Pelanggan",
+        "Pengguna Akhir: Hotel, RS, Pabrik",
+        "Virtual Pipeline LNG — Alur Distribusi Gas Bumi di Luar Pipa",
+        "Sumber: Ilustrasi skematik konsep"
+      ],
+      "alt_id": "Diagram alur virtual pipeline LNG: dari kilang ke LNG Hub, ISO tank, vaporizer, hingga hotel dan pabrik",
+      "caption_id": "Konsep virtual pipeline LNG: rantai distribusi enam tahap yang menggantikan pipa fisik, dari kilang LNG hingga vaporizer di lokasi pelanggan industri dan komersial. LNG Hub berfungsi sebagai simpul break-bulking yang memecah pasokan besar menjadi unit ISO tank siap kirim.",
+      "sourcing_note": "Infografis skematik orisinal — dirancang oleh tim desain PGN Gagas. Tidak perlu foto fasilitas nyata; ini diagram konseptual (bukan peta operasional). Jangan mencantumkan nama kota, koordinat, atau foto fasilitas PGN Gagas yang sesungguhnya. Jika membutuhkan referensi visual ikon kriogenik/LNG truck, cari stock vector: 'LNG ISO tank truck icon flat vector', 'cryogenic tank illustration', 'gas plant icon isometric'.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "di dalam H2 'Apa Itu Break-Bulking dan LNG ISO Tank?' — setelah paragraf pertama yang mendeskripsikan struktur ISO tank",
+      "concept_from_writer": "Diagram penampang (cutaway) LNG ISO tank — struktur dinding ganda berinsulasi vakum, label kapasitas 20.000–40.000 liter, dimensi 20/40 kaki, dan suhu -162 derajat Celsius. Ilustrasi teknis sederhana untuk audiens B2B, palet biru-abu dingin, label Bahasa Indonesia.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "ISO tank adalah komponen teknis inti yang dijelaskan secara rinci di H2 ini (kapasitas, suhu, dinding ganda); diagram penampang cutaway adalah satu-satunya cara menunjukkan lapisan internal yang tidak bisa ditangkap foto eksterior, dan langsung memberi pemahaman teknis kepada audiens B2B.",
+      "visual_direction": "Format portrait atau landscape (rasio 4:3 atau 1:1). Tampilkan ISO tank ukuran 20 kaki dalam potongan melintang (cutaway) dari sudut pandang sedikit isometrik atau frontal. PALETA: latar putih bersih; lapisan terluar (outer shell) biru abu-abu gelap (#4A6572); ruang insulasi vakum divisualisasikan sebagai celah putih dengan garis-garis kecil diagonal berwarna abu terang untuk menunjukkan ruang hampa; lapisan dalam (inner vessel) biru tua (#1A3C6E); cairan LNG di dalam inner vessel dirender berwarna biru kehijauan (#4ABFB5) dengan tekstur cair. ANOTASI (label dengan garis penunjuk tipis): (a) panah dari lapisan terluar → label 'Dinding Luar (Baja)'; (b) panah dari celah → label 'Insulasi Vakum'; (c) panah dari lapisan dalam → label 'Dinding Dalam (Baja Nikel Kriogenik)'; (d) panah dari cairan → label 'LNG pada -162°C'; (e) di bagian atas atau samping, kotak info kecil (info-box) dengan tiga baris: 'Kapasitas: 20.000–40.000 liter', 'Ukuran: 20 atau 40 kaki', 'Suhu Operasional: sekitar -162°C'. Di bagian bawah, satu kalimat italic kecil: 'Ilustrasi skematik — bukan spesifikasi teknis resmi'. Tidak perlu logo atau nama merek di dalam gambar.",
+      "in_image_text_id": [
+        "Dinding Luar (Baja)",
+        "Insulasi Vakum",
+        "Dinding Dalam (Baja Nikel Kriogenik)",
+        "LNG pada -162°C",
+        "Kapasitas: 20.000–40.000 liter",
+        "Ukuran: 20 atau 40 kaki",
+        "Suhu Operasional: sekitar -162°C",
+        "LNG ISO Tank — Struktur Dinding Ganda Berinsulasi Vakum",
+        "Ilustrasi skematik — bukan spesifikasi teknis resmi"
+      ],
+      "alt_id": "Diagram penampang LNG ISO tank: dinding ganda berinsulasi vakum, kapasitas 20.000–40.000 liter, suhu -162°C",
+      "caption_id": "Struktur dinding ganda berinsulasi vakum LNG ISO tank menjaga suhu muatan tetap sekitar -162°C selama perjalanan — seperti termos raksasa berkapasitas 20.000 hingga 40.000 liter. Teknologi inilah yang memungkinkan distribusi LNG via jalan darat tanpa jaringan pipa.",
+      "sourcing_note": "Diagram teknis orisinal yang dirancang tim desain PGN Gagas. Gunakan sebagai ilustrasi skematik konseptual — bukan gambar teknis resmi bersertifikat. Jangan mencantumkan nama produsen atau nomor seri tangki nyata. Referensi visual cutaway: cari 'cryogenic ISO tank cutaway diagram', 'LNG tank cross-section illustration vector', 'double-wall vacuum insulated tank schematic'.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_03",
+      "position": "di dalam H2 'Kapan LNG Hub BUKAN Jawaban Terbaik' — setelah tabel perbandingan LNG vs CNG di akhir H2",
+      "concept_from_writer": "Infografis 'Kapan LNG Hub cocok vs tidak' dua kolom — kiri (LNG Hub tepat): tanpa pipa + kebutuhan besar, jarak logistik wajar; kanan (kurang tepat): sudah ada pipa kota, volume sangat kecil/UMKM, lokasi terpencil ekstrem. Palet biru-hijau dengan aksen merah lembut di kolom kanan, teks Bahasa Indonesia.",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Bagian ini adalah 'honest section' yang memberi nilai trust kepada pembaca; format infografis dua kolom checklist sangat mudah di-scan, bisa disimpan/dibagikan tim operasional, dan menerjemahkan empat kondisi di bullet list artikel menjadi visual pengambilan keputusan yang langsung actionable.",
+      "visual_direction": "Format landscape (rasio 16:9). Dibagi dua kolom setara dengan garis pemisah vertikal tipis abu-abu di tengah. HEADER keseluruhan di atas: teks 'Kapan LNG Hub Cocok untuk Usaha Anda?' dalam tipografi bold biru tua (#1A3C6E), ukuran besar. KOLOM KIRI — header: ikon centang hijau + teks 'LNG Hub Tepat' (warna header: biru sedang #2E6DA4, latar header kolom: biru sangat muda #EBF4FB). Empat baris poin masing-masing dengan ikon centang hijau (#2DAA6E) dan teks ringkas (lihat in_image_text_id kolom kiri). KOLOM KANAN — header: ikon silang merah lembut + teks 'LNG Hub Kurang Tepat' (warna header: abu gelap #5A5A5A, latar header kolom: merah sangat muda #FFF0EE). Empat baris poin masing-masing dengan ikon silang merah lembut (#D95B43) dan teks ringkas (lihat in_image_text_id kolom kanan). Setiap baris poin memiliki ikon kecil tematik di kirinya (pipa gas, pabrik, truk, UMKM warung — semua flat icon). Di bagian paling bawah, satu baris italic kecil: 'Pilihan antara LNG dan CNG ditentukan kombinasi volume dan jarak — konsultasikan profil usaha Anda.' Tidak ada foto fasilitas nyata; semua elemen grafis flat icon. Paleta keseluruhan: putih/biru muda sebagai latar, biru dan hijau energi untuk kolom kiri, merah bata sangat lembut (#D95B43 opacity 60%) untuk kolom kanan.",
+      "in_image_text_id": [
+        "Kapan LNG Hub Cocok untuk Usaha Anda?",
+        "LNG Hub Tepat",
+        "Lokasi tidak dilewati pipa gas",
+        "Kebutuhan gas cukup besar",
+        "Jarak logistik truk kriogenik wajar",
+        "Jauh dari jaringan distribusi pipa kota",
+        "LNG Hub Kurang Tepat",
+        "Lokasi sudah dilintasi pipa gas kota",
+        "Volume kebutuhan sangat kecil (skala UMKM)",
+        "Lokasi sangat terpencil dari jalur logistik truk",
+        "Infrastruktur rantai dingin belum tersedia di lokasi",
+        "Pilihan antara LNG dan CNG ditentukan kombinasi volume dan jarak — konsultasikan profil usaha Anda."
+      ],
+      "alt_id": "Infografis dua kolom: kondisi di mana LNG Hub tepat versus kurang tepat untuk bisnis tanpa jaringan pipa gas",
+      "caption_id": "LNG Hub paling masuk akal untuk lokasi tanpa pipa dengan kebutuhan gas yang cukup besar dan akses logistik truk kriogenik yang memadai. Untuk volume sangat kecil atau lokasi yang sudah dilintasi pipa gas kota, moda lain biasanya lebih efisien.",
+      "sourcing_note": "Infografis orisinal — dirancang tim desain PGN Gagas berdasarkan data artikel. Tidak membutuhkan foto fasilitas nyata; semua elemen adalah flat icon dan teks. Jangan menampilkan nama kota atau fasilitas PGN Gagas yang spesifik agar kartu keputusan ini bersifat generik dan dapat digunakan lintas konteks. Referensi ikon: cari 'flat icon gas pipeline', 'factory industry icon', 'truck cryogenic icon', 'small business warung icon' — semua bisa dari repositori icon publik (Flaticon, Noun Project).",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

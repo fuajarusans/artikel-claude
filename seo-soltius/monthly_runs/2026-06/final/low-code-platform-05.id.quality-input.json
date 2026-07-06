@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-06\\final\\low-code-platform-05.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-03T01:32:47+07:00",
+    "word_count":  1511,
+    "paragraph_count":  36,
+    "sentence_count":  94,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.421,
+                        "sentence_burstiness":  0.885,
+                        "top30_vocab_share":  0.321,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.421 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "**MES (*Manufacturing Execution System*) penuh.** SAP Digital Manufacturing Cloud mengelola eksekusi produksi real-time: OEE (*Overall Equipment Effectiveness*), kontrol *shop floor*, integrasi mesin.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"**MES (*Manufacturing Execution System*) penuh.** SAP Digital Manufacturing Cloud mengelola eksekusi produksi real-time:\""
+                                  },
+                                  {
+                                      "passage":  "## Gambaran ROI untuk Operasional Pabrik: Angka dari Lapangan GigaOm (Maret 2025) mengukur SAP Build vs *custom development* tradisional: pengurangan *effort* 59%, pengiriman proyek 3 kali lebih cepat.",
+                                      "candidate_score":  27,
+                                      "web_search_query":  "\"## Gambaran ROI untuk Operasional Pabrik: Angka dari Lapangan GigaOm (Maret 2025) mengukur SAP Build vs *custom developm\""
+                                  },
+                                  {
+                                      "passage":  "## Batas Low-Code di Lantai Produksi: Kapan Anda Butuh Solusi yang Lebih Berat SAP Build dirancang untuk **workflow, form digital, approval, dan reporting**.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"## Batas Low-Code di Lantai Produksi: Kapan Anda Butuh Solusi yang Lebih Berat SAP Build dirancang untuk **workflow, for\""
+                                  },
+                                  {
+                                      "passage":  "# Low-Code Platform untuk Manufaktur: 5 Use Case Nyata dan ROI yang Bisa Diukur Minta manajer QC di pabrik mendeskripsikan harinya, dan jawabannya hampir pasti menyebut kertas.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"# Low-Code Platform untuk Manufaktur: 5 Use Case Nyata dan ROI yang Bisa Diukur Minta manajer QC di pabrik mendeskripsik\""
+                                  },
+                                  {
+                                      "passage":  "Industri manufaktur menyumbang sekitar 18–19% PDB Indonesia (BPS 2024), menjadikannya sektor tunggal terbesar.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Industri manufaktur menyumbang sekitar 18–19% PDB Indonesia (BPS 2024), menjadikannya sektor tunggal terbesar.\""
+                                  },
+                                  {
+                                      "passage":  "Patokan lapangan: aplikasi form sederhana butuh 2–4 minggu, dibanding 4–6 bulan untuk *custom development*.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Patokan lapangan: aplikasi form sederhana butuh 2–4 minggu, dibanding 4–6 bulan untuk *custom development*.\""
+                                  },
+                                  {
+                                      "passage":  "Keduanya bekerja di lapisan berbeda: SAP Build mendigitalisasi proses administratif; SAP Digital Manufacturing mengelola eksekusi produksi.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Keduanya bekerja di lapisan berbeda: SAP Build mendigitalisasi proses administratif; SAP Digital Manufacturing mengelola\""
+                                  },
+                                  {
+                                      "passage":  "Dashboard produksi real-time.** Koneksi SAP BTP ke modul SAP PP (*Production Planning*) menghasilkan dashboard output aktual vs target tanpa menunggu rekap shift.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Dashboard produksi real-time.** Koneksi SAP BTP ke modul SAP PP (*Production Planning*) menghasilkan dashboard output ak\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

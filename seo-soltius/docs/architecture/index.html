@@ -1,0 +1,818 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>STP Aquaculture — AI Agent Architecture | WEBARQ Promote</title>
+  <meta name="description" content="Multi-agent AI pipeline for producing monthly SEO articles for STP Aquaculture. 7 specialized agents, 60 bilingual articles per month, fully autonomous workflow.">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+
+  <!-- ===== Top nav ===== -->
+  <nav class="topnav">
+    <div class="topnav-inner">
+      <div class="brand">
+        <span class="brand-mark">SA</span>
+        <span>STP Aquaculture · AI Content Pipeline</span>
+      </div>
+      <div class="topnav-links">
+        <a href="#overview">Overview</a>
+        <a href="#pipeline">Pipeline</a>
+        <a href="#agents">Agents</a>
+        <a href="#workflow">Workflow</a>
+        <a href="#optimizations">Optimizations</a>
+        <a href="#pilot">Pilot Results</a>
+        <a href="#cost">Cost</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- ===== Hero ===== -->
+  <header class="hero">
+    <div class="shell">
+      <div class="hero-inner">
+        <div>
+          <span class="hero-eyebrow">AI Agent Architecture · v1.0</span>
+          <h1>A multi-agent SEO content pipeline for aquaculture publishing</h1>
+          <p class="hero-sub">Seven specialized AI agents working in concert to research, write, illustrate, edit, and archive 60 bilingual SEO articles every month — fully autonomous, with human-grade quality and built-in topical-authority cluster strategy.</p>
+          <div class="hero-meta">
+            <span><strong>Client</strong> STP Aquaculture (Suri Tani Pemuka, JAPFA)</span>
+            <span><strong>Agency</strong> WEBARQ Promote</span>
+            <span><strong>Languages</strong> Bahasa Indonesia + English</span>
+            <span><strong>Scale</strong> 60 articles / month</span>
+          </div>
+        </div>
+        <div class="hero-image">
+          <img src="assets/images/hero.png" alt="Stylized aerial view of aquaculture ponds blending with abstract data streams representing the AI agent pipeline">
+        </div>
+      </div>
+
+      <div class="stat-grid">
+        <div class="stat"><div class="stat-value">7</div><div class="stat-label">Specialized agents</div></div>
+        <div class="stat"><div class="stat-value">6 → 30</div><div class="stat-label">Keywords → articles / mo</div></div>
+        <div class="stat"><div class="stat-value">~$13</div><div class="stat-label">Image gen cost / mo</div></div>
+        <div class="stat"><div class="stat-value">40 min</div><div class="stat-label">Per-article wall-clock</div></div>
+      </div>
+    </div>
+  </header>
+
+  <main class="shell">
+
+    <!-- ===== Overview ===== -->
+    <section id="overview">
+      <h4>01 · Overview</h4>
+      <h2>What this system does</h2>
+      <p>Every month, WEBARQ Promote needs to produce SEO articles for six target keywords on the STP Aquaculture site — five articles per keyword, in both Bahasa Indonesia (canonical) and English (adapted). That's <strong>60 deliverables per month</strong>, each 1,800–2,500 words, with original imagery, source-cited claims, accurate STP product mentions, and a fresh angle every time so the same keyword cluster doesn't cannibalize itself.</p>
+
+      <p>The pipeline runs on seven specialized AI agents. Each agent has a single job, a curated tool list, and an explicit quality bar. They hand off via versioned files in a structured monthly-run folder, so a human can inspect any stage at any time, and the work is reproducible.</p>
+
+      <div class="callout">
+        <strong>Design principle:</strong> Each agent reads from a shared knowledge base (company facts, style guide, product matrix, SEO playbook) and writes structured outputs. The next agent reads those outputs as inputs. No agent invents facts that the knowledge base doesn't endorse — accuracy is enforced upstream.
+      </div>
+    </section>
+
+    <!-- ===== Pipeline diagram ===== -->
+    <section id="pipeline">
+      <h4>02 · Architecture</h4>
+      <h2>The pipeline at a glance</h2>
+      <p>The seven agents run in a directed sequence with one parallel fan-out (the two language writers run concurrently). Each box names the agent, its tier, and how many times it fires per monthly batch.</p>
+
+      <div class="pipeline">
+        <svg class="pipeline-svg" viewBox="0 0 880 920" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Pipeline diagram showing 7 agents in sequence">
+          <defs>
+            <linearGradient id="gradOcean" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0%" stop-color="#0e3a5a"/>
+              <stop offset="100%" stop-color="#0fb5b5"/>
+            </linearGradient>
+            <linearGradient id="gradOpus" x1="0" y1="0" x2="1" y2="1">
+              <stop offset="0%" stop-color="#7c3aed"/>
+              <stop offset="100%" stop-color="#a855f7"/>
+            </linearGradient>
+            <linearGradient id="gradSonnet" x1="0" y1="0" x2="1" y2="1">
+              <stop offset="0%" stop-color="#0891b2"/>
+              <stop offset="100%" stop-color="#06b6d4"/>
+            </linearGradient>
+            <linearGradient id="gradHaiku" x1="0" y1="0" x2="1" y2="1">
+              <stop offset="0%" stop-color="#65a30d"/>
+              <stop offset="100%" stop-color="#84cc16"/>
+            </linearGradient>
+            <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+              <path d="M 0 0 L 10 5 L 0 10 z" fill="#64748b"/>
+            </marker>
+          </defs>
+
+          <!-- Start node -->
+          <g>
+            <rect x="320" y="20" width="240" height="56" rx="28" fill="url(#gradOcean)"/>
+            <text x="440" y="48" text-anchor="middle" fill="white" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="14" font-weight="600">User invokes /run-month</text>
+            <text x="440" y="66" text-anchor="middle" fill="#cffafe" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="11">e.g. /run-month 2026-05</text>
+          </g>
+          <line x1="440" y1="76" x2="440" y2="108" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+
+          <!-- 1. Strategist -->
+          <g>
+            <rect x="240" y="116" width="400" height="76" rx="12" fill="white" stroke="#e2e8f0" stroke-width="1.5"/>
+            <rect x="240" y="116" width="6" height="76" rx="3" fill="url(#gradOpus)"/>
+            <text x="262" y="139" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="14" font-weight="700" fill="#0f172a">1 · seo-keyword-strategist</text>
+            <rect x="540" y="125" width="50" height="20" rx="10" fill="#ede9fe"/>
+            <text x="565" y="139" text-anchor="middle" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="11" font-weight="700" fill="#7c3aed">opus</text>
+            <text x="262" y="158" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="12" fill="#475569">6 parallel runs (one per keyword) → 30 briefs</text>
+            <text x="262" y="178" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="11" fill="#94a3b8">Uses shared research cache · Ahrefs MCP · live SERP · GSC</text>
+          </g>
+          <line x1="440" y1="192" x2="440" y2="220" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+
+          <!-- 2. Researcher -->
+          <g>
+            <rect x="240" y="228" width="400" height="76" rx="12" fill="white" stroke="#e2e8f0" stroke-width="1.5"/>
+            <rect x="240" y="228" width="6" height="76" rx="3" fill="url(#gradSonnet)"/>
+            <text x="262" y="251" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="14" font-weight="700" fill="#0f172a">2 · aquaculture-sme-researcher</text>
+            <rect x="540" y="237" width="65" height="20" rx="10" fill="#cffafe"/>
+            <text x="572" y="251" text-anchor="middle" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="11" font-weight="700" fill="#0891b2">sonnet</text>
+            <text x="262" y="270" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="12" fill="#475569">30 parallel runs → fact-rich dossiers</text>
+            <text x="262" y="290" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="11" fill="#94a3b8">Verifies claims against KKP · FAO · jurnal perikanan · SEAFDEC</text>
+          </g>
+          <line x1="440" y1="304" x2="440" y2="332" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+
+          <!-- Fan out (writers in parallel) -->
+          <line x1="440" y1="332" x2="200" y2="360" stroke="#64748b" stroke-width="2"/>
+          <line x1="440" y1="332" x2="680" y2="360" stroke="#64748b" stroke-width="2"/>
+          <line x1="200" y1="360" x2="200" y2="380" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+          <line x1="680" y1="360" x2="680" y2="380" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+
+          <!-- 3. Writer-ID -->
+          <g>
+            <rect x="40" y="388" width="320" height="76" rx="12" fill="white" stroke="#e2e8f0" stroke-width="1.5"/>
+            <rect x="40" y="388" width="6" height="76" rx="3" fill="url(#gradOpus)"/>
+            <text x="62" y="411" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="14" font-weight="700" fill="#0f172a">3 · seo-article-writer-id</text>
+            <rect x="280" y="397" width="50" height="20" rx="10" fill="#ede9fe"/>
+            <text x="305" y="411" text-anchor="middle" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="11" font-weight="700" fill="#7c3aed">opus</text>
+            <text x="62" y="430" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="12" fill="#475569">30 runs · Bahasa Indonesia 1,800–2,500 words</text>
+            <text x="62" y="450" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="11" fill="#94a3b8">Anti-AI rhythm · varied paragraphs · specific numbers</text>
+          </g>
+
+          <!-- 4. Writer-EN -->
+          <g>
+            <rect x="520" y="388" width="320" height="76" rx="12" fill="white" stroke="#e2e8f0" stroke-width="1.5"/>
+            <rect x="520" y="388" width="6" height="76" rx="3" fill="url(#gradOpus)"/>
+            <text x="542" y="411" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="14" font-weight="700" fill="#0f172a">4 · seo-article-writer-en</text>
+            <rect x="760" y="397" width="50" height="20" rx="10" fill="#ede9fe"/>
+            <text x="785" y="411" text-anchor="middle" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="11" font-weight="700" fill="#7c3aed">opus</text>
+            <text x="542" y="430" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="12" fill="#475569">30 runs · English 1,500–2,200 words</text>
+            <text x="542" y="450" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="11" fill="#94a3b8">Adapted, not translated · trade-publication voice</text>
+          </g>
+
+          <!-- Fan in -->
+          <line x1="200" y1="464" x2="200" y2="492" stroke="#64748b" stroke-width="2"/>
+          <line x1="680" y1="464" x2="680" y2="492" stroke="#64748b" stroke-width="2"/>
+          <line x1="200" y1="492" x2="440" y2="520" stroke="#64748b" stroke-width="2"/>
+          <line x1="680" y1="492" x2="440" y2="520" stroke="#64748b" stroke-width="2"/>
+          <line x1="440" y1="520" x2="440" y2="548" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+
+          <!-- 5. Image gen -->
+          <g>
+            <rect x="240" y="556" width="400" height="76" rx="12" fill="white" stroke="#e2e8f0" stroke-width="1.5"/>
+            <rect x="240" y="556" width="6" height="76" rx="3" fill="url(#gradSonnet)"/>
+            <text x="262" y="579" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="14" font-weight="700" fill="#0f172a">5 · aquaculture-image-generator</text>
+            <rect x="540" y="565" width="65" height="20" rx="10" fill="#cffafe"/>
+            <text x="572" y="579" text-anchor="middle" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="11" font-weight="700" fill="#0891b2">sonnet</text>
+            <text x="262" y="598" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="12" fill="#475569">30 runs × 3 parallel images = ~90 PNGs via gpt-image-1</text>
+            <text x="262" y="618" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="11" fill="#94a3b8">Shared between .id.docx and .en.docx · batch parallel helper</text>
+          </g>
+          <line x1="440" y1="632" x2="440" y2="660" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+
+          <!-- 6. Editor -->
+          <g>
+            <rect x="240" y="668" width="400" height="76" rx="12" fill="white" stroke="#e2e8f0" stroke-width="1.5"/>
+            <rect x="240" y="668" width="6" height="76" rx="3" fill="url(#gradOpus)"/>
+            <text x="262" y="691" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="14" font-weight="700" fill="#0f172a">6 · seo-editor</text>
+            <rect x="540" y="677" width="50" height="20" rx="10" fill="#ede9fe"/>
+            <text x="565" y="691" text-anchor="middle" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="11" font-weight="700" fill="#7c3aed">opus</text>
+            <text x="262" y="710" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="12" fill="#475569">30 runs · AI-tell scan · fact spot-check · SEO checklist</text>
+            <text x="262" y="730" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="11" fill="#94a3b8">Outputs polished finals + QC report with binding recommendation</text>
+          </g>
+          <line x1="440" y1="744" x2="440" y2="772" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+
+          <!-- 7. Curator -->
+          <g>
+            <rect x="240" y="780" width="400" height="76" rx="12" fill="white" stroke="#e2e8f0" stroke-width="1.5"/>
+            <rect x="240" y="780" width="6" height="76" rx="3" fill="url(#gradHaiku)"/>
+            <text x="262" y="803" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="14" font-weight="700" fill="#0f172a">7 · article-history-curator</text>
+            <rect x="540" y="789" width="55" height="20" rx="10" fill="#ecfccb"/>
+            <text x="567" y="803" text-anchor="middle" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="11" font-weight="700" fill="#65a30d">haiku</text>
+            <text x="262" y="822" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="12" fill="#475569">Filters on editor 'approve' · history JSON · md→docx convert</text>
+            <text x="262" y="842" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="11" fill="#94a3b8">Embeds images into .docx · skips 'revise' / 'reject'</text>
+          </g>
+          <line x1="440" y1="856" x2="440" y2="884" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+
+          <!-- Output -->
+          <g>
+            <rect x="200" y="892" width="480" height="32" rx="16" fill="#f8fafc" stroke="#0fb5b5" stroke-width="1.5"/>
+            <text x="440" y="912" text-anchor="middle" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="13" font-weight="600" fill="#0e3a5a">60 articles · ~90 images · history entries · review-ready .docx</text>
+          </g>
+        </svg>
+      </div>
+    </section>
+
+    <!-- ===== Agent roster ===== -->
+    <section id="agents">
+      <h4>03 · Agents</h4>
+      <h2>The seven specialists</h2>
+      <p>Each agent has a single role with a clearly-scoped responsibility, an opinionated quality bar, and an explicit tool list. Their full system prompts live in <code>.claude/agents/&lt;name&gt;.md</code>.</p>
+
+      <div class="agents-grid">
+
+        <!-- Strategist -->
+        <article class="agent-card">
+          <div class="agent-card-head">
+            <div class="agent-number">1</div>
+            <div class="agent-title">
+              <h3>SEO Keyword Strategist</h3>
+              <span class="agent-id">seo-keyword-strategist</span>
+            </div>
+          </div>
+          <p class="agent-role">Senior SEO strategist who understands Indonesian search behavior and the aquaculture niche. Generates five distinct article concepts per keyword each month, deduped against history so no angle is ever recycled.</p>
+          <div class="agent-section">
+            <h4>Key responsibilities</h4>
+            <ul class="agent-list">
+              <li>Brainstorm ≥12 candidate angles, filter to 5 distinct intents</li>
+              <li>Capture SERP top 10, People Also Ask, Ahrefs volume + KD, GSC top queries</li>
+              <li>Anti-cannibalization check against <code>articles_history/</code></li>
+              <li>Define hook, internal link plan, FAQ targets, AI Overview entities</li>
+            </ul>
+          </div>
+          <div class="agent-meta">
+            <span class="badge badge-opus">opus</span>
+            <span class="badge badge-tool">Ahrefs MCP</span>
+            <span class="badge badge-tool">WebFetch</span>
+            <span class="badge badge-tool">WebSearch</span>
+            <span class="badge badge-tool">GSC</span>
+          </div>
+        </article>
+
+        <!-- Researcher -->
+        <article class="agent-card">
+          <div class="agent-card-head">
+            <div class="agent-number">2</div>
+            <div class="agent-title">
+              <h3>Aquaculture SME Researcher</h3>
+              <span class="agent-id">aquaculture-sme-researcher</span>
+            </div>
+          </div>
+          <p class="agent-role">Domain analyst with deep knowledge of Indonesian shrimp and tilapia cultivation. Turns concept briefs into fact-rich research dossiers — verified numbers, authoritative citations, STP product mapping, FAQ drafts.</p>
+          <div class="agent-section">
+            <h4>Key responsibilities</h4>
+            <ul class="agent-list">
+              <li>Verify every numerical claim against ≥2 authoritative sources</li>
+              <li>Source priority: KKP · FAO · BPS · jurnal perikanan · SEAFDEC</li>
+              <li>Map article topic to correct STP products (per product matrix)</li>
+              <li>Draft 5–8 FAQ Q&amp;As (40–80 words each) and a definition snippet</li>
+              <li>Flag uncertainties — never invent statistics</li>
+            </ul>
+          </div>
+          <div class="agent-meta">
+            <span class="badge badge-sonnet">sonnet</span>
+            <span class="badge badge-tool">WebFetch</span>
+            <span class="badge badge-tool">WebSearch</span>
+            <span class="badge badge-tool">Read</span>
+          </div>
+        </article>
+
+        <!-- Writer-ID -->
+        <article class="agent-card">
+          <div class="agent-card-head">
+            <div class="agent-number">3</div>
+            <div class="agent-title">
+              <h3>Bahasa Indonesia Copywriter</h3>
+              <span class="agent-id">seo-article-writer-id</span>
+            </div>
+          </div>
+          <p class="agent-role">Senior Indonesian copywriter producing 1,800–2,500-word pillar-style articles. Mirrors the Contoh Artikel Pilar's rhythm and voice — passes the "could a senior aquaculture journalist have written this?" test.</p>
+          <div class="agent-section">
+            <h4>Key responsibilities</h4>
+            <ul class="agent-list">
+              <li>Vary paragraph length 1–6 sentences (anti-AI signature)</li>
+              <li>Embed 8+ specific numbers (FCR, protein %, durations, sizes)</li>
+              <li>Mix prose with numbered lists, bullets, mini-tables</li>
+              <li>Internal links: 1 primary + 2 cousin landing pages</li>
+              <li>FAQ block with 5–8 Q&amp;As for FAQPage schema</li>
+              <li>Definition snippet near top for AI Overview citation</li>
+            </ul>
+          </div>
+          <div class="agent-meta">
+            <span class="badge badge-opus">opus</span>
+            <span class="badge badge-tool">Read</span>
+            <span class="badge badge-tool">Write</span>
+            <span class="badge badge-tool">Edit</span>
+          </div>
+        </article>
+
+        <!-- Writer-EN -->
+        <article class="agent-card">
+          <div class="agent-card-head">
+            <div class="agent-number">4</div>
+            <div class="agent-title">
+              <h3>English Copywriter</h3>
+              <span class="agent-id">seo-article-writer-en</span>
+            </div>
+          </div>
+          <p class="agent-role">Senior English copywriter producing the international trade-publication version. Adapts examples and idioms — never a literal translation. Preserves STP product names, place names, and pre-approved positioning lines verbatim.</p>
+          <div class="agent-section">
+            <h4>Key responsibilities</h4>
+            <ul class="agent-list">
+              <li>Adapt regional context for global trade-publication audience</li>
+              <li>Use English numerics (period decimal, comma thousands)</li>
+              <li>Internal links point to <code>/en/</code> paths only</li>
+              <li>Preserve image placeholder positions to share with ID version</li>
+              <li>Preserve E-E-A-T anchors (JARS, ARC, KAVAS, ISO 9001:2015)</li>
+            </ul>
+          </div>
+          <div class="agent-meta">
+            <span class="badge badge-opus">opus</span>
+            <span class="badge badge-tool">Read</span>
+            <span class="badge badge-tool">Write</span>
+            <span class="badge badge-tool">Edit</span>
+          </div>
+        </article>
+
+        <!-- Image gen -->
+        <article class="agent-card">
+          <div class="agent-card-head">
+            <div class="agent-number">5</div>
+            <div class="agent-title">
+              <h3>Aquaculture Image Generator</h3>
+              <span class="agent-id">aquaculture-image-generator</span>
+            </div>
+          </div>
+          <p class="agent-role">Visual content director that designs precise prompts for each article, then generates 3 PNGs per article in parallel via OpenAI's gpt-image-1 (ChatGPT Images). Outputs alt-text and captions in both languages.</p>
+          <div class="agent-section">
+            <h4>Key responsibilities</h4>
+            <ul class="agent-list">
+              <li>Design photographic / infographic / illustration prompts per placeholder</li>
+              <li>Size + quality matrix: hero 1536×1024 high; in-body 1536×1024 medium</li>
+              <li>Run all 3 images in parallel via batch helper (~1.5 min vs ~5 min sequential)</li>
+              <li>Same image set shared between .id.docx and .en.docx</li>
+              <li>Flag hard concepts (anatomy, branded items) with stock-photo fallback notes</li>
+            </ul>
+          </div>
+          <div class="agent-meta">
+            <span class="badge badge-sonnet">sonnet</span>
+            <span class="badge badge-tool">gpt-image-1</span>
+            <span class="badge badge-tool">Bash</span>
+            <span class="badge badge-tool">PowerShell</span>
+          </div>
+        </article>
+
+        <!-- Editor -->
+        <article class="agent-card">
+          <div class="agent-card-head">
+            <div class="agent-number">6</div>
+            <div class="agent-title">
+              <h3>SEO Editor</h3>
+              <span class="agent-id">seo-editor</span>
+            </div>
+          </div>
+          <p class="agent-role">Editorial quality gate. The last set of eyes before content commits. Catches AI tells, weak claims, broken SEO markers, and ID↔EN parity gaps — and fixes them in-place via the Edit tool.</p>
+          <div class="agent-section">
+            <h4>Key responsibilities</h4>
+            <ul class="agent-list">
+              <li>Anti-AI scan (style_guide.md §5) — applies fixes directly</li>
+              <li>Factual spot-check against dossier + product_matrix.md</li>
+              <li>On-page SEO checklist: meta lengths, H-hierarchy, LSI density, FAQ, links</li>
+              <li>ID↔EN parity check (same key claims, mirrored link destinations)</li>
+              <li>Image plan validation (file existence + alt-text length)</li>
+              <li>Outputs recommendation: <code>approve</code> · <code>revise</code> · <code>reject</code> (binding)</li>
+            </ul>
+          </div>
+          <div class="agent-meta">
+            <span class="badge badge-opus">opus</span>
+            <span class="badge badge-tool">Read</span>
+            <span class="badge badge-tool">Edit</span>
+            <span class="badge badge-tool">WebSearch</span>
+            <span class="badge badge-tool">Grep</span>
+          </div>
+        </article>
+
+        <!-- Curator -->
+        <article class="agent-card" style="grid-column: 1 / -1;">
+          <div class="agent-card-head">
+            <div class="agent-number">7</div>
+            <div class="agent-title">
+              <h3>Article History Curator</h3>
+              <span class="agent-id">article-history-curator</span>
+            </div>
+          </div>
+          <p class="agent-role">The knowledge-base librarian. Runs automatically once the editor batch completes — commits articles with <code>recommendation: approve</code> to history, generates the bilingual .docx files with embedded images, and skips <code>revise</code> / <code>reject</code> articles for manual handling.</p>
+          <div class="agent-section">
+            <h4>Key responsibilities</h4>
+            <ul class="agent-list">
+              <li>Filter on editor's <code>recommendation</code> field — verdict is binding</li>
+              <li>Compute angle hashes for future dedup (SHA1 of keyword + angle + sorted subtopics)</li>
+              <li>Append entries to <code>articles_history/index.json</code> (never overwrite)</li>
+              <li>Write per-article records under <code>by_keyword/&lt;slug&gt;/</code></li>
+              <li>Convert .md → .docx via <code>tools/md-to-docx.ps1</code> with embedded images</li>
+              <li>Surface conversion failures or skipped articles in the run report</li>
+            </ul>
+          </div>
+          <div class="agent-meta">
+            <span class="badge badge-haiku">haiku</span>
+            <span class="badge badge-tool">Read</span>
+            <span class="badge badge-tool">Write</span>
+            <span class="badge badge-tool">Edit</span>
+            <span class="badge badge-tool">Bash</span>
+            <span class="badge badge-tool">pandoc</span>
+          </div>
+        </article>
+
+      </div>
+    </section>
+
+    <!-- ===== Workflow ===== -->
+    <section id="workflow">
+      <h4>04 · Workflow</h4>
+      <h2>What happens during a monthly run</h2>
+      <p>A full month spawns ~190 agent invocations across the 7 specialists. Each step writes to a versioned monthly-run folder so any artifact is inspectable mid-pipeline.</p>
+
+      <div class="workflow">
+
+        <div class="workflow-step">
+          <div class="step-number">1</div>
+          <div class="step-content">
+            <h3>Strategist fans out per keyword</h3>
+            <p>Six concurrent strategist runs (one per keyword) brainstorm angles, capture SERP + Ahrefs + GSC data, and produce 5 briefs per keyword = <strong>30 total</strong>. Per-keyword research data is cached at <code>monthly_runs/&lt;YYYY-MM&gt;/research/&lt;keyword&gt;.research.json</code> so the 5 sibling briefs share one MCP-call pass.</p>
+            <div class="step-meta">
+              <span>6 parallel invocations</span>
+              <span>~7 min per keyword</span>
+              <span>Output: 30 briefs</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="workflow-step">
+          <div class="step-number">2</div>
+          <div class="step-content">
+            <h3>Researcher builds dossiers in parallel</h3>
+            <p>Thirty concurrent researcher runs verify every claim from each brief against authoritative sources (KKP, FAO, BPS, jurnal perikanan, SEAFDEC). Each produces a dossier with verified facts, FAQ drafts, definition snippet, and STP product anchors mapped to article sections.</p>
+            <div class="step-meta">
+              <span>30 parallel invocations</span>
+              <span>~6 min each</span>
+              <span>Output: 30 dossiers</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="workflow-step">
+          <div class="step-number">3</div>
+          <div class="step-content">
+            <h3>Both language writers run concurrently</h3>
+            <p>Thirty Indonesian writer runs + thirty English writer runs fire in parallel — 60 total. Writers reference brief + dossier + style guide + product matrix. Anti-AI guardrails are baked into the system prompt; writers self-review against §5 of <code>style_guide.md</code> before saving.</p>
+            <div class="step-meta">
+              <span>60 parallel invocations</span>
+              <span>~8 min each</span>
+              <span>Output: 60 drafts (30 ID + 30 EN)</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="workflow-step">
+          <div class="step-number">4</div>
+          <div class="step-content">
+            <h3>Image generator runs the batch helper</h3>
+            <p>Thirty image-generator runs each build a manifest of 3 images, then invoke <code>tools/generate-images-batch.ps1</code> which spawns concurrent <code>Start-Job</code> processes — three OpenAI API calls running in parallel per article. Same image set is shared between .id.docx and .en.docx.</p>
+            <div class="step-meta">
+              <span>30 invocations × 3 parallel images</span>
+              <span>~1.5 min each</span>
+              <span>Output: ~90 PNGs + 30 image plans</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="workflow-step">
+          <div class="step-number">5</div>
+          <div class="step-content">
+            <h3>Editor polishes and judges</h3>
+            <p>Thirty editor runs each handle one ID+EN pair plus its image plan. Editor applies fixes in-place (anti-AI patterns, broken SEO markers, ID↔EN parity gaps), writes polished finals to <code>final/</code>, and produces a QC report with a binding <code>recommendation</code> field.</p>
+            <div class="step-meta">
+              <span>30 parallel invocations</span>
+              <span>~10 min each</span>
+              <span>Output: 60 final .md + 30 QC reports</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="workflow-step">
+          <div class="step-number">6</div>
+          <div class="step-content">
+            <h3>Curator commits and converts</h3>
+            <p>Single curator run scans every QC report. Articles with <code>approve</code> get history entries, per-article records, and a bilingual .docx pair with embedded images. Articles flagged <code>revise</code> or <code>reject</code> stay in <code>final/</code> for the user to handle manually. No human approval gate — editor's verdict is binding.</p>
+            <div class="step-meta">
+              <span>1 sequential invocation</span>
+              <span>~3 min total</span>
+              <span>Output: history + 60 .docx + run report</span>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ===== Knowledge base + integrations ===== -->
+    <section id="knowledge-base">
+      <h4>05 · Foundation</h4>
+      <h2>Knowledge base &amp; integrations</h2>
+
+      <div class="two-col">
+        <div>
+          <h3>Shared knowledge base</h3>
+          <p>Every agent reads from the same four reference files. Agents never invent facts the knowledge base doesn't endorse — accuracy is enforced upstream, once, instead of in each agent's prompt.</p>
+
+          <div class="stack-grid" style="grid-template-columns: 1fr; margin-top: 16px;">
+            <div class="stack-item">
+              <h4>company_profile.md</h4>
+              <p>STP facts, products with verified specs, certifications (ISO 9001:2015, TÜV Rheinland), positioning lines pre-approved for use in articles.</p>
+            </div>
+            <div class="stack-item">
+              <h4>style_guide.md</h4>
+              <p>Article anatomy, tone rules (ID + EN), anti-AI patterns to avoid (paragraph symmetry, cliché transitions), mandatory format mix per article.</p>
+            </div>
+            <div class="stack-item">
+              <h4>product_matrix.md</h4>
+              <p>Mapping of topic → product. The researcher picks anchors; the writer mentions products verbatim per spec; the editor verifies no SKUs were invented.</p>
+            </div>
+            <div class="stack-item">
+              <h4>seo_playbook.md</h4>
+              <p>2026 algorithm rules (HCU, E-E-A-T, SpamBrain), AI Overview optimization (entity-first, FAQ-rich, definition snippets), on-page checklist.</p>
+            </div>
+          </div>
+        </div>
+
+        <div>
+          <h3>External integrations</h3>
+          <p>The pipeline relies on three external services. All are wired and tested in production for the pilot run.</p>
+
+          <div class="stack-grid" style="grid-template-columns: 1fr; margin-top: 16px;">
+            <div class="stack-item">
+              <h4>Ahrefs MCP (includes Google Search Console)</h4>
+              <p>One MCP server that exposes keywords-explorer, SERP-overview, site-explorer, rank-tracker, AND gsc-* tools. Strategist calls them to capture volume, KD, related terms, top SERP, and GSC-driven gap analysis.</p>
+            </div>
+            <div class="stack-item">
+              <h4>OpenAI gpt-image-1 (ChatGPT Images)</h4>
+              <p>Image generator calls the OpenAI Images API via <code>tools/generate-image.ps1</code> (single image) and <code>tools/generate-images-batch.ps1</code> (parallel batch). API key stored in <code>.env</code> (gitignored).</p>
+            </div>
+            <div class="stack-item">
+              <h4>Pandoc 3.9.0.2 (portable)</h4>
+              <p>Curator converts markdown → docx via <code>tools/md-to-docx.ps1</code>. Reference template (<code>tools/reference.docx</code>) matches the Contoh Artikel Pilar styling. Images auto-embedded at placeholder positions.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== Optimizations ===== -->
+    <section id="optimizations">
+      <h4>06 · Optimizations</h4>
+      <h2>Three pipeline optimizations</h2>
+      <p>After the successful pilot run, three optimizations were applied to make the full monthly batch faster and cheaper without sacrificing quality.</p>
+
+      <div class="optim-grid">
+
+        <div class="optim-card">
+          <div class="optim-icon">⚙️</div>
+          <h3>Model tiering per agent</h3>
+          <p>Each agent now declares the cheapest model that can do its job via <code>model:</code> frontmatter. Judgment-heavy agents stay on Opus; structured-fact agents drop to Sonnet; the mechanical curator runs on Haiku.</p>
+          <div class="optim-impact">Saves ~30–40% on model cost across a full monthly batch.</div>
+        </div>
+
+        <div class="optim-card">
+          <div class="optim-icon">💾</div>
+          <h3>Shared keyword research cache</h3>
+          <p>The strategist's external data pull happens once per keyword per month and is cached at <code>research/&lt;keyword&gt;.research.json</code>. All 5 sibling briefs for the same keyword reuse the cache instead of re-running every Ahrefs / SERP / GSC call.</p>
+          <div class="optim-impact">Eliminates 24 of 30 redundant MCP-call sets per month.</div>
+        </div>
+
+        <div class="optim-card">
+          <div class="optim-icon">⚡</div>
+          <h3>Parallel image generation</h3>
+          <p>New batch helper <code>tools/generate-images-batch.ps1</code> spawns concurrent <code>Start-Job</code> processes — three OpenAI calls running in parallel per article. Per-image failures are isolated; one rejection doesn't block the rest.</p>
+          <div class="optim-impact">~3.5 min saved per article × 30 = ~1.7 hours per month.</div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ===== Pilot ===== -->
+    <section id="pilot">
+      <h4>07 · Pilot</h4>
+      <h2>One-article pilot results</h2>
+      <p>Before scaling to a 30-article monthly batch, the full pipeline was validated end-to-end on a single article: <strong>"Cara Menghitung Kebutuhan Pakan Ikan Nila per 1000 Ekor sampai Panen"</strong> (calculation-focused, distinct from the existing Contoh Artikel Pilar's nutritional-strategy angle).</p>
+
+      <div class="stat-grid" style="margin-top: 24px;">
+        <div class="stat"><div class="stat-value">9 / 10</div><div class="stat-label">Editor quality score</div></div>
+        <div class="stat"><div class="stat-value">2,403</div><div class="stat-label">ID words</div></div>
+        <div class="stat"><div class="stat-value">1,799</div><div class="stat-label">EN words</div></div>
+        <div class="stat"><div class="stat-value">19</div><div class="stat-label">Verified claims</div></div>
+      </div>
+
+      <h3 style="margin-top: 40px;">Images generated by gpt-image-1 (used in the actual final .docx)</h3>
+      <div class="pilot-images">
+        <div class="pilot-image-card">
+          <img src="assets/images/pilot-image-01.png" alt="Hero infographic showing a 5-step feed calculation flow for tilapia farming">
+          <div class="pilot-image-caption">
+            <strong>IMAGE_01 · Hero</strong>
+            5-step calculation flow: scale &amp; pellet → biomass × feeding rate → daily feed → bagged total
+          </div>
+        </div>
+        <div class="pilot-image-card">
+          <img src="assets/images/pilot-image-02.png" alt="Phase-card visualization showing the four phases of the worked example">
+          <div class="pilot-image-caption">
+            <strong>IMAGE_02 · Mid-article</strong>
+            Phase-card visualization for the worked-example table (deliberately text-free for ID + EN reuse)
+          </div>
+        </div>
+        <div class="pilot-image-card">
+          <img src="assets/images/pilot-image-03.png" alt="Editorial photograph of a farmer weighing a tilapia sample during biomass sampling">
+          <div class="pilot-image-caption">
+            <strong>IMAGE_03 · Sampling section</strong>
+            Editorial photo concept — biomass sampling for accurate FCR tracking
+          </div>
+        </div>
+      </div>
+
+      <div class="callout success">
+        <strong>Pipeline wins observed during the pilot:</strong> the researcher pushed back on the brief's "4–6× per day" feeding frequency, correcting it to "3× max" based on Indonesian literature. The editor caught a parity drift where the ID writer used the wrong cousin landing page and synced it to mirror EN. The image generator chose deliberately text-free infographics so the same set works for both .id.docx and .en.docx — halving the image cost.
+      </div>
+    </section>
+
+    <!-- ===== Cost & performance ===== -->
+    <section id="cost">
+      <h4>08 · Economics</h4>
+      <h2>Cost &amp; performance projections</h2>
+      <p>The pilot measured real costs and wall-clock times. Extrapolating to a full 30-article month with the three optimizations applied:</p>
+
+      <table>
+        <thead>
+          <tr>
+            <th>Item</th>
+            <th>Per article</th>
+            <th>Per month (30 articles)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Image generation (1 hero high + 2 in-body medium)</td>
+            <td>~$0.37</td>
+            <td><strong>~$11</strong></td>
+          </tr>
+          <tr>
+            <td>Pipeline wall-clock (with parallel image gen)</td>
+            <td>~40 min</td>
+            <td>Depends on parallelization across keywords</td>
+          </tr>
+          <tr>
+            <td>Ahrefs MCP calls (with shared research cache)</td>
+            <td>—</td>
+            <td>6 keyword research pulls (vs. 30 without cache)</td>
+          </tr>
+          <tr>
+            <td>Manual review burden</td>
+            <td>0 (fully autonomous)</td>
+            <td>Review <code>final/</code> at your own pace</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <div class="callout warn">
+        <strong>Note on Anthropic / model costs:</strong> Anthropic API costs depend on session-level token usage, which scales with article length and tool calls. Model tiering (Opus → Sonnet → Haiku per agent) is set up to minimize this; specific dollar figures depend on your Anthropic subscription and current pricing.
+      </div>
+    </section>
+
+    <!-- ===== File structure ===== -->
+    <section id="structure">
+      <h4>09 · Layout</h4>
+      <h2>Project file structure</h2>
+      <p>Everything lives under <code>D:\claude\seo-stp\</code>. Agents read from the knowledge base, write into versioned monthly-run folders, and append to the queryable history.</p>
+
+      <pre class="tree"><span class="dir">D:\claude\seo-stp\</span>
+├── <span class="dir">CLAUDE.md</span>                              <span class="comment">← orchestration brain (auto-loaded each session)</span>
+├── <span class="dir">.claude/</span>
+│   ├── <span class="dir">agents/</span>                            <span class="comment">← 7 agent system prompts</span>
+│   └── <span class="dir">commands/</span>                          <span class="comment">← slash commands (e.g. /run-month)</span>
+├── <span class="dir">knowledge_base/</span>                        <span class="comment">← reference files</span>
+│   ├── company_profile.md
+│   ├── style_guide.md
+│   ├── product_matrix.md
+│   └── seo_playbook.md
+├── <span class="dir">articles_history/</span>
+│   ├── index.json                         <span class="comment">← master log (queryable)</span>
+│   ├── README.md                          <span class="comment">← schema reference</span>
+│   └── <span class="dir">by_keyword/</span>&lt;slug&gt;/                  <span class="comment">← per-article records</span>
+├── <span class="dir">monthly_runs/</span>&lt;YYYY-MM&gt;/
+│   ├── <span class="dir">research/</span>&lt;keyword&gt;.research.json    <span class="comment">← shared research cache</span>
+│   ├── <span class="dir">briefs/</span>
+│   ├── <span class="dir">dossiers/</span>
+│   ├── <span class="dir">drafts/</span>                              <span class="comment">← writer output (pre-edit)</span>
+│   └── <span class="dir">final/</span>                               <span class="comment">← editor output + images + docx</span>
+│       ├── &lt;brief-id&gt;.id.md
+│       ├── &lt;brief-id&gt;.id.docx
+│       ├── &lt;brief-id&gt;.en.md
+│       ├── &lt;brief-id&gt;.en.docx
+│       ├── &lt;brief-id&gt;.qc.md
+│       ├── &lt;brief-id&gt;.images.json
+│       ├── &lt;brief-id&gt;-01.png
+│       ├── &lt;brief-id&gt;-02.png
+│       └── &lt;brief-id&gt;-03.png
+└── <span class="dir">tools/</span>
+    ├── md-to-docx.ps1                     <span class="comment">← pandoc wrapper, auto-embeds images</span>
+    ├── generate-image.ps1                 <span class="comment">← OpenAI gpt-image-1 single-image helper</span>
+    ├── generate-images-batch.ps1          <span class="comment">← parallel batch (3 concurrent)</span>
+    ├── reference.docx                     <span class="comment">← styling template</span>
+    └── <span class="dir">pandoc/</span>                              <span class="comment">← portable install</span></pre>
+    </section>
+
+    <!-- ===== Guardrails ===== -->
+    <section id="guardrails">
+      <h4>10 · Guardrails</h4>
+      <h2>Non-negotiable rules</h2>
+      <p>These six guardrails are encoded in the agent prompts and the knowledge base. They protect quality at scale.</p>
+
+      <div class="agents-grid">
+        <article class="agent-card">
+          <div class="agent-card-head">
+            <div class="agent-number">1</div>
+            <div class="agent-title"><h3>History check before strategy</h3></div>
+          </div>
+          <p class="agent-role">The strategist <strong>must</strong> read <code>articles_history/index.json</code> and per-keyword records before proposing concepts. Duplicate-angle articles get rejected. Angle hashes (SHA1 over keyword + angle + sorted subtopics) make the dedup check unambiguous.</p>
+        </article>
+
+        <article class="agent-card">
+          <div class="agent-card-head">
+            <div class="agent-number">2</div>
+            <div class="agent-title"><h3>Accuracy over invention</h3></div>
+          </div>
+          <p class="agent-role">No agent invents STP product names, specs, certifications, or facilities. Researcher verifies or flags. Editor verifies product specs match <code>product_matrix.md</code> verbatim. Fabricated SKUs fail QC.</p>
+        </article>
+
+        <article class="agent-card">
+          <div class="agent-card-head">
+            <div class="agent-number">3</div>
+            <div class="agent-title"><h3>No AI tells</h3></div>
+          </div>
+          <p class="agent-role">Writer + editor enforce <code>style_guide.md</code> §5 — no symmetric paragraph blocks, no "Selain itu" repetition, no "Penting untuk dicatat" filler, no em-dash abuse, no bullet-only sections. Drafts that read AI-generated get fixed or bounced.</p>
+        </article>
+
+        <article class="agent-card">
+          <div class="agent-card-head">
+            <div class="agent-number">4</div>
+            <div class="agent-title"><h3>Editor verdict is binding</h3></div>
+          </div>
+          <p class="agent-role">The curator commits only articles with <code>recommendation: approve</code> in their QC report. <code>revise</code> and <code>reject</code> articles stay in <code>final/</code> for manual handling. The curator never overrides the editor.</p>
+        </article>
+
+        <article class="agent-card">
+          <div class="agent-card-head">
+            <div class="agent-number">5</div>
+            <div class="agent-title"><h3>External authority required</h3></div>
+          </div>
+          <p class="agent-role">Every article cites at least two authoritative sources (KKP, FAO, BPS, jurnal perikanan, SEAFDEC). Researcher captures them in the dossier; writer embeds them inline; editor verifies they're present.</p>
+        </article>
+
+        <article class="agent-card">
+          <div class="agent-card-head">
+            <div class="agent-number">6</div>
+            <div class="agent-title"><h3>Bilingual parity</h3></div>
+          </div>
+          <p class="agent-role">EN version covers the same key claims as ID — adapted for international readers, not literally translated. Editor's parity check catches divergences. Image placeholders match positions in both languages.</p>
+        </article>
+      </div>
+    </section>
+
+    <!-- ===== Phase 2 ===== -->
+    <section id="phase-2">
+      <h4>11 · Roadmap</h4>
+      <h2>Deferred to Phase 2</h2>
+      <p>Two additions are scoped but not built — to be added after the article pipeline runs stably across 2+ months:</p>
+
+      <div class="two-col">
+        <div class="stack-item">
+          <h4>seo-analytics-reporter</h4>
+          <p>Pulls GA4 + GSC + rank tracker, produces the monthly client report matching the WEBARQ Promote template. Same data sources as the strategist (Ahrefs MCP carries GSC), so connector reuse is straightforward.</p>
+        </div>
+        <div class="stack-item">
+          <h4>seo-dashboard-builder</h4>
+          <p>Looker Studio (or similar) live dashboard embed. Real-time keyword rank, traffic, and conversion tracking instead of monthly PDFs.</p>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="footer">
+    <div class="shell">
+      <p><strong>STP Aquaculture · AI Content Pipeline</strong></p>
+      <p>Built by WEBARQ Promote · v1.0 · May 2026</p>
+      <p>Architecture document generated from the live agent system at <code>D:\claude\seo-stp\</code>.</p>
+    </div>
+  </footer>
+
+</body>
+</html>

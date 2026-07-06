@@ -1,0 +1,50 @@
+{
+  "brief_id": "sap-clean-core-01",
+  "article_title_id": "Apa Itu Clean Core SAP dan Mengapa Penting Sebelum Pindah ke Cloud",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-02",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Diagram konseptual clean core SAP — lingkaran inti di tengah berlabel \"Digital Core S/4HANA — standar, upgrade-safe\"; di luarnya kotak-kotak ekstensi pada \"SAP BTP\" tersambung lewat panah hijau berlabel \"released/public API\"; satu kotak kecil di dalam inti berlabel \"in-app extensibility (released)\"; di sisi kiri, panah merah dicoret berlabel \"modifikasi inti = berisiko saat upgrade\". Gaya korporat biru-hijau, teks Bahasa Indonesia, label minimal",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Arsitektur inti-vs-ekstensi yang menjelaskan prinsip clean core hanya bisa disampaikan jernih lewat diagram konseptual, bukan stok foto.",
+      "visual_direction": "Diagram arsitektur konseptual, orientasi lanskap (16:9), latar putih bersih. Di pusat: lingkaran besar solid biru tua berlabel di dalamnya 'Digital Core S/4HANA — standar, upgrade-safe'. Di dalam lingkaran inti itu, satu kotak kecil bergaris biru muda berlabel 'in-app extensibility (released)'. Mengelilingi lingkaran inti, tiga sampai empat kotak ekstensi membulat berwarna hijau, dikelompokkan di bawah satu pita/banner hijau berlabel 'SAP BTP'; tiap kotak ekstensi tersambung ke lingkaran inti lewat panah hijau tegas dengan satu label bersama 'released/public API'. Di sisi kiri lingkaran inti: satu panah merah menunjuk masuk ke inti, dicoret dengan garis silang merah, berlabel 'modifikasi inti = berisiko saat upgrade'. Sertakan legenda kecil di pojok bawah: ikon panah hijau = 'aman saat upgrade', ikon panah merah dicoret = 'berisiko'. Palet korporat: biru tua (inti) + hijau (ekstensi/BTP/aman) + merah hanya untuk jalur berisiko + putih sebagai latar. Garis bersih, sudut membulat lembut, tipografi sans-serif, label sesingkat mungkin. Tanpa foto, tanpa 3D, tanpa gradien ramai.",
+      "in_image_text_id": [
+        "Digital Core S/4HANA — standar, upgrade-safe",
+        "in-app extensibility (released)",
+        "SAP BTP",
+        "released/public API",
+        "modifikasi inti = berisiko saat upgrade",
+        "aman saat upgrade",
+        "berisiko"
+      ],
+      "alt_id": "Diagram clean core SAP: inti S/4HANA standar dengan ekstensi di SAP BTP lewat released API, modifikasi inti dicoret.",
+      "caption_id": "Prinsip clean core: inti S/4HANA dijaga standar dan upgrade-safe, sementara kustomisasi dipindahkan ke ekstensi di SAP BTP yang tersambung lewat released/public API — bukan dengan memodifikasi inti.",
+      "sourcing_note": "Diagram desain manual (vektor) oleh tim desain Soltius. Bukan screenshot — tidak ada UI SAP yang ditampilkan, jadi tidak perlu aset SAP asli. Patuhi label verbatim di in_image_text_id.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "in-body — H2 'Apa kaitan clean core dengan kesiapan migrasi ke cloud?', setelah paragraf tenggat maintenance ECC",
+      "concept_from_writer": "Linimasa horizontal \"Tekanan tenggat: dari ECC ke S/4HANA\" — tiga titik: \"ECC mainstream maintenance berakhir 2027\" lalu \"extended maintenance (berbayar) hingga 2030\" lalu \"S/4HANA Cloud — clean core sebagai prasyarat\". Tiap titik dengan ikon kalender, warna progresif kuning ke hijau, teks Bahasa Indonesia, sertakan catatan kecil \"*tanggal mengikuti panduan SAP terkini*\"",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Tiga tonggak berurutan dengan hubungan sebab-urgensi paling jelas sebagai linimasa horizontal; bukan chart angka karena tidak ada deret kuantitatif.",
+      "visual_direction": "Linimasa (timeline) horizontal, orientasi lanskap, latar putih. Satu garis sumbu mendatar dari kiri ke kanan dengan tiga simpul (node) bulat berjarak sama, masing-masing diberi ikon kalender garis-tipis. Judul di atas garis: 'Tekanan tenggat: dari ECC ke S/4HANA'. Node 1 (kiri, warna kuning/amber): label 'ECC mainstream maintenance berakhir 2027'. Node 2 (tengah, warna kuning-kehijauan transisi): label 'Extended maintenance (berbayar) hingga 2030'. Node 3 (kanan, warna hijau penuh): label 'S/4HANA Cloud — clean core sebagai prasyarat'. Panah penghubung antar-node mengikuti gradasi warna progresif dari kuning (urgensi) ke hijau (tujuan/kesiapan). Di bawah garis waktu, teks kecil miring sebagai catatan kaki: '*tanggal mengikuti panduan SAP terkini*'. Palet: kuning/amber → hijau sebagai gradasi utama, biru tua hanya untuk judul/teks, latar putih. Gaya korporat datar, ikon line-style konsisten, label ringkas satu baris bila memungkinkan. Tanpa foto.",
+      "in_image_text_id": [
+        "Tekanan tenggat: dari ECC ke S/4HANA",
+        "ECC mainstream maintenance berakhir 2027",
+        "Extended maintenance (berbayar) hingga 2030",
+        "S/4HANA Cloud — clean core sebagai prasyarat",
+        "*tanggal mengikuti panduan SAP terkini*"
+      ],
+      "alt_id": "Linimasa akhir dukungan SAP ECC 2027 dan extended maintenance 2030 menuju migrasi S/4HANA Cloud dengan clean core.",
+      "caption_id": "Jendela migrasi yang menyempit: mainstream maintenance ECC berakhir 2027 dengan opsi extended berbayar hingga 2030, sementara S/4HANA Cloud menjadikan clean core sebagai prasyarat. Tanggal mengikuti panduan SAP terkini dan perlu dikonfirmasi sebelum penganggaran.",
+      "sourcing_note": "Diagram desain manual (vektor) oleh tim desain. Bukan screenshot SAP. PENTING: angka tahun 2027 (akhir mainstream maintenance) dan 2030 (extended maintenance berbayar) berstatus PENDING VERIFICATION akibat web outage saat perencanaan (2026-06-02) — wajib dikonfirmasi ke pengumuman SAP terkini (mis. support.sap.com / news.sap.com / SAP maintenance strategy) sebelum final render. Jangan kunci/tampilkan kedua tanggal ini tanpa konfirmasi.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

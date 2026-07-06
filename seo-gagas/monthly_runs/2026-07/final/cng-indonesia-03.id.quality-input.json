@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07\\final\\cng-indonesia-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-09T15:41:19+07:00",
+    "word_count":  1632,
+    "paragraph_count":  19,
+    "sentence_count":  92,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.434,
+                        "sentence_burstiness":  0.708,
+                        "top30_vocab_share":  0.318,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.434 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Menurut data EIA (September 2024), pembakaran gas alam menghasilkan 52,91 kg CO2 per MMBTU, sedangkan solar (HSD) 74,14 kg dan LPG 62,88 kg.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Menurut data EIA (September 2024), pembakaran gas alam menghasilkan 52,91 kg CO2 per MMBTU, sedangkan solar (HSD) 74,14 \""
+                                  },
+                                  {
+                                      "passage":  "Berdasarkan data EIA (September 2024), gas alam menghasilkan 52,91 kg CO2 per MMBTU, sedangkan LPG/propana 62,88 kg, selisih sekitar 16% lebih rendah per satuan energi.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Berdasarkan data EIA (September 2024), gas alam menghasilkan 52,91 kg CO2 per MMBTU, sedangkan LPG/propana 62,88 kg, sel\""
+                                  },
+                                  {
+                                      "passage":  "Pembakaran gas alam menghasilkan 52,91 kg CO2 per MMBTU, sedangkan solar (HSD) 74,14 kg, selisih sekitar 29% lebih rendah per unit energi (EIA, September 2024).",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"Pembakaran gas alam menghasilkan 52,91 kg CO2 per MMBTU, sedangkan solar (HSD) 74,14 kg, selisih sekitar 29% lebih renda\""
+                                  },
+                                  {
+                                      "passage":  "Penghematan terdokumentasi berkisar 30–50% biaya bahan bakar; hub gagas.co.id mengklaim hingga 68% vs solar mengacu data KADIN.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Penghematan terdokumentasi berkisar 30–50% biaya bahan bakar; hub gagas.co.id mengklaim hingga 68% vs solar mengacu data\""
+                                  },
+                                  {
+                                      "passage":  "## Kapan CNG BELUM Memberi Manfaat Optimal untuk Operasi Anda Manfaat CNG nyata, tetapi tidak otomatis untuk setiap kasus.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## Kapan CNG BELUM Memberi Manfaat Optimal untuk Operasi Anda Manfaat CNG nyata, tetapi tidak otomatis untuk setiap kasu\""
+                                  },
+                                  {
+                                      "passage":  "Menurut PGN Gagas, RS Hasan Sadikin Bandung menghemat sekitar Rp 3 miliar/tahun setelah beralih dari solar ke Gaslink CNG (Agustus 2025).",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Menurut PGN Gagas, RS Hasan Sadikin Bandung menghemat sekitar Rp 3 miliar/tahun setelah beralih dari solar ke Gaslink CN\""
+                                  },
+                                  {
+                                      "passage":  "## Manfaat Lingkungan vs Manfaat Bisnis: Dua Sisi yang Sejalan Yang membuat kasus CNG kuat adalah keselarasannya: tindakan yang menekan biaya umumnya juga menekan emisi.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Manfaat Lingkungan vs Manfaat Bisnis: Dua Sisi yang Sejalan Yang membuat kasus CNG kuat adalah keselarasannya: tindak\""
+                                  },
+                                  {
+                                      "passage":  "- **Lokasi sudah dilintasi pipa gas.** Bila pipa sudah melewati fasilitas Anda, gas pipa umumnya lebih efisien karena tanpa biaya transportasi, sehingga keunggulan logistik CNG tak relevan.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"- **Lokasi sudah dilintasi pipa gas.** Bila pipa sudah melewati fasilitas Anda, gas pipa umumnya lebih efisien karena ta\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

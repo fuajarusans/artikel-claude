@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07\\final\\gaslink-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-09T09:46:13+07:00",
+    "word_count":  1614,
+    "paragraph_count":  18,
+    "sentence_count":  79,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.613,
+                        "sentence_burstiness":  0.904,
+                        "top30_vocab_share":  0.308,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "## Mengenal Konsep *Beyond Pipeline*: Kenapa Gas Bisa Sampai Tanpa Pipa *Beyond pipeline* berarti melayani pelanggan di luar jangkauan jaringan pipa gas.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"## Mengenal Konsep *Beyond Pipeline*: Kenapa Gas Bisa Sampai Tanpa Pipa *Beyond pipeline* berarti melayani pelanggan di \""
+                                  },
+                                  {
+                                      "passage":  "**Gas bumi diterima di Mother Station (SPBG).** Gas alam dari jaringan transmisi nasional masuk ke stasiun pengisian bernama Mother Station, atau SPBG (Stasiun Pengisian Bahan Bakar Gas).",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"**Gas bumi diterima di Mother Station (SPBG).** Gas alam dari jaringan transmisi nasional masuk ke stasiun pengisian ber\""
+                                  },
+                                  {
+                                      "passage":  "## Kapan Bisnis Anda BELUM Perlu (atau Belum Cocok) Beralih ke Gaslink Gaslink tidak cocok untuk semua orang, dan mengatakannya lebih jujur daripada mendorong semua bisnis beralih.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## Kapan Bisnis Anda BELUM Perlu (atau Belum Cocok) Beralih ke Gaslink Gaslink tidak cocok untuk semua orang, dan mengat\""
+                                  },
+                                  {
+                                      "passage":  "## Bagaimana Cara Kerja Gaslink, dari Mother Station hingga ke Burner Pabrik Anda?",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Bagaimana Cara Kerja Gaslink, dari Mother Station hingga ke Burner Pabrik Anda?\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai gambaran ilustratif dari contoh lapangan 2017, penghematan CNG dibanding LPG nonsubsidi sempat disebut mencapai 20–50% di perhotelan, dan satu laundry di Batam menghemat sekitar Rp 16 juta/bulan.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Sebagai gambaran ilustratif dari contoh lapangan 2017, penghematan CNG dibanding LPG nonsubsidi sempat disebut mencapai \""
+                                  },
+                                  {
+                                      "passage":  "**Kompresi menjadi CNG.** Di Mother Station, gas dikompresi hingga sekitar 200–250 bar, memampatkan volumenya menjadi sekitar 1/250 kondisi normal agar efisien diangkut.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"**Kompresi menjadi CNG.** Di Mother Station, gas dikompresi hingga sekitar 200–250 bar, memampatkan volumenya menjadi se\""
+                                  },
+                                  {
+                                      "passage":  "Langkah paling bijak bukan langsung beralih, melainkan menilai dulu apakah skala dan lokasi usaha cocok, sambil menimbang kredibilitas [penyedia CNG di Indonesia](https://gagas.co.id/perusahaan-cng-indonesia/).",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Langkah paling bijak bukan langsung beralih, melainkan menilai dulu apakah skala dan lokasi usaha cocok, sambil menimban\""
+                                  },
+                                  {
+                                      "passage":  "**Dihubungkan ke Pressure Reduction Station (PRS).** Di lokasi, GTM dihubungkan ke Pressure Reduction Station, yang menurunkan tekanan ke level kerja yang aman bagi peralatan pelanggan.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"**Dihubungkan ke Pressure Reduction Station (PRS).** Di lokasi, GTM dihubungkan ke Pressure Reduction Station, yang menu\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

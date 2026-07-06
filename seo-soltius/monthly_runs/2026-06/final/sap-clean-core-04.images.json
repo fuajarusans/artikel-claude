@@ -1,0 +1,61 @@
+{
+  "brief_id": "sap-clean-core-04",
+  "article_title_id": "Ekstensi SAP Tanpa Menyentuh Core: Panduan Side-by-Side Extensibility di BTP",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-02",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Diagram arsitektur konseptual tiga lapisan — (bawah) \"S/4HANA Core\" kotak tertutup berwarna biru tua, (tengah) \"SAP BTP\" dengan ikon SAP Build Apps, Build Process Automation, dan Integration Suite, (atas) \"End Users\". Panah dua arah antara S/4HANA dan BTP berlabel \"Released API\". Di luar kotak core, teks: \"Ekstensi di sini = upgrade-safe\". Gaya infografik korporat, teks Bahasa Indonesia.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Arsitektur tiga lapisan dengan panah berlabel paling tepat disajikan sebagai diagram teknis — menyampaikan hubungan antar komponen secara tepat dan mudah dibaca oleh audiens IT/CIO.",
+      "visual_direction": "Diagram arsitektur berlapis tiga, orientasi vertikal, lebar penuh. Latar belakang putih bersih. Lapisan paling bawah: kotak persegi panjang biru tua (hex #003057 atau sejenisnya) bertuliskan 'S/4HANA Core' dalam font sans-serif putih tebal — ini adalah inti yang tertutup, tambahkan efek batas tebal/solid untuk menegaskan ia tidak boleh disentuh. Lapisan tengah: kotak persegi panjang biru muda (hex #0070AD atau sejenisnya) berlabel 'SAP BTP (Business Technology Platform)' — di dalamnya tampilkan tiga ikon kecil horizontal: ikon Build Apps (grid/kotak visual), ikon Build Process Automation (panah siklus/workflow), dan ikon Integration Suite (koneksi/plug); masing-masing dengan label teks Bahasa Indonesia di bawahnya ('SAP Build Apps', 'SAP Build Process Automation', 'SAP Integration Suite'). Lapisan paling atas: kotak abu terang berlabel 'End Users (Pengguna Akhir)' dengan ikon siluet pengguna. Di antara lapisan 'S/4HANA Core' dan 'SAP BTP': dua panah dua arah (↕) berwarna oranye atau kuning keemasan berlabel 'Released API' — ini adalah jembatan komunikasi yang sah. Di sebelah kanan lapisan 'SAP BTP', di luar batas kotak core: teks italic kecil berwarna hijau atau biru aksen: 'Ekstensi di sini = upgrade-safe'. Tipografi: font sans-serif modern (Inter, Roboto, atau Open Sans). Palet: biru tua, biru muda, putih, abu terang, dengan aksen oranye untuk panah API.",
+      "in_image_text_id": [
+        "S/4HANA Core",
+        "SAP BTP (Business Technology Platform)",
+        "SAP Build Apps",
+        "SAP Build Process Automation",
+        "SAP Integration Suite",
+        "End Users (Pengguna Akhir)",
+        "Released API",
+        "Ekstensi di sini = upgrade-safe"
+      ],
+      "alt_id": "Diagram arsitektur tiga lapisan SAP Clean Core: S/4HANA Core, SAP BTP, dan End Users dihubungkan lewat Released API",
+      "caption_id": "Arsitektur side-by-side extensibility SAP: ekstensi dibangun di lapisan SAP BTP dan terhubung ke S/4HANA melalui Released API yang stabil — inti sistem tidak disentuh sehingga tetap upgrade-safe.",
+      "sourcing_note": "Diagram konseptual — tidak memerlukan screenshot SAP asli. Tim desain dapat membuat dari nol berdasarkan deskripsi di atas. Gunakan palet warna SAP resmi (biru #003057 dan #0070AD) agar tampilan profesional dan selaras dengan branding klien. Referensi visual: cari 'SAP BTP architecture diagram' atau 'SAP extensibility layers diagram' di sap.com/community untuk inspirasi tata letak.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body",
+      "concept_from_writer": "Infografik dua kolom — kiri \"In-App Extensibility\": ikon key-user, label \"Dalam S/4HANA\", checklist kebutuhan ringan, warna biru muda; kanan \"Side-by-Side Extensibility\": ikon developer dan cloud, label \"Di SAP BTP\", checklist kebutuhan kompleks, warna biru tua. Format korporat, teks Bahasa Indonesia.",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Perbandingan dua pendekatan dengan checklist ringkas paling efektif disajikan sebagai infografik dua kolom — mudah di-screenshot, dibagikan di LinkedIn, dan membantu keputusan praktis audiens B2B IT.",
+      "visual_direction": "Infografik dua kolom sejajar, orientasi horizontal, lebar penuh. Latar belakang putih atau abu sangat terang. Judul di atas tengah: 'Memilih Pendekatan Ekstensi SAP yang Tepat' dalam font sans-serif biru tua, tebal. Kolom kiri — 'In-App Extensibility': header panel biru muda (hex #E8F4FD atau sejenisnya) dengan teks judul 'In-App Extensibility' biru tua tebal; sub-label kecil: 'Dalam S/4HANA'; ikon utama: siluet pengguna bisnis (key user) dengan alat sederhana (wrench/settings kecil); daftar checklist (ikon centang hijau) berisikan: 'Custom field & aturan validasi', 'Workflow ringan via SAP Fiori', 'Custom Business Objects sederhana', 'Tidak butuh SAP BTP'; footer panel: label 'Cocok untuk: kebutuhan konfigurasi sederhana'. Kolom kanan — 'Side-by-Side Extensibility': header panel biru tua (hex #003057 atau sejenisnya) dengan teks judul putih 'Side-by-Side Extensibility'; sub-label kecil putih: 'Di SAP BTP'; ikon utama: siluet developer dengan ikon cloud di belakangnya; daftar checklist (ikon centang oranye/kuning) berisikan: 'Logika bisnis kompleks', 'Integrasi dengan sistem legacy/eksternal', 'Aplikasi mobile atau web baru', 'Butuh SAP BTP + lisensi tambahan'; footer panel: label berwarna terang: 'Cocok untuk: kebutuhan melampaui key-user tools'. Di antara kedua kolom: tanda panah dua arah kecil atau pembatas vertikal tipis. Tipografi konsisten dengan IMAGE_01: font sans-serif, bersih, modern. Semua teks Bahasa Indonesia.",
+      "in_image_text_id": [
+        "Memilih Pendekatan Ekstensi SAP yang Tepat",
+        "In-App Extensibility",
+        "Dalam S/4HANA",
+        "Custom field & aturan validasi",
+        "Workflow ringan via SAP Fiori",
+        "Custom Business Objects sederhana",
+        "Tidak butuh SAP BTP",
+        "Cocok untuk: kebutuhan konfigurasi sederhana",
+        "Side-by-Side Extensibility",
+        "Di SAP BTP",
+        "Logika bisnis kompleks",
+        "Integrasi dengan sistem legacy/eksternal",
+        "Aplikasi mobile atau web baru",
+        "Butuh SAP BTP + lisensi tambahan",
+        "Cocok untuk: kebutuhan melampaui key-user tools"
+      ],
+      "alt_id": "Infografik perbandingan In-App Extensibility vs Side-by-Side Extensibility SAP: kriteria, tools, dan kapan digunakan",
+      "caption_id": "Panduan cepat memilih pendekatan ekstensi SAP: in-app extensibility untuk kebutuhan sederhana di dalam S/4HANA, side-by-side di SAP BTP untuk logika kompleks dan integrasi sistem eksternal — keduanya upgrade-safe jika menggunakan tools dan API yang released.",
+      "sourcing_note": "Infografik konseptual — tidak memerlukan screenshot SAP asli. Tim desain membuat dari nol berdasarkan deskripsi di atas. Gunakan data dari tabel perbandingan yang sudah ada di badan artikel sebagai referensi isi. Pastikan teks Bahasa Indonesia digunakan di semua label. Format yang ideal: 1200x630 piksel (optimal untuk berbagi di LinkedIn dan embed di artikel web).",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "brief_id": "low-code-platform-02",
+  "article_title_id": "SAP Build di SAP BTP: Platform Low-Code yang Dirancang untuk Ekosistem ERP",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-02",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Diagram tiga pilar SAP Build — tiga kolom sejajar di atas fondasi bertuliskan \"SAP BTP\". Kolom kiri: \"SAP Build Apps\" (ikon aplikasi mobile/web, warna SAP biru). Kolom tengah: \"SAP Build Process Automation\" (ikon workflow/RPA, warna SAP biru tua). Kolom kanan: \"SAP Build Work Zone\" (ikon portal/dashboard, warna SAP hijau). Di bagian atas, label \"SAP Build Suite\". Ikon hyperscaler kecil di bawah fondasi. Style: korporat, bersih, SAP brand colors, teks Bahasa Indonesia",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Diagram arsitektur tiga kolom paling efektif untuk menyampaikan struktur suite tiga komponen SAP Build kepada pembaca teknis B2B; infografis teks-berat tidak akan menangkap hierarki dan hubungan antar komponen seefektif diagram berlabel.",
+      "visual_direction": "Diagram vertikal berlatar putih bersih dengan palette SAP resmi. Di bagian paling atas, label tebal berwarna biru tua: 'SAP Build Suite'. Di bawahnya, tiga kolom sejajar dengan lebar setara, masing-masing diberi bingkai rounded-corner tipis. Kolom kiri bertuliskan 'SAP Build Apps' dengan ikon abstrak aplikasi mobile dan web (kotak layar ponsel + layar desktop, warna biru SAP #0070F2). Kolom tengah bertuliskan 'SAP Build Process Automation' dengan ikon workflow: panah melengkung yang membentuk loop otomasi dan ikon robot kecil (RPA), warna biru tua SAP #003366. Kolom kanan bertuliskan 'SAP Build Work Zone' dengan ikon portal: grid kotak-kotak kecil mewakili dashboard karyawan, warna hijau SAP #007A33. Di bawah ketiga kolom, sebuah fondasi persegi panjang lebar berwarna abu-abu muda dengan teks bold 'SAP BTP (Business Technology Platform)'. Di bawah fondasi, deretan ikon hyperscaler kecil (AWS, Azure, Google Cloud) berukuran seragam dengan label teks kecil berwarna abu-abu. Semua teks dalam Bahasa Indonesia. Font sans-serif profesional. Latar putih atau abu-abu sangat terang (#F8F8F8).",
+      "in_image_text_id": [
+        "SAP Build Suite",
+        "SAP Build Apps",
+        "SAP Build Process Automation",
+        "SAP Build Work Zone",
+        "SAP BTP (Business Technology Platform)",
+        "AWS",
+        "Azure",
+        "Google Cloud"
+      ],
+      "alt_id": "Diagram tiga komponen SAP Build — Apps, Process Automation, dan Work Zone — di atas fondasi SAP BTP",
+      "caption_id": "SAP Build terdiri dari tiga komponen yang berjalan di atas fondasi SAP BTP: SAP Build Apps untuk pembuatan aplikasi visual, SAP Build Process Automation untuk otomasi workflow dan RPA, dan SAP Build Work Zone untuk portal karyawan terpadu. Ketiganya terintegrasi secara native dengan ekosistem SAP.",
+      "sourcing_note": "Diagram original — dibuat dari nol oleh tim desain. Tidak perlu screenshot SAP. Gunakan warna brand SAP resmi: biru #0070F2 (SAP primary), biru tua #003366, hijau #007A33. Referensi visual struktur suite dapat dilihat di sap.com/products/technology-platform/build.html sebagai panduan konten, namun diagram harus didesain ulang sepenuhnya (bukan salin).",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body",
+      "concept_from_writer": "Diagram arsitektur clean core dengan SAP Build. Lapisan bawah: \"SAP S/4HANA Core\" (warna abu-abu, label \"tidak diubah\"). Di sampingnya kanan, lapisan terpisah \"SAP BTP\" dengan ikon SAP Build di dalamnya (panah dua arah ke S/4HANA melalui API). Label di atas BTP: \"Side-by-side Extensions\". Di kiri S/4HANA, label: \"ABAP Cloud (in-app, upgrade-safe)\". Pesan visual: ekstensi terjadi di luar core. Style: diagram teknis bersih, warna SAP, teks Bahasa Indonesia",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Diagram arsitektur dua-entitas (S/4HANA core vs SAP BTP) dengan panah API adalah satu-satunya cara tepat untuk menyampaikan konsep 'side-by-side extensibility' dan clean core secara visual kepada CIO/IT; ilustrasi konseptual atau foto stok tidak akan menggambarkan pemisahan arsitektur yang menjadi inti argumen artikel.",
+      "visual_direction": "Diagram horizontal berlatar putih, menggambarkan dua blok sistem yang terpisah dengan ruang putih di antara keduanya untuk menegaskan pemisahan. Blok kiri: persegi panjang berlabel bold 'SAP S/4HANA Core' berwarna abu-abu sedang (#B0B0B0), dengan teks kecil di bawah label: '(tidak diubah)' berwarna abu-abu tua. Di bagian dalam blok kiri, teks kecil miring di pojok kiri atas: 'ABAP Cloud (in-app, upgrade-safe)' berwarna biru tua untuk menandakan in-app extensibility yang aman. Blok kanan: persegi panjang berlabel bold 'SAP BTP' berwarna biru muda (#E8F0FE), di dalamnya terdapat ikon kotak kecil berlabel 'SAP Build' (warna biru SAP #0070F2) dan teks label di atas blok: 'Side-by-side Extensions'. Di antara kedua blok, dua panah dua arah (bidirectional) horizontal berwarna biru tua dengan label di tengah panah: 'API (Stable, Upgrade-Safe)'. Di bawah diagram, catatan kecil berwarna abu-abu: 'Ekstensi via SAP Build tidak menyentuh kode inti S/4HANA — aman saat upgrade'. Semua teks Bahasa Indonesia. Tata letak simetris, clean, sans-serif profesional.",
+      "in_image_text_id": [
+        "SAP S/4HANA Core",
+        "(tidak diubah)",
+        "ABAP Cloud (in-app, upgrade-safe)",
+        "SAP BTP",
+        "SAP Build",
+        "Side-by-side Extensions",
+        "API (Stable, Upgrade-Safe)",
+        "Ekstensi via SAP Build tidak menyentuh kode inti S/4HANA — aman saat upgrade"
+      ],
+      "alt_id": "Diagram arsitektur SAP clean core: SAP S/4HANA Core terpisah dari SAP BTP, dihubungkan via API untuk side-by-side extensibility",
+      "caption_id": "Dalam model SAP Clean Core, SAP Build beroperasi di lapisan SAP BTP yang terpisah dari kode inti S/4HANA. Ekstensi dibuat dan dijalankan di BTP, berkomunikasi dengan S/4HANA melalui API yang distabilkan — artinya kustomisasi tetap aman dan tidak perlu direkerjakan saat upgrade sistem.",
+      "sourcing_note": "Diagram original — dibuat dari nol oleh tim desain. Tidak perlu screenshot produk SAP. Referensi konsep arsitektur tersedia di community.sap.com/topics/clean-core dan dokumentasi SAP Clean Core extensibility guide sebagai panduan konten. Warna: abu-abu (#B0B0B0) untuk blok S/4HANA core, biru muda (#E8F0FE) untuk blok BTP, biru SAP (#0070F2) untuk elemen SAP Build.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

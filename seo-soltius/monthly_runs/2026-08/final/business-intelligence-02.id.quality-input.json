@@ -1,0 +1,81 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-08\\final\\business-intelligence-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-08T18:21:23+07:00",
+    "word_count":  2074,
+    "paragraph_count":  24,
+    "sentence_count":  111,
+    "ai_detector":  {
+                        "score":  0.19,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.415,
+                        "sentence_burstiness":  0.739,
+                        "top30_vocab_share":  0.287,
+                        "flags":  [
+                                      {
+                                          "pattern":  "em-dash-overuse",
+                                          "severity":  "medium",
+                                          "snippet":  "Em-dashes count: 5 (max 2)",
+                                          "line":  -1
+                                      },
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.415 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Sebagai konteks pasar lokal, Mordor Intelligence memproyeksikan pasar *Big Data Analytics Software* Indonesia tumbuh dengan CAGR sekitar 9,35% hingga 2030, dengan segmen AI \u0026 analitik sebagai pendorong tercepat.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Sebagai konteks pasar lokal, Mordor Intelligence memproyeksikan pasar *Big Data Analytics Software* Indonesia tumbuh den\""
+                                  },
+                                  {
+                                      "passage":  "Di SAP Analytics Cloud, fitur ini disebut Just Ask, dirilis umum pada Q1 2024 dan menggantikan Search to Insight yang dihentikan sejak Q4 2024.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Di SAP Analytics Cloud, fitur ini disebut Just Ask, dirilis umum pada Q1 2024 dan menggantikan Search to Insight yang di\""
+                                  },
+                                  {
+                                      "passage":  "## Dari Dashboard ke Keputusan: Pergeseran Besar 2026 Pergeseran inti 2026 adalah BI bergerak dari \"melihat grafik\" menjadi \"diberi jawaban\".",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Dari Dashboard ke Keputusan: Pergeseran Besar 2026 Pergeseran inti 2026 adalah BI bergerak dari  melihat grafik  menj\""
+                                  },
+                                  {
+                                      "passage":  "## Yang Tidak Diceritakan Vendor: Batas Augmented Analytics Batas terbesar augmented analytics sederhana: AI hanya seakurat data dan tata kelola di bawahnya.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Yang Tidak Diceritakan Vendor: Batas Augmented Analytics Batas terbesar augmented analytics sederhana: AI hanya seaku\""
+                                  },
+                                  {
+                                      "passage":  "Sejak pembaruan Joule pada 2026, ia memerlukan SAP Build Work Zone untuk *provisioning* dan sinkronisasi pengguna.",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"Sejak pembaruan Joule pada 2026, ia memerlukan SAP Build Work Zone untuk *provisioning* dan sinkronisasi pengguna.\""
+                                  },
+                                  {
+                                      "passage":  "## Tiga Lompatan AI dalam BI: Bahasa Alami, Prediktif, dan Agentik AI masuk ke BI lewat tiga lompatan yang saling menumpuk.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"## Tiga Lompatan AI dalam BI: Bahasa Alami, Prediktif, dan Agentik AI masuk ke BI lewat tiga lompatan yang saling menump\""
+                                  },
+                                  {
+                                      "passage":  "Dua proyeksi Gartner lain memperjelas arahnya, meski perlu dibaca sebagai perkiraan, bukan kepastian.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Dua proyeksi Gartner lain memperjelas arahnya, meski perlu dibaca sebagai perkiraan, bukan kepastian.\""
+                                  },
+                                  {
+                                      "passage":  "Istilah ini diciptakan Gartner pada 2017 dan kini menjadi fondasi evolusi modern platform BI seperti SAP Analytics Cloud.",
+                                      "candidate_score":  11,
+                                      "web_search_query":  "\"Istilah ini diciptakan Gartner pada 2017 dan kini menjadi fondasi evolusi modern platform BI seperti SAP Analytics Cloud\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

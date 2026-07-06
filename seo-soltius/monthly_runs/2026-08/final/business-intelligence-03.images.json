@@ -1,0 +1,85 @@
+{
+  "brief_id": "business-intelligence-03",
+  "article_title_id": "Business Intelligence vs Excel: Kapan Harus Berhenti Mengandalkan Spreadsheet",
+  "language": "id",
+  "image_count": 3,
+  "planned_at": "2026-06-08",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Diagram side-by-side dua kolom — kiri \"Excel\" satu laptop dengan banyak file tersebar (Report_Final, Report_v2, Report_REALLY_FINAL) berwarna abu/oranye; kanan \"Platform BI\" satu dashboard terpusat dengan beberapa pengguna terhubung ke satu silinder database (hijau/biru). Judul atas \"Banyak File vs Satu Sumber Data\", teks Bahasa Indonesia, gaya korporat bersih.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Konsep utama artikel adalah perbedaan arsitektur antara spreadsheet tersebar dan satu sumber data terpusat — diagram side-by-side mengomunikasikan perbedaan struktural ini lebih tajam daripada foto stok.",
+      "visual_direction": "Diagram side-by-side format landscape, latar belakang putih bersih. Judul tengah atas: 'Banyak File vs Satu Sumber Data' (font bold, biru korporat #0A3D7A). KOLOM KIRI (diberi label 'Excel' di atas, latar abu-abu muda #F4F4F4, aksen oranye kemerahan #D45D00): ilustrasi satu laptop dengan tiga ikon file berserakan yang saling tumpang tindih, masing-masing diberi label 'Laporan_Final.xlsx', 'Laporan_Final_v2.xlsx', 'Laporan_REALLY_FINAL.xlsx'; panah-panah kecil dari file-file tersebut menunjuk ke atas menuju laptop (menggambarkan konflik versi). Tambahkan ikon tanda tanya kecil di antara file untuk merepresentasikan kebingungan. KOLOM KANAN (diberi label 'Platform BI' di atas, latar biru muda #E8F1FA, aksen biru tua #0A3D7A): satu silinder database berwarna biru di tengah bawah berlabel 'Satu Sumber Data'; tiga ikon pengguna (orang duduk di meja/laptop) terhubung ke silinder melalui garis bersih, mewakili Dept. Keuangan, Dept. Operasional, Dept. Penjualan; di atas silinder, satu ikon dashboard (bagan batang + bagan lingkaran) berlabel 'Dashboard Real-Time'. Pemisah di tengah berupa garis vertikal tipis abu-abu. Semua teks dalam Bahasa Indonesia. Font sans-serif modern (misalnya Inter atau Nunito). Keseluruhan gaya bersih, flat, korporat — tidak ada gradien berlebihan.",
+      "in_image_text_id": [
+        "Banyak File vs Satu Sumber Data",
+        "Excel",
+        "Platform BI",
+        "Laporan_Final.xlsx",
+        "Laporan_Final_v2.xlsx",
+        "Laporan_REALLY_FINAL.xlsx",
+        "Satu Sumber Data",
+        "Dashboard Real-Time",
+        "Dept. Keuangan",
+        "Dept. Operasional",
+        "Dept. Penjualan"
+      ],
+      "alt_id": "Diagram perbandingan Excel dengan banyak file versi berbeda versus platform Business Intelligence dengan satu sumber data terpusat",
+      "caption_id": "Akar masalah 'angka beda antar file' bukan kecerobohan tim, melainkan ketiadaan satu sumber data tunggal. Platform Business Intelligence menyelesaikan masalah struktural ini, sedangkan Excel dirancang untuk analisis personal, bukan pelaporan multi-pengguna.",
+      "sourcing_note": "Ilustrasi kustom — tidak memerlukan screenshot SAP. Desainer membuat dari deskripsi di atas. Cari referensi visual dengan kata kunci: 'single source of truth diagram', 'centralized data architecture illustration', 'version control problem spreadsheet'.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body — setelah bagian 'Kapan Sebuah Perusahaan Sudah Melampaui Kemampuan Excel?'",
+      "concept_from_writer": "Checklist diagram vertikal 'Apakah Organisasi Anda Sudah Melampaui Excel?' — 5 pertanyaan ya/tidak dengan kotak centang (rekap berjam-jam, angka beda antar file, data jutaan baris, banyak pengguna simultan, butuh jejak audit), berujung pada dua kotak keputusan: 'Excel masih cukup' (hijau) vs 'Saatnya platform BI' (biru). Teks Bahasa Indonesia, ikon sederhana per poin.",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Lima pemicu keputusan artikel paling berguna disajikan sebagai checklist interaktif (ya/tidak) — format infografik dengan kotak centang dan ikon per poin lebih mudah di-scan CIO daripada paragraf prosa, dan berpotensi dijadikan featured snippet.",
+      "visual_direction": "Infografik vertikal, latar putih, lebar ideal 800px. Judul atas dalam kotak biru korporat (#0A3D7A) dengan teks putih bold: 'Apakah Organisasi Anda Sudah Melampaui Excel?'. Di bawahnya, daftar vertikal 5 baris, masing-masing memiliki: (a) kotak centang kosong di kiri berwarna abu-abu garis (#BDBDBD) ukuran 20×20px, (b) ikon flat sederhana ukuran 24px di sebelah kotak (lihat daftar ikon di bawah), (c) teks pertanyaan singkat di kanan ikon. Kelima baris: Baris 1 — ikon jam/stopwatch — 'Rekap laporan memakan waktu berjam-jam tiap siklus'; Baris 2 — ikon dokumen dengan tanda seru — 'Angka berbeda antar versi file sebelum rapat'; Baris 3 — ikon database dengan panah ke atas — 'Data mendekati atau melampaui jutaan baris'; Baris 4 — ikon tiga orang — 'Banyak pengguna butuh akses dan pembaruan bersamaan'; Baris 5 — ikon tameng/perisai — 'Laporan keuangan butuh jejak audit untuk kepatuhan'. Di bawah kelima baris, garis pemisah horizontal tipis abu-abu. Kemudian dua kotak keputusan berdampingan: Kotak kiri — latar hijau muda (#E8F5E9), teks hijau tua (#2E7D32) bold: 'Excel Masih Cukup', sub-teks kecil: '0–2 tanda terceklis'; Kotak kanan — latar biru (#E8F1FA), teks biru tua (#0A3D7A) bold: 'Saatnya Platform BI', sub-teks kecil: '3 tanda atau lebih terceklis'. Di bagian bawah, catatan kaki kecil abu-abu: 'Tiga tanda yang konsisten sudah cukup untuk mempertimbangkan platform Business Intelligence'. Semua teks Bahasa Indonesia, font sans-serif bersih.",
+      "in_image_text_id": [
+        "Apakah Organisasi Anda Sudah Melampaui Excel?",
+        "Rekap laporan memakan waktu berjam-jam tiap siklus",
+        "Angka berbeda antar versi file sebelum rapat",
+        "Data mendekati atau melampaui jutaan baris",
+        "Banyak pengguna butuh akses dan pembaruan bersamaan",
+        "Laporan keuangan butuh jejak audit untuk kepatuhan",
+        "Excel Masih Cukup",
+        "0–2 tanda terceklis",
+        "Saatnya Platform BI",
+        "3 tanda atau lebih terceklis",
+        "Tiga tanda yang konsisten sudah cukup untuk mempertimbangkan platform Business Intelligence"
+      ],
+      "alt_id": "Checklist lima tanda organisasi sudah melampaui Excel menuju platform Business Intelligence, dengan dua kotak keputusan hasil akhir",
+      "caption_id": "Satu tanda bisa ditoleransi; kombinasi tiga atau lebih adalah sinyal jelas bahwa organisasi sudah melampaui kapasitas Excel sebagai sistem pelaporan. Checklist ini dirancang untuk dipakai langsung dalam diskusi internal sebelum evaluasi platform BI.",
+      "sourcing_note": "Ilustrasi kustom berbasis teks/ikon — tidak memerlukan screenshot SAP. Desainer membuat dari deskripsi di atas. Referensi visual: 'decision checklist infographic', 'yes-no flowchart flat design', 'BI readiness assessment visual'.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_03",
+      "position": "body — setelah bagian 'BI Tidak Membunuh Excel' (mengilustrasikan arsitektur SAC Excel add-in)",
+      "concept_from_writer": "Diagram arsitektur sederhana tiga lapis — lapisan atas 'Excel (antarmuka pengguna)' ikon Excel; panah ke bawah ke lapisan tengah 'SAP Analytics Cloud add-in'; lapisan bawah 'Satu Sumber Data' berisi tiga kotak: SAP Analytics Cloud, SAP Datasphere, SAP S/4HANA Cloud. Caption 'Excel tetap hidup, tapi membaca dari satu sumber kebenaran'. Teks Bahasa Indonesia, warna biru korporat.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Konsep 'Excel tetap hidup di atas satu sumber data' adalah arsitektur teknis nyata (SAC Excel add-in → SAP Datasphere/S4HANA Cloud); diagram tiga-lapis mengomunikasikannya secara akurat tanpa memerlukan screenshot UI SAP yang asli.",
+      "visual_direction": "Diagram arsitektur vertikal tiga lapis, latar putih, lebar ideal 700px. Gaya bersih flat korporat. LAPISAN ATAS (label 'Antarmuka Pengguna' di kiri, font kecil abu-abu italic): kotak putih dengan border biru muda (#90CAF9), sudut membulat, berisi ikon logo-style Excel (kotak hijau dengan 'X' putih — gunakan representasi generik, bukan logo resmi Microsoft) di kiri, dan teks 'Microsoft Excel' di kanan; latar kotak abu-abu sangat muda. PANAH: dua panah dua arah (naik-turun) tebal berwarna biru (#1565C0) dari lapisan atas ke lapisan tengah, berlabel di samping kiri: 'Koneksi Live via Add-in'. LAPISAN TENGAH (label 'Lapisan Integrasi' di kiri, font kecil abu-abu italic): kotak biru muda (#BBDEFB) border biru (#1565C0), sudut membulat, teks bold biru tua: 'SAP Analytics Cloud Add-in for Microsoft Excel'; sub-teks kecil abu-abu di bawahnya: '(memerlukan lisensi SAC BI atau Planning)'. PANAH: tiga panah ke bawah berwarna biru tua (#0A3D7A) dari lapisan tengah ke tiga kotak di lapisan bawah. LAPISAN BAWAH (label 'Satu Sumber Data' di kiri dalam kotak biru #0A3D7A dengan teks putih, font kecil bold): tiga kotak berdampingan dengan latar biru tua (#0A3D7A) dan teks putih: Kotak 1 — 'SAP Analytics Cloud' + ikon awan kecil putih; Kotak 2 — 'SAP Datasphere' + ikon silinder/database putih; Kotak 3 — 'SAP S/4HANA Cloud' + ikon roda gigi putih. Di bawah ketiga kotak, teks keterangan kecil biru tua italic: 'Data transaksi dan analitik dari satu sumber kebenaran'. Semua teks Bahasa Indonesia. CATATAN PENTING untuk desainer: JANGAN mereproduksi atau meniru tangkapan layar antarmuka pengguna nyata produk SAP. Diagram ini adalah representasi konseptual arsitektur, bukan mockup UI.",
+      "in_image_text_id": [
+        "Antarmuka Pengguna",
+        "Microsoft Excel",
+        "Koneksi Live via Add-in",
+        "Lapisan Integrasi",
+        "SAP Analytics Cloud Add-in for Microsoft Excel",
+        "(memerlukan lisensi SAC BI atau Planning)",
+        "Satu Sumber Data",
+        "SAP Analytics Cloud",
+        "SAP Datasphere",
+        "SAP S/4HANA Cloud",
+        "Data transaksi dan analitik dari satu sumber kebenaran"
+      ],
+      "alt_id": "Diagram arsitektur tiga lapis SAP Analytics Cloud add-in for Excel menghubungkan Excel ke SAP Datasphere dan S/4HANA Cloud sebagai satu sumber data",
+      "caption_id": "Beralih ke platform Business Intelligence tidak berarti membuang Excel. Melalui SAP Analytics Cloud add-in for Microsoft Excel, tim tetap bekerja di antarmuka Excel yang sudah mereka kuasai — tetapi angkanya ditarik secara live dari satu sumber data terpusat, bukan dari file yang berisiko basi.",
+      "sourcing_note": "Diagram konseptual arsitektur — TIDAK memerlukan screenshot UI SAP. Desainer membuat ilustrasi dari deskripsi di atas. PERHATIAN: jangan merekayasa atau memalsukan antarmuka produk SAP (SAC, Datasphere, atau S/4HANA) dalam bentuk apapun. Jika tim ingin menampilkan UI SAP yang sesungguhnya sebagai gambar pendamping, minta screenshot asli dari tim SAP atau Soltius.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-06\\final\\business-intelligence-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-03T01:23:28+07:00",
+    "word_count":  1736,
+    "paragraph_count":  20,
+    "sentence_count":  89,
+    "ai_detector":  {
+                        "score":  0.1,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.47,
+                        "sentence_burstiness":  0.753,
+                        "top30_vocab_share":  0.335,
+                        "flags":  [
+                                      {
+                                          "pattern":  "em-dash-overuse",
+                                          "severity":  "medium",
+                                          "snippet":  "Em-dashes count: 4 (max 2)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "| Aspek | BI | Business Analytics | Data Science | |---|---|---|---| | Pertanyaan dijawab | Apa yang terjadi?",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"| Aspek | BI | Business Analytics | Data Science | |---|---|---|---| | Pertanyaan dijawab | Apa yang terjadi?\""
+                                  },
+                                  {
+                                      "passage":  "## Kapan Perusahaan BELUM Perlu BI, dan Apa yang Harus Diselesaikan Dulu Bagian ini jarang ditulis kompetitor, padahal justru di sinilah kepercayaan dibangun.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Kapan Perusahaan BELUM Perlu BI, dan Apa yang Harus Diselesaikan Dulu Bagian ini jarang ditulis kompetitor, padahal j\""
+                                  },
+                                  {
+                                      "passage":  "Jika data masih tersebar dan tidak terintegrasi, tahap ETL saja bisa mengambil 50–70% dari total waktu proyek, membuat durasi mencapai 9–18 bulan.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Jika data masih tersebar dan tidak terintegrasi, tahap ETL saja bisa mengambil 50–70% dari total waktu proyek, membuat d\""
+                                  },
+                                  {
+                                      "passage":  "## Cara Kerja BI: Tiga Lapisan yang Harus Terhubung Arsitektur BI modern beroperasi dalam tiga lapisan yang saling bergantung.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Cara Kerja BI: Tiga Lapisan yang Harus Terhubung Arsitektur BI modern beroperasi dalam tiga lapisan yang saling berga\""
+                                  },
+                                  {
+                                      "passage":  "## BI vs Analytics vs Data Science: Mana yang Dibutuhkan Bisnis Anda?",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## BI vs Analytics vs Data Science: Mana yang Dibutuhkan Bisnis Anda?\""
+                                  },
+                                  {
+                                      "passage":  "Implementasi platform seperti SAC memerlukan konfigurasi koneksi data dan *change management* yang cermat; Soltius, sebagai SAP Platinum Partner, menangani tahapan ini sebagai bagian dari layanan implementasi analytics.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Implementasi platform seperti SAC memerlukan konfigurasi koneksi data dan *change management* yang cermat; Soltius, seba\""
+                                  },
+                                  {
+                                      "passage":  "Jika ERP sudah berjalan dengan data bersih, implementasi platform cloud BI bisa selesai dalam 3–6 bulan.",
+                                      "candidate_score":  8,
+                                      "web_search_query":  "\"Jika ERP sudah berjalan dengan data bersih, implementasi platform cloud BI bisa selesai dalam 3–6 bulan.\""
+                                  },
+                                  {
+                                      "passage":  "Platform cloud modern seperti SAP Analytics Cloud menawarkan model SaaS dengan biaya berlangganan dan waktu implementasi yang lebih singkat dibanding solusi on-premise tradisional.",
+                                      "candidate_score":  8,
+                                      "web_search_query":  "\"Platform cloud modern seperti SAP Analytics Cloud menawarkan model SaaS dengan biaya berlangganan dan waktu implementasi\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-08\\final\\data-warehouse-solutions-05.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-08T18:21:41+07:00",
+    "word_count":  2025,
+    "paragraph_count":  25,
+    "sentence_count":  107,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.42,
+                        "sentence_burstiness":  0.904,
+                        "top30_vocab_share":  0.349,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.42 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Delta Sharing adalah protokol terbuka dari Databricks yang memungkinkan SAP Data Products dibagikan ke SAP Databricks (atau platform lain seperti Snowflake dan Amazon Athena) tanpa menyalin data (*zero-copy*).",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Delta Sharing adalah protokol terbuka dari Databricks yang memungkinkan SAP Data Products dibagikan ke SAP Databricks (a\""
+                                  },
+                                  {
+                                      "passage":  "Cisco AI Readiness Index 2025 menemukan hanya 19% perusahaan punya data terpusat penuh, dan McKinsey melaporkan 8 dari 10 perusahaan menyebut keterbatasan data sebagai penghalang utama men-*scale* AI.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Cisco AI Readiness Index 2025 menemukan hanya 19% perusahaan punya data terpusat penuh, dan McKinsey melaporkan 8 dari 1\""
+                                  },
+                                  {
+                                      "passage":  "Cisco AI Readiness Index 2025, yang mensurvei lebih dari 8.000 pemimpin AI di 30 negara, menemukan hanya 19% perusahaan yang datanya benar-benar terpusat.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Cisco AI Readiness Index 2025, yang mensurvei lebih dari 8.000 pemimpin AI di 30 negara, menemukan hanya 19% perusahaan \""
+                                  },
+                                  {
+                                      "passage":  "Yang dijadwalkan GA pada paruh kedua 2026 adalah sebagian kapabilitas BDC yang lebih baru, seperti integrasi SAP HANA Cloud sebagai komponen inti dan integrasi *master data* Reltio.",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"Yang dijadwalkan GA pada paruh kedua 2026 adalah sebagian kapabilitas BDC yang lebih baru, seperti integrasi SAP HANA Cl\""
+                                  },
+                                  {
+                                      "passage":  "Dalam riset Gartner (rilis Februari 2025, dari survei 248 pemimpin data management), 63% organisasi menyatakan tidak memiliki, atau tidak yakin memiliki, praktik *data management* yang tepat untuk AI.",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"Dalam riset Gartner (rilis Februari 2025, dari survei 248 pemimpin data management), 63% organisasi menyatakan tidak mem\""
+                                  },
+                                  {
+                                      "passage":  "Di ekosistem SAP, peran lapisan konteks ini dipegang **SAP Datasphere**, yang merupakan komponen inti SAP Business Data Cloud sekaligus dapat berdiri mandiri.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Di ekosistem SAP, peran lapisan konteks ini dipegang **SAP Datasphere**, yang merupakan komponen inti SAP Business Data \""
+                                  },
+                                  {
+                                      "passage":  "BDC dan SAP Databricks bukan rencana masa depan; keduanya sudah GA, dengan SAP Databricks GA di AWS.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"BDC dan SAP Databricks bukan rencana masa depan; keduanya sudah GA, dengan SAP Databricks GA di AWS.\""
+                                  },
+                                  {
+                                      "passage":  "SAP Business Data Cloud (BDC) adalah platform SaaS terkelola penuh yang menyatukan dan mengatur data SAP dan non-SAP.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"SAP Business Data Cloud (BDC) adalah platform SaaS terkelola penuh yang menyatukan dan mengatur data SAP dan non-SAP.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

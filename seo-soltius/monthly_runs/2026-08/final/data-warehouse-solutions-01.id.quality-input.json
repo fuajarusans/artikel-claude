@@ -1,0 +1,81 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-08\\final\\data-warehouse-solutions-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-08T18:15:31+07:00",
+    "word_count":  2257,
+    "paragraph_count":  22,
+    "sentence_count":  115,
+    "ai_detector":  {
+                        "score":  0.24,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.391,
+                        "sentence_burstiness":  0.701,
+                        "top30_vocab_share":  0.322,
+                        "flags":  [
+                                      {
+                                          "pattern":  "em-dash-overuse",
+                                          "severity":  "medium",
+                                          "snippet":  "Em-dashes count: 9 (max 2)",
+                                          "line":  -1
+                                      },
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.391 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Cloud menang di tahun-1 karena tanpa CapEx; perbandingan TCO 3–5 tahun-lah yang menunjukkan gambaran sebenarnya, termasuk *hardware refresh* on-premise tiap 3–5 tahun.",
+                                      "candidate_score":  29,
+                                      "web_search_query":  "\"Cloud menang di tahun-1 karena tanpa CapEx; perbandingan TCO 3–5 tahun-lah yang menunjukkan gambaran sebenarnya, termasu\""
+                                  },
+                                  {
+                                      "passage":  "Integrasi \u0026 ETL | Konektor ke sumber (ERP, CRM, IoT, *flat file*); *pipeline* data; *middleware* | Sulit — kompleksitas sumber sering diremehkan | | 3.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Integrasi \u0026 ETL | Konektor ke sumber (ERP, CRM, IoT, *flat file*); *pipeline* data; *middleware* | Sulit — kompleksitas \""
+                                  },
+                                  {
+                                      "passage":  "Sejak April 2024, entri minimumnya turun drastis dari 4.300 CU menjadi 1.532 CU per bulan, menurunkan ambang masuk bagi perusahaan menengah.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Sejak April 2024, entri minimumnya turun drastis dari 4.300 CU menjadi 1.532 CU per bulan, menurunkan ambang masuk bagi \""
+                                  },
+                                  {
+                                      "passage":  "Migrasi Data Historis | Ekstraksi, pembersihan, transformasi, validasi data lama | Sulit — kualitas data lama sering mengejutkan | | 4.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Migrasi Data Historis | Ekstraksi, pembersihan, transformasi, validasi data lama | Sulit — kualitas data lama sering men\""
+                                  },
+                                  {
+                                      "passage":  "Platform / Lisensi / Kapasitas | Langganan cloud atau lisensi on-prem; *Capacity Unit* (CU) untuk SAP Datasphere/HANA Cloud | Relatif ya — ada estimator resmi | | 2.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Platform / Lisensi / Kapasitas | Langganan cloud atau lisensi on-prem; *Capacity Unit* (CU) untuk SAP Datasphere/HANA Cl\""
+                                  },
+                                  {
+                                      "passage":  "Kelimanya: (1) platform, lisensi, atau kapasitas; (2) integrasi dan ETL dari sistem sumber; (3) migrasi data historis; (4) talenta dan SDM; serta (5) pemeliharaan dan dukungan berkelanjutan.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Kelimanya: (1) platform, lisensi, atau kapasitas; (2) integrasi dan ETL dari sistem sumber; (3) migrasi data historis; (\""
+                                  },
+                                  {
+                                      "passage":  "Talenta / SDM | *Data engineer*, DBA, *data analyst*; pelatihan pengguna bisnis | Sedang — pasar talenta data mahal dan langka | | 5.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Talenta / SDM | *Data engineer*, DBA, *data analyst*; pelatihan pengguna bisnis | Sedang — pasar talenta data mahal dan \""
+                                  },
+                                  {
+                                      "passage":  "Jika workload turun, konsumsi bisa dikurangi; SAP HANA Cloud bahkan memungkinkan instance dimatikan sehingga biaya *compute* berhenti sementara *storage* tetap berjalan.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Jika workload turun, konsumsi bisa dikurangi; SAP HANA Cloud bahkan memungkinkan instance dimatikan sehingga biaya *comp\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

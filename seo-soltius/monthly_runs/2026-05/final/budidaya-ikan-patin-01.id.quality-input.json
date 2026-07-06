@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\seo\\Documents\\seo-stp\\monthly_runs\\2026-05\\final\\budidaya-ikan-patin-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-05-26T15:17:10+07:00",
+    "word_count":  2537,
+    "paragraph_count":  38,
+    "sentence_count":  138,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.389,
+                        "sentence_burstiness":  0.976,
+                        "top30_vocab_share":  0.278,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.389 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "**Pengukuran parameter awal**: pH 6,5-7,5, DO ≥ 4 ppm, suhu 26-30°C, ammonia bebas (NH₃) \u003c 0,5 ppm.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"**Pengukuran parameter awal**: pH 6,5-7,5, DO ≥ 4 ppm, suhu 26-30°C, ammonia bebas (NH₃) \u003c 0,5 ppm.\""
+                                  },
+                                  {
+                                      "passage":  "Kolam beton intensif penuh menempatkan FCR di 1,2-1,4, sementara KJA waduk umumnya 1,4-1,7 karena variabel kualitas air kurang terkontrol.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"Kolam beton intensif penuh menempatkan FCR di 1,2-1,4, sementara KJA waduk umumnya 1,4-1,7 karena variabel kualitas air \""
+                                  },
+                                  {
+                                      "passage":  "Modal pakan dengan harga rata-rata Rp 12.000-14.000/kg per blended fase mencapai Rp 38-45 juta.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Modal pakan dengan harga rata-rata Rp 12.000-14.000/kg per blended fase mencapai Rp 38-45 juta.\""
+                                  },
+                                  {
+                                      "passage":  "Untuk kolam terpal 100 m² dengan kepadatan 30 ekor/m² (total tebar 3.000 ekor), survival rate 85%, dan bobot panen rata-rata 900 g, hasil panen kotor sekitar 2.295 kg.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Untuk kolam terpal 100 m² dengan kepadatan 30 ekor/m² (total tebar 3.000 ekor), survival rate 85%, dan bobot panen rata-\""
+                                  },
+                                  {
+                                      "passage":  "# Cara Budidaya Ikan Patin Modern yang Pasti Berhasil Budidaya ikan patin di Indonesia tidak lagi identik dengan kolam tanah berlumpur dan siklus panen yang menebak-nebak.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"# Cara Budidaya Ikan Patin Modern yang Pasti Berhasil Budidaya ikan patin di Indonesia tidak lagi identik dengan kolam t\""
+                                  },
+                                  {
+                                      "passage":  "- **NH₃ bebas**: target \u003c 0,1 ppm; bila naik, ganti air 30% dan tambah probiotik nitrifikasi.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"- **NH₃ bebas**: target \u003c 0,1 ppm; bila naik, ganti air 30% dan tambah probiotik nitrifikasi.\""
+                                  },
+                                  {
+                                      "passage":  "Kunci keberhasilan: aerasi intensif, kontrol C:N rasio, dan disiplin monitoring TSS (Total Suspended Solid).",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Kunci keberhasilan: aerasi intensif, kontrol C:N rasio, dan disiplin monitoring TSS (Total Suspended Solid).\""
+                                  },
+                                  {
+                                      "passage":  "Dari benih berukuran 5 cm, ikan patin membutuhkan waktu 5-8 bulan untuk mencapai bobot pasar 800 gram-1 kg.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Dari benih berukuran 5 cm, ikan patin membutuhkan waktu 5-8 bulan untuk mencapai bobot pasar 800 gram-1 kg.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

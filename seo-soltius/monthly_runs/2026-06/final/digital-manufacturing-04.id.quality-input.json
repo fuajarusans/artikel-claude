@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-06\\final\\digital-manufacturing-04.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-03T01:37:41+07:00",
+    "word_count":  1798,
+    "paragraph_count":  31,
+    "sentence_count":  91,
+    "ai_detector":  {
+                        "score":  0.2,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.467,
+                        "sentence_burstiness":  1.02,
+                        "top30_vocab_share":  0.318,
+                        "flags":  [
+                                      {
+                                          "pattern":  "em-dash-overuse",
+                                          "severity":  "medium",
+                                          "snippet":  "Em-dashes count: 16 (max 2)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "## Apa Itu OEE dan Mengapa Ini Menjadi Standar Utama Efisiensi Pabrik?",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## Apa Itu OEE dan Mengapa Ini Menjadi Standar Utama Efisiensi Pabrik?\""
+                                  },
+                                  {
+                                      "passage":  "Model ML *predictive maintenance* umumnya membutuhkan 6–12 bulan data kondisi mesin plus histori *maintenance* sebelum prediksinya andal.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Model ML *predictive maintenance* umumnya membutuhkan 6–12 bulan data kondisi mesin plus histori *maintenance* sebelum p\""
+                                  },
+                                  {
+                                      "passage":  "## Empat Tipe Maintenance: Dari Reaktif ke Prediktif Cara pabrik mendekati pemeliharaan mesin berkembang dalam empat generasi.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Empat Tipe Maintenance: Dari Reaktif ke Prediktif Cara pabrik mendekati pemeliharaan mesin berkembang dalam empat gen\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apa rumus OEE dan apa artinya nilai 85%?",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apa rumus OEE dan apa artinya nilai 85%?\""
+                                  },
+                                  {
+                                      "passage":  "**SAP Digital Manufacturing for Insights** menyertakan OEE *tracking* dan *dashboard* sebagai fitur standar, bukan *add-on* terpisah (SAP Help Portal).",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"**SAP Digital Manufacturing for Insights** menyertakan OEE *tracking* dan *dashboard* sebagai fitur standar, bukan *add-\""
+                                  },
+                                  {
+                                      "passage":  "Referensi praktik umum: fase awal untuk satu lini produksi bisa 3–6 bulan; implementasi penuh untuk pabrik yang kompleks bisa 12–24 bulan.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Referensi praktik umum: fase awal untuk satu lini produksi bisa 3–6 bulan; implementasi penuh untuk pabrik yang kompleks\""
+                                  },
+                                  {
+                                      "passage":  "*Predictive maintenance* membutuhkan investasi awal (sensor, platform analitik, integrasi OT-IT), namun ROI-nya berasal dari berkurangnya *downtime* tak terencana dan optimasi suku cadang.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"*Predictive maintenance* membutuhkan investasi awal (sensor, platform analitik, integrasi OT-IT), namun ROI-nya berasal \""
+                                  },
+                                  {
+                                      "passage":  "Bagi perusahaan yang sudah mempertimbangkan [ERP migration to the cloud](https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud), SAP Digital Manufacturing Cloud beroperasi paling optimal saat terhubung dengan S/4HANA Cloud sebagai fondasi ERP-nya.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Bagi perusahaan yang sudah mempertimbangkan [ERP migration to the cloud](https://www.soltius.co.id/id/blog/migrasi-erp-k\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

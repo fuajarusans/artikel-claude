@@ -1,0 +1,82 @@
+{
+  "brief_id": "sap-clean-core-04",
+  "article_title_id": "Memilih Partner Implementasi SAP untuk Clean Core: Pertanyaan yang Wajib Diajukan",
+  "language": "id",
+  "image_count": 3,
+  "planned_at": "2026-06-08",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Ilustrasi konsep \"dirty core di cloud\" vs \"clean core\" — dua sistem S/4HANA berdampingan; kiri inti penuh tambalan kustomisasi merah dengan label \"kustomisasi menumpuk\", kanan inti standar rapi dengan ekstensi terpisah di luar berlabel \"SAP BTP / ABAP Cloud\", gaya korporat biru-putih, teks Bahasa Indonesia",
+      "suggested_asset_type": "illustration",
+      "asset_type_rationale": "Konsep abstrak 'dirty core vs clean core' tidak bisa difoto dan tidak ada screenshot SAP yang merepresentasikannya; ilustrasi dua-panel memvisualisasikan perbedaan arsitektur secara intuitif untuk audiens CIO/IT.",
+      "visual_direction": "Ilustrasi dua panel berdampingan berukuran sama, latar belakang putih bersih, bingkai panel tipis berwarna abu-abu muda. PANEL KIRI — berlabel 'Dirty Core di Cloud' (teks merah gelap, font sans-serif bold, di bagian atas panel): ikon silinder database berwarna abu-abu gelap di tengah sebagai 'inti S/4HANA', dikelilingi oleh 6–8 blok kecil berwarna merah/oranye dengan garis-garis sambungan kusut yang menempel langsung ke silinder inti; di bawah tiap blok ada label kecil seperti 'Modifikasi Inti', 'RFC', 'Kustomisasi Menumpuk'; kesan visual: padat, semrawut, berisiko. PANEL KANAN — berlabel 'Clean Core' (teks biru gelap, sama styling): ikon silinder berwarna biru bersih di tengah sebagai 'inti S/4HANA Standar'; di sekeliling luar terdapat 3 modul terpisah berwarna biru muda yang TIDAK menyentuh silinder inti, dihubungkan lewat garis putus-putus rapi, masing-masing berlabel 'In-app / Key User', 'ABAP Cloud', 'SAP BTP Side-by-side'; kesan visual: rapi, terstruktur, bersih. Di bawah kedua panel, satu baris teks caption kecil: 'Partner yang tepat menjaga inti tetap standar dan menyalurkan kustomisasi ke jalur yang aman.' Palet: biru Soltius (#0057A8 atau serupa) dan putih sebagai warna utama; aksen merah hanya di panel kiri untuk sinyal bahaya. Tipografi: sans-serif modern, semua teks dalam Bahasa Indonesia.",
+      "in_image_text_id": [
+        "Dirty Core di Cloud",
+        "Clean Core",
+        "Inti S/4HANA Standar",
+        "Modifikasi Inti",
+        "RFC",
+        "Kustomisasi Menumpuk",
+        "In-app / Key User",
+        "ABAP Cloud",
+        "SAP BTP Side-by-side",
+        "Partner yang tepat menjaga inti tetap standar dan menyalurkan kustomisasi ke jalur yang aman."
+      ],
+      "alt_id": "Perbandingan ilustrasi dirty core S/4HANA penuh kustomisasi langsung di inti versus clean core SAP dengan ekstensi terpisah di BTP",
+      "caption_id": "Perbedaan antara 'dirty core di cloud' dan clean core sejati bukan soal lokasi sistem, melainkan apakah kustomisasi menyentuh inti secara langsung. Partner yang tepat memastikan semua ekstensi disalurkan ke jalur yang aman.",
+      "sourcing_note": "Ilustrasi konseptual — tidak membutuhkan screenshot SAP. Tim desain membuat dua panel berdampingan dari awal. Referensi gaya: diagram arsitektur minimalis SAP dari sap.com/products/erp/rise/methodology/clean-core.html (lihat untuk inspirasi ikonografi, JANGAN salin langsung).",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body — setelah bagian '7 pertanyaan yang wajib diajukan', sebelum bagian 'Red flag vs green flag'",
+      "concept_from_writer": "Diagram tiga jalur ekstensi SAP clean core — inti S/4HANA di tengah; tiga jalur mengelilinginya (In-app/Key User, ABAP Cloud on-stack, Side-by-side SAP BTP) masing-masing berlabel \"Level A — upgrade-safe\" dengan ikon; semua jalur ditunjukkan tidak menyentuh inti secara langsung; gaya diagram arsitektur minimalis, teks Bahasa Indonesia",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Diagram arsitektur adalah format standar untuk menjelaskan hubungan antara komponen teknis SAP; memvisualkan tiga jalur ekstensi Level A secara spasial jauh lebih efektif daripada teks atau infografis teks-forward untuk audiens IT.",
+      "visual_direction": "Diagram lingkaran konsentris atau diagram hub-and-spoke bergaya arsitektur, latar belakang putih, garis-garis bersih. PUSAT: lingkaran solid berwarna biru tua berlabel 'Inti S/4HANA' (font putih, bold); di bawah label utama, sub-teks kecil 'Standar — Upgrade-safe'. Tiga modul ekstensi ditempatkan melingkar di luar inti dengan jarak yang sama, masing-masing berupa kotak sudut-bulat dengan ikon representatif dan dua baris label: MODUL 1 (posisi kiri atas): ikon silang kunci/pengaturan (wrench/key) berwarna biru muda — label atas 'In-app / Key User', label bawah 'Level A — Upgrade-safe'. MODUL 2 (posisi kanan atas): ikon kode/terminal berwarna biru medium — label atas 'ABAP Cloud (On-stack)', label bawah 'Level A — Upgrade-safe'. MODUL 3 (posisi bawah tengah): ikon awan/cloud berwarna biru muda-hijau — label atas 'Side-by-side SAP BTP', label bawah 'Level A — Upgrade-safe'. Koneksi antara setiap modul dan inti menggunakan garis putus-putus berwarna biru muda (bukan garis solid) untuk menunjukkan bahwa tidak ada kontak/modifikasi langsung ke inti. Di luar ketiga modul, tambahkan satu tanda panah melengkung searah jarum jam dengan label 'Tidak Menyentuh Inti Secara Langsung'. Di pojok kiri bawah, tambahkan kotak legenda kecil dengan keterangan: garis putus-putus = jalur ekstensi aman; warna merah (tidak ada di diagram ini) = Level D, tidak direkomendasikan. Palet: biru Soltius untuk inti, gradasi biru muda untuk tiga modul, putih latar, abu muda untuk border. Semua teks dalam Bahasa Indonesia.",
+      "in_image_text_id": [
+        "Inti S/4HANA",
+        "Standar — Upgrade-safe",
+        "In-app / Key User",
+        "ABAP Cloud (On-stack)",
+        "Side-by-side SAP BTP",
+        "Level A — Upgrade-safe",
+        "Tidak Menyentuh Inti Secara Langsung",
+        "Jalur ekstensi aman",
+        "Level D — tidak direkomendasikan"
+      ],
+      "alt_id": "Diagram tiga jalur ekstensi SAP clean core Level A: In-app Key User, ABAP Cloud, dan Side-by-side SAP BTP mengelilingi inti S/4HANA",
+      "caption_id": "SAP mendefinisikan tiga jalur ekstensi Level A yang sepenuhnya upgrade-safe: in-app/key user, ABAP Cloud on-stack, dan side-by-side di SAP BTP. Ketiga jalur ini tidak menyentuh inti secara langsung — itulah yang membedakan clean core dari sekadar migrasi ke cloud.",
+      "sourcing_note": "Diagram arsitektur orisinal — tidak membutuhkan screenshot SAP. Konsep dan terminologi (Level A, ABAP Cloud, SAP BTP) bersumber dari SAP resmi: https://news.sap.com/2025/08/extend-sap-s4hana-cloud-right-way-clean-clear/ dan SAP Community ABAP Extensibility Guide Agustus 2025. Tim desain TIDAK boleh mengambil tangkapan layar dari antarmuka SAP dan memodifikasinya — buat diagram baru dari awal.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_03",
+      "position": "body — setelah bagian 'Arti tier dan sertifikasi partner SAP', sebelum bagian 'Kapan partner termurah (atau termahal) justru pilihan yang salah'",
+      "concept_from_writer": "Timeline horizontal dua fase \"Get Clean, Stay Clean\" — fase kiri \"Get Clean\" (audit custom code -> triase Keep/Refactor/Retire -> remediasi -> go-live), fase kanan \"Stay Clean\" (tata kelola CoE -> quarterly review -> extension decision catalogue -> upgrade berkelanjutan), warna progresif abu ke hijau, ikon per tahap, teks Bahasa Indonesia",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Timeline dua fase adalah format infografis proses yang tepat untuk menggambarkan 'clean core sebagai perjalanan berkelanjutan' — lebih mudah dibagikan dan dicerna daripada narasi teks, sesuai dengan rekomendasi dossier image-planner untuk 'process timeline visual'.",
+      "visual_direction": "Timeline horizontal dua fase pada satu kanvas lebar (rasio 16:6 atau serupa), latar putih bersih. GARIS WAKTU utama berwarna abu-abu gelap memanjang dari kiri ke kanan, dengan penanda lingkaran di setiap tahap. Di tengah garis waktu terdapat pembatas vertikal tipis dengan label 'Go-Live' (font bold biru tua) sebagai titik pivot antara dua fase. FASE KIRI — 'Get Clean' (label besar di atas kiri, warna abu-abu gelap ke biru, menunjukkan bahwa fase ini sedang 'menuju bersih'): empat tahap berurutan kiri ke kanan, masing-masing berupa lingkaran ikon + label dua baris di bawahnya: (1) ikon kaca pembesar + 'Audit Custom Code'; (2) ikon tiga kategori/cabang + 'Triase: Keep / Refactor / Retire'; (3) ikon kode + 'Remediasi & Migrasi'; (4) ikon roket/bendera + 'Go-Live'. Warna lingkaran fase ini progresif dari abu-abu muda (titik 1) ke biru medium (titik 4). FASE KANAN — 'Stay Clean' (label besar di atas kanan, warna biru ke hijau, menunjukkan fase operasional berkelanjutan): empat tahap berurutan kiri ke kanan: (1) ikon bangunan/struktur + 'Tata Kelola CoE'; (2) ikon kalender/loop + 'Quarterly Health Review'; (3) ikon katalog/daftar + 'Extension Decision Catalogue'; (4) ikon panah melingkar naik + 'Upgrade Berkelanjutan'. Warna lingkaran fase ini progresif dari biru medium ke hijau (titik 4 hijau cerah). Di bawah garis timeline, satu baris teks kecil: 'Clean core adalah disiplin jangka panjang — bukan proyek satu kali.' Palet: abu-abu (#666) untuk awal fase Get Clean, biru Soltius (#0057A8) untuk pertengahan, hijau (#2E9B5E atau serupa) untuk akhir fase Stay Clean. Ikon monoline putih di dalam lingkaran berwarna. Semua label dalam Bahasa Indonesia.",
+      "in_image_text_id": [
+        "Get Clean",
+        "Stay Clean",
+        "Go-Live",
+        "Audit Custom Code",
+        "Triase: Keep / Refactor / Retire",
+        "Remediasi & Migrasi",
+        "Tata Kelola CoE",
+        "Quarterly Health Review",
+        "Extension Decision Catalogue",
+        "Upgrade Berkelanjutan",
+        "Clean core adalah disiplin jangka panjang — bukan proyek satu kali."
+      ],
+      "alt_id": "Timeline dua fase SAP clean core: Get Clean mencakup audit hingga go-live, lalu Stay Clean dengan CoE dan quarterly review berkelanjutan",
+      "caption_id": "Program SAP clean core terdiri dari dua fase: 'Get Clean' membersihkan dan memigrasi sistem ke standar, sementara 'Stay Clean' mempertahankan disiplin itu melalui tata kelola Center of Excellence, quarterly health review, dan extension decision catalogue. Partner yang baik mendampingi keduanya.",
+      "sourcing_note": "Infografis proses orisinal — tidak membutuhkan screenshot SAP. Konsep 'Get Clean, Stay Clean' dan CoE bersumber dari SAP resmi: https://www.sap.com/products/erp/rise/methodology/clean-core.html. Tim desain membuat timeline dari awal; TIDAK mengambil tangkapan layar SAP Learning Hub atau dashboard SAP internal mana pun.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-08\\final\\warehouse-management-system-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-08T18:11:52+07:00",
+    "word_count":  2081,
+    "paragraph_count":  24,
+    "sentence_count":  111,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.44,
+                        "sentence_burstiness":  0.948,
+                        "top30_vocab_share":  0.266,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.44 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "- **Kesalahan *picking* yang meningkat.** Rata-rata akurasi inventaris lintas industri hanya 83% menurut CAPS Research (via ISM World, Maret 2024), sementara operasi kelas dunia dengan WMS mendekati 100%.",
+                                      "candidate_score":  33,
+                                      "web_search_query":  "\"- **Kesalahan *picking* yang meningkat.** Rata-rata akurasi inventaris lintas industri hanya 83% menurut CAPS Research (\""
+                                  },
+                                  {
+                                      "passage":  "# WMS vs Modul Gudang ERP vs Aplikasi Inventory: Kapan Modul Bawaan Tidak Cukup?",
+                                      "candidate_score":  32,
+                                      "web_search_query":  "\"# WMS vs Modul Gudang ERP vs Aplikasi Inventory: Kapan Modul Bawaan Tidak Cukup?\""
+                                  },
+                                  {
+                                      "passage":  "Modul gudang lama SAP, LE-WM (*Logistics Execution – Warehouse Management*), resmi berakhir dukungannya pada 31 Desember 2025.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"Modul gudang lama SAP, LE-WM (*Logistics Execution – Warehouse Management*), resmi berakhir dukungannya pada 31 Desember\""
+                                  },
+                                  {
+                                      "passage":  "SAP diakui *Leader* Gartner Magic Quadrant for WMS 11 tahun berturut-turut per 2024.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"SAP diakui *Leader* Gartner Magic Quadrant for WMS 11 tahun berturut-turut per 2024.\""
+                                  },
+                                  {
+                                      "passage":  "EWM *embedded* pertama kali hadir di S/4HANA rilis 1610 (diluncurkan 31 Oktober 2016).",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"EWM *embedded* pertama kali hadir di S/4HANA rilis 1610 (diluncurkan 31 Oktober 2016).\""
+                                  },
+                                  {
+                                      "passage":  "Fitur lanjutan (*Advanced* EWM) seperti *Wave Management* tingkat lanjut, *Slotting*, *Labor Management*, dan *Material Flow System* untuk otomasi fisik memerlukan lisensi terpisah.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Fitur lanjutan (*Advanced* EWM) seperti *Wave Management* tingkat lanjut, *Slotting*, *Labor Management*, dan *Material \""
+                                  },
+                                  {
+                                      "passage":  "## Apa Itu Warehouse Management System dan Di Mana Posisinya Terhadap ERP?",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Apa Itu Warehouse Management System dan Di Mana Posisinya Terhadap ERP?\""
+                                  },
+                                  {
+                                      "passage":  "SAP Extended Warehouse Management (SAP EWM) adalah solusi WMS SAP yang paling komprehensif, tersedia *embedded* di S/4HANA sejak rilis 1610 (2016).",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"SAP Extended Warehouse Management (SAP EWM) adalah solusi WMS SAP yang paling komprehensif, tersedia *embedded* di S/4HA\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

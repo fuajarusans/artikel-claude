@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-08\\final\\warehouse-management-system-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-08T18:10:09+07:00",
+    "word_count":  2199,
+    "paragraph_count":  28,
+    "sentence_count":  102,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.481,
+                        "sentence_burstiness":  0.852,
+                        "top30_vocab_share":  0.316,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Di SAP ECC, *mainstream maintenance* berlaku hingga 31 Desember 2027, dengan opsi *extended maintenance* berbayar (premium 2%) hingga 31 Desember 2030.",
+                                      "candidate_score":  33,
+                                      "web_search_query":  "\"Di SAP ECC, *mainstream maintenance* berlaku hingga 31 Desember 2027, dengan opsi *extended maintenance* berbayar (premi\""
+                                  },
+                                  {
+                                      "passage":  "| Aspek | LE-WM / WM Klasik | Stock Room Management | SAP EWM | |---|---|---|---| | **Platform** | SAP ECC (/S4 via compat.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"| Aspek | LE-WM / WM Klasik | Stock Room Management | SAP EWM | |---|---|---|---| | **Platform** | SAP ECC (/S4 via comp\""
+                                  },
+                                  {
+                                      "passage":  "Berdasarkan diskusi SAP Community, SAP memperpanjang hak pakai tertentu bagi pelanggan RISE hingga sekitar 2030, lebih panjang dibanding pelanggan on-premise non-RISE yang sudah menghadapi batas Mei 2026.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"Berdasarkan diskusi SAP Community, SAP memperpanjang hak pakai tertentu bagi pelanggan RISE hingga sekitar 2030, lebih p\""
+                                  },
+                                  {
+                                      "passage":  "## EWM vs Stock Room vs WM Lama: Tabel Keputusan Singkat Untuk pengambilan keputusan cepat, ketiga opsi paling jelas dibandingkan berdampingan.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"## EWM vs Stock Room vs WM Lama: Tabel Keputusan Singkat Untuk pengambilan keputusan cepat, ketiga opsi paling jelas dib\""
+                                  },
+                                  {
+                                      "passage":  "Ya, Stock Room Management termasuk dalam lisensi SAP S/4HANA Enterprise Management tanpa biaya tambahan.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Ya, Stock Room Management termasuk dalam lisensi SAP S/4HANA Enterprise Management tanpa biaya tambahan.\""
+                                  },
+                                  {
+                                      "passage":  "Di SAP ECC, modul WM masih dapat dipakai hingga *mainstream maintenance* 31 Desember 2027, dengan opsi *extended maintenance* berbayar hingga 31 Desember 2030.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Di SAP ECC, modul WM masih dapat dipakai hingga *mainstream maintenance* 31 Desember 2027, dengan opsi *extended mainten\""
+                                  },
+                                  {
+                                      "passage":  "**Apakah ada otomasi fisik (conveyor, ASRS, AGV, robot)?** Otomasi praktis mengharuskan MFS, artinya EWM *Advanced*/*Decentralized*.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"**Apakah ada otomasi fisik (conveyor, ASRS, AGV, robot)?** Otomasi praktis mengharuskan MFS, artinya EWM *Advanced*/*Dec\""
+                                  },
+                                  {
+                                      "passage":  "## Kapan EWM Penuh Justru Berlebihan untuk Anda Bagian ini jarang ditulis vendor WMS, padahal penting: EWM *Advanced* bisa menjadi investasi yang tidak proporsional.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Kapan EWM Penuh Justru Berlebihan untuk Anda Bagian ini jarang ditulis vendor WMS, padahal penting: EWM *Advanced* bi\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

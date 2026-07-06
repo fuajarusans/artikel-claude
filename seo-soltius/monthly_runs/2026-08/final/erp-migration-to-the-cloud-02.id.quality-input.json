@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-08\\final\\erp-migration-to-the-cloud-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-08T18:27:05+07:00",
+    "word_count":  2080,
+    "paragraph_count":  23,
+    "sentence_count":  129,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.309,
+                        "sentence_burstiness":  0.718,
+                        "top30_vocab_share":  0.294,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.309 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "| | 8 | Baseline biaya / TCO | TCO dan biaya *maintenance* ECC sudah dipetakan?",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"| | 8 | Baseline biaya / TCO | TCO dan biaya *maintenance* ECC sudah dipetakan?\""
+                                  },
+                                  {
+                                      "passage":  "| # | Dimensi | Pertanyaan self-check utama | |---|---|---| | 1 | Strategi \u0026 tujuan bisnis | Ada *business case*?",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"| # | Dimensi | Pertanyaan self-check utama | |---|---|---| | 1 | Strategi \u0026 tujuan bisnis | Ada *business case*?\""
+                                  },
+                                  {
+                                      "passage":  "# ERP Migration Readiness Assessment: Apakah Perusahaan Anda Siap Pindah ke Cloud?",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"# ERP Migration Readiness Assessment: Apakah Perusahaan Anda Siap Pindah ke Cloud?\""
+                                  },
+                                  {
+                                      "passage":  "| | 4 | Custom code / utang teknis | Berapa kode ABAP kustom yang masih aktif?",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"| | 4 | Custom code / utang teknis | Berapa kode ABAP kustom yang masih aktif?\""
+                                  },
+                                  {
+                                      "passage":  "| | 6 | Kapasitas change management | Pernah lewati transformasi besar?",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"| | 6 | Kapasitas change management | Pernah lewati transformasi besar?\""
+                                  },
+                                  {
+                                      "passage":  "| | 2 | Inventarisasi sistem \u0026 sizing | Berapa modul, *add-on*, integrasi, dan volume data?",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"| | 2 | Inventarisasi sistem \u0026 sizing | Berapa modul, *add-on*, integrasi, dan volume data?\""
+                                  },
+                                  {
+                                      "passage":  "**SAP Readiness Check** menganalisis sistem secara otomatis, mencakup *custom code*, *simplification items*, kompatibilitas *add-on*, kebutuhan *sizing* HANA, dan titik integrasi, lalu menghasilkan laporan kesiapan menuju S/4HANA.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"**SAP Readiness Check** menganalisis sistem secara otomatis, mencakup *custom code*, *simplification items*, kompatibili\""
+                                  },
+                                  {
+                                      "passage":  "SAP Readiness Check gratis untuk pelanggan yang memiliki kontrak SAP *support* aktif, dan diakses melalui portal *SAP for Me* atau *SAP Cloud ALM* (SAP Community, 2026).",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"SAP Readiness Check gratis untuk pelanggan yang memiliki kontrak SAP *support* aktif, dan diakses melalui portal *SAP fo\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

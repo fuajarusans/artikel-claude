@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07\\final\\gasku-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-09T12:10:55+07:00",
+    "word_count":  1619,
+    "paragraph_count":  17,
+    "sentence_count":  88,
+    "ai_detector":  {
+                        "score":  0.2,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.503,
+                        "sentence_burstiness":  0.888,
+                        "top30_vocab_share":  0.297,
+                        "flags":  [
+                                      {
+                                          "pattern":  "em-dash-overuse",
+                                          "severity":  "medium",
+                                          "snippet":  "Em-dashes count: 12 (max 2)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Per November 2025 tercatat 14 SPBG di 7 provinsi (CNBC Indonesia, 2025), terkonsentrasi di Jabodetabek dan beberapa kota besar.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Per November 2025 tercatat 14 SPBG di 7 provinsi (CNBC Indonesia, 2025), terkonsentrasi di Jabodetabek dan beberapa kota\""
+                                  },
+                                  {
+                                      "passage":  "# Kapan Kendaraan \u0026 Armada Anda BELUM Cocok Pakai BBG (Jujur) Hampir semua artikel tentang BBG menjual sisi yang sama: hemat, oktan tinggi, lebih bersih.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"# Kapan Kendaraan \u0026 Armada Anda BELUM Cocok Pakai BBG (Jujur) Hampir semua artikel tentang BBG menjual sisi yang sama: h\""
+                                  },
+                                  {
+                                      "passage":  "Retrofit BBG umumnya menurunkan tenaga sekitar 10–15% pada kondisi normal, dan bisa mencapai sekitar 20% saat beban penuh (tinjauan sistematis ScienceDirect, 2026).",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Retrofit BBG umumnya menurunkan tenaga sekitar 10–15% pada kondisi normal, dan bisa mencapai sekitar 20% saat beban penu\""
+                                  },
+                                  {
+                                      "passage":  "Harga BBG Gasku tercatat Rp 4.500 per LSP (Liter Setara Premium) di laman resmi gagas.co.id, jauh di bawah bensin.",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"Harga BBG Gasku tercatat Rp 4.500 per LSP (Liter Setara Premium) di laman resmi gagas.co.id, jauh di bawah bensin.\""
+                                  },
+                                  {
+                                      "passage":  "Menurut ringkasan Journal of Safety Science and Resilience (September 2024, via solarindustri.com), risiko keselamatan CNG tergolong rendah.",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"Menurut ringkasan Journal of Safety Science and Resilience (September 2024, via solarindustri.com), risiko keselamatan C\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Kapan sebaiknya saya BELUM mengonversi kendaraan ke BBG?",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Kapan sebaiknya saya BELUM mengonversi kendaraan ke BBG?\""
+                                  },
+                                  {
+                                      "passage":  "- **Garansi pabrikan masih aktif.** Konversi mengubah sistem bahan bakar dan berpotensi membatalkan garansi.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"- **Garansi pabrikan masih aktif.** Konversi mengubah sistem bahan bakar dan berpotensi membatalkan garansi.\""
+                                  },
+                                  {
+                                      "passage":  "## Trade-off yang Nyata vs Ketakutan yang Berlebihan Sebagian keberatan terhadap BBG adalah trade-off nyata yang harus diterima; sebagian lagi ketakutan yang berlebihan jika instalasi sesuai standar.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"## Trade-off yang Nyata vs Ketakutan yang Berlebihan Sebagian keberatan terhadap BBG adalah trade-off nyata yang harus d\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

@@ -1,0 +1,61 @@
+{
+  "brief_id": "business-intelligence-01",
+  "article_title_id": "Business Intelligence: Mengapa Data Berlimpah Belum Tentu Menghasilkan Keputusan Lebih Baik",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-02",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Diagram arsitektur tiga lapisan BI — vertikal bertumpuk: bawah \"Lapisan Data Sumber\" dengan ikon ERP, CRM, spreadsheet, keuangan; tengah \"Lapisan Integrasi/ETL + Data Warehouse\"; atas \"Lapisan Analitik & Visualisasi\" dengan ikon dashboard, laporan, alert. Gaya diagram teknis bersih, palet profesional biru-abu, teks label dalam Bahasa Indonesia",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Arsitektur tiga lapisan adalah konsep teknis dengan relasi hirarkis yang jelas — diagram vertikal bertumpuk menyampaikannya jauh lebih efektif daripada foto atau infografis teks.",
+      "visual_direction": "Diagram vertikal tiga blok bertumpuk, dibaca dari bawah ke atas. Blok bawah berlatar abu-biru gelap (#1E3A5F) bertuliskan 'Lapisan Data Sumber' dengan empat ikon kecil di bawah label: ikon database (ERP), ikon orang dengan kotak (CRM), ikon spreadsheet, ikon kalkulator/keuangan — setiap ikon diberi label teks kecil Bahasa Indonesia ('ERP', 'CRM', 'Spreadsheet', 'Keuangan'). Blok tengah berlatar biru sedang (#2E6DA4) bertuliskan 'Lapisan Integrasi & ETL' dengan sub-label 'Data Warehouse' di bawahnya; satu ikon panah melingkar (siklus ETL) di tengah blok. Blok atas berlatar biru muda/terang (#4A90D9) bertuliskan 'Lapisan Analitik & Visualisasi' dengan tiga ikon kecil: ikon gauge/dashboard, ikon dokumen laporan, ikon lonceng (alert). Antar blok terdapat panah vertikal putih yang menunjukkan aliran data dari bawah ke atas. Seluruh diagram di atas latar putih bersih. Font sans-serif profesional (misalnya Inter atau Roboto), ukuran label blok 14–16pt, label ikon 10pt. Proporsi landscape 16:9 atau square 1:1 untuk fleksibilitas publikasi.",
+      "in_image_text_id": [
+        "Lapisan Analitik & Visualisasi",
+        "Lapisan Integrasi & ETL",
+        "Data Warehouse",
+        "Lapisan Data Sumber",
+        "ERP",
+        "CRM",
+        "Spreadsheet",
+        "Keuangan",
+        "Dashboard",
+        "Laporan",
+        "Alert"
+      ],
+      "alt_id": "Diagram arsitektur Business Intelligence tiga lapisan: sumber data (ERP, CRM), integrasi ETL dan data warehouse, lalu lapisan analitik dan visualisasi",
+      "caption_id": "Arsitektur Business Intelligence modern terdiri dari tiga lapisan yang saling bergantung: sumber data operasional, lapisan integrasi ETL yang membentuk single source of truth, dan platform analitik yang menyajikan dashboard serta laporan kepada manajemen. Kualitas lapisan sumber menentukan keandalan seluruh sistem.",
+      "sourcing_note": "Buat sebagai diagram original — tidak membutuhkan screenshot SAP. Desainer dapat menggunakan tools diagram seperti Figma, Canva, atau Lucidchart dengan komponen ikon standar. Palet warna: biru korporat Soltius (#1E3A5F, #2E6DA4, #4A90D9) pada latar putih.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body",
+      "concept_from_writer": "Infografik checklist lima tanda perusahaan butuh BI — lima baris dengan ikon di kiri (jam pasir, spreadsheet bercabang, tanda tanya, kursor copy-paste, antrian), teks tanda di tengah, ambang batas konkret di kanan. Latar biru-putih profesional, teks Bahasa Indonesia, gaya minimalis yang mudah dibaca",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Lima tanda beserta ambang batasnya adalah konten teks berstruktur yang perlu dibandingkan secara visual berdampingan — infografis tabel dua-kolom menyampaikannya lebih jelas dari paragraf dan cocok untuk dibagikan antar kolega.",
+      "visual_direction": "Infografis vertikal dua kolom dengan judul di atas. Judul: '5 Tanda Perusahaan Sudah Butuh Business Intelligence' dalam font bold biru gelap (#1E3A5F), latar putih, ukuran 18–20pt. Di bawah judul, lima baris dengan garis pemisah tipis abu-abu. Setiap baris terdiri dari: (1) Ikon lingkaran berwarna biru (#2E6DA4) di sisi kiri berukuran 40×40px — baris 1: ikon jam pasir, baris 2: ikon spreadsheet bercabang tiga, baris 3: ikon tanda tanya dalam kotak, baris 4: ikon kursor dengan dua dokumen (copy-paste), baris 5: ikon antrian/baris orang; (2) Teks deskripsi singkat tanda di kolom tengah (font regular 12–13pt, abu gelap), lebar ~55% total; (3) Label ambang batas konkret di kolom kanan dengan latar biru muda (#E8F0FB), font semi-bold biru tua, lebar ~35% total. Konten tiap baris: Baris 1 — tengah: 'Laporan bulanan butuh waktu terlalu lama', kanan: '>5 hari kerja per bulan'. Baris 2 — tengah: 'Ada banyak versi angka KPI yang berbeda', kanan: '3+ departemen, angka berbeda'. Baris 3 — tengah: 'Keputusan operasional masih berbasis intuisi', kanan: 'Data ada, tapi tak bisa diakses saat dibutuhkan'. Baris 4 — tengah: 'Tim analis sibuk copy-paste, bukan menganalisis', kanan: '>40% waktu untuk mengumpulkan data'. Baris 5 — tengah: 'Manajemen tak bisa lihat kinerja hari ini', kanan: 'Harus lewat IT request, baru terjawab besok'. Footer kecil di bawah: 'soltius.co.id' dalam font abu-abu 9pt. Proporsi: portrait 3:4 atau 4:5 untuk kemudahan berbagi di email/presentasi.",
+      "in_image_text_id": [
+        "5 Tanda Perusahaan Sudah Butuh Business Intelligence",
+        "Laporan bulanan butuh waktu terlalu lama",
+        ">5 hari kerja per bulan",
+        "Ada banyak versi angka KPI yang berbeda",
+        "3+ departemen, angka berbeda",
+        "Keputusan operasional masih berbasis intuisi",
+        "Data ada, tapi tak bisa diakses saat dibutuhkan",
+        "Tim analis sibuk copy-paste, bukan menganalisis",
+        ">40% waktu untuk mengumpulkan data",
+        "Manajemen tak bisa lihat kinerja hari ini",
+        "Harus lewat IT request, baru terjawab besok",
+        "soltius.co.id"
+      ],
+      "alt_id": "Infografik lima tanda perusahaan membutuhkan Business Intelligence: laporan lambat, versi KPI berbeda, keputusan berbasis intuisi, copy-paste berlebihan, manajemen buta kinerja harian",
+      "caption_id": "Lima indikator konkret bahwa perusahaan sudah membutuhkan Business Intelligence — mulai dari laporan bulanan yang memakan lebih dari 5 hari kerja hingga ketidakmampuan manajemen melihat kinerja hari ini tanpa melewati IT. Semakin banyak tanda yang cocok, semakin mendesak kebutuhan BI.",
+      "sourcing_note": "Buat sebagai infografis original — tidak membutuhkan screenshot atau aset eksternal. Desainer dapat menggunakan Figma atau Canva dengan ikon standar dari library seperti Feather Icons atau Material Icons. Semua teks dalam Bahasa Indonesia sesuai konten di atas.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

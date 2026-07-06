@@ -1,0 +1,63 @@
+{
+  "brief_id": "mrp-c01",
+  "article_title_id": "Apa Itu MRP (Material Requirements Planning) dan Cara Kerjanya",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-17",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "setelah paragraf pembuka / sebelum H2 'Apa Itu MRP'",
+      "concept_from_writer": "Infografik horizontal tiga zona alur input-proses-output MRP. Zona kiri (INPUT): tiga kotak berlabel \"Master Production Schedule (MPS)\", \"Bill of Materials (BOM)\", \"Inventory Status File\" dengan ikon dokumen/gudang. Zona tengah (PROSES): kotak roda gigi berlabel \"MRP Engine\" dengan empat anak panah bernomor (1. Netting, 2. Lotting, 3. Offsetting, 4. Exploding). Zona kanan (OUTPUT): dua kotak \"Planned Order Schedule\" dan \"Order Release Report\". Warna biru korporat + abu-abu, gaya flat enterprise, teks Bahasa Indonesia.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Diagram alur tiga-zona adalah format paling tepat untuk memetakan hubungan sebab-akibat INPUT → PROSES → OUTPUT; label teknis spesifik (MPS, BOM, Netting, dll.) tidak bisa disederhanakan menjadi foto stok atau ilustrasi konseptual — diagram yang presisi memungkinkan pembaca mengikuti logika perhitungan MRP langkah per langkah.",
+      "visual_direction": "Format: infografik horizontal berbentuk tiga blok berurutan dari kiri ke kanan, dihubungkan oleh anak panah tebal berwarna biru tua. Rasio kanvas: landscape 16:9 atau 3:1. Latar belakang: putih bersih (#FFFFFF). Tipografi: sans-serif enterprise (contoh: Inter, Roboto, atau Noto Sans) dalam Bahasa Indonesia.\n\nBlok kiri — 'INPUT' (lebar ±30% kanvas): judul blok 'INPUT' kapital berwarna abu-abu gelap (#4A4A4A) di atas. Di dalamnya tiga kotak sejajar secara vertikal dengan sudut membulat, isi putih, border biru korporat (#1B4F9C). Tiap kotak memuat: (a) ikon kecil monokrom di sudut kiri atas — ikon dokumen bergaris untuk MPS, ikon pohon/hierarki untuk BOM, ikon gudang/kotak untuk Inventory Status File; (b) teks label tebal biru tua di baris pertama; (c) teks deskripsi tipis abu-abu di baris kedua. Label ketiga kotak (huruf tebal): 'Master Production Schedule (MPS)', 'Bill of Materials (BOM)', 'Inventory Status File'.\n\nBlok tengah — 'PROSES' (lebar ±35% kanvas): judul 'PROSES' kapital abu-abu gelap. Satu kotak utama besar berwarna biru korporat solid (#1B4F9C) berlabel 'MRP Engine' (teks putih tebal) dengan ikon roda gigi putih kecil di tengah atas. Di dalam kotak atau tepat di bawahnya, empat langkah berurutan ke bawah ditampilkan sebagai empat baris bernomor dengan anak panah turun (#2196F3 muda): '1. Netting', '2. Lotting', '3. Offsetting', '4. Exploding' — teks putih atau abu-abu terang, angka dicetak tebal. Anak panah besar berwarna biru tua (#1B4F9C) menghubungkan blok INPUT ke blok PROSES (dari sisi kanan blok INPUT ke sisi kiri kotak MRP Engine).\n\nBlok kanan — 'OUTPUT' (lebar ±30% kanvas): judul 'OUTPUT' kapital abu-abu gelap. Dua kotak vertikal serupa gaya kotak INPUT, masing-masing dengan ikon: ikon jadwal/kalender untuk 'Planned Order Schedule' dan ikon dokumen checklist untuk 'Order Release Report'. Label teks tebal biru tua, deskripsi singkat tipis abu-abu. Anak panah besar berwarna biru tua menghubungkan blok PROSES ke blok OUTPUT.\n\nPalet warna: biru korporat utama #1B4F9C, biru aksen #2196F3, abu-abu gelap #4A4A4A, abu-abu terang #F5F5F5, putih #FFFFFF. Gaya: flat enterprise, tidak ada bayangan tebal, tidak ada gradasi warna rumit. Semua teks dalam Bahasa Indonesia.",
+      "in_image_text_id": [
+        "INPUT",
+        "PROSES",
+        "OUTPUT",
+        "Master Production Schedule (MPS)",
+        "Bill of Materials (BOM)",
+        "Inventory Status File",
+        "MRP Engine",
+        "1. Netting",
+        "2. Lotting",
+        "3. Offsetting",
+        "4. Exploding",
+        "Planned Order Schedule",
+        "Order Release Report"
+      ],
+      "alt_id": "Diagram alur input-proses-output MRP: MPS, BOM, dan Inventory Status File masuk ke MRP Engine, menghasilkan Planned Order Schedule dan Order Release Report",
+      "caption_id": "Sistem MRP bekerja dari tiga input utama — Jadwal Produksi Induk (MPS), Daftar Komponen (BOM), dan catatan persediaan — melalui empat langkah komputasi, hingga menghasilkan jadwal pesanan terencana yang konkret. Tanpa ketiga input ini yang akurat, seluruh rencana material tidak dapat diandalkan.",
+      "sourcing_note": "Bukan screenshot SAP — ini adalah diagram konseptual buatan tim desain. Tidak memerlukan akses ke UI SAP. Desainer cukup mengikuti visual direction di atas. Referensi gaya dapat mengacu pada diagram teknis enterprise bergaya flat seperti yang umum dipakai di materi SAP Learning atau slide konsultan.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "di dalam H2 'MRP, MRP II, dan ERP: Apa Bedanya?' — setelah paragraf pertama H2, sebelum tabel perbandingan",
+      "concept_from_writer": "Timeline horizontal tiga pilar bertingkat naik. Pilar 1 (1964–1975) \"MRP\" — ikon material/komponen, label \"Material saja\". Pilar 2 (1983) \"MRP II\" — ikon mesin + pekerja + simbol keuangan, label \"Material + Kapasitas + Keuangan\". Pilar 3 (1990–kini) \"ERP\" — ikon ekosistem bisnis lengkap, label \"Seluruh fungsi bisnis\". Garis waktu di bawah, warna biru korporat progresif, teks Bahasa Indonesia.",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Infografik timeline bertingkat menggambarkan evolusi linier MRP→MRP II→ERP beserta tahun dan cakupan fungsional setiap tahap secara visual sekaligus; format ini lebih informatif daripada tabel teks untuk menunjukkan bahwa ketiganya adalah satu garis evolusi, bukan tiga produk terpisah — sesuatu yang sulit disampaikan hanya lewat paragraf prosa.",
+      "visual_direction": "Format: infografik horizontal landscape 16:9 atau 3:2. Latar belakang: putih bersih (#FFFFFF). Tipografi: sans-serif enterprise (Inter, Roboto, atau Noto Sans) dalam Bahasa Indonesia.\n\nStruktur utama: garis waktu (timeline) horizontal tebal berwarna abu-abu gelap (#4A4A4A) membentang di bagian bawah kanvas, dengan tiga titik penanda (bullet besar berbentuk lingkaran) bertanda tahun: '1964', '1983', '1990–sekarang'. Dari setiap titik penanda, tiga pilar/kolom vertikal bertingkat naik ke atas — pilar kiri paling pendek, pilar kanan paling tinggi, menciptakan siluet tangga naik yang melambangkan perluasan cakupan.\n\nPilar 1 — 'MRP' (tinggi: ±40% area visual, lebar sepertiga kanvas): warna isian biru muda (#93C5FD) atau biru korporat terang. Di dalam/atas pilar: ikon monokrom kotak-kotak komponen/material (seperti potongan-potongan puzzle atau komponen PCB stilasi). Label besar tebal berwarna biru tua: 'MRP'. Di bawah label: teks lebih kecil 'Material Requirements Planning'. Di bawahnya lagi: tag/badge abu-abu gelap berteks 'Material saja'. Tahun di garis waktu: '1964'.\n\nPilar 2 — 'MRP II' (tinggi: ±65% area visual): warna isian biru korporat medium (#3B82F6). Di dalam/atas pilar: tiga ikon kecil berdampingan — ikon mesin/gear, ikon siluet pekerja, ikon simbol mata uang (Rp atau simbol keuangan). Label tebal putih: 'MRP II'. Di bawah label: 'Manufacturing Resource Planning'. Tag badge: 'Material + Kapasitas + Keuangan'. Tahun: '1983'.\n\nPilar 3 — 'ERP' (tinggi: ±100% area visual / pilar penuh): warna isian biru korporat gelap (#1B4F9C). Di dalam/atas pilar: ikon ekosistem bisnis — grid 2×2 ikon kecil mewakili: produksi (gear), keuangan (grafik), SDM (orang), rantai pasok (rantai/panah lingkar). Label tebal putih besar: 'ERP'. Di bawah label: 'Enterprise Resource Planning'. Tag badge: 'Seluruh fungsi bisnis'. Tahun: '1990–sekarang'.\n\nElemen tambahan: anak panah horizontal kecil menghubungkan titik-titik garis waktu dari kiri ke kanan, menegaskan arah evolusi. Di bagian bawah, teks kecil italic abu-abu: 'Sumber: Wikipedia / TechTarget / Gartner (melalui publikasi industri)' — opsional, sesuai kebijakan tim desain.\n\nPalet: biru muda #93C5FD (MRP), biru medium #3B82F6 (MRP II), biru tua #1B4F9C (ERP), abu-abu #4A4A4A (teks & garis waktu), putih #FFFFFF (latar & teks di pilar gelap). Gaya flat enterprise, bersih, tanpa efek 3D.",
+      "in_image_text_id": [
+        "MRP",
+        "Material Requirements Planning",
+        "Material saja",
+        "1964",
+        "MRP II",
+        "Manufacturing Resource Planning",
+        "Material + Kapasitas + Keuangan",
+        "1983",
+        "ERP",
+        "Enterprise Resource Planning",
+        "Seluruh fungsi bisnis",
+        "1990–sekarang"
+      ],
+      "alt_id": "Evolusi MRP ke MRP II ke ERP: timeline tiga pilar bertingkat dari 1964, 1983, hingga 1990, menunjukkan perluasan cakupan sistem perencanaan",
+      "caption_id": "MRP (1964), MRP II (1983), dan ERP (1990) bukan tiga teknologi bersaing — melainkan satu garis evolusi di mana setiap generasi memperluas cakupan fungsional generasi sebelumnya. Istilah 'ERP' sendiri diciptakan firma riset Gartner pada 1990 untuk mendeskripsikan sistem yang cakupannya sudah jauh melampaui manufaktur.",
+      "sourcing_note": "Bukan screenshot SAP — ini adalah infografik konseptual buatan tim desain berdasarkan data historis yang terverifikasi (Wikipedia MRP, TechTarget, Gartner). Tidak memerlukan akses ke produk SAP. Desainer mengikuti visual direction di atas; angka tahun dan label sudah final dan terverifikasi dari dossier penelitian.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

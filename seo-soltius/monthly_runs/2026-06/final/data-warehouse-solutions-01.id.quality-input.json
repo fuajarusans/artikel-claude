@@ -1,0 +1,81 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-06\\final\\data-warehouse-solutions-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-03T01:43:12+07:00",
+    "word_count":  1465,
+    "paragraph_count":  21,
+    "sentence_count":  93,
+    "ai_detector":  {
+                        "score":  0.24,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.524,
+                        "sentence_burstiness":  0.738,
+                        "top30_vocab_share":  0.352,
+                        "flags":  [
+                                      {
+                                          "pattern":  "em-dash-overuse",
+                                          "severity":  "medium",
+                                          "snippet":  "Em-dashes count: 6 (max 2)",
+                                          "line":  -1
+                                      },
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 35.2% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "27 Tahun 2022 tentang Perlindungan Data Pribadi (*UU PDP*) sudah berlaku penuh sejak Oktober 2024.",
+                                      "candidate_score":  31,
+                                      "web_search_query":  "\"27 Tahun 2022 tentang Perlindungan Data Pribadi (*UU PDP*) sudah berlaku penuh sejak Oktober 2024.\""
+                                  },
+                                  {
+                                      "passage":  "Anda kemungkinan **belum** butuh jika: - **Sistem operasional masih 1–2, sudah terintegrasi.** Laporan bisa selesai dalam satu hari; menambah lapisan *warehouse* hanya menambah kompleksitas.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Anda kemungkinan **belum** butuh jika: - **Sistem operasional masih 1–2, sudah terintegrasi.** Laporan bisa selesai dala\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai SAP Platinum Partner berpengalaman sejak 1998, Soltius mendampingi perusahaan dari penilaian kesiapan arsitektur data, implementasi SAP Datasphere atau BW/4HANA, hingga dukungan pasca go-live.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Sebagai SAP Platinum Partner berpengalaman sejak 1998, Soltius mendampingi perusahaan dari penilaian kesiapan arsitektur\""
+                                  },
+                                  {
+                                      "passage":  "## Komponen Utama dan Cara Kerja Data Warehouse Memahami lapisan teknisnya tidak memerlukan latar belakang rekayasa data.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Komponen Utama dan Cara Kerja Data Warehouse Memahami lapisan teknisnya tidak memerlukan latar belakang rekayasa data\""
+                                  },
+                                  {
+                                      "passage":  "Melalui layanan Data and AI Consulting, Soltius merancang arsitektur *data warehouse*, baik menggunakan SAP Datasphere maupun BW/4HANA, disesuaikan dengan ekosistem SAP dan kebutuhan bisnis spesifik.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Melalui layanan Data and AI Consulting, Soltius merancang arsitektur *data warehouse*, baik menggunakan SAP Datasphere m\""
+                                  },
+                                  {
+                                      "passage":  "Menurut IDC, dikutip dalam laporan Data Ideology 2025, 70% bisnis menyebut optimisasi *data warehouse* sebagai *use case* analitik yang paling kritikal.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Menurut IDC, dikutip dalam laporan Data Ideology 2025, 70% bisnis menyebut optimisasi *data warehouse* sebagai *use case\""
+                                  },
+                                  {
+                                      "passage":  "Untuk implementasi awal dengan 3–5 sumber data dan tim siap, rentang tipikal 3–6 bulan dari *kick-off* hingga laporan pertama berjalan.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Untuk implementasi awal dengan 3–5 sumber data dan tim siap, rentang tipikal 3–6 bulan dari *kick-off* hingga laporan pe\""
+                                  },
+                                  {
+                                      "passage":  "Perusahaan yang tumbuh biasanya beroperasi dengan 3–5 sistem yang tidak terintegrasi: Finance, Sales/CRM, HR, gudang, manufaktur.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Perusahaan yang tumbuh biasanya beroperasi dengan 3–5 sistem yang tidak terintegrasi: Finance, Sales/CRM, HR, gudang, ma\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

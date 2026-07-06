@@ -1,0 +1,57 @@
+{
+  "brief_id": "low-code-platform-04",
+  "article_title_id": "Risiko Low-Code Platform yang Jarang Dibahas: Keamanan Data, Shadow IT, dan Vendor Lock-In",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-02",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "body — setelah paragraf pembuka dan sebelum H2 'Mengapa Risiko Low-Code Platform Sering Diabaikan'",
+      "concept_from_writer": "Matriks risiko 4 baris × 4 kolom (Risiko | Dampak Potensial | Tanda Peringatan | Mitigasi), format tabel infografik korporat biru-putih, header bold, baris bergantian putih dan biru muda, teks Bahasa Indonesia, gaya minimal profesional, ukuran landscape",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Tabel 4×4 dengan teks substantif adalah konten tabular — infografik bertipe tabel menyampaikan informasi secara langsung dan dapat dipindai lebih cepat oleh pembaca B2B dibanding diagram atau foto; mendukung struktur artikel yang memang memetakan empat risiko secara paralel",
+      "visual_direction": "Infografik tabel landscape (rasio 16:9 atau 4:3). Latar belakang putih bersih. Header baris pertama berisi empat label kolom dalam huruf kapital bold: 'RISIKO', 'DAMPAK POTENSIAL', 'TANDA PERINGATAN', 'MITIGASI'. Warna header: latar biru tua Soltius (#1A3D6D atau setara) dengan teks putih. Empat baris data di bawah header — baris ganjil latar putih, baris genap latar biru sangat muda (#EAF1FB). Konten baris persis mengikuti tabel di artikel: (1) Shadow IT | Data tidak terproteksi; aplikasi tanpa backup; celah compliance | Tim bisnis membuat aplikasi sendiri tanpa notifikasi IT | Governed low-code platform dengan approval workflow; federated governance; (2) Vendor Lock-In | Sulit migrasi; biaya tinggi jika vendor naikkan harga atau hentikan support | Logic bisnis seluruhnya dalam format proprietary; tidak ada export standar | Evaluasi portabilitas data dan logic sebelum kontrak; pilih platform berbasis open standards; (3) Data Security Gap | Akses tidak sah ke data sensitif; pelanggaran UU PDP (sanksi hingga 2% pendapatan) | Citizen developer dapat akses tabel database produksi langsung; tidak ada role separation | Role-based access control; data classification; audit log aktif; (4) Technical Debt Tersembunyi | Aplikasi tidak terawat; tidak bisa diaudit; kerentanan tidak tertangani | Aplikasi 'orphan' tanpa pemilik jelas; tidak ada dokumentasi versi | App lifecycle management; mandatory documentation; periodic audit inventory. Judul di atas tabel (di luar baris header): 'Matriks Risiko Low-Code Platform di Enterprise' — font bold ukuran lebih besar, rata kiri atau tengah. Tipografi: sans-serif modern (Roboto, Inter, atau setara). Tidak ada ikon dekoratif. Gaya: bersih, korporat, mudah dibaca pada resolusi layar desktop dan cetak A4 landscape.",
+      "in_image_text_id": [
+        "Matriks Risiko Low-Code Platform di Enterprise",
+        "RISIKO",
+        "DAMPAK POTENSIAL",
+        "TANDA PERINGATAN",
+        "MITIGASI",
+        "Shadow IT",
+        "Vendor Lock-In",
+        "Data Security Gap",
+        "Technical Debt Tersembunyi"
+      ],
+      "alt_id": "Matriks risiko low-code platform enterprise: shadow IT, vendor lock-in, celah keamanan data, dan technical debt dengan langkah mitigasi",
+      "caption_id": "Empat risiko utama low-code platform di enterprise yang paling sering diabaikan, beserta tanda peringatan dan langkah mitigasi yang perlu disiapkan sebelum deployment. Tanpa framework governance yang tepat, program citizen developer dapat menciptakan celah keamanan yang sulit dilacak.",
+      "sourcing_note": "Grafik orisinal — seluruh konten berasal dari tabel risiko dalam artikel ini, tidak perlu sumber eksternal. Desainer dapat mereproduksi persis dari tabel Markdown di artikel. Tidak ada kebutuhan screenshot SAP.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body — di awal H2 'Checklist Keamanan Sebelum Deploy Low-Code Platform di Perusahaan', sebelum daftar 8 poin",
+      "concept_from_writer": "Checklist 8 poin vertikal dengan ikon centang (✓) di setiap baris, layout dua kolom, warna biru-putih korporat, setiap poin bernomor dengan label bold, header 'Checklist Keamanan Low-Code Platform Enterprise', teks Bahasa Indonesia, gaya minimal profesional",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Checklist bertipe visual memudahkan CIO/IT manager memindai dan mencetak daftar item wajib sebelum deployment — jauh lebih actionable dari foto stok; format ini juga direkomendasikan untuk konten AI-Overview dan structured data di SERP",
+      "visual_direction": "Infografik checklist portrait atau landscape (rasio 3:4 atau 16:9). Latar belakang putih. Judul di bagian atas: 'Checklist Keamanan Low-Code Platform Enterprise' — huruf bold, ukuran besar, warna biru tua Soltius (#1A3D6D). Garis pembatas tipis biru muda di bawah judul. Layout dua kolom simetris, masing-masing menampung 4 poin checklist (kolom kiri: poin 1–4; kolom kanan: poin 5–8). Setiap poin terdiri dari: (a) nomor bulat solid biru tua (#1A3D6D) dengan angka putih di dalam — ukuran 24–28px; (b) ikon centang (✓) atau kotak kosong berbingkai tipis biru di sebelah kanan nomor — untuk efek 'siap diisi'; (c) label bold Bahasa Indonesia: 1. Role-Based Access Control (RBAC), 2. Data Classification, 3. Audit Trail, 4. Approval Workflow, 5. Backup & Disaster Recovery, 6. Compliance Mapping UU PDP, 7. Exit Strategy Vendor, 8. Incident Response Plan. Di bawah setiap label bold: satu baris keterangan pendek (font reguler, abu-abu gelap) mengikuti teks artikel. Warna latar setiap poin: biru sangat muda (#F0F6FF) dengan border tipis. Catatan kaki kecil di bawah infografik: 'Berlaku per UU No. 27 Tahun 2022 tentang Perlindungan Data Pribadi (UU PDP), efektif Oktober 2024'. Tipografi: sans-serif modern. Tidak ada ilustrasi dekoratif. Padding memadai agar tidak padat.",
+      "in_image_text_id": [
+        "Checklist Keamanan Low-Code Platform Enterprise",
+        "Role-Based Access Control (RBAC)",
+        "Data Classification",
+        "Audit Trail",
+        "Approval Workflow",
+        "Backup & Disaster Recovery",
+        "Compliance Mapping UU PDP",
+        "Exit Strategy Vendor",
+        "Incident Response Plan",
+        "Berlaku per UU No. 27 Tahun 2022 tentang Perlindungan Data Pribadi (UU PDP), efektif Oktober 2024"
+      ],
+      "alt_id": "Checklist 8 poin keamanan low-code platform enterprise: RBAC, audit trail, compliance UU PDP, dan incident response plan",
+      "caption_id": "Delapan item minimum yang wajib diperiksa sebelum deployment low-code platform di lingkungan enterprise, termasuk pemetaan kepatuhan UU PDP Indonesia (sanksi hingga 2% pendapatan tahunan) yang berlaku penuh sejak Oktober 2024.",
+      "sourcing_note": "Grafik orisinal — seluruh konten berasal dari daftar 8 poin checklist dalam artikel ini. Tidak perlu screenshot SAP atau aset pihak ketiga. Desainer membuat dari nol menggunakan poin dari artikel.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

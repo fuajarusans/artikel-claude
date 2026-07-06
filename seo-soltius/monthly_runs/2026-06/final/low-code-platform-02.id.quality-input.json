@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-06\\final\\low-code-platform-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-03T01:29:02+07:00",
+    "word_count":  1881,
+    "paragraph_count":  25,
+    "sentence_count":  88,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.408,
+                        "sentence_burstiness":  1.011,
+                        "top30_vocab_share":  0.322,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.408 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "## Tiga Komponen SAP Build: Fungsi, Target Pengguna, dan Use Case di Indonesia SAP Build terdiri dari tiga komponen dengan peran yang berbeda.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"## Tiga Komponen SAP Build: Fungsi, Target Pengguna, dan Use Case di Indonesia SAP Build terdiri dari tiga komponen deng\""
+                                  },
+                                  {
+                                      "passage":  "Menurut studi GigaOm Benchmark (Maret 2025), SAP Build menghasilkan pengiriman proyek **3x lebih cepat** dan mengurangi effort pengembangan sebesar **59%** dibanding *custom development* tradisional.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Menurut studi GigaOm Benchmark (Maret 2025), SAP Build menghasilkan pengiriman proyek **3x lebih cepat** dan mengurangi \""
+                                  },
+                                  {
+                                      "passage":  "## Apa Itu SAP Build dan Mengapa Ia Berbeda dari Low-Code Platform Biasa?",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Apa Itu SAP Build dan Mengapa Ia Berbeda dari Low-Code Platform Biasa?\""
+                                  },
+                                  {
+                                      "passage":  "## Bagaimana SAP Build Bekerja di Atas SAP BTP untuk Integrasi S/4HANA?",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Bagaimana SAP Build Bekerja di Atas SAP BTP untuk Integrasi S/4HANA?\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apa itu SAP Build dan apa hubungannya dengan SAP BTP?",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apa itu SAP Build dan apa hubungannya dengan SAP BTP?\""
+                                  },
+                                  {
+                                      "passage":  "SAP Build Process Automation fokus pada **otomasi alur kerja**: menggantikan proses manual, mengintegrasikan persetujuan multi-sistem, dan mengotomasi pengisian data berulang (RPA).",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"SAP Build Process Automation fokus pada **otomasi alur kerja**: menggantikan proses manual, mengintegrasikan persetujuan\""
+                                  },
+                                  {
+                                      "passage":  "Studi GigaOm (Maret 2025) mencatat pengiriman proyek 3x lebih cepat dibanding pengembangan kustom tradisional.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Studi GigaOm (Maret 2025) mencatat pengiriman proyek 3x lebih cepat dibanding pengembangan kustom tradisional.\""
+                                  },
+                                  {
+                                      "passage":  "\u003e **Secara singkat:** SAP Build adalah suite *low-code* dan *no-code* resmi dari SAP yang berjalan di atas SAP BTP (*Business Technology Platform*).",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"\u003e **Secara singkat:** SAP Build adalah suite *low-code* dan *no-code* resmi dari SAP yang berjalan di atas SAP BTP (*Bus\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

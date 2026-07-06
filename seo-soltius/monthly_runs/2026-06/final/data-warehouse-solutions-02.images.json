@@ -1,0 +1,61 @@
+{
+  "brief_id": "data-warehouse-solutions-02",
+  "article_title_id": "Data Warehouse vs Data Lake vs Data Lakehouse: Panduan Memilih Arsitektur Data yang Tepat",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-02",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Infografis horizontal tiga kolom \"Tiga Paradigma Data Platform\" — kolom kiri \"Data Warehouse\" (ikon silinder biru, label: terstruktur, schema-on-write, BI reporting), kolom tengah \"Data Lake\" (ikon danau hijau, label: raw data, schema-on-read, ML/AI), kolom kanan \"Data Lakehouse\" (ikon hybrid ungu, label: semua format, ACID transactions, BI + ML); gaya korporat bersih, teks Bahasa Indonesia",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Tiga paradigma ini adalah inti artikel dan paling efektif divisualisasikan sebagai perbandingan kolom sejajar — memudahkan pembaca menangkap perbedaan kunci dalam satu pandang, sekaligus berpotensi menjadi kutipan di AI Overview/Featured Snippet.",
+      "visual_direction": "Infografis horizontal tiga kolom berukuran 1200×500px dengan latar putih bersih. Kolom kiri berlabel \"Data Warehouse\" dengan header berwarna biru tua (#003366); di bawahnya ikon silinder biru (representasi basis data relasional); diikuti tiga label teks dalam kotak abu-abu muda: \"Terstruktur (SQL)\", \"Schema-on-Write\", \"BI Reporting & KPI\". Kolom tengah berlabel \"Data Lake\" dengan header hijau gelap (#1A6B3A); ikon stilisasi danau/kubah data berwarna hijau; tiga label: \"Semua Format (raw)\", \"Schema-on-Read\", \"ML/AI & Eksplorasi\". Kolom kanan berlabel \"Data Lakehouse\" dengan header ungu (#5A2DA0); ikon hybrid — silinder dan danau bergabung; tiga label: \"Semua Format\", \"ACID Transactions\", \"BI + ML Terpadu\". Pembatas kolom berupa garis vertikal tipis abu-abu. Di bagian bawah, satu baris footer dengan teks kecil: \"Pilih berdasarkan kematangan tim, tipe data, dan prioritas use case.\" Font sans-serif modern (misalnya Poppins atau Lato). Keseluruhan palette: putih, biru tua, hijau tua, ungu — profesional dan mudah dibaca di layar desktop.",
+      "in_image_text_id": [
+        "Data Warehouse",
+        "Data Lake",
+        "Data Lakehouse",
+        "Terstruktur (SQL)",
+        "Schema-on-Write",
+        "BI Reporting & KPI",
+        "Semua Format (raw)",
+        "Schema-on-Read",
+        "ML/AI & Eksplorasi",
+        "Semua Format",
+        "ACID Transactions",
+        "BI + ML Terpadu",
+        "Pilih berdasarkan kematangan tim, tipe data, dan prioritas use case."
+      ],
+      "alt_id": "Infografis tiga kolom perbandingan data warehouse, data lake, dan data lakehouse berdasarkan struktur data, skema, dan use case utama",
+      "caption_id": "Tiga paradigma platform data modern berbeda dalam cara menyimpan dan memperlakukan data. Pilihan yang tepat bergantung pada kematangan tim, proporsi data tidak terstruktur, dan prioritas use case dalam 12 bulan ke depan.",
+      "sourcing_note": "Desain original oleh tim desain — tidak perlu screenshot SAP atau aset pihak ketiga. Ikon dapat diambil dari library open-source seperti Noun Project atau Flaticon dengan lisensi yang sesuai. Gunakan palette warna korporat Soltius (biru tua, putih) sebagai warna dominan; hijau dan ungu sebagai warna aksen pembeda.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body",
+      "concept_from_writer": "Diagram alur keputusan (decision tree) — \"Apakah >40% data Anda unstructured?\" → Ya: \"Tim data engineer siap?\" → Ya: Lakehouse / Tidak: Data Lake managed; → Tidak: \"Perlu ML/AI?\" → Ya: Pertimbangkan lakehouse jangka panjang / Tidak: Data Warehouse — warna biru/hijau/ungu, teks Bahasa Indonesia",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Sebuah decision tree alur keputusan adalah format yang paling tepat untuk membantu pembaca B2B memetakan kondisi mereka sendiri ke rekomendasi arsitektur — lebih actionable dari tabel dan lebih ringkas dari narasi.",
+      "visual_direction": "Diagram alur keputusan (decision tree) vertikal berukuran 900×700px dengan latar putih. Mulai dari kotak persegi panjang di bagian atas berwarna biru tua (#003366) berlabel: \"Apakah lebih dari 40% data Anda bersifat unstructured atau semi-structured? (IoT, log, dokumen, media)\". Dari kotak ini dua cabang panah: \"Ya\" ke kiri (panah hijau) dan \"Tidak\" ke kanan (panah biru). Cabang \"Ya\" menuju kotak biru menengah: \"Apakah tim data engineer Anda sudah siap? (min. 5 orang berpengalaman Spark/Python)\". Dari sini dua cabang: \"Ya\" ke kotak ungu berlabel \"Data Lakehouse\" (SAP Business Data Cloud); \"Tidak\" ke kotak hijau berlabel \"Data Lake Managed (mulai dari managed service, bangun tim dulu)\". Cabang \"Tidak\" dari kotak pertama menuju kotak biru menengah: \"Apakah ada rencana ML/AI dalam 12 bulan ke depan?\". Dari sini dua cabang: \"Ya\" ke kotak abu-abu berlabel \"Pertimbangkan Lakehouse Jangka Panjang (mulai dari warehouse dulu)\"; \"Tidak\" ke kotak biru cerah berlabel \"Data Warehouse (SAP Datasphere / SAP BW/4HANA)\". Setiap kotak rekomendasi akhir memiliki ikon kecil yang sesuai (silinder, danau, hybrid). Catatan kaki kecil di bawah diagram: \"Acuan praktisi — sesuaikan dengan konteks organisasi Anda.\" Font konsisten dengan IMAGE_01.",
+      "in_image_text_id": [
+        "Apakah lebih dari 40% data Anda bersifat unstructured atau semi-structured? (IoT, log, dokumen, media)",
+        "Ya",
+        "Tidak",
+        "Apakah tim data engineer Anda sudah siap? (min. 5 orang berpengalaman Spark/Python)",
+        "Data Lakehouse",
+        "Data Lake Managed (mulai dari managed service, bangun tim dulu)",
+        "Apakah ada rencana ML/AI dalam 12 bulan ke depan?",
+        "Pertimbangkan Lakehouse Jangka Panjang (mulai dari warehouse dulu)",
+        "Data Warehouse (SAP Datasphere / SAP BW/4HANA)",
+        "Acuan praktisi — sesuaikan dengan konteks organisasi Anda."
+      ],
+      "alt_id": "Diagram alur keputusan pemilihan arsitektur data: data warehouse, data lake, atau data lakehouse berdasarkan proporsi data dan kesiapan tim",
+      "caption_id": "Framework keputusan berbasis empat pertanyaan kunci: proporsi data tidak terstruktur, kesiapan tim data engineering, dan rencana ML/AI menentukan arsitektur mana yang paling realistis untuk organisasi Anda.",
+      "sourcing_note": "Desain original oleh tim desain — tidak perlu screenshot atau aset pihak ketiga. Gunakan tool diagram seperti Figma, Lucidchart, atau draw.io. Pastikan semua label teks dalam Bahasa Indonesia sesuai dengan daftar di atas. Cek konsistensi warna dengan IMAGE_01: biru tua untuk elemen utama/keputusan, ungu untuk Lakehouse, hijau untuk Data Lake, biru cerah untuk Data Warehouse.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

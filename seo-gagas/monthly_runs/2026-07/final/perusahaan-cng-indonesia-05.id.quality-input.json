@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07\\final\\perusahaan-cng-indonesia-05.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-09T15:41:46+07:00",
+    "word_count":  1630,
+    "paragraph_count":  17,
+    "sentence_count":  102,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.488,
+                        "sentence_burstiness":  0.52,
+                        "top30_vocab_share":  0.267,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Minta salinan Izin Usaha Niaga (IUN) Minyak dan Gas Bumi dari Kementerian ESDM, dan untuk penyedia jaringan distribusi pipa, tanyakan juga Hak Khusus BPH Migas.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Minta salinan Izin Usaha Niaga (IUN) Minyak dan Gas Bumi dari Kementerian ESDM, dan untuk penyedia jaringan distribusi p\""
+                                  },
+                                  {
+                                      "passage":  "# 7 Kesalahan Umum Saat Memilih Perusahaan CNG (dan Cara Menghindarinya) Salah memilih penyedia CNG jarang terasa di hari penandatanganan kontrak.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"# 7 Kesalahan Umum Saat Memilih Perusahaan CNG (dan Cara Menghindarinya) Salah memilih penyedia CNG jarang terasa di har\""
+                                  },
+                                  {
+                                      "passage":  "| Minta bukti ISO 45001:2018 dan kepatuhan inspeksi berkala; tanyakan tim K3-nya.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"| Minta bukti ISO 45001:2018 dan kepatuhan inspeksi berkala; tanyakan tim K3-nya.\""
+                                  },
+                                  {
+                                      "passage":  "- **Sertifikat ISO 45001:2018** (Sistem Manajemen K3); minta salinan yang masih berlaku.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"- **Sertifikat ISO 45001:2018** (Sistem Manajemen K3); minta salinan yang masih berlaku.\""
+                                  },
+                                  {
+                                      "passage":  "| | 5 | Mengabaikan dukungan teknis purnajual | Gangguan di luar jam kerja tak tertangani; biaya perbaikan dibebankan tanpa dasar yang jelas.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"| | 5 | Mengabaikan dukungan teknis purnajual | Gangguan di luar jam kerja tak tertangani; biaya perbaikan dibebankan ta\""
+                                  },
+                                  {
+                                      "passage":  "| | 2 | Tidak memverifikasi legalitas izin niaga | Pasokan bisa terhenti sewaktu-waktu bila izin bermasalah, dan perlindungan hukum pembeli lemah.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"| | 2 | Tidak memverifikasi legalitas izin niaga | Pasokan bisa terhenti sewaktu-waktu bila izin bermasalah, dan perlind\""
+                                  },
+                                  {
+                                      "passage":  "4/2018, IUN dapat berlaku hingga 20 tahun dan diajukan melalui portal perizinan.esdm.go.id (Kementerian ESDM, 2018).",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"4/2018, IUN dapat berlaku hingga 20 tahun dan diajukan melalui portal perizinan.esdm.go.id (Kementerian ESDM, 2018).\""
+                                  },
+                                  {
+                                      "passage":  "Verifikasi legalitas dimulai dengan satu permintaan sederhana: salinan Izin Usaha Niaga (IUN) Minyak dan Gas Bumi yang diterbitkan Kementerian ESDM.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Verifikasi legalitas dimulai dengan satu permintaan sederhana: salinan Izin Usaha Niaga (IUN) Minyak dan Gas Bumi yang d\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07\\final\\cng-indonesia-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-09T15:41:16+07:00",
+    "word_count":  1637,
+    "paragraph_count":  22,
+    "sentence_count":  88,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.413,
+                        "sentence_burstiness":  1.055,
+                        "top30_vocab_share":  0.283,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.413 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "**Wujud \u0026 cara dimampatkan**: CNG dikompresi (~200–250 bar, tetap gas), LNG didinginkan (~-162°C, jadi cair), LPG dicairkan dengan tekanan ringan (~8 bar).",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"**Wujud \u0026 cara dimampatkan**: CNG dikompresi (~200–250 bar, tetap gas), LNG didinginkan (~-162°C, jadi cair), LPG dicair\""
+                                  },
+                                  {
+                                      "passage":  "## Perbedaan Mendasar: Asal, Wujud, Tekanan, dan Nilai Kalori Empat sumbu membedakan ketiganya.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"## Perbedaan Mendasar: Asal, Wujud, Tekanan, dan Nilai Kalori Empat sumbu membedakan ketiganya.\""
+                                  },
+                                  {
+                                      "passage":  "Lewat skema terbaru (Kepmen ESDM, ditandatangani 26 Februari 2025, mencakup 7 sektor industri), harga itu dipatok USD 7/MMBTU untuk bahan bakar dan USD 6,5/MMBTU untuk bahan baku.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Lewat skema terbaru (Kepmen ESDM, ditandatangani 26 Februari 2025, mencakup 7 sektor industri), harga itu dipatok USD 7/\""
+                                  },
+                                  {
+                                      "passage":  "### Apakah CNG industri sama dengan tabung CNG 3 kg pengganti LPG?",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"### Apakah CNG industri sama dengan tabung CNG 3 kg pengganti LPG?\""
+                                  },
+                                  {
+                                      "passage":  "\u003e **Secara singkat:** CNG (*Compressed Natural Gas*), LNG (*Liquefied Natural Gas*), dan LPG (*Liquefied Petroleum Gas*) adalah tiga jenis bahan bakar gas yang berbeda asal dan cara penyimpanannya.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"\u003e **Secara singkat:** CNG (*Compressed Natural Gas*), LNG (*Liquefied Natural Gas*), dan LPG (*Liquefied Petroleum Gas*)\""
+                                  },
+                                  {
+                                      "passage":  "## CNG, LNG, LPG: Tiga \"Gas\" yang Sering Tertukar CNG dan LNG sebenarnya berasal dari gas bumi yang sama, keduanya berbasis metana (CH4).",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## CNG, LNG, LPG: Tiga  Gas  yang Sering Tertukar CNG dan LNG sebenarnya berasal dari gas bumi yang sama, keduanya berba\""
+                                  },
+                                  {
+                                      "passage":  "CNG disimpan di ~200–250 bar, LPG hanya ~8 bar, sehingga regulator LPG standar tidak aman untuk tekanan CNG.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"CNG disimpan di ~200–250 bar, LPG hanya ~8 bar, sehingga regulator LPG standar tidak aman untuk tekanan CNG.\""
+                                  },
+                                  {
+                                      "passage":  "CNG (~200–250 bar) dan LPG (~8 bar) beroperasi pada tekanan yang sangat berbeda, sehingga regulator LPG standar tidak mampu menangani CNG dan penggunaan silang berisiko kebocoran.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"CNG (~200–250 bar) dan LPG (~8 bar) beroperasi pada tekanan yang sangat berbeda, sehingga regulator LPG standar tidak ma\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

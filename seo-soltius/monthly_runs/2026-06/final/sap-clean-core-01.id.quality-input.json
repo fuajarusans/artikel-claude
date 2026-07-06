@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-06\\final\\sap-clean-core-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-02T18:11:44+07:00",
+    "word_count":  1893,
+    "paragraph_count":  19,
+    "sentence_count":  99,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.56,
+                        "sentence_burstiness":  0.922,
+                        "top30_vocab_share":  0.309,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Menurut panduan SAP terkini, *mainstream maintenance* untuk SAP ECC (bagian dari SAP Business Suite 7) berakhir pada **2027**, dengan opsi *extended maintenance* berbayar hingga **2030**.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Menurut panduan SAP terkini, *mainstream maintenance* untuk SAP ECC (bagian dari SAP Business Suite 7) berakhir pada **2\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apa itu clean core dalam SAP?",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apa itu clean core dalam SAP?\""
+                                  },
+                                  {
+                                      "passage":  "Jadi clean core berfungsi sebagai prasyarat de-facto kesiapan cloud, bukan sekadar praktik baik opsional.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Jadi clean core berfungsi sebagai prasyarat de-facto kesiapan cloud, bukan sekadar praktik baik opsional.\""
+                                  },
+                                  {
+                                      "passage":  "Inti yang bersih membuat jalur seperti RISE with SAP atau GROW with SAP berjalan jauh lebih mulus, karena lebih sedikit kustomisasi yang harus diuji ulang, dipindahkan, atau dibuang.",
+                                      "candidate_score":  8,
+                                      "web_search_query":  "\"Inti yang bersih membuat jalur seperti RISE with SAP atau GROW with SAP berjalan jauh lebih mulus, karena lebih sedikit \""
+                                  },
+                                  {
+                                      "passage":  "## Risiko core yang \"kotor\" — dan kapan clean core BELUM jadi prioritas Anda Sekarang sisi yang jarang ditulis kompetitor, padahal justru di sinilah kejujuran membangun kepercayaan.",
+                                      "candidate_score":  8,
+                                      "web_search_query":  "\"## Risiko core yang  kotor  — dan kapan clean core BELUM jadi prioritas Anda Sekarang sisi yang jarang ditulis kompetito\""
+                                  },
+                                  {
+                                      "passage":  "Salah satu *cara* membangun ekstensi *side-by-side* adalah lewat portofolio low-code SAP Build di atas BTP; untuk itu, pembaca bisa menelusuri topik [platform low-code](https://www.soltius.co.id/id/blog/low-code-and-no-code-platforms).",
+                                      "candidate_score":  6,
+                                      "web_search_query":  "\"Salah satu *cara* membangun ekstensi *side-by-side* adalah lewat portofolio low-code SAP Build di atas BTP; untuk itu, p\""
+                                  },
+                                  {
+                                      "passage":  "Begitu SAP mengarahkan seluruh ekosistemnya ke S/4HANA Cloud, tempat SAP yang memegang kendali upgrade, modifikasi inti gaya lama berubah dari \"fleksibilitas\" menjadi beban.",
+                                      "candidate_score":  6,
+                                      "web_search_query":  "\"Begitu SAP mengarahkan seluruh ekosistemnya ke S/4HANA Cloud, tempat SAP yang memegang kendali upgrade, modifikasi inti \""
+                                  },
+                                  {
+                                      "passage":  "*Side-by-side* extensibility membangun aplikasi terpisah di SAP BTP yang tersambung ke inti lewat released/public API.",
+                                      "candidate_score":  6,
+                                      "web_search_query":  "\"*Side-by-side* extensibility membangun aplikasi terpisah di SAP BTP yang tersambung ke inti lewat released/public API.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

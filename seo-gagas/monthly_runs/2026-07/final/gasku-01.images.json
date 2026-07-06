@@ -1,0 +1,70 @@
+{
+  "brief_id": "gasku-01",
+  "article_title_id": "Apa Itu Gasku: BBG untuk Kendaraan & Cara Kerja SPBG",
+  "language": "id",
+  "image_count": 3,
+  "planned_at": "2026-06-09",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "body — setelah H2 'Apa Itu Gasku dan Apa Bedanya dengan BBM Biasa?'",
+      "concept_from_writer": "Foto atau rendering 3D nozzle pengisian BBG/CNG yang terhubung ke konektor tangki kendaraan di SPBG, dengan logo Gasku terlihat samar di latar. Gaya bersih dan realistis, fokus pada nozzle bertekanan tinggi, palet biru-hijau energi bersih, teks \"Gasku\" Bahasa Indonesia pada dispenser. Format landscape.",
+      "suggested_asset_type": "photo",
+      "asset_type_rationale": "Audiens B2B energi merespons bukti visual nyata; foto pengisian riil (atau rendering hiperrealistis) di SPBG memperkuat kredibilitas layanan Gasku jauh lebih kuat dari ilustrasi generik.",
+      "visual_direction": "Foto close-up atau rendering 3D beresolusi tinggi: tangan operator (atau tangan pengemudi) memegang nozzle CNG bertekanan tinggi berwarna biru metalik, sedang terhubung ke konektor pengisian di sisi kendaraan (bisa terlihat sebagian karoseri kendaraan niaga/angkutan). Di latar belakang, samar-samar terlihat dispenser SPBG dengan panel layar digital; pada badan dispenser terdapat teks 'Gasku' dalam tipografi merek berwarna putih di atas latar biru tua. Pencahayaan: siang hari cerah atau lampu stasiun profesional, tidak ada bayangan keras. Palet dominan: biru profesional (#003F88 atau ekuivalen PGN Gagas) dengan aksen hijau energi bersih (#4CAF50 atau ekuivalen). Tidak menampilkan nama/nomor lokasi SPBG tertentu, peta, atau jumlah stasiun — latar bersifat generik/skematik. Format landscape (rasio 16:9 atau 3:2). Tidak ada teks tambahan selain 'Gasku' pada dispenser.",
+      "in_image_text_id": ["Gasku"],
+      "alt_id": "Nozzle pengisian BBG CNG Gasku terhubung ke konektor tangki kendaraan di SPBG",
+      "caption_id": "Pengisian BBG berbasis CNG di SPBG dilakukan via nozzle bertekanan tinggi yang tersambung rapat ke konektor tangki kendaraan — berbeda dari pengisian bensin biasa. Gasku, layanan BBG/CNG transportasi PGN Gagas, dijual seharga Rp4.500 per LSP (gagas.co.id, Juni 2026).",
+      "sourcing_note": "Foto asli SPBG PGN Gagas sangat dianjurkan untuk tampilan nozzle/dispenser berbranding Gasku — minta dari tim PGN Gagas; jangan merekayasa atau menambahkan branding Gasku pada foto fasilitas pihak lain. Jika foto asli tidak tersedia, gunakan rendering 3D ilustratif yang menggambarkan nozzle CNG generik + dispenser dengan teks 'Gasku' sebagai elemen desain. Stock photo alternatif: cari 'CNG nozzle refueling vehicle', 'natural gas vehicle fueling station', 'BBG pengisian kendaraan' — lalu tambahkan overlay teks 'Gasku' sesuai branding.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body — setelah H2 'Bagaimana Cara Kerja Gasku, dari Pipa Gas hingga Tangki Kendaraan Anda?'",
+      "concept_from_writer": "Diagram alur horizontal tujuh langkah — (1) pipa gas PGN, (2) filtrasi, (3) kompresi ~200 bar, (4) penyimpanan cascade, (5) dispenser/nozzle, (6) tabung CNG di kendaraan, (7) Converter Kit & mesin Bi-Fuel. Gaya technical diagram bersih dengan ikon minimalis, teks Bahasa Indonesia, palet biru-hijau brand. Setiap langkah diberi nomor dan label singkat.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Alur tujuh langkah dari pipa ke mesin adalah konten proses teknis; diagram adalah format yang paling tepat untuk menjelaskan urutan kausal ini sekaligus menjadi aset yang mudah dikutip (GEO-citable) — stock photo tidak bisa menyampaikan urutan ini.",
+      "visual_direction": "Diagram alur horizontal (flow diagram) tujuh langkah dengan layout kiri-ke-kanan, format landscape (rasio 16:9 ideal untuk artikel web). Setiap langkah ditampilkan sebagai kotak/lingkaran bernomor yang dihubungkan panah arah kanan. Ikon minimalis flat-design (garis bersih, tanpa shadow berlebihan) di atas setiap kotak, dengan label teks Bahasa Indonesia di bawahnya:\n  Langkah 1 — ikon pipa/jaringan gas — label: 'Gas Bumi dari Pipa PGN'\n  Langkah 2 — ikon filter/saringan — label: 'Filtrasi'\n  Langkah 3 — ikon kompresor/tekanan — label: 'Kompresi ~200 bar'\n  Langkah 4 — ikon tangki berderet (cascade) — label: 'Penyimpanan Cascade'\n  Langkah 5 — ikon nozzle/dispenser — label: 'Pengisian via Dispenser'\n  Langkah 6 — ikon tabung silinder di kendaraan — label: 'Tabung CNG Kendaraan'\n  Langkah 7 — ikon mesin/sakelar dua arah — label: 'Converter Kit & Bi-Fuel'\nPalet: latar putih bersih atau abu muda (#F5F7FA); kotak langkah menggunakan biru profesional (#003F88) dengan teks putih untuk nomor, dan teks label di bawah berwarna abu gelap (#333333); panah penghubung berwarna hijau energi (#4CAF50). Tidak menampilkan nama lokasi, jumlah SPBG, peta wilayah, atau nama provinsi — diagram bersifat proses/skematik, bukan peta. Di pojok kanan bawah: logo/wordmark 'Gasku' kecil sebagai atribusi merek.",
+      "in_image_text_id": [
+        "Gas Bumi dari Pipa PGN",
+        "Filtrasi",
+        "Kompresi ~200 bar",
+        "Penyimpanan Cascade",
+        "Pengisian via Dispenser",
+        "Tabung CNG Kendaraan",
+        "Converter Kit & Bi-Fuel",
+        "Gasku"
+      ],
+      "alt_id": "Diagram alur tujuh langkah cara kerja SPBG BBG dari pipa gas PGN hingga Converter Kit Bi-Fuel",
+      "caption_id": "Dari pipa gas bumi PGN hingga mesin kendaraan, CNG melewati tujuh tahap di SPBG: filtrasi, kompresi hingga ~200 bar, penyimpanan cascade, lalu pengisian ke tabung berstandar ISO 11439 di kendaraan. Converter Kit dan sistem Bi-Fuel di langkah terakhir memungkinkan kendaraan beralih ke bensin kapan saja.",
+      "sourcing_note": "Buat dari awal oleh tim desain menggunakan spesifikasi di atas — tidak ada foto atau stock image yang relevan untuk diagram proses teknis ini. Data langkah bersumber dari artikel dan dossier gasku-01 (terverifikasi). Tidak perlu aset foto dari PGN Gagas untuk visual ini.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_03",
+      "position": "body — setelah H2 'Hal yang Sering Disalahpahami tentang BBG (dan Faktanya)'",
+      "concept_from_writer": "Infografis \"Mitos vs Fakta\" dua kolom — kiri (Mitos, nuansa merah pudar): tabung meledak, harus ganti mesin, gas habis mogok; kanan (Fakta, nuansa hijau): suhu nyala 540°C, cukup Converter Kit, Bi-Fuel kembali ke bensin. Ikon sederhana per poin, teks Bahasa Indonesia, gaya bersih mudah dibagikan.",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Format Mitos vs Fakta adalah infografis teks-forward yang paling efektif untuk meluruskan miskonsepsi; mudah di-screenshot dan dibagikan di media sosial, memperkuat GEO-citeability bagian ini.",
+      "visual_direction": "Infografis dua kolom simetris, format portrait atau square (rasio 1:1 atau 4:5 — cocok untuk web dan media sosial). Header tengah: judul 'Mitos vs Fakta: BBG/CNG untuk Kendaraan' dalam tipografi bold berwarna abu gelap (#333333) di atas latar putih. Dua kolom di bawah header:\n  KOLOM KIRI — header 'MITOS' dalam wording kotak merah pudar (#D9534F atau tone bata lembut); latar kolom merah sangat muda (#FFF5F5). Tiga baris poin:\n    Baris 1 — ikon tabung meledak/petir (outline merah) — teks: '\"Tabung CNG pasti meledak saat kecelakaan\"'\n    Baris 2 — ikon mesin/kunci inggris (outline merah) — teks: '\"Harus ganti mesin dulu\"'\n    Baris 3 — ikon kendaraan berhenti/X (outline merah) — teks: '\"Gas habis = langsung mogok\"'\n  KOLOM KANAN — header 'FAKTA' dalam kotak hijau energi (#4CAF50); latar kolom hijau sangat muda (#F5FFF5). Tiga baris poin:\n    Baris 1 — ikon api/termometer (outline hijau) — teks: 'Suhu nyala otomatis CNG ~540°C, lebih sulit terbakar dari bensin (~360°C)'\n    Baris 2 — ikon converter kit/komponen tambahan (outline hijau) — teks: 'Cukup pasang Converter Kit di bengkel tersertifikasi — mesin asli tidak diubah'\n    Baris 3 — ikon sakelar dua arah/BBG↔bensin (outline hijau) — teks: 'Sistem Bi-Fuel: tinggal beralih ke bensin — tidak mogok'\nFont: sans-serif bersih (Poppins atau ekuivalen). Teks label ikon menggunakan ukuran 12–14 pt. Di bagian bawah infografis: logo/wordmark 'Gasku' kecil + 'gagas.co.id' sebagai atribusi. Keseluruhan desain bersih, flat, tanpa gradien berlebihan — mudah dibaca di layar mobile.",
+      "in_image_text_id": [
+        "Mitos vs Fakta: BBG/CNG untuk Kendaraan",
+        "MITOS",
+        "\"Tabung CNG pasti meledak saat kecelakaan\"",
+        "\"Harus ganti mesin dulu\"",
+        "\"Gas habis = langsung mogok\"",
+        "FAKTA",
+        "Suhu nyala otomatis CNG ~540°C, lebih sulit terbakar dari bensin (~360°C)",
+        "Cukup pasang Converter Kit di bengkel tersertifikasi — mesin asli tidak diubah",
+        "Sistem Bi-Fuel: tinggal beralih ke bensin — tidak mogok",
+        "Gasku",
+        "gagas.co.id"
+      ],
+      "alt_id": "Infografis mitos vs fakta BBG CNG kendaraan: tabung aman, Converter Kit tidak ubah mesin, Bi-Fuel cegah mogok",
+      "caption_id": "Tiga miskonsepsi paling umum tentang BBG/CNG — dan faktanya. Tabung CNG dirancang menurut standar ISO 11439 dan ECE R110, lolos uji benturan, api, hingga tembakan; suhu nyala otomatisnya ~540°C, jauh di atas bensin (~360°C).",
+      "sourcing_note": "Buat dari awal oleh tim desain menggunakan spesifikasi di atas — murni infografis berbasis teks dan ikon, tidak membutuhkan foto atau aset PGN Gagas. Data fakta teknis (suhu nyala, ISO 11439, ECE R110, Bi-Fuel) bersumber dari dossier gasku-01 dan artikel; dapat dicantumkan catatan kecil 'Sumber: gagas.co.id & standar ISO/UNECE' di footer infografis jika diinginkan.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

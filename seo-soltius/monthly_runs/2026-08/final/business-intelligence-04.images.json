@@ -1,0 +1,88 @@
+{
+  "brief_id": "business-intelligence-04",
+  "article_title_id": "Cara Mendesain Dashboard BI yang Benar-Benar Dipakai (Bukan Diabaikan)",
+  "language": "id",
+  "image_count": 3,
+  "planned_at": "2026-06-08",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "mid-body — dibuka di awal artikel, sebelum H2 'Apa Itu Dashboard BI yang Efektif?'",
+      "concept_from_writer": "Diagram before/after dua dashboard berdampingan — kiri \"Sebelum\" democratic layout, 14 angka berukuran sama tanpa hierarki, warna acak (abu-merah); kanan \"Sesudah\" tiga KPI utama besar di baris atas, detail di bawah, palet konsisten dua warna plus aksen (biru-hijau). Caption \"Hierarki visual mengarahkan mata ke angka yang paling penting\". Gaya flat korporat, teks Bahasa Indonesia.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Perbandingan before/after konkret adalah diagram narasi — dua panel berdampingan yang menunjukkan perbedaan hierarki visual secara langsung; jauh lebih informatif daripada foto stok dan tidak memerlukan UI SAP asli.",
+      "visual_direction": "Kanvas landscape. Dua panel berdampingan dengan label tebal di atas masing-masing: panel kiri bertulisan 'SEBELUM' (latar merah muda muda atau abu terang), panel kanan bertulisan 'SESUDAH' (latar putih bersih). Garis pemisah vertikal tipis abu-abu di tengah. Panel SEBELUM: 14 tile metric berukuran identik tersusun dalam grid 4×4 (minus 2), masing-masing berisi label singkat dan angka; warna tile berganti-ganti acak antara abu (#9E9E9E), merah (#E53935), dan oranye (#FB8C00) tanpa pola logis; tidak ada satu tile pun yang lebih besar atau lebih mencolok dari yang lain; tidak ada panah tren atau satuan. Panel SESUDAH: baris atas berisi 3 tile KPI utama berukuran dua kali lipat tile biasa, latar putih dengan border biru korporat (#1A73B8), masing-masing menampilkan label KPI, angka besar tebal, dan ikon panah tren kecil (hijau naik / merah turun); baris bawah berisi 5–6 tile detail berukuran lebih kecil dengan palet konsisten biru dan abu; satu tile memakai aksen hijau (#34A853) sebagai highlight KPI yang melampaui target. Footer bawah berisi keterangan: 'Hierarki visual mengarahkan mata ke angka yang paling paling penting.' Font sans-serif bersih (misalnya Inter atau Roboto). Semua label dalam Bahasa Indonesia.",
+      "in_image_text_id": [
+        "SEBELUM",
+        "SESUDAH",
+        "Pendapatan Bulan Ini",
+        "Target vs Aktual",
+        "Margin Kotor",
+        "Pesanan Baru",
+        "Stok Gudang",
+        "Hierarki visual mengarahkan mata ke angka yang paling penting"
+      ],
+      "alt_id": "Diagram before/after desain dashboard BI: kiri layout acak 14 tile sama besar, kanan hierarki 3 KPI utama di atas dengan 5 detail di bawah",
+      "caption_id": "Dashboard kiri memaksa pengguna memindai 14 angka tanpa panduan — sebuah pola yang sering berakhir dengan diabaikannya dashboard sepenuhnya. Dashboard kanan menerapkan hierarki visual: tiga KPI utama langsung terlihat di baris atas, detail tersedia di bawah untuk pengguna yang ingin menggali lebih jauh.",
+      "sourcing_note": "Tidak memerlukan screenshot SAP asli. Desainer membuat mock-up dashboard fiktif (wireframe / flat illustration) dengan tile dan angka ilustratif — pastikan angka yang ditampilkan jelas fiktif (mis. 'Rp 4,2 M', bukan data riil perusahaan). Cari referensi gaya di: Dribbble 'BI dashboard flat design', 'data dashboard before after comparison'.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "mid-body — setelah paragraf 'Cara praktis memilihnya adalah dengan menyaring setiap kandidat metrik...' dalam H2 'Berapa KPI Ideal dan Bagaimana Memilihnya?'",
+      "concept_from_writer": "Matriks 2x2 pemilihan KPI — sumbu vertikal \"Seberapa sering memengaruhi keputusan?\" (rendah-tinggi), sumbu horizontal \"Seberapa sering datanya berubah?\" (rendah-tinggi). Empat kuadran berlabel: kanan-atas \"Wajib di dashboard utama\", kiri-atas \"Laporan periodik\", kanan-bawah \"Monitoring rutin level dua\", kiri-bawah \"Buang/sembunyikan\". Infografik flat clean, label Bahasa Indonesia.",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Matriks 2×2 adalah format infografik teks-visual yang langsung actionable dan sangat mudah dibaca sekilas; cocok untuk framework keputusan seperti ini dan lebih berguna bagi pembaca B2B daripada foto stok apapun.",
+      "visual_direction": "Kanvas kotak (square), latar putih bersih. Di tengah: matriks 2×2 dengan dua sumbu berlabel. Sumbu vertikal (Y): label 'Seberapa sering memengaruhi keputusan?' dengan panah mengarah ke atas bertulisan 'TINGGI' di ujung atas dan 'RENDAH' di bawah. Sumbu horizontal (X): label 'Seberapa sering datanya berubah?' dengan panah mengarah ke kanan bertulisan 'TINGGI' di ujung kanan dan 'RENDAH' di kiri. Empat kuadran, masing-masing dengan latar warna berbeda dan ikon pendukung kecil: (1) Kanan-atas — latar biru korporat (#1A73B8), bintang atau ikon centang putih, teks tebal putih 'Wajib di dashboard utama', subjudul kecil 'Prioritas tinggi — tampilkan di layar utama'; (2) Kiri-atas — latar biru muda (#BBDEFB), ikon kalender, teks biru gelap 'Laporan periodik', subjudul 'Penting tapi jarang berubah'; (3) Kanan-bawah — latar abu terang (#ECEFF1), ikon grafik kecil, teks abu gelap 'Monitoring rutin level dua', subjudul 'Aktif tapi pengaruh keputusan terbatas'; (4) Kiri-bawah — latar putih dengan border abu putus-putus, ikon tempat sampah atau X, teks abu 'Buang / sembunyikan', subjudul 'Tidak sering berubah, tidak mendorong keputusan'. Judul infografik di atas matriks: 'Kerangka Pemilihan KPI: Apa yang Wajib Ada di Dashboard Anda?' Font sans-serif konsisten dengan IMAGE_01. Semua teks dalam Bahasa Indonesia.",
+      "in_image_text_id": [
+        "Kerangka Pemilihan KPI: Apa yang Wajib Ada di Dashboard Anda?",
+        "Seberapa sering memengaruhi keputusan?",
+        "Seberapa sering datanya berubah?",
+        "TINGGI",
+        "RENDAH",
+        "Wajib di dashboard utama",
+        "Prioritas tinggi — tampilkan di layar utama",
+        "Laporan periodik",
+        "Penting tapi jarang berubah",
+        "Monitoring rutin level dua",
+        "Aktif tapi pengaruh keputusan terbatas",
+        "Buang / sembunyikan",
+        "Tidak sering berubah, tidak mendorong keputusan"
+      ],
+      "alt_id": "Matriks 2x2 pemilihan KPI dashboard: sumbu keseringan keputusan vs frekuensi perubahan data, empat kuadran dari wajib hingga buang",
+      "caption_id": "Sebelum menentukan KPI mana yang masuk dashboard, saring setiap metrik lewat dua pertanyaan: seberapa sering mendorong keputusan, dan seberapa sering datanya berubah. Hanya metrik di kuadran kanan-atas yang layak menempati layar utama.",
+      "sourcing_note": "Infografik orisinal — tidak ada screenshot SAP yang dibutuhkan. Desainer membuat matriks 2×2 dari nol dengan warna korporat biru/putih Soltius. Referensi gaya pencarian: 'BCG matrix flat infographic', '2x2 decision matrix corporate blue'. Pastikan label kuadran persis mengikuti teks in_image_text_id di atas.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_03",
+      "position": "mid-body — setelah tabel kesalahan vs alternatif dalam H2 'Kesalahan Visualisasi yang Membuat Dashboard Menyesatkan'",
+      "concept_from_writer": "Tabel infografis tiga kolom \"Kesalahan | Contoh ikon chart | Alternatif\". Empat baris: pie ramai jadi sorted bar; dual-axis jadi dua panel; bar 3D jadi bar datar; angka polos jadi angka dengan garis target. Thumbnail chart ikonik flat, screenshot-friendly, teks Bahasa Indonesia.",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Tabel visual dengan thumbnail chart ikonik adalah cara paling ringkas dan mudah di-screenshot untuk menunjukkan kesalahan vs alternatif — lebih terbaca daripada tabel Markdown biasa dan langsung actionable bagi pembaca yang ingin memperbaiki dashboard mereka.",
+      "visual_direction": "Kanvas landscape atau tall-portrait (A4-friendly). Judul di atas: 'Empat Kesalahan Visualisasi yang Paling Sering Ditemui'. Tiga kolom dengan header berblok warna: kolom kiri 'Kesalahan' (header latar merah muda #FFCDD2, teks merah gelap), kolom tengah 'Contoh (Hindari)' (header abu #ECEFF1), kolom kanan 'Alternatif yang Benar' (header latar hijau muda #C8E6C9, teks hijau gelap). Empat baris isi, masing-masing berisi: (1) Baris 1 — kolom kiri: ikon X merah + teks 'Pie chart (>4 irisan)'; kolom tengah: thumbnail ikonik pie chart dengan 6–7 irisan berbeda warna (flat, ukuran ikon ~60×60 px), bukan data asli; kolom kanan: ikon centang hijau + thumbnail sorted bar chart horizontal 5 batang warna biru bertingkat, label 'Bar chart terurut'. (2) Baris 2 — kolom kiri: ikon X + 'Dual-axis chart'; kolom tengah: thumbnail garis dua warna dengan dua sumbu Y berbeda kiri-kanan; kolom kanan: ikon centang + dua panel mini berdampingan, masing-masing satu sumbu Y, label 'Dua panel terpisah'. (3) Baris 3 — kolom kiri: ikon X + 'Efek 3D / bayangan'; kolom tengah: thumbnail bar chart dengan efek 3D dan bayangan; kolom kanan: ikon centang + bar chart flat tanpa dekorasi, label 'Grafik datar, tanpa dekorasi'. (4) Baris 4 — kolom kiri: ikon X + 'Angka tanpa konteks'; kolom tengah: angka besar terisolasi 'Rp 4,2 M' tanpa label apapun; kolom kanan: ikon centang + angka yang sama dilengkapi garis target horizontal dan label 'Target: Rp 5 M', label 'Sertakan target dan tren'. Baris bergantian latar putih dan abu sangat muda (#FAFAFA) untuk keterbacaan. Footer kecil: 'Sumber prinsip: Tufte (1983), Few (2006), praktisi desain dashboard.' Font konsisten dengan IMAGE_01 dan IMAGE_02. Semua teks Bahasa Indonesia.",
+      "in_image_text_id": [
+        "Empat Kesalahan Visualisasi yang Paling Sering Ditemui",
+        "Kesalahan",
+        "Contoh (Hindari)",
+        "Alternatif yang Benar",
+        "Pie chart (>4 irisan)",
+        "Bar chart terurut",
+        "Dual-axis chart",
+        "Dua panel terpisah",
+        "Efek 3D / bayangan",
+        "Grafik datar, tanpa dekorasi",
+        "Angka tanpa konteks",
+        "Rp 4,2 M",
+        "Target: Rp 5 M",
+        "Sertakan target dan tren",
+        "Sumber prinsip: Tufte (1983), Few (2006), praktisi desain dashboard"
+      ],
+      "alt_id": "Tabel infografis empat kesalahan visualisasi dashboard: pie chart, dual-axis, efek 3D, dan angka tanpa konteks beserta alternatif yang benar",
+      "caption_id": "Empat pola visualisasi yang paling sering membuat dashboard menyesatkan — dan alternatif flat yang lebih jujur secara visual. Kesalahan terbesar bukan yang membuat dashboard jelek, melainkan yang membuatnya tampak meyakinkan padahal interpretasinya keliru.",
+      "sourcing_note": "Infografik orisinal — tidak ada screenshot SAP yang dibutuhkan, dan tidak boleh diambil dari tangkapan layar tool manapun tanpa izin. Desainer membuat semua thumbnail chart dari nol sebagai ikon ilustratif flat dengan data fiktif. Referensi gaya: 'data visualization mistakes comparison infographic', 'chart type cheat sheet flat design'. Pastikan thumbnail di kolom 'Contoh (Hindari)' terlihat jelas berbeda dari kolom 'Alternatif' — gunakan ikon X merah dan centang hijau yang kontras.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

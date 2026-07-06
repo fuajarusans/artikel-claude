@@ -1,0 +1,89 @@
+{
+  "brief_id": "ai-untuk-finance-c01",
+  "article_title_id": "AI untuk Finance: Penerapan dan Manfaatnya bagi Departemen Keuangan",
+  "language": "id",
+  "image_count": 3,
+  "planned_at": "2026-06-17",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "body — setelah paragraf roadmap pembuka, sebelum H2 'Apa Itu AI untuk Keuangan?'",
+      "concept_from_writer": "Infografik melingkar lima penerapan AI di departemen keuangan — masing-masing dengan ikon (faktur untuk accounts payable, dua dokumen bertaut untuk cash application, perisai untuk deteksi anomali, grafik kas untuk forecasting, kalender tercentang untuk financial close), tiap segmen disertai satu kalimat ringkas, palet biru-teal korporat, teks Bahasa Indonesia",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Lima use case yang berdiri sejajar dan tidak berurutan (bukan alur/proses) paling efektif disajikan sebagai infografik melingkar — pembaca bisa memindai semua use case sekaligus dan langsung memilih yang relevan untuk perusahaannya.",
+      "visual_direction": "Infografik melingkar (wheel/radial) berukuran persegi (1:1 atau 4:3 landscape). Di tengah lingkaran: teks 'AI untuk Finance' dalam huruf bold putih di atas lingkaran solid biru tua (#1A3A5C). Mengelilingi lingkaran tengah: lima segmen berukuran sama, masing-masing dengan warna yang sedikit berbeda dalam keluarga biru-teal korporat (variasi dari #1E6091 ke #0D9488). Setiap segmen memuat: (1) ikon garis (line icon) putih di bagian atas, (2) label segmen dalam huruf bold 14–16 pt putih, (3) satu kalimat deskripsi ringkas dalam huruf regular 11–12 pt putih atau abu muda. Label dan deskripsi per segmen (searah jarum jam dari atas): Segmen 1 — ikon faktur/dokumen berstempel: label 'Otomatisasi Accounts Payable', deskripsi 'Ekstraksi faktur otomatis dan verifikasi tiga arah — faktur cocok diproses tanpa sentuhan tangan'; Segmen 2 — ikon dua dokumen bertaut/terhubung: label 'Cash Application', deskripsi 'ML mencocokkan pembayaran masuk ke faktur terbuka, termasuk data tidak lengkap'; Segmen 3 — ikon perisai dengan tanda centang: label 'Deteksi Anomali & Fraud', deskripsi 'AI menyaring transaksi mencurigakan sebelum pembayaran keluar'; Segmen 4 — ikon grafik garis naik di atas tanda dolar/kas: label 'Manajemen Arus Kas', deskripsi 'Rekonsiliasi laporan bank harian diotomatiskan — posisi kas mendekati waktu nyata'; Segmen 5 — ikon kalender dengan tanda centang: label 'Percepatan Financial Close', deskripsi 'Kalkulasi akrual dan usulan jurnal otomatis — waktu tutup buku dipersingkat'. Latar belakang infografik: putih bersih (#FFFFFF) atau abu sangat muda (#F5F7FA). Gaya keseluruhan: korporat, modern, bersih — tidak ada gradien berlebihan, tidak ada ilustrasi figuratif. Semua teks dalam Bahasa Indonesia.",
+      "in_image_text_id": [
+        "AI untuk Finance",
+        "Otomatisasi Accounts Payable",
+        "Ekstraksi faktur otomatis dan verifikasi tiga arah — faktur cocok diproses tanpa sentuhan tangan",
+        "Cash Application",
+        "ML mencocokkan pembayaran masuk ke faktur terbuka, termasuk data tidak lengkap",
+        "Deteksi Anomali & Fraud",
+        "AI menyaring transaksi mencurigakan sebelum pembayaran keluar",
+        "Manajemen Arus Kas",
+        "Rekonsiliasi laporan bank harian diotomatiskan — posisi kas mendekati waktu nyata",
+        "Percepatan Financial Close",
+        "Kalkulasi akrual dan usulan jurnal otomatis — waktu tutup buku dipersingkat"
+      ],
+      "alt_id": "Infografik lima penerapan AI di departemen keuangan: otomatisasi AP, cash application, deteksi anomali, manajemen arus kas, dan financial close",
+      "caption_id": "Lima penerapan AI paling matang di departemen keuangan mencakup otomatisasi accounts payable, cash application, deteksi anomali dan fraud, manajemen arus kas, serta percepatan financial close. Menurut survei Gartner terhadap 183 pemimpin keuangan (2025), otomatisasi AP dan deteksi anomali menjadi dua use case yang paling banyak diadopsi.",
+      "sourcing_note": "Tidak memerlukan screenshot SAP. Ini aset infografik orisinil — desain tim membuat dari nol berdasarkan brief ini. Tidak ada UI SAP yang perlu direkayasa.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body — setelah H2 'Mengapa Departemen Keuangan Membutuhkan AI Sekarang?', sebelum H2 '5 Penerapan AI di Departemen Keuangan'",
+      "concept_from_writer": "Diagram pergeseran peran tim finance — panah horizontal dari kiri 'Operator Data' (ikon entri manual, kalkulator, tumpukan faktur, warna abu) menuju kanan 'Penasihat Strategis' (ikon grafik tren, papan keputusan, percakapan, warna hijau-biru), dengan label 'AI mengambil alih tugas berulang' di tengah, teks Bahasa Indonesia",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Pergeseran peran adalah konsep perbandingan dua kutub (sebelum vs. sesudah) dengan satu arah perubahan — diagram panah horizontal dua panel adalah format yang paling langsung dan mudah dipahami oleh pembaca B2B senior yang menggulir cepat.",
+      "visual_direction": "Diagram horizontal dua panel berukuran landscape (16:9 atau 3:2), latar belakang putih bersih. Panel kiri (sepertiga lebar, latar abu muda #EAECEF): judul panel dalam kotak atau badge abu gelap bertuliskan 'Sebelum AI' (huruf bold, putih), di bawahnya label besar 'Operator Data' (huruf bold abu tua #4A5568, 18–20 pt), lalu tiga ikon garis (line icon) vertikal ke bawah masing-masing disertai teks pendek: ikon kertas/dokumen bertumpuk + 'Entri faktur manual'; ikon kalkulator + 'Rekonsiliasi spreadsheet'; ikon jam/stopwatch + 'Mengejar tenggat close'. Palet panel kiri: abu-abu netral (#6B7280 dan turunannya) untuk ikon dan teks pendukung, mengesankan pekerjaan yang monoton dan padat. Bagian tengah (sepertiga lebar): panah tebal horizontal (lebar 8–10 px) berwarna biru-teal (#0D9488) mengarah ke kanan, dengan teks dua baris di atas panah 'AI mengambil alih' dan di bawah panah 'tugas berulang' (huruf regular, biru tua, 12–14 pt). Di atas panah dapat ditambahkan ikon roda gigi kecil atau kilat (lightning bolt) berwarna biru sebagai simbol otomatisasi. Panel kanan (sepertiga lebar, latar biru sangat muda #EFF6FF): judul panel dalam badge biru tua bertuliskan 'Dengan AI' (huruf bold, putih), di bawahnya label besar 'Penasihat Strategis' (huruf bold biru tua #1A3A5C, 18–20 pt), lalu tiga ikon vertikal ke bawah: ikon grafik tren naik + 'Analisis tren keuangan'; ikon orang di depan papan/layar + 'Rekomendasi ke manajemen'; ikon gelembung percakapan dengan tanda tanya + 'Menafsirkan anomali & peluang'. Palet panel kanan: biru-teal korporat (#1E6091 dan turunannya) mengesankan pekerjaan bernilai tambah tinggi. Gaya keseluruhan: flat design modern, ikon line weight konsisten 2 px, tidak ada foto atau ilustrasi figuratif. Semua teks dalam Bahasa Indonesia.",
+      "in_image_text_id": [
+        "Sebelum AI",
+        "Operator Data",
+        "Entri faktur manual",
+        "Rekonsiliasi spreadsheet",
+        "Mengejar tenggat close",
+        "AI mengambil alih tugas berulang",
+        "Dengan AI",
+        "Penasihat Strategis",
+        "Analisis tren keuangan",
+        "Rekomendasi ke manajemen",
+        "Menafsirkan anomali & peluang"
+      ],
+      "alt_id": "Diagram pergeseran peran tim finance: dari operator data yang mengerjakan entri manual ke penasihat strategis setelah AI mengambil alih tugas berulang",
+      "caption_id": "AI tidak menghilangkan peran tim finance, melainkan menggeser fokusnya — dari pekerjaan entri dan rekonsiliasi yang berulang ke analisis dan penasihatan strategis. Survei Gartner (2025) menunjukkan 59% fungsi finance sudah menggunakan AI, dengan fokus augmentasi bukan penggantian.",
+      "sourcing_note": "Tidak memerlukan screenshot SAP. Ini aset diagram orisinil yang dibuat tim desain berdasarkan brief ini. Tidak ada UI SAP yang perlu direkayasa.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_03",
+      "position": "body — setelah H2 'AI Keuangan yang Tertanam di ERP: Mengenal SAP Business AI dan Joule', sebelum H2 'Kapan Perusahaan BELUM Perlu (atau Belum Siap) AI di Keuangan?'",
+      "concept_from_writer": "Diagram dua panel bersanding — panel kiri 'Perkakas AI Terpisah' menampilkan beberapa kotak tool berdiri sendiri dengan panah integrasi manual dan ikon data keluar-masuk (warna abu/oranye); panel kanan 'SAP Business AI Tertanam' menampilkan Joule di dalam satu lingkaran SAP S/4HANA Cloud dengan aliran data yang tidak keluar sistem (warna biru-hijau), menekankan satu sumber kebenaran, teks Bahasa Indonesia",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Perbedaan arsitektur antara tools AI poin terpisah dan AI tertanam di ERP adalah argumen teknis yang paling kuat dalam seksi ini — diagram dua panel arsitektur jauh lebih persuasif dan mudah dipahami CIO/CFO dibanding deskripsi teks, dan menghindari kebutuhan akan screenshot SAP asli.",
+      "visual_direction": "Diagram dua panel bersanding (side-by-side) berukuran landscape (16:9), latar belakang putih bersih. Garis pemisah vertikal tipis abu (#CBD5E1) di tengah. Panel kiri (judul di atas: 'Perkakas AI Terpisah', huruf bold abu tua, badge/kotak abu muda): menampilkan empat atau lima kotak persegi (rounded corner) berukuran kecil yang tersebar tidak terstruktur, masing-masing berlabel singkat: 'Tool Faktur AI', 'Tool Fraud AI', 'Tool Kas AI', 'Tool Close AI'. Setiap kotak berwarna abu muda (#E2E8F0) dengan border abu (#94A3B8). Di antara kotak-kotak tersebut: panah dua arah (bidirectional) pendek-pendek berwarna oranye (#F97316) dengan ikon silinder data kecil di sisi panah, melambangkan data yang harus berpindah keluar masuk antar tool melalui integrasi manual. Di pojok kiri panel: ikon awan atau kotak data besar bertuliskan 'Data ERP' dengan beberapa panah keluar menuju berbagai tool (menggambarkan data yang tersebar). Kesan visual: tersebar, rumit, banyak panah, tidak efisien. Palet panel kiri: abu-oranye, mengesankan kerumitan dan risiko. Panel kanan (judul di atas: 'SAP Business AI Tertanam', huruf bold biru tua, badge biru muda): satu lingkaran besar (diameter ~70% tinggi panel) dengan gradien tipis dari biru tua ke biru-teal (#1A3A5C ke #0D9488), mewakili 'SAP S/4HANA Cloud'. Di dalam lingkaran besar: lingkaran kecil di tengah bertuliskan 'Joule' (putih, bold) dengan ikon percakapan/AI kecil. Mengelilingi lingkaran Joule: empat ikon modul kecil di posisi jam 12, 3, 6, 9 — masing-masing berlabel putih kecil: 'AP Otomatis', 'Cash Application', 'Deteksi Anomali', 'Financial Close'. Semua ikon modul terhubung ke lingkaran Joule melalui garis lengkung tipis putih, menggambarkan data mengalir di dalam satu ekosistem tanpa keluar. Di bawah lingkaran besar: teks kecil biru tua 'Satu Sumber Kebenaran — Data Tidak Keluar Sistem'. Kesan visual: rapi, terintegrasi, aman. Palet panel kanan: biru-teal korporat, mengesankan keteraturan dan keamanan. Di bawah kedua panel: catatan kaki kecil abu 'SAP Business AI berjalan di dalam SAP S/4HANA Cloud — bukan add-on terpisah'. Semua teks dalam Bahasa Indonesia.",
+      "in_image_text_id": [
+        "Perkakas AI Terpisah",
+        "Tool Faktur AI",
+        "Tool Fraud AI",
+        "Tool Kas AI",
+        "Tool Close AI",
+        "Data ERP",
+        "SAP Business AI Tertanam",
+        "SAP S/4HANA Cloud",
+        "Joule",
+        "AP Otomatis",
+        "Cash Application",
+        "Deteksi Anomali",
+        "Financial Close",
+        "Satu Sumber Kebenaran — Data Tidak Keluar Sistem",
+        "SAP Business AI berjalan di dalam SAP S/4HANA Cloud — bukan add-on terpisah"
+      ],
+      "alt_id": "Diagram arsitektur dua panel: tools AI terpisah dengan integrasi manual versus SAP Business AI tertanam di dalam SAP S/4HANA Cloud sebagai satu ekosistem terintegrasi",
+      "caption_id": "Perbedaan arsitektur antara tools AI poin terpisah dan SAP Business AI yang tertanam di ERP bukan sekadar teknis — AI tertanam berarti data keuangan tidak perlu keluar dari sistem, risiko keamanan lebih kecil, dan hasil AI mewarisi konteks bisnis yang sudah ada di satu sumber kebenaran.",
+      "sourcing_note": "Tidak memerlukan screenshot UI SAP — ini adalah diagram arsitektur konseptual yang dibuat tim desain dari nol. JANGAN merekayasa atau memalsukan tampilan antarmuka Joule atau SAP S/4HANA. Jika ingin menambahkan elemen visual SAP yang akurat (logo Joule, ikon S/4HANA resmi), minta aset resmi dari tim SAP atau mitra Soltius — jangan ambil tangkapan layar dari demo atau sistem klien tanpa izin.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

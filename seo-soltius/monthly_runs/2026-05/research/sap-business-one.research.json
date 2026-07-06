@@ -1,0 +1,98 @@
+{
+  "keyword": "sap business one",
+  "keyword_slug": "sap-business-one",
+  "month": "2026-05",
+  "captured_at": "2026-05-29",
+  "landing_page": "https://www.soltius.co.id/id/blog/pengertian-sap-business-one-dan-kegunaannya",
+  "landing_page_summary": "Existing PILLAR. Pure definition/educational intent. Only 2 H2s: 'Apa yang Dimaksud dengan SAP Business One?' + 'Beberapa Hal yang Bisa Dilakukan dengan SAP Business One' (5 capabilities: finance, sales/CRM, purchasing/inventory, BI, analytics/reporting). Serves the 'pengertian / definisi / kegunaan' intent. Does NOT cover decision criteria, readiness signals, cost, or implementation steps.",
+  "ahrefs": {
+    "available": false,
+    "reason_if_unavailable": "Ahrefs MCP tools (keywords-explorer-*, serp-overview, site-explorer-*, gsc-*) are NOT loaded/connected in this environment. ToolSearch returned no matching deferred tools. All volume/KD/CPC figures below are from the client's April 2026 GSC report (ground truth) plus live WebSearch SERP scraping; NOT from Ahrefs. Do not treat as Ahrefs-sourced.",
+    "keywords_explorer_overview": null,
+    "related_terms": [],
+    "matching_terms": [],
+    "search_suggestions": [],
+    "volume_by_country": null,
+    "volume_history": []
+  },
+  "gsc_ground_truth_april_2026": {
+    "source": "WEBARQ Soltius April 2026 SEO report (client-provided)",
+    "primary_query": { "query": "sap business one", "clicks": 18, "clicks_mom_pct": 200, "impressions": 1517, "impressions_mom_pct": 13.5, "trend": "rising-fast" },
+    "related_rising_queries": [
+      { "query": "sistem sap", "clicks": 26, "clicks_mom_pct": 136 },
+      { "query": "sap adalah", "clicks": 60 },
+      { "query": "modul sap", "clicks": 21 },
+      { "query": "sap erp adalah", "clicks": null },
+      { "query": "apa itu sap", "clicks": null, "note": "high-volume head term LOSING clicks to AI Overview (zero-click erosion)" }
+    ],
+    "ai_overview_active": true,
+    "ai_overview_note": "AI Overview is ACTIVE for 'sap business one'. Google AIO defines it as 'a comprehensive Enterprise Resource Planning (ERP) software designed for small and medium-sized businesses'. Soltius already surfaces in the right-hand results panel as 'ERP SAP Business One - Soltius Indonesia'. AI-Overview citation is the #1 surface target.",
+    "audience": "Predominantly desktop B2B (finance / IT / operations / C-level decision-makers) accessing during work hours.",
+    "algo_context": "March 2026 Google Core Update rewards original info / primary data / unique perspective + E-E-A-T; penalizes generic AI-summary content. Brief must push real decision criteria, real cost components, real steps."
+  },
+  "serp": {
+    "method": "Live WebSearch (Google ID context) 2026-05-29; Ahrefs unavailable",
+    "top_competing_domains_decision_intent": [
+      "sapbusinessone.id",
+      "8thinktank.com (Think Tank Solusindo)",
+      "intalogi.com",
+      "sterling-team.com",
+      "sistemanugrahprima.com",
+      "review-erp.com",
+      "mas-software.com"
+    ],
+    "soltius_presence_decision_intent": "ABSENT. Soltius ranks for the definition query but is NOT visible in the decision/'tanda butuh ERP' SERP. Open authority gap to claim.",
+    "soltius_existing_cluster_pages": [
+      { "url": "/id/blog/pengertian-sap-business-one-dan-kegunaannya", "angle": "definition / kegunaan (PILLAR)" },
+      { "url": "/id/blog/Lebih-Baik-Instalasi-SAP-Business-On-Cloud-Atau-One-On-Premise", "angle": "cloud vs on-premise (EXISTS — do NOT duplicate; rules out comparison angle b)" },
+      { "url": "/id/blog/mengenal-sistem-sap-dan-manfaatnya", "angle": "sistem SAP general" },
+      { "url": "/id/blog/8-modul-sap-indonesia-yang-paling-banyak-digunakan", "angle": "modul SAP" },
+      { "url": "/id/blog/Apa-Saja-Perbedaan-SAP-dan-ERP", "angle": "perbedaan SAP vs ERP" }
+    ],
+    "serp_features": ["ai_overview", "paa", "knowledge_panel_brand"],
+    "ai_overview_entities": ["SAP Business One", "ERP (Enterprise Resource Planning)", "small and medium-sized businesses", "SAP HANA", "Soltius Indonesia"]
+  },
+  "paa": [
+    "Apa tanda bisnis sudah butuh ERP seperti SAP Business One?",
+    "Kapan UKM harus pindah dari pembukuan manual ke ERP?",
+    "Apakah SAP Business One cocok untuk usaha kecil?",
+    "Berapa lama proses closing yang wajar sebelum butuh ERP?",
+    "Apa bedanya software akuntansi biasa dengan SAP Business One?",
+    "Berapa biaya implementasi SAP Business One di Indonesia?",
+    "Berapa lama implementasi SAP Business One sampai go-live?",
+    "Modul SAP Business One apa yang sebaiknya dipakai lebih dulu?"
+  ],
+  "domain_facts_captured": {
+    "sap_official_install_base": "70,000+ companies in 170+ countries use SAP Business One (SAP-reported; researcher to confirm latest figure on sap.com).",
+    "implementation_duration": "Typically 3-6 months from kickoff to go-live (SME scope).",
+    "maintenance_cost": "Annual maintenance ~17-22% of license cost (on-premise model).",
+    "cost_components": ["software license (Professional/Limited user, perpetual on-prem or subscription cloud)", "implementation services (largest line, billed by man-days)", "customization & integration", "user training", "infrastructure & annual maintenance"],
+    "phased_rollout": "Modular: many UKM start with Finance + Sales + Purchasing/Inventory, then add Production / CRM as they grow.",
+    "readiness_signals_observed_in_serp": [
+      "monthly closing takes >10 working days",
+      "heavy dependence on Excel / disconnected spreadsheets",
+      "data not synced across multiple warehouses / locations",
+      "finance team needs days to produce a report ('tunggu, kami rekap dulu')",
+      "dynamic pricing / inter-company transactions outgrow basic accounting software",
+      "manual re-keying between sales, inventory, and finance"
+    ],
+    "implementation_phases_serp": ["Project Preparation (kickoff, project team)", "Analysis & Design (business-process workshop -> Business Blueprint)", "Realization (install, configure, customize)", "Testing/UAT", "Go-Live + training + support"]
+  },
+  "authoritative_sources_to_cite": [
+    { "name": "SAP official product page", "url_hint": "https://www.sap.com/products/erp/business-one.html", "use": "install-base stat, official definition, module list" },
+    { "name": "Kominfo / sectoral UMKM digitalization statistics (Indonesia)", "url_hint": "kominfo.go.id or bps.go.id UMKM digital adoption", "use": "Indonesian SME digitalization context" },
+    { "name": "Reputable ID business/tech press (e.g., Katadata, DailySocial, Tech in Asia ID)", "url_hint": "katadata.co.id / dailysocial.id", "use": "ERP adoption / SME growth context" }
+  ],
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      "pengertian-sap-business-one-dan-kegunaannya (definition pillar — primary landing)",
+      "Lebih-Baik-Instalasi-SAP-Business-On-Cloud-Atau-One-On-Premise (cloud vs on-prem comparison)"
+    ],
+    "uncovered_angles_per_prior_briefs": [
+      "decision/readiness checklist (CHOSEN for -01)",
+      "cost & implementation planning (left for a future sibling brief)",
+      "step-by-step how-to implementation from zero to go-live (left for future sibling)",
+      "module-first sequencing for UKM (left for future sibling)"
+    ]
+  }
+}

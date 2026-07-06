@@ -1,0 +1,64 @@
+{
+  "brief_id": "erp-migration-to-the-cloud-04",
+  "article_title_id": "Keamanan Data ERP di Cloud: Regulasi Indonesia dan Cara Memitigasi Risikonya",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-02",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Diagram tiga lapisan keamanan data cloud ERP — lapisan bawah \"Teknis\" (ikon gembok, enkripsi, IAM), lapisan tengah \"Regulasi\" (ikon dokumen UU PDP, BSSN), lapisan atas \"Kontraktual\" (ikon perjanjian DPA), gaya infografik korporat biru-putih-abu, teks Bahasa Indonesia",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Tiga lapisan bertumpuk membutuhkan visualisasi hierarki struktural yang jelas; diagram piramida atau lapisan lebih tepat daripada infografik teks karena relasi antar lapisan (bukan daftar) adalah pesannya.",
+      "visual_direction": "Diagram piramida tiga lapisan dengan orientasi vertikal (bawah ke atas = fondasi ke puncak). Lebar kanvas sekitar 800×600px. Palet: biru korporat tua (#004A8F atau setara) untuk lapisan bawah, biru menengah (#0070C0) untuk lapisan tengah, biru muda/abu terang (#E8F1FA) untuk lapisan atas, teks putih atau abu gelap. Judul utama di atas: 'Tiga Lapisan Keamanan Data ERP di Cloud'. Setiap lapisan berisi: (1) LAPISAN BAWAH — label 'Teknis', ikon gembok + ikon kunci enkripsi + ikon orang-dengan-shield (IAM), sub-teks 'Enkripsi · Manajemen Identitas & Akses · Audit Trail'; (2) LAPISAN TENGAH — label 'Regulasi', ikon gulungan dokumen + ikon lencana otoritas (BSSN), sub-teks 'UU PDP No. 27/2022 · BSSN Peraturan No. 8/2020 · ISO 27001'; (3) LAPISAN ATAS — label 'Kontraktual', ikon jabat tangan + ikon dokumen kontrak, sub-teks 'Data Processing Agreement (DPA) · Data Residency · SLA Keamanan'. Font: sans-serif modern (Segoe UI, Inter, atau Helvetica). Tidak ada gradien rumit — flat design bersih. Tidak ada teks dekoratif berlebihan.",
+      "in_image_text_id": [
+        "Tiga Lapisan Keamanan Data ERP di Cloud",
+        "Teknis",
+        "Enkripsi · Manajemen Identitas & Akses · Audit Trail",
+        "Regulasi",
+        "UU PDP No. 27/2022 · BSSN · ISO 27001",
+        "Kontraktual",
+        "Data Processing Agreement (DPA) · Data Residency · SLA Keamanan"
+      ],
+      "alt_id": "Diagram tiga lapisan keamanan data ERP di cloud: lapisan teknis, regulasi Indonesia, dan kontraktual untuk migrasi ERP aman",
+      "caption_id": "Keamanan data dalam ERP migration to the cloud tidak cukup hanya pada enkripsi teknis — dua lapisan di atasnya, yaitu kepatuhan regulasi Indonesia (UU PDP) dan tata kelola kontraktual (DPA), sama pentingnya dan sering terabaikan saat evaluasi vendor.",
+      "sourcing_note": "Ilustrasi original — desainer membuat diagram dari nol berdasarkan brief ini. Tidak ada screenshot SAP yang diperlukan. Gunakan ikon dari library standar (Noun Project, Material Icons) untuk gembok, dokumen, dan shield. Palet warna mengacu identitas korporat Soltius: biru profesional dan putih bersih.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body",
+      "concept_from_writer": "Infografik checklist 8 poin due diligence vendor cloud ERP — tiap poin dengan ikon (perisai untuk ISO 27001, dokumen untuk SOC 2, gembok untuk enkripsi, pin peta untuk data center, kertas untuk DPA, daftar log untuk audit trail, jam untuk DR SLA, lonceng untuk notifikasi), layout vertikal korporat biru-putih, teks Bahasa Indonesia",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Daftar 8 poin pemeriksaan bersifat teks-forward dengan ikon pendukung per butir; infografik checklist vertikal menyajikan konten ini secara ringkas dan mudah di-screenshot/dibagikan sebagai panduan referensi cepat oleh pembaca B2B.",
+      "visual_direction": "Infografik vertikal format checklist, lebar ~600–800px tinggi ~1200px (bisa 2 kolom 4-4 jika perlu lebih kompak di ~800×900px). Judul di bagian atas: '8 Poin Due Diligence Vendor Cloud ERP'. Sub-judul kecil: 'Verifikasi sebelum menandatangani kontrak'. Palet: latar putih (#FFFFFF), aksen biru tua (#004A8F), teks abu gelap (#333333), garis pembatas abu muda. Setiap baris berisi: nomor urut lingkaran biru → ikon tematik → label poin → sub-teks verifikasi singkat. Delapan baris berurutan: (1) ikon perisai/shield — 'ISO 27001' — sub-teks 'Minta sertifikat audit terbaru dari auditor terakreditasi'; (2) ikon dokumen/laporan — 'SOC 2 Type II' — 'Minta laporan periode terbaru (min. 6 bulan)'; (3) ikon gembok tertutup — 'Enkripsi At-Rest & In-Transit' — 'Konfirmasi AES-256 dan TLS 1.2+ di spesifikasi teknis'; (4) ikon pin peta/lokasi — 'Lokasi Data Center & Data Residency' — 'Tanyakan region spesifik; minta klausul tertulis dalam kontrak'; (5) ikon kertas/kontrak — 'Data Processing Agreement (DPA)' — 'Wajib sesuai UU PDP; review bersama tim legal/DPO'; (6) ikon daftar log/scroll — 'Audit Trail & Logging' — 'Sistem mencatat siapa mengakses apa dan kapan'; (7) ikon jam/stopwatch — 'SLA Disaster Recovery' — 'Minta RTO dan RPO tertulis; ketentuan kompensasi jika dilanggar'; (8) ikon lonceng — 'Prosedur Notifikasi Insiden' — 'Berapa jam setelah insiden vendor wajib memberitahu (UU PDP Pasal 46)'. Footer kecil: 'Sumber: UU PDP No. 27/2022 · SAP Cloud Trust Center'. Font konsisten sans-serif. Tidak ada animasi.",
+      "in_image_text_id": [
+        "8 Poin Due Diligence Vendor Cloud ERP",
+        "Verifikasi sebelum menandatangani kontrak",
+        "1. ISO 27001",
+        "Minta sertifikat audit terbaru dari auditor terakreditasi",
+        "2. SOC 2 Type II",
+        "Minta laporan periode terbaru (min. 6 bulan)",
+        "3. Enkripsi At-Rest & In-Transit",
+        "Konfirmasi AES-256 dan TLS 1.2+ di spesifikasi teknis",
+        "4. Lokasi Data Center & Data Residency",
+        "Tanyakan region spesifik; minta klausul tertulis dalam kontrak",
+        "5. Data Processing Agreement (DPA)",
+        "Wajib sesuai UU PDP; review bersama tim legal/DPO",
+        "6. Audit Trail & Logging",
+        "Sistem mencatat siapa mengakses apa dan kapan",
+        "7. SLA Disaster Recovery",
+        "Minta RTO dan RPO tertulis; ketentuan kompensasi jika dilanggar",
+        "8. Prosedur Notifikasi Insiden",
+        "Berapa jam setelah insiden vendor wajib memberitahu (UU PDP Pasal 46)",
+        "Sumber: UU PDP No. 27/2022 · SAP Cloud Trust Center"
+      ],
+      "alt_id": "Infografik 8 poin checklist due diligence keamanan vendor cloud ERP: ISO 27001, SOC 2, enkripsi, data residency, DPA, dan lainnya",
+      "caption_id": "Delapan hal yang wajib diverifikasi sebelum menandatangani kontrak cloud ERP — dari sertifikasi ISO 27001 hingga prosedur notifikasi insiden sesuai UU PDP Pasal 46. Ketidakhadiran salah satu poin ini dalam kontrak adalah tanda merah yang perlu diselesaikan sebelum go-live.",
+      "sourcing_note": "Ilustrasi original — desainer membangun checklist dari nol berdasarkan brief ini. Tidak ada screenshot produk yang diperlukan. Ikon dapat diambil dari library standar (Material Icons, Noun Project, Feather Icons): shield, file-text, lock, map-pin, file-contract, list, clock, bell. Pastikan ikon konsisten dalam satu gaya (outline atau filled, pilih satu). Tidak ada gambar foto atau UI SAP yang direkayasa.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

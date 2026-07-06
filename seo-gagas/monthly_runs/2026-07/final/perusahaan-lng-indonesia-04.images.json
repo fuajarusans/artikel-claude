@@ -1,0 +1,92 @@
+{
+  "brief_id": "perusahaan-lng-indonesia-04",
+  "article_title_id": "Rantai Pasok LNG: dari Likuifaksi hingga Pengguna Akhir",
+  "language": "id",
+  "image_count": 3,
+  "planned_at": "2026-06-09",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero — setelah blok definisi singkat, sebelum H2 pertama",
+      "concept_from_writer": "Diagram alur rantai pasok LNG horizontal dengan 7 kotak/ikon berurutan dari kiri ke kanan — (1) Sumur Gas, (2) Kilang Likuifaksi, (3) Tangki Penyimpanan & Pemuatan, (4) Kapal LNG Carrier / ISO Tank, (5) Terminal Regasifikasi / FSRU, (6) LNG Hub (Break-bulking), (7) Pengguna Akhir (ikon pembangkit, pabrik, hotel, rumah sakit). Tiap tahap diberi label Bahasa Indonesia dan satu angka kunci, mis. '-161 derajat C', 'volume 1/600', 'ISO tank 20-40 ribu liter'. Gaya flat infographic isometrik B2B, palet biru-hijau energi, format landscape.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Rantai 7-tahap berurutan adalah konten prosedural linier — diagram alur (flow diagram) lebih akurat dan berguna bagi pembaca B2B daripada infografik teks-forward; setiap simpul membutuhkan ikon + label + angka kunci yang hanya bisa disampaikan lewat diagram.",
+      "visual_direction": "Format landscape (rasio 16:9 atau 3:1). Tujuh kotak/node berurutan dari kiri ke kanan dihubungkan panah tebal satu arah (kiri ke kanan). Setiap node berbentuk persegi panjang membulat dengan ikon flat di bagian atas dan label teks di bawahnya. Susunan node dari kiri: (1) ikon sumur/derrick minyak-gas — label 'Sumur Gas'; (2) ikon kilang/tower distilasi — label 'Kilang Likuifaksi' — sub-label '-161 derajat C'; (3) ikon tangki silinder kriogenik — label 'Penyimpanan & Pemuatan'; (4) ikon ganda: kapal tanker LNG di atas + truk ISO tank di bawah, dipisah garis tipis — label 'Kapal LNG Carrier / ISO Tank' — sub-label 'ISO tank 20-40 ribu liter'; (5) ikon kapal FSRU berlabuh atau gedung terminal — label 'Terminal Regasifikasi / FSRU'; (6) ikon gudang distribusi kecil dengan panah keluar radial — label 'LNG Hub (Break-bulking)' — warna node ini diberi highlight aksen hijau lebih terang untuk menandai peran hilir PGN Gagas; (7) ikon empat kecil berderet — gedung pembangkit, pabrik, hotel, simbol rumah sakit — label 'Pengguna Akhir'. Warna keseluruhan: latar putih bersih; node berwarna biru tua (#003A70 atau setara) untuk tahap hulu (1-3), biru sedang untuk midstream (4-5), biru dengan aksen hijau energi (#2ECC71 atau setara) untuk tahap hilir (6-7). Panah berwarna biru gradasi ke hijau mengikuti arah alur. Di bawah setiap node, satu angka kunci dicetak kecil: node 2 = '-161 derajat C'; node 3 = 'volume 1/600'; node 4 = '120.000-180.000 m3 (kapal)'; node 5 = 'vaporizer'; node 6 = 'beyond-pipeline'. Judul diagram: 'Tujuh Tahap Rantai Pasok LNG di Indonesia'. Tidak ada label 'terbesar' atau ranking. Gaya flat modern, tanpa efek 3D berlebihan. Semua teks dalam Bahasa Indonesia.",
+      "in_image_text_id": [
+        "Tujuh Tahap Rantai Pasok LNG di Indonesia",
+        "1. Sumur Gas",
+        "2. Kilang Likuifaksi",
+        "-161 derajat C",
+        "3. Penyimpanan & Pemuatan",
+        "4. Kapal LNG Carrier / ISO Tank",
+        "ISO tank 20-40 ribu liter",
+        "5. Terminal Regasifikasi / FSRU",
+        "vaporizer",
+        "6. LNG Hub (Break-bulking)",
+        "beyond-pipeline",
+        "7. Pengguna Akhir",
+        "Pembangkit | Pabrik | Hotel | Rumah Sakit"
+      ],
+      "alt_id": "Diagram rantai pasok LNG 7 tahap: sumur gas, kilang likuifaksi, kapal LNG, terminal regasifikasi, LNG Hub, pengguna akhir.",
+      "caption_id": "Rantai pasok LNG di Indonesia bergerak melalui tujuh simpul berurutan — dari lapangan gas seperti Bontang dan Tangguh, melalui proses likuifaksi pada suhu sekitar -161 derajat C, hingga distribusi via LNG Hub ke pengguna akhir di luar jaringan pipa. Setiap tahap bergantung pada tahap sebelumnya; gangguan di satu titik berdampak ke seluruh aliran.",
+      "sourcing_note": "Infografis/diagram orisinal — dibuat oleh tim desain berdasarkan brief ini. Tidak memerlukan foto fasilitas nyata. Data teknis (suhu -161 derajat C, rasio volume 1/600, kapasitas ISO tank 20-40 ribu liter, kapasitas kapal 120.000-180.000 m3) bersumber dari dossier artikel yang telah diverifikasi. Gunakan palet biru-hijau energi sesuai brand PGN Gagas.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "di dalam H2 'Mengapa LNG Harus Diregasifikasi Sebelum Dipakai?' — setelah paragraf pertama H2 tersebut",
+      "concept_from_writer": "Ilustrasi dua kolom berdampingan 'Rantai CNG vs Rantai LNG'. Kolom kiri (CNG): Mother Station -> kompresi -> truk GTM -> pengguna, tanpa langkah likuifaksi/regasifikasi. Kolom kanan (LNG): kilang likuifaksi -> kapal/ISO tank -> terminal regasifikasi -> pengguna. Sorot dua tahap ekstra LNG (likuifaksi & regasifikasi) dengan warna kontras. Gaya flat diagram, palet biru-hijau, teks Bahasa Indonesia.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Perbandingan dua rantai distribusi gas yang paralel namun berbeda adalah argumen visual paling kuat untuk H2 ini — diagram dua-kolom memperlihatkan sekaligus di mana LNG menambah dua tahap ekstra (likuifaksi dan regasifikasi) yang tidak ada pada rantai CNG, sesuatu yang tidak bisa dijelaskan foto atau infografis teks semata.",
+      "visual_direction": "Format landscape (rasio 16:9). Layout dua kolom setara dibagi garis vertikal tipis di tengah. Header kolom kiri: 'Rantai CNG' dengan ikon kompresi/silinder hijau; header kolom kanan: 'Rantai LNG' dengan ikon tetes cair/tangki kriogenik biru. Kolom kiri (CNG) berisi empat node vertikal dari atas ke bawah, dihubungkan panah ke bawah: (1) ikon gedung Mother Station — label 'Mother Station'; (2) ikon pompa kompresi — label 'Kompresi Gas'; (3) ikon truk GTM (Gas Transportation Module) — label 'Truk GTM'; (4) ikon pabrik/pengguna — label 'Pengguna'. Kolom kanan (LNG) berisi enam node vertikal dari atas ke bawah: (1) ikon kilang/tower — label 'Kilang Likuifaksi'; (2) ikon snowflake atau tetes cair — label 'LIKUIFAKSI (-161 derajat C)' — node ini diberi kotak sorot berwarna oranye/kuning kontras dengan badge teks 'Tahap Ekstra LNG'; (3) ikon kapal LNG carrier dan/atau truk ISO tank — label 'Kapal / ISO Tank'; (4) ikon terminal FSRU/gedung terminal — label 'Terminal Regasifikasi'; (5) ikon api/vaporizer — label 'REGASIFIKASI' — node ini juga diberi kotak sorot oranye/kuning dengan badge 'Tahap Ekstra LNG'; (6) ikon pabrik/pengguna — label 'Pengguna'. Dua tahap ekstra LNG (likuifaksi & regasifikasi) WAJIB diberi sorot warna kontras (oranye atau kuning mustard) dan badge teks 'Tahap Ekstra LNG' sehingga pembaca langsung menangkap perbedaannya. Di bagian bawah diagram: keterangan ringkas satu baris 'CNG: gas dimampatkan tanpa perubahan fase | LNG: dicairkan dan dikembalikan menjadi gas'. Latar belakang: putih bersih. Kolom CNG berpalet hijau-biru muda; kolom LNG berpalet biru tua-biru sedang. Gaya flat modern, ikon outline. Semua teks dalam Bahasa Indonesia.",
+      "in_image_text_id": [
+        "Rantai CNG",
+        "Rantai LNG",
+        "Mother Station",
+        "Kompresi Gas",
+        "Truk GTM",
+        "Pengguna",
+        "Kilang Likuifaksi",
+        "LIKUIFAKSI (-161 derajat C)",
+        "Tahap Ekstra LNG",
+        "Kapal / ISO Tank",
+        "Terminal Regasifikasi",
+        "REGASIFIKASI",
+        "CNG: gas dimampatkan tanpa perubahan fase | LNG: dicairkan dan dikembalikan menjadi gas"
+      ],
+      "alt_id": "Diagram dua kolom perbandingan rantai CNG vs LNG, dua tahap ekstra LNG — likuifaksi dan regasifikasi — disorot warna kontras.",
+      "caption_id": "Perbedaan mendasar antara rantai CNG dan rantai LNG terletak pada dua tahap ekstra LNG: likuifaksi di kilang (sekitar -161 derajat C) dan regasifikasi di terminal penerima. Pada rantai CNG, gas hanya dimampatkan tanpa mengubah fasenya, sehingga tidak memerlukan infrastruktur tambahan ini.",
+      "sourcing_note": "Diagram orisinal — dibuat oleh tim desain berdasarkan brief ini. Tidak memerlukan foto fasilitas nyata. Pastikan label dua tahap ekstra LNG ('Likuifaksi' dan 'Regasifikasi') diberi sorot visual yang jelas dan konsisten. Truk GTM dalam kolom CNG dapat merujuk visual armada GTM PGN Gagas secara stilistis (ikon), bukan foto truk asli — jika ingin menggunakan ikon menyerupai armada nyata, konfirmasi dahulu dengan tim PGN Gagas.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_03",
+      "position": "di dalam H2 'Di Mana Rantai LNG Paling Rapuh? Tantangan Keandalan yang Jarang Dibahas' — setelah daftar lima poin tantangan",
+      "concept_from_writer": "Peta sederhana Indonesia menandai titik fasilitas LNG — kilang Bontang (Kaltim), Tangguh (Papua Barat), Donggi Senoro (Sulteng); FSRU di lepas pantai Lampung dan Teluk Jakarta; Terminal Arun di Aceh — dihubungkan panah alur kapal LNG menuju terminal, lalu truk ISO tank ke darat. Tiap titik diberi label nama fasilitas dan tahapnya (hulu/regas/hilir). Legenda membedakan tahap; tanpa label 'terbesar'. Gaya peta flat, palet biru-hijau, teks Bahasa Indonesia.",
+      "suggested_asset_type": "map",
+      "asset_type_rationale": "Artikel memetakan pemain per lokasi geografis (kilang di Kaltim/Papua Barat/Sulteng, terminal di Aceh/Lampung/Teluk Jakarta, LNG Hub di Bandung) dan alur pengangkutan laut antarfasilitas — hanya peta yang dapat memvisualisasikan ketergantungan geografis lintas-pulau ini sekaligus menunjukkan titik-titik rentan rantai pasok.",
+      "visual_direction": "Peta Indonesia outline (siluet kepulauan, tanpa batas provinsi detail, hanya garis pantai dan nama pulau besar: Sumatera, Jawa, Kalimantan, Sulawesi, Papua). Latar belakang: biru laut muda (#EAF4FB atau setara) untuk lautan, putih/abu sangat muda untuk daratan. Titik-titik fasilitas ditandai ikon bulat berwarna dengan kode warna berbeda per tahap: HULU/KILANG = biru tua (ikon api/kilang): Bontang/Badak NGL di Kaltim, Tangguh/BP di Papua Barat, Donggi Senoro/DSLNG di Sulteng; REGASIFIKASI/TERMINAL = biru sedang (ikon kapal terapung): FSRU Lampung di lepas pantai Labuhan Maringgai Lampung, FSRU Nusantara Regas Satu di Teluk Jakarta, Terminal Arun di Lhokseumawe Aceh; DISTRIBUSI HILIR/LNG HUB = hijau energi (ikon gudang kecil dengan panah keluar): LNG Hub Bandung di Jawa Barat. Panah alur kapal LNG: garis putus-putus biru tua melengkung di atas laut dari Bontang ke Teluk Jakarta, dari Tangguh ke Arun, dari Donggi Senoro ke Lampung dan Teluk Jakarta — menggambarkan rute pelayaran. Panah distribusi darat: garis solid tipis hijau dari terminal ke LNG Hub Bandung (truk ISO tank). Setiap titik diberi label kotak kecil: nama fasilitas + tahap dalam tanda kurung, contoh 'Kilang Bontang (Hulu)', 'FSRU Lampung (Regasifikasi)', 'LNG Hub Bandung (Distribusi Hilir - PGN Gagas)'. Legenda di sudut bawah kanan: kotak kode warna untuk tiga kategori tahap. Judul peta: 'Peta Fasilitas LNG Indonesia: Kilang, Terminal Regasifikasi, dan Distribusi Hilir'. Tidak ada label 'terbesar' atau ranking kapasitas dalam teks ikon. Gaya flat, bersih, B2B. Semua teks dalam Bahasa Indonesia.",
+      "in_image_text_id": [
+        "Peta Fasilitas LNG Indonesia: Kilang, Terminal Regasifikasi, dan Distribusi Hilir",
+        "Kilang Bontang - PT Badak NGL (Hulu)",
+        "Kilang Tangguh - BP (Hulu)",
+        "Kilang Donggi Senoro - DSLNG (Hulu)",
+        "Terminal Arun - PT Perta Arun Gas (Regasifikasi)",
+        "FSRU Lampung - PT PGN LNG Indonesia (Regasifikasi)",
+        "FSRU Nusantara Regas Satu - PT Nusantara Regas (Regasifikasi)",
+        "LNG Hub Bandung - PGN Gagas (Distribusi Hilir)",
+        "Legenda:",
+        "Hulu / Kilang Likuifaksi",
+        "Terminal Regasifikasi / FSRU",
+        "Distribusi Hilir / LNG Hub",
+        "Alur kapal LNG",
+        "Distribusi darat (truk ISO tank)"
+      ],
+      "alt_id": "Peta LNG Indonesia: kilang Bontang, Tangguh, Donggi Senoro; terminal regas di Aceh, Lampung, Jakarta; LNG Hub Bandung hilir.",
+      "caption_id": "Rantai pasok LNG Indonesia membentang lintas pulau: gas dicairkan di kilang Bontang (Kaltim), Tangguh (Papua Barat), dan Donggi Senoro (Sulteng), diangkut kapal ke terminal regasifikasi di Aceh, Lampung, dan Teluk Jakarta, lalu diteruskan via truk ISO tank ke simpul distribusi hilir seperti LNG Hub Bandung yang dioperasikan PGN Gagas. Jarak geografis inilah yang menjadikan keandalan logistik maritim faktor kritis rantai ini.",
+      "sourcing_note": "Peta orisinal — dibuat oleh tim desain berdasarkan brief ini menggunakan siluet peta kepulauan Indonesia standar (tidak memerlukan foto fasilitas asli). PENTING: label fasilitas harus akurat sesuai artikel dan dossier — jangan mencantumkan nama fasilitas, kapasitas, atau branding yang tidak terverifikasi. PGN Gagas hanya muncul pada node 'LNG Hub Bandung (Distribusi Hilir)' — jangan tempatkan PGN Gagas pada node kilang atau regasifikasi. Untuk akurasi posisi geografis, gunakan koordinat kota referensi: Bontang (Kaltim), Teluk Bintuni (Papua Barat), Banggai (Sulteng), Lhokseumawe (Aceh), Labuhan Maringgai (Lampung), Teluk Jakarta, Bandung (Jabar).",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "brief_id": "gaslink-01",
+  "article_title_id": "Apa Itu Gaslink: Gas Bumi untuk Bisnis di Luar Jaringan Pipa",
+  "language": "id",
+  "image_count": 2,
+  "planned_at": "2026-06-09",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "lead — ditempatkan segera setelah paragraf definisi (blockquote 'Secara singkat'), sebelum H2 pertama",
+      "concept_from_writer": "Diagram alur rantai pasok Gaslink dari kiri ke kanan — (1) pipa transmisi gas bumi → (2) Mother Station/SPBG (proses kompresi) → (3) truk Gas Transport Module/GTM → (4) lokasi pelanggan dengan Pressure Reduction Station → (5) peralatan pelanggan (burner dapur, boiler laundry). Tiap komponen diberi label Bahasa Indonesia dan istilah Inggris. Gaya flat infographic isometrik B2B, palet hijau-biru energi bersih, format horizontal landscape.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Konten ini adalah proses berurutan 5 tahap dengan node bernama dan anak panah arah; diagram alur (flow diagram) adalah format paling tepat karena membawa substansi teknis yang tidak bisa digantikan oleh foto atau stock image generik.",
+      "visual_direction": "Format: horizontal landscape (rasio 16:9), single-row flow dari kiri ke kanan. Lima node/komponen dirangkai dengan anak panah tebal (→) di antara tiap node. Gaya: flat isometrik B2B bersih — tidak perlu 3D penuh, cukup sedikit perspektif isometrik agar terasa modern. Palet utama: biru tua profesional (#1A3E6E atau setara) untuk background node dan anak panah; aksen hijau energi (#3EB66A atau setara) pada elemen kunci (gelembung kompresi, ikon api/burner); latar putih atau abu sangat muda agar mudah dibaca di layar laptop dan mobile. Tiap node berisi ikon sederhana (lihat deskripsi per node di bawah) ditambah label dua baris: baris 1 = nama Bahasa Indonesia, baris 2 = nama Inggris dalam huruf lebih kecil dan warna abu sedang. Node dari kiri ke kanan: (1) ikon jaringan pipa/pipa baja dengan garis aliran — label 'Pipa Transmisi Gas Bumi / Gas Transmission Pipeline'; (2) ikon bangunan stasiun dengan tanda kompresi (zig-zag tekanan) — label 'Mother Station / SPBG (Kompresi CNG)'; (3) ikon truk tampak samping dengan silinder tekanan di bak — label 'Gas Transport Module (GTM)'; (4) ikon kotak perangkat/panel dengan jarum manometer — label 'Pressure Reduction Station (PRS)'; (5) dua ikon berdampingan — ikon api di atas kompor/burner dan ikon uap di atas boiler — label 'Burner / Boiler Pelanggan'. Di bawah seluruh diagram, satu baris teks kecil: 'Rantai Pasok Gaslink: dari sumber gas bumi hingga ke peralatan pelanggan'. Tidak ada angka kapasitas GTM atau angka tekanan spesifik di dalam gambar.",
+      "in_image_text_id": [
+        "Pipa Transmisi Gas Bumi",
+        "Gas Transmission Pipeline",
+        "Mother Station / SPBG (Kompresi CNG)",
+        "Gas Transport Module (GTM)",
+        "Pressure Reduction Station (PRS)",
+        "Burner / Boiler Pelanggan",
+        "Rantai Pasok Gaslink: dari sumber gas bumi hingga ke peralatan pelanggan"
+      ],
+      "alt_id": "Diagram rantai pasok Gaslink: Mother Station, truk GTM, Pressure Reduction Station, hingga burner dan boiler pelanggan",
+      "caption_id": "Rantai pasok Gaslink: gas bumi dikompresi menjadi CNG di Mother Station, dimuat ke Gas Transport Module (GTM), diangkut ke lokasi, lalu diturunkan tekanannya di Pressure Reduction Station sebelum mengalir ke burner atau boiler pelanggan. Model ini memungkinkan pasokan gas bumi menjangkau kawasan industri dan komersial tanpa jaringan pipa.",
+      "sourcing_note": "Ini adalah diagram proses yang sepenuhnya dapat dibuat oleh tim desain berdasarkan brief di atas — tidak memerlukan foto asli fasilitas PGN Gagas. Terminologi dan urutan tahap telah dikonfirmasi dari gagas.co.id/gaslink/ (halaman resmi) dan pertagasniaga.pertamina.com. JANGAN mencantumkan angka kapasitas GTM (misalnya 10ft/20ft/40ft atau volume dalam Sm³) karena spesifikasi resmi Gaslink untuk parameter ini belum dipublikasikan secara resmi oleh Gagas (lihat Flag #1 dossier).",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "mid-body — ditempatkan setelah tabel perbandingan Gaslink GTM vs Gaslink Cylinder vs Gas Pipa, sebelum H2 'Kapan Bisnis Anda BELUM Perlu...'",
+      "concept_from_writer": "Ilustrasi konsep 'beyond pipeline' — diagram skematik (bukan peta geografis) yang menampilkan zona terlayani pipa di satu warna dan area di luarnya (beyond pipeline) di warna berbeda, dengan ikon truk GTM bergerak menuju ikon pabrik dan hotel di zona tanpa pipa. Pesan visual 'Gaslink menjangkau yang tidak bisa dicapai pipa'. Gaya flat, palet hijau-biru, teks Bahasa Indonesia.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Konsep 'beyond pipeline' adalah ide spasial/konseptual dengan zona berlabel, ikon terarah, dan pesan yang harus terbaca dalam 3 detik; diagram skematik lebih tepat daripada ilustrasi bebas karena membutuhkan struktur visual yang jelas (dua zona berbeda + arah pergerakan GTM) dan lebih kredibel secara B2B daripada metafora artistik.",
+      "visual_direction": "Format: persegi atau landscape moderat (rasio 4:3 atau 16:9). Gaya: flat schematic — BUKAN peta geografis Indonesia, BUKAN outline pulau; gunakan bentuk abstrak (poligon sederhana atau lingkaran oval besar) untuk merepresentasikan dua zona. Palet: zona pipa = warna biru tua (#1A3E6E) dengan ikon pipa dan bangunan kecil (ikon kantor/pabrik di dalam zona, berwarna putih atau biru muda); zona beyond pipeline = warna hijau muda (#D6F0E0) atau abu-biru muda untuk kontras yang ramah mata, dengan batas zona ditandai garis putus-putus tebal. Di dalam zona hijau muda (beyond pipeline): ikon truk GTM tampak samping bergerak ke kanan menuju ikon pabrik dan ikon gedung hotel; gunakan anak panah putus-putus (garis gerakan) dari truk menuju dua ikon tujuan. Label zona: blok teks di dalam zona biru — 'Zona Jaringan Pipa Gas' (font putih); blok teks di dalam zona hijau muda — 'Area Beyond Pipeline' (font biru tua). Di antara dua zona, sebuah garis batas dengan ikon tanda larangan kecil atau ikon rantai terputus, dengan label singkat di bawahnya: 'Jaringan pipa belum tersedia'. Di bagian bawah gambar, tagline satu baris dalam kotak kecil berwarna hijau energi: 'Gaslink menjangkau lokasi usaha yang belum terlayani pipa'. Tidak ada nama kota, tidak ada batas provinsi, tidak ada koordinat geografis — ini sepenuhnya skematik konseptual.",
+      "in_image_text_id": [
+        "Zona Jaringan Pipa Gas",
+        "Area Beyond Pipeline",
+        "Jaringan pipa belum tersedia",
+        "Gas Transport Module (GTM)",
+        "Pabrik",
+        "Hotel",
+        "Gaslink menjangkau lokasi usaha yang belum terlayani pipa"
+      ],
+      "alt_id": "Diagram konsep beyond pipeline: zona berpipa dan area tanpa pipa dengan truk GTM Gaslink menuju pabrik dan hotel",
+      "caption_id": "Konsep beyond pipeline: alih-alih membangun pipa permanen ke setiap lokasi, gas bumi dikemas sebagai CNG dan diantarkan via Gas Transport Module (GTM) ke kawasan industri dan komersial yang belum terjangkau jaringan pipa. Diagram ini bersifat skematik konseptual — bukan representasi cakupan geografis aktual layanan Gaslink.",
+      "sourcing_note": "Diagram konseptual — dapat dibuat sepenuhnya oleh tim desain berdasarkan brief di atas; tidak memerlukan foto asli atau data geografis. PENTING: JANGAN menggunakan peta Indonesia atau outline pulau/provinsi sebagai latar, karena itu akan mengimplikasikan cakupan layanan yang belum terverifikasi untuk semua wilayah yang tampak. Pertahankan sebagai bentuk abstrak (oval/poligon). Tidak ada branding PGN Gagas berlebihan di dalam gambar — cukup nama layanan 'Gaslink' pada tagline bawah.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

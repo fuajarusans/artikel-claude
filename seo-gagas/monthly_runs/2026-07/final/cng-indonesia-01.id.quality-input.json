@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07\\final\\cng-indonesia-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-09T15:41:30+07:00",
+    "word_count":  1607,
+    "paragraph_count":  18,
+    "sentence_count":  104,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.428,
+                        "sentence_burstiness":  0.9,
+                        "top30_vocab_share":  0.326,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.428 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "## CNG Bukan Cuma \"Pengganti LPG 3 Kg\": Meluruskan Salah Kaprah Karena gelombang berita 2026, banyak orang mengira CNG identik dengan program tabung 3 kg rumah tangga.",
+                                      "candidate_score":  37,
+                                      "web_search_query":  "\"## CNG Bukan Cuma  Pengganti LPG 3 Kg : Meluruskan Salah Kaprah Karena gelombang berita 2026, banyak orang mengira CNG i\""
+                                  },
+                                  {
+                                      "passage":  "Komponen utamanya metana (CH4); menurut Ditjen Migas ESDM, gas dikompresi hingga 200–250 bar sehingga volumenya menyusut menjadi sekitar 1/250.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Komponen utamanya metana (CH4); menurut Ditjen Migas ESDM, gas dikompresi hingga 200–250 bar sehingga volumenya menyusut\""
+                                  },
+                                  {
+                                      "passage":  "[LNG (Liquefied Natural Gas)](https://gagas.co.id/perusahaan-lng-indonesia/) didinginkan hingga sekitar -163°C sampai mencair, sehingga volumenya menyusut jauh lebih ekstrem, sekitar 1/600 (Ditjen Migas ESDM).",
+                                      "candidate_score":  27,
+                                      "web_search_query":  "\"[LNG (Liquefied Natural Gas)](https://gagas.co.id/perusahaan-lng-indonesia/) didinginkan hingga sekitar -163°C sampai me\""
+                                  },
+                                  {
+                                      "passage":  "Akibatnya, sekitar 80–84% kebutuhan LPG nasional harus diimpor (CNBC Indonesia, Mei 2026).",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"Akibatnya, sekitar 80–84% kebutuhan LPG nasional harus diimpor (CNBC Indonesia, Mei 2026).\""
+                                  },
+                                  {
+                                      "passage":  "**Kompresi di Mother Station.** Kompresor memampatkan gas hingga sekitar 200–250 bar, menyusutkan volumenya ke kisaran 1/250 (Ditjen Migas ESDM).",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"**Kompresi di Mother Station.** Kompresor memampatkan gas hingga sekitar 200–250 bar, menyusutkan volumenya ke kisaran 1\""
+                                  },
+                                  {
+                                      "passage":  "# Apa Itu CNG (Compressed Natural Gas) dan Cara Kerjanya Sejak awal 2026, istilah CNG mendadak ramai di pemberitaan karena pemerintah menyiapkannya sebagai alternatif energi rumah tangga.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"# Apa Itu CNG (Compressed Natural Gas) dan Cara Kerjanya Sejak awal 2026, istilah CNG mendadak ramai di pemberitaan kare\""
+                                  },
+                                  {
+                                      "passage":  "Penetrasinya masih kecil: dari data ESDM 2023, BBG transportasi hanya sekitar 0,16% konsumsi gas domestik.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Penetrasinya masih kecil: dari data ESDM 2023, BBG transportasi hanya sekitar 0,16% konsumsi gas domestik.\""
+                                  },
+                                  {
+                                      "passage":  "CNG dan gas pipa sama-sama gas bumi (metana), hanya beda cara distribusi: gas pipa mengalir lewat jaringan permanen pada tekanan rendah, CNG dikompresi 200–250 bar lalu diangkut truk.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"CNG dan gas pipa sama-sama gas bumi (metana), hanya beda cara distribusi: gas pipa mengalir lewat jaringan permanen pada\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

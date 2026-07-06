@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-08\\final\\sap-clean-core-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-08T18:29:34+07:00",
+    "word_count":  2157,
+    "paragraph_count":  22,
+    "sentence_count":  114,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.355,
+                        "sentence_burstiness":  0.825,
+                        "top30_vocab_share":  0.319,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.355 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Dengan n sistem, jumlah koneksi tumbuh mengikuti rumus n(n-1)/2: 10 sistem menghasilkan 45 koneksi, 20 sistem menghasilkan 190.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Dengan n sistem, jumlah koneksi tumbuh mengikuti rumus n(n-1)/2: 10 sistem menghasilkan 45 koneksi, 20 sistem menghasilk\""
+                                  },
+                                  {
+                                      "passage":  "# Integrasi Clean Core: Cara Menghubungkan SAP Tanpa Mengotori Core Banyak tim IT sudah rapi: kode Z dibersihkan, ekstensi dipindah ke BTP, dan inti S/4HANA dijaga standar.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"# Integrasi Clean Core: Cara Menghubungkan SAP Tanpa Mengotori Core Banyak tim IT sudah rapi: kode Z dibersihkan, eksten\""
+                                  },
+                                  {
+                                      "passage":  "Sejak Q3 2025, SAP menyediakan *Clean Core Modernization Recommendations for BAPIs* dalam Integration Suite yang otomatis mengidentifikasi BAPI di antarmuka PI/PO lama dan menyarankan API penggantinya.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Sejak Q3 2025, SAP menyediakan *Clean Core Modernization Recommendations for BAPIs* dalam Integration Suite yang otomati\""
+                                  },
+                                  {
+                                      "passage":  "Lima sistem menghasilkan 10 koneksi; sepuluh sistem melonjak ke 45; dua puluh sistem mencapai 190 koneksi.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Lima sistem menghasilkan 10 koneksi; sepuluh sistem melonjak ke 45; dua puluh sistem mencapai 190 koneksi.\""
+                                  },
+                                  {
+                                      "passage":  "**Tetapkan governance: pintu masuk hanya satu.** Buat kebijakan bahwa tak ada interface baru yang lolos tanpa memakai released API via Integration Suite.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"**Tetapkan governance: pintu masuk hanya satu.** Buat kebijakan bahwa tak ada interface baru yang lolos tanpa memakai re\""
+                                  },
+                                  {
+                                      "passage":  "**Posisikan SAP Integration Suite sebagai spine plus API Management.** Alihkan orkestrasi ke Cloud Integration agar sistem pihak ketiga tak lagi menyentuh inti SAP secara langsung.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"**Posisikan SAP Integration Suite sebagai spine plus API Management.** Alihkan orkestrasi ke Cloud Integration agar sist\""
+                                  },
+                                  {
+                                      "passage":  "### Apa itu SAP Business Accelerator Hub dan apa bedanya dengan SAP API Business Hub?",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"### Apa itu SAP Business Accelerator Hub dan apa bedanya dengan SAP API Business Hub?\""
+                                  },
+                                  {
+                                      "passage":  "Pemeriksa seperti ATC (*ABAP Test Cockpit*) menyoroti modifikasi ABAP, sehingga remediasi kode terasa konkret dan terukur.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Pemeriksa seperti ATC (*ABAP Test Cockpit*) menyoroti modifikasi ABAP, sehingga remediasi kode terasa konkret dan teruku\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

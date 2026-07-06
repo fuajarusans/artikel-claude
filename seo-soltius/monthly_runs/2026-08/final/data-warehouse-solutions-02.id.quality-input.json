@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-08\\final\\data-warehouse-solutions-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-08T18:17:34+07:00",
+    "word_count":  2168,
+    "paragraph_count":  26,
+    "sentence_count":  111,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.375,
+                        "sentence_burstiness":  0.701,
+                        "top30_vocab_share":  0.323,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.375 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "## Bagaimana Data Warehouse Modern Menggabungkan Keduanya Pilihan batch versus real-time bukan keputusan tunggal untuk seluruh perusahaan.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"## Bagaimana Data Warehouse Modern Menggabungkan Keduanya Pilihan batch versus real-time bukan keputusan tunggal untuk s\""
+                                  },
+                                  {
+                                      "passage":  "# Real-Time vs Batch Data Warehouse: Kapan Anda Perlu Data Seketika Ada dua kekecewaan yang sama mahalnya.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"# Real-Time vs Batch Data Warehouse: Kapan Anda Perlu Data Seketika Ada dua kekecewaan yang sama mahalnya.\""
+                                  },
+                                  {
+                                      "passage":  "**Replication Flow** mendukung tiga jenis muatan (*Initial Only*, *Delta Only*, serta *Initial \u0026 Delta*); dengan opsi delta berbasis CDC, ia menghasilkan sinkronisasi near-real-time.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"**Replication Flow** mendukung tiga jenis muatan (*Initial Only*, *Delta Only*, serta *Initial \u0026 Delta*); dengan opsi de\""
+                                  },
+                                  {
+                                      "passage":  "## Batch, Micro-Batch, dan Streaming: Tiga Cara Data Masuk ke Warehouse Ada tiga pola dasar memasukkan data ke warehouse, dibedakan oleh latensi.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Batch, Micro-Batch, dan Streaming: Tiga Cara Data Masuk ke Warehouse Ada tiga pola dasar memasukkan data ke warehouse\""
+                                  },
+                                  {
+                                      "passage":  "| Manusia, periodik | Sistem otomatis (mesin fraud, pemicu restock) | | Seberapa sering data sumber berubah?",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"| Manusia, periodik | Sistem otomatis (mesin fraud, pemicu restock) | | Seberapa sering data sumber berubah?\""
+                                  },
+                                  {
+                                      "passage":  "CDC sering menarik perubahan (delta) dari S/4HANA melalui *CDS views* dengan kerangka ODP (*Operational Data Provisioning*), yang tersedia mulai S/4HANA 1909 FPS01 (on-premise) dan S/4HANA Cloud 1905.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"CDC sering menarik perubahan (delta) dari S/4HANA melalui *CDS views* dengan kerangka ODP (*Operational Data Provisionin\""
+                                  },
+                                  {
+                                      "passage":  "| Lebih dari 1 jam | Kurang dari 15 menit | | Apa konsekuensi data terlambat 1 jam?",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"| Lebih dari 1 jam | Kurang dari 15 menit | | Apa konsekuensi data terlambat 1 jam?\""
+                                  },
+                                  {
+                                      "passage":  "SAP Datasphere (nama produk sejak Maret 2023, menggantikan SAP Data Warehouse Cloud) adalah contoh arsitektur hibrida semacam ini.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"SAP Datasphere (nama produk sejak Maret 2023, menggantikan SAP Data Warehouse Cloud) adalah contoh arsitektur hibrida se\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

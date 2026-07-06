@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07\\final\\perusahaan-cng-indonesia-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-09T15:41:31+07:00",
+    "word_count":  1637,
+    "paragraph_count":  19,
+    "sentence_count":  84,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.35,
+                        "sentence_burstiness":  0.67,
+                        "top30_vocab_share":  0.299,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.35 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Instalasi sudah diinspeksi Ditjen Migas?\" | Sertifikat ISO; bukti inspeksi Permen ESDM 32/2021 | | 5 | **Layanan teknis \u0026 komisioning** | \"Siapa mengerjakan instalasi PRS?",
+                                      "candidate_score":  33,
+                                      "web_search_query":  "\"Instalasi sudah diinspeksi Ditjen Migas?  | Sertifikat ISO; bukti inspeksi Permen ESDM 32/2021 | | 5 | **Layanan teknis \""
+                                  },
+                                  {
+                                      "passage":  "PGN Gagas, misalnya, memegang ISO 45001:2018 yang mencakup layanan distribusi CNG (2025).",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"PGN Gagas, misalnya, memegang ISO 45001:2018 yang mencakup layanan distribusi CNG (2025).\""
+                                  },
+                                  {
+                                      "passage":  "Berapa jarak ke Mother Station?\" | Referensi pelanggan terdekat; estimasi tempuh GTM | | 4 | **Keselamatan \u0026 sertifikasi** | \"ISO 45001 berlaku sampai kapan?",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Berapa jarak ke Mother Station?  | Referensi pelanggan terdekat; estimasi tempuh GTM | | 4 | **Keselamatan \u0026 sertifikasi\""
+                                  },
+                                  {
+                                      "passage":  "# Cara Memilih Perusahaan CNG di Indonesia: 7 Kriteria Wajib Anda sudah memutuskan beralih ke gas bumi karena lokasi pabrik atau hotel Anda tidak dilewati pipa.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"# Cara Memilih Perusahaan CNG di Indonesia: 7 Kriteria Wajib Anda sudah memutuskan beralih ke gas bumi karena lokasi pab\""
+                                  },
+                                  {
+                                      "passage":  "## Kapan Anda BELUM Perlu Buru-buru Tanda Tangan Kontrak CNG Tidak setiap kasus menuntut keputusan cepat, dan mengatakan ini lebih jujur daripada mendorong semua orang berlangganan.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## Kapan Anda BELUM Perlu Buru-buru Tanda Tangan Kontrak CNG Tidak setiap kasus menuntut keputusan cepat, dan mengatakan\""
+                                  },
+                                  {
+                                      "passage":  "Dua yang paling relevan untuk distribusi industri: ISO 45001:2018 (Manajemen K3) dan ISO 9001:2015 (Manajemen Mutu).",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Dua yang paling relevan untuk distribusi industri: ISO 45001:2018 (Manajemen K3) dan ISO 9001:2015 (Manajemen Mutu).\""
+                                  },
+                                  {
+                                      "passage":  "## Penyedia CNG, Penyalur Pipa, atau LNG: Mana yang Relevan untuk Lokasi Anda?",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Penyedia CNG, Penyalur Pipa, atau LNG: Mana yang Relevan untuk Lokasi Anda?\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai gambaran lapangan (bukan ketentuan baku), sebagian penyedia menyebut konsumsi setara sekitar 20 tabung gas 50 kg per bulan sebagai titik awal diskusi keekonomian.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Sebagai gambaran lapangan (bukan ketentuan baku), sebagian penyedia menyebut konsumsi setara sekitar 20 tabung gas 50 kg\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

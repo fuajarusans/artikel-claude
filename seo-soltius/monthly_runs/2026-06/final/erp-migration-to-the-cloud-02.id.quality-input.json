@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-06\\final\\erp-migration-to-the-cloud-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-03T01:18:10+07:00",
+    "word_count":  1256,
+    "paragraph_count":  18,
+    "sentence_count":  77,
+    "ai_detector":  {
+                        "score":  0.15,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.551,
+                        "sentence_burstiness":  0.788,
+                        "top30_vocab_share":  0.317,
+                        "flags":  [
+                                      {
+                                          "pattern":  "em-dash-overuse",
+                                          "severity":  "medium",
+                                          "snippet":  "Em-dashes count: 5 (max 2)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Perusahaan yang masih di SAP ERP 6.0 tanpa EHP atau EHP 1–5 bahkan sudah kehilangan dukungan reguler per 31 Desember 2025 (SAP Support Portal).",
+                                      "candidate_score":  29,
+                                      "web_search_query":  "\"Perusahaan yang masih di SAP ERP 6.0 tanpa EHP atau EHP 1–5 bahkan sudah kehilangan dukungan reguler per 31 Desember 202\""
+                                  },
+                                  {
+                                      "passage":  "*Mainstream maintenance* untuk SAP ERP 6.0 dengan Enhancement Package 6, 7, dan 8 berakhir 31 Desember 2027.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"*Mainstream maintenance* untuk SAP ERP 6.0 dengan Enhancement Package 6, 7, dan 8 berakhir 31 Desember 2027.\""
+                                  },
+                                  {
+                                      "passage":  "## Checklist 8 Poin: Yang Harus Siap Sebelum Go-Live Dalam SAP Activate, metodologi implementasi resmi SAP, fase *Deploy* mencakup *cutover planning* secara eksplisit.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"## Checklist 8 Poin: Yang Harus Siap Sebelum Go-Live Dalam SAP Activate, metodologi implementasi resmi SAP, fase *Deploy\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai SAP Platinum Partner melalui keanggotaan United VARs, Soltius mendampingi perusahaan dari perencanaan migrasi, eksekusi *cutover*, hingga dukungan *hypercare* pasca *go-live*.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Sebagai SAP Platinum Partner melalui keanggotaan United VARs, Soltius mendampingi perusahaan dari perencanaan migrasi, e\""
+                                  },
+                                  {
+                                      "passage":  "## Yang Jarang Diceritakan: Sistem Menyala tapi Bisnis Belum Pulih Ini bagian yang hampir tidak pernah muncul di panduan teknis *downtime*, padahal di sinilah banyak proyek gagal diam-diam.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Yang Jarang Diceritakan: Sistem Menyala tapi Bisnis Belum Pulih Ini bagian yang hampir tidak pernah muncul di panduan\""
+                                  },
+                                  {
+                                      "passage":  "**UAT sign-off dari semua departemen kunci.** Finance, Operasional, Logistik harus sudah menandatangani dokumen persetujuan.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"**UAT sign-off dari semua departemen kunci.** Finance, Operasional, Logistik harus sudah menandatangani dokumen persetuj\""
+                                  },
+                                  {
+                                      "passage":  "**NZDT (Near-Zero Downtime Technology).** Layanan proyek SAP yang melibatkan SAP Global Delivery secara langsung — tersedia untuk kasus tertentu, bukan opsi mandiri semua mitra.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"**NZDT (Near-Zero Downtime Technology).** Layanan proyek SAP yang melibatkan SAP Global Delivery secara langsung — terse\""
+                                  },
+                                  {
+                                      "passage":  "## Empat Strategi Meminimalkan Downtime Migrasi ERP Ada spektrum pendekatan, dari yang paling sederhana hingga paling intensif secara teknis.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Empat Strategi Meminimalkan Downtime Migrasi ERP Ada spektrum pendekatan, dari yang paling sederhana hingga paling in\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

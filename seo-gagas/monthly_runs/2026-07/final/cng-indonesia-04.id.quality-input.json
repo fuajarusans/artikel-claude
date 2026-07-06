@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07\\final\\cng-indonesia-04.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-09T15:41:23+07:00",
+    "word_count":  1588,
+    "paragraph_count":  19,
+    "sentence_count":  79,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.513,
+                        "sentence_burstiness":  0.807,
+                        "top30_vocab_share":  0.344,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Jaringan pipa gas bumi nasional Indonesia mencapai sekitar 22.821 km per 2025, namun konsentrasinya berada di Sumatra dan Jawa (BPH Migas, Mei 2026).",
+                                      "candidate_score":  29,
+                                      "web_search_query":  "\"Jaringan pipa gas bumi nasional Indonesia mencapai sekitar 22.821 km per 2025, namun konsentrasinya berada di Sumatra da\""
+                                  },
+                                  {
+                                      "passage":  "Untuk memasok PLTMGU Lombok Peaker, PLN mengangkut CNG dari Gresik ke Lombok memakai kapal CNG (*CNG Vessel* / Marine CNG).",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Untuk memasok PLTMGU Lombok Peaker, PLN mengangkut CNG dari Gresik ke Lombok memakai kapal CNG (*CNG Vessel* / Marine CN\""
+                                  },
+                                  {
+                                      "passage":  "Wilayah timur seperti Sulawesi, Maluku, Nusa Tenggara, dan Papua sebagian besar belum terlayani pipa.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Wilayah timur seperti Sulawesi, Maluku, Nusa Tenggara, dan Papua sebagian besar belum terlayani pipa.\""
+                                  },
+                                  {
+                                      "passage":  "Kapal Jayanti Baruna tiba di jetty Lombok pada September 2024 dengan pengiriman perdana sekitar 23,38 MMSCF, menempuh sekitar 280 mil laut.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Kapal Jayanti Baruna tiba di jetty Lombok pada September 2024 dengan pengiriman perdana sekitar 23,38 MMSCF, menempuh se\""
+                                  },
+                                  {
+                                      "passage":  "## Beyond Pipeline di Dunia Nyata: CNG untuk Pembangkit dan Industri Pendekatan ini bukan teori; sudah dipakai untuk kelistrikan di Indonesia.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Beyond Pipeline di Dunia Nyata: CNG untuk Pembangkit dan Industri Pendekatan ini bukan teori; sudah dipakai untuk kel\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai anak usaha PGN yang merupakan bagian dari Subholding Gas Pertamina, PGN Gagas menghadirkan gas bumi ke wilayah tak berpipa lewat solusi CNG beyond-pipeline seperti Gaslink.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Sebagai anak usaha PGN yang merupakan bagian dari Subholding Gas Pertamina, PGN Gagas menghadirkan gas bumi ke wilayah t\""
+                                  },
+                                  {
+                                      "passage":  "Contohnya kapal Jayanti Baruna dari Gresik ke Lombok sejak September 2024 (sumber: PLN/ESDM).",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Contohnya kapal Jayanti Baruna dari Gresik ke Lombok sejak September 2024 (sumber: PLN/ESDM).\""
+                                  },
+                                  {
+                                      "passage":  "**Kompresi di Mother Station.** Gas bumi diterima dari pipa utilitas atau sumber gas, lalu dikompresi pada tekanan sekitar 200–250 bar di stasiun induk (*Mother Station*).",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"**Kompresi di Mother Station.** Gas bumi diterima dari pipa utilitas atau sumber gas, lalu dikompresi pada tekanan sekit\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

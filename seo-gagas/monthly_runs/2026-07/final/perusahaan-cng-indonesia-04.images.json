@@ -1,0 +1,85 @@
+{
+  "brief_id": "perusahaan-cng-indonesia-04",
+  "article_title_id": "Keamanan & Keandalan Pasokan CNG: Yang Wajib Dijamin Penyedia",
+  "language": "id",
+  "image_count": 3,
+  "planned_at": "2026-06-09",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero",
+      "concept_from_writer": "Infografik dua kolom berjudul 'Dua Dimensi Jaminan Penyedia CNG' — kolom kiri 'Keselamatan' (ikon helm K3, sertifikat, detektor gas) dan kolom kanan 'Keandalan Pasokan / Security of Supply' (ikon Mother Station, truk GTM, grafik tekanan real-time). Tiap kolom memuat 3 poin singkat berbahasa Indonesia. Gaya flat infographic korporat B2B, palet hijau-biru energi bersih, format horizontal landscape.",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Konten bersifat komparatif-ringkas (dua dimensi, enam poin total): format infografik dua kolom adalah cara paling efisien untuk menyampaikannya sekaligus memperkuat perbedaan konseptual keselamatan vs keandalan yang menjadi inti artikel.",
+      "visual_direction": "Format landscape (rasio 16:9), latar putih bersih dengan aksen biru tua (#003366) dan hijau energi (#2E8B57). Judul utama di bagian atas tengah: 'Dua Dimensi Jaminan Penyedia CNG' dalam font sans-serif bold biru tua, ukuran besar. Di bawah judul, dua kolom sejajar dibatasi garis vertikal tipis abu-abu terang. KOLOM KIRI — header 'Keselamatan' dengan ikon perisai atau helm K3 berwarna hijau. Tiga baris poin di bawahnya, masing-masing dengan ikon kecil di sisi kiri: (1) ikon sertifikat: 'Sertifikasi ISO 45001:2018 dapat diaudit'; (2) ikon dokumen dengan tanda centang: 'Kepatuhan Permen ESDM 32/2021 & SMKM'; (3) ikon detektor gas: 'Operator bersertifikat & inspeksi berkala'. KOLOM KANAN — header 'Keandalan Pasokan' dengan ikon rantai atau jaringan titik berwarna biru. Tiga baris poin: (1) ikon bangunan Mother Station: 'Kapasitas Mother Station yang memadai'; (2) ikon truk GTM: 'Armada GTM dengan rencana cadangan'; (3) ikon grafik garis naik: 'Pemantauan tekanan real-time & SLA tertulis'. Footer paling bawah berisi catatan kecil abu-abu: 'Bukti untuk keselamatan berbeda dari bukti untuk keandalan — tanyakan keduanya.' Semua teks dalam Bahasa Indonesia.",
+      "in_image_text_id": [
+        "Dua Dimensi Jaminan Penyedia CNG",
+        "Keselamatan",
+        "Sertifikasi ISO 45001:2018 dapat diaudit",
+        "Kepatuhan Permen ESDM 32/2021 & SMKM",
+        "Operator bersertifikat & inspeksi berkala",
+        "Keandalan Pasokan",
+        "Kapasitas Mother Station yang memadai",
+        "Armada GTM dengan rencana cadangan",
+        "Pemantauan tekanan real-time & SLA tertulis",
+        "Bukti untuk keselamatan berbeda dari bukti untuk keandalan — tanyakan keduanya."
+      ],
+      "alt_id": "Infografik dua dimensi jaminan penyedia CNG: kolom keselamatan (ISO 45001, Permen ESDM) dan keandalan pasokan (GTM, SLA).",
+      "caption_id": "Dua kata yang sering dijadikan satu ternyata membutuhkan bukti yang berbeda. Keselamatan dinilai dari sertifikat dan laporan inspeksi; keandalan dari kapasitas infrastruktur dan SLA tertulis.",
+      "sourcing_note": "Tidak melibatkan fasilitas atau branding PGN Gagas secara langsung — desain grafis orisinal. Desainer mengeksekusi dari brief ini. Tidak diperlukan foto asli; seluruh elemen adalah ikon dan tipografi flat.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "body — setelah tabel standar di H2 'Standar & Sertifikasi Keselamatan yang Wajib Dipenuhi Penyedia CNG'",
+      "concept_from_writer": "Diagram matriks tiga kolom membandingkan 'Standar Operasi Distribusi' (ISO 45001, Permen ESDM 32/2021, Kepmen ESDM 176/2024) versus 'Standar Peralatan Kendaraan' (ISO 11439, ECE R110, SNI 7407), dengan panah memisahkan keduanya dan label 'Yang dinilai pembeli industri ada di kolom kiri'. Kode warna hijau untuk operasi, abu-abu untuk kendaraan. Teks Bahasa Indonesia, gaya flat korporat.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Pesan inti adalah pemisahan dua kelompok standar yang sering dicampur aduk: diagram matriks dengan dua jalur warna dan pemisah visual yang tegas jauh lebih efektif dari teks datar untuk mencegah kesalahpahaman pembeli.",
+      "visual_direction": "Format landscape (rasio 16:9 atau 3:2), latar putih. Judul di atas: 'Standar CNG: Mana yang Relevan untuk Evaluasi Penyedia Distribusi?' dalam font bold biru tua. Layout tiga kolom dengan label kolom di baris pertama: kolom 1 'Standar / Regulasi', kolom 2 'Standar Operasi Distribusi', kolom 3 'Standar Peralatan Kendaraan'. PENTING — PEMISAHAN WARNA: Kolom 2 (Standar Operasi Distribusi) diberi latar hijau muda (#E8F5E9) dengan border kiri garis tebal hijau (#2E8B57). Kolom 3 (Standar Peralatan Kendaraan) diberi latar abu-abu terang (#F5F5F5) dengan border kiri garis tipis abu (#BDBDBD). Baris isi kolom 2 (hijau): 'ISO 45001:2018 — Sistem manajemen K3 operasional distribusi', 'Permen ESDM 32/2021 — Inspeksi teknis instalasi migas', 'Kepmen ESDM 176.K/2024 (SMKM) — Penilaian keselamatan migas terintegrasi'. Baris isi kolom 3 (abu-abu): 'ISO 11439 — Silinder tekanan tinggi di kendaraan bermotor (NGV)', 'ECE R110 / UN R110 — Komponen sistem CNG/LNG di kendaraan', 'SNI 7407:2009 — Uji tabung CNG untuk kendaraan bermotor'. Di antara kolom 2 dan 3, garis vertikal tebal biru tua dengan ikon panah kiri (menunjuk ke kolom 2) dan label vertikal berwarna biru: 'Yang dinilai pembeli industri ada di sini'. Di bawah kolom 3, catatan kecil miring abu-abu: 'Berlaku untuk evaluasi kendaraan/armada GTM — bukan untuk menilai layanan distribusi industri.' Semua teks Bahasa Indonesia. Tidak ada branding vendor di dalam diagram.",
+      "in_image_text_id": [
+        "Standar CNG: Mana yang Relevan untuk Evaluasi Penyedia Distribusi?",
+        "Standar / Regulasi",
+        "Standar Operasi Distribusi",
+        "Standar Peralatan Kendaraan",
+        "ISO 45001:2018 — Sistem manajemen K3 operasional distribusi",
+        "Permen ESDM 32/2021 — Inspeksi teknis instalasi migas",
+        "Kepmen ESDM 176.K/2024 (SMKM) — Penilaian keselamatan migas terintegrasi",
+        "ISO 11439 — Silinder tekanan tinggi di kendaraan bermotor (NGV)",
+        "ECE R110 / UN R110 — Komponen sistem CNG/LNG di kendaraan",
+        "SNI 7407:2009 — Uji tabung CNG untuk kendaraan bermotor",
+        "Yang dinilai pembeli industri ada di sini",
+        "Berlaku untuk evaluasi kendaraan/armada GTM — bukan untuk menilai layanan distribusi industri."
+      ],
+      "alt_id": "Diagram standar CNG: hijau distribusi (ISO 45001, Permen ESDM 32/2021) vs abu-abu kendaraan (ISO 11439, ECE R110, SNI 7407).",
+      "caption_id": "ISO 11439 dan ECE R110 mengatur tabung serta komponen di kendaraan bermotor — bukan operasional distribusi di pabrik Anda. Standar yang relevan untuk menilai penyedia distribusi CNG ada di kolom hijau: ISO 45001:2018 dan Permen ESDM 32/2021.",
+      "sourcing_note": "Murni diagram data — tidak ada foto fasilitas atau branding perusahaan. Desainer membuat dari nol berdasarkan brief ini. Pastikan kolom hijau (distribusi) dan kolom abu-abu (kendaraan) terpisah secara visual dengan tegas sehingga tidak ada ambiguitas lingkup standar.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_03",
+      "position": "body — setelah daftar empat klaim di H2 'Klaim Keamanan yang Sebaiknya Anda Tanyakan Lebih Dalam'",
+      "concept_from_writer": "Ilustrasi checklist 'Empat klaim yang harus ditanyakan lebih dalam' — empat kartu vertikal, masing-masing dengan ikon (sertifikat dengan tanda tanya, jam dengan tanda seru, truk dengan jalur cadangan, meteran pintar), judul singkat, dan satu pertanyaan kunci di bawahnya. Gaya flat korporat, palet biru tua dan aksen oranye untuk peringatan, teks Bahasa Indonesia.",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Konten adalah daftar empat peringatan tindakan (bukan data kuantitatif dan bukan alur proses), sehingga format kartu checklist infografik lebih tepat dari chart atau diagram; aksen oranye peringatan memperkuat sinyal 'hati-hati' yang menjadi pesan H2 ini.",
+      "visual_direction": "Format landscape (rasio 16:9), latar biru tua sangat gelap (#001A33) atau biru navy sebagai latar penuh untuk memberi kontras. Judul di bagian atas: 'Empat Klaim yang Harus Ditanyakan Lebih Dalam' dalam font bold putih, subheader kecil abu-abu terang: 'Sebelum menandatangani kontrak dengan penyedia CNG'. Empat kartu persegi panjang berjajar horizontal (atau 2x2 jika portrait), masing-masing dengan latar biru medium (#003366) dan border atas garis tebal oranye peringatan (#FF6B00). Kartu 1 — ikon: sertifikat dengan tanda tanya oranye di pojok; judul bold putih: 'Sertifikat Salah Lingkup'; pertanyaan kunci teks putih kecil: 'Apakah ruang lingkup ISO 45001-nya mencakup distribusi CNG, bukan sekadar logo di brosur?'. Kartu 2 — ikon: jam dinding dengan tanda seru oranye; judul: 'Layanan 24 Jam Tanpa SLA Nyata'; pertanyaan: 'Ada tim penanganan gangguan yang benar-benar bersiaga, dan ada SLA tertulis dengan target respons?'. Kartu 3 — ikon: truk GTM dengan tanda cabang jalur alternatif; judul: 'Tanpa Rencana Cadangan GTM'; pertanyaan: 'Apa yang terjadi jika truk ke pabrik kami mogok pukul dua pagi?'. Kartu 4 — ikon: meteran pintar dengan layar digital; judul: 'Penagihan Estimasi Tanpa Telemetri'; pertanyaan: 'Tagihan berdasarkan konsumsi aktual smart meter, atau sekadar perkiraan?'. Di bawah keempat kartu, footer satu baris putih kecil: 'Penyedia yang andal menjawab keempat pertanyaan ini dengan dokumen, bukan janji.' Semua teks Bahasa Indonesia.",
+      "in_image_text_id": [
+        "Empat Klaim yang Harus Ditanyakan Lebih Dalam",
+        "Sebelum menandatangani kontrak dengan penyedia CNG",
+        "Sertifikat Salah Lingkup",
+        "Apakah ruang lingkup ISO 45001-nya mencakup distribusi CNG, bukan sekadar logo di brosur?",
+        "Layanan 24 Jam Tanpa SLA Nyata",
+        "Ada tim penanganan gangguan yang benar-benar bersiaga, dan ada SLA tertulis dengan target respons?",
+        "Tanpa Rencana Cadangan GTM",
+        "Apa yang terjadi jika truk ke pabrik kami mogok pukul dua pagi?",
+        "Penagihan Estimasi Tanpa Telemetri",
+        "Tagihan berdasarkan konsumsi aktual smart meter, atau sekadar perkiraan?",
+        "Penyedia yang andal menjawab keempat pertanyaan ini dengan dokumen, bukan janji."
+      ],
+      "alt_id": "Infografik empat kartu peringatan klaim penyedia CNG: sertifikat, SLA layanan 24 jam, cadangan GTM, dan telemetri penagihan.",
+      "caption_id": "Klaim keamanan yang samar justru patut dicurigai. Empat pertanyaan ini membantu pembeli membedakan penyedia yang benar-benar siap dari yang hanya berjanji di brosur.",
+      "sourcing_note": "Murni ilustrasi infografik — tidak melibatkan foto fasilitas, kendaraan, atau branding PGN Gagas. Desainer membuat kartu dan ikon dari nol. Jika diinginkan foto latar yang blur (pabrik industri gelap / panel kontrol energi), cari stock photo dengan kata kunci: 'industrial control room dark', 'factory night shift safety', 'energy facility operator' — pastikan vendor-neutral, tidak ada logo kompetitor.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

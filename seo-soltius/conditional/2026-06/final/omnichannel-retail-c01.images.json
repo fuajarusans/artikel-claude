@@ -1,0 +1,84 @@
+{
+  "brief_id": "omnichannel-retail-c01",
+  "article_title_id": "Apa Itu Omnichannel Retail dan Cara Menerapkannya",
+  "language": "id",
+  "image_count": 3,
+  "planned_at": "2026-06-17",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "hero — setelah paragraf roadmap, sebelum H2 pertama",
+      "concept_from_writer": "Diagram perbandingan dua kolom — kiri \"Multichannel\" dengan ikon toko, website, dan marketplace sebagai tiga lingkaran terpisah tanpa garis penghubung (silo, warna abu); kanan \"Omnichannel\" dengan ketiga kanal yang sama terhubung ke satu lapisan data terpusat di tengah lewat panah dua arah (warna biru-hijau). Gaya flat design korporat, teks Bahasa Indonesia.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Perbedaan multichannel vs omnichannel adalah argumen inti artikel; diagram dua kolom menyampaikan kontras data-silo vs data-terpadu lebih cepat dan tepat daripada foto stok apa pun.",
+      "visual_direction": "Kanvas horizontal berukuran 16:9, latar putih bersih. Dibagi dua kolom setara dengan garis pemisah vertikal tipis abu-abu di tengah. KOLOM KIRI — judul: 'Multichannel' (teks tebal, abu-abu gelap #4A4A4A). Di bawahnya tiga ikon kanal: ikon toko fisik (bangunan), ikon website (monitor/browser), ikon marketplace (kantong belanja) — masing-masing di dalam lingkaran abu-abu muda (#D9D9D9), tersusun melingkar satu sama lain. Tidak ada garis penghubung antar lingkaran. Di bawah setiap ikon: label teks kecil ('Toko Fisik', 'Website', 'Marketplace'). Di bawah ketiga ikon: label italic kecil berwarna abu 'Data terpisah per kanal'. KOLOM KANAN — judul: 'Omnichannel' (teks tebal, biru korporat #0057A8). Tiga ikon kanal yang sama (toko fisik, website, marketplace) disusun di bagian atas/tepi — masing-masing dalam lingkaran biru muda (#E8F1FC). Di tengah kolom: satu kotak/persegi-panjang membulat berlatar biru korporat (#0057A8) dengan teks putih 'Data Terpusat (ERP / Sistem Inti)'. Dari setiap ikon kanal mengarah panah dua arah (warna biru #0057A8) ke kotak pusat. Di bawah diagram kanan: label italic kecil 'Satu sumber data untuk semua kanal'. Tipografi: sans-serif modern (mis. Inter atau Source Sans Pro), semua teks Bahasa Indonesia. Gaya keseluruhan: flat design korporat, bersih, tidak ada gradien berlebihan. Tidak ada teks bahasa Inggris di dalam gambar.",
+      "in_image_text_id": [
+        "Multichannel",
+        "Omnichannel",
+        "Toko Fisik",
+        "Website",
+        "Marketplace",
+        "Data terpisah per kanal",
+        "Data Terpusat (ERP / Sistem Inti)",
+        "Satu sumber data untuk semua kanal"
+      ],
+      "alt_id": "Diagram perbandingan multichannel vs omnichannel: kiri menampilkan tiga kanal silo tanpa koneksi, kanan menampilkan kanal terhubung ke satu data terpusat",
+      "caption_id": "Perbedaan utama multichannel dan omnichannel bukan jumlah kanal, melainkan apakah data stok, harga, dan pelanggan mengalir dalam satu sumber yang sama. Di model omnichannel, semua kanal dihubungkan ke satu lapisan data terpusat — biasanya ERP sebagai tulang punggungnya.",
+      "sourcing_note": "Dibuat dari awal oleh tim desain — tidak butuh screenshot SAP. Cari referensi gaya: 'multichannel vs omnichannel diagram flat design corporate blue'. Pastikan semua label teks menggunakan Bahasa Indonesia sesuai daftar in_image_text_id di atas.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "mid-artikel — di akhir H2 'Cara Menerapkan Strategi Omnichannel: 5 Langkah', setelah deskripsi langkah ke-4 tentang BOPIS",
+      "concept_from_writer": "Flowchart horizontal lima langkah BOPIS/click-and-collect — (1) Pelanggan beli online, (2) Sistem cek stok per-toko secara real-time, (3) Toko terima picking request, (4) Staf siapkan pesanan, (5) Pelanggan ambil di toko. Sorot langkah 2 dengan label \"Stok real-time dari sistem pusat (ERP)\" sebagai titik kritis. Gaya icon-based, warna brand biru-hijau, teks Bahasa Indonesia.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Alur BOPIS adalah proses operasional bertahap yang paling efektif divisualisasikan sebagai flowchart bernomor; membantu pembaca memahami di mana peran ERP sebagai titik kritis — substansi yang tidak bisa dibawa oleh foto stok.",
+      "visual_direction": "Flowchart horizontal berukuran 16:9 (atau 2:1), latar putih. Lima kotak/node berurutan dari kiri ke kanan, dihubungkan oleh panah arah kanan berwarna abu-abu gelap. Setiap node: lingkaran atau persegi membulat dengan nomor urut di pojok kiri atas (1–5), ikon di tengah, dan label teks di bawah ikon. Spesifikasi per node: (1) lingkaran biru muda #E8F1FC — ikon orang/smartphone dengan keranjang belanja — label: 'Pelanggan Beli Online'; (2) lingkaran biru korporat #0057A8 dengan border/highlight tebal kuning #F5A623 atau hijau teal #00857C sebagai penanda titik kritis — ikon database/server dengan tanda centang — label utama: 'Sistem Cek Stok per Toko' — label keterangan kecil di bawah (italic, merah kecil atau teal): 'Stok real-time dari sistem pusat (ERP)'; (3) lingkaran biru muda — ikon toko/bangunan dengan notifikasi — label: 'Toko Terima Picking Request'; (4) lingkaran biru muda — ikon orang/staf memegang kotak — label: 'Staf Siapkan Pesanan'; (5) lingkaran biru muda — ikon orang mengambil kotak di toko — label: 'Pelanggan Ambil di Toko'. Di bawah node (2), tambahkan catatan kecil dalam kotak tooltip bertanda bintang atau tanda seru: 'Titik kritis: tanpa sinkronisasi stok real-time, BOPIS rentan gagal'. Tipografi sans-serif, semua teks Bahasa Indonesia. Gaya flat/icon-based, palet biru korporat (#0057A8) dengan aksen teal (#00857C) untuk node kritis.",
+      "in_image_text_id": [
+        "Alur BOPIS / Click-and-Collect",
+        "Pelanggan Beli Online",
+        "Sistem Cek Stok per Toko",
+        "Stok real-time dari sistem pusat (ERP)",
+        "Toko Terima Picking Request",
+        "Staf Siapkan Pesanan",
+        "Pelanggan Ambil di Toko",
+        "Titik kritis: tanpa sinkronisasi stok real-time, BOPIS rentan gagal"
+      ],
+      "alt_id": "Flowchart lima langkah alur BOPIS: pelanggan beli online, sistem cek stok real-time dari ERP, toko terima picking request, staf siapkan pesanan, pelanggan ambil di toko",
+      "caption_id": "Alur BOPIS (Buy Online, Pick-Up In Store) terlihat sederhana di permukaan, tetapi bergantung sepenuhnya pada langkah kedua: sinkronisasi stok per lokasi toko secara real-time dari sistem pusat. Tanpa ERP sebagai sumber tunggal data stok, pelanggan berisiko datang ke toko untuk mengambil barang yang sudah tidak ada.",
+      "sourcing_note": "Dibuat dari awal oleh tim desain — tidak butuh screenshot SAP. Referensi gaya: 'BOPIS flowchart icon-based corporate blue'. Alur 5 langkah dan label teks sudah ditentukan lengkap di atas; pastikan node (2) divisualisasikan dengan penekanan visual yang jelas sebagai titik kritis.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_03",
+      "position": "mid-bawah artikel — di dalam atau setelah H2 'Kapan Bisnis Anda BELUM Perlu Omnichannel Penuh', sebelum FAQ",
+      "concept_from_writer": "Diagram arsitektur berlapis (layered) bergaya enterprise-IT — lapisan atas \"Kanal\" (toko fisik, website, marketplace, media sosial), lapisan tengah \"Data pesanan & pelanggan\", lapisan inti \"ERP / Sistem Inti: SAP S/4HANA Retail — stok, harga, keuangan\", lapisan bawah \"WMS / Gudang & Pemenuhan\". Semua kanal di atas terhubung ke satu lapisan ERP di tengah. Bersih, B2B, warna biru korporat, teks Bahasa Indonesia.",
+      "suggested_asset_type": "diagram",
+      "asset_type_rationale": "Arsitektur sistem empat lapisan (kanal → order data → ERP → WMS) adalah visualisasi teknis kunci artikel ini; diagram berlapis enterprise-IT menyampaikan hierarki integrasi yang tidak bisa disampaikan oleh foto stok maupun infografis teks.",
+      "visual_direction": "Diagram arsitektur vertikal berlapis (stacked layers), orientasi portrait atau landscape 4:3, latar putih atau abu sangat muda (#F5F5F5). Empat lapisan tersusun dari atas ke bawah, masing-masing sebagai strip/band horizontal dengan warna berbeda dan ikon di dalamnya. Koneksi antar lapisan ditunjukkan dengan panah vertikal dua arah di sisi kiri atau kanan diagram. LAPISAN 1 (ATAS) — band biru muda #C8DCEF — judul di kiri: 'Lapisan Kanal' — di dalam band: empat ikon kecil berjajar horizontal: ikon toko fisik (label: 'Toko Fisik'), ikon browser/website (label: 'Website'), ikon kantong belanja (label: 'Marketplace'), ikon media sosial/speech bubble (label: 'Media Sosial'). LAPISAN 2 — band abu-abu muda #E8E8E8 — judul di kiri: 'Data Pesanan & Pelanggan' — di dalam band: ikon dokumen pesanan dan ikon profil pelanggan, label: 'Orkestrasi Pesanan & Data Pelanggan'. LAPISAN 3 (INTi / CORE) — band biru korporat #0057A8 dengan teks putih — judul di kiri (putih, tebal): 'ERP / Sistem Inti' — di dalam band: nama produk 'SAP S/4HANA Retail' (teks putih tebal) dengan tiga sub-label kecil di bawahnya: 'Stok', 'Harga', 'Keuangan'. Border/outline band ini lebih tebal (2px) dibanding lapisan lain untuk menunjukkan posisinya sebagai inti. LAPISAN 4 (BAWAH) — band teal #006D7A atau abu gelap #4A6070 dengan teks putih — judul di kiri: 'Gudang & Pemenuhan' — di dalam band: ikon gudang dan ikon forklift/kotak, label: 'WMS / Manajemen Gudang'. Panah dua arah vertikal di antara setiap lapisan berwarna abu-abu gelap #555555. Di bawah diagram, tambahkan catatan kecil: 'Semua kanal terhubung ke satu sumber data (lapisan ERP) — bukan ke sistem terpisah.' Tipografi sans-serif, semua teks Bahasa Indonesia. Gaya: bersih, enterprise-IT, tidak dekoratif.",
+      "in_image_text_id": [
+        "Arsitektur Sistem Omnichannel Retail",
+        "Lapisan Kanal",
+        "Toko Fisik",
+        "Website",
+        "Marketplace",
+        "Media Sosial",
+        "Data Pesanan & Pelanggan",
+        "Orkestrasi Pesanan & Data Pelanggan",
+        "ERP / Sistem Inti",
+        "SAP S/4HANA Retail",
+        "Stok",
+        "Harga",
+        "Keuangan",
+        "Gudang & Pemenuhan",
+        "WMS / Manajemen Gudang",
+        "Semua kanal terhubung ke satu sumber data (lapisan ERP) — bukan ke sistem terpisah."
+      ],
+      "alt_id": "Diagram arsitektur empat lapisan sistem omnichannel retail: lapisan kanal di atas, data pesanan, ERP SAP S/4HANA Retail sebagai inti, dan WMS di bawah",
+      "caption_id": "Omnichannel retail yang fungsional membutuhkan empat lapisan sistem yang terintegrasi: kanal di permukaan, orkestrasi pesanan di tengah, ERP sebagai sumber tunggal data stok dan keuangan, serta WMS di fondasi. Bila salah satu lapisan tidak terhubung ke ERP, celah di back-office akan muncul sebagai masalah di depan pelanggan.",
+      "sourcing_note": "Dibuat dari awal oleh tim desain — tidak butuh screenshot SAP. Nama produk 'SAP S/4HANA Retail' boleh dicantumkan sebagai label teks (bukan tangkapan layar UI SAP). Referensi gaya: 'enterprise IT architecture layered diagram corporate blue'. Pastikan lapisan ERP divisualisasikan lebih menonjol (band lebih tebal atau warna lebih kuat) dibanding lapisan lain untuk mencerminkan posisinya sebagai sistem inti.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

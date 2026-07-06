@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-06\\final\\sap-clean-core-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-03T01:13:10+07:00",
+    "word_count":  1671,
+    "paragraph_count":  32,
+    "sentence_count":  94,
+    "ai_detector":  {
+                        "score":  0.15,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.518,
+                        "sentence_burstiness":  1.455,
+                        "top30_vocab_share":  0.343,
+                        "flags":  [
+                                      {
+                                          "pattern":  "em-dash-overuse",
+                                          "severity":  "medium",
+                                          "snippet":  "Em-dashes count: 5 (max 2)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "**Langkah 1: Kumpulkan data input.** Jalankan **SAP Readiness Check** (gratis, via SAP Launchpad) untuk Extensibility.",
+                                      "candidate_score":  27,
+                                      "web_search_query":  "\"**Langkah 1: Kumpulkan data input.** Jalankan **SAP Readiness Check** (gratis, via SAP Launchpad) untuk Extensibility.\""
+                                  },
+                                  {
+                                      "passage":  "Lima dimensi: (1) **Extensibility**, (2) **Integrations**, (3) **Processes**, (4) **Data**, (5) **Operations**.",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"Lima dimensi: (1) **Extensibility**, (2) **Integrations**, (3) **Processes**, (4) **Data**, (5) **Operations**.\""
+                                  },
+                                  {
+                                      "passage":  "Level A (ABAP Cloud/released APIs, sepenuhnya *upgrade-safe*), Level B (documented APIs, umumnya stabil), Level C (internal objects, diterima sementara), Level D (modifikasi langsung, risiko upgrade tertinggi).",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Level A (ABAP Cloud/released APIs, sepenuhnya *upgrade-safe*), Level B (documented APIs, umumnya stabil), Level C (inter\""
+                                  },
+                                  {
+                                      "passage":  "Extended support tersedia hingga 31 Desember 2030 (dengan tambahan biaya sekitar 2%).",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Extended support tersedia hingga 31 Desember 2030 (dengan tambahan biaya sekitar 2%).\""
+                                  },
+                                  {
+                                      "passage":  "Pelanggan RISE with SAP mendapat jalur lebih mudah: *Clean Core Extensibility KPIs* tersedia langsung di RISE Dashboard tanpa perlu menjalankan Readiness Check manual.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Pelanggan RISE with SAP mendapat jalur lebih mudah: *Clean Core Extensibility KPIs* tersedia langsung di RISE Dashboard \""
+                                  },
+                                  {
+                                      "passage":  "**SAP Readiness Check** (via SAP Launchpad) menganalisis kode kustom dan mengidentifikasi *incompatible objects*.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"**SAP Readiness Check** (via SAP Launchpad) menganalisis kode kustom dan mengidentifikasi *incompatible objects*.\""
+                                  },
+                                  {
+                                      "passage":  "Opsi transisi hingga 2033 tersedia, tapi hanya untuk pelanggan yang berkomitmen ke RISE with SAP dengan database HANA, dan pembeliannya baru tersedia mulai 2028 (Forrester, Januari 2025).",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"Opsi transisi hingga 2033 tersedia, tapi hanya untuk pelanggan yang berkomitmen ke RISE with SAP dengan database HANA, d\""
+                                  },
+                                  {
+                                      "passage":  "**Langkah 3: Baca pola, bukan rata-rata.** Skor agregat kurang berguna tanpa konteks.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"**Langkah 3: Baca pola, bukan rata-rata.** Skor agregat kurang berguna tanpa konteks.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

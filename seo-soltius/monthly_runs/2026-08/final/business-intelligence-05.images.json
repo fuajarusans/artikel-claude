@@ -1,0 +1,92 @@
+{
+  "brief_id": "business-intelligence-05",
+  "article_title_id": "ROI Business Intelligence: Cara Menyusun dan Mengukur Nilai Investasinya",
+  "language": "id",
+  "image_count": 3,
+  "planned_at": "2026-06-08",
+  "generation": "none — design team executes from this brief",
+  "images": [
+    {
+      "marker": "IMAGE_01",
+      "position": "after-lead / before-first-H2",
+      "concept_from_writer": "Diagram stacked bar horizontal proporsi komponen biaya TCO Business Intelligence — segmen Lisensi, Implementasi & Konsultasi, Integrasi & Data Preparation (paling lebar, diberi highlight), Infrastruktur, Pelatihan, dan AMS. Tujuan visual: harga lisensi bukan satu-satunya biaya. Gaya infografik korporat biru-putih, label persentase kisaran, teks Bahasa Indonesia",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Infografik stacked bar horizontal paling tepat untuk membandingkan proporsi relatif enam komponen biaya sekaligus menekankan bahwa satu segmen (Integrasi & Data Prep) jauh lebih besar dari asumsi umum — pesan yang tidak dapat disampaikan foto atau ilustrasi abstrak.",
+      "visual_direction": "Infografik stacked bar horizontal tunggal dengan latar putih bersih. Satu batang penuh mewakili 100% TCO 3 tahun, dibagi enam segmen berwarna dari kiri ke kanan: (1) Lisensi/Langganan — biru tua (#0A2E6E), label '10–20%'; (2) Implementasi & Konsultasi — biru medium (#1B5EA6), label '20–30%'; (3) Integrasi & Data Preparation — aksen oranye/amber (#E8830A) dengan outline tebal atau border berkilau sebagai highlight utama, label '30–50% (tersembunyi terbesar)'; (4) Infrastruktur — biru muda (#4A90D9), label '5–10%'; (5) Pelatihan & Change Management — abu-biru (#6B8EB5), label '5–10%'; (6) AMS/Dukungan Berjalan — biru terang (#7DC4E8), label '10–15%'. Di bawah batang: keterangan persentase masing-masing segmen dengan nama komponen dalam Bahasa Indonesia. Judul di atas: 'Komponen Biaya TCO Business Intelligence (3 Tahun)'. Keterangan kecil di bawah: 'Kisaran industri; bukan angka pasti — setiap proyek bervariasi.' Font sans-serif modern, semua teks Bahasa Indonesia. Catatan callout kecil menunjuk segmen oranye: 'Sering diremehkan dalam proposal awal'. Dimensi ideal 1200 × 480 px (landscape).",
+      "in_image_text_id": [
+        "Komponen Biaya TCO Business Intelligence (3 Tahun)",
+        "Lisensi / Langganan",
+        "Implementasi & Konsultasi",
+        "Integrasi & Data Preparation",
+        "Infrastruktur",
+        "Pelatihan & Change Management",
+        "AMS / Dukungan Berjalan",
+        "Sering diremehkan dalam proposal awal",
+        "Kisaran industri; bukan angka pasti — setiap proyek bervariasi"
+      ],
+      "alt_id": "Infografik stacked bar proporsi biaya TCO Business Intelligence: Integrasi & Data Preparation adalah komponen terbesar (30–50%)",
+      "caption_id": "Komponen biaya TCO Business Intelligence dalam tiga tahun pertama. Integrasi dan persiapan data — bukan lisensi — adalah pengeluaran tersembunyi terbesar, mengonsumsi 30–50% dari total anggaran proyek menurut penelitian industri.",
+      "sourcing_note": "Infografik orisinal — desainer membuat dari data kisaran yang tersedia di artikel dan dossier (50–80% untuk data preparation dari Crozdesk/integrate.io). Tidak memerlukan screenshot SAP. Pastikan label persentase menggunakan kisaran (bukan angka tunggal) dan disertai catatan 'kisaran industri' agar tidak diklaim sebagai angka eksak.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_02",
+      "position": "after-tabel-manfaat-tangible-vs-intangible / dalam-H2-Manfaat-yang-Bisa-Diukur",
+      "concept_from_writer": "Infografik dua kolom 'Manfaat Tangible vs Intangible BI' — kolom kiri (tangible) dengan ikon: jam yang dihemat, DSO turun, stok mati turun; kolom kanan (intangible) dengan ikon kecepatan keputusan dan keunggulan kompetitif, masing-masing disertai label cara memberi proxy angka. Gaya bersih, ikon per item, teks Bahasa Indonesia",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Infografik dua kolom paling efektif untuk membedakan dua kategori manfaat secara visual dan menunjukkan metode proxy angka bagi manfaat intangible — isi yang terlalu padat untuk tabel Markdown saja dan terlalu konseptual untuk foto.",
+      "visual_direction": "Infografik dua kolom berdampingan dengan latar putih, dibatasi garis vertikal tipis di tengah. KOLOM KIRI — judul 'Manfaat Tangible' dengan latar header biru tua (#0A2E6E, teks putih). Tiga baris masing-masing berisi: (a) ikon jam analog (hemat waktu) + teks 'Penghematan jam rekap laporan' + keterangan kecil 'Proxy: jam/bulan × tarif karyawan'; (b) ikon panah turun pada grafik DSO + teks 'Penurunan Days Sales Outstanding (DSO)' + keterangan 'Proxy: hari DSO berkurang × rata-rata penjualan harian'; (c) ikon kotak/gudang dengan tanda silang + teks 'Pengurangan stok mati' + keterangan 'Proxy: % pengurangan × nilai rata-rata stok'. KOLOM KANAN — judul 'Manfaat Intangible' dengan latar header biru medium (#1B5EA6, teks putih). Dua baris: (a) ikon petir/kilat + teks 'Kecepatan & kualitas keputusan' + keterangan kecil 'Proxy: nilai keputusan × frekuensi × estimasi % perbaikan'; (b) ikon piala/grafik naik + teks 'Keunggulan kompetitif' + keterangan 'Pendekatan kualitatif + perbandingan kompetitor'. Di bawah setiap kolom: kotak callout tipis — kiri: 'Mulai dari sini: lebih mudah dipertahankan ke CFO'; kanan: 'Tetap bisa diberi angka dengan proxy yang transparan'. Ikon gaya flat/outline, palet biru-putih, semua teks Bahasa Indonesia. Dimensi ideal 1200 × 560 px.",
+      "in_image_text_id": [
+        "Manfaat Tangible",
+        "Manfaat Intangible",
+        "Penghematan jam rekap laporan",
+        "Proxy: jam/bulan × tarif karyawan",
+        "Penurunan Days Sales Outstanding (DSO)",
+        "Proxy: hari DSO berkurang × rata-rata penjualan harian",
+        "Pengurangan stok mati",
+        "Proxy: % pengurangan × nilai rata-rata stok",
+        "Kecepatan & kualitas keputusan",
+        "Proxy: nilai keputusan × frekuensi × estimasi % perbaikan",
+        "Keunggulan kompetitif",
+        "Pendekatan kualitatif + perbandingan kompetitor",
+        "Mulai dari sini: lebih mudah dipertahankan ke CFO",
+        "Tetap bisa diberi angka dengan proxy yang transparan"
+      ],
+      "alt_id": "Infografik dua kolom manfaat tangible vs intangible Business Intelligence dengan contoh metode proxy angka untuk setiap kategori",
+      "caption_id": "Manfaat tangible BI — penghematan jam, penurunan DSO, pengurangan stok mati — lebih mudah dirupiahkan dan menjadi tulang punggung business case. Manfaat intangible seperti kecepatan keputusan tetap bisa diberi proxy angka agar masuk perhitungan dengan asumsi yang transparan.",
+      "sourcing_note": "Infografik orisinal berdasarkan tabel manfaat di artikel (tidak memerlukan data eksternal baru). Ikon gaya flat tersedia di sumber seperti Flaticon atau Noun Project (perhatikan lisensi). Tidak memerlukan screenshot SAP.",
+      "placeholder_kept_in_body": true
+    },
+    {
+      "marker": "IMAGE_03",
+      "position": "setelah-paragraf-5-langkah / dalam-H2-Cara-Menyusun-Business-Case-BI",
+      "concept_from_writer": "Infografik numbered tile 1–5 'Kerangka Menyusun Business Case BI' — tiap langkah berisi judul, satu kalimat penjelasan, dan satu output konkret (mis. langkah 2 → 'dokumen baseline'). Format timeline horizontal, sangat ramah di-screenshot, warna progresif, teks Bahasa Indonesia",
+      "suggested_asset_type": "infographic",
+      "asset_type_rationale": "Infografik numbered tile horizontal paling tepat untuk kerangka langkah-demi-langkah yang harus diingat — format yang mudah di-screenshot, disebarkan, dan diekstrak oleh AI Overview; jauh lebih berguna daripada bullet list atau foto generik.",
+      "visual_direction": "Infografik lima tile bernomor dalam satu baris horizontal (atau dua baris 3+2 jika ruang sempit), terhubung dengan panah kecil tipis antar-tile. Latar keseluruhan putih bersih. Setiap tile berukuran sama: sudut membulat, nomor besar di pojok kiri atas (lingkaran penuh berwarna progresif, lihat palet di bawah), judul langkah tebal di baris pertama, satu kalimat penjelasan di baris kedua (font lebih kecil, abu-gelap), label 'Output:' diikuti teks konkret (font italic atau berwarna aksen). Palet progresif tile 1→5: biru tua (#0A2E6E) → biru medium (#1B5EA6) → biru (#2E7DD1) → biru muda (#4A90D9) → hijau-biru teal (#2A9B8E). Detail per tile — TILE 1: nomor '1', judul 'Ikat ke Keputusan Bisnis Spesifik', penjelasan 'Pilih satu masalah berfrekuensi tinggi, bukan semua keputusan', output 'Pernyataan masalah tertulis'; TILE 2: nomor '2', judul 'Kuantifikasi Baseline Saat Ini', penjelasan 'Catat jam rekap, tingkat stok mati, DSO aktual', output 'Dokumen baseline terukur'; TILE 3: nomor '3', judul 'Estimasi TCO 3 Tahun', penjelasan 'Masukkan enam komponen biaya, termasuk tenaga kerja', output 'Spreadsheet TCO lengkap'; TILE 4: nomor '4', judul 'Proyeksikan Manfaat & Hitung ROI', penjelasan 'Nyatakan setiap asumsi secara eksplisit sebelum memasukkan angka', output 'ROI (%) + Payback Period (tahun)'; TILE 5: nomor '5', judul 'Tetapkan Metrik Value Realization', penjelasan 'Sepakati KPI yang diukur setelah go-live sebagai kontrak nilai', output 'Dashboard KPI pasca go-live'. Di bagian bawah tengah: kalimat kecil 'Tandai semua proyeksi sebagai estimasi dengan asumsi yang disebutkan.' Semua teks Bahasa Indonesia, font sans-serif modern. Dimensi ideal 1400 × 400 px (landscape) atau 700 × 700 px (dua baris).",
+      "in_image_text_id": [
+        "Kerangka Menyusun Business Case BI dalam 5 Langkah",
+        "1 — Ikat ke Keputusan Bisnis Spesifik",
+        "Pilih satu masalah berfrekuensi tinggi, bukan semua keputusan",
+        "Output: Pernyataan masalah tertulis",
+        "2 — Kuantifikasi Baseline Saat Ini",
+        "Catat jam rekap, tingkat stok mati, DSO aktual",
+        "Output: Dokumen baseline terukur",
+        "3 — Estimasi TCO 3 Tahun",
+        "Masukkan enam komponen biaya, termasuk tenaga kerja",
+        "Output: Spreadsheet TCO lengkap",
+        "4 — Proyeksikan Manfaat & Hitung ROI",
+        "Nyatakan setiap asumsi secara eksplisit sebelum memasukkan angka",
+        "Output: ROI (%) + Payback Period (tahun)",
+        "5 — Tetapkan Metrik Value Realization",
+        "Sepakati KPI yang diukur setelah go-live sebagai kontrak nilai",
+        "Output: Dashboard KPI pasca go-live",
+        "Tandai semua proyeksi sebagai estimasi dengan asumsi yang disebutkan."
+      ],
+      "alt_id": "Infografik 5 langkah kerangka menyusun business case Business Intelligence: dari identifikasi masalah hingga penetapan metrik value realization",
+      "caption_id": "Lima langkah menyusun business case BI yang dapat dipertahankan ke CFO. Kunci kejujurannya ada di langkah 2 (baseline aktual) dan langkah 4 (asumsi eksplisit) — tanpa keduanya, angka ROI di atas kertas tidak akan pernah terbukti di lapangan.",
+      "sourcing_note": "Infografik orisinal berdasarkan kerangka lima langkah di artikel. Tidak memerlukan screenshot SAP atau data eksternal. Desainer dapat membuat dari nol menggunakan tool seperti Figma atau Adobe Illustrator. Versi sederhana juga bisa dibuat di Canva Pro untuk turnaround cepat.",
+      "placeholder_kept_in_body": true
+    }
+  ]
+}

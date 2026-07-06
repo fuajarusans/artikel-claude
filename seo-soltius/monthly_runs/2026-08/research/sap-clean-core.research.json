@@ -1,0 +1,106 @@
+{
+  "keyword": "SAP Clean Core",
+  "keyword_slug": "sap-clean-core",
+  "month": "2026-08",
+  "captured_at": "2026-06-08",
+  "landing_page": "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide",
+  "landing_page_summary": "English-URL hub 'the complete guide' to SAP Clean Core. Live re-fetch (2026-06-08) confirms H2s: Understanding SAP Clean Core; 5 Dimensions of the Clean Core Strategy (extensibility, processes, data, integration, operations); Dissecting the Data Dimension; Business Benefits & Clean Core ROI; Implementation Steps: Greenfield vs Brownfield; The Ultimate Weapons in Your Transition Journey; Soltius as partner; FAQ. IMPORTANT: the hub ALREADY covers the executive business case/ROI AND already addresses clean-core misconceptions -> a ROI-pitch article and a myths article would cannibalize the hub and are therefore NOT chosen this month. The hub does NOT cover: AI/Joule readiness, SAP Integration Suite/API governance depth, ABAP Cloud developer how-to. Article bodies remain Bahasa Indonesia; anchor points to this English hub.",
+  "data_sources_used": ["seo_report_apr2026.md", "websearch", "live_serp_attempted_blocked", "hub_webfetch_fresh"],
+  "ahrefs_available": false,
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Active, accelerating topic into 2026. SAP formalized the A-D Clean Core Extensibility model + shipped clean-core compliance KPIs to the RISE with SAP Methodology Dashboard (SAP Cloud ALM) in Aug 2025. New 2026 driver: SAP Sapphire 2026 explicitly tied Business AI value to clean core ('AI value depends on readiness, data, and clean core'); Joule Studio (Q1 2026) and agentic AI assume standard processes + governed APIs. No ID-language volume figure without Ahrefs.",
+    "apr2026_rank": 100,
+    "rank_trajectory": "100 (Before) -> 100 (Feb) -> 100 (Mar) -> 100 (Apr). Never ranked. Biggest whitespace in the portfolio; English landing-page URL (no /id/). Priority this month: whitespace capture."
+  },
+  "serp": {
+    "google_id_scrape_status": "ERROR PAGE - WebFetch of google.com/search?q=sap+clean+core&hl=id&gl=id returned a Google error/retry page again (same server-side block seen in the 2026-07 run). Degraded gracefully to WebSearch for competitor angles + PAA, per CLAUDE.md guardrail. No fabricated SERP positions.",
+    "top_competitors_by_subtopic": [
+      { "subtopic": "AI/Joule readiness", "url": "https://erp.today/sap-sapphire-2026-ai-readiness-data-clean-core/", "title": "SAP Sapphire 2026: AI Value Depends on Readiness, Data, and Clean Core - ERP Today", "angle_summary": "SAP positions clean core + trusted data + standardized processes as the precondition for usable enterprise AI. English." },
+      { "subtopic": "AI/Joule readiness", "url": "https://www.innobu.com/en/articles/sap-joule-s4hana-rise-btp-clean-core", "title": "SAP Joule AI: Transform with S/4HANA, RISE, BTP & Clean Core - innobu", "angle_summary": "Joule/Business AI works best on a clean core; heavy Z-customization 'blinds' the AI. English." },
+      { "subtopic": "AI/Joule readiness", "url": "https://www.savictech.com/insights/sap-business-ai-q1-2026-joule-agents/", "title": "SAP Business AI Q1 2026: Joule and AI Agents Explained - SAVIC", "angle_summary": "Q1 2026 Joule + AI agents overview. English." },
+      { "subtopic": "Integration governance", "url": "https://ignitesap.com/sap-integration-strategy-in-the-age-of-clean-core-and-btp/", "title": "SAP Integration Strategy in the Age of Clean Core and BTP - IgniteSAP", "angle_summary": "API-first, event-driven integration with SAP Integration Suite as the spine; move off point-to-point/RFC. English." },
+      { "subtopic": "Integration governance", "url": "https://learning.sap.com/courses/managing-clean-core-for-SAP-Cloud-ERP/exploring-how-to-make-landscapes-core-compliant-1", "title": "Exploring How to Make Integrations Clean Core Compliant - SAP Learning", "angle_summary": "Official SAP teaching on making integrations clean-core compliant (released APIs vs RFC/BAPI). English." },
+      { "subtopic": "Integration governance", "url": "https://community.sap.com/t5/technology-blog-posts-by-sap/future-proofing-enterprise-agility-with-sap-integration-suite-and-clean/ba-p/14272078", "title": "Future-Proofing Enterprise Agility with SAP Integration Suite and Clean Core - SAP Community", "angle_summary": "Integration Suite + clean core principles. English." },
+      { "subtopic": "In-app / key-user extensibility", "url": "https://learning.sap.com/courses/implementing-sap-s-4hana-cloud-public-edition/introducing-the-key-user-in-app-extensibility-tools", "title": "Introducing the Key-User In-App Extensibility Tools - SAP Learning", "angle_summary": "Key-user (business-user) in-app extensibility: custom fields, custom logic via BAdI, UI adaptation - no BTP, no code. English." },
+      { "subtopic": "In-app / key-user extensibility", "url": "https://community.sap.com/t5/enterprise-resource-planning-blog-posts-by-sap/dos-and-don-ts-key-user-custom-fields-in-add-ons-based-on-sap-s-4hana-cloud/ba-p/14340833", "title": "Dos and Don'ts: Key User Custom Fields - SAP Community", "angle_summary": "Practical dos/don'ts for key-user custom fields, clean-core-safe. English." },
+      { "subtopic": "Choosing a partner / SI", "url": "https://www.kearney.com/service/digital-analytics/article/sap-s-4hana-rise-migration-finding-the-right-implementation-partner", "title": "SAP S/4HANA RISE migration: finding the right implementation partner - Kearney", "angle_summary": "How to choose an SI for S/4HANA RISE migration; partner-fit criteria. English." },
+      { "subtopic": "Choosing a partner / SI", "url": "https://www.copado.com/resources/blog/how-to-choose-your-sap-implementation-partners-for-s-4hana-migration-crt", "title": "How to Choose Your SAP Implementation Partners for S/4HANA Migration - Copado", "angle_summary": "Questions to ask an SI; clean-core/extensibility approach as an evaluation lens. English." },
+      { "subtopic": "Definitional (context for hub)", "url": "https://www.sap.com/resources/what-is-a-clean-core", "title": "What is a clean core? - SAP (official)", "angle_summary": "SAP canonical definition + 5 dimensions. English." }
+    ],
+    "serp_features": ["ai_overview_likely_for_definitional_queries", "paa", "featured_snippet_opportunity_table"],
+    "ai_overview_entities": ["clean core", "SAP S/4HANA", "SAP BTP", "ABAP Cloud", "released APIs", "Clean Core Extensibility Levels A-D", "SAP Integration Suite", "SAP Joule", "SAP Business AI", "key-user in-app extensibility", "RISE with SAP", "technical debt"],
+    "whitespace_note": "Every clean-core page found on AI-readiness, integration governance, key-user extensibility, and partner selection is ENGLISH. No Bahasa Indonesia article addresses any of these four angles. Open whitespace inside an already-whitespace keyword (#100). The hub itself already owns the ROI and misconceptions angles -> those are intentionally NOT chosen for supporting articles this month to avoid cannibalizing the hub."
+  },
+  "paa": [
+    "Apa itu clean core SAP?",
+    "Mengapa clean core penting untuk AI?",
+    "Apakah clean core syarat untuk menggunakan SAP Joule?",
+    "Apa itu SAP Joule?",
+    "Bagaimana cara mengintegrasikan SAP tanpa mengotori core?",
+    "Apa itu SAP Integration Suite?",
+    "Apa bedanya in-app extensibility dan side-by-side extensibility?",
+    "Apa itu key user extensibility di SAP S/4HANA?",
+    "Bisakah pengguna bisnis membuat custom field tanpa coding?",
+    "Bagaimana cara memilih partner implementasi SAP untuk clean core?",
+    "Apakah custom code akan hilang saat menerapkan clean core?",
+    "Apa pertanyaan yang harus diajukan ke system integrator SAP?",
+    "Apakah integrasi RFC/BAPI lama melanggar prinsip clean core?",
+    "Berapa lama proyek clean core S/4HANA?"
+  ],
+  "gsc_style_queries_from_report": [
+    "Report top organic queries skew definitional/branded (sap adalah, apa itu sap, sistem sap, modul sap) - confirms ID audience searches 'apa itu X' even for English-term concepts. No direct 'clean core' query row in the April GSC top-15 (keyword ranks #100).",
+    "AI-search referrals are material (174 sessions Apr; Perplexity ~68%, ChatGPT ~22%) and land on practical posts - strong case for GEO-optimized extractable answers. The AI/Joule angle (-01) doubles as topical glue for the AI-search channel itself."
+  ],
+  "verified_facts_for_writer": {
+    "clean_core_and_ai": "SAP's 2026 positioning (Sapphire 2026 via ERP Today; SAP Joule pages; innobu) is that enterprise AI value depends on AI readiness, trusted data, standardized processes, and a clean core. Rationale: Business AI / Joule features assume standard processes and governed (released) APIs; a core cluttered with Z-customizations and non-standard data 'blinds' the AI and limits which AI features apply. Joule Studio (GA-era 2026) lets teams build AI agents/apps that follow clean-core principles. VERIFY exact Joule Studio availability + naming and any quoted SAP statement before printing. Frame AI-uplift numbers as reported/illustrative.",
+    "integration_clean_core": "Clean-core integration = API-first + event-driven. Use released OData/SOAP APIs and events via SAP Integration Suite rather than direct DB calls, RFC, or unreleased BAPI, which create hidden coupling that breaks on upgrade. SAP Integration Suite (incl. API Management with 30+ policy types) is the integration spine; the SAP Business Accelerator Hub (formerly API Business Hub) provides discoverable, versioned API contracts. SAP Event Mesh / Advanced Event Mesh for event-driven decoupling. Source: SAP Learning 'Managing Clean Core for SAP Cloud ERP'; SAP Integration Suite docs; IgniteSAP. VERIFY current product names (Business Accelerator Hub; Event Mesh vs Advanced Event Mesh).",
+    "in_app_key_user_extensibility": "Key-user (in-app) extensibility lets BUSINESS users (key users), not developers, adapt S/4HANA inside the system, clean-core-safe: custom fields, UI adaptation (move/hide fields on Fiori), and custom logic via the 'Custom Fields and Logic' Fiori app implementing released BAdIs. No BTP, no ABAP project. Contrast with DEVELOPER extensibility (ABAP Cloud/RAP, broader/deeper) and SIDE-BY-SIDE (on BTP). SAP note: key-user custom-field scope is broader than developer-extensibility custom-field scope; developer-extensibility custom fields only for RAP-based apps. Adaptation transport via the standard adaptation transport organizer. Source: SAP Learning key-user in-app extensibility courses; SAP Community 'Dos and Don'ts: Key User Custom Fields'. This is DISTINCT from the existing -04 (side-by-side/BTP, developer/IT audience).",
+    "choosing_partner": "When evaluating an SI for a clean-core S/4HANA program, ask about: custom-code inventory + Keep/Refactor/Retire approach; fit-to-standard workshop discipline (resist re-customizing); extension strategy (in-app vs ABAP Cloud vs side-by-side on BTP via released APIs); integration approach (API-first vs RFC); 'get clean, stay clean' governance + CoE; relevant certifications/tier (e.g. SAP Platinum), AMS/post-go-live model, and local/industry track record. Source: Kearney; Copado; SAP Community migration-path guidance. Soltius fit is strong and HONEST here: SAP Platinum via United VARs, Certified AMC & AMS Partner (PCoE Indonesia), Best RISE/Best Cloud awards, since 1998 / Metrodata. Keep <=3 self-mentions; partner that implements/supports, never builds.",
+    "extensibility_levels_AD": "Four-level model (A-D) formalized Aug 2025. A: released APIs only (ABAP Cloud on-stack or side-by-side on BTP), fully upgrade-safe, target for new dev. B: classic ABAP using only officially provided APIs/frameworks - allowed when A cannot meet the need; needs governance. C: SAP internal/unclassified objects, not cloud-ready, upgrade risk, remediation roadmap. D: explicitly non-recommended (modifications, write access to SAP tables) - eliminate. Use only as supporting context here (it is the spine of -03 maturity and the July governance pilot); do NOT make any 2026-08 article center on the A-D model.",
+    "ecc_dates": "SAP ECC mainstream maintenance ends 31 Dec 2027; extended 2028-2030 with +2% surcharge; some on-prem options to 2033 with conditions (Forrester). VERIFY current SAP guidance before printing dates. Use sparingly as context, not as a centerpiece (the deadline angle is covered in the ERP-migration cluster).",
+    "roi_figures_seen": "Web sources cite 20-30% faster upgrades and 15-45% lower maintenance cost on a clean core; SAP TCO/ROI framing splits value across TCO reduction, productivity, and process improvement. NOTE: the hub already owns the ROI section, so these figures should appear in supporting articles only as light supporting context, never as the article's central thesis.",
+    "must_verify_by_researcher": [
+      "SAP Joule + Joule Studio current availability/naming for 2026 and any directly quotable SAP statement linking AI value to clean core (prefer SAP official / SAP News / Sapphire 2026 coverage).",
+      "Current names: SAP Business Accelerator Hub (was SAP API Business Hub); SAP Event Mesh vs SAP Integration Suite advanced event mesh.",
+      "Key-user 'Custom Fields and Logic' Fiori app name + that key-user custom-field scope exceeds developer-extensibility custom-field scope (SAP Learning).",
+      "Any reported AI-uplift / clean-core ROI figures -> label as reported/illustrative; do not present as guaranteed.",
+      "Soltius credentials wording (SAP Platinum via United VARs; Certified AMC & AMS Partner / PCoE Indonesia; Best RISE/Best Cloud) against company_profile.md - do not embellish."
+    ]
+  },
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      { "id": "2026-06-sap-clean-core-01", "angle": "apa-itu-clean-core-kesiapan-cloud", "intent": "informational", "subtopics": ["definisi clean core", "4 dimensi", "in-app vs side-by-side", "ABAP Cloud", "kesiapan cloud"] },
+      { "id": "2026-06-sap-clean-core-02", "angle": "remediasi-custom-code-abap-cloud", "intent": "how-to", "subtopics": ["Z-code audit", "ABAP Cloud", "Keep/Eliminate/Rebuild triase", "Custom Code Migration app", "ABAP Test Cockpit"] },
+      { "id": "2026-06-sap-clean-core-03", "angle": "clean-core-maturity-assessment-kerangka", "intent": "decision", "subtopics": ["maturity model", "5 dimensi penilaian", "self-assessment", "skor kesiapan", "extensibility levels A-D sebagai klasifikasi"] },
+      { "id": "2026-06-sap-clean-core-04", "angle": "side-by-side-extensibility-sap-btp-build", "intent": "informational", "subtopics": ["side-by-side extensibility", "in-app vs side-by-side (kontras)", "SAP Build", "SAP Integration Suite (sebut sekilas)", "kapan side-by-side bukan pilihan"] },
+      { "id": "2026-06-sap-clean-core-05", "angle": "clean-core-brownfield-vs-greenfield-migrasi", "intent": "comparison", "subtopics": ["brownfield vs greenfield", "selective data transition", "RISE with SAP", "nasib Z-code", "greenfield tidak otomatis bersih"] },
+      { "id": "2026-07-sap-clean-core-01", "angle": "clean-core-governance-pasca-go-live", "intent": "decision", "subtopics": ["governance operating model", "anti-drift pasca go-live", "ATC blocking + exemption log sebagai KPI", "SAP Cloud ALM compliance cadence", "transport governance", "CoE ownership", "quarterly health review"] }
+    ],
+    "taken_angles_do_not_repeat": [
+      "definisi clean core / kesiapan cloud (June -01)",
+      "remediasi custom Z-code -> ABAP Cloud (June -02)",
+      "clean-core maturity assessment / scoring (June -03)",
+      "side-by-side extensibility di BTP, developer/IT framing (June -04)",
+      "brownfield vs greenfield (June -05)",
+      "tata kelola/governance clean core PASCA GO-LIVE incl. Cloud ALM KPIs, ATC blocking, transport governance, CoE, A-D as monitoring (July pilot -01)"
+    ],
+    "selected_angles_2026_08": [
+      { "brief": "sap-clean-core-01", "angle": "clean-core-fondasi-ai-joule-business-ai", "intent": "informational", "why_distinct": "Net-new topic (Business AI / Joule / agentic AI readiness). No prior article touches AI. Shares only base entities (clean core, S/4HANA, BTP). Jaccard ~0.05. Timely 2026 driver (Sapphire 2026, Joule Studio). Doubles as topical glue for the AI-search referral channel." },
+      { "brief": "sap-clean-core-02", "angle": "clean-core-integrasi-api-first-integration-suite", "intent": "how-to", "why_distinct": "Integration DIMENSION deep-dive (API-first vs point-to-point/RFC, Integration Suite as spine, event-driven, Business Accelerator Hub). Hub does NOT cover integration depth; -04 only mentioned Integration Suite in passing for side-by-side. Jaccard vs -04 ~0.12." },
+      { "brief": "sap-clean-core-03", "angle": "in-app-key-user-extensibility-pengguna-bisnis", "intent": "informational", "why_distinct": "Key-user / in-app extensibility for BUSINESS users (custom fields, UI adaptation, custom logic via BAdI, NO BTP/no code). Different audience and tools from -04 (side-by-side/BTP, developer/IT). Framed as 'business-user empowerment', not the side-by-side architecture. Jaccard vs -04 ~0.15." },
+      { "brief": "sap-clean-core-04", "angle": "memilih-partner-si-clean-core", "intent": "decision", "why_distinct": "Bottom-of-funnel SI/partner-evaluation checklist for a clean-core program (questions to ask, fit-to-standard discipline, get-clean/stay-clean, red flags). Zero subtopic overlap with any prior article. Jaccard ~0.0. Strongest natural Soltius fit." }
+    ],
+    "rejected_or_deferred": [
+      "Business case / ROI for executives -> REJECTED: hub already owns 'Business Benefits & Clean Core ROI' H2; supporting article would cannibalize the hub.",
+      "Myths / misconceptions -> REJECTED: hub already addresses misconceptions; most duplicative, weakest pick.",
+      "KPIs / metrics & reporting -> REJECTED: overlaps the July governance pilot (Cloud ALM KPIs, exemption log, A-D monitoring); Jaccard would exceed 0.4.",
+      "ABAP Cloud developer practical guide (RAP/wrapper) -> DEFERRED: strong & distinct but narrow developer audience and partial ABAP-Cloud overlap with -02; save for a future month.",
+      "Clean core per industry (retail/banking/manufaktur) -> DEFERRED: viable, thinner evidence; save for later.",
+      "Clean core effort/cost estimation -> DEFERRED: flagged for the remediation sibling (-02)."
+    ],
+    "produced_count": 4,
+    "shortfall_flag": "None. Four genuinely distinct, well-evidenced angles produced; all clear angle_hash uniqueness + subtopic Jaccard < 0.4 against the 5 June articles and the July governance pilot."
+  }
+}

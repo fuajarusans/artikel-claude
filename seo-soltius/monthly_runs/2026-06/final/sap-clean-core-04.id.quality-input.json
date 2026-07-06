@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-06\\final\\sap-clean-core-04.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-03T01:15:18+07:00",
+    "word_count":  1613,
+    "paragraph_count":  26,
+    "sentence_count":  79,
+    "ai_detector":  {
+                        "score":  0.2,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.582,
+                        "sentence_burstiness":  0.874,
+                        "top30_vocab_share":  0.33,
+                        "flags":  [
+                                      {
+                                          "pattern":  "em-dash-overuse",
+                                          "severity":  "medium",
+                                          "snippet":  "Em-dashes count: 37 (max 2)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "- **Biaya BTP belum diperhitungkan.** RISE with SAP menyertakan kapasitas BTP dasar, tetapi pengembangan ekstensi di skala produksi umumnya membutuhkan lisensi BTP *service plans* tambahan.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"- **Biaya BTP belum diperhitungkan.** RISE with SAP menyertakan kapasitas BTP dasar, tetapi pengembangan ekstensi di ska\""
+                                  },
+                                  {
+                                      "passage":  "SAP mendefinisikan tiga tingkat extensibility untuk S/4HANA Cloud (SAP Help Portal, help.sap.com/docs/SAP_S4HANA_CLOUD/extensibility): 1.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"SAP mendefinisikan tiga tingkat extensibility untuk S/4HANA Cloud (SAP Help Portal, help.sap.com/docs/SAP_S4HANA_CLOUD/e\""
+                                  },
+                                  {
+                                      "passage":  "## SAP Build: ekstensi clean core tanpa banyak kode ABAP *Side-by-side extensibility* terdengar menarik, tapi siapa yang membangunnya jika perusahaan kekurangan developer ABAP senior?",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## SAP Build: ekstensi clean core tanpa banyak kode ABAP *Side-by-side extensibility* terdengar menarik, tapi siapa yang\""
+                                  },
+                                  {
+                                      "passage":  "- **SAP Build Code** — diperkenalkan pada 2024 untuk developer profesional berbantuan AI Joule di BTP, berbasis *Cloud Application Programming Model* (CAP).",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"- **SAP Build Code** — diperkenalkan pada 2024 untuk developer profesional berbantuan AI Joule di BTP, berbasis *Cloud A\""
+                                  },
+                                  {
+                                      "passage":  "- **SAP Build Process Automation** — otomasi workflow dan RPA, menggabungkan SAP Workflow Management dan SAP iRPA dalam satu antarmuka *low-code*.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"- **SAP Build Process Automation** — otomasi workflow dan RPA, menggabungkan SAP Workflow Management dan SAP iRPA dalam \""
+                                  },
+                                  {
+                                      "passage":  "Berasal dari akuisisi AppGyver oleh SAP pada 2022, diberi nama resmi \"SAP Build Apps\" pada 2023.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Berasal dari akuisisi AppGyver oleh SAP pada 2022, diberi nama resmi  SAP Build Apps  pada 2023.\""
+                                  },
+                                  {
+                                      "passage":  "- **Tim IT belum siap mengelola BTP.** Side-by-side menambah sistem yang harus dioperasikan: monitoring terpisah, *connectivity setup*, *error handling* lintas sistem.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"- **Tim IT belum siap mengelola BTP.** Side-by-side menambah sistem yang harus dioperasikan: monitoring terpisah, *conne\""
+                                  },
+                                  {
+                                      "passage":  "Katalognya ada di **SAP Business Accelerator Hub** (api.sap.com), mencakup ribuan API lintas domain Finance, Logistik, SDM, dan lainnya.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Katalognya ada di **SAP Business Accelerator Hub** (api.sap.com), mencakup ribuan API lintas domain Finance, Logistik, S\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

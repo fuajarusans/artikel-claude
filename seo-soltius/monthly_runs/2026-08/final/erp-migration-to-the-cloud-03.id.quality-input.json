@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-08\\final\\erp-migration-to-the-cloud-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-08T18:27:13+07:00",
+    "word_count":  2333,
+    "paragraph_count":  22,
+    "sentence_count":  126,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.427,
+                        "sentence_burstiness":  0.534,
+                        "top30_vocab_share":  0.281,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.427 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "| # | Kriteria | Yang perlu dicek | |---|---|---| | 1 | Status \u0026 tier kemitraan SAP | Platinum vs Gold; punya designasi RISE Validated Partner?",
+                                      "candidate_score":  31,
+                                      "web_search_query":  "\"| # | Kriteria | Yang perlu dicek | |---|---|---| | 1 | Status \u0026 tier kemitraan SAP | Platinum vs Gold; punya designasi \""
+                                  },
+                                  {
+                                      "passage":  "Kualitas mitra diakui luas sebagai faktor penentu terbesar keberhasilan proyek SAP: menurut laporan Panorama Consulting (2024), 67% implementasi ERP gagal memenuhi target waktu atau anggaran awal.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Kualitas mitra diakui luas sebagai faktor penentu terbesar keberhasilan proyek SAP: menurut laporan Panorama Consulting \""
+                                  },
+                                  {
+                                      "passage":  "United VARs, aliansi SAP Platinum Partner global untuk *mid-market*, kini beranggotakan 70+ mitra di 100+ negara dengan lebih dari 10.000 implementasi sukses (United VARs, 2026).",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"United VARs, aliansi SAP Platinum Partner global untuk *mid-market*, kini beranggotakan 70+ mitra di 100+ negara dengan \""
+                                  },
+                                  {
+                                      "passage":  "# Cara Memilih Partner Implementasi SAP untuk Migrasi ERP ke Cloud Keputusan untuk [migrasi ERP ke cloud](https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud) sudah Anda ambil, jalurnya pun sudah dipilih.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"# Cara Memilih Partner Implementasi SAP untuk Migrasi ERP ke Cloud Keputusan untuk [migrasi ERP ke cloud](https://www.so\""
+                                  },
+                                  {
+                                      "passage":  "| | 4 | Metodologi (*SAP Activate*) | 6 fase + *quality gates* diterapkan konsisten?",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"| | 4 | Metodologi (*SAP Activate*) | 6 fase + *quality gates* diterapkan konsisten?\""
+                                  },
+                                  {
+                                      "passage":  "## Model Kerja Sama dan Struktur Biaya yang Perlu Dipahami Dua model kontrak dominan dalam proyek SAP adalah *fixed-price* dan *time-and-material* (T\u0026M), masing-masing dengan profil risiko berbeda.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Model Kerja Sama dan Struktur Biaya yang Perlu Dipahami Dua model kontrak dominan dalam proyek SAP adalah *fixed-pric\""
+                                  },
+                                  {
+                                      "passage":  "*SAP Activate* adalah metodologi implementasi resmi SAP dengan enam fase (Discover, Prepare, Explore, Realize, Deploy, dan Run) berbasis pendekatan Agile.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"*SAP Activate* adalah metodologi implementasi resmi SAP dengan enam fase (Discover, Prepare, Explore, Realize, Deploy, d\""
+                                  },
+                                  {
+                                      "passage":  "## Tanda Bahaya: Kapan Sebaiknya Anda Berjalan Pergi Beberapa sinyal sebaiknya langsung menghentikan negosiasi.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Tanda Bahaya: Kapan Sebaiknya Anda Berjalan Pergi Beberapa sinyal sebaiknya langsung menghentikan negosiasi.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

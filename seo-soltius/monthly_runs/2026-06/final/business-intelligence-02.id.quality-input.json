@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-06\\final\\business-intelligence-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-03T01:23:36+07:00",
+    "word_count":  1752,
+    "paragraph_count":  24,
+    "sentence_count":  91,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.508,
+                        "sentence_burstiness":  1.006,
+                        "top30_vocab_share":  0.316,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "## SAP Analytics Cloud vs SAP BusinessObjects BI: Kapan Tetap Pakai BO, Kapan Migrasi?",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"## SAP Analytics Cloud vs SAP BusinessObjects BI: Kapan Tetap Pakai BO, Kapan Migrasi?\""
+                                  },
+                                  {
+                                      "passage":  "## Tiga Pilar SAP Analytics Cloud: BI, Planning, dan Prediktif Istilah \"tiga pilar\" bukan klaim marketing.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"## Tiga Pilar SAP Analytics Cloud: BI, Planning, dan Prediktif Istilah  tiga pilar  bukan klaim marketing.\""
+                                  },
+                                  {
+                                      "passage":  "SAC juga mendukung koneksi ke sumber data non-SAP: Google BigQuery, Salesforce, Microsoft SQL Server, Oracle, dan file upload (CSV/Excel) melalui SAP BTP Data Services.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"SAC juga mendukung koneksi ke sumber data non-SAP: Google BigQuery, Salesforce, Microsoft SQL Server, Oracle, dan file u\""
+                                  },
+                                  {
+                                      "passage":  "SAC mendukung koneksi ke Google BigQuery, Salesforce, Microsoft SQL Server, Oracle, dan file upload (CSV/Excel) melalui SAP BTP Data Services.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"SAC mendukung koneksi ke Google BigQuery, Salesforce, Microsoft SQL Server, Oracle, dan file upload (CSV/Excel) melalui \""
+                                  },
+                                  {
+                                      "passage":  "SAP merilis BusinessObjects BI 2025 pada Maret 2025 dengan roadmap dua tahunan hingga BI 2029, dan *mainstream maintenance* dijamin hingga setidaknya akhir 2031 (SAP Community).",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"SAP merilis BusinessObjects BI 2025 pada Maret 2025 dengan roadmap dua tahunan hingga BI 2029, dan *mainstream maintenan\""
+                                  },
+                                  {
+                                      "passage":  "## Apa itu SAP Analytics Cloud dan Apa yang Membuatnya Berbeda dari BI Tools Lain?",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Apa itu SAP Analytics Cloud dan Apa yang Membuatnya Berbeda dari BI Tools Lain?\""
+                                  },
+                                  {
+                                      "passage":  "SAP merilis BI 2025 pada Maret 2025, dengan roadmap dua tahunan (BI 2027, BI 2029) dan *mainstream maintenance* dijamin hingga setidaknya akhir 2031.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"SAP merilis BI 2025 pada Maret 2025, dengan roadmap dua tahunan (BI 2027, BI 2029) dan *mainstream maintenance* dijamin \""
+                                  },
+                                  {
+                                      "passage":  "## Yang Sering Salah Dipahami tentang SAP Analytics Cloud Ini bagian yang jarang ditulis penjual platform, tapi justru di sinilah kepercayaan dibangun.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Yang Sering Salah Dipahami tentang SAP Analytics Cloud Ini bagian yang jarang ditulis penjual platform, tapi justru d\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

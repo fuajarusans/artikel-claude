@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "C:\\Users\\Fajar Santoso\\Documents\\artikel-claude\\seo-soltius\\monthly_runs\\2026-06\\final\\business-intelligence-04.id.md",
+    "language":  "id",
+    "generated_at":  "2026-06-03T01:26:06+07:00",
+    "word_count":  1433,
+    "paragraph_count":  19,
+    "sentence_count":  70,
+    "ai_detector":  {
+                        "score":  0.1,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.481,
+                        "sentence_burstiness":  1.071,
+                        "top30_vocab_share":  0.341,
+                        "flags":  [
+                                      {
+                                          "pattern":  "em-dash-overuse",
+                                          "severity":  "medium",
+                                          "snippet":  "Em-dashes count: 4 (max 2)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "## Mengapa Self-Service BI Sering Berakhir dengan \"Banyak Dashboard, Tidak Ada yang Dipercaya\" Bagian ini jarang ditulis, padahal inilah yang paling sering terjadi.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Mengapa Self-Service BI Sering Berakhir dengan  Banyak Dashboard, Tidak Ada yang Dipercaya  Bagian ini jarang ditulis\""
+                                  },
+                                  {
+                                      "passage":  "Dalam SAP Analytics Cloud, Smart Insights dan Smart Discovery secara proaktif menemukan anomali dan menjelaskan perubahan KPI tanpa pengguna perlu memformulasikan pertanyaannya (Gartner, *augmented analytics*).",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Dalam SAP Analytics Cloud, Smart Insights dan Smart Discovery secara proaktif menemukan anomali dan menjelaskan perubaha\""
+                                  },
+                                  {
+                                      "passage":  "Pola yang sering ditemukan: perusahaan melompat ke Level 3 tanpa infrastruktur Level 1–2 yang solid dan harus kembali ke langkah pertama enam bulan kemudian.",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"Pola yang sering ditemukan: perusahaan melompat ke Level 3 tanpa infrastruktur Level 1–2 yang solid dan harus kembali ke\""
+                                  },
+                                  {
+                                      "passage":  "Fitur *augmented analytics* bawaan SAC, yaitu Smart Insights dan Smart Discovery, adalah evolusi selanjutnya: AI memperpendek jarak data ke *insight* secara otomatis (Gartner, gartner.com/reviews/market/augmented-analytics).",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Fitur *augmented analytics* bawaan SAC, yaitu Smart Insights dan Smart Discovery, adalah evolusi selanjutnya: AI memperp\""
+                                  },
+                                  {
+                                      "passage":  "Untuk sebagian besar perusahaan Indonesia di Level 1–2, jawabannya adalah membangun fondasi BI tradisional yang kuat terlebih dahulu, lalu memperkenalkan *self-service* secara bertahap setelah *governance* data terbukti solid.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Untuk sebagian besar perusahaan Indonesia di Level 1–2, jawabannya adalah membangun fondasi BI tradisional yang kuat ter\""
+                                  },
+                                  {
+                                      "passage":  "Ketika setiap departemen bebas membuat *dashboard* sendiri tanpa definisi metrik terpusat, konflik angka hampir pasti muncul.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Ketika setiap departemen bebas membuat *dashboard* sendiri tanpa definisi metrik terpusat, konflik angka hampir pasti mu\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apa itu self-service business intelligence?",
+                                      "candidate_score":  8,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apa itu self-service business intelligence?\""
+                                  },
+                                  {
+                                      "passage":  "BI tradisional tetap relevan di Level 1–2 kematangan analitik: data masih tersebar, belum ada *single source of truth*, atau *semantic layer* belum dibangun.",
+                                      "candidate_score":  8,
+                                      "web_search_query":  "\"BI tradisional tetap relevan di Level 1–2 kematangan analitik: data masih tersebar, belum ada *single source of truth*, \""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

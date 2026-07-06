@@ -1,0 +1,129 @@
+{
+  "keyword": "digital manufacturing",
+  "keyword_slug": "digital-manufacturing",
+  "month": "2026-06",
+  "captured_at": "2026-06-02",
+  "landing_page": "https://www.soltius.co.id/id/blog/digital-manufaktur-sistem",
+  "landing_page_summary": "Defines Digital Manufacturing System (DMS) as integration of digital technology throughout the production cycle; covers Industry 4.0 basics, IoT/AI/big data, benefits (efficiency, flexibility, cost), and implementation tools — stays at conceptual/foundational level with no SAP-specific guidance, no ROI data, no MES/OEE depth, and no implementation challenges.",
+  "data_sources_used": ["seo_report_apr2026.md", "live_serp", "websearch"],
+  "ahrefs_available": false,
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Stable — 'digital manufacturing' and Industry 4.0 topics consistently trending in Indonesia per Making Indonesia 4.0 government roadmap; Indonesia 4.0 Conference & Expo 2026 active; Kemenperin reports National Lighthouse companies showing 2–600% speed-to-market improvement; audience demand steady through 2025–2026.",
+    "apr2026_rank": 7
+  },
+  "serp": {
+    "top_10": [
+      {
+        "url": "https://www.hashmicro.com/id/blog/digital-manufacturing-system-guna-masa-depan-industri-manufaktur-di-indonesia/",
+        "title": "Digital Manufacturing System: Masa Depan Industri Manufaktur",
+        "angle_summary": "Broad definitional overview of DMS; covers Industry 4.0, 7 technology examples (IIoT, Big Data, Cloud, Robotics, Digital Twins, AR), promotes HashMicro software. No SAP/MES specifics."
+      },
+      {
+        "url": "https://www.leapfactor.io/blog/apa-itu-mes-panduan-lengkap-manufacturing-execution-system-untuk-pabrik-indonesia",
+        "title": "Apa Itu MES? Panduan Lengkap Manufacturing Execution System untuk Pabrik Indonesia",
+        "angle_summary": "MES-focused: how MES connects shop floor to ERP, OEE tracking, real-time monitoring. No SAP Digital Manufacturing named."
+      },
+      {
+        "url": "https://8thinktank.com/sap-s-4hana-untuk-perusahaan-manufaktur/",
+        "title": "Studi Kasus: Bagaimana SAP S/4HANA Membantu Perusahaan Manufaktur Tingkatkan Efisiensi Produksi",
+        "angle_summary": "SAP S/4HANA case-study angle; efficiency gains; competitor (Think Tank Solusindo = SAP partner competitor)."
+      },
+      {
+        "url": "https://www.soltius.co.id/id/blog/sap-indonesia-dan-industri-manufaktur",
+        "title": "SAP Indonesia dan Industri Manufaktur",
+        "angle_summary": "Soltius own post on SAP + Indonesia manufacturing — general overview."
+      },
+      {
+        "url": "https://tangselxpress.com/2026/01/08/revolusi-industri-4-0-transformasi-digital-di-sektor-manufaktur-indonesia/",
+        "title": "Revolusi Industri 4.0: Transformasi Digital di Sektor Manufaktur Indonesia",
+        "angle_summary": "News/editorial about Making Indonesia 4.0 roadmap; 7 pillars; priority sectors."
+      },
+      {
+        "url": "https://ftmm.unair.ac.id/peran-smart-factory-era-industry-4-0-dalam-sistem-produksi/",
+        "title": "Peran Smart Factory Era Industry 4.0 dalam Sistem Produksi",
+        "angle_summary": "Academic angle on smart factory role in production systems (Universitas Airlangga)."
+      },
+      {
+        "url": "https://www.machinevision.global/post/tantangan-utama-transformasi-digital-industri-indonesia-2026",
+        "title": "Tantangan Utama Transformasi Digital Industri di Indonesia 2026: Strategi dan Solusi",
+        "angle_summary": "Challenges of industrial digital transformation in Indonesia 2026; strategy and solutions lens."
+      },
+      {
+        "url": "https://tokoplas.com/blog/business/digital-manufacturing",
+        "title": "Konsep Digital Manufacturing dan Manfaat Penerapannya",
+        "angle_summary": "Conceptual definition + benefits; plastics-industry context site."
+      },
+      {
+        "url": "https://myrobin.id/untuk-bisnis/digitalisasi-manufaktur/",
+        "title": "Digitalisasi Manufaktur: Pengertian, Manfaat, dan Implementasinya",
+        "angle_summary": "HR/talent platform's explainer; broad digitalization angle."
+      },
+      {
+        "url": "https://mekari.com/blog/digital-manufacturing-system/",
+        "title": "Cara Meningkatkan Efisiensi dengan Digital Manufacturing",
+        "angle_summary": "Efficiency-focused how-to; Mekari (accounting SaaS) content; generic advice."
+      }
+    ],
+    "serp_features": ["paa", "ai_overview_likely"],
+    "ai_overview_entities": [
+      "digital manufacturing",
+      "Industry 4.0",
+      "IIoT",
+      "SAP S/4HANA",
+      "MES (Manufacturing Execution System)",
+      "OEE (Overall Equipment Effectiveness)",
+      "predictive maintenance",
+      "digital twin",
+      "smart factory",
+      "Making Indonesia 4.0"
+    ]
+  },
+  "paa": [
+    "Apa itu digital manufacturing?",
+    "Apa manfaat digital manufacturing bagi industri?",
+    "Bagaimana cara kerja digital manufacturing?",
+    "Apa perbedaan digital manufacturing dengan manufaktur konvensional?",
+    "Apa itu MES (Manufacturing Execution System)?",
+    "Apa itu OEE dan mengapa penting dalam pabrik digital?",
+    "Bagaimana SAP mendukung digital manufacturing?",
+    "Apa tantangan implementasi digital manufacturing di Indonesia?",
+    "Berapa lama implementasi digital manufacturing?",
+    "Apa itu predictive maintenance dalam pabrik pintar?"
+  ],
+  "gsc_style_queries_from_report": [
+    "digital manufacturing (rank #7 Apr 2026; best rank #4; stable top-10 but not yet top-3)",
+    "warehouse management system (related — rank-adjacent query; 17 clicks Apr)"
+  ],
+  "history_snapshot": {
+    "existing_articles_for_keyword": [],
+    "uncovered_angles": [
+      "definitional: apa itu digital manufacturing + SAP DM context",
+      "how-to: menghubungkan shop floor dengan ERP (MES-ERP integration)",
+      "comparison: digital manufacturing vs manufaktur konvensional",
+      "deep-dive: OEE dan predictive maintenance berbasis data",
+      "troubleshooting/honest: tantangan implementasi digital manufacturing + kapan belum siap",
+      "decision: SAP Digital Manufacturing Cloud vs alternatif MES",
+      "industry-vertical: digital manufacturing di industri mill products / automotive Indonesia"
+    ]
+  },
+  "competitor_gap_analysis": {
+    "gaps_in_top_serp": [
+      "No competitor covers SAP Digital Manufacturing (Cloud) specifically — big SAP-niche whitespace",
+      "No article addresses OEE calculation + benchmarks in an Indonesian manufacturing context",
+      "No SAP-specific MES vs ERP integration guide for Indonesia",
+      "Predictive maintenance articles exist but none connect to SAP S/4HANA PP module",
+      "ROI/cost framework for digital manufacturing investment is missing across all top results",
+      "Industry-vertical lens (automotive, mill products, consumer goods Indonesia) largely absent",
+      "Roadmap/maturity guide for progressive adoption is absent — existing content is all-or-nothing"
+    ]
+  },
+  "key_statistics_for_articles": {
+    "indonesia_industry_40": "Making Indonesia 4.0 roadmap; 5 priority sectors (food-bev, textiles, automotive, chemicals, heavy equipment); target manufacturing growth 7.29% by 2025",
+    "national_lighthouse_impact": "29 National Lighthouse Industri 4.0 companies: 2–600% speed-to-market improvement, 10–50% agility gain, up to 101% productivity increase (Kemenperin data)",
+    "iot_efficiency": "IoT integration: downtime reduction ~30%, maintenance cost reduction ~20%, energy savings ~15% (Unilever Indonesia cited case)",
+    "mes_payback": "MES payback period estimated at 3–6 months via OEE improvement and reduced downtime (industry estimates — researcher must verify source)",
+    "sap_s4hana_manufacturing": "SAP S/4HANA Private Cloud 2025 release includes significant Production Planning enhancements; PP/DS (Production Planning and Detailed Scheduling) available"
+  }
+}
