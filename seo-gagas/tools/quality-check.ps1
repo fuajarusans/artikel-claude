@@ -7,7 +7,7 @@
     1. AI-tell patterns (from knowledge_base/style_guide.md §5)
     2. Burstiness + paragraph-length uniformity (AI-likelihood)
     3. Distinctive 8-12 word phrases worth checking for plagiarism
-       (the seo-quality-validator agent then runs WebSearch on these)
+       (the seo-editor agent then runs WebSearch on these)
 
   Plug-in slots for paid APIs:
     - If $env:PLAGIARISM_API_KEY is set, this script will POST candidate
@@ -17,7 +17,7 @@
       to the Originality.ai / GPTZero endpoint (stub for future hook).
 
   Outputs a JSON report to <article-dir>/<basename>.quality-input.json,
-  which the validator agent reads and enriches with WebSearch + final verdict.
+  which the seo-editor agent reads and enriches with WebSearch + final verdict.
 
 .PARAMETER ArticlePath
   Absolute path to a polished article markdown file
@@ -318,7 +318,7 @@ elseif ($aiScore -ge 0.30) { $aiVerdict = "revise" }
 
 # Strategy: pick 6-8 distinctive sentences from the article. Distinctive =
 # 12-25 words long, contains specific numbers OR named entities, low common-word
-# share. The validator agent will WebSearch each.
+# share. The seo-editor agent will WebSearch each.
 
 $candidates = @()
 $commonStop = @("the","is","of","and","a","to","in","that","it","for","with","as","on","by","this","or","be","an","are","at","from","not","but","yang","dan","di","ke","untuk","dengan","pada","dari","sebagai","atau","ini","itu","adalah","akan","juga","dapat","tidak","oleh","dalam","secara","lebih","ada","menjadi","saat","setelah","sebelum","banyak","setiap","beberapa","mereka","kita","kami","saya","anda")

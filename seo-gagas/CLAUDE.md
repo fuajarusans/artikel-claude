@@ -16,7 +16,7 @@ Operations manual for the agent system that produces **Bahasa Indonesia** SEO ar
 | Monthly volume | **Variable per month** — keyword set defined in `monthly_runs/<YYYY-MM>/keywords.md` (fully replaces prior months; no defaults). |
 | Language | **Bahasa Indonesia only** |
 | Output formats | `.md` (canonical) + `.docx` (review-ready, via pandoc) |
-| Images | **Brief-only — no AI generation.** Writers mark `{IMAGE_NN: concept}` placeholders; the image-planner produces an alt-text/caption/visual-direction brief for the client's design team to execute. |
+| Images | **Brief-only — no AI generation.** Writers mark `{IMAGE_NN: concept}` placeholders with a rich concept (subject, layout, style, color, Bahasa Indonesia text) that IS the design brief; the `.docx` renders each as an italic caption. The client's design team executes. |
 | Approval model | Autonomous with review — curator commits only editor `approve` AND validator `pass`; rest stays in `final/` for manual handling. |
 | Audience | Pembuat keputusan industri & komersial yang butuh energi gas di luar jaringan pipa (pabrik, hotel, RS, F&B, laundry); pemilik armada/transportasi (konversi BBM→BBG); UMKM; + audiens umum yang tertarik energi bersih. |
 | Working directory | `C:\Users\Fajar Santoso\Documents\artikel-claude\seo-gagas` |
@@ -37,17 +37,15 @@ For a recurring keyword, cousin pairings may reuse `knowledge_base/product_matri
 |---|---|---|---|---|
 | 1 | `seo-keyword-strategist` | **opus** | Senior SEO Strategist — N deduped concepts per keyword. Caches per-keyword research at `research/<slug>.research.json`. Uses WebSearch/WebFetch + live SERP (Ahrefs MCP optional — see §11). | Start of each month |
 | 2 | `energy-sme-researcher` | **sonnet** | Domain Researcher — fact-rich dossier per concept (gas bumi / CNG / energi). Sources: ESDM/Kementerian ESDM, PGN/Pertamina, SKK Migas, BPS, IEA/IRENA, jurnal energi. | After strategist |
-| 3 | `seo-article-writer-id` | **opus** | Bahasa Indonesia Copywriter — full draft. | After researcher |
-| 4 | `energy-image-planner` | **sonnet** | Visual Brief Producer — turns `{IMAGE_NN}` placeholders into an alt-text/caption/visual-direction brief (`images.json`). **No image generation.** | After writer |
-| 5 | `seo-editor` | **opus** | Editorial QC — anti-AI scan, fact-check, on-page SEO checklist, polish; binding `recommendation`. | After writer + image-planner |
-| 6 | `seo-quality-validator` | **sonnet** | Plagiarism + AI Detector — runs `tools/quality-check.ps1`; `verdict: pass/revise/reject`; loops back to writer on `revise` (max 2). | After editor |
-| 7 | `article-history-curator` | **haiku** | Knowledge-base Librarian — commits articles where editor `approve` AND validator `pass`; builds `.docx`. Skips the rest. | Auto after validator |
+| 3 | `seo-article-writer-id` | **opus** | Bahasa Indonesia Copywriter — full draft; marks `{IMAGE_NN}` placeholders (rich concept = the design brief). | After researcher |
+| 4 | `seo-editor` | **opus** | Editorial QC + originality gate — anti-AI scan, fact-check, on-page SEO checklist, **plagiarism + AI-detector scan** (`tools/quality-check.ps1` + WebSearch), polish; binding `recommendation` = the single commit gate. | After writer |
+| 5 | `article-history-curator` | **haiku** | Knowledge-base Librarian — commits articles where editor `recommendation: approve`; builds `.docx`. Skips the rest. | Auto after editor |
 
 Each agent's full system prompt is in `.claude/agents/<agent-name>.md`. Invoke with the **Agent tool** using `subagent_type` = the agent file name (no `.md`).
 
-> **Niche-named agents:** the researcher (`energy-sme-researcher`) and image-planner (`energy-image-planner`) carry Gagas's clean-energy / natural-gas domain expertise. The writer/strategist/editor reference the client's benchmarks + priorities.
+> **Niche-named agent:** the researcher (`energy-sme-researcher`) carries Gagas's clean-energy / natural-gas domain expertise. The writer/strategist/editor reference the client's benchmarks + priorities.
 
-**Parallelization rule:** the strategist runs (one per keyword) are independent — fire concurrently. Per-article researcher/writer/image-planner/editor/validator runs are independent — also concurrent. Respect dependencies: researcher waits for its brief, writer for its dossier, image-planner + editor for the draft, validator for the editor's final, curator for all validators.
+**Parallelization rule:** the strategist runs (one per keyword) are independent — fire concurrently. Per-article researcher/writer/editor runs are independent — also concurrent. Respect dependencies: researcher waits for its brief, writer for its dossier, editor for the draft, curator for all editors' qc reports.
 
 ---
 
@@ -64,12 +62,12 @@ Each agent's full system prompt is in `.claude/agents/<agent-name>.md`. Invoke w
 ## 5. Locked decisions (do not re-litigate without the user)
 - **Language**: Bahasa Indonesia only. No English version.
 - **Length**: **1.200–1.600 kata/artikel** (audiens energi lebih luas & ringkas). *Dapat disesuaikan per kebutuhan keyword/bulan.*
-- **Images**: brief-only — no AI generation. Writer marks `{IMAGE_NN: concept}`; `energy-image-planner` produces a design brief (`images.json`) with alt-text + caption + visual direction + suggested asset type. The design team executes. The `.docx` shows an italic caption fallback where no image file exists.
+- **Images**: brief-only — no AI generation. Writer marks `{IMAGE_NN: concept}` with a rich concept (subject, layout, style, color, Bahasa Indonesia text) that IS the design brief; the design team executes. The `.docx` renders each placeholder as an italic caption where no image file exists. (No separate image-planner agent — the writer's concept carries the brief.)
 - **Voice**: human, expert, honest-hedging, decision-useful. No AI tells (`style_guide.md` §5). Benchmarks = `knowledge_base/style_guide.md` (anatomy + voice examples).
 - **Internal links**: natural inline anchors woven into prose (hub in lead + cousins from the month's set). **No "BACA JUGA" callouts or link blocks.**
 - **Structure / GEO (§2a)**: definition snippet near the top; a **40–60-word direct answer right after each `## H2`** (GEO-citable); FAQ block; a `## Kesimpulan` section; then a **soft website CTA to gagas.co.id as the final line** (distinct from the conclusion paragraph).
 - **Gagas framing**: penyedia solusi energi gas bumi / distributor CNG beyond-pipeline — *menyalurkan, memasok, mengonversi, melayani* gas bumi; bukan produsen gas. Max 2–3 self-mentions/article; no unverifiable superlatives.
-- **Quality gate**: plagiarism + AI-detector pass mandatory before commit; `revise` loops to writer up to 2×; curator commits only `approve` + `pass`.
+- **Quality gate**: plagiarism + AI-detector scan runs inside the editor's pass (mandatory before commit); the editor fixes what it can in-place and issues a single binding `recommendation`; curator commits only `approve`. No separate validator agent, no revise-loop.
 
 ---
 
@@ -78,14 +76,12 @@ Fill `monthly_runs/<YYYY-MM>/keywords.md` (copy `monthly_runs/_keywords.template
 
 ```
 User: /run-month <YYYY-MM>
-→ N parallel strategist runs (one per keyword)  → briefs
-→ parallel researchers                          → dossiers
-→ parallel writers                              → ID drafts
-→ image-planners                                → image briefs (images.json)
-→ editors                                       → finals + QC reports (approve|revise|reject)
-→ quality-validators                            → verdicts (pass|revise|reject); loop-back on revise (max 2)
-→ curator commits (approve + pass)              → history + .docx
+→ N parallel strategist runs (one per keyword)   → briefs
+→ parallel researchers                           → dossiers
+→ parallel writers                               → ID drafts (with {IMAGE_NN} placeholders)
+→ editors (QC + plagiarism/AI scan, fix in-place)→ finals + QC reports (approve|revise|reject)
+→ curator commits (approve)                      → history + .docx
 → report: N committed + M flagged for manual review
 ```
 
-**Pilot first (recommended for a new keyword):** run ONE article end-to-end (strategist → researcher → writer → image-planner → editor → validator), stop, show the user the final `.md` + `.docx`, iterate on prompts / knowledge base, then scale to the full month.
+**Pilot first (recommended for a new keyword):** run ONE article end-to-end (strategist → researcher → writer → editor), stop, show the user the final `.md` + `.docx`, iterate on prompts / knowledge base, then scale to the full month.

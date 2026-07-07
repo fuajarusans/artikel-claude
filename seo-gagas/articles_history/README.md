@@ -1,6 +1,6 @@
 # Articles History — PGN Gagas
 
-Append-only log of every article committed by the `article-history-curator` (editor `approve` AND validator `pass`). The `seo-keyword-strategist` reads this BEFORE generating new concepts to prevent angle duplication across months.
+Append-only log of every article committed by the `article-history-curator` (editor `recommendation: approve` — the editor's QC folds in the plagiarism + AI-detector scan). The `seo-keyword-strategist` reads this BEFORE generating new concepts to prevent angle duplication across months.
 
 Single language: **Bahasa Indonesia only** (one `.id.md` / one `.id.docx` per article).
 
@@ -50,9 +50,7 @@ articles_history/
       "paths": {
         "id_md": "monthly_runs/2026-06/final/cng-untuk-industri-01.id.md",
         "id_docx": "monthly_runs/2026-06/final/cng-untuk-industri-01.id.docx",
-        "image_plan": "monthly_runs/2026-06/final/cng-untuk-industri-01.images.json",
-        "qc": "monthly_runs/2026-06/final/cng-untuk-industri-01.qc.md",
-        "quality": "monthly_runs/2026-06/final/cng-untuk-industri-01.quality.md"
+        "qc": "monthly_runs/2026-06/final/cng-untuk-industri-01.qc.md"
       },
       "published_at": null,
       "live_url": null
@@ -67,7 +65,7 @@ articles_history/
 - **status** — `drafted` | `editor-approved` | `published`. The curator writes `editor-approved`; the user sets `published` + `live_url` after go-live on gagas.co.id.
 - **gagas_mentions** — what topic/product was taught + which PGN Gagas service/credential anchored the CTA. Must respect `knowledge_base/product_matrix.md` (PGN Gagas provides/distributes CNG, never "produces" gas bumi from upstream).
 - **subtopics** — 5–10 semantic tags; what the article actually covers.
-- No `*_en` fields, no PNG `image_paths` — this client is Bahasa-Indonesia-only and images are a design-team brief (`paths.image_plan`), not generated files.
+- No `*_en` fields, no PNG `image_paths` — this client is Bahasa-Indonesia-only and images are a design-team brief carried by the article's `{IMAGE_NN}` placeholders, not generated files.
 
 ## Per-article record (`by_keyword/<keyword-slug>/<slug>.md`)
 
@@ -107,9 +105,9 @@ One paragraph: what makes this article distinct from others in this keyword's cl
 ```
 
 ## Update protocol
-**Only the `article-history-curator` writes here, and ONLY after BOTH gates pass** (editor `recommendation: approve` AND validator `verdict: pass`).
+**Only the `article-history-curator` writes here, and ONLY after the editor gate passes** (editor `recommendation: approve`).
 
-1. Curator reads each `final/<brief-id>.qc.md` + `.quality.md`; processes only `approve` + `pass`.
+1. Curator reads each `final/<brief-id>.qc.md`; processes only `approve`.
 2. Writes the per-article record in `by_keyword/<keyword-slug>/<slug>.md`.
 3. Appends the entry to `index.json` (preserve order — latest at end).
 4. Updates `last_updated`.

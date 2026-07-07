@@ -226,7 +226,7 @@ Per the project decision, the writer does NOT generate images. Instead, mark 2�
 - `{IMAGE_02: Diagram side-by-side — kiri "Bahan bakar solar" (biaya naik, asap, merah/abu), kanan "CNG / gas bumi" (alur pasokan bersih ke pabrik, hijau/biru)}`
 - `{IMAGE_03: Timeline horizontal tahapan konversi ke CNG, tiap fase dengan ikon + durasi tipikal, warna progresif abu→hijau}`
 
-The `energy-image-planner` agent expands these into a structured `images.json` brief (alt-text + caption + visual direction + suggested asset type: infographic / diagram / photo / stock photo). No PNG is produced.
+Each `{IMAGE_NN: ...}` concept IS the design brief (subject, layout, style, color, Bahasa Indonesia text — specific enough for a designer to execute without guesswork). The `.docx` renders each placeholder as an italic caption; the client's design team produces the actual visuals. No PNG is produced by the pipeline, and there is no separate image-planner agent.
 
 ---
 

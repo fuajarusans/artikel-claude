@@ -110,7 +110,7 @@ The pipeline already does most of this (definition snippet, FAQ, entity clarity,
 - [ ] Each body paragraph makes one independently quotable, verifiable point
 - [ ] FAQ parseable for FAQPage schema; `dateModified` / freshness accurate in the meta block
 
-### Image considerations (writer marks; image-planner briefs; design team executes)
+### Image considerations (writer marks; the placeholder IS the brief; design team executes)
 - [ ] 2–3 `{IMAGE_NN: concept}` placeholders with rich concept descriptions
 - [ ] Each has proposed alt-text (keyword-relevant, descriptive, Bahasa Indonesia)
 

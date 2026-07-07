@@ -28,28 +28,22 @@ For every brief, dispatch `energy-sme-researcher` → `monthly_runs/$1/dossiers/
 ## Stage 3 — Writing (up to 30 parallel)
 For every dossier, dispatch `seo-article-writer-id` → `monthly_runs/$1/drafts/<brief-id>.id.md`. Wait for all drafts.
 
-> **Length gate (writers can't self-count — MANDATORY trim stage).** After each draft, verify the real length with `python tools/count_words.py <draft-path>` — do NOT trust the writer's `word_count` estimate. Observed: writers overshoot consistently to ~1,740–2,000 while estimating ~1,430–1,500 (they cannot measure their own output, and the hardened prompt did not fix it). For every draft >1,600, dispatch a **Bash-capable trim agent** (`general-purpose`) that LOOPS `count_words.py` → Edit → re-count until the tool reports **1,450–1,560**, preserving all must-keeps (meta, 3 links, citations, definition snippet, all H2s + their 40–60-word GEO answers, tables, lists, honest section, FAQ ≥5, every flagged-fact hedge, Kesimpulan + CTA, image placeholders, ≤3 self-mentions) and syncing frontmatter `word_count`. Run these trim agents in parallel (one per over-length draft) BEFORE the image-planner/editor stages. This trim stage is reliable where the writer is not.
+> **Length gate (writers can't self-count — MANDATORY trim stage).** After each draft, verify the real length with `python tools/count_words.py <draft-path>` — do NOT trust the writer's `word_count` estimate. Observed: writers overshoot consistently to ~1,740–2,000 while estimating ~1,430–1,500 (they cannot measure their own output, and the hardened prompt did not fix it). For every draft >1,600, dispatch a **Bash-capable trim agent** (`general-purpose`) that LOOPS `count_words.py` → Edit → re-count until the tool reports **1,450–1,560**, preserving all must-keeps (meta, 3 links, citations, definition snippet, all H2s + their 40–60-word GEO answers, tables, lists, honest section, FAQ ≥5, every flagged-fact hedge, Kesimpulan + CTA, image placeholders, ≤3 self-mentions) and syncing frontmatter `word_count`. Run these trim agents in parallel (one per over-length draft) BEFORE the editor stage. This trim stage is reliable where the writer is not.
 
-## Stage 4 — Image briefs (up to 30 parallel)
-For every draft, dispatch `energy-image-planner` → `monthly_runs/$1/final/<brief-id>.images.json`. (No images are generated — this is a design brief.)
+## Stage 4 — Editing + originality QC (up to 30 parallel)
+For every draft, dispatch `seo-editor` → polished `monthly_runs/$1/final/<brief-id>.id.md` + `<brief-id>.qc.md` (binding `recommendation`). The editor now also runs the plagiarism + AI-detector scan (`tools/quality-check.ps1` + WebSearch) as part of the same pass and fixes what it can in-place, so its `recommendation` is the **single commit gate** — there is no separate validator stage and no revise-loop. Wait for all.
 
-## Stage 5 — Editing (up to 30 parallel)
-For every draft + image brief, dispatch `seo-editor` → polished `monthly_runs/$1/final/<brief-id>.id.md` + `<brief-id>.qc.md` (binding `recommendation`). Wait for all.
-
-## Stage 6 — Quality validation (up to 30 parallel, with revise loops)
-For every editor final, dispatch `seo-quality-validator` → `<brief-id>.quality.md` (`verdict`). On `revise`, the validator loops `seo-article-writer-id` on the flagged passages then re-validates (max 2 loops). Wait for all verdicts to settle.
-
-## Stage 7 — Curation (1 run)
-Dispatch `article-history-curator` for month `$1`. It commits ONLY articles with editor `recommendation: approve` AND validator `verdict: pass` — appending to `articles_history/index.json`, writing per-keyword records, and generating `.id.docx`. Everything else stays in `final/` for manual handling.
+## Stage 5 — Curation (1 run)
+Dispatch `article-history-curator` for month `$1`. It commits ONLY articles with editor `recommendation: approve` — appending to `articles_history/index.json`, writing per-keyword records, and generating `.id.docx`. Everything else stays in `final/` for manual handling.
 
 ## Dependencies & parallelization
-- The 6 strategist runs are independent → fire together.
-- Researcher/writer/image-planner/editor/validator are per-article independent → fire concurrently within each stage, respecting the subagent concurrency cap.
-- Respect cross-stage dependencies: researcher needs its brief; writer needs its dossier; image-planner + editor need the draft; validator needs the editor's final; curator needs all validators.
+- The strategist runs (one per keyword) are independent → fire together.
+- Researcher/writer/editor are per-article independent → fire concurrently within each stage, respecting the subagent concurrency cap.
+- Respect cross-stage dependencies: researcher needs its brief; writer needs its dossier; editor needs the draft; curator needs all editors' qc reports.
 - If a stage partially fails, continue the others and collect failures; never let one article block the batch.
 
 ## Final report
-Summarize: briefs · dossiers · drafts · image briefs · editor verdicts (approve/revise/reject counts) · validator verdicts (pass/revise/reject counts) · committed-to-history count · `.docx` generated · and a list of any articles left in `final/` for manual review with the reason (which gate they missed). Point the user to `monthly_runs/$1/final/`.
+Summarize: briefs · dossiers · drafts · editor verdicts (approve/revise/reject counts, with `ai_score`/`plagiarism_score` noted) · committed-to-history count · `.docx` generated · and a list of any articles left in `final/` for manual review with the reason (which editor verdict they got). Point the user to `monthly_runs/$1/final/`.
 
 ## Notes
 - Ahrefs MCP / GSC is optional and currently not connected — the strategist degrades to WebSearch/WebFetch + `_extracted/seo_report_apr2026.md`. If the user has connected Ahrefs, the strategist uses it automatically.
