@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-08\\final\\sap-hyperscaler-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-17T23:52:09+07:00",
+    "word_count":  1017,
+    "paragraph_count":  17,
+    "sentence_count":  54,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.413,
+                        "sentence_burstiness":  0.684,
+                        "top30_vocab_share":  0.349,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.413 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "# SAP di AWS vs Azure vs GCP: Perbandingan untuk Perusahaan Indonesia Rencana besarnya sudah disepakati: lanskap SAP perusahaan Anda pindah ke [solusi cloud](https://www.soltius.co.id/id/solutions-by-products/cloud).",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"# SAP di AWS vs Azure vs GCP: Perbandingan untuk Perusahaan Indonesia Rencana besarnya sudah disepakati: lanskap SAP per\""
+                                  },
+                                  {
+                                      "passage":  "Hanya tipe yang terdaftar di SAP Certified and Supported SAP HANA Hardware Directory yang boleh menjalankan SAP HANA produksi.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Hanya tipe yang terdaftar di SAP Certified and Supported SAP HANA Hardware Directory yang boleh menjalankan SAP HANA pro\""
+                                  },
+                                  {
+                                      "passage":  "Setiap hyperscaler menguji dan mensertifikasi konfigurasi bersama SAP, lalu merujuk hasilnya lewat SAP Note per platform: 1656099 untuk AWS, 1928533 untuk Microsoft Azure.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Setiap hyperscaler menguji dan mensertifikasi konfigurasi bersama SAP, lalu merujuk hasilnya lewat SAP Note per platform\""
+                                  },
+                                  {
+                                      "passage":  "\u003e **Ringkasnya:** hyperscaler adalah penyedia cloud publik berskala global; untuk beban kerja SAP, tiga yang paling umum dipakai adalah Amazon Web Services (AWS), Microsoft Azure, dan Google Cloud.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"\u003e **Ringkasnya:** hyperscaler adalah penyedia cloud publik berskala global; untuk beban kerja SAP, tiga yang paling umum\""
+                                  },
+                                  {
+                                      "passage":  "Daftarnya dipegang SAP lewat SAP Certified and Supported SAP HANA Hardware Directory, dan ketiga vendor menunjuk ke direktori yang sama.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Daftarnya dipegang SAP lewat SAP Certified and Supported SAP HANA Hardware Directory, dan ketiga vendor menunjuk ke dire\""
+                                  },
+                                  {
+                                      "passage":  "### Apakah semua tipe server di AWS, Azure, atau Google Cloud bisa dipakai untuk SAP HANA produksi?",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"### Apakah semua tipe server di AWS, Azure, atau Google Cloud bisa dipakai untuk SAP HANA produksi?\""
+                                  },
+                                  {
+                                      "passage":  "AWS, Microsoft Azure, dan Google Cloud sama-sama memiliki konfigurasi tersertifikasi SAP HANA dan sama-sama mengoperasikan region di Indonesia dengan tiga availability zone.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"AWS, Microsoft Azure, dan Google Cloud sama-sama memiliki konfigurasi tersertifikasi SAP HANA dan sama-sama mengoperasik\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai SAP Platinum Partner melalui United VARs, Soltius mengimplementasikan dan mendampingi SAP di atas platform hyperscaler pihak ketiga, dari pemilihan region dan konfigurasi hingga dukungan pasca *go-live*.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Sebagai SAP Platinum Partner melalui United VARs, Soltius mengimplementasikan dan mendampingi SAP di atas platform hyper\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

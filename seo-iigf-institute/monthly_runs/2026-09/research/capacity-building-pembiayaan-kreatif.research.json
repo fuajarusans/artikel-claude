@@ -1,0 +1,279 @@
+{
+  "keyword": "Capacity Building pembiayaan kreatif",
+  "keyword_slug": "capacity-building-pembiayaan-kreatif",
+  "month": "2026-09",
+  "captured_at": "2026-09-17",
+  "landing_page": "https://institute.iigf.co.id/capacity-building",
+  "landing_page_summary": "Diverifikasi ulang 2026-09-17: tidak berubah sejak Agustus. Halaman program 'Capacity Building KPBU Pembiayaan Kreatif untuk Infrastruktur'. Yang publik hanya kalimat tujuan program ('Mendorong peningkatan kapasitas pemangku kepentingan infrastruktur untuk mendukung penyediaan infrastruktur melalui skema Kerjasama Pemerintah dan Badan Usaha (KPBU) yang berkualitas') plus label seksi: Tentang, Deskripsi Program, Siapa yang Memenuhi, Tata Cara Pengajuan, Portofolio. Isi 'Siapa yang Memenuhi' dan 'Tata Cara Pengajuan' berada di balik login. Celah konten konseptual tetap terbuka lebar — hub tidak mengajarkan apa pun tentang pembiayaan kreatif.",
+  "data_sources_used": [
+    "cache_agustus (monthly_runs/2026-08/research/capacity-building-pembiayaan-kreatif.research.json)",
+    "articles_history/index.json + by_keyword/ (4 artikel Agustus)",
+    "monthly_runs/2026-08/briefs/*.brief.md (bagian 'sengaja TIDAK mencakup')",
+    "webfetch_primer (kpbu.kemenkeu.go.id, jdih/bappenas leads, kneks.go.id, ahlikpbuindonesia.or.id)",
+    "live_serp_proxy_brave",
+    "websearch (7 kueri dari kuota 12)"
+  ],
+  "ahrefs_available": false,
+  "gsc_available": false,
+  "seo_report": "none (keywords.md 2026-09 menyatakan seo_report: none)",
+  "websearch_budget": {
+    "allotted": 12,
+    "used": 7,
+    "note": "Sisa 5 sengaja tidak dipakai agar kuota tersedia untuk tahap peneliti dan editor. Pengambilan data diutamakan lewat WebFetch langsung ke domain primer dan lewat cache Agustus."
+  },
+  "serp_access_notes": {
+    "google_direct": "TETAP BLOKIR (dicek ulang 2026-09-17) — WebFetch ke google.com/search?hl=id&gl=id mengembalikan halaman error, tanpa hasil organik, tanpa AI Overview, tanpa PAA.",
+    "brave": "BERHASIL — dipakai sebagai proxy SERP utama untuk keempat sudut baru bulan ini.",
+    "simpulkpbu_pu_go_id": "DNS ENOTFOUND dari lingkungan ini (2026-09-17), padahal domain ini terindeks di SERP Brave. Fakta KPBU Syariah karena itu diambil dari kpbu.kemenkeu.go.id, kneks.go.id, dan snippet SERP — peneliti wajib mencoba ulang domain ini.",
+    "worldbank_ppp": "ppp.worldbank.org mengembalikan HTTP 403 dari lingkungan ini. Gunakan blogs.worldbank.org atau PPP Knowledge Lab sebagai gantinya.",
+    "paa_substitute": "PAA Google tidak terambil. Dipakai kombinasi: (a) 6 pertanyaan verbatim rubrik 'Orang Juga Bertanya' kpbu.kemenkeu.go.id yang tercatat di cache Agustus, (b) pertanyaan turunan dari pola kueri Brave untuk keempat sudut September."
+  },
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Stabil-menguat. Tidak ada sinyal penurunan sejak Agustus. Sub-tema yang menguat bulan ini: KPBU Syariah/sukuk daerah (KNEKS aktif menggelar workshop ke pemda) dan penyederhanaan prastudi kelayakan pasca-Permen PPN/Bappenas 7/2023.",
+    "report_rank": "n/a (tidak ada seo_report bulan ini)"
+  },
+  "serp": {
+    "note": "SERP untuk frasa induk 'Capacity Building pembiayaan kreatif' tidak berubah material dari Agustus — masih didominasi reportase kegiatan (kpbu.kemenkeu.go.id/berita, rilis pemda, media umum) plus hub klien sendiri di posisi teratas karena kecocokan frasa. Lihat cache Agustus untuk top-10 lengkap. Yang direkam di bawah adalah SERP untuk keempat SUDUT BARU September, karena itulah yang menentukan celah.",
+    "per_angle": {
+      "01_retensi_kapasitas": {
+        "query_proxy": "menjaga komitmen proyek KPBU pergantian kepala daerah mutasi pejabat",
+        "top_results": [
+          { "url": "https://kpbu.kemenkeu.go.id/read/77-224/umum/kajian-opini-publik/pembangunan-daerah-melalui-skema-kerja-sama-pemerintah-dan-badan-usaha", "title": "Pembangunan Daerah melalui Skema Kerja Sama Pemerintah dan Badan Usaha", "angle_summary": "SATU-SATUNYA hasil yang menyentuh kontinuitas kelembagaan. Memuat kalimat kunci soal kontrak yang melewati masa jabatan kepala daerah. Naratif kebijakan, tidak memberi mekanisme retensi." },
+          { "url": "https://korpri.go.id", "title": "Pergantian pejabat tidak boleh mengganggu jalannya pemerintahan", "angle_summary": "Isu kepegawaian umum, bukan KPBU. Tidak menyentuh proyek infrastruktur." },
+          { "url": "https://www.kppod.org", "title": "Komentar kebijakan daerah", "angle_summary": "Komitmen politik kepala daerah dibahas dalam konteks akuntabilitas, bukan kontinuitas proyek." }
+        ],
+        "gap": "CELAH SANGAT BESAR. Dari seluruh halaman pertama, hanya satu yang menyinggung kontinuitas komitmen dan itu pun satu kalimat tanpa mekanisme. Tidak ada satu pun halaman berbahasa Indonesia yang mengajarkan cara sebuah instansi MEMPERTAHANKAN kapasitas KPBU melintasi mutasi pegawai dan pergantian kepala daerah. Sisanya adalah berita mutasi ASN yang sama sekali tidak berhubungan dengan infrastruktur."
+      },
+      "02_anatomi_prastudi_kelayakan": {
+        "query_proxy": "dokumen pra studi kelayakan KPBU 5 kajian",
+        "top_results": [
+          { "url": "https://komens.bappenas.go.id (Toolkit Pra Studi Kelayakan)", "title": "Toolkit Pra Studi Kelayakan untuk proses penyiapan KPBU", "angle_summary": "Toolkit/template resmi Bappenas. Format baku untuk penyusun, bukan penjelasan untuk pengambil keputusan." },
+          { "url": "https://binamarga.pu.go.id/uploads/files/... (03pbm2022)", "title": "Pedoman penyusunan kajian pra studi kelayakan (jalan & jembatan)", "angle_summary": "Pedoman sektoral berbentuk PDF teknis. Tidak dapat dibaca cepat oleh PJPK daerah." },
+          { "url": "https://www.ahlikpbuindonesia.or.id/berita-dan-kegiatan/tahap-penyiapan-pada-proyek-kpbu-berdasarkan-permen-ppn-bappenas-07-nomor-2023-part-2/", "title": "Tahap Penyiapan pada Proyek KPBU berdasarkan Permen PPN/Bappenas 7/2023 (Part 2)", "angle_summary": "Pesaing terdekat: satu-satunya yang menyebut penyederhanaan 8 kajian menjadi 5. Bentuknya catatan asosiasi profesi, terpotong jadi beberapa 'part', tanpa tabel dan tanpa konsekuensi praktis bagi pembaca." }
+        ],
+        "gap": "Semua hasil teratas adalah TEMPLATE atau PEDOMAN TEKNIS untuk orang yang sudah tahu harus mengisi apa — bukan penjelasan yang membuat seorang PJPK paham apa yang sebenarnya ia beli ketika memesan dokumen pra-studi kelayakan. Tidak ada satu pun yang: (a) membedakan studi pendahuluan vs prastudi kelayakan vs business case secara jelas, (b) menyajikan 5 kajian dalam satu tabel, (c) memperingatkan bahwa template lama 8 kajian masih beredar."
+      },
+      "03_biaya_durasi_penyiapan": {
+        "query_proxy": "biaya dan durasi penyiapan proyek KPBU siapa menanggung",
+        "top_results": [
+          { "url": "https://kpbu.kemenkeu.go.id/read/73-220/umum/kajian-opini-publik/efisiensi-kpbu-dalam-penyediaan-infrastruktur", "title": "Efisiensi KPBU dalam Penyediaan Infrastruktur", "angle_summary": "SUMBER ANGKA DURASI. Menyatakan perencanaan dan penyiapan proyek membutuhkan setidaknya minimal 6 bulan, dan bisa mencapai 2 tahun untuk proyek besar/kompleks. Dibahas sebagai isu efisiensi, bukan sebagai panduan penganggaran." },
+          { "url": "https://kpbu.kemenkeu.go.id/read/1094-1255/pjpk/dukungan-pemerintah/fasilitas-penyiapan-proyek", "title": "Fasilitas Penyiapan Proyek", "angle_summary": "Menjelaskan PDF sebagai fasilitas Kemenkeu. Deskripsi program, tanpa angka biaya dan tanpa perbandingan dengan jalur lain." },
+          { "url": "https://kpbu.kemenkeu.go.id (Siapa yang Membiayai Proyek pada Skema KPBU?)", "title": "Siapa yang Membiayai Proyek pada Skema KPBU?", "angle_summary": "Menjawab pembiayaan KONSTRUKSI (BUP, project financing, porsi utang 70-80%) — bukan pembiayaan PENYIAPAN. Justru sumber kebingungan yang perlu diluruskan." }
+        ],
+        "gap": "Pertanyaan 'berapa lama dan berapa biaya menyiapkan proyek KPBU, dan siapa yang menanggungnya' tidak dijawab utuh di mana pun. Angka durasi ada tapi terkubur di artikel efisiensi; jalur pembiayaan penyiapan (APBD sendiri / PDF / Badan Penyiapan) tidak pernah disandingkan dalam satu tabel; risiko biaya penyiapan hangus saat proyek gagal tidak dibahas terbuka."
+      },
+      "04_jalur_syariah": {
+        "query_proxy": "KPBU syariah sukuk daerah pemerintah daerah infrastruktur",
+        "top_results": [
+          { "url": "https://kpbu.kemenkeu.go.id/read/1129-1293/umum/kajian-opini-publik/penerapan-kpbu-berbasis-syariah-dalam-rangka-pembiayaan-infrastruktur", "title": "Penerapan KPBU berbasis Syariah dalam rangka Pembiayaan Infrastruktur", "angle_summary": "Portal resmi. Tipis: mendefinisikan KPBU syariah sebagai pembiayaan bermekanisme syariah dan menyebut Concept Note KPBU Syariah oleh KNEKS bersama Kementerian PU dan PT PII. Tidak merinci akad." },
+          { "url": "https://www.knks.go.id (Workshop Sukuk Daerah dan KPBU Syariah — Pemerintah Kota Bandung)", "title": "Workshop Sukuk Daerah dan KPBU Syariah kepada Pemerintah Kota Bandung", "angle_summary": "Reportase kegiatan capacity building KNEKS untuk satu pemda. Membuktikan permintaan pelatihan nyata pada topik ini — jembatan paling kuat ke keyword induk." },
+          { "url": "https://sharia.republika.co.id/berita/snnpws416/kpbu-syariah-biayai-pembangunan-infrastruktur-di-indonesia", "title": "KPBU Syariah Biayai Pembangunan Infrastruktur di Indonesia", "angle_summary": "Media (28 November 2024). Sumber angka: 16 proyek KPBU dibiayai lembaga keuangan syariah senilai Rp 20,35 triliun; Tol Cisumdawu disebut menerima pembiayaan syariah Rp 5,5 triliun. ANGKA MEDIA — wajib diverifikasi ulang." }
+        ],
+        "gap": "Yang ada hanyalah (a) definisi normatif satu paragraf di portal resmi, (b) reportase workshop, (c) berita. Tidak ada satu pun halaman yang menjawab pertanyaan operasional sebuah pemda: apa yang harus SIAP di instansi saya sebelum jalur syariah bisa dipakai, dan kapasitas tambahan apa yang dibutuhkan tim."
+      }
+    },
+    "serp_features": ["tidak terverifikasi — Google diblokir; AI Overview dan PAA tidak dapat diamati langsung dari lingkungan ini"],
+    "ai_overview_entities": [
+      "Tidak dapat diamati. Entitas yang wajib dinamai eksplisit untuk GEO bulan ini (gabungan cache Agustus + temuan September):",
+      "KPBU (Kerja Sama Pemerintah dengan Badan Usaha)",
+      "PJPK (Penanggung Jawab Proyek Kerja Sama)",
+      "Simpul KPBU",
+      "Dokumen Pra-Studi Kelayakan (prastudi kelayakan / pra-FS)",
+      "Studi Pendahuluan",
+      "Permen PPN/Bappenas No. 7 Tahun 2023",
+      "Perpres No. 38 Tahun 2015",
+      "PMK 73/2018",
+      "Project Development Facility (PDF) / Fasilitas Penyiapan Proyek",
+      "Badan Penyiapan",
+      "Viability Gap Fund (VGF) / Dukungan Kelayakan",
+      "Availability Payment / Pembayaran Ketersediaan Layanan",
+      "UU No. 1 Tahun 2022 (UU HKPD)",
+      "Sukuk Daerah, Obligasi Daerah",
+      "KPBU Syariah / KPBUS",
+      "KNEKS (Komite Nasional Ekonomi dan Keuangan Syariah)",
+      "DSN-MUI (Dewan Syariah Nasional - Majelis Ulama Indonesia)",
+      "Akad ijarah, istishna paralel, IMBT, MMQ",
+      "Kantor Bersama KPBU",
+      "PT PII (Penjaminan Infrastruktur Indonesia)",
+      "IIGF Institute"
+    ]
+  },
+  "paa": [
+    "Siapa yang Membiayai Proyek pada Skema KPBU? (verbatim, rubrik 'Orang Juga Bertanya' kpbu.kemenkeu.go.id)",
+    "Apa Itu Kepanjangan PJPK? (verbatim)",
+    "Apa itu Kantor Bersama KPBU? (verbatim)",
+    "Apa itu Availability Payment? (verbatim)",
+    "Berapa lama tahap penyiapan proyek KPBU? (turunan pola kueri)",
+    "Berapa biaya menyiapkan proyek KPBU dan siapa yang menanggungnya? (turunan)",
+    "Apa itu Dokumen Pra-Studi Kelayakan dalam KPBU? (turunan)",
+    "Apa bedanya studi pendahuluan, prastudi kelayakan, dan business case? (turunan; ada halaman kpbu.kemenkeu.go.id berjudul 'Feasibility Study Atau Prafeasibility Study Bukan Business Case')",
+    "Berapa kajian dalam prastudi kelayakan menurut Permen PPN 7/2023? (turunan)",
+    "Apa itu Badan Penyiapan dalam proyek KPBU? (turunan)",
+    "Apa itu PDF (Project Development Facility) dalam KPBU? (turunan)",
+    "Apa itu KPBU Syariah dan apa bedanya dengan KPBU biasa? (turunan)",
+    "Apa itu sukuk daerah dan bedanya dengan obligasi daerah? (turunan)",
+    "Apa itu Simpul KPBU dan siapa yang membentuknya? (turunan)",
+    "Bagaimana menjaga komitmen proyek KPBU saat kepala daerah berganti? (turunan)"
+  ],
+  "gsc_style_queries_from_report": [],
+  "verified_facts_pool_september": [
+    {
+      "id": "SEP-F1",
+      "fact": "Prastudi kelayakan menurut Permen PPN/Bappenas No. 7 Tahun 2023 disederhanakan menjadi 5 kajian: Kajian Strategis, Kajian Ekonomi, Kajian Komersial, Kajian Finansial, dan Kajian Manajemen. Sebelumnya (disebutkan Permen PPN 2/2020) memuat 8 kajian.",
+      "source": "https://www.ahlikpbuindonesia.or.id/berita-dan-kegiatan/tahap-penyiapan-pada-proyek-kpbu-berdasarkan-permen-ppn-bappenas-07-nomor-2023-part-2/",
+      "confidence": "MEDIUM — SUMBER SEKUNDER (asosiasi profesi)",
+      "note": "TULANG PUNGGUNG BRIEF -02. WAJIB diverifikasi ke teks primer di JDIH Bappenas: https://jdih.bappenas.go.id/peraturan/detailperaturan/3383/ . Rantai regulasi (Permen PPN 4/2015 -> 2/2020 -> 7/2023) juga wajib dikonfirmasi; jangan tulis nomor/tahun aturan pendahulu sebelum terkonfirmasi."
+    },
+    {
+      "id": "SEP-F2",
+      "fact": "Kerangka kajian yang LEBIH LAMA (7 komponen) masih beredar di portal resmi: Kajian Hukum dan Kelembagaan; Kajian Teknis; Kajian Ekonomi dan Komersial; Kajian Lingkungan dan Sosial; Kajian Risiko; Kajian Kebutuhan Dukungan/Jaminan Pemerintah; Kajian Masalah yang Memerlukan Tindak Lanjut.",
+      "source": "https://kpbu.kemenkeu.go.id/read/76-223/umum/kajian-opini-publik/hubungan-antar-komponen-dalam-studi-penyiapan-proyek-kpbu",
+      "confidence": "high (halaman ada dan memuat daftar ini)",
+      "note": "INI JUSTRU SUDUT ARTIKEL -02: dua kerangka berbeda beredar bersamaan. Peneliti wajib memastikan mana yang berlaku per 2026 dan memberi tahun rujukan pada keduanya. JANGAN menyajikan keduanya seolah sama-sama berlaku tanpa penjelasan."
+    },
+    {
+      "id": "SEP-F3",
+      "fact": "Praktik umum penyiapan proyek investasi publik fokus pada aspek teknis dan biaya modal (CAPEX), sedangkan rencana pemanfaatan serta biaya operasional (OPEX) sering diabaikan. Pendekatan yang benar memakai whole lifecycle costs (CAPEX, OPEX, cost of fund) selama masa manfaat proyek.",
+      "source": "https://kpbu.kemenkeu.go.id/read/76-223/umum/kajian-opini-publik/hubungan-antar-komponen-dalam-studi-penyiapan-proyek-kpbu",
+      "confidence": "high",
+      "note": "Kutipan verbatim tersedia. Bahan kuat untuk H2 jujur di brief -02."
+    },
+    {
+      "id": "SEP-F4",
+      "fact": "Perencanaan dan penyiapan proyek KPBU membutuhkan setidaknya minimal 6 bulan, dan untuk proyek yang lebih besar dan kompleks dapat mencapai 2 tahun.",
+      "source": "https://kpbu.kemenkeu.go.id/read/73-220/umum/kajian-opini-publik/efisiensi-kpbu-dalam-penyediaan-infrastruktur",
+      "confidence": "high (kutipan terambil dari snippet halaman resmi)",
+      "note": "ANGKA DURASI UTAMA BRIEF -03. Peneliti wajib membuka halaman penuh, mengutip kalimat verbatim, dan mencatat tahun terbit artikel sebagai tahun rujukan."
+    },
+    {
+      "id": "SEP-F5",
+      "fact": "PDF (Fasilitas Penyiapan Proyek) adalah fasilitas Kementerian Keuangan untuk membantu PJPK menyusun kajian akhir prastudi kelayakan, dokumen lelang, dan mendampingi PJPK dalam transaksi hingga financial close. Berlaku pada tahap penyiapan dan tahap transaksi. Diatur dalam PMK 73/2018.",
+      "source": "https://kpbu.kemenkeu.go.id/read/1094-1255/pjpk/dukungan-pemerintah/fasilitas-penyiapan-proyek",
+      "confidence": "high (definisi); medium (nomor PMK 73/2018 muncul di sumber sekunder)",
+      "note": "Nomor dan tahun PMK WAJIB dikonfirmasi ke JDIH Kemenkeu sebelum ditulis."
+    },
+    {
+      "id": "SEP-F6",
+      "fact": "Badan Penyiapan adalah badan usaha dan/atau lembaga/institusi/organisasi internasional yang dipilih melalui kesepakatan atau seleksi untuk mendampingi tahap penyiapan/transaksi; imbalannya berbentuk success fee saat proyek mencapai financial close. Disebutkan imbalan maksimum 25% dari total biaya (merujuk Permen PPN 2/2020), dan bahwa belum ada alokasi anggaran bila proyek gagal mencapai tahap transaksi.",
+      "source": "https://www.ahlikpbuindonesia.or.id/berita-dan-kegiatan/mengenal-apa-itu-badan-penyiapan-pada-proyek-kpbu/ (mengutip Permen PUPR No. 2/2021 dan Permen PPN 2/2020)",
+      "confidence": "MEDIUM — SUMBER SEKUNDER",
+      "note": "Angka 25% dan pernyataan 'belum ada alokasi anggaran' SANGAT sensitif. Keduanya wajib diverifikasi ke teks peraturan primer. Bila tidak terverifikasi, tulis kualitatif tanpa angka. Ini bahan utama H2 jujur brief -03."
+    },
+    {
+      "id": "SEP-F7",
+      "fact": "Contoh nyata proyek yang berhenti di tahap fasilitas penyiapan: RSUD Krian Sidoarjo — 'Pelaksanaan fasilitas berhenti karena tidak terdapat persetujuan dari DPRD'; RS Kanker Dharmais — 'Pelaksanaan fasilitas berhenti karena perubahan komitmen PJPK'. Halaman mencatat 20 proyek penerima dukungan PDF.",
+      "source": "https://kpbu.kemenkeu.go.id/read/20-233/pjpk/pelaksanaan-kpbu/pelaksanaan-fasilitas",
+      "confidence": "high",
+      "note": "BAHAN INTI BRIEF -01 (perubahan komitmen PJPK + persetujuan DPRD = kegagalan kontinuitas kelembagaan, bukan kegagalan teknis). PERINGATAN DEDUP: halaman yang sama sudah dipakai artikel Agustus -04 untuk isu LAHAN. September -01 hanya boleh memakai dua butir kontinuitas di atas, dan DILARANG membangun ulang daftar sebab kegagalan. Nada tidak menghakimi; jangan menyalahkan instansi mana pun."
+    },
+    {
+      "id": "SEP-F8",
+      "fact": "Kutipan verbatim tentang kontinuitas: 'Mengingat kontrak jangka panjang dengan badan usaha umumnya akan melewati masa jabatan seorang kepala daerah, maka dibutuhkan pula dukungan politik yang kuat guna menjaga konsistensi dari komitmen daerah untuk menunaikan kewajibannya.'",
+      "source": "https://kpbu.kemenkeu.go.id/read/77-224/umum/kajian-opini-publik/pembangunan-daerah-melalui-skema-kerja-sama-pemerintah-dan-badan-usaha",
+      "confidence": "high",
+      "note": "KUTIPAN PEMBUKA TERKUAT UNTUK BRIEF -01. Satu-satunya halaman di SERP yang menyentuh isu ini."
+    },
+    {
+      "id": "SEP-F9",
+      "fact": "Simpul KPBU adalah unit kerja di kementerian/lembaga/pemerintah daerah — dibentuk baru atau melekat pada unit yang sudah ada — dengan tugas perumusan kebijakan dan/atau sinkronisasi dan/atau koordinasi tahap perencanaan, penyiapan, dan transaksi. Keberadaannya merupakan syarat dalam penyelenggaraan KPBU menurut Perpres 38/2015.",
+      "source": "Perpres No. 38 Tahun 2015 (https://jdih.kemenkeu.go.id/fullText/2015/38TAHUN2015PERPRES.pdf); https://kpbu.jabarprov.go.id/page/tentang-kpbu",
+      "confidence": "medium-high",
+      "note": "Peneliti wajib mengambil rumusan pasal dari teks Perpres langsung dan mengonfirmasi status berlaku per 2026. Simpul KPBU adalah 'wadah memori kelembagaan' dalam argumen brief -01 — kaitan ini adalah INTERPRETASI strategis, bukan kutipan; tulis sebagai argumen, bukan sebagai bunyi aturan."
+    },
+    {
+      "id": "SEP-F10",
+      "fact": "KPBU berbasis syariah: skema pembiayaan KPBU yang menggunakan mekanisme syariah, bukan semata perbankan konvensional. KNEKS bersama Kementerian PU dan PT PII menyusun Concept Note KPBU Syariah sebagai acuan; DSN-MUI disebut terlibat. Prinsip yang dihindari: riba, gharar, maysir. Akad yang disebut di berbagai sumber: ijarah, istishna paralel, IMBT, MMQ, serta instrumen sukuk.",
+      "source": "https://kpbu.kemenkeu.go.id/read/1129-1293/umum/kajian-opini-publik/penerapan-kpbu-berbasis-syariah-dalam-rangka-pembiayaan-infrastruktur ; Concept Note primer: https://kneks.go.id/storage/upload/1583202503-39624_Concept%20Note%20KPBU%20Syariah%20FINAL%20%5BRecovered%5D.pdf",
+      "confidence": "MEDIUM — daftar akad berasal dari ringkasan sumber sekunder, BUKAN dari portal Kemenkeu",
+      "note": "ATURAN KERAS BRIEF -04: setiap nama akad wajib ditelusuri ke Concept Note KNEKS atau fatwa DSN-MUI langsung. Bila tidak terverifikasi, artikel TETAP DITULIS tetapi pada tingkat skema (prinsip + instrumen sukuk + prasyarat kelembagaan), TANPA menyebut nama akad. Jangan pernah menafsirkan hukum syariah sendiri."
+    },
+    {
+      "id": "SEP-F11",
+      "fact": "KNEKS menyelenggarakan 'Workshop Sukuk Daerah dan KPBU Syariah' untuk Pemerintah Kota Bandung; laporan media menyebut 38 pemerintah provinsi menghadiri diskusi tentang pembiayaan dan penjaminan KPBU syariah.",
+      "source": "https://www.knks.go.id (halaman berita workshop); https://sharia.republika.co.id",
+      "confidence": "medium",
+      "note": "Bukti bahwa jalur syariah ADALAH agenda capacity building nyata bagi pemda — jembatan naratif ke keyword induk untuk brief -04. Angka '38 provinsi' wajib diverifikasi atau ditulis sebagai laporan media dengan tahunnya."
+    },
+    {
+      "id": "SEP-F12",
+      "fact": "Laporan media (28 November 2024): 16 proyek KPBU dibiayai lembaga keuangan syariah dengan total Rp 20,35 triliun; Tol Cileunyi-Sumedang-Dawuan (Cisumdawu) disebut menerima pembiayaan syariah Rp 5,5 triliun.",
+      "source": "https://sharia.republika.co.id/berita/snnpws416/kpbu-syariah-biayai-pembangunan-infrastruktur-di-indonesia",
+      "confidence": "LOW-MEDIUM — sumber media, bukan primer",
+      "note": "Bila dipakai, WAJIB ditulis dengan atribusi media + tahun ('menurut laporan media per November 2024'). Lebih baik lagi: cari angka setara di KNEKS/OJK. Jangan jadikan angka utama artikel."
+    },
+    {
+      "id": "SEP-F13",
+      "fact": "Pembiayaan konstruksi proyek KPBU dilakukan Badan Usaha Pelaksana lewat project financing, dengan porsi utang umumnya 70-80% dari biaya proyek.",
+      "source": "https://kpbu.kemenkeu.go.id (halaman 'Siapa yang Membiayai Proyek pada Skema KPBU?')",
+      "confidence": "medium",
+      "note": "Dipakai di brief -03 HANYA sebagai pembeda: ini biaya KONSTRUKSI, bukan biaya PENYIAPAN. Kekeliruan memahami ini adalah salah satu miskonsepsi yang diluruskan artikel. Verifikasi angka 70-80% sebelum dikutip."
+    }
+  ],
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      { "id": "2026-08-capacity-building-pembiayaan-kreatif-01", "angle": "fondasi-kapasitas-pjpk-pembiayaan-kreatif", "title": "Capacity Building Pembiayaan Kreatif: Fondasi Kapasitas PJPK", "subtopics": ["definisi pembiayaan kreatif UU HKPD", "empat kelompok instrumen", "mengapa APBD murni tidak cukup", "peta pelaku PJPK/Simpul KPBU/Kantor Bersama", "empat kompetensi tim", "tiga miskonsepsi"] },
+      { "id": "2026-08-capacity-building-pembiayaan-kreatif-02", "angle": "memilih-instrumen-pembiayaan-kreatif-daerah", "title": "Instrumen Pembiayaan Kreatif Daerah: Memilih Skema yang Tepat", "subtopics": ["tujuh instrumen", "availability payment", "user pay", "obligasi & sukuk daerah (satu baris tabel)", "LVC & HPT", "blended finance", "kriteria pemilihan"] },
+      { "id": "2026-08-capacity-building-pembiayaan-kreatif-03", "angle": "peta-kompetensi-tim-pjpk-per-tahap", "title": "Capacity Building KPBU: Kompetensi Tim PJPK di Tiap Tahap", "subtopics": ["empat tahap siklus", "kompetensi per tahap", "tiga jalur membangun kompetensi", "yang tidak boleh dialihdayakan", "merencanakan program sesuai fase"] },
+      { "id": "2026-08-capacity-building-pembiayaan-kreatif-04", "angle": "diagnosis-proyek-kpbu-daerah-mandek", "title": "Proyek KPBU Daerah Mandek di Penyiapan: 6 Celah Kapasitas", "subtopics": ["enam celah kapasitas", "kelayakan finansial marginal", "ketidakpastian lahan", "komitmen operasional", "misalignment risiko", "silo organisasi", "exit strategy", "daftar periksa diagnostik"] }
+    ],
+    "angle_hashes_taken_august": [
+      "fondasi-kapasitas-pjpk-pembiayaan-kreatif",
+      "memilih-instrumen-pembiayaan-kreatif-daerah",
+      "peta-kompetensi-tim-pjpk-per-tahap",
+      "diagnosis-proyek-kpbu-daerah-mandek"
+    ],
+    "angles_taken_september": [
+      { "brief": "01", "angle": "retensi-kapasitas-lintas-pergantian-kepemimpinan", "angle_hash": "b41a8052919f103a7ff8920ff73b70fb534c63b1" },
+      { "brief": "02", "angle": "anatomi-dokumen-prastudi-kelayakan-lima-kajian", "angle_hash": "0f50e57b4be141ded7d8c15db683ab639f96e625" },
+      { "brief": "03", "angle": "biaya-durasi-dan-penanggung-biaya-penyiapan-kpbu", "angle_hash": "ca40eac8b1a277e90c31c715e240b5b1d8e60167" },
+      { "brief": "04", "angle": "jalur-syariah-kpbu-dan-sukuk-daerah", "angle_hash": "b2058f31c8c3aad45ddfe3450a8b1ba3502301e4" }
+    ],
+    "angle_hash_recipe": "sha1('<keyword_slug>|<angle>|<subtopic-slugs sorted, comma-joined>')",
+    "candidates_rejected": [
+      { "angle": "mendesain-kurikulum-capacity-building-internal", "reason": "DITOLAK — hanya versi lebih dalam dari H2 #4 artikel Agustus -03 ('Merencanakan program capacity building yang sesuai fase proyek'). Materi terbaiknya diserap ke brief -01 pada sumbu waktu/pergantian orang, bukan sumbu fase proyek." },
+      { "angle": "manajemen-kontrak-pasca-financial-close", "reason": "DITAHAN untuk Oktober — memperdalam satu butir Agustus -03 (kompetensi tahap operasi) dan sinyal pencariannya lebih lemah dari empat yang dipilih." },
+      { "angle": "peran-uniid-jpii-pendampingan-daerah", "reason": "DITAHAN — sinyal pencarian lemah di bawah keyword ini, dan artikel yang subjeknya adalah jejaring milik klien sendiri berisiko jatuh ke register brosur (failure mode utama klien ini). Lebih cocok di klaster keyword lain." },
+      { "angle": "simpul-kpbu-kelembagaan-cara-membentuk", "reason": "DITOLAK sebagai artikel terpisah — akan mengkanibal brief -01, yang memakai Simpul KPBU sebagai mekanisme retensi. Dijadikan komponen di dalam -01." },
+      { "angle": "kapasitas-menyusun-alokasi-risiko", "reason": "DITOLAK — tumpang tindih tinggi dengan Agustus -03 dan -04." },
+      { "angle": "peran-konsultan-vs-tim-internal", "reason": "DITOLAK — Agustus -03 sudah memuat 'mana yang tidak boleh dialihdayakan'." },
+      { "angle": "market-sounding-sebagai-uji-kapasitas", "reason": "DITAHAN untuk Oktober — sudut sah dan belum terpakai, tetapi lebih sempit dari empat yang dipilih." },
+      { "angle": "mekanisme-pengajuan-pdf-vgf-langkah-demi-langkah", "reason": "DISERAP ke brief -03 sebagai salah satu dari tiga jalur pembiayaan penyiapan. Panduan langkah-demi-langkah PDF/VGF tersendiri masih tersedia untuk Oktober." },
+      { "angle": "evaluasi-keberhasilan-program-capacity-building", "reason": "DITAHAN — sumber terlalu tipis untuk klaim yang dapat diverifikasi." }
+    ],
+    "uncovered_angles_for_october": [
+      "Manajemen kontrak KPBU pasca-financial close (termasuk verifikasi layanan dan mekanisme penyesuaian)",
+      "Panduan langkah-demi-langkah mengajukan PDF dan VGF ke Kementerian Keuangan",
+      "Market sounding / penjajakan minat pasar sebagai uji realitas kapasitas penyiapan",
+      "Peran perguruan tinggi daerah dan jejaring UNIID/JPII dalam pendampingan penyiapan proyek (kandidat kuat untuk anchor Jejaring UNIID/JPII)",
+      "Kelembagaan Simpul KPBU daerah secara mendalam (bila -01 hanya menyentuhnya sebagai mekanisme)",
+      "Land Value Capture dan Hak Pengelolaan Terbatas sebagai jalur tersendiri (Agustus baru menyentuh sebagai baris tabel)",
+      "Mengukur keberhasilan program capacity building: indikator dan evaluasi"
+    ]
+  },
+  "cousin_hubs_this_month": [
+    {
+      "keyword": "Studi kasus proyek infrastruktur di Indonesia",
+      "url": "https://institute.iigf.co.id/e-library/lainnya/77/studi-kasus-kpbu-untuk-penguatan-infrastruktur-digital-dan-informasi",
+      "why": "Kapasitas hanya terbukti lewat proyek nyata; setiap brief menautkan ke sini di titik artikel menyebut bukti empiris atau contoh proyek."
+    },
+    {
+      "keyword": "Sertifikasi KPBU",
+      "url": "https://institute.iigf.co.id/",
+      "why": "Sertifikasi adalah jalur formalisasi dan pembuktian kompetensi; setiap brief menautkan ke sini saat membahas standardisasi atau pembuktian kompetensi individu."
+    }
+  ],
+  "link_isolation_rules": {
+    "allowed_internal": ["institute.iigf.co.id", "jipm.iigf.co.id (bila relevan)", "uniid.or.id (bila relevan)"],
+    "forbidden_internal": ["ptpii.co.id", "gagas.co.id"],
+    "note": "ptpii.co.id boleh dipakai sebagai sumber fakta, TIDAK BOLEH menjadi target tautan."
+  },
+  "client_anchor": "PPP capacity building",
+  "client_anchor_deviation": "TIDAK ADA deviasi bulan ini. Anchor 'Jejaring UNIID/JPII' diizinkan keywords.md hanya bila sebuah artikel benar-benar membahas pendampingan kampus; tidak ada dari keempat sudut September yang demikian, sehingga keempatnya memakai 'PPP capacity building'. Sudut UNIID/JPII ditahan untuk Oktober (lihat candidates_rejected).",
+  "kb_corrections_in_force": {
+    "rule_5": "Kantor Bersama KPBU = kolaborator, BUKAN anggota. Daftar resmi 7 K/L tanpa PT PII. Hanya 'berkolaborasi dalam ekosistem' yang boleh. Menunggu konfirmasi klien.",
+    "rule_6": "Pengembang CP3P = AfDB, ADB, EBRD, IDB, IsDB, World Bank Group + PPIAF sebagai part-funder. Tanpa MIF. AfDB WAJIB ada.",
+    "rpjmn": "Angka rupiah RPJMN 2025-2029 TERLARANG — sumber tidak sah."
+  }
+}

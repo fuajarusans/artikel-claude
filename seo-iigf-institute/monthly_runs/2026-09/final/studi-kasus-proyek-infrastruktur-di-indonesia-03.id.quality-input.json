@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-iigf-institute\\monthly_runs\\2026-09\\final\\studi-kasus-proyek-infrastruktur-di-indonesia-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-22T06:52:19+07:00",
+    "word_count":  1628,
+    "paragraph_count":  23,
+    "sentence_count":  97,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.407,
+                        "sentence_burstiness":  0.563,
+                        "top30_vocab_share":  0.291,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.407 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Pada Jatiluhur I, sumber resmi menyebut sekitar 30 tahun, mencakup 2,5 tahun konstruksi sejak Januari 2022 dan sisanya masa operasi (indikatif per pemberitaan 2021–2024).",
+                                      "candidate_score":  29,
+                                      "web_search_query":  "\"Pada Jatiluhur I, sumber resmi menyebut sekitar 30 tahun, mencakup 2,5 tahun konstruksi sejak Januari 2022 dan sisanya m\""
+                                  },
+                                  {
+                                      "passage":  "Nilai investasinya tercatat Rp 1.675.000.000.000 pada basis data proyek KPBU Kementerian Keuangan (indikatif, akses 2026).",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Nilai investasinya tercatat Rp 1.675.000.000.000 pada basis data proyek KPBU Kementerian Keuangan (indikatif, akses 2026\""
+                                  },
+                                  {
+                                      "passage":  "## Membedah SPAM Regional Jatiluhur I Proyek ini berkapasitas 4.750 liter/detik, melayani empat yurisdiksi di dua provinsi, berskema BOT (*Build-Operate-Transfer*), dan [beroperasi secara komersial sejak 18 Desember 2024](https://pu.go.id/berita/spam-regional-jatiluhur-i-mulai-beroperasi-secara-komersial-wakil-menteri-pu-pemenuhan-air-minum-berkualitas-untuk-19-juta-masyarakat).",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"## Membedah SPAM Regional Jatiluhur I Proyek ini berkapasitas 4.750 liter/detik, melayani empat yurisdiksi di dua provin\""
+                                  },
+                                  {
+                                      "passage":  "Pada SPAM Regional Jatiluhur I, PJPK dipegang Kementerian Pekerjaan Umum (Kementerian PU) karena lingkup kerja samanya, penyediaan air curah lintas wilayah, melampaui kewenangan satu pemerintah daerah.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Pada SPAM Regional Jatiluhur I, PJPK dipegang Kementerian Pekerjaan Umum (Kementerian PU) karena lingkup kerja samanya, \""
+                                  },
+                                  {
+                                      "passage":  "Pemberitaan resmi 2021–2024 di kpbu.kemenkeu.go.id menyebut sekitar 30 tahun: 2,5 tahun konstruksi sejak 19 Januari 2022, dan 27,5 tahun operasi.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Pemberitaan resmi 2021–2024 di kpbu.kemenkeu.go.id menyebut sekitar 30 tahun: 2,5 tahun konstruksi sejak 19 Januari 2022\""
+                                  },
+                                  {
+                                      "passage":  "Satu halaman portal PPID Kementerian PU (September 2025) mencantumkan 34 tahun 11 bulan untuk sistem hulu, kemungkinan memakai definisi lingkup lain.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Satu halaman portal PPID Kementerian PU (September 2025) mencantumkan 34 tahun 11 bulan untuk sistem hulu, kemungkinan m\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai unit manajemen pengetahuan dan *think-tank* PT Penjaminan Infrastruktur Indonesia (Persero), IIGF Institute menerbitkan Journal of Infrastructure Policy and Management (JIPM) sejak 2018.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Sebagai unit manajemen pengetahuan dan *think-tank* PT Penjaminan Infrastruktur Indonesia (Persero), IIGF Institute mene\""
+                                  },
+                                  {
+                                      "passage":  "Polanya bukan kasus tunggal: SPAM Regional Karian–Serpong dirancang menyalurkan sekitar 4.600 liter/detik ke tiga wilayah di Banten dan DKI Jakarta (basis data proyek KPBU, akses 2026).",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Polanya bukan kasus tunggal: SPAM Regional Karian–Serpong dirancang menyalurkan sekitar 4.600 liter/detik ke tiga wilaya\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

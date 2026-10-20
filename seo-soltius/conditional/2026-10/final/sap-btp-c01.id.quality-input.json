@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-10\\final\\sap-btp-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-10-08T17:08:18+07:00",
+    "word_count":  1060,
+    "paragraph_count":  20,
+    "sentence_count":  59,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.426,
+                        "sentence_burstiness":  0.914,
+                        "top30_vocab_share":  0.312,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.426 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Sebelumnya platform ini bernama SAP Cloud Platform; nama SAP BTP resmi dipakai sejak 2021.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Sebelumnya platform ini bernama SAP Cloud Platform; nama SAP BTP resmi dipakai sejak 2021.\""
+                                  },
+                                  {
+                                      "passage":  "Nama itu resmi dipensiunkan pada 18 Januari 2021, dan seluruh fungsinya dilanjutkan di bawah SAP Business Technology Platform.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Nama itu resmi dipensiunkan pada 18 Januari 2021, dan seluruh fungsinya dilanjutkan di bawah SAP Business Technology Pla\""
+                                  },
+                                  {
+                                      "passage":  "BTP masih mencakup tiga pilar lain: integrasi lewat SAP Integration Suite, data dan analitik, serta AI.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"BTP masih mencakup tiga pilar lain: integrasi lewat SAP Integration Suite, data dan analitik, serta AI.\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### SAP BTP termasuk SaaS atau PaaS?",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### SAP BTP termasuk SaaS atau PaaS?\""
+                                  },
+                                  {
+                                      "passage":  "SAP menyediakan trial 90 hari tanpa memasukkan data pembayaran untuk eksplorasi non-produksi.",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"SAP menyediakan trial 90 hari tanpa memasukkan data pembayaran untuk eksplorasi non-produksi.\""
+                                  },
+                                  {
+                                      "passage":  "- **Integrasi lintas aplikasi.** Menyambungkan SAP dengan sistem non-SAP seperti CRM, bank, atau aplikasi e-faktur memakai SAP Integration Suite dan *API* siap pakai.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"- **Integrasi lintas aplikasi.** Menyambungkan SAP dengan sistem non-SAP seperti CRM, bank, atau aplikasi e-faktur memak\""
+                                  },
+                                  {
+                                      "passage":  "Layanannya dapat berjalan di beberapa penyedia infrastruktur besar, antara lain AWS, Microsoft Azure, dan Google Cloud, dengan *tooling* yang dirancang konsisten lintas penyedia.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Layanannya dapat berjalan di beberapa penyedia infrastruktur besar, antara lain AWS, Microsoft Azure, dan Google Cloud, \""
+                                  },
+                                  {
+                                      "passage":  "Menurut pernyataan SAP (Oktober 2024), lebih dari 27.000 pelanggan sudah memakai platform ini, sebuah angka yang diakui bersifat point-in-time dan bergeser tiap rilis.",
+                                      "candidate_score":  8,
+                                      "web_search_query":  "\"Menurut pernyataan SAP (Oktober 2024), lebih dari 27.000 pelanggan sudah memakai platform ini, sebuah angka yang diakui \""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

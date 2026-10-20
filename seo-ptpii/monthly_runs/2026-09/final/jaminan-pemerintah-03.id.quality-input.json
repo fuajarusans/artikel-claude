@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-ptpii\\monthly_runs\\2026-09\\final\\jaminan-pemerintah-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-22T05:56:59+07:00",
+    "word_count":  1702,
+    "paragraph_count":  24,
+    "sentence_count":  100,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.604,
+                        "sentence_burstiness":  1.008,
+                        "top30_vocab_share":  0.362,
+                        "flags":  [
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 36.2% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Perjanjian Penjaminan untuk KPBU Penerangan Jalan Umum (APJ) Kabupaten Madiun, proyek KPBU APJ pertama di Indonesia, ditandatangani pada 20 September 2022; proyeknya beroperasi komersial pada 18 Juli 2023.",
+                                      "candidate_score":  36,
+                                      "web_search_query":  "\"Perjanjian Penjaminan untuk KPBU Penerangan Jalan Umum (APJ) Kabupaten Madiun, proyek KPBU APJ pertama di Indonesia, dit\""
+                                  },
+                                  {
+                                      "passage":  "Kebutuhan investasi infrastruktur nasional periode RPJMN 2025–2029 diperkirakan sekitar Rp 10.302 triliun, sementara APBN dan APBD digabung diperkirakan hanya menutup sekitar 40% di antaranya (Kementerian Keuangan, 2025).",
+                                      "candidate_score":  33,
+                                      "web_search_query":  "\"Kebutuhan investasi infrastruktur nasional periode RPJMN 2025–2029 diperkirakan sekitar Rp 10.302 triliun, sementara APB\""
+                                  },
+                                  {
+                                      "passage":  "Praktiknya sudah terbukti: Perjanjian Penjaminan untuk KPBU Penerangan Jalan Umum Kabupaten Madiun ditandatangani 20 September 2022, dan proyek itu beroperasi komersial 18 Juli 2023.",
+                                      "candidate_score":  32,
+                                      "web_search_query":  "\"Praktiknya sudah terbukti: Perjanjian Penjaminan untuk KPBU Penerangan Jalan Umum Kabupaten Madiun ditandatangani 20 Sep\""
+                                  },
+                                  {
+                                      "passage":  "**Lampirkan tiga dokumen inti**: matriks risiko, rancangan Perjanjian Kerja Sama, dan proyeksi keuangan (Perpres 78/2010 Pasal 6 ayat 3).",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"**Lampirkan tiga dokumen inti**: matriks risiko, rancangan Perjanjian Kerja Sama, dan proyeksi keuangan (Perpres 78/2010\""
+                                  },
+                                  {
+                                      "passage":  "Perpres 78/2010 Pasal 15 ayat (1) mewajibkan PJPK memenuhi regres dalam hal Penjamin telah melaksanakan kewajibannya kepada penerima jaminan.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Perpres 78/2010 Pasal 15 ayat (1) mewajibkan PJPK memenuhi regres dalam hal Penjamin telah melaksanakan kewajibannya kep\""
+                                  },
+                                  {
+                                      "passage":  "Dasarnya Perpres 78/2010, pelaksanaannya melalui Badan Usaha Penjaminan Infrastruktur (BUPI) dengan kebijakan satu pintu (*single window*).",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"Dasarnya Perpres 78/2010, pelaksanaannya melalui Badan Usaha Penjaminan Infrastruktur (BUPI) dengan kebijakan satu pintu\""
+                                  },
+                                  {
+                                      "passage":  "PMK 260/PMK.011/2010 sudah dicabut oleh PMK 68/2024 yang berlaku sejak 18 Oktober 2024, sehingga peraturan perubahannya ikut kehilangan pijakan.",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"PMK 260/PMK.011/2010 sudah dicabut oleh PMK 68/2024 yang berlaku sejak 18 Oktober 2024, sehingga peraturan perubahannya \""
+                                  },
+                                  {
+                                      "passage":  "Pasal 15 ayat (1) berlaku bagi semua jenis PJPK, dan ayat (2) sampai (4) hanya membedakan mekanisme pemenuhannya.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Pasal 15 ayat (1) berlaku bagi semua jenis PJPK, dan ayat (2) sampai (4) hanya membedakan mekanisme pemenuhannya.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

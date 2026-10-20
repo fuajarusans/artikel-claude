@@ -1,0 +1,93 @@
+{
+  "keyword": "ERP migration to the cloud",
+  "keyword_slug": "erp-migration-to-the-cloud",
+  "month": "2026-08-2",
+  "captured_at": "2026-07-08",
+  "landing_page": "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud",
+  "landing_page_summary": "Hub covers the strategic why, a '5R' framework (Rehost/Replatform/Refactor/Repurchase/Retire), a five-phase execution plan, deployment models (public/private/hybrid), and generic pitfalls (hidden cost, downtime). Names SAP S/4HANA Cloud as example. Vendor-neutral, high-level.",
+  "data_sources_used": ["live_serp_websearch", "websearch", "landing_page_fetch"],
+  "ahrefs_available": false,
+  "seo_report_used": "none (keywords.md seo_report: none)",
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Strong upward demand signal — Indonesia public-cloud market ~US$1.3B in 2025 (IDC, CAGR ~28.1% 2020-2025); ~81% of Indonesian firms plan to increase cloud usage. ECC 2027 maintenance deadline is a live urgency driver.",
+    "apr2026_rank": "n/a for 2026-08-2 (no seo_report this month); historical CLAUDE.md note: this hub ranked #1 in Apr 2026 — priority = defend."
+  },
+  "serp": {
+    "top_organic_seen_via_websearch": [
+      {"url": "https://beonesolution.com/migrasi-sap-s4hana/", "title": "Migrasi SAP S/4HANA Jadi Prioritas Perusahaan Indonesia", "angle_summary": "Why S/4HANA migration is a priority; general benefits + urgency."},
+      {"url": "https://8thinktank.com/software-erp-sap-s-4hana/", "title": "SAP S/4HANA: Solusi ERP Modern untuk Transformasi Digital", "angle_summary": "Product overview of S/4HANA as a modern cloud ERP."},
+      {"url": "https://www.techcorner.id/2025/05/sap-s4hana.html", "title": "SAP S/4HANA: Inovasi Terbaru SAP", "angle_summary": "Feature/benefit explainer of S/4HANA."},
+      {"url": "https://www.soltius.co.id/id/blog/Tahapan-Dalam-Pemindahan-Data-SAP", "title": "Mengulik Tujuan dan Tahapan dalam Pemindahan Data SAP", "angle_summary": "Soltius' own data-migration steps article (down-link candidate)."},
+      {"url": "https://ejournal-binainsani.ac.id/index.php/BIICT/article/view/1641", "title": "Perancangan ERP S4HANA Cloud Modul MM dengan SAP Activate", "angle_summary": "Academic paper: S/4HANA Cloud MM using SAP Activate 6-phase method."}
+    ],
+    "serp_features": ["ai_overview_likely", "paa"],
+    "serp_note": "Google HTML fetch returned an error page (bot wall); SERP reconstructed from WebSearch. Indonesian SERP for 'migrasi ERP ke cloud' is dominated by generic definitional/benefit explainers and S/4HANA product overviews. NONE of the top results cover: hyperscaler selection, integration/interface strategy, test management, customer-side project governance, or the ECC-2027 'what-if-not-ready' decision — confirming the five fresh angles are white space vs the live SERP (in addition to being unused across the 11 prior Soltius articles).",
+    "ai_overview_entities": ["SAP S/4HANA Cloud", "RISE with SAP", "GROW with SAP", "greenfield", "brownfield", "selective data transition", "SAP Activate", "public/private/hybrid cloud"]
+  },
+  "paa": [
+    "Apa itu migrasi ERP ke cloud?",
+    "Apa saja tahapan migrasi SAP S/4HANA?",
+    "Apa perbedaan RISE with SAP dan GROW with SAP?",
+    "Berapa lama proses migrasi ERP ke cloud?",
+    "Apa itu greenfield, brownfield, dan bluefield?",
+    "Kapan SAP ECC berhenti didukung (2027)?",
+    "Apakah data ERP aman di cloud?",
+    "Hyperscaler apa saja yang didukung RISE with SAP?",
+    "Apa itu SAP Integration Suite?",
+    "Bagaimana cara menguji migrasi SAP S/4HANA sebelum go-live?"
+  ],
+  "fact_findings": {
+    "hyperscaler_options": "RISE with SAP runs on a customer-chosen hyperscaler: AWS, Microsoft Azure, Google Cloud; IBM Cloud is now also a full hyperscaler option for RISE. Azure has widest BTP service coverage and is SAP's commercial default in many regions; AWS/GCP require explicit negotiation. Commercial differences: pricing structure, BTP service availability, EDP mechanics, data residency coverage. VERIFY current hyperscaler list + Indonesia region availability (AWS Asia Pacific/Jakarta ap-southeast-3; Google Cloud Jakarta asia-southeast2; Azure Indonesia Central status) via SAP + hyperscaler docs. Note: Huawei Cloud is a Soltius technology partner but is NOT an official RISE hyperscaler — do not conflate.",
+    "ecc_maintenance": "SAP ECC 6 / Business Suite 7 mainstream maintenance ends 31 Dec 2027; extended maintenance available through 31 Dec 2030 for +2 percentage points on the maintenance fee. After that, Customer-Specific Maintenance (no regular/legal updates, limited fixes). Q1 2025 SAP announced 'SAP ERP, private edition, transition option' — a RISE package letting select complex customers run ECC in SAP-managed private cloud through 2031-2033; prerequisites include signing a RISE cloud subscription and moving to HANA DB before end of 2030. VERIFY all dates + program name against support.sap.com and news.sap.com (dates have shifted historically).",
+    "integration": "S/4HANA transformations surface integration as a top delivery risk; ECC-era interfaces often can't carry forward unchanged. SAP Integration Suite (a core BTP service) is SAP's successor to PI/PO (Process Integration/Orchestration), offering cloud-native iFlows, API Management, pre-built connectors, event-driven messaging. Cutover is the moment to redesign point-to-point interfaces as API-led, Clean-Core-aligned integrations. VERIFY Integration Suite positioning + PI/PO end-of-maintenance; Indonesian localization interfaces (Coretax DJP live 2025, e-Faktur, bank host-to-host).",
+    "testing": "Mock migration cycles run in sandbox with automated data-validation, functional-regression, and custom-code validation, typically 3-5 times before a dress rehearsal / mock cutover in a production-mirror environment (with performance testing). Test types: unit, SIT (system integration test), regression (finance, procurement, inventory, HR), UAT with line-of-business experts from Fit-to-Standard workshops. SAP Cloud ALM Test Management documents formal end-to-end tests. Test data must be realistic, versioned, scenario-specific. VERIFY SAP Cloud ALM Test Management naming/scope.",
+    "governance": "ERP failures often trace to unclear responsibility: Customer, SAP, and Partner each assume someone else owns approvals, testing, incident response, upgrades, change management. A steering committee provides strategic oversight (goal alignment, milestone sign-off, escalation). RACI matrices (per SAP Activate deliverable) clarify who is Responsible/Accountable/Consulted/Informed across Customer/SAP/Partner. Scope changes flow through change-request control. VERIFY SAP Activate phases (Discover, Prepare, Explore, Realize, Deploy, Run) + quality-gate concept."
+  },
+  "indonesia_stats_for_eeat": [
+    "IDC: Indonesia public-cloud market ~US$1.3 billion in 2025, CAGR ~28.1% (2020-2025).",
+    "~81% of Indonesian firms plan to increase cloud usage (survey cited by CNN Indonesia, 2022 — label as older survey).",
+    "UU PDP No. 27/2022 (fully in force Oct 2024) governs personal data in ERP/cloud — relevant to hyperscaler data-residency choice."
+  ],
+  "cousin_hubs_this_month": {
+    "note": "2026-08-2 set has NO digital-manufacturing or low-code hub. Cousins for ERP-migration drawn from this month's 5 keywords. SAP Clean Core is the canonical ERP-migration cousin (clean core = cloud-ready/upgrade-safe) and is used in every brief; the second cousin rotates across Data Warehouse Solutions, Business Intelligence, and warehouse management system for topical breadth.",
+    "sap_clean_core": "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide",
+    "data_warehouse_solutions": "https://www.soltius.co.id/id/blog/data-warehouse-solutions",
+    "business_intelligence": "https://www.soltius.co.id/id/blog/business-intelligence",
+    "warehouse_management_system": "https://www.soltius.co.id/id/blog/konsep-warehouse-management-system-yang-wajib-anda-tahu"
+  },
+  "history_snapshot": {
+    "prior_articles_committed_by_keyword": [
+      "brownfield-greenfield-bluefield-decision-guide (2026-06)",
+      "downtime-cutover-minimisasi-risiko-migrasi (2026-06)",
+      "tco-biaya-roi-migrasi-erp-cloud (2026-06)",
+      "keamanan-data-regulasi-cloud-erp-indonesia (2026-06)",
+      "pasca-go-live-tantangan-adopsi-change-management (2026-06)",
+      "rise-vs-grow-with-sap-program-selection (2026-08)",
+      "erp-migration-readiness-assessment-pra-migrasi (2026-08)",
+      "memilih-system-integrator-partner-sap-migrasi (2026-08)"
+    ],
+    "prior_articles_uncommitted_2026_07_2": [
+      "strategi-migrasi-data-erp-ke-cloud (data cleanse/archive/retire, Migration Cockpit, staging table)",
+      "remediasi-custom-code-migrasi-erp-ke-cloud (ATC, Simplification DB, refactor/retire/recode, ABAP Cloud)",
+      "value-realization-migrasi-erp-cloud-kpi (baseline, consumption vs outcome KPI, time-to-value, Fiori adoption)"
+    ],
+    "total_prior": 11,
+    "saturation_note": "Heavily covered (11 prior). Covered space: migration paths, downtime/cutover, TCO, security/regulation, post-go-live/change, RISE-vs-GROW, readiness, partner selection, data migration, custom-code remediation, value/ROI KPIs.",
+    "uncovered_angles_selected": [
+      "Hyperscaler selection for RISE (AWS/Azure/GCP/IBM, Indonesia region, data residency) — INFRA layer, untouched",
+      "Integration/interface strategy during migration (SAP Integration Suite/BTP, PI-PO successor, ID tax/bank/WMS satellites) — untouched",
+      "Test management (SIT/UAT/regression/mock cutover/test data, Cloud ALM) — untouched",
+      "Customer-side project governance (steering committee, RACI, scope/change control, SAP Activate quality gates) — untouched (partner-SELECTION exists, but not governance of the project)",
+      "ECC 2027/2030 deadline: options if NOT ready (extended maintenance, customer-specific maintenance, private-edition transition option 2031-2033, third-party support trade-off) — untouched (2027 used only as urgency anchor elsewhere)"
+    ],
+    "uncovered_angles_deferred": [
+      "Legacy ECC decommissioning + data retention/ILM after migration",
+      "User enablement/training program (SAP Enable Now, role-based curricula)",
+      "Continuous release management in S/4HANA Cloud (quarterly/half-yearly updates, operate phase)",
+      "Fit-to-standard workshop how-to for GROW/Public Edition",
+      "Industry-specific migration playbook (manufacturing/plantation)"
+    ]
+  }
+}

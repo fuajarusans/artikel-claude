@@ -1,0 +1,123 @@
+{
+  "keyword": "Data Warehouse Solutions",
+  "keyword_slug": "data-warehouse-solutions",
+  "month": "2026-07-2",
+  "captured_at": "2026-07-07",
+  "landing_page": "https://www.soltius.co.id/id/blog/data-warehouse-solutions",
+  "landing_page_summary": "Hub kini berbentuk listicle '7 Software Data Warehouse Terbaik 2026' (SAP BW/4HANA, Snowflake, Google BigQuery, Amazon Redshift, Cloudera, Teradata, IBM Db2) plus H2 'Apa Solusi Data Warehouse yang Tepat untuk Anda?'; menganalogikan data warehouse sebagai 'pabrik pemurnian data' berbasis ETL, dan memosisikan SAP BW/4HANA untuk organisasi berbasis ekosistem SAP.",
+  "data_sources_used": ["landing_page_fetch", "live_serp_via_websearch", "websearch"],
+  "ahrefs_available": false,
+  "notes_on_serp_capture": "WebFetch langsung ke google.com/search?q=...&hl=id&gl=id mengembalikan halaman error/anti-bot Google (bukan hasil organik). SERP + PAA direkonstruksi via WebSearch bertarget pada Google ID; kompetitor organik dikumpulkan dari daftar hasil WebSearch.",
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Minat data warehouse stabil-naik didorong tema AI-ready data 2025-2026 dan konsolidasi SAP ke Business Data Cloud; tidak ada angka volume terverifikasi tanpa Ahrefs.",
+    "apr2026_rank": "48 (dari CLAUDE.md §2, set 2026-06; seo_report untuk 2026-07-2 = none)"
+  },
+  "serp": {
+    "top_organic_observed": [
+      { "url": "https://www.sangfor.com/id/blog/cloud-and-infrastructure/manfaat-data-warehouse", "title": "8 Manfaat Data Warehouse untuk Bisnis Anda", "angle_summary": "Listicle manfaat generik; tidak ada framework keputusan atau konteks SAP." },
+      { "url": "https://www.hashmicro.com/id/blog/aspek-penting-dalam-data-warehouse-fungsi-tipe-komponen-utama-pendukungnya/", "title": "Aspek Penting Dalam Data Warehouse: Fungsi, Tipe & Komponen", "angle_summary": "Definisi + fungsi + tipe + komponen; edukasi dasar, tanpa sizing/FinOps/arsitektur modern." },
+      { "url": "https://www.jurnal.id/id/blog/contoh-data-warehouse-sbc/", "title": "Pengertian, Fungsi, Konsep dan Contoh Data Warehouse", "angle_summary": "Definisi + contoh; level pengantar untuk SMB." },
+      { "url": "https://phintraco.com/manfaat-data-warehouse-untuk-perusahaan/", "title": "Manfaat Data Warehouse untuk Perusahaan (Phintraco)", "angle_summary": "Manfaat bisnis; vendor integrator lokal, generik." },
+      { "url": "https://www.cloudcomputing.id/pengetahuan-dasar/apa-itu-data-warehouse", "title": "Apa Itu Data Warehouse? Pengertian dan Fungsinya", "angle_summary": "Definisi dasar; tidak menyentuh data mesh, sizing, observability, atau BDC." },
+      { "url": "https://it.telkomuniversity.ac.id/perbedaan-data-warehouse-dan-data-mart/", "title": "Perbedaan Data Warehouse dan Data Mart (Telkom University)", "angle_summary": "Perbandingan DW vs data mart level akademik; tidak ada framework keputusan enterprise atau Inmon/Kimball terapan." },
+      { "url": "https://www.kompasiana.com/najwazayr/68efa214c925c43b63570054/data-mesh-vs-data-warehouse-perang-dingin-arsitektur-data-masa-depan", "title": "Data Mesh vs Data Warehouse: Perang Dingin Arsitektur Data", "angle_summary": "Opini populer data mesh vs DW; tanpa kerangka kesiapan organisasi atau konteks SAP." },
+      { "url": "https://leverx.com/newsroom/the-best-dwh-platforms-comparison", "title": "Major DWH Compared: SAP Datasphere vs Snowflake, BW, and Others", "angle_summary": "Perbandingan platform (EN); teknis vendor, bukan panduan keputusan lokal." }
+    ],
+    "serp_features": ["ai_overview_likely", "paa", "featured_snippet_definition"],
+    "ai_overview_entities": ["data warehouse", "ETL", "data-driven decision", "single source of truth", "EDW (Enterprise Data Warehouse)", "SAP BW/4HANA", "SAP Datasphere", "Snowflake", "Databricks", "data mart"]
+  },
+  "paa": [
+    "Apa perbedaan data warehouse dan data mart?",
+    "Kapan perusahaan cukup pakai data mart, bukan data warehouse penuh?",
+    "Apa itu data mesh dan bedanya dengan data warehouse?",
+    "Bagaimana cara menentukan ukuran (sizing) data warehouse yang tepat?",
+    "Berapa besar storage dan compute yang dibutuhkan data warehouse?",
+    "Apa itu data observability dan mengapa penting untuk data warehouse?",
+    "Bagaimana mengendalikan biaya data warehouse cloud agar tidak membengkak?",
+    "Apakah SAP Datasphere masih dijual terpisah di 2026?",
+    "Apa itu SAP Business Data Cloud dan hubungannya dengan Datasphere?",
+    "Metodologi Inmon atau Kimball, mana yang cocok untuk perusahaan saya?",
+    "Bagaimana memastikan kualitas data sebelum membangun data warehouse?",
+    "Apa itu semantic layer dalam data warehouse?"
+  ],
+  "gsc_style_queries_from_report": [
+    "seo_report untuk bulan 2026-07-2 = none (keywords.md). Tidak ada baris GSC-style resmi untuk run ini. Rank referensi historis #48 (2026-06 set, CLAUDE.md §2)."
+  ],
+  "research_findings_by_angle": {
+    "dw_vs_data_mart_inmon_kimball": {
+      "summary": "Data mart = subset data warehouse berfokus 1 departemen/fungsi; bisa berdiri sendiri, lebih murah, live dalam mingguan-bulanan, butuh skill teknis lebih rendah. Data warehouse = terpusat lintas divisi untuk analisis strategis. Strategi build: top-down (Inmon, EDW dulu lalu mart) vs bottom-up (Kimball, mart dulu lalu terintegrasi). Whitespace: tak ada konten ID yang menautkan pilihan mart/warehouse ke metodologi Inmon/Kimball terapan + kerangka keputusan enterprise.",
+      "sources": [
+        "https://it.telkomuniversity.ac.id/perbedaan-data-warehouse-dan-data-mart/",
+        "https://aws.amazon.com/what-is/data-mart/",
+        "https://dcloud.co.id/blog/data-warehouse-vs-data-mart-apa-yang-bisnis-kamu-butuhkan.html"
+      ]
+    },
+    "sizing_capacity_planning": {
+      "summary": "Sizing DW = fungsi kebutuhan bisnis: volume data (dengan rasio kompresi ~5:1, cadangkan ~50% untuk log/tempDB), paralelisme CPU core untuk MPP, dan virtual warehouse minimal cukup untuk query paling berat. Cloud elastis: rightsizing berbeda dari VM; konfigurasi default untuk peak = pemborosan. Pertimbangkan proyeksi pertumbuhan, aplikasi/sumber baru, kebijakan retensi. Whitespace: tak ada panduan ID sizing DW berbasis bisnis (bukan spesifikasi vendor).",
+      "sources": [
+        "https://learn.microsoft.com/en-us/sql/analytics-platform-system/processing-and-storage-capacity-planning?view=aps-pdw-2016-au7",
+        "https://docs.cloudera.com/data-warehouse/cloud/planning/topics/dw-public-cloud-vw-env-size-requirements-planning.html",
+        "https://www.linkedin.com/advice/1/how-do-you-determine-right-size-your-data-warehouse-6lsae"
+      ]
+    },
+    "data_mesh_vs_centralized_dw": {
+      "summary": "Data mesh = prinsip/pola desain (data-as-a-product, domain ownership, self-serve platform, federated governance), bukan produk tunggal; bisa dibangun di atas warehouse/streaming/API. DW terpusat tetap optimal untuk organisasi kecil-menengah di mana tim pusat menangani semua permintaan dan prediktabilitas > fleksibilitas. Mesh masuk saat data lahir dari ratusan sistem sumber, tiap domain butuh metrik near-real-time sendiri, dan regulator menuntut lineage penuh. Whitespace: kerangka kesiapan organisasi (kapan mesh justified) dalam konteks SAP/Indonesia.",
+      "sources": [
+        "https://ardura.consulting/blog/data-mesh-vs-data-warehouse-data-architecture-2026/",
+        "https://tblocks.com/articles/data-mesh-vs-data-fabric-vs-data-lake-vs-data-warehouse/",
+        "https://www.kompasiana.com/najwazayr/68efa214c925c43b63570054/data-mesh-vs-data-warehouse-perang-dingin-arsitektur-data-masa-depan"
+      ]
+    },
+    "finops_observability_post_golive": {
+      "summary": "Setelah go-live, dua risiko operasional jarang dibahas: (1) FinOps — biaya cloud DW membengkak karena consumption-based compute (kredit/DBU/slot), runaway query, refresh dashboard tak terkendali, cluster idle, job gagal yang retry tanpa guardrail; kontrol = budget alert near-real-time, visibilitas per-query, atribusi biaya per owner. (2) Data observability — data downtime (data hilang/salah/basi) bersifat 'silent'; pilar: freshness, completeness, consistency, schema/lineage monitoring; mencegah keputusan atas data rusak. Whitespace: menggabungkan FinOps + observability sebagai disiplin 'menjalankan DW', bukan membangunnya.",
+      "sources": [
+        "https://www.finops.org/insights/finops-for-data-cloud-platforms/",
+        "https://montecarlo.ai/blog-what-is-data-observability",
+        "https://www.ibm.com/think/insights/a-data-observability-model-for-data-engineers"
+      ]
+    },
+    "sap_business_data_cloud_shift": {
+      "summary": "FRESH 2026: SAP Datasphere & SAP Analytics Cloud dihapus dari daftar Eligible Cloud Services untuk langganan BTPEA/CPEA/PAYG baru per 1 Januari 2026 (efektif 2 Januari 2026 tidak tersedia untuk perpanjangan pada skema tsb). Layanan sama tetap tersedia via SAP Business Data Cloud (BDC). Pelanggan Datasphere/SAC existing dapat lanjut tanpa gangguan; Datasphere tetap tersedia sebagai komponen di dalam BDC (dan sebagai standalone bagi pelanggan yang belum bundle penuh). BDC menyatukan Datasphere + SAC + konten bisnis terkurasi + kemitraan Databricks menjadi platform data ter-governed untuk AI enterprise. VERIFY: SME researcher wajib konfirmasi tanggal & wording komersial ke sumber SAP resmi.",
+      "sources": [
+        "https://community.sap.com/t5/technology-blog-posts-by-sap/announcement-sap-datasphere-and-sap-analytics-cloud-availability-via-sap/ba-p/14140920",
+        "https://www.sap.com/products/data-cloud.html",
+        "https://barc.com/sap-bdc-barc-perspective/",
+        "https://news.sap.com/2025/02/sap-databricks-open-bold-new-era-data-ai/"
+      ]
+    }
+  },
+  "cousin_hubs_selected": {
+    "cousin_1": { "keyword": "Business Intelligence", "url": "https://www.soltius.co.id/id/blog/business-intelligence", "why": "BI adalah konsumen utama data warehouse — warehouse memberi lapisan data tepercaya untuk dashboard/analitik." },
+    "cousin_2": { "keyword": "ERP migration to the cloud", "url": "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud", "why": "Sumber data inti (S/4HANA) dan lapisan data warehouse hidup berdampingan di cloud; keputusan arsitektur data terkait erat dengan migrasi ERP." }
+  },
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      "2026-06-01 definisi-manfaat-enterprise-indonesia",
+      "2026-06-02 data-warehouse-vs-data-lake-vs-lakehouse",
+      "2026-06-03 roadmap-implementasi-5-fase",
+      "2026-06-04 sap-datasphere-vs-bw4hana",
+      "2026-06-05 data-governance-uu-pdp",
+      "2026-08-01 tco-biaya-komponen",
+      "2026-08-02 real-time-vs-batch-cdc",
+      "2026-08-03 migrasi-legacy-brownfield",
+      "2026-08-04 per-industri-use-case",
+      "2026-08-05 fondasi-ai-business-data-cloud"
+    ],
+    "uncovered_angles_selected_this_run": [
+      "data warehouse vs data mart + strategi Inmon vs Kimball (scope & metodologi build)",
+      "sizing / capacity planning data warehouse (compute, storage, concurrency)",
+      "data mesh vs data warehouse terpusat (kesiapan organisasi & ownership data)",
+      "menjalankan DW pasca go-live: FinOps + data observability (biaya & keandalan data)",
+      "SAP Business Data Cloud sebagai kemasan baru Datasphere (perubahan komersial 2026 & keputusan pembeli)"
+    ],
+    "uncovered_angles_left_for_future": [
+      "benchmark performa SAP Datasphere vs Snowflake vs BigQuery (workload)",
+      "data quality assessment mendalam pra-implementasi / MDM",
+      "keamanan & enkripsi data warehouse cloud + data residency Indonesia (angle tersendiri)",
+      "data warehouse untuk retail/e-commerce & healthcare (INA-CBGs)",
+      "MLOps + data warehouse (deployment model & pipeline)"
+    ]
+  }
+}

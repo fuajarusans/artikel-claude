@@ -1,0 +1,122 @@
+{
+  "keyword": "Business Intelligence",
+  "keyword_slug": "business-intelligence",
+  "month": "2026-09",
+  "captured_at": "2026-09-17",
+  "landing_page": "https://www.soltius.co.id/id/blog/business-intelligence",
+  "landing_page_summary": "Hub generik BI: definisi BI, 5 manfaat implementasi, BI vs Business Analytics vs Data Science, cara kerja BI (data mentah ke dashboard), contoh penerapan lintas industri (retail/F&B/finance), Top 3 tools (Tableau, Power BI, Google Looker), dan masa depan BI (AI & automation). TIDAK menyebut SAP Analytics Cloud atau produk SAP — sehingga artikel ber-fokus SAC bersifat komplementer, bukan tumpang tindih dengan hub.",
+  "data_sources_used": ["live_serp_blocked_bot_detection", "websearch", "landing_page_webfetch", "articles_history"],
+  "ahrefs_available": false,
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "BI/analytics stabil-naik; pergeseran ke augmented/AI analytics, planning terhubung (xP&A), dan pelaporan ESG. Tidak ada angka volume tanpa Ahrefs.",
+    "apr2026_rank": "n/a (seo_report: none untuk 2026-09; catatan historis CLAUDE.md: BI sempat crash #10 -> #100, priority 'rescue')"
+  },
+  "serp": {
+    "top_10": [
+      { "url": "https://www.sap.com/sea/products/data-cloud/extended-planning-analysis.html", "title": "Extended Planning and Analysis | xP&A - SAP", "angle_summary": "Halaman produk SAP xP&A: perencanaan lintas departemen (finance, HR, supply chain, sales, operations) di SAP Analytics Cloud." },
+      { "url": "https://www.sap.com/resources/guide-to-spend-analysis", "title": "Spend Analysis | The Ultimate Guide | SAP", "angle_summary": "Panduan spend analysis SAP: visibilitas pengeluaran, kategori, supplier, savings." },
+      { "url": "https://sievo.com/en/resources/spend-analysis-101", "title": "Spend Analysis 101 - Sievo", "angle_summary": "Panduan spend analysis untuk procurement: spend cube, klasifikasi, KPI." },
+      { "url": "https://www.jaggaer.com/blog/spend-analytics-optimization-visibility-kpis-control", "title": "Spend Analytics & Optimization - JAGGAER", "angle_summary": "Spend analytics: visibility, KPI, kontrol maverick spend." },
+      { "url": "https://environment-indonesia.com/laporan-keberlanjutan-sustainability-report-indonesia/", "title": "Sustainability Report Indonesia 2026: Panduan POJK 51, GRI & IFRS", "angle_summary": "Panduan penyusunan laporan keberlanjutan Indonesia sesuai POJK 51, GRI, IFRS." },
+      { "url": "https://www.cekindo.com/blog/sustainability-report-indonesia", "title": "Sustainability Report Indonesia: A Guide to Preparing It - Cekindo", "angle_summary": "Kewajiban laporan keberlanjutan bagi lembaga jasa keuangan, emiten, perusahaan publik." },
+      { "url": "https://insightcubes.com/blog/sap-analytics-designer/extended-planning-and-analysis-xpa-with-sap-analytics-cloud/", "title": "Extended Planning and Analysis (xP&A) with SAP Analytics Cloud - InsightCubes", "angle_summary": "Implementasi xP&A di SAC: model terhubung finance-operasi." },
+      { "url": "https://appinventiv.com/blog/business-intelligence-in-supplychain/", "title": "How Business Intelligence for Supply Chain Boosts Efficiency", "angle_summary": "BI untuk supply chain: visibilitas real-time, supplier performance, cost savings." },
+      { "url": "https://www.bisolusi.com/bi-business-intelligence-analytics-indonesia", "title": "Business Intelligence Services & Solutions Indonesia | BI Solusi", "angle_summary": "Konsultan BI Indonesia (kompetitor); menyebut fungsi HR, Accounting, Procurement, Inventory." }
+    ],
+    "serp_features": ["paa", "ai_overview_likely", "featured_snippet_definition_table"],
+    "ai_overview_entities": ["Business Intelligence", "SAP Analytics Cloud", "xP&A", "rolling forecast", "spend analysis", "maverick spend", "supplier performance", "POJK 51", "laporan keberlanjutan (ESG)", "IFRS S1/S2"],
+    "note_serp_scrape": "WebFetch ke google.com/search diblokir bot-detection (mengembalikan halaman error, bukan hasil). SERP landscape disusun dari WebSearch bertopik + pengetahuan domain. PAA di bawah dikurasi dari WebSearch + pola pencarian B2B Indonesia."
+  },
+  "paa": [
+    "Apa itu xP&A (extended planning and analysis)?",
+    "Apa perbedaan budget, forecast, dan rolling forecast?",
+    "Apa itu driver-based planning?",
+    "Apa itu spend analytics dalam procurement?",
+    "Apa itu maverick spend?",
+    "KPI procurement apa saja yang penting dipantau?",
+    "Bagaimana cara mengukur kinerja supplier (supplier performance)?",
+    "Apa itu laporan keberlanjutan (sustainability report) dan siapa yang wajib?",
+    "Apa itu POJK 51 tentang keuangan berkelanjutan?",
+    "Bagaimana cara menyusun laporan ESG yang bisa diaudit?"
+  ],
+  "gsc_style_queries_from_report": ["n/a (seo_report: none untuk 2026-09)"],
+  "angle_facts": {
+    "planning_xpa": {
+      "facts": [
+        "xP&A (Extended Planning & Analysis) memperluas perencanaan keuangan ke seluruh perusahaan: menghubungkan Finance dengan HR, Supply Chain, Sales, dan Operations dalam satu lingkungan perencanaan (SAP).",
+        "SAP Analytics Cloud menyediakan budgeting, forecasting, dan rolling plan; driver-based planning dengan cascading logic sebagai kapabilitas inti.",
+        "Rolling forecast: aktual periode tertutup dimuat otomatis dari ERP; planner menyesuaikan asumsi untuk periode terbuka.",
+        "Driver-based planning: masukkan asumsi driver (mis. headcount, harga, volume, FX, inflasi) dan sistem menghitung dampaknya, mengurangi jumlah sel yang disentuh.",
+        "Smart Predict di SAC: forecasting time-series otomatis (fitur prediktif)."
+      ],
+      "verify": ["Nama & cakupan modul SAC planning + xP&A terkini (help.sap.com / sap.com xP&A)", "Klaim integrasi aktual otomatis dari S/4HANA ke SAC", "Jangan cantumkan harga lisensi SAC tanpa sumber"],
+      "sources": ["https://www.sap.com/sea/products/data-cloud/extended-planning-analysis.html", "https://learning.sap.com/courses/leveraging-advanced-features-in-sap-analytics-cloud-for-planning/forecasting-with-predictive-analytics_de7bdcb3-f8eb-4dca-bac1-00ebef2b7bee"]
+    },
+    "spend_analytics": {
+      "facts": [
+        "Procurement/spend dashboard: lapisan visual di atas data pembelian (spend, kinerja supplier, kepatuhan kontrak, savings, PO cycle time).",
+        "Maverick spend: porsi pengeluaran di luar kontrol procurement; sinyal celah kepatuhan/tooling.",
+        "Spend Under Management (SUM): persentase total pengeluaran yang dikelola aktif lewat proses procurement.",
+        "Supplier performance: on-time delivery, defect rate, kepatuhan syarat kontrak.",
+        "Contract compliance: persentase spend di bawah kontrak ternegosiasi vs off-contract/maverick.",
+        "BI mengonsolidasikan data dari ERP, WMS, procurement untuk visibilitas rantai pasok real-time."
+      ],
+      "verify": ["Posisi SAP Ariba (spend analysis/sourcing) vs SAP Analytics Cloud sebagai lapisan BI", "Jangan buat angka penghematan fiktif; benchmark savings harus bersumber"],
+      "sources": ["https://www.sap.com/resources/guide-to-spend-analysis", "https://sievo.com/en/resources/spend-analysis-101", "https://www.jaggaer.com/blog/spend-analytics-optimization-visibility-kpis-control"]
+    },
+    "esg_reporting": {
+      "facts": [
+        "POJK No. 51/POJK.03/2017 mewajibkan Laporan Keberlanjutan bagi lembaga jasa keuangan, emiten, dan perusahaan publik.",
+        "Batas penyampaian laporan keberlanjutan (bila terpisah): 30 April tiap tahun.",
+        "Standar baru SPK Indonesia: PSPK 1 (pengungkapan keuangan terkait keberlanjutan umum) dan PSPK 2 (iklim), wajib mulai 1 Januari 2027.",
+        "Kerangka global rujukan: GRI, IFRS S1/S2 (ISSB).",
+        "BI/SAC berperan sebagai lapisan agregasi & visualisasi data ESG (scope 1/2/3, sosial, tata kelola) agar dapat diaudit; SAP memiliki rangkaian produk keberlanjutan yang mengumpankan data."
+      ],
+      "verify": ["Nama produk keberlanjutan SAP terkini (mis. SAP Sustainability Control Tower / SAP Sustainability Footprint Management / SAP Green Ledger) — konfirmasi via sap.com/news.sap.com; JANGAN invent", "Tanggal & cakupan POJK 51 + SPK/PSPK 2027 via OJK", "Peran SAC vs produk keberlanjutan SAP (SAC = pelaporan/analitik, bukan sumber emisi)"],
+      "sources": ["https://environment-indonesia.com/laporan-keberlanjutan-sustainability-report-indonesia/", "https://www.cekindo.com/blog/sustainability-report-indonesia", "https://www.slaughterandmay.com/services/practices/environmental-social-and-governance/esg-in-apac-2025/indonesia"]
+    }
+  },
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      "2026-06: definisi BI (data berlimpah != keputusan)",
+      "2026-06: SAP Analytics Cloud tiga pilar (BI/planning/prediktif) - overview platform",
+      "2026-06: embedded analytics S/4HANA (BI operasional real-time)",
+      "2026-06: self-service BI vs BI tradisional (framework)",
+      "2026-06: 5 alasan proyek BI gagal",
+      "2026-07-2: BI butuh budaya data (data culture, literasi, kematangan)",
+      "2026-07-2: BI untuk retail & distribusi FMCG (5 use case)",
+      "2026-07-2: real-time BI vs laporan batch",
+      "2026-07-2: kenapa angka BI beda-beda (tata kelola data & semantic layer, SSOT)",
+      "2026-07-2: BI untuk UKM (kapan cocok/belum)",
+      "2026-08: BI untuk CFO (laporan bulanan ke keputusan real-time)",
+      "2026-08: augmented analytics (AI, NLQ, prediktif, agentik, Joule)",
+      "2026-08: BI vs Excel (kapan beralih dari spreadsheet)",
+      "2026-08: cara mendesain dashboard BI yang dipakai",
+      "2026-08: ROI BI / business case",
+      "2026-08-2: cara memilih platform BI (kriteria, PoC, build vs buy)",
+      "2026-08-2: keamanan & privasi data BI (RLS, masking, UU PDP)",
+      "2026-08-2: BI untuk manufaktur (OEE, downtime, kualitas)",
+      "2026-08-2: BI Center of Excellence (siapa mengelola BI)",
+      "2026-08-2: BI cloud vs on-premise (deployment)"
+    ],
+    "uncovered_angles": [
+      "BI + Planning terhubung / xP&A (dari anggaran statis ke rolling forecast) - DIPILIH -01",
+      "Spend analytics / BI untuk procurement (spend cube, maverick spend, supplier scorecard) - DIPILIH -02",
+      "BI untuk pelaporan ESG/keberlanjutan (POJK 51, SPK 2027, dashboard ESG auditable) - DIPILIH -03",
+      "Sisa untuk bulan depan: data storytelling/komunikasi insight ke board; rasionalisasi portofolio dashboard (dashboard sprawl); mobile BI untuk sales lapangan; BI untuk sektor jasa keuangan/perbankan; dimensional/data modeling untuk BI"
+    ]
+  },
+  "cousin_hub_choices": {
+    "note": "Cousin dipilih dari SET KEYWORD 2026-09 (bukan peta tetap product_matrix): warehouse-management-system, low-code-platform, vendor-management-system, sap-clean-core.",
+    "-01_planning_xpa": ["sap-clean-core (SAC/planning = lapisan side-by-side, core S/4HANA tetap bersih)", "warehouse-management-system (xP&A/integrated planning mengonsumsi sinyal permintaan & inventori)"],
+    "-02_spend_analytics": ["vendor-management-system (supplier performance & spend supplier)", "warehouse-management-system (data inventori/penerimaan sebagai sumber spend & fulfillment)"],
+    "-03_esg": ["vendor-management-system (data keberlanjutan supplier / emisi scope 3)", "low-code-platform (aplikasi pengumpulan data ESG di SAP BTP)"]
+  },
+  "briefs_derived": [
+    "business-intelligence-01 (bi-planning-xpa-rolling-forecast-sac, decision)",
+    "business-intelligence-02 (bi-spend-analytics-procurement-supplier, how-to)",
+    "business-intelligence-03 (bi-esg-sustainability-reporting-pojk, informational)"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "keyword": "Perusahaan CNG Indonesia",
+  "keyword_slug": "perusahaan-cng-indonesia",
+  "month": "2026-10",
+  "captured_at": "2026-09-28",
+  "intent_lock": "KOMERSIAL / penyedia (procurement, kontrak, SLA, evaluasi & tata kelola penyedia, TCO/harga komersial)",
+  "landing_page": "https://gagas.co.id/perusahaan-cng-indonesia/",
+  "landing_page_summary": "Hub memposisikan PGN Gagas sebagai distributor CNG 'virtual pipeline' untuk industri & komersial di luar jangkauan pipa; klaim: gas bumi industri ~32% dari harga HSD (hemat s.d. 68%), Jaminan Stabilitas Pasokan (Security of Supply) terintegrasi infrastruktur PGN, Sistem Pemantauan Telemetri IoT (volume + tekanan real-time, penjadwalan pengisian otomatis), harga CNG retail flat selama periode kontrak. Tidak memuat rincian klausul kontrak/SLA/negosiasi/kepemilikan data secara eksplisit.",
+  "data_sources_used": ["live_serp_via_websearch", "websearch", "landing_page_webfetch"],
+  "ahrefs_available": false,
+  "seo_report": "none (per keywords.md)",
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Permintaan penyedia CNG tumbuh seiring konversi LPG->CNG (roadmap ESDM), tekanan harga gas industri 2026, dan gangguan pasokan gas pipa Jawa bagian barat yang mendorong LNG/CNG sebagai substitusi.",
+    "report_rank": "n/a (no SEO report named)"
+  },
+  "serp": {
+    "note": "google.com/search scrape diblokir Google; lanskap SERP disusun dari WebSearch (kueri ID) + WebFetch hub.",
+    "top_competitors": [
+      { "url": "https://gagas.co.id/perusahaan-cng-indonesia/", "title": "Perusahaan CNG Indonesia: Kontribusinya terhadap Ekonomi (PGN Gagas)", "angle_summary": "Hub sendiri: virtual pipeline, hemat vs HSD, security of supply, telemetri." },
+      { "url": "https://www.bloombergtechnoz.com/detail-news/108557/daftar-53-perusahaan-cng-di-ri-termasuk-anak-usaha-pgn-pgas", "title": "Daftar 53 Perusahaan CNG di RI, Termasuk Anak Usaha PGN", "angle_summary": "ESDM: 53 pemegang izin niaga CNG per semester II-2025 (konteks lanskap penyedia)." },
+      { "url": "https://sentralgas.com/", "title": "Suplier CNG, Distributor CNG, Agen CNG, Perusahaan CNG", "angle_summary": "Direktori/penyedia CNG komersial." },
+      { "url": "https://mosafaprimasinergi.co.id/", "title": "PT Mosafa Prima Sinergi - Penyedia Gas CNG Berizin Resmi", "angle_summary": "Penyedia CNG HORECA + industri; menonjolkan izin resmi." },
+      { "url": "https://gasalamsentosa.com/", "title": "PT Gas Alam Sentosa", "angle_summary": "Distributor CNG sejak 2012, Jabar/Jatim/Jateng, 200+ pelanggan." },
+      { "url": "https://dgas.co.id/", "title": "CNG Supplier - PT DGAS Alam Semesta - ISO 9001:2015", "angle_summary": "Penyedia CNG bersertifikat ISO 9001 dari mother station." },
+      { "url": "https://www.aquagasenergi.com/", "title": "Distributor Gas CNG - PT Aqua Gas Energi", "angle_summary": "Distribusi CNG via virtual pipeline untuk industri." },
+      { "url": "https://agendasonly.com/layanan-penyedia-cng-pasokan-distribusi-gtm/", "title": "Layanan Penyedia CNG: Pasokan, Distribusi GTM (aggregator)", "angle_summary": "Republikasi tema cluster Gagas #02 (indikasi topik ini dicari & disalin)." }
+    ],
+    "serp_features": ["organic_directory_heavy", "no_reliable_ai_overview_capture (scrape blocked)", "paa_present"],
+    "ai_overview_entities": ["CNG (Compressed Natural Gas)", "izin niaga CNG (ESDM)", "virtual pipeline / beyond pipeline", "GTM (Gas Transportation Module)", "PRS", "telemetri", "HGBT", "PGN Gagas / anak usaha PGN"]
+  },
+  "paa": [
+    "Apa saja perusahaan CNG di Indonesia?",
+    "Berapa banyak perusahaan pemegang izin niaga CNG di Indonesia?",
+    "Bagaimana cara memilih penyedia CNG yang tepat?",
+    "Apa yang harus ada di kontrak pasokan CNG?",
+    "Siapa yang bertanggung jawab atas PRS dan GTM dalam kontrak CNG?",
+    "Apakah harga CNG tetap atau mengikuti harga minyak dunia?",
+    "Bagaimana kalau pasokan CNG dari satu penyedia terganggu?",
+    "Apakah data pemakaian gas dari telemetri milik pelanggan atau penyedia?",
+    "Berapa harga gas industri per MMBTU di 2026?",
+    "Apa bedanya harga HGBT dan non-HGBT?"
+  ],
+  "verified_facts_for_researcher_to_reconfirm": [
+    "HGBT: US$6,5/MMBTU (bahan baku) & US$7/MMBTU (bahan bakar), berlaku s.d. 31 Des 2026 (Kepmen ESDM; Bahlil, Tribunnews 2026).",
+    "Gas pipa non-HGBT: rata-rata ~US$9,6/MMBTU (2026).",
+    "LNG non-HGBT industri: turun ke US$13/MMBTU dari ~US$20,57/MMBTU (Pertamina/Bahlil, ~Juni 2026, s.d. 31 Des 2026).",
+    "Gas bumi industri ~32% dari harga HSD => cost reduction s.d. 68% (klaim hub gagas.co.id; perlu atribusi).",
+    "Harga CNG retail flat selama periode kontrak (klaim hub gagas.co.id).",
+    "ESDM: 53 perusahaan pemegang izin niaga CNG per semester II-2025 (Bloomberg Technoz).",
+    "Gangguan pasokan gas pipa Jawa bagian barat 2026; PGN sempat batasi pemakaian industri ~48% pada periode tertentu (ASAKI/berita industri).",
+    "EMS pabrik lazim integrasi ERP/BMS via Modbus/MQTT; menyimpan data operasional sensitif (risiko siber). Isu 'kepemilikan data/lock-in' untuk telemetri gas BELUM dibahas kompetitor ID (whitespace terkonfirmasi)."
+  ],
+  "sources": [
+    "https://www.tribunnews.com/bisnis/7847821/bahlil-harga-gas-industri-turun-jadi-13-dolar-as-hgbt-tetap-65-7-dolar-as-per-mmbtu",
+    "https://industri.kontan.co.id/news/evaluasi-harga-gas-industri-hgbt-dan-gas-pipa-tetap-lng-turun-ke-us-13-per-mmbtu",
+    "https://finance.detik.com/energi/d-8556517/pertamina-siap-turunkan-harga-gas-industri-jadi-us-13-mmbtu",
+    "https://www.bloombergtechnoz.com/detail-news/108557/daftar-53-perusahaan-cng-di-ri-termasuk-anak-usaha-pgn-pgas",
+    "https://irmapa.org/pembangunan-prosedur-aplikatif-kontingensi-bisnis-business-contingency-plan-bcp/",
+    "https://cepagram.com/index.php/2020/09/02/top-5-issues-business-interruption-insurance-5-masalah-teratas-dalam-asuransi-gangguan-usaha/",
+    "https://www.leapfactor.io/blog/implementasi-energy-monitoring-system-di-pabrik-industri-4-0",
+    "https://www.latticeman.com/blog/integrasi-power-monitoring-dengan-ems"
+  ],
+  "history_snapshot": {
+    "committed_perusahaan_cng_count": 18,
+    "committed_cng_indonesia_informational_count": 15,
+    "existing_commercial_angles": [
+      "01 memilih 7 kriteria", "02 layanan/scope GTM-PRS-telemetri", "03 industri dilayani + berlangganan", "04 keamanan & keandalan", "05 kesalahan memilih", "06 TCO", "07 model harga & kontrak (minimum offtake->formula)", "08 keandalan/business continuity (janji penyedia)", "09 pertanyaan wajib + red flags", "10 HORECA ganti LPG", "11 pengadaan MBG/instansi (LKPP)", "12 migrasi pipa->CNG", "13 eskalasi/SLA/kompensasi (reaktif)", "14 multi-lokasi/multi-vendor", "15 data ESG/emisi", "16 tender/KAK/kontrak payung", "17 timeline instalasi/commissioning", "18 kelola kinerja: perpanjang vs tender ulang"
+    ],
+    "parked_whitespace_mined": [
+      "Negosiasi & benchmark harga CNG mendalam (parked by #16 & #18) -> Brief 01",
+      "Dual-source management / fallback saat vendor gagal / contingency pipa shutdown / peran asuransi BI (parked by #12, #13, #14) -> Brief 02",
+      "Cost-benefit EMS & break-even / integrasi ERP dengan gas metering / kredibilitas & kepemilikan data (parked by #14, #15) -> Brief 03"
+    ],
+    "briefs_derived": [
+      { "brief_id": "perusahaan-cng-indonesia-01", "angle": "benchmark-harga-negosiasi-kontrak-cng", "angle_hash": "sha1:fb1f78a67ea3", "intent": "decision" },
+      { "brief_id": "perusahaan-cng-indonesia-02", "angle": "kontingensi-ketahanan-pasokan-energi-pembeli", "angle_hash": "sha1:e6bdce9e0f7c", "intent": "how-to" },
+      { "brief_id": "perusahaan-cng-indonesia-03", "angle": "kepemilikan-data-integrasi-ems-anti-lock-in-cng", "angle_hash": "sha1:e2cf54d03f60", "intent": "commercial" }
+    ]
+  }
+}

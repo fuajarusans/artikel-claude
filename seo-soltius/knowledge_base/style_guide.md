@@ -74,7 +74,6 @@ At minimum, across the article include:
 | Inline data with specific numbers | 6+ (durations, %, counts, years, prices/ranges) |
 | Question-format H2 | 1 |
 | FAQ block at end | 1 (5–7 Q&As) |
-| `{IMAGE_NN: ...}` placeholders | 2 (up to 3 only if it truly helps) |
 
 If a draft is 90% bullet points or 100% prose, it fails. At 1,500–1,800 words, aim for ~4–5 H2s and keep one comparison table + one list + the FAQ — don't cram every element if it pads.
 
@@ -135,7 +134,7 @@ Editor must catch; writer must avoid.
 
 ## 6. Visual rhythm — the "scrollability" check
 
-At 30% zoom the page should show texture: varying paragraph heights, a numbered list, a comparison table, 2–3 image placeholders, an FAQ block. A wall of uniform paragraphs or one giant bullet dump fails the eye test before SEO.
+At 30% zoom the page should show texture: varying paragraph heights, a numbered list, a comparison table, an FAQ block. A wall of uniform paragraphs or one giant bullet dump fails the eye test before SEO.
 
 ---
 
@@ -219,18 +218,6 @@ The editor verifies this block.
 
 ---
 
-## 12. Image placeholders (no AI generation — brief for the design team)
-
-Per the project decision, the writer does NOT generate images. Instead, mark 2–3 `{IMAGE_NN: ...}` placeholders with a **rich concept description** the design team can execute. Follow the SAP B1 benchmark's level of detail. Each should specify: subject, layout, style, color, and that any text is in Bahasa Indonesia. Examples:
-
-- `{IMAGE_01: Infografik checklist 7 tanda — tiap poin dengan ikon, gaya korporat biru-putih, teks Bahasa Indonesia}`
-- `{IMAGE_02: Diagram side-by-side — kiri "Software Akuntansi" silo (merah/abu), kanan "ERP terintegrasi" alur tersambung ke satu database (hijau/biru)}`
-- `{IMAGE_03: Timeline horizontal lima fase migrasi, tiap fase dengan ikon + durasi tipikal, warna progresif abu→hijau}`
-
-The `enterprise-it-image-planner` agent expands these into a structured `images.json` brief (alt-text + caption + visual direction + suggested asset type: infographic / diagram / screenshot / stock photo). No PNG is produced.
-
----
-
-## 13. The benchmark in one sentence
+## 12. The benchmark in one sentence
 
 > Read the draft aloud. If it sounds like a senior consultant leveling with a smart executive — concrete numbers, honest caveats, a comparison table, the occasional "ini sering disalahpahami" aside, and varied rhythm — it's ready. If it sounds like a polished vendor brochure or an AI summary, send it back.

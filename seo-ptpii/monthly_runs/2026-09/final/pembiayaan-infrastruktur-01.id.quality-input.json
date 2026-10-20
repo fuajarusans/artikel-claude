@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-ptpii\\monthly_runs\\2026-09\\final\\pembiayaan-infrastruktur-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-22T05:59:44+07:00",
+    "word_count":  1848,
+    "paragraph_count":  23,
+    "sentence_count":  102,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.589,
+                        "sentence_burstiness":  1.397,
+                        "top30_vocab_share":  0.272,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "109 Tahun 2025](https://peraturan.bpk.go.id/Details/334718/perpres-no-109-tahun-2025), ditetapkan 10 Oktober 2025 dan resmi mencabut Perpres No.",
+                                      "candidate_score":  37,
+                                      "web_search_query":  "\"109 Tahun 2025](https://peraturan.bpk.go.id/Details/334718/perpres-no-109-tahun-2025), ditetapkan 10 Oktober 2025 dan re\""
+                                  },
+                                  {
+                                      "passage":  "Publikasi resmi 2026 menyebut kisaran 15–30 tahun, sementara proyek yang telah mencapai *financial close* menunjukkan masa kerja sama sekitar 10–15 tahun setelah penyiapan 3–4 tahun.",
+                                      "candidate_score":  31,
+                                      "web_search_query":  "\"Publikasi resmi 2026 menyebut kisaran 15–30 tahun, sementara proyek yang telah mencapai *financial close* menunjukkan ma\""
+                                  },
+                                  {
+                                      "passage":  "Hingga Juni 2026, baru satu proyek KPBU sektor persampahan yang memperoleh penjaminan pemerintah, yaitu PSEL/TPPAS Regional Legok Nangka di Jawa Barat.",
+                                      "candidate_score":  29,
+                                      "web_search_query":  "\"Hingga Juni 2026, baru satu proyek KPBU sektor persampahan yang memperoleh penjaminan pemerintah, yaitu PSEL/TPPAS Regio\""
+                                  },
+                                  {
+                                      "passage":  "Proyek SPAM menjual air curah kepada PDAM, dan menurut data BPPSPAM 2019 hanya 42% PDAM berkategori \"sehat\".",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Proyek SPAM menjual air curah kepada PDAM, dan menurut data BPPSPAM 2019 hanya 42% PDAM berkategori  sehat .\""
+                                  },
+                                  {
+                                      "passage":  "Pembiayaan umumnya berasal dari badan usaha pelaksana (BUP) bentukan investor, dengan komposisi lazim sekitar 70–80% utang dan 20–30% ekuitas (portal KPBU Kementerian Keuangan, diakses September 2026).",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Pembiayaan umumnya berasal dari badan usaha pelaksana (BUP) bentukan investor, dengan komposisi lazim sekitar 70–80% uta\""
+                                  },
+                                  {
+                                      "passage":  "**Horizon modal terkunci.** Publikasi resmi 2026 menyebut masa kerja sama 15–30 tahun; tahap eksplorasi panjang menunda rupiah pertama.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"**Horizon modal terkunci.** Publikasi resmi 2026 menyebut masa kerja sama 15–30 tahun; tahap eksplorasi panjang menunda \""
+                                  },
+                                  {
+                                      "passage":  "Pembayaran ketersediaan Palapa Ring dan SATRIA dilaporkan berjalan sekitar 15 tahun pasca-konstruksi.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Pembayaran ketersediaan Palapa Ring dan SATRIA dilaporkan berjalan sekitar 15 tahun pasca-konstruksi.\""
+                                  },
+                                  {
+                                      "passage":  "Alasannya sederhana: kreditur menilai proyeksi arus kas, bukan nilai aset (portal KPBU Kementerian Keuangan), sehingga kualitas pihak yang membayar menjadi variabel harga.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Alasannya sederhana: kreditur menilai proyeksi arus kas, bukan nilai aset (portal KPBU Kementerian Keuangan), sehingga k\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07-2\\final\\perusahaan-lng-indonesia-04.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-08T09:47:45+07:00",
+    "word_count":  1613,
+    "paragraph_count":  25,
+    "sentence_count":  95,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.332,
+                        "sentence_burstiness":  0.819,
+                        "top30_vocab_share":  0.267,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.332 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Profil risikonya berbeda karena wujud fisiknya berbeda: LNG berisiko kriogenik (cold burn, RPT) karena disimpan cair pada -162°C, sedangkan CNG berisiko tekanan tinggi.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Profil risikonya berbeda karena wujud fisiknya berbeda: LNG berisiko kriogenik (cold burn, RPT) karena disimpan cair pad\""
+                                  },
+                                  {
+                                      "passage":  "50 Tahun 2012 tentang SMK3 — kerangka yang selaras dengan standar internasional ISO 45001:2018.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"50 Tahun 2012 tentang SMK3 — kerangka yang selaras dengan standar internasional ISO 45001:2018.\""
+                                  },
+                                  {
+                                      "passage":  "Wadah kriogenik mengikuti spesifikasi teknis internasional, sementara penanganannya diatur kerangka Sistem Manajemen K3 (SMK3) yang wajib bagi industri berisiko tinggi di Indonesia.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Wadah kriogenik mengikuti spesifikasi teknis internasional, sementara penanganannya diatur kerangka Sistem Manajemen K3 \""
+                                  },
+                                  {
+                                      "passage":  "## Standar dan Sertifikasi yang Menopang Keselamatan LNG Keselamatan LNG bukan sekadar kehati-hatian individu; ia ditopang standar wadah dan sistem manajemen K3.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Standar dan Sertifikasi yang Menopang Keselamatan LNG Keselamatan LNG bukan sekadar kehati-hatian individu; ia ditopa\""
+                                  },
+                                  {
+                                      "passage":  "## Miskonsepsi tentang Bahaya LNG yang Perlu Diluruskan Sebagian besar ketakutan terhadap LNG lahir dari miskonsepsi, bukan dari risiko sebenarnya.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Miskonsepsi tentang Bahaya LNG yang Perlu Diluruskan Sebagian besar ketakutan terhadap LNG lahir dari miskonsepsi, bu\""
+                                  },
+                                  {
+                                      "passage":  "Prinsip yang sama menopang [keselamatan penanganan CNG](https://gagas.co.id/perusahaan-cng-indonesia/), meski profil risikonya berbeda karena CNG disimpan bertekanan, bukan kriogenik.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Prinsip yang sama menopang [keselamatan penanganan CNG](https://gagas.co.id/perusahaan-cng-indonesia/), meski profil ris\""
+                                  },
+                                  {
+                                      "passage":  "Satu poin yang sering disalahpahami: RPT bukan ledakan kimia, melainkan **ledakan fisik tanpa api**.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Satu poin yang sering disalahpahami: RPT bukan ledakan kimia, melainkan **ledakan fisik tanpa api**.\""
+                                  },
+                                  {
+                                      "passage":  "LNG berisiko kriogenik, CNG berisiko tekanan tinggi; keduanya aman bila ditangani sesuai standar.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"LNG berisiko kriogenik, CNG berisiko tekanan tinggi; keduanya aman bila ditangani sesuai standar.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

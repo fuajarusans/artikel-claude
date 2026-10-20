@@ -1,0 +1,98 @@
+{
+  "keyword": "Perusahaan CNG Indonesia",
+  "keyword_slug": "perusahaan-cng-indonesia",
+  "month": "2026-07-2",
+  "captured_at": "2026-07-07",
+  "intent_locked": "commercial/provider-side (memilih & menilai penyedia CNG: TCO, model harga/kontrak, keandalan/business-continuity, pertanyaan due-diligence, pengadaan per sektor). NOT informational 'apa itu CNG / cara kerja / mitos / sejarah / keselamatan tabung' — that belongs to sibling keyword 'CNG Indonesia' (same hub). Dedup across BOTH the part-1 commercial set AND the new informational set.",
+  "landing_page": "https://gagas.co.id/perusahaan-cng-indonesia/",
+  "landing_page_summary": "Hub CNG PGN Gagas. Sisi provider: dua produk (Gaslink industri/komersial, Gasku transportasi), model virtual pipeline beyond-pipeline, telemetri IoT real-time, PRS di lokasi pelanggan, 4 segmen (manufaktur keramik/logam/tekstil/kertas, transportasi/logistik, komersial hotel/RS/F&B, potensi ekspor regional), klaim biaya gas industri ~32% harga HSD (hemat ~68%), 'Security of Supply' terintegrasi infrastruktur PGN. TIDAK membahas mendalam: proses kontrak/minimum offtake, model/struktur harga (Rp/MMBTU), prosedur ganti penyedia, SLA dengan penalti terukur, timeline onboarding, perbandingan antar penyedia. Ruang whitespace komersial ada di area kontrak/harga/TCO/BCP.",
+  "data_sources_used": ["webfetch_landing_page", "websearch (live SERP Google diblok akses error; WebSearch dipakai)"],
+  "ahrefs_available": false,
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Naik. Dua pendorong Juli 2026: (1) krisis pasokan gas pipa industri (Asaki/AKLP keluhkan gangguan, PGN sebut force majeure; kuota HGBT dipotong ke ~48% permintaan, kelebihan kena surcharge) mendorong industri cari moda alternatif (CNG/LNG) -> query pengadaan penyedia. (2) Evaluasi harga gas industri (LNG non-HGBT dipangkas ke US$13/MMBTU per akhir Juni 2026; HGBT dipertahankan US$6,5-7/MMBTU) -> query harga/TCO gas.",
+    "report_rank": "n/a (seo_report: none in keywords.md)"
+  },
+  "serp": {
+    "top_10": [
+      { "url": "https://www.gagas.co.id/perusahaan-cng-indonesia", "title": "Perusahaan CNG Indonesia (hub Gagas)", "angle_summary": "Hub klien; profil provider + produk Gaslink/Gasku + klaim hemat vs HSD." },
+      { "url": "https://agendasonly.com/layanan-penyedia-cng-pasokan-distribusi-gtm/", "title": "Layanan Penyedia CNG: Pasokan, Distribusi GTM, hingga Dukungan Teknis", "angle_summary": "Artikel cluster part-1 (sindikasi) tentang lingkup layanan 5-lapis penyedia CNG." },
+      { "url": "https://money.kompas.com/read/2026/05/21/100540626/pgn-amankan-pasokan-gas-jangka-panjang-untuk-industri-ri-di-ipa-convex-2026", "title": "PGN Amankan Pasokan Gas Jangka Panjang untuk Industri RI (IPA Convex 2026)", "angle_summary": "Konteks keamanan pasokan jangka panjang & kontrak industri." },
+      { "url": "https://industri.kontan.co.id/news/evaluasi-harga-gas-industri-hgbt-dan-gas-pipa-tetap-lng-turun-ke-us-13-per-mmbtu", "title": "Evaluasi Harga Gas Industri: HGBT & Gas Pipa Tetap, LNG Turun ke US$13/MMBTU", "angle_summary": "Data harga gas industri terbaru (Juni-Juli 2026); bahan TCO/pricing." },
+      { "url": "https://www.kompas.id/artikel/en-ketimpangan-pasokan-gas-hambat-pertumbuhan-industri-manufaktur", "title": "Ketimpangan Pasokan Gas Hambat Pertumbuhan Industri Manufaktur", "angle_summary": "Gangguan pasokan gas pipa & dampak utilisasi; bahan business-continuity." },
+      { "url": "https://ekonomi.republika.co.id/berita/on9fj9368/hotel-dharmawangsa-gunakan-cng-pgn-untuk-laundry", "title": "Hotel Dharmawangsa Gunakan CNG PGN untuk Laundry", "angle_summary": "Studi kasus HORECA nyata: hotel pakai CNG untuk boiler laundry." },
+      { "url": "https://wartaekonomi.co.id/amp/read611634/pgn-gencar-salurkan-cng-di-batam-restoran-hingga-sppg-beralih-dari-lpg", "title": "PGN Gencar Salurkan CNG di Batam, Restoran hingga SPPG Beralih dari LPG", "angle_summary": "Komersial/HORECA beralih dari LPG ke CNG di Batam; bahan pengadaan sektor." }
+    ],
+    "serp_features": ["ai_overview_likely", "paa", "top_stories (harga gas industri & pasokan)"],
+    "ai_overview_entities": ["Compressed Natural Gas", "penyedia/perusahaan CNG", "Gas Transport Module (GTM)", "HGBT", "MMBTU", "Izin Usaha Niaga", "SLA", "beyond pipeline", "Gaslink", "PGN Gagas"]
+  },
+  "paa": [
+    "Berapa harga CNG industri per MMBTU?",
+    "Bagaimana cara berlangganan gas CNG untuk pabrik?",
+    "Apa itu minimum offtake dalam kontrak gas?",
+    "Berapa penghematan beralih dari solar/LPG ke CNG?",
+    "Bagaimana penyedia CNG menjamin pasokan tidak terputus?",
+    "Apa saja yang harus ditanyakan ke penyedia gas industri?",
+    "Apakah CNG cocok untuk hotel dan rumah sakit?",
+    "Berapa lama proses beralih ke penyedia CNG?",
+    "Apa bedanya izin niaga dan hak khusus penyedia gas?",
+    "Bagaimana menghitung total biaya beralih ke gas bumi?"
+  ],
+  "gsc_style_queries_from_report": "n/a (seo_report: none)",
+  "key_facts_verified": {
+    "harga_gas_industri_2026": "HGBT (Harga Gas Bumi Tertentu) dipertahankan ~US$6,5/MMBTU untuk bahan baku & ~US$7/MMBTU untuk bahan bakar (harga keekonomian ~US$7). Gas pipa non-HGBT rata-rata ~US$9,6/MMBTU. LNG non-HGBT untuk industri dipangkas pemerintah menjadi US$13/MMBTU (dari US$20-23 sebelumnya) per akhir Juni 2026 untuk cegah PHK. Sumber: Kontan (evaluasi harga gas industri), CNN Indonesia (29 Jun 2026), ESDM/Ditjen Migas, Tempo, KilasJatim (Asaki: biaya gas keramik susut ~40% dgn LNG US$13). VERIFY angka terbaru sebelum tayang.",
+    "krisis_pasokan_business_continuity": "Semester I 2026: industri padat energi (keramik, kaca, baja, pupuk, petrokimia, oleokimia) mengeluhkan gangguan pasokan gas pipa; PGN mengatributkan pada force majeure. Kuota HGBT diberlakukan ~48% dari permintaan; pemakaian di atas kuota kena tambahan biaya (~12% -> setara ~US$17,8/MMBTU dari US$14,8 di satu laporan). Utilisasi industri keramik semester I ~70-71%. Chandra Asri/TPIA sempat force majeure lalu dicabut Mei 2026. PGN siap salurkan LNG US$13/MMBTU ke industri non-HGBT terdampak di Jabar/Banten/Jakarta. Implikasi: CNG/LNG beyond-pipeline sebagai backup/alternatif saat pasokan pipa tak andal. Sumber: Kompas.id (ketimpangan pasokan gas; PGN respons), Detik Finance, Dunia Energi, Bareksa. VERIFY.",
+    "harga_solar_industri": "Solar industri (mis. B40/HSFO) berada di kisaran puluhan ribu rupiah/liter (satu laporan MSN menyebut solar industri B40 ~Rp30.550/liter). Landing page Gagas: biaya gas industri ~32% dari harga HSD (implikasi hemat ~68%); riset lain menyebut hemat 15-30% (rule of thumb lapangan). Gunakan sebagai RANGE, label sebagai acuan bukan jaminan. VERIFY harga solar industri terbaru dari Pertamina.",
+    "tco_capex_opex": "Beralih ke CNG melibatkan capex sisi pelanggan (retrofit burner/boiler, penyesuaian instalasi, penyediaan lahan untuk PRS/penyimpanan) + opex (harga gas per MMBTU + komponen distribusi/transport). PGN capex 2026 ~US$353 juta (fokus infrastruktur gas & transisi energi), dgn porsi ~US$219 juta transmisi/distribusi (termasuk CNG/LNG). Payback konversi bergantung profil konsumsi & selisih harga vs bahan bakar lama; tidak ada angka payback universal -> sajikan sebagai kerangka hitung, bukan janji. Sumber: StockWatch/KabarBursa (capex PGAS/PGN 2026). VERIFY.",
+    "horeca_case_studies": "Hotel Dharmawangsa (Jakarta) memanfaatkan CNG PGN untuk memasak & boiler laundry; estimasi hemat ~20-50% vs elpiji (merdeka.com). PGN salurkan CNG di Batam: restoran hingga dapur SPPG/MBG beralih dari LPG (Warta Ekonomi). Efisiensi biaya pelanggan HORECA & industri umumnya dikutip 15-30% vs LPG non-subsidi. Sektor HORECA/komersial dominan dalam pemanfaatan CNG saat ini (bersama industri). Sumber: Republika, merdeka.com, Warta Ekonomi, CNBC Indonesia. VERIFY nama/angka sebelum dikutip sbg outcome.",
+    "regulasi_pengadaan": "Niaga & pengangkutan CNG (selain pipa) wajib Izin Usaha Niaga (IUN) dari Menteri ESDM/Ditjen Migas; penyedia jaringan dapat memiliki Hak Khusus dari BPH Migas (instrumen terpisah). Permen ESDM 32/2021 mengatur inspeksi teknis instalasi migas berkala. (Sudah sebagian dibahas di part-1 01/04/05 dari sisi verifikasi legalitas -> di batch ini gunakan hanya sekilas dlm konteks pertanyaan due-diligence/harga, jangan ulang deep-dive sertifikasi.) VERIFY nomor regulasi.",
+    "gagas_anchor_fact": "PGN Gagas: anak usaha PGN (Subholding Gas Pertamina); distributor CNG beyond-pipeline via GTM (Gaslink industri/komersial, Gasku transportasi); sertifikasi ISO 9001:2015, ISO 45001:2018, ISO 37001:2016 (2025); layanan 24 jam; telemetri/IoT real-time. Mother Station CNG pertama di Medan (Martubung) mulai dibangun ~Sep 2025, kapasitas hingga 1 MMSCFD, melayani industri/komersial/UMKM Sumut beyond pipeline. 'Security of Supply' terintegrasi infrastruktur PGN. Merek Gaslink raih BUMN Branding & Marketing Award 2022. JANGAN klaim posisi pasar ('terbesar'), pangsa, atau jumlah pelanggan di luar company_profile.md tanpa sumber."
+  },
+  "history_snapshot": {
+    "part1_commercial_articles_for_keyword": [
+      "cara-memilih-perusahaan-cng-indonesia (sha1:7f8e9d0c1a2b) — 7 KRITERIA POSITIF pemilihan penyedia (IUN, ISO 45001/9001, Permen 32/2021, keandalan, penghematan, track record). Framework kriteria statis.",
+      "layanan-penyedia-cng-pasokan-distribusi-gtm (sha1:8g9h0i1j2k3l) — LINGKUP LAYANAN yang dibeli (pasokan+GTM+PRS+telemetri+support 24 jam); tabel tanggung jawab penyedia vs pembeli; C-Cyl.",
+      "perusahaan-cng-indonesia-industri-cara-berlangganan (sha1:9m0n1o2p3q4r) — SEKTOR HGBT (pupuk/petrokimia/baja/keramik/kaca/dll) + HOREKA sekilas + ONBOARDING 6 LANGKAH survey->operasi + konsumsi minimum C-Cyl ~300 m3/bln.",
+      "keamanan-keandalan-pasokan-cng (sha1:5s6t7u8v9w0x) — KEAMANAN=standar (ISO 45001, Permen 32/2021, Kepmen 176.K/2024, auto-ignition, flammability) & KEANDALAN=standar operasi (99,9%, backup, PRD). Framing STANDAR/SERTIFIKASI.",
+      "kesalahan-memilih-perusahaan-cng-indonesia (sha1:1y2z3a4b5c6d) — 7 KESALAHAN pembeli (jebakan harga termurah vs TCO, abai legalitas, abai kesiapan lokasi, hidden cost, kesalahan sisi pembeli). Framing NEGATIF/mistakes."
+    ],
+    "new_informational_siblings_this_batch_AVOID": [
+      "cng-3kg-tabung-merah-putih-pengganti-lpg (sha1:087d33b50adb)",
+      "keselamatan-cng-spesifikasi-tabung-standar (sha1:3819ebde673e)",
+      "mitos-fakta-cng-benar-salah (sha1:b5a266cc3782)",
+      "cng-vs-listrik-ev-dua-jalur-energi-bersih (sha1:5a8cc28d3d66)",
+      "sejarah-cng-bbg-indonesia-1986-2026 (sha1:0d7b1efb3f08)"
+    ],
+    "uncovered_commercial_angles": [
+      "TCO worked-example: kerangka hitung biaya total beralih ke penyedia CNG (5 komponen, capex vs opex, payback) dengan angka harga gas 2026 nyata — part-1 hanya sebut 'jebakan harga termurah', tak pernah MENGHITUNG TCO.",
+      "Model harga & struktur kontrak: Rp/MMBTU, minimum offtake / take-or-pay, formula eskalasi, durasi vs fleksibilitas — sama sekali belum ada; landing page pun tak bahas.",
+      "Keandalan sebagai BUSINESS CONTINUITY (BCP) pengadaan: pakai krisis pasokan pipa 2026 (force majeure/kuota HGBT) sebagai bingkai; CNG sebagai backup/alternatif; SLA respons & kompensasi — berbeda dari part-1 04 yang membingkai keandalan sbg STANDAR keselamatan.",
+      "Pertanyaan wajib diajukan ke calon penyedia (interview/RFP script + red flags) — berbeda dari part-1 01 (kriteria statis) & 05 (kesalahan); ini SKRIP DIALOG pengadaan.",
+      "Pengadaan CNG untuk sektor NON-HGBT komersial (HORECA: hotel/RS/restoran/laundry) sbg pengganti LPG non-subsidi — part-1 03 fokus HGBT + onboarding; segmen HORECA sengaja ditinggal dangkal. Sudut = ekonomi pengadaan & kelayakan, bukan langkah onboarding."
+    ],
+    "avoided_to_prevent_overlap": [
+      "Deep-dive sertifikasi/standar keselamatan sebagai topik utama (part-1 04) — hanya disebut sekilas dalam konteks pertanyaan/harga.",
+      "Daftar '7 kriteria positif' atau '7 kesalahan' bergaya listicle (part-1 01/05).",
+      "Lingkup layanan 5-lapis / tanggung jawab penyedia vs pembeli sebagai topik utama (part-1 02).",
+      "Langkah onboarding 6-tahap & konsumsi minimum sebagai fokus (part-1 03).",
+      "Apa itu CNG / cara kerja / mitos / sejarah / spesifikasi tabung / CNG-vs-EV (milik cluster informasional 'CNG Indonesia')."
+    ]
+  },
+  "cousin_selection": {
+    "note": "Cousins dipilih dari keyword set bulan ini (2026-07-2). Untuk hub CNG-komersial, 2 hub paling terkait = Gaslink (produk CNG industri/komersial yang justru 'dibeli') + Perusahaan LNG Indonesia (moda gas saudara / opsi pasokan alternatif). Untuk brief HORECA, Gasku kurang relevan -> pakai Gaslink + Perusahaan LNG. Untuk brief harga/TCO, Perusahaan LNG relevan (perbandingan moda & harga LNG US$13). Gasku dipakai bila konteks transportasi/armada muncul.",
+    "primary_hub": "https://gagas.co.id/perusahaan-cng-indonesia/",
+    "cousins_available": {
+      "gaslink": "https://gagas.co.id/gaslink/",
+      "gasku": "https://gagas.co.id/gasku/",
+      "perusahaan-lng-indonesia": "https://gagas.co.id/perusahaan-lng-indonesia/"
+    }
+  },
+  "chosen_briefs": [
+    { "nn": "01", "angle": "tco-beralih-penyedia-cng-hitung-biaya-total", "angle_hash": "sha1:39f29f75c00a", "intent": "decision", "cousins": ["gaslink", "perusahaan-lng-indonesia"] },
+    { "nn": "02", "angle": "model-harga-kontrak-langganan-cng-minimum-offtake", "angle_hash": "sha1:3246a019d449", "intent": "commercial", "cousins": ["gaslink", "perusahaan-lng-indonesia"] },
+    { "nn": "03", "angle": "keandalan-pasokan-business-continuity-penyedia-cng", "angle_hash": "sha1:32c6834fbe90", "intent": "commercial", "cousins": ["gaslink", "perusahaan-lng-indonesia"] },
+    { "nn": "04", "angle": "pertanyaan-wajib-diajukan-calon-penyedia-cng", "angle_hash": "sha1:daadaef1b7fe", "intent": "commercial", "cousins": ["gaslink", "gasku"] },
+    { "nn": "05", "angle": "cng-horeca-hotel-rs-pengadaan-ganti-lpg", "angle_hash": "sha1:630f867196d3", "intent": "commercial", "cousins": ["gaslink", "perusahaan-lng-indonesia"] }
+  ]
+}

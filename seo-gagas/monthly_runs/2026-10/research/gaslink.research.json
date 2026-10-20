@@ -1,0 +1,70 @@
+{
+  "keyword": "Gaslink",
+  "keyword_slug": "gaslink",
+  "month": "2026-10",
+  "captured_at": "2026-09-28",
+  "landing_page": "https://gagas.co.id/gaslink/",
+  "landing_page_summary": "Gaslink = distribusi CNG beyond-pipeline via Gas Transport Module (GTM) + Gaslink Cylinder (C-Cyl 28 m3); segmen manufaktur, RS, hotel, resto/kafe, laundry, UMKM; klaim 'hemat hingga 30%', smart meter 'bayar sesuai pemakaian aktual' + 'perhitungan akurat', layanan 24 jam, emisi lebih rendah. Halaman TIDAK menyinggung pembangkitan listrik/captive power maupun aplikasi agroindustri/pengeringan.",
+  "data_sources_used": ["live_serp (Google direct scrape diblokir; disaring dari WebSearch)", "websearch", "webfetch_landing_page"],
+  "ahrefs_available": false,
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "'Gaslink' = istilah brand -> volume generik rendah; demand informasional ada di sub-angle (biaya, keselamatan, aplikasi per-sektor, monitoring, captive power)",
+    "report_rank": "n/a (seo_report: none)"
+  },
+  "serp": {
+    "top_signals": [
+      { "topic": "captive power / genset gas vs diesel", "sources": ["baraputra.co.id (jenis bahan bakar genset untuk pabrik)", "protk.co.id (BESS vs genset diesel)", "qualitytechnic.com (biaya operasional diesel)", "iptek.its.ac.id (analisis biaya pemilihan sumber daya)"], "angle_summary": "SERP didominasi vendor genset & BESS; diesel remote site IDR 4.500-9.000+/kWh; genset gas disebut lebih bersih/efisien jangka panjang, tapi TIDAK ada perbandingan spesifik biaya per kWh genset gas bumi (CNG beyond-pipeline) vs diesel untuk captive power industri = gap." },
+      { "topic": "pengeringan agroindustri (kopi/teh/gabah)", "sources": ["zenodo.org (rotary spiral dryer teh PTPN/Pindad)", "journal.trunojoyo.ac.id (suhu gas inlet rotary dryer)", "jurnal.unimed.ac.id (pengering kopi tipe rak pemanas kompor gas)", "grahamesin.com/tokomesin.com (rotary/box dryer komersial)"], "angle_summary": "Banyak mesin rotary/box dryer untuk kopi/teh/gabah/jagung; sumber panas lazim = LPG, kayu bakar, briket, batubara; pengeringan teh kritikal untuk mutu (hentikan oksidasi, jaga aroma). CNG sebagai sumber panas dryer TIDAK menonjol di hasil = gap." },
+      { "topic": "monitoring konsumsi gas / smart meter industri", "sources": ["meterin.id (smart commercial gas meter, IoT, dashboard, deteksi anomali)", "testindo.co.id (energy monitoring system)"], "angle_summary": "Smart gas meter (LoRaWAN/NB-IoT/RS485), dashboard, remote reading, deteksi anomali ('konsumsi naik padahal produksi turun'); semua dari vendor meter -- TIDAK ada yang membingkai 'pasca-adopsi Gaslink: pantau konsumsi, verifikasi tagihan MMBTU, optimasi efisiensi termal' = gap." }
+    ],
+    "serp_features": ["ai_overview_likely", "paa_derived"],
+    "ai_overview_entities": ["CNG", "Gas Transport Module", "smart meter gas", "genset gas", "captive power", "rotary dryer", "energy management system"]
+  },
+  "paa_derived": [
+    "Bagaimana cara memantau pemakaian gas industri secara akurat?",
+    "Apakah tagihan Gaslink dihitung dari pemakaian aktual?",
+    "Apa itu smart meter gas dan bagaimana cara kerjanya?",
+    "Bisakah gas bumi dipakai untuk pembangkit listrik / genset pabrik?",
+    "Genset gas atau diesel yang lebih hemat untuk industri?",
+    "Berapa biaya listrik per kWh dari genset gas dibanding diesel?",
+    "Apakah CNG bisa dipakai untuk mesin pengering hasil pertanian?",
+    "Bagaimana mengeringkan kopi/teh/gabah tanpa kayu bakar atau LPG?"
+  ],
+  "gsc_style_queries_from_report": [],
+  "framing_guards": {
+    "provider_not_producer": "Gagas menyalurkan/mendistribusikan gas bumi via Gaslink/GTM (beyond-pipeline), BUKAN produsen gas; untuk captive power Gagas memasok GAS untuk genset pelanggan, bukan memproduksi listrik/menjual genset.",
+    "capex_qualitative": "CAPEX kualitatif; no fabricated Rupiah; zero-CAPEX/sewa = konsep industri vendor-neutral (belum dikonfirmasi skema Gaslink).",
+    "hgbt": "HGBT = konteks kebijakan harga gas industri; Gaslink beyond-pipeline bukan penerima otomatis.",
+    "self_mentions": "Max 2-3 self-mentions/artikel; smart meter 'bayar sesuai pemakaian aktual' + '30%' = klaim halaman gagas.co.id, bingkai sebagai klaim penyedia.",
+    "blacklist_taken_angles": "kualitas gas / Wobbe / nilai kalor (held cng-indonesia-03 + Sep LNG-17) = TAKEN; jangan diulang."
+  },
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      "gaslink-01 apa-itu-gaslink-gas-bumi-beyond-pipeline (informational)",
+      "gaslink-02 gaslink-vs-lpg-vs-solar-perbandingan-biaya-efisiensi (comparison, biaya bahan bakar/MMBTU)",
+      "gaslink-03 industri-cocok-gaslink-cara-penerapan-onboarding (how-to sektor+onboarding: manufaktur/HORECA/RS/laundry)",
+      "gaslink-04 keandalan-kontinuitas-pasokan-gaslink-virtual-pipeline (troubleshooting, redundansi fisik pasokan)",
+      "gaslink-05 keselamatan-operasional-cng-lokasi-pelanggan (safety ceklis operasional)",
+      "gaslink-06 dekarbonisasi-esg-fuel-switching-gas-bumi (Scope 1 business case/ESG)",
+      "gaslink-07 gaslink-kredit-karbon-spe-grk-bursa-karbon (kredit karbon/IDXCarbon/MRV)",
+      "gaslink-08 perizinan-instalasi-gaslink-slo-lingkungan-timeline (perizinan SLO/PLO/OSS/PJIT)",
+      "gaslink-09 jejak-karbon-gas-bumi-well-to-burner-metana (LCA well-to-burner/metana)",
+      "gaslink-10 capex-model-investasi-konversi-gaslink-per-peralatan (CAPEX/retrofit/metering/model sewa)",
+      "gaslink-11 volatilitas-harga-hedging-kontrak-keamanan-pasokan-gaslink (harga/kontrak/HGBT/take-or-pay)",
+      "gaslink-12 konversi-boiler-oven-burner-per-industri-tekstil-keramik-fnb-farmasi (retrofit teknis per industri)"
+    ],
+    "uncovered_angles_mined_from_notes": [
+      "Pemantauan efisiensi termal pasca-konversi + instrumentasi/kontrol pembakaran (parked by gaslink-12) -> Brief 01",
+      "Gas-to-power / captive power (gas engine/genset gas) -- SEMUA 12 artikel fokus termal/panas; listrik = sumbu aplikasi baru -> Brief 02",
+      "Per-sektor operasional case sektor belum tersentuh: agroindustri/pengeringan hasil bumi (beyond-pipeline rural) -> Brief 03",
+      "Sisa (tidak diambil bulan ini): worked example additionality kredit karbon; variasi PTSP perizinan per provinsi; CCUS; sensitivitas harga; studi kasus arus kas berdata; perbandingan LNG vs CNG lifecycle (risiko kanibal LNG cluster)."
+    ]
+  },
+  "new_briefs_2026_10": [
+    { "brief_id": "gaslink-01", "angle": "monitoring-metering-efisiensi-konsumsi-gaslink-pasca-konversi", "angle_hash": "sha1:878a51d8f839", "intent": "how-to" },
+    { "brief_id": "gaslink-02", "angle": "captive-power-genset-gas-vs-diesel-gaslink-listrik-pabrik", "angle_hash": "sha1:462515f66d7a", "intent": "decision" },
+    { "brief_id": "gaslink-03", "angle": "gaslink-agroindustri-pengeringan-hasil-bumi-kopi-teh-gabah", "angle_hash": "sha1:eb43ad18d5e9", "intent": "informational" }
+  ]
+}

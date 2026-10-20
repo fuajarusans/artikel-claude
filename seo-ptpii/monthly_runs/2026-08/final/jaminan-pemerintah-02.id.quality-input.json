@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-ptpii\\monthly_runs\\2026-08\\final\\jaminan-pemerintah-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-12T15:37:30+07:00",
+    "word_count":  1785,
+    "paragraph_count":  23,
+    "sentence_count":  100,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.488,
+                        "sentence_burstiness":  1.417,
+                        "top30_vocab_share":  0.349,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Payung hukumnya Perpres Nomor 78 Tahun 2010, dengan aturan pelaksana PMK Nomor 68 Tahun 2024.",
+                                      "candidate_score":  34,
+                                      "web_search_query":  "\"Payung hukumnya Perpres Nomor 78 Tahun 2010, dengan aturan pelaksana PMK Nomor 68 Tahun 2024.\""
+                                  },
+                                  {
+                                      "passage":  "Sejak 18 Oktober 2024, tata caranya diatur PMK Nomor 68 Tahun 2024.",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"Sejak 18 Oktober 2024, tata caranya diatur PMK Nomor 68 Tahun 2024.\""
+                                  },
+                                  {
+                                      "passage":  "Satu regulasi lagi kerap ikut muncul di hasil pencarian, yaitu Perpres Nomor 103 Tahun 2020 era Pemulihan Ekonomi Nasional.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Satu regulasi lagi kerap ikut muncul di hasil pencarian, yaitu Perpres Nomor 103 Tahun 2020 era Pemulihan Ekonomi Nasion\""
+                                  },
+                                  {
+                                      "passage":  "Bedanya pada kerangka hukum: KPBU diatur Perpres Nomor 38 Tahun 2015 beserta aturan turunannya, sedangkan PPP adalah istilah generik tanpa satu kerangka hukum tunggal.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"Bedanya pada kerangka hukum: KPBU diatur Perpres Nomor 38 Tahun 2015 beserta aturan turunannya, sedangkan PPP adalah ist\""
+                                  },
+                                  {
+                                      "passage":  "[Direktorat Jenderal Kekayaan Negara Kementerian Keuangan](https://www.djkn.kemenkeu.go.id/artikel/baca/11077/Peran-PT-Penjaminan-Infrastruktur-Indonesia-Persero-Dalam-Meminimalisasi-Risiko-Fiskal-atas-Kewajiban-Kontinjensi-Pemerintah-Indonesia-yang-Timbul-dari-Proyek-Infrastruktur.html) (diakses 2026) merumuskan kewajiban kontinjensi sebagai kewajiban yang pembayarannya baru diperlukan jika suatu peristiwa masa depan yang tidak pasti terjadi.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"[Direktorat Jenderal Kekayaan Negara Kementerian Keuangan](https://www.djkn.kemenkeu.go.id/artikel/baca/11077/Peran-PT-P\""
+                                  },
+                                  {
+                                      "passage":  "- **Bagi PJPK.** Dua instrumen pasti harus diamankan dalam kapasitas fiskal multitahun sejak awal, sedangkan jaminan tidak menyerap anggaran sampai klaim diajukan.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"- **Bagi PJPK.** Dua instrumen pasti harus diamankan dalam kapasitas fiskal multitahun sejak awal, sedangkan jaminan tid\""
+                                  },
+                                  {
+                                      "passage":  "Jaminan memperbaiki kepastian bagi *lender*, VGF memperbaiki kelayakan finansial, dan keduanya bisa dipakai bersamaan.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Jaminan memperbaiki kepastian bagi *lender*, VGF memperbaiki kelayakan finansial, dan keduanya bisa dipakai bersamaan.\""
+                                  },
+                                  {
+                                      "passage":  "Itulah alasan penjaminan infrastruktur diselenggarakan lewat satu pintu Badan Usaha Penjaminan Infrastruktur (BUPI) di bawah Kementerian Keuangan, bukan sendiri-sendiri oleh setiap instansi.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Itulah alasan penjaminan infrastruktur diselenggarakan lewat satu pintu Badan Usaha Penjaminan Infrastruktur (BUPI) di b\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

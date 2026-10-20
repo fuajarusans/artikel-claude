@@ -45,7 +45,6 @@ For a finished monthly batch:
 | `monthly_runs/<YYYY-MM>/final/<brief-id>.id.md` | Polished articles (frontmatter source) |
 | `monthly_runs/<YYYY-MM>/final/<brief-id>.qc.md` | Editor recommendation (gate 1) |
 | `monthly_runs/<YYYY-MM>/final/<brief-id>.quality.md` | Validator verdict (gate 2) |
-| `monthly_runs/<YYYY-MM>/final/<brief-id>.images.json` | Image-brief path for the record |
 | `monthly_runs/<YYYY-MM>/briefs/<brief-id>.brief.md` | Angle slug, intent, subtopics (hash inputs) |
 | `articles_history/index.json` | Existing log to append to |
 | `articles_history/README.md` | Schema reference |
@@ -78,7 +77,6 @@ Read the ID final's frontmatter + the matching brief. Build a JSON entry per `ar
   "paths": {
     "id_md": "monthly_runs/<YYYY-MM>/final/<brief-id>.id.md",
     "id_docx": "monthly_runs/<YYYY-MM>/final/<brief-id>.id.docx",
-    "image_plan": "monthly_runs/<YYYY-MM>/final/<brief-id>.images.json",
     "qc": "monthly_runs/<YYYY-MM>/final/<brief-id>.qc.md",
     "quality": "monthly_runs/<YYYY-MM>/final/<brief-id>.quality.md"
   },
@@ -93,7 +91,7 @@ echo -n "erp-migration-to-the-cloud|brownfield-vs-greenfield|RISE,brownfield,dow
 ```
 Use `sha1:<first-12-chars>`.
 
-> Note: this schema is single-language (`title`, `word_count`, `id_md`, `id_docx`) — no `title_en`/`word_count_en`/`en_*`. No PNG `image_paths` (images are a design-team brief, not generated files); the brief lives at `paths.image_plan`.
+> Note: this schema is single-language (`title`, `word_count`, `id_md`, `id_docx`) — no `title_en`/`word_count_en`/`en_*`. No image fields (`image_plan`/`image_paths`) — the pipeline no longer uses images.
 
 ### Step 3 — Append to index.json
 Read `articles_history/index.json`. Append new entries to the `articles` array (preserve order — latest at end). Update `last_updated` to the current ISO timestamp. Write back with 2-space indent. **Append, never overwrite.**
@@ -140,7 +138,7 @@ status: editor-approved
 ```bash
 powershell.exe -ExecutionPolicy Bypass -File "tools/md-to-docx.ps1" -InputPath "monthly_runs/<YYYY-MM>/final/<brief-id>.id.md"
 ```
-The script derives the output path (same folder, `.docx`), uses `tools/reference.docx` (Soltius sample) for styling, and renders `{IMAGE_NN: caption}` placeholders as italic caption-fallback lines (no PNGs exist — expected). If conversion fails: capture the error, continue with the rest, list failures in the report. Do NOT skip the history commit — the `.md` is canonical; `.docx` is review convenience.
+The script derives the output path (same folder, `.docx`), uses `tools/reference.docx` (Soltius sample) for styling. If conversion fails: capture the error, continue with the rest, list failures in the report. Do NOT skip the history commit — the `.md` is canonical; `.docx` is review convenience.
 
 ### Step 6 — Verify
 - `index.json` is valid JSON; array grew by N (= committed count).

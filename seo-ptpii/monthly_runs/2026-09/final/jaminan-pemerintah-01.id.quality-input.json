@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-ptpii\\monthly_runs\\2026-09\\final\\jaminan-pemerintah-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-21T11:33:35+07:00",
+    "word_count":  1711,
+    "paragraph_count":  21,
+    "sentence_count":  92,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.455,
+                        "sentence_burstiness":  0.767,
+                        "top30_vocab_share":  0.366,
+                        "flags":  [
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 36.6% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "**Dana Cadangan Penjaminan.** [PMK Nomor 69 Tahun 2023](https://jdih.kemenkeu.go.id/dok/pmk-69-tahun-2023/summary), berlaku 12 Juli 2023, mengatur rekening khusus yang menampung akumulasi alokasi anggaran tersebut untuk pemenuhan kewajiban penjaminan bila diperlukan.",
+                                      "candidate_score":  38,
+                                      "web_search_query":  "\"**Dana Cadangan Penjaminan.** [PMK Nomor 69 Tahun 2023](https://jdih.kemenkeu.go.id/dok/pmk-69-tahun-2023/summary), berl\""
+                                  },
+                                  {
+                                      "passage":  "Di luar keempatnya, penjaminan disertai hak regres: hak penjamin menagih kembali PJPK atas nilai klaim yang dibayarkannya kepada penerima jaminan (Perpres 78/2010 Pasal 15).",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Di luar keempatnya, penjaminan disertai hak regres: hak penjamin menagih kembali PJPK atas nilai klaim yang dibayarkanny\""
+                                  },
+                                  {
+                                      "passage":  "Rekening khusus yang menampung akumulasi alokasi anggaran kewajiban penjaminan pemerintah dari APBN, diatur PMK Nomor 69 Tahun 2023 yang berlaku 12 Juli 2023.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Rekening khusus yang menampung akumulasi alokasi anggaran kewajiban penjaminan pemerintah dari APBN, diatur PMK Nomor 69\""
+                                  },
+                                  {
+                                      "passage":  "PMK 68/2024, berlaku 18 Oktober 2024, menamai dua bentuk itu Penjaminan Bersama dan Penjaminan BUPI.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"PMK 68/2024, berlaku 18 Oktober 2024, menamai dua bentuk itu Penjaminan Bersama dan Penjaminan BUPI.\""
+                                  },
+                                  {
+                                      "passage":  "Dalam kondisi itu Menteri Keuangan dapat ikut menjamin berdasarkan pembagian risiko, dan keputusan BUPI mengikuti keputusan Menteri Keuangan (Perpres 78/2010 Pasal 7).",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Dalam kondisi itu Menteri Keuangan dapat ikut menjamin berdasarkan pembagian risiko, dan keputusan BUPI mengikuti keputu\""
+                                  },
+                                  {
+                                      "passage":  "[Perpres 78/2010](https://peraturan.go.id/files/ps78-2010.pdf) menyebut instrumen ini Penjaminan Infrastruktur dan menempatkannya di bawah prinsip menjaga kesinambungan APBN (*fiscal sustainability*).",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"[Perpres 78/2010](https://peraturan.go.id/files/ps78-2010.pdf) menyebut instrumen ini Penjaminan Infrastruktur dan menem\""
+                                  },
+                                  {
+                                      "passage":  "Rekening ini terpisah dari kekayaan BUPI sendiri, yang menurut Pasal 19 Perpres 78/2010 bersumber dari penyertaan modal negara.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Rekening ini terpisah dari kekayaan BUPI sendiri, yang menurut Pasal 19 Perpres 78/2010 bersumber dari penyertaan modal \""
+                                  },
+                                  {
+                                      "passage":  "Pusat Pengelolaan Risiko Fiskal berdiri di lingkungan Kementerian Keuangan pada 2006 ([KSAP](https://www.ksap.org/sap/risiko-fiskal-pemerintah-pusat-dan-daerah/)), jauh sebelum portofolio penjaminan sebesar hari ini terbentuk.",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"Pusat Pengelolaan Risiko Fiskal berdiri di lingkungan Kementerian Keuangan pada 2006 ([KSAP](https://www.ksap.org/sap/ri\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

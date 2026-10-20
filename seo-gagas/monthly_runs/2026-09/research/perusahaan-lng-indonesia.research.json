@@ -1,0 +1,80 @@
+{
+  "keyword": "Perusahaan LNG Indonesia",
+  "keyword_slug": "perusahaan-lng-indonesia",
+  "month": "2026-09",
+  "captured_at": "2026-09-17T08:55:27Z",
+  "landing_page": "https://gagas.co.id/perusahaan-lng-indonesia/",
+  "landing_page_summary": "Hub LNG PGN Gagas: menjelaskan LNG sebagai energi transisi, teknologi likuifaksi kriogenik (-162 C, volume 1/600), matriks LNG vs CNG/LPG/BBM, rantai pasok, layanan Gaslink + regasifikasi satelit, segmen (manufaktur, pembangkit, maritim). PERINGATAN FRAMING: halaman ini mengklaim Gagas sebagai 'pionir dan pemimpin pasar (market leader) dalam distribusi gas bumi ritel' dan menyebut pasar ekspor Jepang/Korea/China -- klaim ini TIDAK boleh diadopsi brief; frame Gagas hanya sebagai operator LNG Hub + distributor LNG beyond-pipeline (hilir), menyalurkan/melayani/mendukung, bukan produsen/likuifaksi/FSRU/eksportir.",
+  "data_sources_used": ["live_serp (Google scrape blocked -> fell back to WebSearch)", "websearch", "landing_page_webfetch"],
+  "ahrefs_available": false,
+  "gsc_available": false,
+  "seo_report": "none (per keywords.md)",
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "LNG demand-side momentum tinggi di 2026: kebutuhan gas pembangkit PLN tumbuh ~4,5%/th; porsi LNG dalam pasokan gas PLN naik 57% -> 67%; kebutuhan LNG 103 kargo (2026) diproyeksi ~214 kargo (2034). Harga LNG industri dipangkas ke US$13/MMBTU (Juni 2026).",
+    "report_rank": "n/a (no SEO report this month)"
+  },
+  "serp": {
+    "note": "Google SERP scrape via WebFetch diblokir (bukan indikasi tidak ada hasil). SERP landscape direkonstruksi dari WebSearch.",
+    "landscape_players": [
+      {"name": "gagas.co.id/perusahaan-lng-indonesia", "angle_summary": "Hub klien; LNG beyond-pipeline + Gaslink; klaim 'pionir/pemimpin pasar' (jangan diadopsi)."},
+      {"name": "PT Perta Arun Gas (pertaarungas.pertamina.com)", "angle_summary": "Regasifikasi LNG Arun 400 MMSCFD sejak 2015; pengelola LNG ISO Tank filling station, suplai ISOtank ke seluruh Indonesia."},
+      {"name": "PT Lamong Nusantara Gas (ptlng.co.id)", "angle_summary": "Terminal pengisian LNG skala kecil (ISO Tank 20-40 ft) untuk distribusi di luar pipa PGN."},
+      {"name": "Pertagas Niaga (pertagasniaga.pertamina.com)", "angle_summary": "Pelopor niaga LNG retail di Indonesia."},
+      {"name": "PGN LNG (pgnlng.co.id)", "angle_summary": "Edukasi LNG ISO tank & virtual pipeline; spesifikasi ISO tank."}
+    ],
+    "serp_features": ["ai_overview_likely", "paa_likely", "featured_snippet_definitional"],
+    "ai_overview_entities": ["LNG (Liquefied Natural Gas)", "regasifikasi", "ISO tank", "virtual pipeline", "beyond pipeline", "MMBTU", "PGN", "Pertamina", "CNG"]
+  },
+  "paa": [
+    "Apa itu perusahaan LNG?",
+    "Perusahaan apa saja yang bergerak di bidang LNG di Indonesia?",
+    "Berapa harga LNG per MMBTU untuk industri?",
+    "Apa bedanya LNG dan CNG?",
+    "Bagaimana LNG didistribusikan tanpa pipa?",
+    "Apa itu ISO tank LNG?",
+    "Berapa biaya beralih ke LNG untuk pabrik?",
+    "Apakah peralatan pabrik perlu diubah untuk memakai gas dari LNG?"
+  ],
+  "gsc_style_queries_from_report": [],
+  "verified_facts_for_researcher": {
+    "tco_cost_components": "Struktur biaya gas regasifikasi LNG (contoh publik, VERIFIKASI ulang): shipping ~US$0,3/MMBTU; regas ~US$0,5/MMBTU; distribution ~US$0,5/MMBTU; FOB gas ~14% slope terhadap harga minyak; margin distributor ~US$1/MMBTU. Harga gas regasifikasi PGN ditetapkan US$16,77/MMBTU (2025). Harga LNG industri dipangkas ke US$13/MMBTU (Juni 2026). Sumber: Bloomberg Technoz, Kontan, CNN/CNBC Indonesia, Dunia Energi.",
+    "wobbe_interchangeability": "Wobbe Index = LHV/akar(SG); ukuran interchangeability bahan bakar gas. LNG yang diregasifikasi umumnya ber-HHV & Wobbe lebih tinggi dari gas pipa karena kandungan etana/propana lebih tinggi -> berpotensi tidak cocok dengan banyak burner existing tanpa penyesuaian. Terminal regas dapat inject nitrogen/LPG untuk atur heating value. LNG weathering menaikkan Wobbe selama penyimpanan. Modified Wobbe Index (MWI) memasukkan suhu bahan bakar. Sumber: ScienceDirect (gas interchangeability regasified LNG), sea-man.org LNG quality, UT-BEG NGC Interchangeability white paper.",
+    "data_center_demand": "Pertumbuhan listrik nasional diproyeksi 4,6-5,4%/th, salah satunya didorong pertumbuhan data center. Porsi LNG dalam pasokan gas PLN naik 57% -> 67%; LNG sebagai 'penyeimbang' saat pembangkit surya/angin fluktuatif. Kebutuhan 103 kargo LNG (2026) -> ~214 kargo (2034). Sumber: ANTARA/PLN, CNBC Indonesia (Ags 2026), Dunia Energi, Ecobiz Asia.",
+    "landscape_players": "PT Perta Arun Gas (regasifikasi Arun 400 MMSCFD, ISO tank filling station), PT Lamong Nusantara Gas (terminal LNG skala kecil ISO tank), Pertagas Niaga (pelopor niaga LNG retail), PGN LNG (ISO tank/virtual pipeline). Gagas = SATU distributor hilir di antara banyak pemain -> perkuat larangan klaim 'terbesar/pionir/pemimpin pasar'."
+  },
+  "gagas_lng_role_verification_required": "Profil resmi (company_profile.md) HANYA menyebut 'LNG Hub' sebagai infrastruktur Gagas. Landing page memakai klaim 'pionir/pemimpin pasar' + ekspor -> TIDAK terverifikasi & dilarang. Researcher WAJIB verifikasi peran LNG persis Gagas (operator LNG Hub + penyalur hilir beyond-pipeline via Gaslink) sebelum writer menegaskan apa pun. Default aman: 'distributor CNG/gas bumi yang mengoperasikan LNG Hub', bukan 'perusahaan LNG' penuh.",
+  "history_snapshot": {
+    "committed_count": 15,
+    "existing_angles_for_keyword": [
+      "apa-itu-lng-vs-cng-vs-gas-pipa (definitional)",
+      "peran-lng-beyond-pipeline-konsep-lng-hub (LNG Hub/break-bulking)",
+      "lng-untuk-industri-kapan-lebih-cocok-daripada-cng (decision volume/jarak)",
+      "rantai-pasok-lng-regasifikasi-hingga-pengguna-akhir (supply chain 7 node)",
+      "memilih-penyedia-solusi-lng-indonesia-kriteria (vendor selection)",
+      "lng-untuk-pembangkit-gasifikasi-kelistrikan (pembangkit/PLN remote)",
+      "lng-untuk-marine-bunkering-maritim (marine)",
+      "keekonomian-lng-vs-diesel-lokasi-remote (ekonomi vs solar remote)",
+      "keselamatan-standar-penanganan-lng-kriogenik (safety kriogenik)",
+      "peran-lng-transisi-energi-dekarbonisasi (transisi/dekarbonisasi)",
+      "lng-untuk-pertambangan-smelter-hilirisasi (smelter/tambang off-grid)",
+      "lng-vs-lpg-industri-makanan-rantai-dingin (LNG vs LPG cold storage)",
+      "kontrak-struktur-harga-lng-take-or-pay-offtake (kontrak/harga term)",
+      "regasifikasi-vaporizer-lokasi-pelanggan-sru (regas hardware/vaporizer)",
+      "kendala-pasokan-lng-troubleshooting-solusi (troubleshooting pasokan)"
+    ],
+    "uncovered_angles_chosen_this_run": [
+      "biaya-total-tco-lng-cara-menghitung (metodologi TCO/landed cost + worked example) -- distinct dari #08 (vs diesel) & #13 (term kontrak)",
+      "kompatibilitas-peralatan-wobbe-index-lng (interchangeability gas ex-LNG dgn peralatan existing) -- distinct dari #14 (hardware regas) & held CNG Wobbe piece (cluster + angle beda)",
+      "lng-untuk-data-center-industri-baru (vertikal beban ekonomi digital) -- distinct dari #06 (PLN grid remote) & #11 (smelter captive)"
+    ],
+    "uncovered_angles_left_for_future": [
+      "studi kasus per-pulau/regional (peta demand)",
+      "roadmap LNG + H2 / CCUS (co-firing masa depan)",
+      "model bisnis small-scale/mini-LNG",
+      "manajemen BOG strategis (capture/reliquefaction/energy recovery) + GWP20 venting",
+      "pelatihan/sertifikasi operator LNG (simulator, vaporizer)"
+    ]
+  }
+}

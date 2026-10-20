@@ -1,0 +1,324 @@
+{
+  "keyword": "Studi kasus proyek infrastruktur di Indonesia",
+  "keyword_slug": "studi-kasus-proyek-infrastruktur-di-indonesia",
+  "month": "2026-09",
+  "captured_at": "2026-09-17",
+  "landing_page": "https://institute.iigf.co.id/e-library/lainnya/77/studi-kasus-kpbu-untuk-penguatan-infrastruktur-digital-dan-informasi",
+  "landing_page_summary": "Re-fetched 2026-09-17 (berhasil). Publikasi e-library IIGF Institute, terbit 7 Oktober 2025. Membedah Palapa Ring dan Satelit Multifungsi Pemerintah. Daftar bagian: A. Urgensi infrastruktur & skema pembiayaan; B. Memahami model kerja sama KPBU/PPP; C. Value for Money sebagai fondasi KPBU; D. Penjaminan infrastruktur melalui PT PII; E. Nilai tambah dari penjaminan PT PII; F. Struktur kerja sama proyek; G. Faktor keberhasilan Palapa Ring; H. Dukungan pemangku kepentingan; I. Manfaat ekonomi; J. Dampak terhadap SDGs; K. Kesimpulan.",
+  "landing_page_implication_for_briefs": "DUA konsekuensi. (1) Palapa Ring / Satelit Multifungsi tetap MILIK HUB — tidak boleh jadi studi kasus utama artikel turunan mana pun (aturan Agustus, masih berlaku). (2) BARU untuk September: hub sudah memiliki bagian D dan E tentang PERAN PENJAMINAN PT PII. Karena itu angle 'peran penjaminan pemerintah dibedah dari satu kasus tunggal' — yang sempat disisakan Agustus — DITOLAK bulan ini karena akan mengkanibalisasi hub. Bagian C hub hanya memperkenalkan VfM sebagai fondasi keputusan; METODE pembuktian VfM (kualitatif vs kuantitatif, public sector comparator) tidak dibedah di sana, sehingga brief 01 aman dan justru memperdalam hub.",
+  "data_sources_used": [
+    "cache_agustus (monthly_runs/2026-08/research/studi-kasus-proyek-infrastruktur-di-indonesia.research.json — lanskap SERP & PAA diwarisi)",
+    "articles_history/index.json (12 artikel Agustus, 4 di antaranya keyword ini)",
+    "briefs Agustus 01-04 (bagian 'Notes for future strategist runs')",
+    "webfetch_landing_page (berhasil, 2026-09-17)",
+    "webfetch_primer (kpbu.kemenkeu.go.id: halaman VfM, FAQ, proyek/detail/109)",
+    "websearch (6 kueri, dibatasi allowed_domains ke kpbu.kemenkeu.go.id / pu.go.id / bpjt.pu.go.id / bappenas.go.id / ekon.go.id / ptpii.co.id)"
+  ],
+  "websearch_budget": {
+    "allotted": 12,
+    "used": 6,
+    "queries": [
+      "KPBU SPAM Regional Jatiluhur I lintas daerah PJPK availability payment",
+      "KPBU prakarsa badan usaha unsolicited jalan tol Bali Mandara Nusa Dua Ngurah Rai Benoa",
+      "KPBU jalan tol Serang Panimbang dukungan kelayakan VGF risiko lalu lintas volume kendaraan",
+      "prakarsa badan usaha unsolicited KPBU kompensasi pemrakarsa right to match tambahan nilai pembelian prakarsa Perpres 38 2015",
+      "KPBU jalan tol Semarang Demak tanggul laut dukungan kelayakan VGF kelayakan ekonomi finansial nilai investasi",
+      "KPBU SPAM regional lintas kabupaten kerja sama antardaerah offtaker PDAM perjanjian jual beli air curah"
+    ],
+    "note": "Sisa 6 pencarian sengaja tidak dipakai agar kuota sesi tersedia untuk 12 peneliti dan 12 editor (pelajaran Agustus: batch 12 artikel menghabiskan kuota 200 sebelum tahap editor)."
+  },
+  "seo_report_named_in_keywords_md": "none",
+  "ahrefs_available": false,
+  "ahrefs_note": "MCP server 'ahrefs' memerlukan otorisasi OAuth dan tidak tersedia di sesi non-interaktif ini. Tidak ada angka volume/KD yang diambil, dan tidak ada yang dikarang.",
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "n/a (Ahrefs not connected). Sinyal kualitatif tidak berubah dari Agustus: SERP untuk frasa ini masih didominasi konten konstruksi/teknik sipil dan repositori akademik, bukan konten pembiayaan/KPBU.",
+    "report_rank": "n/a (keywords.md 2026-09 menetapkan seo_report: none)"
+  },
+  "serp": {
+    "capture_notes": "Scrape SERP Google ID langsung tetap tidak dilakukan bulan ini: rute tersebut terbukti diblokir pada pass Agustus (Google error page; DuckDuckGo ECONNREFUSED; Bing salah-parse; Brave 429; Ecosia 403) dan mencobanya lagi hanya membakar anggaran. Lanskap kompetitif DIWARISI dari cache Agustus 2026-08-12 dan diperlakukan sebagai lanskap, bukan peringkat terverifikasi. Tidak ada klaim posisi numerik.",
+    "inherited_from": "monthly_runs/2026-08/research/studi-kasus-proyek-infrastruktur-di-indonesia.research.json",
+    "top_competitors_carried_forward": [
+      {"url": "https://blog.pakons.com/studi-kasus-proyek-infrastruktur-ikonik-indonesia-dan-pembelajaran-di-baliknya/", "angle_summary": "Suramadu, MRT Jakarta, BIJB Kertajati lewat lensa rekayasa teknis. Nol pembahasan KPBU, alokasi risiko, penjaminan, value for money."},
+      {"url": "https://ctsnetwork.id/article/studi-kasus-proyek-infrastruktur-besar", "angle_summary": "Tol Trans Jawa sebagai esai naratif tanpa H2. Perspektif teknis/manajerial/sosial. Nol penyebutan KPBU, availability payment, value for money."},
+      {"url": "https://etd.repository.ugm.ac.id/penelitian/detail/81709", "angle_summary": "Tesis UGM tentang KPS pada Tol Bali Mandara. Relevan topikal tetapi berformat repositori tesis."},
+      {"url": "https://kpbu.kemenkeu.go.id/read/26-231/umum/tentang-kpbu/kisah-sukses-skema-kpbu", "angle_summary": "Portal resmi Kemenkeu, naratif kisah sukses. Otoritatif tetapi bergaya portal, bukan analisis langkah demi langkah."}
+    ],
+    "serp_features": [
+      "ai_overview: TIDAK DAPAT DIVERIFIKASI — jangan diklaim ada maupun tidak ada",
+      "paa: tidak dapat diambil langsung dari Google; diganti sumber PAA nyata berbahasa Indonesia (lihat objek paa)",
+      "organic_dominan: konten konstruksi/teknik sipil dan repositori akademik"
+    ],
+    "ai_overview_entities": "n/a — blok AI Overview tidak berhasil diambil. JANGAN mengarang entitas.",
+    "gap_analysis": "Gap Agustus masih terbuka dan kini lebih tajam. Tidak ada satu pun halaman web berbahasa Indonesia yang MENGAJARKAN praktisi cara membaca proyek KPBU nyata melalui lensa transaksi. Empat artikel Agustus mengisi lapisan pertama (metode membedah, perbandingan sektor, pola kegagalan, KPBU daerah). Lapisan kedua — yang diisi September — adalah EMPAT KEPUTUSAN TEKNIS yang selalu muncul di dokumen proyek nyata tetapi tidak pernah dijelaskan di web berbahasa Indonesia: bagaimana value for money dibuktikan, dari pintu mana proyek masuk (prakarsa vs lelang), bagaimana proyek lintas wilayah ditata kelola, dan bagaimana risiko permintaan dibaca pada proyek user-pays."
+  },
+  "paa": {
+    "capture_notes": "Dipanen dari sumber nyata, bukan karangan. Sumber A (BARU bulan ini, diambil 2026-09-17 via WebFetch): halaman FAQ resmi kpbu.kemenkeu.go.id/faq — daftar pertanyaan verbatim. Sumber B: blok resmi 'Orang Juga Bertanya' portal KPBU Kemenkeu yang dipanen Agustus. Sumber C: pola kueri berulang pada hasil WebSearch.",
+    "from_kemenkeu_faq_verbatim_2026_09": [
+      "Apa yang dimaksud dengan KPBU?",
+      "Apa yang dimaksud dengan PJPK?",
+      "Apa yang dimaksud dengan PJPK gabungan?",
+      "Apa perbedaan antara Badan Usaha dengan Badan Usaha Pelaksana KPBU?",
+      "Apa yang dimaksud dengan Dukungan Pemerintah?",
+      "Bagaimana ketentuan pengadaan tanah pada Proyek KPBU?",
+      "Apa jenis-jenis pengembalian investasi badan usaha dalam skema KPBU?",
+      "Apa itu KPBU atas Prakarsa Badan Usaha? Apa kriteria Penyediaan Infrastruktur yang dapat diprakarsai Badan Usaha?",
+      "Bagaimana tahapan suatu proyek KPBU?",
+      "Apa itu Simpul KPBU?"
+    ],
+    "from_kemenkeu_orang_juga_bertanya_2026_08": [
+      "Siapa yang Membiayai Proyek pada Skema KPBU?",
+      "Apa Itu Kepanjangan PJPK?",
+      "Apa itu Availability Payment?",
+      "Apa itu Kantor Bersama KPBU?"
+    ],
+    "from_observed_query_patterns": [
+      "Apa itu value for money dalam KPBU?",
+      "Apa itu dukungan kelayakan (VGF) dalam proyek KPBU?",
+      "Apa bedanya proyek KPBU solicited dan unsolicited?",
+      "Apa contoh proyek KPBU yang berhasil?",
+      "Berapa lama masa konsesi proyek KPBU?",
+      "Apa perbedaan availability payment dan user pay?",
+      "Siapa yang membeli air dari SPAM regional?",
+      "Mengapa proyek KPBU tersendat atau gagal?"
+    ]
+  },
+  "gsc_style_queries_from_report": "n/a — keywords.md 2026-09 menetapkan seo_report: none.",
+  "project_rotation_ledger": {
+    "rule": "Editor Agustus mewajibkan rotasi contoh proyek. Proyek Agustus boleh disebut SEPINTAS sebagai pembanding satu baris, tetapi TIDAK BOLEH menjadi studi kasus utama artikel September mana pun.",
+    "locked_for_august_do_not_reuse_as_main_case": [
+      "SPAM Umbulan",
+      "Jalan Tol Krian-Legundi-Bunder-Manyar",
+      "PSEL Legok Nangka",
+      "SPAM Semarang Barat",
+      "PJU Kota Samarinda",
+      "RS Pendidikan Unpad",
+      "RSPTN Udayana",
+      "Palapa Ring / Satelit Multifungsi Pemerintah (juga milik halaman hub)"
+    ],
+    "partially_used_in_august_secondary_only": [
+      "KPBU Kereta Api Makassar-Parepare (disebut 6 kali pada artikel Agustus 03 sebagai contoh penundaan pembebasan lahan) — boleh dipakai sebagai pembanding, JANGAN sebagai studi kasus utama"
+    ],
+    "september_signature_cases": {
+      "01": "Jalan Tol Semarang-Demak yang Terintegrasi Tanggul Laut Kota Semarang",
+      "02": "SPAM Regional Karian-Serpong (prakarsa badan usaha) + Jalan Tol Gilimanuk-Mengwi sebagai contoh sektor kedua",
+      "03": "SPAM Regional Jatiluhur I",
+      "04": "Jalan Tol Serang-Panimbang"
+    },
+    "collision_check": "Keempat studi kasus utama September TIDAK ADA satu pun dalam daftar terkunci Agustus, dan tidak ada satu pun muncul di artikel Agustus mana pun (diverifikasi dengan grep atas monthly_runs/2026-08/final, monthly_runs/2026-08/drafts, dan articles_history/by_keyword pada 2026-09-17: nol kecocokan untuk Bali Mandara, Jatiluhur, Serang-Panimbang, Semarang-Demak, Gilimanuk-Mengwi, Karian-Serpong).",
+    "cross_sibling_rule": "Setiap studi kasus utama September dimiliki oleh SATU brief saja. Brief lain boleh menyebutnya maksimal satu baris sebagai pembanding, dengan rujukan silang. Ini mencegah keempat artikel September saling mengkanibalisasi seperti yang dijaga Agustus terhadap Palapa Ring."
+  },
+  "verified_facts_pool": {
+    "note": "Dikumpulkan strategist sebagai bahan brief. SME researcher WAJIB memverifikasi ulang setiap angka ke sumber primer, memberi label tahun rujukan, dan menandai setiap tarif/biaya sebagai indikatif. Butir yang ditandai PERLU-VERIFIKASI belum cukup kuat untuk ditulis apa adanya.",
+    "value_for_money_metode": {
+      "sumber_primer": "https://kpbu.kemenkeu.go.id/read/69-214/umum/kajian-opini-publik/penilaian-vfm-value-for-money-dalam-penentuan-pemilihan-skema-penyediaan-infrastruktur-di-indonesia (diambil 2026-09-17)",
+      "definisi_kemenkeu_verbatim": "tingkat pencapaian maksimal dari sebuah outcome proyek dari setiap biaya input yang dikeluarkan",
+      "vfm_kualitatif_tiga_dimensi": [
+        "kelayakan proyek (viability)",
+        "tingkat kebutuhan/urgensi proyek (desirability)",
+        "tingkat kemungkinan ketercapaian/keberhasilan proyek (achievability)"
+      ],
+      "vfm_kuantitatif": "Menggunakan metodologi Public Sector Comparator (PSC) — mengukur hasil finansial secara matematis.",
+      "public_sector_comparator_definisi_verbatim": "biaya siklus hidup proyek apabila dibangun dengan dana publik",
+      "komponen_perhitungan_psc": [
+        "biaya konstruksi",
+        "biaya operasi dan pemeliharaan sepanjang masa konsesi",
+        "penyesuaian risiko (risiko yang dialihkan vs risiko yang ditahan pemerintah)",
+        "faktor netralitas kompetitif (competitive neutrality)",
+        "biaya pemenuhan standar kinerja"
+      ],
+      "kapan_dinilai": "Pada tahap pengembangan proyek, sebelum pemilihan skema final — melalui functional brief, konsultasi kelompok pengguna, penajaman desain konsep, dan market sounding.",
+      "catatan_negatif_penting": "Halaman Kemenkeu ini TIDAK menyebut istilah 'shadow bid' maupun 'PPP reference model', dan TIDAK mencantumkan nomor Perpres/Permen. Peneliti wajib mencari dasar regulasi terpisah di JDIH Bappenas; JANGAN mengutip nomor peraturan seolah berasal dari halaman ini.",
+      "riset_iigf_institute_untuk_anchor": "Working paper 'Model Asesmen Kualitatif Value for Money bagi Penyelenggaraan Infrastruktur Publik' (disebut Mei 2024) dan 'Penggunaan Model Keuangan Value for Money Kuantitatif untuk Infrastruktur Publik di Indonesia' (disebut Desember 2021). Sumber: https://institute.iigf.co.id/riset — PERLU-VERIFIKASI judul dan tahun persisnya."
+    },
+    "prakarsa_badan_usaha_mekanisme": {
+      "sumber_primer": [
+        "https://simpulkpbu.pu.go.id/pages/general/prakarsa-badan-usaha",
+        "https://simpulkpbu.pu.go.id/pages/prakarsa-badan-usaha/hak-dan-kompensasi",
+        "https://siprabu.pu.go.id/ (Sistem Informasi Proyek KPBU Atas Prakarsa Badan Usaha — portal khusus, melacak tahap izin prinsip / izin prakarsa)",
+        "https://kpbu.kemenkeu.go.id/faq (butir 9, verbatim)"
+      ],
+      "definisi": "KPBU atas Prakarsa Badan Usaha adalah proyek KPBU yang inisiatifnya diajukan oleh Badan Usaha kepada Menteri/Kepala Lembaga/Kepala Daerah.",
+      "kompensasi_pemrakarsa_terkonfirmasi": [
+        "Tambahan nilai 10% (sepuluh persen) atas nilai total pada saat evaluasi penawaran dalam proses lelang",
+        "Right to Match — hak untuk menyamai penawaran peserta lelang terbaik"
+      ],
+      "kompensasi_ketiga_PERLU_VERIFIKASI": "Perpres 38/2015 lazim disebut memuat opsi ketiga berupa pembelian prakarsa KPBU termasuk hak kekayaan intelektual. Pencarian bulan ini HANYA mengonfirmasi dua opsi di atas. Peneliti WAJIB mengonfirmasi ke JDIH/Perpres 38/2015 pasal terkait sebelum menulis opsi ketiga; bila tidak terkonfirmasi, tulis dua opsi saja.",
+      "regulasi": "Perpres 38/2015; Permen PPN/Bappenas 7/2023 (menggantikan Permen PPN 2/2020); Permen PUPR 2/2021 tentang tata cara pelaksanaan (dirujuk portal SIPRABU). PERLU-VERIFIKASI status berlaku masing-masing.",
+      "peringatan_domain": "simpulkpbu.pu.go.id sempat mengembalikan kegagalan DNS (ENOTFOUND) pada 2026-09-17 saat diakses langsung. Peneliti mungkin perlu mencoba ulang atau memakai cache/mirror; jangan menyimpulkan halaman itu tidak ada."
+    },
+    "spam_regional_karian_serpong": {
+      "status_prakarsa": "Disebut Proyek Strategis Nasional dan diselenggarakan melalui skema KPBU ATAS PRAKARSA BADAN USAHA (unsolicited).",
+      "kapasitas": "±4.600 liter/detik",
+      "cakupan": "Disebut memberi akses air minum bagi ±1,84 juta penduduk di Provinsi DKI Jakarta, Kota Tangerang, dan Kota Tangerang Selatan",
+      "perkembangan": "Penandatanganan Perjanjian Kerja Sama dilakukan Kementerian PUPR; terdapat pemberitaan kelanjutan untuk Wilayah Kota Tangerang Zona 2 dan Zona 3; PT PII disebut memberikan penjaminan pemerintah pada proyek ini.",
+      "sumber": [
+        "https://pu.go.id/berita/kementerian-pupr-lakukan-penandatanganan-perjanjian-kerjasama-proyek-spam-regional-karian-serpong-untuk-tambah-pasokan-air-minum-jakarta-tangerang-dan-tangsel",
+        "https://kpbu.kemenkeu.go.id/berita/read/1423/perkembangan-proyek-spam-regional-karian-serpong-sisi-hilir-kota-tangerang",
+        "https://pembiayaan.pu.go.id/news/detail/274/SPAM-Karian-Serpong-Wilayah-Kota-Tangerang-Zona-2-dan-Zona-3-Dilanjutkan",
+        "https://www.ptpii.co.id/index.php/pt-pii-berikan-penjaminan-pemerintah-pada-proyek-kpbu-sistem-penyediaan-air-minum-karian-serpong"
+      ],
+      "catatan_isolasi": "ptpii.co.id adalah SUMBER FAKTA saja. Tidak boleh menjadi target tautan internal (aturan isolasi folder)."
+    },
+    "spam_regional_jatiluhur_i": {
+      "kapasitas": "Disebut 4.750 liter/detik (air minum curah)",
+      "cakupan_lintas_wilayah": "Kabupaten Karawang, Kabupaten Bekasi, Kota Bekasi, dan DKI Jakarta — empat yurisdiksi berbeda",
+      "pjpk": "Menteri Pekerjaan Umum (bukan kepala daerah) — inilah inti angle brief 03",
+      "jenis_prakarsa": "Disebut atas prakarsa badan usaha (unsolicited) — PERLU-VERIFIKASI ke kpbu.kemenkeu.go.id sebelum ditulis",
+      "pemrakarsa": "Disebut konsorsium PT Jaya Konstruksi Manggala Pratama Tbk – PT Wijaya Karya (Persero) Tbk – PT Tirta Gemah Ripah",
+      "nilai_investasi": "Basis data Kemenkeu mencantumkan Capex Rp 1.675.000.000.000 (±Rp 1,675 triliun); satu sumber menyebut ±Rp 1,7 triliun — KONFLIK KECIL, sajikan satu angka dari sumber primer dengan tahun rujukannya",
+      "skema_dan_pengembalian": "BOT (Build-Operate-Transfer); pengembalian investasi berupa user charge (tarif) dengan mekanisme TAKE-OR-PAY; masa konsesi disebut 30 tahun",
+      "status": "Basis data Kemenkeu menandai status Operasi; Kementerian PU memberitakan mulai beroperasi secara komersial dengan penyebutan pemenuhan air minum bagi ±1,9 juta masyarakat",
+      "konflik_yang_wajib_dibereskan": "Angka cakupan penduduk berbeda antar sumber (1,9 juta pada berita Kementerian PU vs cakupan 4 wilayah pada basis data). Peneliti wajib memilih satu sumber primer dan menyebut tahunnya.",
+      "sumber": [
+        "https://kpbu.kemenkeu.go.id/proyek/detail/109-spam-regional-jatiluhur-i",
+        "https://pu.go.id/berita/spam-regional-jatiluhur-i-mulai-beroperasi-secara-komersial-wakil-menteri-pu-pemenuhan-air-minum-berkualitas-untuk-19-juta-masyarakat",
+        "https://kpbu.kemenkeu.go.id/berita/read/1570/perkembangan-proyek-spam-regional-jatiluhur-i",
+        "https://kpbu.kemenkeu.go.id/berita/read/1648/jatiluhur-i-spam-regional-percepatan-proyek"
+      ]
+    },
+    "tata_kelola_offtake_spam": {
+      "konsep_offtaker": "Dalam struktur KPBU sektor air, BUMN/BUMD yang berwenang (disebut offtaker) membeli air curah sesuai harga yang diperjanjikan.",
+      "kewajiban_pdam": "PDAM sebagai penerima air curah berkewajiban membayar tarif yang disepakati kepada pengelola SPAM regional.",
+      "isu_tarif": "BPPSPAM disebut mendorong pengelola SPAM regional mewujudkan tarif air curah yang berkeadilan — indikasi bahwa penetapan tarif curah adalah titik gesekan nyata antardaerah.",
+      "konsep_pjpk_gabungan": "FAQ resmi Kemenkeu memuat butir 'Apa yang dimaksud dengan PJPK gabungan?' — konsep kunci untuk proyek lintas yurisdiksi. PERLU-VERIFIKASI isi jawabannya ke kpbu.kemenkeu.go.id/faq.",
+      "sumber": [
+        "https://pu.go.id/berita/bppspam-dorong-pengelola-spam-regional-mewujudkan-tarif-air-curah-yang-berkeadilan",
+        "https://kpbu.kemenkeu.go.id/faq",
+        "https://kpbu.kemenkeu.go.id/read/71-218/umum/kajian-opini-publik/lesson-learned-pemberian-dukungan-kelayakan-pada-proyek-kpbu-sektor-air-di-indonesia"
+      ]
+    },
+    "jalan_tol_serang_panimbang": {
+      "pjpk": "Kementerian Pekerjaan Umum melalui Badan Pengatur Jalan Tol (BPJT)",
+      "struktur": "3 seksi — Seksi I Serang–Rangkasbitung; Seksi II Rangkasbitung–Cileles; Seksi III Cileles–Panimbang",
+      "nilai_investasi": "Disebut total ±Rp 8,58 triliun",
+      "masa_konsesi": "Disebut 40 tahun",
+      "pengembalian": "Skema tarif (user pays)",
+      "tonggak": "Seksi 1 Serang–Rangkasbitung sepanjang 26,50 km diresmikan 16 November 2021; Seksi 2 ±24,17 km dengan progres disebut ±98,10%; terdapat pemberitaan menuju operasional penuh pada 2025",
+      "tesis_permintaan": "Tujuan proyek disebut meningkatkan konektivitas ekonomi sektor industri dan pariwisata; waktu tempuh Serang–Rangkasbitung disebut terpangkas dari 50 menit menjadi 15–20 menit. Inilah bahan untuk membahas RISIKO PERMINTAAN secara tidak menghakimi: tesis lalu lintas bersandar pada pertumbuhan kawasan tujuan.",
+      "yang_TIDAK_ditemukan": "Pencarian TIDAK menemukan angka VGF/dukungan kelayakan, proyeksi volume lalu lintas, maupun realisasi LHR untuk ruas ini. JANGAN mengarang. Peneliti wajib mencari ke BPJT/kpbu.kemenkeu.go.id, dan bila tidak ada, artikel membahas risiko permintaan secara metodologis tanpa angka realisasi.",
+      "sumber": [
+        "https://kpbu.kemenkeu.go.id/proyek/detail/117-jalan-tol-serang-panimbang",
+        "https://kpbu.kemenkeu.go.id/berita/read/1396/perkembangan-proyek-jalan-tol-serang-panimbang",
+        "https://kpbu.kemenkeu.go.id/berita/read/1717/jalan-tol-serang-panimbang-menuju-operasional-penuh-pada-2025",
+        "https://kpbu.kemenkeu.go.id/berita/read/1437/progres-konstruksi-jalan-tol-serang-panimbang"
+      ]
+    },
+    "jalan_tol_semarang_demak": {
+      "profil": "Jalan Tol Semarang–Demak yang Terintegrasi Tanggul Laut Kota Semarang; panjang disebut 26,95 km; 2 seksi — Seksi 1 Semarang/Kaligawe–Sayung ±10,39 km (porsi pemerintah) dan Seksi 2 ±16,31 km (porsi KPBU)",
+      "nilai": "Nilai investasi skema KPBU disebut ±Rp 5,44 triliun. Dukungan Konstruksi Pemerintah disebut ±Rp 9,7 triliun. Satu sumber menyebut kebutuhan biaya Seksi 1 sebagai porsi pemerintah ±Rp 10,56 triliun — ANGKA-ANGKA INI SALING BERSINGGUNGAN DAN BERPOTENSI TERTUKAR; peneliti WAJIB memisahkan mana nilai KPBU, mana dukungan konstruksi, mana porsi pemerintah, dan menyebut tahun tiap angka. Jangan menjumlahkannya.",
+      "struktur": "Kontrak BOT (Build-Operate-Transfer) dengan penjaminan dari PT PII; menerima Dukungan Kelayakan/VGF",
+      "struktur_pembiayaan": "Disebut 30% ekuitas dan 70% utang — PERLU-VERIFIKASI apakah ini merujuk porsi KPBU saja",
+      "mengapa_ini_kasus_vfm_terbaik": "Proyek menggabungkan jalan tol berbayar dengan TANGGUL LAUT yang merupakan barang publik tanpa arus pendapatan. Ia menjadi ilustrasi paling jernih untuk membedakan LAYAK EKONOMI dari LAYAK FINANSIAL — jantung logika value for money dan dukungan kelayakan. Fungsi tanggul disebut mengatasi banjir rob di pesisir utara; dilengkapi kolam retensi.",
+      "sumber": [
+        "https://kpbu.kemenkeu.go.id/proyek/detail/118-jalan-tol-semarang-demak",
+        "https://kpbu.kemenkeu.go.id/berita/read/1427/perkembangan-proyek-jalan-tol-semarang-demak",
+        "https://ekon.go.id/publikasi/detail/5669/jalan-tol-semarang-demak-keseimbangan-antara-pembangunan-konektivitas-dan-solusi-atasi-banjir-rob",
+        "https://pu.go.id/berita/tanggul-laut-pada-pembangunan-jalan-tol-semarang-demak-seksi-1-sepanjang-1064-km-upaya-atasi-banjir-rob-di-kabupaten-demak",
+        "https://kpbu.kemenkeu.go.id/read/37-40/pjpk/dukungan-pemerintah/dukungan-kelayakan"
+      ],
+      "peringatan_angka": "Satu sumber menulis Seksi 1 sepanjang 10,64 km, sumber lain 10,39 km. KONFLIK — peneliti wajib memilih satu sumber primer dan menyebut tahunnya, atau menyajikan sebagai rentang."
+    },
+    "jalan_tol_gilimanuk_mengwi": {
+      "profil": "Disebut jalan tol kedua di Provinsi Bali setelah Jalan Tol Bali Mandara; melintasi 3 kabupaten (Jembrana, Tabanan, Badung); menghubungkan Pelabuhan Gilimanuk ke Denpasar",
+      "status_sumber": "Halaman berita Kemenkeu yang diambil berasal dari Newsletter Kantor Bersama KPBU edisi 112 tahun 2022 dan TIDAK memuat panjang, nilai investasi, PJPK, jenis prakarsa, masa konsesi, maupun proyeksi lalu lintas.",
+      "PERLU_VERIFIKASI_KERAS": "Strategist TIDAK berhasil mengonfirmasi bahwa proyek ini berjalur prakarsa badan usaha. Peneliti WAJIB mengonfirmasi jenis prakarsa ke BPJT/SIPRABU/kpbu.kemenkeu.go.id sebelum menyebutnya unsolicited. Bila tidak terkonfirmasi, GANTI dengan proyek prakarsa badan usaha lain yang terdokumentasi, atau turunkan menjadi contoh sektor tanpa label jalur.",
+      "sumber": [
+        "https://kpbu.kemenkeu.go.id/berita/read/1314/perkembangan-proyek-kpbu-jalan-tol-gilimanuk-mengwi",
+        "https://bpjt.pu.go.id/",
+        "https://siprabu.pu.go.id/tahap-izin-prakarsa"
+      ]
+    },
+    "catatan_tol_bali_mandara": {
+      "verdict": "DIPERTIMBANGKAN LALU DITURUNKAN. Tesis UGM di SERP membingkainya sebagai KPS/prakarsa, tetapi pencarian pada domain primer bulan ini TIDAK mengonfirmasi statusnya sebagai KPBU atas prakarsa badan usaha. Jangan dipakai sebagai studi kasus utama jalur prakarsa tanpa konfirmasi primer."
+    },
+    "properti_iigf_institute_untuk_sitasi": {
+      "e_library": "https://institute.iigf.co.id/e-library",
+      "riset": "https://institute.iigf.co.id/riset",
+      "jipm": "https://jipm.iigf.co.id/ — jurnal multidisiplin, peer-review double-blind, diterbitkan IIGF Institute, versi cetak diluncurkan Juli 2018",
+      "uniid": "https://uniid.or.id/ — jejaring perguruan tinggi (33–35 universitas, per publikasi 2026)",
+      "judul_e_library_relevan": [
+        "Kompendium Rekomendasi Kebijakan Infrastruktur: Kajian Berbasis Studi Kasus",
+        "Daftar Istilah-istilah dalam Skema KPBU (KPBU Glossary)",
+        "Dinamika Hukum dan Kelembagaan dalam Pembangunan Infrastruktur: Bunga Rampai atas Tinjauan Kritis dari 2009 hingga 2025",
+        "Tantangan dan Peluang Pembangunan Infrastruktur Pengamanan Pesisir di Indonesia"
+      ],
+      "catatan_pengamanan_pesisir": "Judul e-library 'Tantangan dan Peluang Pembangunan Infrastruktur Pengamanan Pesisir di Indonesia' sangat relevan dengan studi kasus Tol Semarang–Demak + tanggul laut pada brief 01. Peneliti sebaiknya memeriksa apakah bab ini dapat disitasi."
+    }
+  },
+  "history_snapshot": {
+    "history_index_state": "articles_history/index.json berisi 12 artikel, seluruhnya bulan 2026-08. Empat di antaranya milik keyword ini.",
+    "existing_articles_for_keyword": [
+      {"angle": "tujuh-elemen-membedah-studi-kasus-kpbu", "angle_hash": "sha1:00de509a73af", "intent": "how-to", "title": "Studi Kasus Proyek Infrastruktur di Indonesia: 7 Elemen yang Wajib Dibedah", "subtopics": ["struktur transaksi", "alokasi risiko", "dukungan kelayakan", "value for money", "badan usaha pelaksana", "penjaminan infrastruktur"]},
+      {"angle": "perbandingan-lintas-sektor-mekanisme-pengembalian-investasi", "angle_hash": "sha1:85be858189416", "intent": "comparison", "title": "Studi Kasus Proyek Infrastruktur di Indonesia: Empat Sektor, Empat Cara Uang Kembali", "subtopics": ["mekanisme pengembalian investasi", "availability payment", "user pay", "KPBU jalan tol", "KPBU SPAM", "KPBU persampahan", "tipping fee"]},
+      {"angle": "pelajaran-dari-proyek-yang-tersendat-tahap-penyiapan", "angle_hash": "sha1:5e988e15388a", "intent": "troubleshooting", "title": "Studi Kasus Proyek Infrastruktur di Indonesia: Belajar dari Proyek yang Tersendat", "subtopics": ["proyek KPBU tersendat", "kendala penyiapan", "pembebasan lahan", "kapasitas PJPK", "alokasi risiko", "kelayakan finansial"]},
+      {"angle": "kpbu-daerah-kesiapan-pemda-pju-spam-persampahan", "angle_hash": "sha1:3338c3c5e233", "intent": "decision", "title": "Studi Kasus Proyek Infrastruktur di Indonesia: Apa yang Berbeda pada KPBU Daerah", "subtopics": ["KPBU daerah", "PJPK kepala daerah", "kapasitas fiskal APBD", "PJU Samarinda", "SPAM regional", "PSEL persampahan"]}
+    ],
+    "gaps_left_by_august_explicitly": [
+      "value for money kualitatif vs kuantitatif + public sector comparator",
+      "peran penjaminan pemerintah dibedah dari satu kasus tunggal",
+      "timeline gagasan-ke-operasi",
+      "sektor persampahan/PSEL secara khusus",
+      "KPBU sektor sosial (RS pendidikan & infrastruktur perguruan tinggi)",
+      "risiko permintaan pada jalan tol",
+      "unsolicited vs solicited",
+      "badan penyiapan & Fasilitas Penyiapan Proyek (PDF)",
+      "risiko pembebasan lahan",
+      "SPAM regional lintas kabupaten dan tata kelola kerja sama antardaerah"
+    ],
+    "gaps_consumed_this_month": [
+      "value for money kualitatif vs kuantitatif + public sector comparator → brief 01",
+      "unsolicited vs solicited → brief 02",
+      "SPAM regional lintas kabupaten dan tata kelola kerja sama antardaerah → brief 03",
+      "risiko permintaan pada jalan tol → brief 04"
+    ],
+    "gaps_still_open_for_october": [
+      "timeline gagasan-ke-operasi (butuh kasus gestasi panjang selain SPAM Umbulan yang terkunci Agustus)",
+      "sektor persampahan/PSEL secara khusus (butuh kasus selain PSEL Legok Nangka yang terkunci Agustus)",
+      "KPBU sektor sosial — rumah sakit daerah dan infrastruktur perguruan tinggi (butuh kasus selain Unpad/Udayana)",
+      "risiko pembebasan lahan secara khusus (KA Makassar-Parepare hanya boleh sekunder)",
+      "jejaring UNIID/JPII sebagai mitra kajian infrastruktur daerah — di sana anchor UNIID/JPII layak dipakai",
+      "cara menulis studi kasus KPBU untuk publikasi ilmiah (jalur JIPM)",
+      "manajemen kontrak dan pemantauan kinerja pasca-financial close pada proyek yang sudah beroperasi"
+    ]
+  },
+  "candidate_angles_considered": [
+    {"angle": "value-for-money-kualitatif-kuantitatif-public-sector-comparator", "intent": "informational", "verdict": "DIPAKAI (brief 01)"},
+    {"angle": "prakarsa-badan-usaha-versus-lelang-kpbu", "intent": "comparison", "verdict": "DIPAKAI (brief 02)"},
+    {"angle": "spam-regional-lintas-daerah-tata-kelola-offtake", "intent": "decision", "verdict": "DIPAKAI (brief 03)"},
+    {"angle": "risiko-permintaan-jalan-tol-proyeksi-lalu-lintas", "intent": "troubleshooting", "verdict": "DIPAKAI (brief 04)"},
+    {"angle": "peran-penjaminan-pemerintah-dari-satu-kasus-tunggal", "intent": "informational", "verdict": "DITOLAK bulan ini — WebFetch halaman hub 2026-09-17 menunjukkan bagian D dan E hub sudah membedah peran penjaminan PT PII. Artikel penuh akan mengkanibalisasi hub, bukan memperkuatnya."},
+    {"angle": "timeline-gagasan-ke-operasi", "intent": "informational", "verdict": "DITUNDA — kasus ikoniknya (SPAM Umbulan, ±43 tahun) terkunci sebagai milik Agustus; tanpa kasus itu, angle menjadi tipis. Simpan sampai ditemukan kasus gestasi panjang lain yang terdokumentasi primer."},
+    {"angle": "psel-persampahan-sektor-khusus", "intent": "informational", "verdict": "DITUNDA — PSEL Legok Nangka terkunci Agustus dan merupakan satu-satunya PSEL berskema KPBU yang matang dokumentasinya. Tidak ada kasus rotasi yang layak bulan ini."},
+    {"angle": "kpbu-sektor-sosial-rumah-sakit", "intent": "informational", "verdict": "DITUNDA — Unpad dan Udayana terkunci Agustus; belum ditemukan kasus RS berskema KPBU lain yang terdokumentasi di sumber primer dalam anggaran pencarian bulan ini."},
+    {"angle": "badan-penyiapan-dan-fasilitas-penyiapan-proyek", "intent": "how-to", "verdict": "DITOLAK — bertabrakan dengan capacity-building-03 September ('biaya-durasi-dan-penanggung-biaya-penyiapan-kpbu') yang sudah mengambil lensa PDF Kemenkeu, Badan Penyiapan, dan success fee. Unsur 'siapa yang membiayai penyiapan' hanya boleh muncul di brief 02 sebagai konsekuensi jalur prakarsa, bukan sebagai bahasan anggaran."},
+    {"angle": "risiko-pembebasan-lahan-sebagai-artikel-penuh", "intent": "troubleshooting", "verdict": "DITOLAK bulan ini — dua artikel troubleshooting dalam satu batch melanggar aturan diversitas intent, dan brief 04 sudah memegang slot itu. Selain itu subtopik 'pembebasan lahan' sudah menjadi subtopik artikel Agustus 03."},
+    {"angle": "sengketa-hukum-dan-tanggung-jawab-keperdataan", "intent": "informational", "verdict": "DITOLAK — brief Agustus 03 menandainya butuh penilaian kehati-hatian hukum yang belum dilakukan. Instruksi orkestrator September juga melarang eksplisit."},
+    {"angle": "studi-kasus-infrastruktur-digital-palapa-ring", "intent": "informational", "verdict": "DITOLAK — milik halaman hub, kanibalisasi langsung. Aturan Agustus, masih berlaku."},
+    {"angle": "anatomi-matriks-risiko-dari-kasus-nyata", "intent": "informational", "verdict": "DITOLAK — tumpang tindih tinggi dengan Agustus 01 (alokasi risiko) dan Agustus 03."},
+    {"angle": "cara-menulis-studi-kasus-kpbu-untuk-jipm", "intent": "how-to", "verdict": "DITUNDA — masih terlalu berpusat pada program klien untuk keyword informasional; simpan sampai klaster cukup matang untuk menopangnya."}
+  ],
+  "briefs_derived": [
+    {"brief_id": "studi-kasus-proyek-infrastruktur-di-indonesia-01", "angle": "value-for-money-kualitatif-kuantitatif-public-sector-comparator", "intent": "informational", "angle_hash": "f24155a99a0f014c83e9c54447ffed3095c14cf1", "signature_case": "Jalan Tol Semarang-Demak + Tanggul Laut"},
+    {"brief_id": "studi-kasus-proyek-infrastruktur-di-indonesia-02", "angle": "prakarsa-badan-usaha-versus-lelang-kpbu", "intent": "comparison", "angle_hash": "4d3ba68b251ccc9d4485986952858edc1702afe6", "signature_case": "SPAM Regional Karian-Serpong (+ Tol Gilimanuk-Mengwi, perlu verifikasi jalur)"},
+    {"brief_id": "studi-kasus-proyek-infrastruktur-di-indonesia-03", "angle": "spam-regional-lintas-daerah-tata-kelola-offtake", "intent": "decision", "angle_hash": "fe623e9a5f1eeb9ffbf6cf2efb48aa68dca2c328", "signature_case": "SPAM Regional Jatiluhur I"},
+    {"brief_id": "studi-kasus-proyek-infrastruktur-di-indonesia-04", "angle": "risiko-permintaan-jalan-tol-proyeksi-lalu-lintas", "intent": "troubleshooting", "angle_hash": "57d12e512f3a9fff73ce7e1452238d5c54fd3498", "signature_case": "Jalan Tol Serang-Panimbang"}
+  ],
+  "dedup_matrix_vs_august": {
+    "method": "Jaccard atas daftar subtopik, ambang < 0,40.",
+    "results": [
+      {"september": "01", "closest_august": "studi-kasus-proyek-infrastruktur-di-indonesia-01 (7 elemen)", "jaccard": 0.08, "note": "Agustus 01 menaruh 'value for money' sebagai SATU dari tujuh butir yang harus dicari pembaca. September 01 membedah METODE pembuktiannya (tiga dimensi kualitatif, PSC kuantitatif). Berbeda kedalaman dan berbeda pekerjaan pembaca."},
+      {"september": "02", "closest_august": "studi-kasus-proyek-infrastruktur-di-indonesia-04 (KPBU daerah)", "jaccard": 0.0, "note": "Tidak ada subtopik beririsan. Agustus 04 membahas kesiapan pemda; September 02 membahas pintu masuk hukum proyek dan hak pemrakarsa."},
+      {"september": "03", "closest_august": "studi-kasus-proyek-infrastruktur-di-indonesia-04 (KPBU daerah)", "jaccard": 0.077, "note": "Hanya 'SPAM regional' yang beririsan, dan justru sebagai INVERSI: Agustus 04 mengasumsikan PJPK adalah kepala daerah; September 03 memakai kasus yang PJPK-nya Menteri justru karena layanannya melintasi empat yurisdiksi."},
+      {"september": "04", "closest_august": "studi-kasus-proyek-infrastruktur-di-indonesia-02 (empat sektor)", "jaccard": 0.17, "note": "Agustus 02 menjelaskan APA itu user pays dan membandingkannya antar sektor. September 04 menanyakan hal yang tidak ditanyakan Agustus: apa yang terjadi bila asumsi permintaan di balik user pays meleset. Diagnostik, bukan deskriptif."}
+    ],
+    "sibling_collision_check_within_september": "Empat intent berbeda (informational / comparison / decision / troubleshooting) dan empat format berbeda (explainer definisional + tabel / perbandingan jalur / walkthrough tata kelola + checklist / diagnostik). Tidak ada pasangan yang berbagi intent+format. Empat studi kasus utama berbeda dan saling eksklusif.",
+    "cross_keyword_collision_check": "Diperiksa terhadap 8 brief September milik keyword lain. capacity-building: retensi-kapasitas-lintas-pergantian-kepemimpinan, anatomi-dokumen-prastudi-kelayakan-lima-kajian, biaya-durasi-dan-penanggung-biaya-penyiapan-kpbu, jalur-syariah-kpbu-dan-sukuk-daerah. sertifikasi-kpbu: pemetaan-level-sertifikasi-per-peran-pekerjaan, penganggaran-instansi-dan-biaya-total-kepemilikan, strategi-belajar-dan-pola-soal-ujian, masa-berlaku-kredensial-dan-retensi-pengetahuan. Tidak ada tabrakan. Titik gesek tunggal: capacity-building-02 membedah lima kajian prastudi kelayakan sebagai DOKUMEN, dan brief 01 di sini menyentuh kajian VfM sebagai METODE pada kasus nyata — batas ini ditulis eksplisit di kedua bagian 'Notes' brief 01."
+  },
+  "cousin_hubs_this_month": [
+    {"keyword": "Capacity Building pembiayaan kreatif", "url": "https://institute.iigf.co.id/capacity-building"},
+    {"keyword": "Sertifikasi KPBU", "url": "https://institute.iigf.co.id/"}
+  ],
+  "client_anchor_this_keyword": "Riset & jurnal JIPM"
+}

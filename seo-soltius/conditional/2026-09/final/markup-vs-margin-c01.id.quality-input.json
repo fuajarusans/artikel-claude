@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-09\\final\\markup-vs-margin-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-01T08:07:52+07:00",
+    "word_count":  996,
+    "paragraph_count":  20,
+    "sentence_count":  60,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.504,
+                        "sentence_burstiness":  0.611,
+                        "top30_vocab_share":  0.485,
+                        "flags":  [
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 48.5% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "# Markup vs Margin: Perbedaan dan Cara Menghitung Harga Jual Seorang staf pricing menetapkan markup 50% lalu menganggarkan laba seolah marginnya juga 50%, padahal margin sebenarnya hanya 33,3%.",
+                                      "candidate_score":  35,
+                                      "web_search_query":  "\"# Markup vs Margin: Perbedaan dan Cara Menghitung Harga Jual Seorang staf pricing menetapkan markup 50% lalu menganggark\""
+                                  },
+                                  {
+                                      "passage":  "- **Markup = Margin ÷ (1 − Margin)** — margin 0,25 menjadi 0,25 ÷ 0,75 = 33,3%.",
+                                      "candidate_score":  29,
+                                      "web_search_query":  "\"- **Markup = Margin ÷ (1 − Margin)** — margin 0,25 menjadi 0,25 ÷ 0,75 = 33,3%.\""
+                                  },
+                                  {
+                                      "passage":  "Mengira markup 50% berarti margin 50% membuat perusahaan melebih-lebihkan laba sebesar 16,7 poin persentase, karena margin sebenarnya 33,3%.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Mengira markup 50% berarti margin 50% membuat perusahaan melebih-lebihkan laba sebesar 16,7 poin persentase, karena marg\""
+                                  },
+                                  {
+                                      "passage":  "Hubungan itu bisa dihitung dua arah dengan rumus konversi: - **Margin = Markup ÷ (1 + Markup)** — markup 0,50 menjadi 0,50 ÷ 1,50 = 33,3%.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Hubungan itu bisa dihitung dua arah dengan rumus konversi: - **Margin = Markup ÷ (1 + Markup)** — markup 0,50 menjadi 0,\""
+                                  },
+                                  {
+                                      "passage":  "Namun margin atas harga jual itu hanya Rp40.000 ÷ Rp120.000 = 33,3%.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Namun margin atas harga jual itu hanya Rp40.000 ÷ Rp120.000 = 33,3%.\""
+                                  },
+                                  {
+                                      "passage":  "## Rumus Markup dan Margin serta Contoh Menghitungnya Laba rupiahnya identik; yang berbeda hanya penyebutnya.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"## Rumus Markup dan Margin serta Contoh Menghitungnya Laba rupiahnya identik; yang berbeda hanya penyebutnya.\""
+                                  },
+                                  {
+                                      "passage":  "## Kesalahan Umum: Menyamakan Markup dengan Margin Kesalahan paling mahal adalah menetapkan markup lalu menganggarkan laba seakan itu marginnya.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"## Kesalahan Umum: Menyamakan Markup dengan Margin Kesalahan paling mahal adalah menetapkan markup lalu menganggarkan la\""
+                                  },
+                                  {
+                                      "passage":  "Dengan markup 50%, ada tambahan Rp40.000 di atas biaya, sehingga harga jual menjadi Rp120.000.",
+                                      "candidate_score":  9,
+                                      "web_search_query":  "\"Dengan markup 50%, ada tambahan Rp40.000 di atas biaya, sehingga harga jual menjadi Rp120.000.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

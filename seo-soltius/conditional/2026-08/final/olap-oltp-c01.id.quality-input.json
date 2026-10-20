@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-08\\final\\olap-oltp-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-18T00:06:15+07:00",
+    "word_count":  1001,
+    "paragraph_count":  19,
+    "sentence_count":  56,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.324,
+                        "sentence_burstiness":  0.878,
+                        "top30_vocab_share":  0.341,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.324 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Sebagai SAP Platinum Partner melalui United VARs, Soltius mengimplementasikan dan mendampingi perusahaan yang menjalankan SAP di atas SAP HANA, dari penilaian beban kerja hingga dukungan pasca go-live.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Sebagai SAP Platinum Partner melalui United VARs, Soltius mengimplementasikan dan mendampingi perusahaan yang menjalanka\""
+                                  },
+                                  {
+                                      "passage":  "OLAP (*Online Analytical Processing*) menjawab pertanyaan analitis lintas periode atas jutaan baris, biasanya dalam hitungan detik hingga menit.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"OLAP (*Online Analytical Processing*) menjawab pertanyaan analitis lintas periode atas jutaan baris, biasanya dalam hitu\""
+                                  },
+                                  {
+                                      "passage":  "# OLAP vs OLTP: Perbedaan dan Fungsinya dalam Sistem Database Tim keuangan menarik laporan konsolidasi di jam kerja.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"# OLAP vs OLTP: Perbedaan dan Fungsinya dalam Sistem Database Tim keuangan menarik laporan konsolidasi di jam kerja.\""
+                                  },
+                                  {
+                                      "passage":  "## Perbedaan OLAP dan OLTP dalam 6 Dimensi Enam perbedaan di tabel berikut sebenarnya turun dari satu hal: bentuk akses datanya berlawanan.",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"## Perbedaan OLAP dan OLTP dalam 6 Dimensi Enam perbedaan di tabel berikut sebenarnya turun dari satu hal: bentuk akses \""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apa contoh OLTP dan OLAP di perusahaan?",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apa contoh OLTP dan OLAP di perusahaan?\""
+                                  },
+                                  {
+                                      "passage":  "OLAP menyentuh sedikit kolom di jutaan baris, misalnya satu kolom margin sepanjang tiga tahun.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"OLAP menyentuh sedikit kolom di jutaan baris, misalnya satu kolom margin sepanjang tiga tahun.\""
+                                  },
+                                  {
+                                      "passage":  "AWS mencatat sebagian besar perusahaan justru menjalankan keduanya berdampingan, bukan memilih salah satu.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"AWS mencatat sebagian besar perusahaan justru menjalankan keduanya berdampingan, bukan memilih salah satu.\""
+                                  },
+                                  {
+                                      "passage":  "Ketika manajemen meminta tren margin per lini produk selama tiga tahun, kueri itu memindai jutaan baris dan wajar memakan detik hingga menit.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Ketika manajemen meminta tren margin per lini produk selama tiga tahun, kueri itu memindai jutaan baris dan wajar memaka\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

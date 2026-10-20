@@ -225,7 +225,7 @@ Per the project decision, the writer does NOT generate images. Instead, mark 2�
 - `{IMAGE_02: Diagram side-by-side — kiri kondisi "sebelum" (silo, merah/abu), kanan kondisi "sesudah" (alur terintegrasi ke satu sumber data, hijau/biru)}`
 - `{IMAGE_03: Timeline horizontal fase implementasi, tiap fase dengan ikon + durasi tipikal, warna progresif abu→hijau}`
 
-The `image-planner` agent expands these into a structured `images.json` brief (alt-text + caption + visual direction + suggested asset type: infographic / diagram / screenshot / stock photo). No PNG is produced.
+The placeholder concept IS the design brief — there is no separate image-planner agent and no `images.json`. The client’s design team executes it, and the `.docx` renders each placeholder as an italic caption. **If the client runs image-free, delete this section and the `{IMAGE_NN}` row in §2.**
 
 ---
 

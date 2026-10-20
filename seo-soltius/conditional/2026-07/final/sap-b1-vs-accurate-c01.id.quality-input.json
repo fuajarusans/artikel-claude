@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-07\\final\\sap-b1-vs-accurate-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-06T18:58:49+07:00",
+    "word_count":  1033,
+    "paragraph_count":  17,
+    "sentence_count":  44,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.537,
+                        "sentence_burstiness":  1.644,
+                        "top30_vocab_share":  0.308,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Pasarnya luas: 25,5 juta UMKM Indonesia telah masuk ekosistem digital per Juli 2024 ([Kemenkop UKM via Antara](https://www.antaranews.com/berita/4397157/kemenkop-ukm-255-juta-umkm-telah-go-digital)), dan tidak semuanya butuh ERP.",
+                                      "candidate_score":  34,
+                                      "web_search_query":  "\"Pasarnya luas: 25,5 juta UMKM Indonesia telah masuk ekosistem digital per Juli 2024 ([Kemenkop UKM via Antara](https://w\""
+                                  },
+                                  {
+                                      "passage":  "SAP menyebut pelanggan tipikal Business One adalah perusahaan kecil atau menengah, dengan 10 pelanggan baru per hari dan 500+ ekstensi industri ([SAP News Center, Desember 2025](https://news.sap.com/2025/12/global-success-of-sap-business-one/)).",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"SAP menyebut pelanggan tipikal Business One adalah perusahaan kecil atau menengah, dengan 10 pelanggan baru per hari dan\""
+                                  },
+                                  {
+                                      "passage":  "Per Desember 2025 produk ini dipakai lebih dari 83.000 perusahaan di 170+ negara, dan SAP mencatat pelanggan yang tumbuh dari 3 menjadi 250 karyawan tanpa berganti sistem.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Per Desember 2025 produk ini dipakai lebih dari 83.000 perusahaan di 170+ negara, dan SAP mencatat pelanggan yang tumbuh\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apakah SAP Business One cocok untuk UKM?",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apakah SAP Business One cocok untuk UKM?\""
+                                  },
+                                  {
+                                      "passage":  "\u003e **Ringkasnya:** SAP Business One adalah ERP untuk usaha kecil-menengah yang menyatukan keuangan, penjualan, persediaan, hingga produksi dalam satu sistem — dipakai 83.000+ perusahaan di 170+ negara.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"\u003e **Ringkasnya:** SAP Business One adalah ERP untuk usaha kecil-menengah yang menyatukan keuangan, penjualan, persediaan\""
+                                  },
+                                  {
+                                      "passage":  "## Perbandingan SAP Business One vs Accurate vs Zahir Perbedaan paling menentukan ada pada model lisensi dan cara sistem diperluas.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Perbandingan SAP Business One vs Accurate vs Zahir Perbedaan paling menentukan ada pada model lisensi dan cara sistem\""
+                                  },
+                                  {
+                                      "passage":  "Yang harus jujur masuk kalkulasi: implementasinya umumnya proyek terencana bersama partner, bukan aktivasi instan seperti produk lokal.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Yang harus jujur masuk kalkulasi: implementasinya umumnya proyek terencana bersama partner, bukan aktivasi instan sepert\""
+                                  },
+                                  {
+                                      "passage":  "Soltius, diakui sebagai SAP Business One Partner of the Year, mendampingi bisnis berkembang dari asesmen kebutuhan, implementasi, hingga dukungan pasca *go-live*.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Soltius, diakui sebagai SAP Business One Partner of the Year, mendampingi bisnis berkembang dari asesmen kebutuhan, impl\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

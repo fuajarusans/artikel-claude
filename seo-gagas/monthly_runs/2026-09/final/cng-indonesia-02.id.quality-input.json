@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-09\\final\\cng-indonesia-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-21T10:39:04+07:00",
+    "word_count":  1543,
+    "paragraph_count":  27,
+    "sentence_count":  91,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.433,
+                        "sentence_burstiness":  0.73,
+                        "top30_vocab_share":  0.305,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.433 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Lewat [Rencana Induk Jaringan Transmisi dan Distribusi Gas Bumi Nasional (RIJTDGBN) 2022–2031](https://migas.esdm.go.id/post/dukung-pengembangan-infrastruktur-hilir-gas-bumi-menteri-esdm-tetapkan-rencana-induk-jaringan-transmisi-dan-distribusi-gas-bumi-nasional-rijtdgbn-2022-2031) (Kepmen ESDM No.",
+                                      "candidate_score":  38,
+                                      "web_search_query":  "\"Lewat [Rencana Induk Jaringan Transmisi dan Distribusi Gas Bumi Nasional (RIJTDGBN) 2022–2031](https://migas.esdm.go.id/\""
+                                  },
+                                  {
+                                      "passage":  "Proyek pipa transmisi Dumai–Sei Mangkei di Sumatra sepanjang 400 km bernilai sekitar Rp6,6 triliun dengan target rampung 2027 (Kementerian ESDM, Januari 2024).",
+                                      "candidate_score":  32,
+                                      "web_search_query":  "\"Proyek pipa transmisi Dumai–Sei Mangkei di Sumatra sepanjang 400 km bernilai sekitar Rp6,6 triliun dengan target rampung\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai gambaran skala, pipa transmisi Dumai–Sei Mangkei sepanjang 400 km bernilai sekitar Rp6,6 triliun dengan target rampung 2027 (Kementerian ESDM, Januari 2024).",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"Sebagai gambaran skala, pipa transmisi Dumai–Sei Mangkei sepanjang 400 km bernilai sekitar Rp6,6 triliun dengan target r\""
+                                  },
+                                  {
+                                      "passage":  "Jaringan pipa gas bumi nasional Indonesia kini mencapai sekitar [22.821 km](https://www.bphmigas.go.id/bph-migas-dorong-pengoptimalan-jaringan-pipa-gas-bumi-nasional/), gabungan pipa transmisi, distribusi, serta pipa kepentingan sendiri dan jaringan gas rumah tangga (menurut BPH Migas).",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Jaringan pipa gas bumi nasional Indonesia kini mencapai sekitar [22.821 km](https://www.bphmigas.go.id/bph-migas-dorong-\""
+                                  },
+                                  {
+                                      "passage":  "Wilayah I–III (Indonesia Barat, backbone Sumatra–Jawa) difokuskan pada jaringan pipa, termasuk proyek Dumai–Sei Mangkei dan pipa Cirebon–Semarang (Cisem) Tahap II yang beroperasi penuh sejak Juni 2026.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"Wilayah I–III (Indonesia Barat, backbone Sumatra–Jawa) difokuskan pada jaringan pipa, termasuk proyek Dumai–Sei Mangkei \""
+                                  },
+                                  {
+                                      "passage":  "Sebagai anak usaha PGN yang merupakan bagian dari Subholding Gas Pertamina, PGN Gagas menghadirkan gas bumi ke wilayah yang belum terjangkau jaringan pipa lewat solusi CNG.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Sebagai anak usaha PGN yang merupakan bagian dari Subholding Gas Pertamina, PGN Gagas menghadirkan gas bumi ke wilayah y\""
+                                  },
+                                  {
+                                      "passage":  "Virtual pipeline CNG capex-nya jauh lebih rendah, tapi opex logistik berjalan terus tiap pengiriman.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Virtual pipeline CNG capex-nya jauh lebih rendah, tapi opex logistik berjalan terus tiap pengiriman.\""
+                                  },
+                                  {
+                                      "passage":  "Lewat RIJTDGBN, Kementerian ESDM mengarahkan wilayah seperti ini, termasuk sebagian Indonesia Timur, ke strategi LNG atau virtual pipeline.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Lewat RIJTDGBN, Kementerian ESDM mengarahkan wilayah seperti ini, termasuk sebagian Indonesia Timur, ke strategi LNG ata\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

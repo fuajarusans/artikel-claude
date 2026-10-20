@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07-2\\final\\perusahaan-lng-indonesia-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-08T09:35:52+07:00",
+    "word_count":  1588,
+    "paragraph_count":  27,
+    "sentence_count":  90,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.455,
+                        "sentence_burstiness":  0.521,
+                        "top30_vocab_share":  0.308,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Menurut data Kementerian ESDM (2023), program gasifikasi kelistrikan mencakup 47 lokasi pembangkit dengan total kebutuhan volume 282,93 BBTUD (*Billion British Thermal Unit per Day*).",
+                                      "candidate_score":  33,
+                                      "web_search_query":  "\"Menurut data Kementerian ESDM (2023), program gasifikasi kelistrikan mencakup 47 lokasi pembangkit dengan total kebutuha\""
+                                  },
+                                  {
+                                      "passage":  "Pada kasus PLTG Sambera di Kalimantan Timur, LNG menurunkan BPP dari Rp 2.780,6/kWh menjadi Rp 1.721/kWh (sekitar 38%), setara ~Rp 70 miliar per tahun (Kementerian ESDM).",
+                                      "candidate_score":  29,
+                                      "web_search_query":  "\"Pada kasus PLTG Sambera di Kalimantan Timur, LNG menurunkan BPP dari Rp 2.780,6/kWh menjadi Rp 1.721/kWh (sekitar 38%), \""
+                                  },
+                                  {
+                                      "passage":  "Menurut data Kementerian ESDM, program ini mencakup 47 lokasi dengan kebutuhan 282,93 BBTUD: 24 sudah beroperasi, 3 dalam konstruksi, dan 20 masih direncanakan (per data ESDM 2023).",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"Menurut data Kementerian ESDM, program ini mencakup 47 lokasi dengan kebutuhan 282,93 BBTUD: 24 sudah beroperasi, 3 dala\""
+                                  },
+                                  {
+                                      "passage":  "Menurut data Kementerian ESDM (2023), program gasifikasi kelistrikan mencakup 47 lokasi pembangkit dengan kebutuhan 282,93 BBTUD.",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"Menurut data Kementerian ESDM (2023), program gasifikasi kelistrikan mencakup 47 lokasi pembangkit dengan kebutuhan 282,\""
+                                  },
+                                  {
+                                      "passage":  "PLTMG (Pembangkit Listrik Tenaga Mesin Gas) umumnya *dual-fuel*, bisa memakai gas alam maupun HSD secara bergantian.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"PLTMG (Pembangkit Listrik Tenaga Mesin Gas) umumnya *dual-fuel*, bisa memakai gas alam maupun HSD secara bergantian.\""
+                                  },
+                                  {
+                                      "passage":  "Angka ini bergerak seiring proyeksi PLN bahwa kebutuhan gas pembangkit naik dari 1.748 BBTUD (2026) menjadi 2.490 BBTUD (2034), sehingga jumlah lokasi berpeluang bertambah.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Angka ini bergerak seiring proyeksi PLN bahwa kebutuhan gas pembangkit naik dari 1.748 BBTUD (2026) menjadi 2.490 BBTUD \""
+                                  },
+                                  {
+                                      "passage":  "## Kapan LNG Lebih Cocok daripada Diesel atau CNG untuk Sebuah Pembangkit?",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Kapan LNG Lebih Cocok daripada Diesel atau CNG untuk Sebuah Pembangkit?\""
+                                  },
+                                  {
+                                      "passage":  "**Likuifaksi di kilang.** Gas alam didinginkan hingga -162 derajat Celsius menjadi LNG, menyusut ~1/600 sehingga hemat ruang angkut.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"**Likuifaksi di kilang.** Gas alam didinginkan hingga -162 derajat Celsius menjadi LNG, menyusut ~1/600 sehingga hemat r\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

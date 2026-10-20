@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-10\\final\\gasku-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-28T19:33:04+07:00",
+    "word_count":  1528,
+    "paragraph_count":  24,
+    "sentence_count":  90,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.455,
+                        "sentence_burstiness":  0.753,
+                        "top30_vocab_share":  0.354,
+                        "flags":  [
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 35.4% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Keamanan sebenarnya ditentukan lulus-tidaknya tabung terhadap standar seperti ISO 11439, SNI 7407:2009/7408:2009, atau UN-ECE R110, bukan jenis materialnya.",
+                                      "candidate_score":  29,
+                                      "web_search_query":  "\"Keamanan sebenarnya ditentukan lulus-tidaknya tabung terhadap standar seperti ISO 11439, SNI 7407:2009/7408:2009, atau U\""
+                                  },
+                                  {
+                                      "passage":  "Empat tipe menurut klasifikasi ISO 11439 bisa diringkas begini: - **Type 1 (logam penuh, *all-metal*).** Baja atau aluminium utuh, sering ditempa *seamless* tanpa sambungan las.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Empat tipe menurut klasifikasi ISO 11439 bisa diringkas begini: - **Type 1 (logam penuh, *all-metal*).** Baja atau alumi\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apa perbedaan utama tabung CNG Type 1 dan Type 4?",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apa perbedaan utama tabung CNG Type 1 dan Type 4?\""
+                                  },
+                                  {
+                                      "passage":  "## Kenapa Tabung Termahal Belum Tentu Pilihan Terbaik untuk Anda Tidak selalu.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Kenapa Tabung Termahal Belum Tentu Pilihan Terbaik untuk Anda Tidak selalu.\""
+                                  },
+                                  {
+                                      "passage":  "Type 1 baja paling murah sekaligus paling berat; Type 4 komposit paling ringan tetapi biaya produksinya tertinggi.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Type 1 baja paling murah sekaligus paling berat; Type 4 komposit paling ringan tetapi biaya produksinya tertinggi.\""
+                                  },
+                                  {
+                                      "passage":  "Dalam ekosistem PGN, jaringan itu terus diperluas hingga mencakup 14 SPBG di 7 provinsi menurut data yang dikutip CNBC Indonesia (2025).",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"Dalam ekosistem PGN, jaringan itu terus diperluas hingga mencakup 14 SPBG di 7 provinsi menurut data yang dikutip CNBC I\""
+                                  },
+                                  {
+                                      "passage":  "Di sinilah PGN Gagas, anak usaha PGN yang merupakan bagian dari Subholding Gas Pertamina, berperan lewat Gasku, menyalurkan gas bumi terkompresi untuk transportasi melalui jaringan SPBG.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Di sinilah PGN Gagas, anak usaha PGN yang merupakan bagian dari Subholding Gas Pertamina, berperan lewat Gasku, menyalur\""
+                                  },
+                                  {
+                                      "passage":  "Rujukan internasional (Alternative Fuels Data Center, Departemen Energi AS) menyebut usia pakai umumnya 15–20 tahun, tergantung konstruksi dan sertifikasi pabrikan.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Rujukan internasional (Alternative Fuels Data Center, Departemen Energi AS) menyebut usia pakai umumnya 15–20 tahun, ter\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

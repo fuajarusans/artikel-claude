@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-08\\final\\perusahaan-lng-indonesia-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-11T14:41:39+07:00",
+    "word_count":  1632,
+    "paragraph_count":  22,
+    "sentence_count":  77,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.375,
+                        "sentence_burstiness":  0.951,
+                        "top30_vocab_share":  0.294,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.375 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Harga LNG umumnya dibentuk lewat indeksasi: formula *slope* terhadap acuan minyak seperti Brent atau *Japan Crude Cocktail* (JCC), atau mengikuti harga spot Asia *Japan Korea Marker* (JKM).",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Harga LNG umumnya dibentuk lewat indeksasi: formula *slope* terhadap acuan minyak seperti Brent atau *Japan Crude Cockta\""
+                                  },
+                                  {
+                                      "passage":  "Kemungkinan besar sasarannya LNG skala besar pengganti pasokan pipa demi menutup defisit lapangan gas Jawa Barat, bukan model LNG *beyond-pipeline* skala kecil.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Kemungkinan besar sasarannya LNG skala besar pengganti pasokan pipa demi menutup defisit lapangan gas Jawa Barat, bukan \""
+                                  },
+                                  {
+                                      "passage":  "HGBT berlaku bagi tujuh sektor (pupuk, petrokimia, oleokimia, baja, keramik, kaca, dan sarung tangan karet), total 253 pengguna terdaftar, berdasarkan Kepmen ESDM No.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"HGBT berlaku bagi tujuh sektor (pupuk, petrokimia, oleokimia, baja, keramik, kaca, dan sarung tangan karet), total 253 p\""
+                                  },
+                                  {
+                                      "passage":  "- **Mengejar harga termurah tanpa fleksibilitas volume.** Diskon kecil per MMBTU tak sepadan bila Anda terkunci membayar volume yang tak terpakai.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"- **Mengejar harga termurah tanpa fleksibilitas volume.** Diskon kecil per MMBTU tak sepadan bila Anda terkunci membayar\""
+                                  },
+                                  {
+                                      "passage":  "Kontrak pasokan LNG umumnya dituangkan dalam Perjanjian Jual Beli Gas (PJBG), padanan *Gas Sale and Purchase Agreement* (SPA).",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Kontrak pasokan LNG umumnya dituangkan dalam Perjanjian Jual Beli Gas (PJBG), padanan *Gas Sale and Purchase Agreement* \""
+                                  },
+                                  {
+                                      "passage":  "Dalam praktik industri LNG global, ambangnya sering dilaporkan berkisar 70–95% dari ACQ, dengan sejumlah kontrak Asia lama mendekati 100%.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Dalam praktik industri LNG global, ambangnya sering dilaporkan berkisar 70–95% dari ACQ, dengan sejumlah kontrak Asia la\""
+                                  },
+                                  {
+                                      "passage":  "HGBT (Harga Gas Bumi Tertentu) mematok US$7/MMBTU untuk bahan bakar dan US$6,5 untuk bahan baku bagi tujuh sektor industri, mencakup 253 pengguna terdaftar.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"HGBT (Harga Gas Bumi Tertentu) mematok US$7/MMBTU untuk bahan bakar dan US$6,5 untuk bahan baku bagi tujuh sektor indust\""
+                                  },
+                                  {
+                                      "passage":  "Jadi perlakukan US$13/MMBTU sebagai konteks pasar bertanggal, bukan \"harga LNG nasional\" apalagi harga satu penyedia tertentu.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Jadi perlakukan US$13/MMBTU sebagai konteks pasar bertanggal, bukan  harga LNG nasional  apalagi harga satu penyedia ter\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

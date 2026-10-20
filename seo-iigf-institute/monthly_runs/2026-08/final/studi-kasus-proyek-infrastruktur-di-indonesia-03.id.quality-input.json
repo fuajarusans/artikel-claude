@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-iigf-institute\\monthly_runs\\2026-08\\final\\studi-kasus-proyek-infrastruktur-di-indonesia-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-12T15:34:27+07:00",
+    "word_count":  1591,
+    "paragraph_count":  20,
+    "sentence_count":  86,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.516,
+                        "sentence_burstiness":  0.821,
+                        "top30_vocab_share":  0.31,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "**Preseden Badan Penyiapan belum matang.** Menurut penjelasan asosiasi praktisi KPBU bertanggal Juni 2023, mekanisme pendampingan itu sendiri belum berpreseden matang di Indonesia, sehingga rujukan praktik baiknya terbatas.",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"**Preseden Badan Penyiapan belum matang.** Menurut penjelasan asosiasi praktisi KPBU bertanggal Juni 2023, mekanisme pen\""
+                                  },
+                                  {
+                                      "passage":  "Portal KPBU Kementerian Keuangan mencantumkan kategori penghentian fasilitas karena tidak terdapat persetujuan DPRD (diakses 2026).",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Portal KPBU Kementerian Keuangan mencantumkan kategori penghentian fasilitas karena tidak terdapat persetujuan DPRD (dia\""
+                                  },
+                                  {
+                                      "passage":  "Kementerian Keuangan menegaskan [Dukungan Kelayakan](https://kpbu.kemenkeu.go.id/read/1098-1261/pjpk/dukungan-pemerintah/dukungan-kelayakan) (*viability gap fund*) hanya diberikan pada proyek yang telah memenuhi kelayakan ekonomi namun belum memenuhi kelayakan finansial.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Kementerian Keuangan menegaskan [Dukungan Kelayakan](https://kpbu.kemenkeu.go.id/read/1098-1261/pjpk/dukungan-pemerintah\""
+                                  },
+                                  {
+                                      "passage":  "Pola nomor 2 dan nomor 4 sebenarnya satu keluarga: keduanya soal kapasitas menyiapkan, bukan soal skema KPBU-nya.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Pola nomor 2 dan nomor 4 sebenarnya satu keluarga: keduanya soal kapasitas menyiapkan, bukan soal skema KPBU-nya.\""
+                                  },
+                                  {
+                                      "passage":  "KPBU dijalankan dalam tiga tahap resmi: perencanaan, penyiapan, dan transaksi, dengan Peraturan Presiden Nomor 38 Tahun 2015 sebagai dasar hukum pokok yang masih dirujuk pada 2026.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"KPBU dijalankan dalam tiga tahap resmi: perencanaan, penyiapan, dan transaksi, dengan Peraturan Presiden Nomor 38 Tahun \""
+                                  },
+                                  {
+                                      "passage":  "Peraturan Menteri PPN/Kepala Bappenas Nomor 7 Tahun 2023 menyederhanakan prastudi kelayakan menjadi lima kajian: strategis, ekonomi, komersial, finansial, dan manajemen.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Peraturan Menteri PPN/Kepala Bappenas Nomor 7 Tahun 2023 menyederhanakan prastudi kelayakan menjadi lima kajian: strateg\""
+                                  },
+                                  {
+                                      "passage":  "Kelayakan ekonomi mengukur manfaat neto proyek bagi masyarakat luas melalui EIRR dan ENPV.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Kelayakan ekonomi mengukur manfaat neto proyek bagi masyarakat luas melalui EIRR dan ENPV.\""
+                                  },
+                                  {
+                                      "passage":  "Membedakan keduanya, lalu membaca kualitas alokasi risiko, adalah kompetensi yang diuji dalam jalur [sertifikasi KPBU](https://institute.iigf.co.id/) seperti CP3P (*Certified Public-Private Partnership Professional*), kredensial yang dimiliki dan dianugerahkan APMG International.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Membedakan keduanya, lalu membaca kualitas alokasi risiko, adalah kompetensi yang diuji dalam jalur [sertifikasi KPBU](h\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

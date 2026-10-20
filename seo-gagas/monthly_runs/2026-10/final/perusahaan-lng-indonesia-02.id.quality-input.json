@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-10\\final\\perusahaan-lng-indonesia-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-28T20:01:02+07:00",
+    "word_count":  1539,
+    "paragraph_count":  24,
+    "sentence_count":  80,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.472,
+                        "sentence_burstiness":  0.539,
+                        "top30_vocab_share":  0.322,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Kilang mini LNG pertama di Pulau Jawa ada di Pasuruan Industrial Estate Rembang (PIER), Jawa Timur, dioperasikan PT Liquid Nusantara Gas, dan resmi beroperasi 11 Februari 2026.",
+                                      "candidate_score":  32,
+                                      "web_search_query":  "\"Kilang mini LNG pertama di Pulau Jawa ada di Pasuruan Industrial Estate Rembang (PIER), Jawa Timur, dioperasikan PT Liqu\""
+                                  },
+                                  {
+                                      "passage":  "Terminal mini LNG Sambera di Kutai Kartanegara memasok Pembangkit Listrik Tenaga Gas (PLTG) 2×20 MW dengan LNG yang diangkut truk sekitar 80 km dari Kilang Bontang.",
+                                      "candidate_score":  31,
+                                      "web_search_query":  "\"Terminal mini LNG Sambera di Kutai Kartanegara memasok Pembangkit Listrik Tenaga Gas (PLTG) 2×20 MW dengan LNG yang dian\""
+                                  },
+                                  {
+                                      "passage":  "Namun IEEFA (2021) mencatat biaya rantai pasok small-scale LNG bisa mencapai 30–50% dari harga gas, jauh di atas rantai konvensional (10–20%).",
+                                      "candidate_score":  29,
+                                      "web_search_query":  "\"Namun IEEFA (2021) mencatat biaya rantai pasok small-scale LNG bisa mencapai 30–50% dari harga gas, jauh di atas rantai \""
+                                  },
+                                  {
+                                      "passage":  "Sebagai gambaran, kilang mini Pasuruan hanya sekitar 7.000 ton per tahun, sedangkan Tangguh 11,4 MTPA.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Sebagai gambaran, kilang mini Pasuruan hanya sekitar 7.000 ton per tahun, sedangkan Tangguh 11,4 MTPA.\""
+                                  },
+                                  {
+                                      "passage":  "Kapasitasnya saat ini sekitar 20 ton LNG per hari, hampir 7.000 ton per tahun, dengan investasi sekitar Rp247 miliar dan Tingkat Komponen Dalam Negeri (TKDN) 86%.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Kapasitasnya saat ini sekitar 20 ton LNG per hari, hampir 7.000 ton per tahun, dengan investasi sekitar Rp247 miliar dan\""
+                                  },
+                                  {
+                                      "passage":  "# Mini-LNG dan Small-Scale LNG: Model Perusahaan LNG di Indonesia untuk Kepulauan Sebuah pabrik menengah di kawasan industri kecil tidak butuh kargo sebesar kapal tanker sepanjang lapangan bola.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"# Mini-LNG dan Small-Scale LNG: Model Perusahaan LNG di Indonesia untuk Kepulauan Sebuah pabrik menengah di kawasan indu\""
+                                  },
+                                  {
+                                      "passage":  "Fasilitas Pasuruan memakai unit cryobox modular dari Galileo Technologies (Argentina) berprinsip siklus propana tertutup.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Fasilitas Pasuruan memakai unit cryobox modular dari Galileo Technologies (Argentina) berprinsip siklus propana tertutup\""
+                                  },
+                                  {
+                                      "passage":  "Kilang besar seperti Bontang (22,5 MTPA) atau Tangguh (11,4 MTPA) memakai train likuifaksi raksasa dan kapal tanker.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Kilang besar seperti Bontang (22,5 MTPA) atau Tangguh (11,4 MTPA) memakai train likuifaksi raksasa dan kapal tanker.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

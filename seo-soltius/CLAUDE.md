@@ -18,7 +18,7 @@ This file is auto-loaded into every Claude Code session in this directory. Read 
 | Monthly volume | **Variable per month** — keyword set defined in `monthly_runs/<YYYY-MM>/keywords.md` (fully replaces prior months; no defaults). Bahasa Indonesia only. Example: 2026-06 ran 6 keywords × 5 = 30. |
 | Language | **Bahasa Indonesia only** (no English version). One keyword — SAP Clean Core — has an English landing-page URL, but its article is still written in Indonesian. |
 | Output formats | `.md` (canonical) + `.docx` (review-ready, via pandoc) |
-| Images | **No AI generation.** Writers mark `{IMAGE_NN: concept}` placeholders; the image-planner produces an alt-text/caption/visual-direction brief for the client's design team to execute. |
+| Images | **None.** The monthly pipeline uses no images and no image placeholders — the writer marks no `{IMAGE_NN}`, there is no image-planner stage, and no `images.json` is produced. (Decision 2026-07-07.) |
 | Approval model | **Autonomous with review.** Curator commits to history only when editor `recommendation: approve` AND validator `verdict: pass`. Everything else stays in `final/` for manual handling. User reviews `monthly_runs/<YYYY-MM>/final/` at their pace. |
 | Audience | B2B enterprise decision-makers (CIO/IT, CFO/finance, ops/supply-chain, transformation leads); desktop-heavy, work-hours. |
 | Working directory | `C:\Users\Fajar Santoso\Documents\artikel-claude\seo-soltius` |
@@ -53,14 +53,13 @@ For a recurring keyword, cousin pairings may reuse `knowledge_base/product_matri
 | 1 | `seo-keyword-strategist` | **opus** | Senior SEO Strategist | Start of each month — 5 deduped concepts per keyword. Caches per-keyword research at `research/<slug>.research.json`. Uses WebSearch/WebFetch + the April report (Ahrefs MCP optional — see §11). |
 | 2 | `enterprise-it-sme-researcher` | **sonnet** | Domain Researcher | After strategist — fact-rich dossier per concept (SAP/Gartner/IDC/Kemenkominfo/journals) |
 | 3 | `seo-article-writer-id` | **opus** | Bahasa Indonesia Copywriter | After researcher — full 1,500–1,800-word ID draft |
-| 4 | `enterprise-it-image-planner` | **sonnet** | Visual Brief Producer | After writer — turns `{IMAGE_NN}` placeholders into an alt-text/caption/visual-direction brief (`images.json`). **No image generation.** |
-| 5 | `seo-editor` | **opus** | Editorial QC | After writer + image-planner — anti-AI scan, fact-check, on-page SEO checklist, polish; binding `recommendation` |
-| 6 | `seo-quality-validator` | **sonnet** | Plagiarism + AI Detector | After editor — runs `tools/quality-check.ps1`; `verdict: pass/revise/reject`; loops back to writer on `revise` (max 2) |
-| 7 | `article-history-curator` | **haiku** | Knowledge-base Librarian | Auto after validator — commits articles where editor `approve` AND validator `pass`; builds `.docx`. Skips the rest. |
+| 4 | `seo-editor` | **opus** | Editorial QC | After writer — anti-AI scan, fact-check, on-page SEO checklist, polish; binding `recommendation` |
+| 5 | `seo-quality-validator` | **sonnet** | Plagiarism + AI Detector | After editor — runs `tools/quality-check.ps1`; `verdict: pass/revise/reject`; loops back to writer on `revise` (max 2) |
+| 6 | `article-history-curator` | **haiku** | Knowledge-base Librarian | Auto after validator — commits articles where editor `approve` AND validator `pass`; builds `.docx`. Skips the rest. |
 
 Each agent's full system prompt is in `.claude/agents/<agent-name>.md`.
 
-> Note: agents #2 and #4 are renamed from the template's `aquaculture-*` to `enterprise-it-*`. The English writer (`seo-article-writer-en`) and the FLUX image-generator are **removed** for this client (ID-only; placeholder-only images).
+> Note: agent #2 (researcher) is renamed from the template's `aquaculture-*` to `enterprise-it-*`. The English writer (`seo-article-writer-en`), the FLUX image-generator, and the image-planner (`enterprise-it-image-planner`) are **removed** for this client (ID-only; no images). Image-planner retired 2026-07-07.
 
 ---
 
@@ -82,12 +81,6 @@ Each agent's full system prompt is in `.claude/agents/<agent-name>.md`.
                                   │
                 ┌─────────────────▼─────────────────┐
                 │  seo-article-writer-id (×30)      │  → 30 ID drafts
-                └─────────────────┬─────────────────┘
-                                  │
-                ┌─────────────────▼─────────────────┐
-                │  enterprise-it-image-planner(×30) │  → 30 image briefs (images.json)
-                │  (alt-text + caption + direction; │     NO PNGs generated
-                │   placeholders stay as captions)  │
                 └─────────────────┬─────────────────┘
                                   ▼
                 ┌───────────────────────────────────┐
@@ -130,12 +123,11 @@ seo-soltius\
 │   ├── briefs/<keyword-slug>-NN.brief.md
 │   ├── dossiers/<keyword-slug>-NN.dossier.md
 │   ├── drafts/<keyword-slug>-NN.id.md          ← writer output (pre-edit)
-│   └── final/                                  ← editor output + image brief + docx
+│   └── final/                                  ← editor output + docx
 │       ├── <brief-id>.id.md                    ← editor-polished markdown
-│       ├── <brief-id>.id.docx                  ← curator output (caption fallback for images)
+│       ├── <brief-id>.id.docx                  ← curator output (text-only)
 │       ├── <brief-id>.qc.md                    ← editor QC report (recommendation)
-│       ├── <brief-id>.quality.md               ← validator report (verdict)
-│       └── <brief-id>.images.json              ← image brief (alt-text/caption/direction)
+│       └── <brief-id>.quality.md               ← validator report (verdict)
 └── tools/                                      ← md-to-docx, quality-check, pandoc/
 ```
 
@@ -145,7 +137,6 @@ seo-soltius\
 - **Keyword slugs**: `low-code-platform`, `digital-manufacturing`, `data-warehouse-solutions`, `business-intelligence`, `erp-migration-to-the-cloud`, `sap-clean-core`
 - **Brief ID** = `<keyword-slug>-NN` (NN = `01`..`05`)
 - **Article slug** (for publication URL): kebab-case Indonesian title, no stop words, ≤60 chars
-- **Image placeholders**: `{IMAGE_NN: concept}` in the body; the planner keys its `images.json` entries to NN. No PNG files are produced.
 
 ---
 
@@ -156,7 +147,7 @@ Use the **Agent tool** with `subagent_type` = agent file name (no `.md`). Pass a
 **Example — strategist for one keyword:**
 > Agent({ subagent_type: "seo-keyword-strategist", prompt: "Generate 5 article concepts for keyword 'ERP migration to the cloud' (slug erp-migration-to-the-cloud, landing page https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud) for month 2026-06. Read history at articles_history/. Write briefs to monthly_runs/2026-06/briefs/erp-migration-to-the-cloud-01.brief.md … -05.brief.md." })
 
-**Parallelization rule:** the 6 strategist runs are independent — fire concurrently. Per-article researcher/writer/image-planner/editor/validator runs are independent — also concurrent. Respect dependencies: researcher waits for its brief, writer for its dossier, image-planner + editor for the draft, validator for the editor's final, curator for all validators.
+**Parallelization rule:** the 6 strategist runs are independent — fire concurrently. Per-article researcher/writer/editor/validator runs are independent — also concurrent. Respect dependencies: researcher waits for its brief, writer for its dossier, editor for the draft, validator for the editor's final, curator for all validators.
 
 ---
 
@@ -166,11 +157,10 @@ Use the **Agent tool** with `subagent_type` = agent file name (no `.md`). Pass a
 1. `seo-keyword-strategist` for ONE keyword; commit just 1 of the 5 briefs.
 2. `enterprise-it-sme-researcher` on that brief.
 3. `seo-article-writer-id` on the dossier.
-4. `enterprise-it-image-planner` on the draft.
-5. `seo-editor` on the draft + image brief.
-6. `seo-quality-validator` on the editor's final.
-7. Stop. Show the user the final `.md` + `.docx`. Iterate on agent prompts / knowledge base from feedback.
-8. Only after pilot approval → curator commits, then scale to the full month.
+4. `seo-editor` on the draft.
+5. `seo-quality-validator` on the editor's final.
+6. Stop. Show the user the final `.md` + `.docx`. Iterate on agent prompts / knowledge base from feedback.
+7. Only after pilot approval → curator commits, then scale to the full month.
 
 ### Full month
 ```
@@ -178,7 +168,6 @@ User: /run-month 2026-06
 → 6 parallel strategist runs → 30 briefs
 → 30 parallel researchers → 30 dossiers
 → 30 parallel writers → 30 drafts
-→ 30 image-planners → 30 image briefs
 → 30 editors → 30 finals + QC reports (approve|revise|reject)
 → 30 quality-validators → verdicts (pass|revise|reject); loop-back to writer on revise (max 2)
 → curator commits (approve + pass) → history + .docx
@@ -191,7 +180,7 @@ User: /run-month 2026-06
 
 - **Language**: Bahasa Indonesia only. No English version. (User instruction, 2026-06-02.)
 - **Scale**: variable per month — keyword set defined in `monthly_runs/<YYYY-MM>/keywords.md`, which fully replaces prior months (no defaults). (User instruction, 2026-06-08.) 2026-06 example: 6 × 5 = 30.
-- **Images**: no AI generation. Writer marks `{IMAGE_NN: concept}`; `enterprise-it-image-planner` produces a design brief (`images.json`) with alt-text + caption + visual direction + suggested asset type. The `.docx` shows an italic caption fallback where no image file exists. (User instruction, 2026-06-02.)
+- **Images**: none. The monthly pipeline produces no images, no `{IMAGE_NN}` placeholders, and no image brief (`images.json`); the `enterprise-it-image-planner` stage is removed. (User instruction, 2026-07-07 — supersedes the 2026-06-02 placeholder-brief approach.)
 - **Pilot first**: run 1 article end-to-end, user reviews style/quality, then scale. (User instruction.)
 - **Pilot keyword**: strategist analyzes SERP + history and recommends. (User instruction.)
 - **Approval**: autonomous with review — curator commits only `approve` + `pass`; rest stays in `final/`.
@@ -200,7 +189,7 @@ User: /run-month 2026-06
 - **Soft website CTA**: every article ends with a soft CTA inviting a visit to soltius.co.id, placed AFTER the conclusion (distinct from the conclusion paragraph). (User instruction, 2026-06-02.)
 - **Soltius framing**: implementation/consulting partner — implements/migrates/supports SAP, never "builds" it. Max 2–3 self-mentions/article.
 - **Quality gate**: plagiarism + AI-detector pass mandatory before commit; `revise` loops to writer up to 2×.
-- **Model tiering**: opus (strategist, writer, editor); sonnet (researcher, image-planner, validator); haiku (curator).
+- **Model tiering**: opus (strategist, writer, editor); sonnet (researcher, validator); haiku (curator).
 
 ---
 
@@ -210,7 +199,7 @@ User: /run-month 2026-06
 |---|---|
 | `knowledge_base/company_profile.md` | Soltius facts, credentials, services, positioning lines |
 | `knowledge_base/product_matrix.md` | Keyword → SAP/partner tech to teach + Soltius service/credibility anchor; cross-link map; blacklist |
-| `knowledge_base/style_guide.md` | Article anatomy, B2B-IT tone, anti-AI patterns, image-placeholder rules |
+| `knowledge_base/style_guide.md` | Article anatomy, B2B-IT tone, anti-AI patterns |
 | `knowledge_base/seo_playbook.md` | 2026 algorithm + AI-Overview/AI-engine citation rules; on-page checklist; **§2a GEO (Generative Engine Optimization) field guide** |
 | `_extracted/seo_report_apr2026.md` | April 2026 keyword rankings, top queries, AI-search data (strategist's primary data source) |
 | `_extracted/Panduan_Artikel_SEO_GEO.md` | Client's SEO+GEO panduan (2026) — source distilled into `seo_playbook.md` §2a |
@@ -235,9 +224,9 @@ User: /run-month 2026-06
 |---|---|---|
 | **Ahrefs MCP + GSC** | ⚠️ **Not connected** to this session | Strategist degrades gracefully: uses WebSearch/WebFetch (live SERP + PAA) + `_extracted/seo_report_apr2026.md` for ranking/GSC-style data. If the user connects the Ahrefs MCP later, the strategist will use `keywords-explorer-*`, `serp-overview`, `site-explorer-*`, `gsc-*` automatically. |
 | Live SERP | ✅ via WebFetch/WebSearch | Strategist scrapes top results + People Also Ask (Google ID). |
-| Image generation | ❌ Disabled by decision | Placeholder + caption only. `.env` still holds BFL/OpenAI keys if the user ever re-enables it. |
+| Image generation / image briefs | ❌ Removed from the pipeline (2026-07-07) | No images, no `{IMAGE_NN}` placeholders, no image-planner, no `images.json`. `.env` still holds BFL/OpenAI keys if ever re-enabled. |
 | Plagiarism + AI detection | ✅ Heuristic via `tools/quality-check.ps1` | Validator runs it per article. Plug-in slots for paid APIs via env vars `PLAGIARISM_API_KEY` / `AI_DETECTOR_API_KEY`. |
-| md → .docx | ✅ `tools/md-to-docx.ps1` (pandoc 3.9 portable in `tools/pandoc/`) | Reference template `tools/reference.docx` (Soltius sample for styling parity). Embeds images if present; else italic caption fallback. |
+| md → .docx | ✅ `tools/md-to-docx.ps1` (pandoc 3.9 portable in `tools/pandoc/`) | Reference template `tools/reference.docx` (Soltius sample for styling parity). Text-only now that images are removed. |
 | CMS upload | Out of scope | Manual paste. |
 
 ---

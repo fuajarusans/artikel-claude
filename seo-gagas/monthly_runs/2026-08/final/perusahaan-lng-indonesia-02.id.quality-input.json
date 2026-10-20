@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-08\\final\\perusahaan-lng-indonesia-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-11T14:41:35+07:00",
+    "word_count":  1585,
+    "paragraph_count":  24,
+    "sentence_count":  81,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.424,
+                        "sentence_burstiness":  0.788,
+                        "top30_vocab_share":  0.295,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.424 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Sebagai gambaran arah, paparan Focus Group Discussion ReforMiner Institute (Mei 2026) mengilustrasikan biaya gas bumi sekitar Rp38,5/MJ dibanding LPG nonsubsidi hingga sekitar Rp285/MJ.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Sebagai gambaran arah, paparan Focus Group Discussion ReforMiner Institute (Mei 2026) mengilustrasikan biaya gas bumi se\""
+                                  },
+                                  {
+                                      "passage":  "Menurut data EIA (2024), pembakaran gas alam menghasilkan CO2 sekitar 16% lebih rendah per unit energi dibanding propana, yaitu 116,65 vs 138,63 pon CO2 per juta Btu.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"Menurut data EIA (2024), pembakaran gas alam menghasilkan CO2 sekitar 16% lebih rendah per unit energi dibanding propana\""
+                                  },
+                                  {
+                                      "passage":  "LNG (*Liquefied Natural Gas*) adalah gas bumi berbasis metana (sekitar 90% CH4) yang dicairkan lewat pendinginan hingga sekitar −162°C sehingga volumenya menyusut hingga 1/600.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"LNG (*Liquefied Natural Gas*) adalah gas bumi berbasis metana (sekitar 90% CH4) yang dicairkan lewat pendinginan hingga \""
+                                  },
+                                  {
+                                      "passage":  "Menurut SIM EBTKE Kementerian ESDM, sektor makanan-minuman menyimpan potensi konservasi energi sekitar 13–15%.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Menurut SIM EBTKE Kementerian ESDM, sektor makanan-minuman menyimpan potensi konservasi energi sekitar 13–15%.\""
+                                  },
+                                  {
+                                      "passage":  "- **Ruang sangat terbatas:** LPG lebih padat energi per liter (sekitar 25 MJ/L dibanding LNG ~21 MJ/L, angka teknik ilustratif), praktis di footprint kecil.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"- **Ruang sangat terbatas:** LPG lebih padat energi per liter (sekitar 25 MJ/L dibanding LNG ~21 MJ/L, angka teknik ilus\""
+                                  },
+                                  {
+                                      "passage":  "Harga Gas Bumi Tertentu (HGBT) USD 6,5–7/MMBTU saat ini hanya untuk tujuh sektor resmi (pupuk, petrokimia, oleokimia, baja, keramik, kaca, dan sarung tangan karet) dan tidak mencakup makanan-minuman.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Harga Gas Bumi Tertentu (HGBT) USD 6,5–7/MMBTU saat ini hanya untuk tujuh sektor resmi (pupuk, petrokimia, oleokimia, ba\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apa perbedaan LNG dan LPG untuk industri makanan?",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apa perbedaan LNG dan LPG untuk industri makanan?\""
+                                  },
+                                  {
+                                      "passage":  "**Sesuaikan efisiensi alat.** Kalikan dengan efisiensi boiler atau oven; satu studi lab mencatat LNG ~50,86% dan LPG ~50,11%, angka yang tak bisa digeneralisasi.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"**Sesuaikan efisiensi alat.** Kalikan dengan efisiensi boiler atau oven; satu studi lab mencatat LNG ~50,86% dan LPG ~50\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

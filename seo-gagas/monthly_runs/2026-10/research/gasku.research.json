@@ -1,0 +1,71 @@
+{
+  "keyword": "Gasku",
+  "keyword_slug": "gasku",
+  "month": "2026-10",
+  "captured_at": "2026-09-28",
+  "landing_page": "https://gagas.co.id/gasku/",
+  "landing_page_summary": "Gasku = layanan BBG/CNG PGN Gagas untuk transportasi; konversi via converter kit di bengkel bersertifikat (bi-fuel bensin+gas). Klaim di halaman: harga Rp 4.500/LSP; oktan >120; emisi 25-35% lebih rendah; gas dikompresi ~200 bar; pasokan 100% domestik; tabung 'seamless cylinder' (baja, ditempa utuh, bukan dilas); relief valve otomatis + ECU auto fuel-switching; cocok untuk kendaraan bensin roda-4, butuh ruang bagasi untuk tabung; SPBG a.l. area Jakarta & Ngagel (Surabaya).",
+  "data_sources_used": ["live_serp_websearch", "webfetch_landing_page"],
+  "ahrefs_available": false,
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Minat konversi BBG naik saat harga BBM tinggi; harga Gasku Rp 4.500/LSP jadi pemicu diskusi (forum SerayaMotor). Topik tabung CNG type & DDF armada niaga aktif di media energi + jurnal teknik.",
+    "report_rank": "n/a (seo_report: none untuk 2026-10)"
+  },
+  "serp": {
+    "top_10": [
+      { "url": "https://mechanicalengboy.wordpress.com/2013/02/06/tipe-tipe-tabung-cng-yang-beredar-di-pasaran/", "title": "Tipe-Tipe Tabung CNG yang Beredar di Pasaran", "angle_summary": "Daftar tipe tabung Type 1-4 bergaya teknis/blog (2013, lawas); tanpa lensa keputusan pembeli/bobot-payload/biaya kini." },
+      { "url": "https://ejurnal.undana.ac.id/index.php/LJTMU/article/download/943/794/", "title": "Metode Pemilihan Material Tabung CNG", "angle_summary": "Paper akademik metode pemilihan material tabung; teknis, bukan panduan praktis untuk pemilik/armada." },
+      { "url": "https://jurnal.umj.ac.id/index.php/semnastek/article/view/328/", "title": "Analisa Desain Tabung BBG CNG pada Mobil Bus 200 bar", "angle_summary": "Paper desain tabung CNG bus 200 bar; fokus rekayasa struktur, bukan trade-off bobot/biaya untuk keputusan operator." },
+      { "url": "https://sentralgas.com/tabung-gas-cng/", "title": "Jual Tabung CNG Kendaraan (SGE)", "angle_summary": "Halaman jualan vendor tabung; katalog produk, bukan edukasi tipe/pemilihan." },
+      { "url": "https://migas.esdm.go.id/post/dukung-pemanfaatan-gas-untuk-transportasi-dirjen-migas-resmikan-implementasi-teknologi-ddf-pada-mobil-tangki-pertamina", "title": "Dirjen Migas Resmikan Implementasi DDF pada Mobil Tangki Pertamina", "angle_summary": "Rilis pemerintah soal pilot DDF truk tangki Pertamina (Des 2022); berita program, bukan panduan keputusan armada." },
+      { "url": "https://seputarenergi.com/2023/01/12/pertamina-implementasikan-inovasi-energi-bersih-diesel-dual-fuel-pada-mobil-tangki-bbm/", "title": "Pertamina Implementasikan DDF pada Mobil Tangki BBM", "angle_summary": "Berita implementasi DDF; menyebut proses assessment-tabung-kit-trial-MRU; tidak membingkai kelayakan per profil armada." },
+      { "url": "https://www.hukumonline.com/klinik/a/standar-angkutan-umum-yang-layak-dan-aman-lt5874843eb71ec/", "title": "Standar Angkutan Umum yang Layak dan Aman", "angle_summary": "Ulasan hukum kewajiban keselamatan angkutan umum (generik, tidak spesifik BBG/CNG)." },
+      { "url": "http://dephub.go.id/post/read/perusahaan-angkutan-umum-wajib-terapkan-sistem-manajemen-keselamatan-59572", "title": "Perusahaan Angkutan Umum Wajib Terapkan Sistem Manajemen Keselamatan", "angle_summary": "Kemenhub: kewajiban SMK (regulasi, pengemudi, kendaraan, perbengkelan, manajemen); generik, tanpa lensa BBG." }
+    ],
+    "serp_features": ["paa", "ai_overview_likely"],
+    "ai_overview_entities": ["CNG", "tabung CNG Type 1-4", "Diesel Dual Fuel (DDF)", "converter kit", "Sistem Manajemen Keselamatan", "SPBG", "MRU"]
+  },
+  "paa": [
+    "Apa perbedaan tabung CNG type 1, 2, 3, dan 4?",
+    "Tabung CNG komposit atau baja, mana yang lebih ringan?",
+    "Berapa berat tabung CNG untuk mobil?",
+    "Apa itu Diesel Dual Fuel (DDF)?",
+    "Apakah truk diesel bisa dikonversi ke gas?",
+    "Berapa penghematan BBG untuk truk?",
+    "Apa saja kewajiban keselamatan perusahaan angkutan umum?",
+    "Apakah awak angkutan umum wajib diasuransikan?",
+    "Bagaimana cara mengisi BBG yang aman di SPBG?"
+  ],
+  "gsc_style_queries_from_report": [],
+  "facts_to_verify": {
+    "tabung_type": "Type 1 all-steel (terberat, termurah); Type 2 metal liner + hoop-wrap (~55 kg kosong); Type 3 full-wrap metal liner (klaim ~70% lebih ringan dari Type 1, ~50% lebih ringan dari Type 2); Type 4 full-composite plastic liner (~19 kg kosong). Semua angka berat/penghematan berasal dari hasil pencarian (blog/vendor/jurnal) - researcher WAJIB verifikasi ke ISO 11439 / SNI 7408 / sumber otoritatif; jangan sajikan angka spesifik tanpa sumber. Gasku memakai tabung 'seamless' baja (Type 1) per halaman gagas.co.id.",
+    "ddf_fleet": "DDF = kombinasi solar + CNG. Klaim: hemat biaya bahan bakar s/d ~30%; emisi karbon ~40% lebih rendah; target konversi 1.000 truk/bus dalam 5 tahun; 89 mobil tangki Pertamina (target 2024). Proses: assessment -> pengadaan tabung CNG -> converter kit -> setting/trial -> penempatan MRU -> kajian. Standar keselamatan lintas-K/L (ESDM, Kemnaker, Kemenhub, Kemenperin). VERIFIKASI: siapa persisnya (PGN vs Gagas vs Pertamina) di setiap klaim; angka target; jangan mencampur dengan DDF hidrogen-diesel (topik lain/spekulatif 2026).",
+    "safety_liability": "Angkutan umum wajib menerapkan Sistem Manajemen Keselamatan (SMK) - aspek regulasi, pengemudi, kendaraan, perbengkelan, manajemen (Kemenhub). Wajib mengasuransikan awak & penumpang; kartu jaminan ketenagakerjaan (BPJS) untuk awak. VERIFIKASI: dasar hukum SMK (PM Perhubungan - kemungkinan PM 85/2018 atau UU 22/2009 Pasal 141/189); kewajiban asuransi awak/penumpang (Jasa Raharja/PP terkait); PM 39/2012 utk BBG."
+  },
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      "apa-itu-gasku-cara-kerja-bbg-spbg (informational)",
+      "konversi-bbm-ke-bbg-penghematan-armada (decision)",
+      "kapan-armada-belum-cocok-bbg-jujur (decision)",
+      "perawatan-servis-berkala-uji-tabung-bbg (how-to)",
+      "peta-spbg-jangkauan-perencanaan-rute-bbg (informational)",
+      "bbg-gasku-vs-lgv-vs-kendaraan-listrik (comparison)",
+      "matriks-kompatibilitas-kendaraan-eligibilitas-konversi-gasku (informational)",
+      "data-performa-emisi-bbg-cng-vs-bensin (comparison)",
+      "tco-lima-tahun-kendaraan-bbg-gasku (decision)",
+      "garansi-pabrikan-asuransi-kendaraan-pasca-konversi-bbg (decision)",
+      "troubleshooting-gejala-pasca-konversi-bbg-gasku (troubleshooting)",
+      "panduan-memilih-converter-kit-bbg-jenis-standar-bengkel (comparison)"
+    ],
+    "uncovered_angles": [
+      "PICKED 01: tabung CNG Type 1-4 (baja vs komposit) - bobot/biaya/payload (parked by gasku-12)",
+      "PICKED 02: retrofit kendaraan niaga berat / DDF / paket kit besar (parked by gasku-12, gasku-11, gasku-09, gasku-08)",
+      "PICKED 03: keselamatan kerja (K3) & liability pengemudi profesional / asuransi awak-penumpang angkutan (parked by gasku-10)",
+      "DEFERRED: skema pembiayaan/leasing kit yang mengaitkan garansi (thin/spekulatif; risiko fabrikasi; sebagian irisan TCO gasku-09 & payback gasku-02)",
+      "DEFERRED: checklist inspeksi pra-perjalanan jauh kendaraan BBG (parked by gasku-11)",
+      "DEFERRED: uji perbandingan dinamometer merek-per-merek (butuh data primer)"
+    ]
+  }
+}

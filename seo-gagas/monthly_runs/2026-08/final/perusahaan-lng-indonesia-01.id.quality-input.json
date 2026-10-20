@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-08\\final\\perusahaan-lng-indonesia-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-11T14:42:45+07:00",
+    "word_count":  1546,
+    "paragraph_count":  25,
+    "sentence_count":  78,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.447,
+                        "sentence_burstiness":  0.725,
+                        "top30_vocab_share":  0.309,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.447 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Riset CREA dan Global Energy Monitor (2023) mencatat sekitar 67% kapasitas PLTU captive nasional memasok smelter nikel; laporan IESR (2026) menyebut porsinya naik ke sekitar 76%.",
+                                      "candidate_score":  34,
+                                      "web_search_query":  "\"Riset CREA dan Global Energy Monitor (2023) mencatat sekitar 67% kapasitas PLTU captive nasional memasok smelter nikel; \""
+                                  },
+                                  {
+                                      "passage":  "Menurut [USGS (*Mineral Commodity Summaries 2025*)](https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-nickel.pdf), pangsanya mencapai sekitar 62% produksi global pada 2024, naik tajam dari tahun sebelumnya, meski sumber lain melaporkan angka berbeda pada rentang 50–70%.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Menurut [USGS (*Mineral Commodity Summaries 2025*)](https://pubs.usgs.gov/periodicals/mcs2025/mcs2025-nickel.pdf), pangs\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai anak usaha PGN dalam Subholding Gas Pertamina, PGN Gagas menyalurkan gas bumi ke segmen di luar jangkauan pipa lewat solusi CNG seperti [Gaslink](https://gagas.co.id/gaslink/) dan pengembangan LNG Hub.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Sebagai anak usaha PGN dalam Subholding Gas Pertamina, PGN Gagas menyalurkan gas bumi ke segmen di luar jangkauan pipa l\""
+                                  },
+                                  {
+                                      "passage":  "**Harga batu bara lokal.** Di kawasan Sulawesi dan Maluku Utara, batu bara captive kerap sangat murah, sehingga selisih biayanya harus dihitung jujur per kasus.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"**Harga batu bara lokal.** Di kawasan Sulawesi dan Maluku Utara, batu bara captive kerap sangat murah, sehingga selisih \""
+                                  },
+                                  {
+                                      "passage":  "## Kapan LNG BELUM Tepat untuk Smelter Anda LNG belum tentu jawaban terbaik.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Kapan LNG BELUM Tepat untuk Smelter Anda LNG belum tentu jawaban terbaik.\""
+                                  },
+                                  {
+                                      "passage":  "IESR mencatat kapasitas PLTU captive nasional bertumbuh dari 5,5 GW (2019) menjadi 16,6 GW (2024).",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"IESR mencatat kapasitas PLTU captive nasional bertumbuh dari 5,5 GW (2019) menjadi 16,6 GW (2024).\""
+                                  },
+                                  {
+                                      "passage":  "Kebutuhan energi smelter pun besar dan berjalan nyaris tanpa henti, sehingga sumber apa pun harus andal 24 jam.",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"Kebutuhan energi smelter pun besar dan berjalan nyaris tanpa henti, sehingga sumber apa pun harus andal 24 jam.\""
+                                  },
+                                  {
+                                      "passage":  "Angkanya lawas, jadi baca sebagai prinsip umum berlabel tahun, bukan gambaran biaya 2026.",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"Angkanya lawas, jadi baca sebagai prinsip umum berlabel tahun, bukan gambaran biaya 2026.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

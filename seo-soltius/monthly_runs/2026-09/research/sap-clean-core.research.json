@@ -1,0 +1,151 @@
+{
+  "keyword": "SAP Clean Core",
+  "keyword_slug": "sap-clean-core",
+  "month": "2026-09",
+  "captured_at": "2026-09-17",
+  "updated_at": "2026-09-22 (top-up angle -04: ekonomi/biaya ekstensi BTP; ditambah fresh_angle_research.btp_cost_economics + WebFetch hub fresh)",
+  "landing_page": "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide",
+  "landing_page_summary": "Hub 'the complete guide' berbahasa Inggris yang menjelaskan prinsip clean core secara umum (jaga inti S/4HANA standar & upgrade-safe, pindahkan kustomisasi ke BTP). H2 hub (WebFetch 2026-09-22): Understanding Clean Core; 5 Dimensions; Data Dimension pillars; Business Benefits & ROI; Greenfield vs Brownfield; transition weapons; Soltius partner; FAQ. Hub TIDAK membahas biaya/pricing/lisensi BTP (CPEA/BTPEA) sama sekali — whitespace untuk angle -04. Artikel supporting ditulis dalam Bahasa Indonesia; anchor link menunjuk ke hub Inggris ini.",
+  "data_sources_used": ["live_serp_attempt", "websearch", "websearch_2026-09-22_btp_cost", "webfetch_landing_page_2026-09-22"],
+  "ahrefs_available": false,
+  "gsc_available": false,
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Topik naik terus sepanjang 2025-2026; clean core menjadi tema utama SAP (Sapphire 2026) karena prasyarat AI/Joule dan RISE with SAP. Sinyal dari WebSearch, bukan angka Ahrefs.",
+    "apr2026_rank": 100,
+    "priority": "whitespace"
+  },
+  "saturation_note": "SANGAT jenuh. 23 artikel prior untuk slug ini (per 2026-09-22): 9 committed (articles_history/by_keyword/sap-clean-core/) + 1 di 2026-07/final + 5 di 2026-07-2/final + 5 di 2026-08-2/final + 3 baru ditulis di 2026-09/final (keamanan, M&A, transisi developer ABAP). Angle -04 (biaya BTP) adalah artikel ke-24 dan wajib benar-benar baru (Jaccard <0.4 vs setiap prior) — terverifikasi distinct: tidak ada prior maupun hub yang menyentuh ekonomi konsumsi BTP.",
+  "serp": {
+    "note": "WebFetch langsung ke Google SERP ID mengembalikan halaman error (umum untuk Google via WebFetch). SERP landscape disusun dari WebSearch berbasis intent per angle.",
+    "top_domains_seen": [
+      "learning.sap.com / help.sap.com / news.sap.com / community.sap.com",
+      "onapsis.com (sudut keamanan clean core / BTP)",
+      "securitybridge.com, pathlock.com, layersevensecurity.com (SAP security patch day)",
+      "redwood.com, prolifics.com, scmchamps.com, leapgreat.com (clean core strategy/ROI)",
+      "natuvion.com, gambit-group.com, smartshift.com (M&A / carve-out / consolidation)",
+      "etzglobal.com, mobolutions.com, code4sap.wordpress.com, 2isolutionsus.com (ABAP Cloud / RAP developer)"
+    ],
+    "serp_features": ["ai_overview", "paa"],
+    "ai_overview_entities": ["clean core", "SAP S/4HANA", "SAP BTP", "ABAP Cloud", "side-by-side extensibility", "released API", "technical debt", "upgrade-safe", "RISE with SAP", "SAP Business AI / Joule"]
+  },
+  "paa": [
+    "Apa itu SAP clean core?",
+    "Mengapa clean core penting untuk keamanan dan upgrade?",
+    "Apakah clean core mengurangi risiko keamanan SAP?",
+    "Bagaimana custom code memengaruhi keamanan sistem SAP?",
+    "Apa itu ABAP Cloud dan RAP?",
+    "Apakah developer ABAP klasik masih dibutuhkan setelah clean core?",
+    "Bagaimana menjaga clean core saat merger atau akuisisi?",
+    "Apa itu SAP Central Finance dalam konteks konsolidasi?",
+    "Berapa sering SAP merilis security notes?",
+    "Apa bedanya on-stack developer extensibility dan side-by-side extensibility?"
+  ],
+  "fresh_angle_research": {
+    "security": {
+      "grounding": "Clean core memecah attack surface jadi dua front: kode ABAP kustom (satu baris rogue bisa memberi SAP_ALL) dan ekstensi BTP side-by-side yang memindahkan logika ke runtime web yang internet-facing (XSS, SSRF, broken object-level authorization). Clean core mempercepat penerapan SAP Security Notes karena core standar; core kotor menunda patch.",
+      "facts_to_verify": [
+        "SAP Security Patch Day = Selasa kedua tiap bulan; volume contoh Agustus 2026 = 28 security notes baru + 1 GitHub advisory (SecurityBridge/Onapsis/support.sap.com). Researcher konfirmasi angka bulanan terbaru sebelum dikutip.",
+        "Model shared responsibility keamanan di RISE with SAP (siapa bertanggung jawab atas apa)."
+      ],
+      "sources": [
+        "https://onapsis.com/articles/enterprise-sap-btp-security-clean-core/",
+        "https://onapsis.com/blog/sap-btp-extensibility-clean-core-devsecops/",
+        "https://securitybridge.com/blog/what-is-sap-security/",
+        "https://support.sap.com/en/my-support/knowledge-base/security-notes-news.html"
+      ]
+    },
+    "merger_acquisition": {
+      "grounding": "M&A menghasilkan core paling kotor (beberapa sistem SAP yang di-custom digabung). Clean core dalam M&A = harmonisasi proses + data + konsolidasi sistem. SAP Central Finance sebagai platform pelaporan/konsolidasi terpusat ('stepping consolidation'); SAP Landscape Transformation (SLT) & Selective Data Transition untuk carve-in/carve-out; extension classification pakai Clean Core Levels A-D untuk menandai item berisiko sebelum cutover.",
+      "facts_to_verify": [
+        "Positioning SAP Central Finance vs S/4HANA sebagai target; apakah Central Finance masih strategi yang direkomendasikan SAP di 2026 atau digeser ke pendekatan lain.",
+        "Definisi resmi Selective Data Transition (bluefield) dari SAP."
+      ],
+      "sources": [
+        "https://www.natuvion.com/sap-restructuring/",
+        "https://ignitesap.com/sap-consulting-in-mergers-and-acquisitions/",
+        "https://blogs.sap.com/2020/06/16/sap-central-finance-and-mergers-acquisitions-framework/"
+      ]
+    },
+    "developer_abap_cloud": {
+      "grounding": "ABAP Cloud = subset bahasa ABAP yang dibatasi/bersih + hanya boleh pakai released API/whitelisted objects, sehingga kustom tidak rusak saat upgrade. RAP (ABAP RESTful Application Programming Model) = framework cloud-native untuk membangun business object & Fiori app. Upskilling: pindah dari SE80 ke ADT (Eclipse), pakai abapGit/gCTS untuk version control; pelajari OO ABAP, CDS, OData/REST, BDL, EML. Di Private Cloud/on-prem tersedia on-stack developer extensibility + Tier-2 wrapper/nominated API bila artefak (mis. BAPI) belum di-release.",
+      "facts_to_verify": [
+        "Detail tepat 3-tier extensibility model (Tier 1/2/3) SAP dan apakah developer extensibility on-stack hanya tersedia di Private Cloud/on-prem (bukan Public).",
+        "Nama resmi komponen RAP (BDL/EML/CDS) dari SAP Learning."
+      ],
+      "sources": [
+        "https://community.sap.com/t5/technology-blog-posts-by-sap/an-end-to-end-hands-on-tutorial-for-clean-core-rap-development/ba-p/14276157",
+        "https://www.etzglobal.com/news/abap-rap-vs-classic-abap-extensibility-testing-and-clean-core-evolution/",
+        "https://github.com/SAP-samples/abap-platform-nominated-apis-consumption"
+      ]
+    },
+    "btp_cost_economics": {
+      "used_for": "sap-clean-core-04 (angle: biaya-btp-side-by-side-clean-core; angle_hash c75d69f5a31e475ce074658cf29d37865bdbea2e)",
+      "grounding": "Clean core memindahkan kustomisasi ke SAP BTP, tapi BTP ditagih berbasis konsumsi (consumption-based) — biaya kustomisasi bergeser dari capex satu kali (build ABAP di core) menjadi opex berulang (konsumsi BTP). Dua model komersial: CPEA (Cloud Platform Enterprise Agreement) = prepaid credit pool, credit hangus akhir tahun kecuali carryover dinegosiasi; BTPEA (BTP Enterprise Agreement) = model konsumsi lebih baru dengan banding/tiering (harga unit turun saat volume naik) untuk konsumsi yang lebih dapat diprediksi. Cost driver: tiap application instance yang jalan konsumsi credit minimum; side-by-side app konsumsi lebih besar; Integration Suite berbasis volume pesan; SAP Build (low-code) juga jalan di atas BTP dan ikut memakan credit; arsitektur integrasi buruk bisa menggandakan konsumsi. Kontrol FinOps: minta credit rate card sebelum tanda tangan, model konsumsi dengan volume sendiri, SAP BTP Cost Estimator + Cost and Usage Management (BTP Cockpit), subaccount per proyek/departemen + tagging (chargeback/showback), platform owner ber-budget authority + review konsumsi bulanan, pisahkan layanan produksi bervolume tinggi (locked rate) dari eksperimen (CPEA). Counter-conventional: ekstensi 'clean core' ditagih dengan aturan CPEA yang sama seperti side-by-side lain — bersih bukan berarti bebas biaya.",
+      "facts_to_verify": [
+        "Model komersial SAP BTP terkini 2026: apakah BTPEA menggantikan/berdampingan dengan CPEA; mekanisme banding/tiering; aturan credit expiry/carryover.",
+        "Klaim 'tiap application instance = minimal 1 unit CPEA' dan bahwa ekstensi clean-core-safe ditagih dengan aturan konsumsi sama seperti side-by-side lain.",
+        "Angka pihak ketiga (HANYA pakai bila terkonfirmasi + beratribusi + berlabel estimasi, jangan sebagai fakta pasti): ~25% credit BTP tak terpakai (~$600jt, 2025); estimasi awal SAP kerap terlalu rendah ~45%; FinOps governance hemat 20-40%; arsitektur integrasi buruk gandakan konsumsi 3-5x; rentang belanja mid-market EUR100K-500K/thn & enterprise EUR500K-2jt+/thn; pelatihan developer EUR2.000-5.000/orang.",
+        "SAP Build ikut mengonsumsi credit BTP; keberadaan SAP BTP Cost Estimator & Cost and Usage Management sebagai alat FinOps resmi."
+      ],
+      "sources": [
+        "https://help.sap.com/docs/btp/sap-business-technology-platform/what-is-consumption-based-commercial-model",
+        "https://learning.sap.com/courses/operating-sap-business-technology-platform/using-cost-and-usage-management",
+        "https://www.sap.com/products/technology-platform/pricing.html",
+        "https://community.sap.com/t5/technology-blog-posts-by-sap/bookmark-how-to-estimate-your-costs-using-cost-estimator-to-track-your/ba-p/14287858",
+        "https://itaa.com/insights/understanding-the-cost-impact-of-saps-clean-core-strategy/",
+        "https://saplicensingexperts.com/blog/sap-btp-extension-scenarios-the-complete-enterprise-guide-for-2026",
+        "https://finoptory.ai/en/resources/cpea-btpea-credits-fully-understood"
+      ],
+      "note_on_sources": "help.sap.com/learning.sap.com/sap.com = sumber primer (utamakan). itaa.com, saplicensingexperts.com, finoptory.ai, redresscompliance.com = advisory pihak ketiga (untuk sinyal/estimasi saja, wajib atribusi + label estimasi, JANGAN dikutip sebagai fakta resmi SAP; bukan kompetitor SI langsung Soltius)."
+    }
+  },
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      "2026-06-01 apa-itu-clean-core-kesiapan-cloud (definisi, 4 dimensi, in-app vs side-by-side, kesiapan cloud)",
+      "2026-06-02 remediasi-custom-code-abap-cloud (bersihkan Z-code, 4 fase, triase Keep/Eliminate/Rebuild)",
+      "2026-06-03 clean-core-maturity-assessment (kerangka penilaian 5 dimensi, self-assessment)",
+      "2026-06-04 side-by-side-extensibility-btp-build (side-by-side, SAP Build, in-app vs side-by-side)",
+      "2026-06-05 brownfield-vs-greenfield (dampak clean core pada pilihan migrasi)",
+      "2026-08-01 clean-core-fondasi-ai-joule (AI-readiness, Joule, Business AI)",
+      "2026-08-02 integrasi-api-first (Integration Suite, Event Mesh, released OData API)",
+      "2026-08-03 key-user-in-app-extensibility (custom fields & logic tanpa coding, Fiori, BAdI)",
+      "2026-08-04 memilih-partner-clean-core (7 pertanyaan kunci partner)",
+      "2026-07-2-01 business-case-roi-direksi (ROI, TCO, biaya inaksi)",
+      "2026-07-2-02 industri-teregulasi (farmasi, bank, manufaktur, compliance customization)",
+      "2026-07-2-03 fit-to-standard-budaya (change management, resistensi)",
+      "2026-07-2-04 center-of-excellence (bangun tim CoE, peran, roadmap)",
+      "2026-07-2-05 ekstensi-upgrade-safe (level A-D, kadensi rilis)",
+      "2026-08-2-01 dimensi-data (archiving, ILM, tiering, volume data)",
+      "2026-08-2-02 add-on-pihak-ketiga (certified add-on, build vs buy, level A-D)",
+      "2026-08-2-03 public-private-on-premise (aturan clean core per deployment)",
+      "2026-08-2-04 kpi-clean-core-cloud-alm (monitoring KPI, SAP Cloud ALM, dashboard)",
+      "2026-08-2-05 tata-kelola-stay-clean (governance, approval workflow, guardrail)",
+      "2026-07-01 tata-kelola-pasca-go-live (governance, core kembali kotor setelah go-live)",
+      "2026-09-01 strategi-keamanan (attack surface, SoD, SAP Security Notes, keamanan BTP side-by-side) — DITULIS",
+      "2026-09-02 merger-akuisisi (harmonisasi proses/data/sistem, Central Finance, level A-D sebelum cutover) — DITULIS",
+      "2026-09-03 transisi-developer-abap-cloud (ABAP Cloud, RAP, ADT, on-stack vs side-by-side, upskilling) — DITULIS"
+    ],
+    "uncovered_angles_selected_for_2026_09": [
+      "Clean core sebagai STRATEGI KEAMANAN (attack surface, patch velocity, SoD, threat vector BTP) — persona CISO/keamanan IT, belum pernah dibahas [→ ditulis sebagai -01]",
+      "Clean core saat MERGER & AKUISISI / konsolidasi lanskap (Central Finance, SLT, carve-out, level A-D sebelum cutover) — persona transformation/group finance, belum pernah dibahas [→ ditulis sebagai -02]",
+      "TRANSISI DEVELOPER ABAP ke ABAP Cloud/RAP (skills, RAP, ADT, on-stack vs side-by-side) — persona development manager, belum pernah dibahas (berbeda dari remediasi Z-code 2026-06-02 yang soal membersihkan kode lama, bukan model dev go-forward + upskilling) [→ ditulis sebagai -03]"
+    ],
+    "top_up_angle_2026_09_04": {
+      "brief_id": "sap-clean-core-04",
+      "angle": "biaya-btp-side-by-side-clean-core",
+      "angle_hash": "c75d69f5a31e475ce074658cf29d37865bdbea2e",
+      "search_intent": "decision",
+      "persona": "CFO / IT procurement / FinOps",
+      "one_line": "Ekonomi model clean core: biaya konsumsi SAP BTP (CPEA/BTPEA) yang muncul saat kustomisasi dipindah ke side-by-side — capex bergeser ke opex, cara mengestimasi & mengontrolnya. Distinct vs semua prior (closest: 2026-07-2-01 business-case-ROI, Jaccard ~0.05: itu ROI memilih clean core, ini biaya menjalankan platform ekstensinya).",
+      "created": true,
+      "brief_path": "monthly_runs/2026-09/briefs/sap-clean-core-04.brief.md"
+    },
+    "angles_still_uncovered_for_future": [
+      "Clean core & strategi testing/regression otomatis untuk upgrade 2x/tahun (Cloud ALM test management, SAP Enterprise Continuous Testing/Tricentis) — persona QA/basis",
+      "Clean core sejak awal untuk mid-market via GROW with SAP (public cloud, bersih by design) — persona SME",
+      "Mitos seputar clean core (myth-busting, format daftar mitos vs fakta)"
+    ]
+  }
+}

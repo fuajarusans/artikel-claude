@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-ptpii\\monthly_runs\\2026-09\\final\\jaminan-pemerintah-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-22T05:53:05+07:00",
+    "word_count":  1747,
+    "paragraph_count":  25,
+    "sentence_count":  97,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.345,
+                        "sentence_burstiness":  0.826,
+                        "top30_vocab_share":  0.326,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.345 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "**Konfirmasikan mekanisme pembayaran.** Proyek berskema Availability Payment menempuh Konfirmasi Pendahuluan dan Konfirmasi Final di Kementerian Keuangan; pembayaran berkalanya tetap kewajiban anggaran PJPK.",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"**Konfirmasikan mekanisme pembayaran.** Proyek berskema Availability Payment menempuh Konfirmasi Pendahuluan dan Konfirm\""
+                                  },
+                                  {
+                                      "passage":  "Satu PMK ini mengonsolidasikan rantai aturan lama: tujuh peraturan menteri keuangan dicabut sekaligus, berlaku sejak 18 Oktober 2024 ([JDIH Kementerian Keuangan](https://jdih.kemenkeu.go.id/dok/pmk-68-tahun-2024/summary)).",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"Satu PMK ini mengonsolidasikan rantai aturan lama: tujuh peraturan menteri keuangan dicabut sekaligus, berlaku sejak 18 \""
+                                  },
+                                  {
+                                      "passage":  "Dalam PMK 68/2024, yang tergolong Dukungan Pemerintah bukan pembayaran Availability Payment itu sendiri, melainkan pemrosesan dokumennya oleh Kementerian Keuangan lewat Konfirmasi Pendahuluan dan Konfirmasi Final.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Dalam PMK 68/2024, yang tergolong Dukungan Pemerintah bukan pembayaran Availability Payment itu sendiri, melainkan pemro\""
+                                  },
+                                  {
+                                      "passage":  "# Jaminan Pemerintah dan VGF: Kapan Proyek KPBU Perlu Keduanya Sebuah tim penyiapan menutup prastudi kelayakan, melihat celah pembiayaan, lalu mengajukan semuanya sekaligus.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"# Jaminan Pemerintah dan VGF: Kapan Proyek KPBU Perlu Keduanya Sebuah tim penyiapan menutup prastudi kelayakan, melihat \""
+                                  },
+                                  {
+                                      "passage":  "Keduanya tergolong Dukungan Pemerintah menurut PMK 68/2024, tetapi hanya satu yang berupa belanja negara.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Keduanya tergolong Dukungan Pemerintah menurut PMK 68/2024, tetapi hanya satu yang berupa belanja negara.\""
+                                  },
+                                  {
+                                      "passage":  "| Fasilitas Pra-PDF / Fasilitas PDF | | Layak ekonomi, belum layak finansial | Manfaat sosial jelas, imbal hasil di bawah ambang investor?",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"| Fasilitas Pra-PDF / Fasilitas PDF | | Layak ekonomi, belum layak finansial | Manfaat sosial jelas, imbal hasil di bawa\""
+                                  },
+                                  {
+                                      "passage":  "Salah satu dari lima kriteria mensyaratkan total biaya investasi paling kurang Rp 100 miliar (portal KPBU Kementerian Keuangan, diakses 2026).",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Salah satu dari lima kriteria mensyaratkan total biaya investasi paling kurang Rp 100 miliar (portal KPBU Kementerian Ke\""
+                                  },
+                                  {
+                                      "passage":  "| Pemrosesan dokumen Availability Payment | Kriteria pertama Dukungan Kelayakan hampir menyalin rumusan celahnya sendiri: proyek \"sudah memenuhi kelayakan ekonomi namun belum memenuhi kelayakan finansial\".",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"| Pemrosesan dokumen Availability Payment | Kriteria pertama Dukungan Kelayakan hampir menyalin rumusan celahnya sendiri\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

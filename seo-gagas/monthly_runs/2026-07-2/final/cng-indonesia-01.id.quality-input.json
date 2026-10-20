@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07-2\\final\\cng-indonesia-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-08T09:55:56+07:00",
+    "word_count":  1630,
+    "paragraph_count":  25,
+    "sentence_count":  95,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.31,
+                        "sentence_burstiness":  0.92,
+                        "top30_vocab_share":  0.3,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.31 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Kementerian ESDM lewat roadmap konversi CNG mengestimasi penghematan subsidi energi di kisaran 20–30%; Menteri ESDM Bahlil Lahadalia bahkan menyebut angka 30–40% lebih murah.",
+                                      "candidate_score":  34,
+                                      "web_search_query":  "\"Kementerian ESDM lewat roadmap konversi CNG mengestimasi penghematan subsidi energi di kisaran 20–30%; Menteri ESDM Bahl\""
+                                  },
+                                  {
+                                      "passage":  "Kementerian ESDM mengestimasi penghematan subsidi energi sekitar 20–30% (satu pernyataan menteri menyebut 30–40%) karena biaya gas bumi domestik lebih rendah dibanding LPG yang sekitar 84% masih impor.",
+                                      "candidate_score":  29,
+                                      "web_search_query":  "\"Kementerian ESDM mengestimasi penghematan subsidi energi sekitar 20–30% (satu pernyataan menteri menyebut 30–40%) karena\""
+                                  },
+                                  {
+                                      "passage":  "Menurut Dirjen Migas Laode Sulaeman, pengujian prototipe telah memasuki tahap ketiga dengan satu tahap tersisa sebelum tabung dinilai layak edar (CNN Indonesia, 1 Juli 2026).",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Menurut Dirjen Migas Laode Sulaeman, pengujian prototipe telah memasuki tahap ketiga dengan satu tahap tersisa sebelum t\""
+                                  },
+                                  {
+                                      "passage":  "Per 1 Juli 2026, Dirjen Migas ESDM menyatakan pengujian sudah masuk tahap ketiga dengan satu tahap tersisa.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Per 1 Juli 2026, Dirjen Migas ESDM menyatakan pengujian sudah masuk tahap ketiga dengan satu tahap tersisa.\""
+                                  },
+                                  {
+                                      "passage":  "Jargas mengalirkan gas bumi lewat pipa langsung ke rumah, dan pemerintah menargetkan 160.000 sambungan jargas berbasis CNG pada 2026 serta 1 juta pada 2027 (Kompas.com, 19 Juni 2026).",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Jargas mengalirkan gas bumi lewat pipa langsung ke rumah, dan pemerintah menargetkan 160.000 sambungan jargas berbasis C\""
+                                  },
+                                  {
+                                      "passage":  "Data Kementerian ESDM mencatat ketergantungan Indonesia pada LPG impor naik menjadi 83,97% pada Januari–Februari 2026, dari 80,58% pada 2025.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Data Kementerian ESDM mencatat ketergantungan Indonesia pada LPG impor naik menjadi 83,97% pada Januari–Februari 2026, d\""
+                                  },
+                                  {
+                                      "passage":  "CNG Merah Putih adalah tabung *Compressed Natural Gas* berkapasitas 3 kg yang disiapkan Kementerian ESDM sebagai calon pengganti LPG 3 kg bersubsidi.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"CNG Merah Putih adalah tabung *Compressed Natural Gas* berkapasitas 3 kg yang disiapkan Kementerian ESDM sebagai calon p\""
+                                  },
+                                  {
+                                      "passage":  "Bagi konsumen, harga direncanakan tidak berubah; CNG 3 kg dipatok setara LPG 3 kg bersubsidi.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Bagi konsumen, harga direncanakan tidak berubah; CNG 3 kg dipatok setara LPG 3 kg bersubsidi.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

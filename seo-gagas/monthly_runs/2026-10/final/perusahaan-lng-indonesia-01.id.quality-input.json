@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-10\\final\\perusahaan-lng-indonesia-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-28T20:03:17+07:00",
+    "word_count":  1583,
+    "paragraph_count":  25,
+    "sentence_count":  86,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.413,
+                        "sentence_burstiness":  1.046,
+                        "top30_vocab_share":  0.289,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.413 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "## Kapan Reliquefaction Belum Sepadan untuk Pengguna Beyond-Pipeline Untuk sebagian besar pengguna *beyond-pipeline* berskala kecil, *reliquefaction* belum sepadan.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Kapan Reliquefaction Belum Sepadan untuk Pengguna Beyond-Pipeline Untuk sebagian besar pengguna *beyond-pipeline* ber\""
+                                  },
+                                  {
+                                      "passage":  "- **Suhu lingkungan:** iklim tropis Indonesia menambah beban panas ke dinding tangki.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"- **Suhu lingkungan:** iklim tropis Indonesia menambah beban panas ke dinding tangki.\""
+                                  },
+                                  {
+                                      "passage":  "Itu *boil-off gas*, yaitu sebagian LNG menguap tiap hari karena panas selalu merembes menembus insulasi.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Itu *boil-off gas*, yaitu sebagian LNG menguap tiap hari karena panas selalu merembes menembus insulasi.\""
+                                  },
+                                  {
+                                      "passage":  "Pelepasan tak terkendali ini berarti kerugian volume gas sekaligus emisi metana langsung, sehingga BOG idealnya dikelola proaktif, bukan dibiarkan hingga memicu venting.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Pelepasan tak terkendali ini berarti kerugian volume gas sekaligus emisi metana langsung, sehingga BOG idealnya dikelola\""
+                                  },
+                                  {
+                                      "passage":  "Tangki besar seperti pada kapal LNG dirancang di kisaran 0,10–0,15% volume per hari, unit modern mendekati 0,1%.",
+                                      "candidate_score":  11,
+                                      "web_search_query":  "\"Tangki besar seperti pada kapal LNG dirancang di kisaran 0,10–0,15% volume per hari, unit modern mendekati 0,1%.\""
+                                  },
+                                  {
+                                      "passage":  "Contoh: BOR 0,2%/hari selama 10 hari holding berarti sekitar 2% volume menguap sebelum sempat dipakai, dan itu bisa ditekan dengan perputaran stok yang lebih cepat.",
+                                      "candidate_score":  11,
+                                      "web_search_query":  "\"Contoh: BOR 0,2%/hari selama 10 hari holding berarti sekitar 2% volume menguap sebelum sempat dipakai, dan itu bisa dite\""
+                                  },
+                                  {
+                                      "passage":  "Tangki besar berinsulasi baik seperti pada kapal LNG dirancang di kisaran 0,10–0,15%/hari, dengan unit modern mendekati 0,1%.",
+                                      "candidate_score":  11,
+                                      "web_search_query":  "\"Tangki besar berinsulasi baik seperti pada kapal LNG dirancang di kisaran 0,10–0,15%/hari, dengan unit modern mendekati \""
+                                  },
+                                  {
+                                      "passage":  "Insulasi kriogenik, baik vakum maupun material seperti perlite, dirancang meminimalkan aliran panas, bukan menghentikannya.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Insulasi kriogenik, baik vakum maupun material seperti perlite, dirancang meminimalkan aliran panas, bukan menghentikann\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

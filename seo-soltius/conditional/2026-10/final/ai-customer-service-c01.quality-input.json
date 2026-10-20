@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-10\\final\\ai-customer-service-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-10-08T17:29:13+07:00",
+    "word_count":  1230,
+    "paragraph_count":  23,
+    "sentence_count":  62,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.361,
+                        "sentence_burstiness":  0.749,
+                        "top30_vocab_share":  0.329,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.361 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "[Gartner](https://www.gartner.com/en/newsroom/press-releases/2025-03-05-gartner-predicts-agentic-ai-will-autonomously-resolve-80-percent-of-common-customer-service-issues-without-human-intervention-by-20290) memproyeksikan pada 2029 agentic AI mampu menyelesaikan 80% isu layanan pelanggan umum secara otonom tanpa intervensi manusia, memangkas biaya operasional sekitar 30%.",
+                                      "candidate_score":  34,
+                                      "web_search_query":  "\"[Gartner](https://www.gartner.com/en/newsroom/press-releases/2025-03-05-gartner-predicts-agentic-ai-will-autonomously-re\""
+                                  },
+                                  {
+                                      "passage":  "Menurut [rilis Q3 2025](https://news.sap.com/2025/10/sap-business-ai-release-highlights-q3-2025/), SAP menargetkan lebih dari 400 fitur AI, termasuk Joule Agents, pada akhir 2025.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Menurut [rilis Q3 2025](https://news.sap.com/2025/10/sap-business-ai-release-highlights-q3-2025/), SAP menargetkan lebih\""
+                                  },
+                                  {
+                                      "passage":  "Karena menyentuh teks percakapan pelanggan, penerapannya tunduk pada UU Pelindungan Data Pribadi (UU No.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Karena menyentuh teks percakapan pelanggan, penerapannya tunduk pada UU Pelindungan Data Pribadi (UU No.\""
+                                  },
+                                  {
+                                      "passage":  "Untuk layanan, agen Joule seperti Digital Service Agent (self-service, menarik basis pengetahuan) dan Case Classification Agent (mengklasifikasi dan mengarahkan kasus) membantu menyelesaikan permintaan.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Untuk layanan, agen Joule seperti Digital Service Agent (self-service, menarik basis pengetahuan) dan Case Classificatio\""
+                                  },
+                                  {
+                                      "passage":  "Di ekosistem SAP, kapabilitas AI layanan tertanam di SAP Business AI lewat portofolio SAP Customer Experience (SAP CX) dan agen Joule.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Di ekosistem SAP, kapabilitas AI layanan tertanam di SAP Business AI lewat portofolio SAP Customer Experience (SAP CX) d\""
+                                  },
+                                  {
+                                      "passage":  "## Menerapkan AI Customer Service dengan SAP Business AI: Mulai dari Mana?",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Menerapkan AI Customer Service dengan SAP Business AI: Mulai dari Mana?\""
+                                  },
+                                  {
+                                      "passage":  "Estimasi industri menaruhnya di kisaran 40–60% untuk tier-1 yang solid, tetapi mudah menyesatkan karena chat yang ditinggalkan sering dihitung sebagai sukses.",
+                                      "candidate_score":  9,
+                                      "web_search_query":  "\"Estimasi industri menaruhnya di kisaran 40–60% untuk tier-1 yang solid, tetapi mudah menyesatkan karena chat yang diting\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apa perbedaan chatbot dan AI agent dalam customer service?",
+                                      "candidate_score":  8,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apa perbedaan chatbot dan AI agent dalam customer service?\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

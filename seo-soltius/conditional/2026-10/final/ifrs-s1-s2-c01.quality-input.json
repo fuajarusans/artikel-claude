@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-10\\final\\ifrs-s1-s2-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-10-08T17:36:53+07:00",
+    "word_count":  1174,
+    "paragraph_count":  18,
+    "sentence_count":  64,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.403,
+                        "sentence_burstiness":  0.746,
+                        "top30_vocab_share":  0.335,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.403 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Indonesia mengadopsinya lewat Standar Pengungkapan Keberlanjutan, yaitu PSPK 1 dan PSPK 2, yang disahkan Dewan Standar Keberlanjutan IAI pada 1 Juli 2025 dan dijadwalkan efektif 1 Januari 2027.",
+                                      "candidate_score":  40,
+                                      "web_search_query":  "\"Indonesia mengadopsinya lewat Standar Pengungkapan Keberlanjutan, yaitu PSPK 1 dan PSPK 2, yang disahkan Dewan Standar K\""
+                                  },
+                                  {
+                                      "passage":  "Menurut [Dewan Standar Keberlanjutan Ikatan Akuntan Indonesia (DSK IAI)](https://web.iaiglobal.or.id/), keduanya disahkan pada 1 Juli 2025 dan dijadwalkan efektif 1 Januari 2027.",
+                                      "candidate_score":  38,
+                                      "web_search_query":  "\"Menurut [Dewan Standar Keberlanjutan Ikatan Akuntan Indonesia (DSK IAI)](https://web.iaiglobal.or.id/), keduanya disahka\""
+                                  },
+                                  {
+                                      "passage":  "IFRS S2 dibangun di atas kerangka Task Force on Climate-related Financial Disclosures (TCFD) serta standar industri SASB (*Sustainability Accounting Standards Board*).",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"IFRS S2 dibangun di atas kerangka Task Force on Climate-related Financial Disclosures (TCFD) serta standar industri SASB\""
+                                  },
+                                  {
+                                      "passage":  "## Empat Pilar Pengungkapan dalam IFRS S1 \u0026 S2 Kedua standar memakai empat pilar warisan kerangka TCFD, yaitu tata kelola, strategi, manajemen risiko, serta metrik dan target.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"## Empat Pilar Pengungkapan dalam IFRS S1 \u0026 S2 Kedua standar memakai empat pilar warisan kerangka TCFD, yaitu tata kelol\""
+                                  },
+                                  {
+                                      "passage":  "ISSB (*International Sustainability Standards Board*) adalah badan penyusun standar independen di bawah IFRS Foundation, yang pembentukannya diumumkan di COP26 Glasgow pada 3 November 2021.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"ISSB (*International Sustainability Standards Board*) adalah badan penyusun standar independen di bawah IFRS Foundation,\""
+                                  },
+                                  {
+                                      "passage":  "Khusus IFRS S2, bagian ini mencakup emisi Scope 1, 2, dan 3 yang diukur mengikuti GHG Protocol (*Greenhouse Gas Protocol*), analisis skenario iklim, serta rencana transisi bila ada.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Khusus IFRS S2, bagian ini mencakup emisi Scope 1, 2, dan 3 yang diukur mengikuti GHG Protocol (*Greenhouse Gas Protocol\""
+                                  },
+                                  {
+                                      "passage":  "Di Indonesia, IFRS S1 dan S2 diterjemahkan menjadi Standar Pengungkapan Keberlanjutan (SPK): PSPK 1 yang sejalan dengan S1 dan PSPK 2 yang sejalan dengan S2.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Di Indonesia, IFRS S1 dan S2 diterjemahkan menjadi Standar Pengungkapan Keberlanjutan (SPK): PSPK 1 yang sejalan dengan \""
+                                  },
+                                  {
+                                      "passage":  "Satu catatan penting: banyak sumber lokal keliru menulis standar ini \"berlaku 2024\" di Indonesia; 1 Januari 2024 adalah tanggal efektif global, sedangkan jalur nasional lewat SPK menuju 2027.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Satu catatan penting: banyak sumber lokal keliru menulis standar ini  berlaku 2024  di Indonesia; 1 Januari 2024 adalah \""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

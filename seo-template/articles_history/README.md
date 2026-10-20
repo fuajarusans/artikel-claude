@@ -1,6 +1,6 @@
 # Articles History — <CLIENT_NAME>
 
-Append-only log of every article committed by the `article-history-curator` (editor `approve` AND validator `pass`). The `seo-keyword-strategist` reads this BEFORE generating new concepts to prevent angle duplication across months.
+Append-only log of every article committed by the `article-history-curator` (editor `recommendation: approve`). The `seo-keyword-strategist` reads this BEFORE generating new concepts to prevent angle duplication across months.
 
 Single language: **<LANGUAGE>** (one `.id.md` / one `.id.docx` per article).
 
@@ -55,7 +55,6 @@ articles_history/
       "paths": {
         "id_md": "monthly_runs/2026-06/final/<keyword-slug>-01.id.md",
         "id_docx": "monthly_runs/2026-06/final/<keyword-slug>-01.id.docx",
-        "image_plan": "monthly_runs/2026-06/final/<keyword-slug>-01.images.json",
         "qc": "monthly_runs/2026-06/final/<keyword-slug>-01.qc.md",
         "quality": "monthly_runs/2026-06/final/<keyword-slug>-01.quality.md"
       },
@@ -112,7 +111,7 @@ One paragraph: what makes this article distinct from others in this keyword's cl
 ```
 
 ## Update protocol
-**Only the `article-history-curator` writes here, and ONLY after BOTH gates pass** (editor `recommendation: approve` AND validator `verdict: pass`).
+**Only the `article-history-curator` writes here, and ONLY when the editor's `recommendation` is `approve`** — the editor's QC pass now includes the plagiarism + AI-detector scan, so it is the single gate.
 
 1. Curator reads each `final/<brief-id>.qc.md` + `.quality.md`; processes only `approve` + `pass`.
 2. Writes the per-article record in `by_keyword/<keyword-slug>/<slug>.md`.

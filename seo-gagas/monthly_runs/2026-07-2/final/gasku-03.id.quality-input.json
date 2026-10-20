@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07-2\\final\\gasku-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-08T06:14:50+07:00",
+    "word_count":  1682,
+    "paragraph_count":  25,
+    "sentence_count":  92,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.316,
+                        "sentence_burstiness":  1.085,
+                        "top30_vocab_share":  0.329,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.316 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "- **Klaim penghematan Gasku diberi rentang.** PGN menyatakan BBG bisa menghemat biaya energi 30–55% dibanding BBM (Corporate Secretary PGN, Oktober 2025).",
+                                      "candidate_score":  33,
+                                      "web_search_query":  "\"- **Klaim penghematan Gasku diberi rentang.** PGN menyatakan BBG bisa menghemat biaya energi 30–55% dibanding BBM (Corpo\""
+                                  },
+                                  {
+                                      "passage":  "- **Opex EV rendah, capex tinggi.** Estimasi penghematan bahan bakar EV berkisar Rp 940 ribu per bulan dibanding BBM (Suara.com, 2026), tapi payback pembelian kendaraan bisa 5–10 tahun.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"- **Opex EV rendah, capex tinggi.** Estimasi penghematan bahan bakar EV berkisar Rp 940 ribu per bulan dibanding BBM (Su\""
+                                  },
+                                  {
+                                      "passage":  "Menurut Ditjen Migas, LGV punya kualitas pembakaran setara RON 98, sementara CNG lebih umum dipakai untuk transportasi massal seperti bus kota.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Menurut Ditjen Migas, LGV punya kualitas pembakaran setara RON 98, sementara CNG lebih umum dipakai untuk transportasi m\""
+                                  },
+                                  {
+                                      "passage":  "Menurut klaim resmi PGN (April 2026), penggunaan BBG menghasilkan emisi sekitar 20% lebih rendah dibanding BBM.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Menurut klaim resmi PGN (April 2026), penggunaan BBG menghasilkan emisi sekitar 20% lebih rendah dibanding BBM.\""
+                                  },
+                                  {
+                                      "passage":  "Bauran energi terbarukan sektor ketenagalistrikan Indonesia baru mencapai 16,3% pada 2025 (Kompas, mengutip data ESDM), sisanya masih dominan batu bara.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Bauran energi terbarukan sektor ketenagalistrikan Indonesia baru mencapai 16,3% pada 2025 (Kompas, mengutip data ESDM), \""
+                                  },
+                                  {
+                                      "passage":  "Angka \"20% lebih rendah\" adalah klaim resmi PGN per April 2026 (detikFinance), bukan hasil uji laboratorium independen; rentang 20–30% muncul di sejumlah kajian umum sebagai perkiraan.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Angka  20% lebih rendah  adalah klaim resmi PGN per April 2026 (detikFinance), bukan hasil uji laboratorium independen; \""
+                                  },
+                                  {
+                                      "passage":  "Mobil listrik butuh membeli kendaraan baru ratusan juta dengan payback sekitar 5–10 tahun.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Mobil listrik butuh membeli kendaraan baru ratusan juta dengan payback sekitar 5–10 tahun.\""
+                                  },
+                                  {
+                                      "passage":  "## Tiga Jalur \"Hemat \u0026 Hijau\": BBG, LGV, dan Listrik Ketiga jalur ini sama-sama lebih bersih dari BBM konvensional, tapi bekerja dengan cara yang sangat berbeda.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Tiga Jalur  Hemat \u0026 Hijau : BBG, LGV, dan Listrik Ketiga jalur ini sama-sama lebih bersih dari BBM konvensional, tapi\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

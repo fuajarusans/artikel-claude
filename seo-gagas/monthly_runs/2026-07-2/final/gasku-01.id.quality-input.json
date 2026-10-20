@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07-2\\final\\gasku-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-07T18:41:09+07:00",
+    "word_count":  1593,
+    "paragraph_count":  21,
+    "sentence_count":  91,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.401,
+                        "sentence_burstiness":  0.782,
+                        "top30_vocab_share":  0.3,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.401 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Komponennya wajib memenuhi standar teknis: Kemenperin mewajibkan converter kit CNG lolos SNI 7407-2009 dan/atau ISO 11439 lewat Permen Perindustrian No.",
+                                      "candidate_score":  31,
+                                      "web_search_query":  "\"Komponennya wajib memenuhi standar teknis: Kemenperin mewajibkan converter kit CNG lolos SNI 7407-2009 dan/atau ISO 1143\""
+                                  },
+                                  {
+                                      "passage":  "# Perawatan Kendaraan BBG (Gasku): Jadwal Servis \u0026 Uji Berkala Tabung Converter kit terpasang, tabung terisi, dan mobil Anda kini bisa jalan pakai gas.",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"# Perawatan Kendaraan BBG (Gasku): Jadwal Servis \u0026 Uji Berkala Tabung Converter kit terpasang, tabung terisi, dan mobil \""
+                                  },
+                                  {
+                                      "passage":  "37 Tahun 2016, dengan riksa uji oleh Ahli K3 Bidang Pesawat Uap dan Bejana Tekanan di bawah Kemnaker.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"37 Tahun 2016, dengan riksa uji oleh Ahli K3 Bidang Pesawat Uap dan Bejana Tekanan di bawah Kemnaker.\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apakah kendaraan BBG perlu perawatan khusus dibanding mobil bensin?",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apakah kendaraan BBG perlu perawatan khusus dibanding mobil bensin?\""
+                                  },
+                                  {
+                                      "passage":  "37/2016, dengan riksa uji oleh Ahli K3 Bidang Pesawat Uap dan Bejana Tekanan (Kemnaker).",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"37/2016, dengan riksa uji oleh Ahli K3 Bidang Pesawat Uap dan Bejana Tekanan (Kemnaker).\""
+                                  },
+                                  {
+                                      "passage":  "## Tanda-Tanda Converter Kit atau Sistem Gas Perlu Diperiksa Sistem gas biasanya memberi sinyal sebelum benar-benar bermasalah.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Tanda-Tanda Converter Kit atau Sistem Gas Perlu Diperiksa Sistem gas biasanya memberi sinyal sebelum benar-benar berm\""
+                                  },
+                                  {
+                                      "passage":  "Harga Gasku sekitar Rp 4.500/LSP (Liter Setara Premium) jauh di bawah BBM non-subsidi (gagas.co.id, 2026), dan selisih itulah yang membiayai perawatan ekstra.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Harga Gasku sekitar Rp 4.500/LSP (Liter Setara Premium) jauh di bawah BBM non-subsidi (gagas.co.id, 2026), dan selisih i\""
+                                  },
+                                  {
+                                      "passage":  "### Apakah perawatan BBG membuat total biaya jadi lebih mahal daripada bensin?",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"### Apakah perawatan BBG membuat total biaya jadi lebih mahal daripada bensin?\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

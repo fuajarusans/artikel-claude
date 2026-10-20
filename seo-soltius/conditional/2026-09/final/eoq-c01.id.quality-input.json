@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-09\\final\\eoq-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-01T08:26:15+07:00",
+    "word_count":  982,
+    "paragraph_count":  18,
+    "sentence_count":  61,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.369,
+                        "sentence_burstiness":  0.819,
+                        "top30_vocab_share":  0.347,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.369 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Hitung pembilang: 2 × 5.000 × 100.000 = 1.000.000.000, lalu bagi dengan H: ÷ 1.000 = 1.000.000.",
+                                      "candidate_score":  34,
+                                      "web_search_query":  "\"Hitung pembilang: 2 × 5.000 × 100.000 = 1.000.000.000, lalu bagi dengan H: ÷ 1.000 = 1.000.000.\""
+                                  },
+                                  {
+                                      "passage":  "Contoh: permintaan 5.000 unit, biaya pesan Rp100.000, biaya simpan Rp1.000 per unit menghasilkan EOQ = √1.000.000 = **1.000 unit** per pesanan.",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"Contoh: permintaan 5.000 unit, biaya pesan Rp100.000, biaya simpan Rp1.000 per unit menghasilkan EOQ = √1.000.000 = **1.\""
+                                  },
+                                  {
+                                      "passage":  "Masukkan ke rumus: EOQ = √(2 × 5.000 × 100.000 ÷ 1.000).",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Masukkan ke rumus: EOQ = √(2 × 5.000 × 100.000 ÷ 1.000).\""
+                                  },
+                                  {
+                                      "passage":  "## Rumus EOQ dan Contoh Perhitungannya Rumus EOQ hanya membutuhkan tiga variabel: permintaan tahunan, biaya per pesanan, dan biaya penyimpanan per unit per tahun.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"## Rumus EOQ dan Contoh Perhitungannya Rumus EOQ hanya membutuhkan tiga variabel: permintaan tahunan, biaya per pesanan,\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai SAP Platinum Partner melalui keanggotaan United VARs dan berpengalaman sejak 1998, Soltius mengimplementasikan dan mendampingi perencanaan rantai pasok SAP seperti SAP IBP untuk perusahaan manufaktur dan distribusi.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Sebagai SAP Platinum Partner melalui keanggotaan United VARs dan berpengalaman sejak 1998, Soltius mengimplementasikan d\""
+                                  },
+                                  {
+                                      "passage":  "Kumpulkan tiga variabel: **D = 5.000 unit/tahun**, **S = Rp100.000 per pesanan**, **H = Rp1.000 per unit per tahun**.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Kumpulkan tiga variabel: **D = 5.000 unit/tahun**, **S = Rp100.000 per pesanan**, **H = Rp1.000 per unit per tahun**.\""
+                                  },
+                                  {
+                                      "passage":  "Rumus EOQ adalah akar kuadrat dari (2 × permintaan tahunan × biaya per pesanan) ÷ biaya penyimpanan per unit, ditulis **EOQ = √(2DS/H)**.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Rumus EOQ adalah akar kuadrat dari (2 × permintaan tahunan × biaya per pesanan) ÷ biaya penyimpanan per unit, ditulis **\""
+                                  },
+                                  {
+                                      "passage":  "Konsekuensinya, pada permintaan 5.000 unit itu berarti **5 kali pesan setahun** (5.000 ÷ 1.000), atau sekitar setiap 73 hari.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Konsekuensinya, pada permintaan 5.000 unit itu berarti **5 kali pesan setahun** (5.000 ÷ 1.000), atau sekitar setiap 73 \""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

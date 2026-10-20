@@ -1,0 +1,149 @@
+{
+  "keyword": "KPBU",
+  "keyword_slug": "kpbu",
+  "month": "2026-08",
+  "language": "id",
+  "captured_at": "2026-08-12",
+  "priority": "defend",
+  "client_anchor": "Penjaminan Pemerintah",
+  "landing_page": "https://www.ptpii.co.id/kpbu",
+  "landing_page_title": "KPBU Indonesia: Definisi & Tantangan Infrastruktur",
+  "landing_page_summary": "Hub page. H2s: 'Memahami Definisi dan Konsep Dasar KPBU', 'Mengapa KPBU Begitu Penting untuk Indonesia?', 'Sektor Prioritas KPBU di Indonesia', 'Tahapan Proyek KPBU di Indonesia: Sebuah Perjalanan Terstruktur', 'Transformasi Infrastruktur Indonesia dan Peran Strategis PT PII'. Lists the 6 stages descriptively (perencanaan, penyiapan, transaksi, konstruksi, operasi, berakhirnya perjanjian) and priority sectors. Cites RPJMN 2020-2024 (Rp 6.445 triliun; APBN/APBD ~37%, sisa ~63% dari swasta). Does NOT cover: claims/dispute mechanics, financial modelling, comparison to international PPP models, implementation challenges/lessons learned, per-stage decision gates, or the current Permen PPN 7/2023 rulebook.",
+  "landing_page_freshness_gap": "Hub still cites RPJMN 2020-2024. The current planning cycle is RPJMN 2025-2029 (~USD 625 miliar / ~Rp 10.350 triliun; komposisi: pemerintah pusat+daerah 7,22%, BUMN/D 6,13%, swasta/masyarakat 86,65%). Supporting articles should carry the newer figure with its reference year and funnel authority up to the hub.",
+
+  "data_sources_used": ["live_serp_bing_id", "live_serp_duckduckgo_id", "websearch", "landing_page_webfetch", "kemenkeu_kpbu_portal_paa"],
+  "ahrefs_available": false,
+  "gsc_available": false,
+  "seo_report": "none (keywords.md declares seo_report: none)",
+  "google_serp_direct_fetch": "BLOCKED — google.com/search returned an error/consent page on three attempts (plain, num=20, and question-form query). SERP reconstructed from Bing ID + DuckDuckGo ID + WebSearch. Flagged so no ranking claim is overstated.",
+
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "cpc": "n/a (Ahrefs not connected)",
+    "trend": "n/a — no Ahrefs/GSC. Qualitative signal: 'KPBU' is a high-competition head term dominated by .go.id government portals; demand is steady and institution-driven rather than seasonal.",
+    "report_rank": "n/a (no SEO report named for this month)",
+    "observed_rank_proxy": "ptpii.co.id/kpbu appears ~position 5 on Bing ID for the head term 'KPBU', behind kpbu.kemenkeu.go.id, mykpbu.kemenkeu.go.id and two simpulkpbu.pu.go.id pages. Consistent with the 'defend' priority: the client already holds a top-tier non-government position and the job is to reinforce it, not to break in."
+  },
+
+  "serp": {
+    "top_10": [
+      { "url": "https://kpbu.kemenkeu.go.id/", "title": "KPBU – Kerjasama Pemerintah Dengan Badan Usaha", "angle_summary": "Official Kemenkeu portal. Navigation-first: sections for PJPK / Investor / Umum, regulatory documents, FS templates, project database. Authoritative but portal-shaped, thin continuous prose." },
+      { "url": "https://mykpbu.kemenkeu.go.id/", "title": "Kemenkeu - KPBU 4.0", "angle_summary": "Transactional platform for submitting and tracking government-support applications. Not an explainer; zero informational competition." },
+      { "url": "https://simpulkpbu.pu.go.id/", "title": "Simpul KPBU — Ditjen Pembiayaan Infrastruktur, Kementerian PU", "angle_summary": "Institutional portal explaining the Simpul KPBU unit and its role across project stages." },
+      { "url": "https://simpulkpbu.pu.go.id/pages/skema-pembiayaan/kerja-sama-pemerintah-dengan-badan-usaha-kpbu", "title": "Kerja Sama Pemerintah dengan Badan Usaha (KPBU)", "angle_summary": "Defines KPBU as a long-term agreement with balanced risk allocation, then routes to sub-pages. Accessibility over depth — no case studies, no metrics, no implementation challenges, no international comparison." },
+      { "url": "https://www.ptpii.co.id/kpbu", "title": "KPBU Indonesia: Definisi & Tantangan Infrastruktur", "angle_summary": "CLIENT HUB. Definition + why it matters + priority sectors + 6 stages + PT PII's role. Strongest narrative page in the top 5 but stops at description; no decision thresholds and no current-rulebook detail." },
+      { "url": "https://www.jurnal.id/id/blog/kpbu/", "title": "Pengertian dan Pentingnya KPBU — Mekari Jurnal", "angle_summary": "Commercial SaaS blog. Generic definition + benefits listicle written for a general business audience. Shallow, not practitioner-grade — the most beatable page in the set." },
+      { "url": "https://id.wikipedia.org/wiki/Kerjasama_Pemerintah_dan_Badan_Usaha", "title": "Kerjasama Pemerintah dan Badan Usaha — Wikipedia", "angle_summary": "Encyclopedic stub-level entry. Definition and legal basis only." },
+      { "url": "https://jdih.bpk.go.id/", "title": "Kerja Sama Pemerintah dengan Badan Usaha dalam Penyediaan Infrastruktur (PDF)", "angle_summary": "Raw regulation PDF. Zero readability for a decision-maker; ranks on authority alone." },
+      { "url": "https://jabar.bpk.go.id/files/2020/12/TULISAN-HUKUM_KPBU_upload.pdf", "title": "Tulisan Hukum KPBU — UJDIH BPK Jawa Barat (PDF, 2020)", "angle_summary": "Legal commentary PDF from 2020 — predates Permen PPN 7/2023, so materially stale on process." },
+      { "url": "https://temanku.lkpp.go.id/media/docs/docs_60c3431ee4e48.pdf", "title": "Tata Cara Pelaksanaan KPBU — LKPP (PDF)", "angle_summary": "Procedural PDF, undated in listing, procurement-office framing." }
+    ],
+    "also_seen": [
+      { "url": "https://www.djkn.kemenkeu.go.id/artikel/baca/11824/", "title": "Mengenal KPBU: Skema PPP di Indonesia — DJKN", "angle_summary": "Solid explainer: definition, actors, 3 stages, VGF. But anchors on RPJMN 2015-2019 funding gap and Perpres 38/2015 only; omits project examples and success metrics." },
+      { "url": "https://www.ahlikpbuindonesia.or.id/", "title": "Perkumpulan Ahli Profesional KPBU Indonesia", "angle_summary": "Practitioner association blog — the ONLY source in the landscape actively covering Permen PPN 7/2023, KPBU skala kecil, and the KPBU-vs-konvensional comparison. Closest true competitor on angle; weak on domain authority and structure." },
+      { "url": "https://www.ptsmi.co.id/kerjasama-pemerintah-dan-badan-usaha-kpbu", "title": "KPBU — PT SMI", "angle_summary": "Peer SMV page; definition-level." },
+      { "url": "https://kpbu.kemenhub.go.id/", "title": "KPBU — Kementerian Perhubungan", "angle_summary": "Sector portal; defines availability payment." }
+    ],
+    "serp_features": ["paa", "pdf_heavy_results", "government_portal_dominance"],
+    "ai_overview_present": "unconfirmed — Google SERP fetch blocked. Treat as likely present for a definitional head term and write for extraction regardless.",
+    "ai_overview_entities_expected": ["KPBU", "Kerja Sama Pemerintah dengan Badan Usaha", "Public Private Partnership (PPP)", "PJPK", "Perpres 38/2015", "Permen PPN/Bappenas 7/2023", "Availability Payment", "Viability Gap Fund", "Kementerian Keuangan", "Bappenas", "financial close"]
+  },
+
+  "paa": [
+    "Siapa yang Membiayai Proyek pada Skema KPBU?",
+    "Mengapa Perekonomian Tidak Sepenuhnya Diserahkan Kepada Swasta?",
+    "Skema KPBU, Apa Perannya dalam Mendukung Pembangunan IKN?",
+    "Apa Itu Kepanjangan PJPK?",
+    "Apa itu Kantor Bersama KPBU?",
+    "Apa itu Availability Payment?",
+    "Apa bedanya KPBU dengan pengadaan konvensional APBN?",
+    "Berapa lama proses KPBU sampai financial close?",
+    "Apa itu Value for Money dalam KPBU?",
+    "Apa itu KPBU skala kecil?",
+    "Siapa saja yang bisa menjadi PJPK?",
+    "Apa saja tahapan proyek KPBU?"
+  ],
+  "paa_provenance": "Items 1-6 are captured verbatim from the Kementerian Keuangan KPBU portal's own 'Orang Juga Bertanya' category (kpbu.kemenkeu.go.id/read/1133-1305/umum/orang-juga-bertanya and /read/1145-1372/...), which Kemenkeu built explicitly to answer Google People Also Ask queries — i.e. these are real harvested PAA, not invented. Items 7-12 are question-form queries confirmed to return dedicated result clusters in WebSearch. Google's own PAA box could not be scraped directly (SERP fetch blocked); this is the strongest available substitute and is flagged as such.",
+
+  "gsc_style_queries_from_report": [],
+
+  "key_facts_for_researcher_to_verify": [
+    { "fact": "Perpres No. 38 Tahun 2015 tentang KPBU dalam Penyediaan Infrastruktur is still the governing umbrella regulation; it revoked Perpres 67/2005 and its amendments (Perpres 56/2011, Perpres 66/2013).", "source_hint": "https://peraturan.bpk.go.id/Details/41764/perpres-no-38-tahun-2015", "confidence": "high — confirmed in force via JDIH BPK; re-confirm no 2025/2026 replacement before publication" },
+    { "fact": "Permen PPN/Kepala Bappenas No. 7 Tahun 2023 tentang Pelaksanaan KPBU dalam Penyediaan Infrastruktur is the CURRENT operational rulebook. It revoked Permen PPN No. 4 Tahun 2015 AND Permen PPN No. 2 Tahun 2020. It simplified the prastudi kelayakan from 8 kajian (under Permen PPN 2/2020) to 5 kajian, introduced provisions for KPBU skala kecil (Pasal 85), and tightened limits on financial-close extensions.", "source_hint": "https://jdih.bappenas.go.id/peraturan/detailperaturan/3383/ and https://peraturan.bpk.go.id/Details/271431/permen-ppnkepala-bappenas-no-7-tahun-2023", "confidence": "high — verify the exact kajian count and the Pasal 85 reference against the regulation text itself, not secondary blogs" },
+    { "fact": "PT PII compiles the Buku Acuan Alokasi Risiko annually as a mandate under PMK No. 68 Tahun 2024 addressed to PT PII in its capacity as Badan Usaha Penjaminan Infrastruktur (BUPI). The 2025 edition groups project risks into 11 kategori risiko and is published openly on ptpii.co.id.", "source_hint": "https://www.ptpii.co.id/cfind/source/files/buku-acuan-alokasi-risiko-tahun-2025.pdf (2025 edition) and .../acuan-alokasi-risiko-bahasa-2023---final.pdf (2023 edition)", "confidence": "high — VERIFY the PMK 68/2024 number and the '11 kategori' count directly in the PDF before the writer states either" },
+    { "fact": "RPJMN 2025-2029 infrastructure financing need estimated at ~USD 625 miliar (~Rp 10.350 triliun); some sources state >Rp 10.303 triliun. Projected composition: investasi pemerintah pusat & daerah 7,22%, investasi BUMN/D 6,13%, investasi swasta/masyarakat 86,65%.", "source_hint": "Bappenas / Kemenko Perekonomian (https://www.ekon.go.id/publikasi/detail/6575/)", "confidence": "medium — figure appears in secondary reporting; trace to a primary Bappenas/Kemenko document and pin the exact reference year before use" },
+    { "fact": "Optimal risk allocation principle: risk is allocated to the party best able to manage or bear it. Private side generally absorbs construction, technology and operating-efficiency risk; government side generally retains policy/regulatory and certain force majeure risk. Land risk is a recognised distinct category.", "source_hint": "Buku Acuan Alokasi Risiko (PT PII) + https://simpulkpbu.pu.go.id/pages/risiko/kategori-risiko", "confidence": "high" },
+    { "fact": "Two investment-return schemes: Availability Payment (periodic government payment based on service availability meeting contracted quality — allocates revenue/demand risk to PJPK) and User Charge / user pay (return from end-user tariffs — allocates demand risk to the badan usaha).", "source_hint": "https://kpbu.kemenkeu.go.id/read/1153-1420/umum/orang-juga-bertanya/apa-itu-availability-payment and https://simpulkpbu.pu.go.id/pages/panduan-investasi/skema-pengembalian", "confidence": "high" },
+    { "fact": "Timing signals: KPBU project documents are typically prepared 3-4 years before operation; time to financial close has been publicly criticised as reaching about one year at the transaction stage; cooperation terms commonly run 10-15 years, and PJPK-side contract phases are described as spanning 20-30 years for some projects.", "source_hint": "https://kpbu.kemenkeu.go.id/read/1207-1669/umum/kajian-opini-publik/percepatan-proses-kpbu-apakah-mungkin", "confidence": "medium — these are practitioner/press characterisations, NOT a regulated standard. Must be framed as indicative ranges, never as a guaranteed timeline." },
+    { "fact": "Value for Money: KPBU carries preparation, transaction and contractual costs absent from conventional procurement. For small projects these ancillary costs can be high relative to project value, so VfM may come out negative and KPBU is then the wrong route.", "source_hint": "https://kpbu.kemenkeu.go.id/read/1092-1254/pjpk/guideline-dan-toolkit/panduan-value-for-money", "confidence": "high" },
+    { "fact": "Common causes of stalled KPBU projects: insufficiently credible project preparation, excessive political risk, marginal financial viability, and slow PJPK-side decision-making on project scope and financial commitments. Fasilitas Penyiapan Proyek / Project Development Facility (PDF) is the Kemenkeu facility that helps PJPK produce the final prastudi kelayakan and reach financial close.", "source_hint": "https://kpbu.kemenkeu.go.id/read/1094-1255/pjpk/dukungan-pemerintah/fasilitas-penyiapan-proyek", "confidence": "high" },
+    { "fact": "KPBU skala kecil: Permen PPN 7/2023 sets no single cross-sector investment ceiling because thresholds differ per sector; a sector-specific illustration cited for air minum is an investment value around Rp 49 miliar with a maximum 10-year term and simple scope.", "source_hint": "https://www.ahlikpbuindonesia.or.id/berita-dan-kegiatan/mengenal-kpbu-skala-kecil-small-scale-ppp/", "confidence": "LOW — secondary practitioner blog only. Do NOT publish the Rp 49 miliar figure unless confirmed in a primary sector regulation. Safe fallback: state that no single cross-sector threshold exists." }
+  ],
+
+  "lsi_terms": [
+    "Kerja Sama Pemerintah dengan Badan Usaha",
+    "Public Private Partnership (PPP)",
+    "PJPK (Penanggung Jawab Proyek Kerja Sama)",
+    "Perpres 38/2015",
+    "Permen PPN/Bappenas 7/2023",
+    "prastudi kelayakan",
+    "studi pendahuluan",
+    "Daftar Rencana KPBU",
+    "tahap perencanaan",
+    "tahap penyiapan",
+    "tahap transaksi",
+    "prakualifikasi",
+    "financial close",
+    "badan usaha pelaksana",
+    "alokasi risiko",
+    "Value for Money (VfM)",
+    "Availability Payment",
+    "user charge",
+    "Viability Gap Fund / Dukungan Kelayakan",
+    "Fasilitas Penyiapan Proyek (PDF)",
+    "Simpul KPBU",
+    "Kantor Bersama KPBU",
+    "penjaminan pemerintah",
+    "bankability",
+    "kewajiban kontinjensi",
+    "KPBU skala kecil",
+    "pengadaan konvensional APBN",
+    "infrastruktur untuk kepentingan umum"
+  ],
+
+  "gaps_to_exploit": [
+    "REGULATORY FRESHNESS (biggest gap): virtually every ranking page anchors on Perpres 38/2015 alone and describes the process using the superseded Permen PPN 4/2015 or 2/2020 structure. Permen PPN/Bappenas 7/2023 — which revoked both, cut prastudi kelayakan from 8 kajian to 5, added KPBU skala kecil, and tightened financial-close extensions — has almost no clear, decision-useful explainer in the SERP. Only ahlikpbuindonesia.or.id (low authority) touches it.",
+    "DECISION THRESHOLDS: nobody in the top 10 answers 'should my project actually use KPBU?'. Kemenkeu's VfM pages are guideline-shaped, not decision-shaped. A genuine 'kapan KPBU BELUM tepat' section is unclaimed territory and is exactly the honest/counter-conventional trust-builder the style guide wants.",
+    "RISK ALLOCATION IN TABLE FORM: no ranking page presents a practitioner-usable 'who bears what' matrix. PT PII publishes the Buku Acuan Alokasi Risiko under a PMK mandate — a first-party authority asset no competitor can replicate.",
+    "STALE DATA ON THE HUB ITSELF: client hub still cites RPJMN 2020-2024. Supporting articles carrying RPJMN 2025-2029 figures refresh the cluster and give the hub current-cycle relevance.",
+    "FORMAT: the top 5 are portals and PDFs. Continuous, well-structured, extractable prose with tables and a real FAQ beats them on GEO/AI-Overview citation even where it cannot beat them on domain authority."
+  ],
+
+  "cross_cluster_boundary": {
+    "this_cluster_owns": "The KPBU SCHEME — lifecycle and stage gates, institutional roles (PJPK, Simpul KPBU, badan usaha pelaksana), procurement/transaction mechanics, contractual risk allocation between PJPK and badan usaha, and the decision of when KPBU beats plain APBN procurement.",
+    "jaminan_pemerintah_cluster_owns": "The GUARANTEE INSTRUMENT mechanics — what is and is not covered, the three guarantee stages (pra-konstruksi, konstruksi, operasi), hak regress, and the ring-fencing of APBN contingent liabilities.",
+    "enforcement": "None of the three KPBU briefs may make guarantee mechanics its spine. Penjaminan appears only as a passing reference and in the single closing CTA anchor (Penjaminan Pemerintah). Brief 03 is the highest-risk one: it must stay on CONTRACTUAL allocation between the parties, never drift into what the guarantee instrument covers."
+  },
+
+  "history_snapshot": {
+    "existing_articles_for_keyword": [],
+    "history_state": "articles_history/index.json articles array is EMPTY. This is the first run for PT PII; no cross-month dedup is possible. Dedup was therefore enforced strictly WITHIN this batch of 3.",
+    "uncovered_angles_left_for_future_months": [
+      "Availability Payment vs User Charge — a full comparison of investment-return schemes",
+      "Peran PJPK secara mendalam: siapa yang bisa menjadi PJPK, tugas Simpul KPBU, kesalahan kelembagaan yang umum",
+      "Dokumen kunci tahap penyiapan: isi 5 kajian prastudi kelayakan satu per satu",
+      "KPBU sektoral: mengapa sektor tertentu (air minum, persampahan, sosial) lebih sulit dibanding jalan tol",
+      "Studi kasus tahap transaksi: dari prakualifikasi sampai financial close",
+      "KPBU skala kecil untuk pemda (note: coordinate with the Pembiayaan Kreatif cluster to avoid overlap)",
+      "Berapa lama proyek KPBU dan di mana proses paling sering tersendat (troubleshooting-led)"
+    ]
+  },
+
+  "briefs_derived": [
+    { "brief_id": "kpbu-01", "angle": "tahapan-kpbu-aturan-terkini-2023", "angle_hash": "f1ed4937b4e383efae486442fbc03d485636cc5b", "intent": "informational/how-to" },
+    { "brief_id": "kpbu-02", "angle": "kpbu-vs-apbn-value-for-money-decision", "angle_hash": "eda749ba234e04ed9feda359ef53729a48a816c1", "intent": "comparison/decision" },
+    { "brief_id": "kpbu-03", "angle": "alokasi-risiko-kpbu-siapa-menanggung-apa", "angle_hash": "34e7841efec812c5ef2578b772b5defd2d16687f", "intent": "informational/practical-diagnostic" }
+  ],
+  "pairwise_subtopic_jaccard": { "01_vs_02": 0.0, "01_vs_03": 0.0, "02_vs_03": 0.0 }
+}

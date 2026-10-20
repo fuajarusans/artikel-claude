@@ -1,0 +1,81 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-07\\final\\etl-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-06T19:30:02+07:00",
+    "word_count":  934,
+    "paragraph_count":  17,
+    "sentence_count":  57,
+    "ai_detector":  {
+                        "score":  0.08,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.332,
+                        "sentence_burstiness":  0.567,
+                        "top30_vocab_share":  0.356,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.332 (target \u003e=0.45)",
+                                          "line":  -1
+                                      },
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 35.6% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "## Peran ETL dalam Data Warehouse dan Business Intelligence Rantai analitik perusahaan berjalan satu arah: sistem sumber, pipeline ETL, data warehouse, lalu dashboard [Business Intelligence](https://www.soltius.co.id/id/blog/business-intelligence) (BI).",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"## Peran ETL dalam Data Warehouse dan Business Intelligence Rantai analitik perusahaan berjalan satu arah: sistem sumber\""
+                                  },
+                                  {
+                                      "passage":  "| Tabel penjualan siap analisis diperbarui tiap malam dan dibaca dashboard keesokan paginya.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"| Tabel penjualan siap analisis diperbarui tiap malam dan dibaca dashboard keesokan paginya.\""
+                                  },
+                                  {
+                                      "passage":  "Transform** | Data dibersihkan (duplikat dibuang, error dipetakan ke format target), formatnya diseragamkan (tanggal, mata uang, kode produk), lalu digabung dan diagregasi sesuai kebutuhan analisis.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Transform** | Data dibersihkan (duplikat dibuang, error dipetakan ke format target), formatnya diseragamkan (tanggal, ma\""
+                                  },
+                                  {
+                                      "passage":  "Pada kategori terakhir, SAP Datasphere menyediakan 3 jenis flow (data flow, replication flow, transformation flow) sehingga pola ETL dan ELT dapat berjalan di satu platform yang sama.",
+                                      "candidate_score":  11,
+                                      "web_search_query":  "\"Pada kategori terakhir, SAP Datasphere menyediakan 3 jenis flow (data flow, replication flow, transformation flow) sehin\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apa contoh proses ETL di perusahaan?",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apa contoh proses ETL di perusahaan?\""
+                                  },
+                                  {
+                                      "passage":  "Pagi harinya manajemen membaca satu angka penjualan konsolidasi, bukan rekap manual per cabang.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Pagi harinya manajemen membaca satu angka penjualan konsolidasi, bukan rekap manual per cabang.\""
+                                  },
+                                  {
+                                      "passage":  "| Tahap | Apa yang terjadi | Contoh di perusahaan | |---|---|---| | **1.",
+                                      "candidate_score":  9,
+                                      "web_search_query":  "\"| Tahap | Apa yang terjadi | Contoh di perusahaan | |---|---|---| | **1.\""
+                                  },
+                                  {
+                                      "passage":  "Untuk mendiskusikan rancangan pipeline ETL dan kesiapan SAP Datasphere di perusahaan Anda, kunjungi soltius.co.id.",
+                                      "candidate_score":  8,
+                                      "web_search_query":  "\"Untuk mendiskusikan rancangan pipeline ETL dan kesiapan SAP Datasphere di perusahaan Anda, kunjungi soltius.co.id.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

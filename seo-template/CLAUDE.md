@@ -17,7 +17,7 @@ Operations manual for the agent system that produces **<LANGUAGE>** SEO articles
 | Language | **<LANGUAGE>** |
 | Output formats | `.md` (canonical) + `.docx` (review-ready, via pandoc) |
 | Images | <brief-only (design team executes) | generate via FLUX/OpenAI> |
-| Approval model | Autonomous with review — curator commits only editor `approve` AND validator `pass`; rest stays in `final/`. |
+| Approval model | Autonomous with review — curator commits only articles with editor `recommendation: approve`; rest stays in `final/`. |
 | Audience | <decision-makers / personas> |
 | Working directory | `<path to this client folder>` |
 
@@ -31,19 +31,23 @@ Keywords are defined per month in `monthly_runs/<YYYY-MM>/keywords.md` (copy `mo
 ---
 
 ## 3. Agent roster
+**Slim 5-agent pipeline.**
+
 | # | Agent | Model | Role |
 |---|---|---|---|
 | 1 | `seo-keyword-strategist` | opus | N deduped concepts per keyword |
 | 2 | `sme-researcher` | sonnet | Fact-rich dossier per concept |
 | 3 | `seo-article-writer-<lang>` | opus | Full draft |
-| 4 | `image-planner` | sonnet | Image brief (`images.json`) — no generation by default |
-| 5 | `seo-editor` | opus | Editorial QC; binding `recommendation` |
-| 6 | `seo-quality-validator` | sonnet | Plagiarism + AI-detector; `verdict` |
-| 7 | `article-history-curator` | haiku | Commits `approve`+`pass`; builds `.docx` |
+| 4 | `seo-editor` | opus | Editorial QC **+ plagiarism/AI-detector scan**, fixes in-place; binding `recommendation` = the **single commit gate** |
+| 5 | `article-history-curator` | haiku | Commits `approve`; builds `.docx` |
 
-> Agents 2 and 4 ship generic (`sme-researcher` / `image-planner`) — optionally prefix with the niche per client, e.g. `energy-sme-researcher`.
+> Agent 2 ships generic (`sme-researcher`) — prefix it with the niche per client, e.g. `energy-sme-researcher`, `infra-finance-sme-researcher`.
 
-> **Customize per client:** the researcher + image-planner are niche-named (`<niche>-*`) — rename + retarget their domain expertise. The writer/strategist/editor reference the client's benchmarks + priorities — update those.
+> **Customize per client:** the researcher is niche-named (`<niche>-*`) — rename + retarget its domain expertise and priority sources. The writer/strategist/editor reference the client's benchmarks + priorities — update those.
+
+> **Retired (do not re-add without a reason):** `image-planner` — the writer's `{IMAGE_NN}` concept IS the design brief, so a separate planner and `images.json` added a stage without adding information. `seo-quality-validator` — its plagiarism + AI-detector scan now runs inside the editor's pass, which removes a whole stage and the revise-loop while keeping the gate.
+
+> **A second writer** (`seo-article-writer-en`) can be added when a client needs per-keyword language routing — see `seo-ptpii` for a worked example.
 
 ---
 
@@ -58,13 +62,13 @@ Keywords are defined per month in `monthly_runs/<YYYY-MM>/keywords.md` (copy `mo
 ---
 
 ## 5. Locked decisions (fill per client)
-- **Language**: <LANGUAGE>.
-- **Length**: <e.g. 1,500–1,800 words (~1,650 target)>.
-- **Images**: <brief-only | generate>.
+- **Language**: <LANGUAGE>. (For per-keyword language routing, add `seo-article-writer-en` and a `language` field in `keywords.md` — see `seo-ptpii`.)
+- **Length**: <LENGTH_BAND>, overridable per keyword via the `length` field in `keywords.md`. The orchestrator re-counts every draft with `tools/count_words.py` and trims out-of-band drafts before the editor.
+- **Images**: <brief-only placeholders | none at all>. Brief-only = the writer's `{IMAGE_NN}` concept IS the design brief (no planner agent, no `images.json`). None = strip `{IMAGE_NN}` from the writer, editor, style guide §12, and the playbook checklist.
 - **Voice**: human, expert, honest-hedging, decision-useful. Benchmarks = <paths>.
 - **Internal links**: 3 per article as natural inline anchors (hub in lead + 2 cousins from the month's set); no "BACA JUGA" callouts.
 - **Structure**: definition snippet near top, GEO 40–60-word answer after each H2, FAQ block, `## Kesimpulan` section, soft website CTA as the final line.
-- **Quality gate**: plagiarism + AI-detector pass mandatory before commit.
+- **Quality gate**: the plagiarism + AI-detector scan runs inside the editor's pass (mandatory before commit). The editor fixes what it can in-place and issues one binding `recommendation`; the curator commits only `approve`. No separate validator agent, no revise-loop.
 
 ---
 

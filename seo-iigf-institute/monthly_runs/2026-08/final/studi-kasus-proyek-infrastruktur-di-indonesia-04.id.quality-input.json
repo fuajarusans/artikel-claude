@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-iigf-institute\\monthly_runs\\2026-08\\final\\studi-kasus-proyek-infrastruktur-di-indonesia-04.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-12T15:39:08+07:00",
+    "word_count":  1611,
+    "paragraph_count":  17,
+    "sentence_count":  81,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.462,
+                        "sentence_burstiness":  0.896,
+                        "top30_vocab_share":  0.291,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Halaman proyek [Simpul KPBU Kementerian PU](https://simpulkpbu.pu.go.id/proyek/psel-regional-legok-nangka-4-6) masih mencatat indikasi investasi Rp 4,20 triliun, kapasitas 1.836 ton sampah per hari, dan listrik 15 MW (diakses Agustus 2026).",
+                                      "candidate_score":  34,
+                                      "web_search_query":  "\"Halaman proyek [Simpul KPBU Kementerian PU](https://simpulkpbu.pu.go.id/proyek/psel-regional-legok-nangka-4-6) masih men\""
+                                  },
+                                  {
+                                      "passage":  "Pada SPAM (Sistem Penyediaan Air Minum) Semarang Barat, PJPK-nya Direktur Utama PDAM Tirta Moedal Kota Semarang, karena aset dan layanannya berada di bawah BUMD.",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"Pada SPAM (Sistem Penyediaan Air Minum) Semarang Barat, PJPK-nya Direktur Utama PDAM Tirta Moedal Kota Semarang, karena \""
+                                  },
+                                  {
+                                      "passage":  "Pada *groundbreaking* 29 Juli 2026, pemberitaan nasional melaporkan Rp 7,2 triliun (sekitar USD 400 juta), 2.131 ton per hari, dan 40,79 MW, dengan target operasi 2029.",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"Pada *groundbreaking* 29 Juli 2026, pemberitaan nasional melaporkan Rp 7,2 triliun (sekitar USD 400 juta), 2.131 ton per\""
+                                  },
+                                  {
+                                      "passage":  "**Perguruan tinggi setempat.** Jejaring UNIID/JPII (Jaringan Perguruan Tinggi untuk Pembangunan Infrastruktur Indonesia) yang difasilitasi PT PII (33–35 universitas, per publikasi 2026) menyediakan mitra kajian yang paham konteks lokal.",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"**Perguruan tinggi setempat.** Jejaring UNIID/JPII (Jaringan Perguruan Tinggi untuk Pembangunan Infrastruktur Indonesia)\""
+                                  },
+                                  {
+                                      "passage":  "KPBU (*Kerja Sama Pemerintah dengan Badan Usaha*) daerah memakai payung hukum yang sama dengan proyek nasional, yaitu Peraturan Presiden Nomor 38 Tahun 2015.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"KPBU (*Kerja Sama Pemerintah dengan Badan Usaha*) daerah memakai payung hukum yang sama dengan proyek nasional, yaitu Pe\""
+                                  },
+                                  {
+                                      "passage":  "Dasar hukumnya sama dengan KPBU nasional, yaitu Perpres 38/2015, tetapi sumber pembayarannya umumnya APBD sehingga kewajibannya terbentang lintas tahun anggaran.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Dasar hukumnya sama dengan KPBU nasional, yaitu Perpres 38/2015, tetapi sumber pembayarannya umumnya APBD sehingga kewaj\""
+                                  },
+                                  {
+                                      "passage":  "Syaratnya antara lain nilai investasi minimal Rp 100 miliar dan lelang terbuka (Kementerian Keuangan, 2026).",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Syaratnya antara lain nilai investasi minimal Rp 100 miliar dan lelang terbuka (Kementerian Keuangan, 2026).\""
+                                  },
+                                  {
+                                      "passage":  "- **Ruang fiskal APBD lintas tahun anggaran.** Proyeksi APBD harus menampung kewajiban tahunan tanpa mendesak belanja wajib.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"- **Ruang fiskal APBD lintas tahun anggaran.** Proyeksi APBD harus menampung kewajiban tahunan tanpa mendesak belanja wa\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

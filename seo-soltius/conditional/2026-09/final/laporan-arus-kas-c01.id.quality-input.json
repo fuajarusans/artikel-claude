@@ -1,0 +1,81 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-09\\final\\laporan-arus-kas-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-01T08:19:34+07:00",
+    "word_count":  1115,
+    "paragraph_count":  19,
+    "sentence_count":  45,
+    "ai_detector":  {
+                        "score":  0.08,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.339,
+                        "sentence_burstiness":  1.241,
+                        "top30_vocab_share":  0.392,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.339 (target \u003e=0.45)",
+                                          "line":  -1
+                                      },
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 39.2% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Standarnya kini bernomor PSAK 207 Laporan Arus Kas, penomoran ulang dari PSAK 2 yang disahkan 12 Desember 2022 dan berlaku efektif 1 Januari 2024 ([Ikatan Akuntan Indonesia](https://web.iaiglobal.or.id/PSAK-Umum/8)).",
+                                      "candidate_score":  39,
+                                      "web_search_query":  "\"Standarnya kini bernomor PSAK 207 Laporan Arus Kas, penomoran ulang dari PSAK 2 yang disahkan 12 Desember 2022 dan berla\""
+                                  },
+                                  {
+                                      "passage":  "# Laporan Arus Kas: Pengertian, Metode Langsung \u0026 Tidak Langsung Laba di laporan tercatat naik, tetapi saldo rekening perusahaan justru makin seret.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"# Laporan Arus Kas: Pengertian, Metode Langsung \u0026 Tidak Langsung Laba di laporan tercatat naik, tetapi saldo rekening pe\""
+                                  },
+                                  {
+                                      "passage":  "## Laporan Arus Kas di Dalam Sistem: Kas Nyata dari Data Ledger Di sistem ERP, laporan arus kas tidak disusun ulang manual tiap bulan.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## Laporan Arus Kas di Dalam Sistem: Kas Nyata dari Data Ledger Di sistem ERP, laporan arus kas tidak disusun ulang manu\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai SAP Platinum Partner melalui United VARs dan berpengalaman sejak 1998, Soltius mengimplementasikan dan mendampingi SAP S/4HANA Finance, termasuk menata pelaporan keuangan di atasnya.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Sebagai SAP Platinum Partner melalui United VARs dan berpengalaman sejak 1998, Soltius mengimplementasikan dan mendampin\""
+                                  },
+                                  {
+                                      "passage":  "## Contoh Laporan Arus Kas: Dua Metode, Satu Hasil Cara termudah memahami arus kas operasi adalah melihat kedua metode berujung pada angka sama dari data yang sama.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Contoh Laporan Arus Kas: Dua Metode, Satu Hasil Cara termudah memahami arus kas operasi adalah melihat kedua metode b\""
+                                  },
+                                  {
+                                      "passage":  "| | **Pendanaan** | tarik pinjaman, setoran modal | bayar dividen, cicil pokok utang | Dari mana pendanaan datang?",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"| | **Pendanaan** | tarik pinjaman, setoran modal | bayar dividen, cicil pokok utang | Dari mana pendanaan datang?\""
+                                  },
+                                  {
+                                      "passage":  "Menurut [dokumentasi SAP](https://learning.sap.com/courses/financial-statement-reporting/creating-the-cash-flow-statement-indirect-method_bf92692d-7d4d-47d4-93a0-47641afc4485), rumus dasarnya tetap sama: arus kas = operasi + investasi + pendanaan.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Menurut [dokumentasi SAP](https://learning.sap.com/courses/financial-statement-reporting/creating-the-cash-flow-statemen\""
+                                  },
+                                  {
+                                      "passage":  "Membacanya berdampingan dengan laba rugi mencegah salah baca \"untung tapi kas seret\".",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Membacanya berdampingan dengan laba rugi mencegah salah baca  untung tapi kas seret .\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

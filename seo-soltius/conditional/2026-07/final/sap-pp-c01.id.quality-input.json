@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-07\\final\\sap-pp-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-06T19:27:59+07:00",
+    "word_count":  989,
+    "paragraph_count":  19,
+    "sentence_count":  61,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.367,
+                        "sentence_burstiness":  0.712,
+                        "top30_vocab_share":  0.309,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.367 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Industri pengolahan adalah sektor terbesar perekonomian nasional: menyumbang 19,07% terhadap PDB 2025 dan tumbuh 5,30%, menurut data BPS yang dikutip [Kemenperin](https://sippa.kemenperin.go.id/news/post/2026/02/20/37/industri-pengolahan-mendominasi-kinerja-ekonomi-nasional) (Februari 2026).",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Industri pengolahan adalah sektor terbesar perekonomian nasional: menyumbang 19,07% terhadap PDB 2025 dan tumbuh 5,30%, \""
+                                  },
+                                  {
+                                      "passage":  "**MRP (Material Requirements Planning).** Menurunkan rencana produksi menjadi kebutuhan komponen beserta jadwal pengadaannya.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"**MRP (Material Requirements Planning).** Menurunkan rencana produksi menjadi kebutuhan komponen beserta jadwal pengadaa\""
+                                  },
+                                  {
+                                      "passage":  "PP mencakup siklus perencanaan-eksekusi penuh, dari demand management hingga konfirmasi produksi; MRP salah satu mesinnya.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"PP mencakup siklus perencanaan-eksekusi penuh, dari demand management hingga konfirmasi produksi; MRP salah satu mesinny\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apa perbedaan SAP PP dan MRP?",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apa perbedaan SAP PP dan MRP?\""
+                                  },
+                                  {
+                                      "passage":  "Material master memuat data dasar tiap material, sedangkan BOM mendaftar komponen penyusun produk.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Material master memuat data dasar tiap material, sedangkan BOM mendaftar komponen penyusun produk.\""
+                                  },
+                                  {
+                                      "passage":  "SAP PP/DS menambahkan penjadwalan kapasitas terbatas (finite) hingga level jam, sudah tertanam di SAP S/4HANA, dan diaktifkan melalui konfigurasi tanpa instalasi sistem terpisah.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"SAP PP/DS menambahkan penjadwalan kapasitas terbatas (finite) hingga level jam, sudah tertanam di SAP S/4HANA, dan diakt\""
+                                  },
+                                  {
+                                      "passage":  "Satu konfirmasi produksi otomatis memperbarui stok dan biaya produksi tanpa input ulang.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Satu konfirmasi produksi otomatis memperbarui stok dan biaya produksi tanpa input ulang.\""
+                                  },
+                                  {
+                                      "passage":  "*Work center* (stasiun kerja) adalah lokasi operasi sekaligus pemilik kapasitas; *routing* merekam urutan operasi berikut waktu standarnya.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"*Work center* (stasiun kerja) adalah lokasi operasi sekaligus pemilik kapasitas; *routing* merekam urutan operasi beriku\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

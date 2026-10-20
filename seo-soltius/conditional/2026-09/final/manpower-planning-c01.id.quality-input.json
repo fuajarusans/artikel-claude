@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-09\\final\\manpower-planning-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-01T08:18:22+07:00",
+    "word_count":  879,
+    "paragraph_count":  15,
+    "sentence_count":  50,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.347,
+                        "sentence_burstiness":  0.489,
+                        "top30_vocab_share":  0.323,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.347 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "## Cara Menyusun Manpower Planning: 4 Langkah Utama Penyusunan bergerak dalam satu alur logis: perkirakan kebutuhan (*demand*), petakan pasokan (*supply*), hitung kesenjangan (*gap*), lalu susun rencana aksi.",
+                                      "candidate_score":  27,
+                                      "web_search_query":  "\"## Cara Menyusun Manpower Planning: 4 Langkah Utama Penyusunan bergerak dalam satu alur logis: perkirakan kebutuhan (*de\""
+                                  },
+                                  {
+                                      "passage":  "Padahal tekanannya nyata: World Economic Forum dalam [Future of Jobs Report 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/) mencatat 63% pemberi kerja menyebut kesenjangan keterampilan sebagai penghalang terbesar transformasi bisnis hingga 2030.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Padahal tekanannya nyata: World Economic Forum dalam [Future of Jobs Report 2025](https://www.weforum.org/publications/t\""
+                                  },
+                                  {
+                                      "passage":  "Menurut Gartner, hanya sekitar 15% CHRO melaporkan organisasinya benar-benar menjalankan *strategic workforce planning* (perencanaan tenaga kerja strategis), dan cuma 29% yang percaya diri mampu mencapai tujuannya.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Menurut Gartner, hanya sekitar 15% CHRO melaporkan organisasinya benar-benar menjalankan *strategic workforce planning* \""
+                                  },
+                                  {
+                                      "passage":  "| Langkah | Fokus | Cara / output | |---|---|---| | 1.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"| Langkah | Fokus | Cara / output | |---|---|---| | 1.\""
+                                  },
+                                  {
+                                      "passage":  "Meski manfaatnya jelas, Gartner mencatat hanya sekitar 15% CHRO melaporkan organisasinya menjalankan perencanaan tenaga kerja secara strategis.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"Meski manfaatnya jelas, Gartner mencatat hanya sekitar 15% CHRO melaporkan organisasinya menjalankan perencanaan tenaga \""
+                                  },
+                                  {
+                                      "passage":  "Horizonnya pun berbeda: perencanaan operasional biasanya satu tahun, sedangkan perencanaan strategis mencakup 3 sampai 5 tahun.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Horizonnya pun berbeda: perencanaan operasional biasanya satu tahun, sedangkan perencanaan strategis mencakup 3 sampai 5\""
+                                  },
+                                  {
+                                      "passage":  "# Apa Itu Manpower Planning dan Cara Menyusunnya Pimpinan bertanya kepada direktur SDM: tahun depan butuh berapa orang, dengan keahlian apa, dan berapa biayanya?",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"# Apa Itu Manpower Planning dan Cara Menyusunnya Pimpinan bertanya kepada direktur SDM: tahun depan butuh berapa orang, \""
+                                  },
+                                  {
+                                      "passage":  "*Gap analysis* | Selisih kebutuhan dan pasokan | **Gap = demand − supply**: kurang → rekrut/latih/outsource; lebih → redeploy/retraining | | 4.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"*Gap analysis* | Selisih kebutuhan dan pasokan | **Gap = demand − supply**: kurang → rekrut/latih/outsource; lebih → red\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

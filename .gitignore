@@ -1,0 +1,3 @@
+# Vendored pandoc binaries — each ~220MB, exceed GitHub's 100MB file limit.
+# Reinstall locally from https://pandoc.org/installing.html if needed.
+**/tools/pandoc/

@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-07\\final\\sap-s4hana-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-06T19:24:29+07:00",
+    "word_count":  985,
+    "paragraph_count":  17,
+    "sentence_count":  47,
+    "ai_detector":  {
+                        "score":  0.15,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.298,
+                        "sentence_burstiness":  1.066,
+                        "top30_vocab_share":  0.323,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-uniformity",
+                                          "severity":  "high",
+                                          "snippet":  "Paragraph word-count CV=0.298 (target \u003e=0.45; \u003c0.30 is strong AI tell)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "## Kesimpulan Keunggulan SAP S/4HANA bukan daftar fitur lepas; in-memory, Fiori, analitik tertanam, hingga Joule lahir dari satu keputusan arsitektur yang sama.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## Kesimpulan Keunggulan SAP S/4HANA bukan daftar fitur lepas; in-memory, Fiori, analitik tertanam, hingga Joule lahir d\""
+                                  },
+                                  {
+                                      "passage":  "Mainstream maintenance ECC berakhir akhir 2027, dengan opsi extended maintenance berbayar hingga akhir 2030.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Mainstream maintenance ECC berakhir akhir 2027, dengan opsi extended maintenance berbayar hingga akhir 2030.\""
+                                  },
+                                  {
+                                      "passage":  "SAP S/4HANA tersedia dalam tiga opsi deployment: on-premise, SAP S/4HANA Cloud Private Edition, dan SAP S/4HANA Cloud Public Edition.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"SAP S/4HANA tersedia dalam tiga opsi deployment: on-premise, SAP S/4HANA Cloud Private Edition, dan SAP S/4HANA Cloud Pu\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai SAP Platinum Partner melalui United VARs, Soltius mengimplementasikan, memigrasikan, dan mendukung SAP S/4HANA untuk perusahaan Indonesia, dari strategi hingga dukungan pasca *go-live*.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Sebagai SAP Platinum Partner melalui United VARs, Soltius mengimplementasikan, memigrasikan, dan mendukung SAP S/4HANA u\""
+                                  },
+                                  {
+                                      "passage":  "**Analitik tertanam (*embedded analytics*).** Laporan operasional berjalan langsung di atas data transaksi *live*, tanpa replikasi ke sistem BI (*Business Intelligence*) terpisah.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"**Analitik tertanam (*embedded analytics*).** Laporan operasional berjalan langsung di atas data transaksi *live*, tanpa\""
+                                  },
+                                  {
+                                      "passage":  "SAP S/4HANA melanjutkan lini fungsional modul SAP klasik: keuangan (*finance*), pengadaan (*procurement*), manufaktur (*production*), rantai pasok (*supply chain*), dan penjualan (*sales*).",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"SAP S/4HANA melanjutkan lini fungsional modul SAP klasik: keuangan (*finance*), pengadaan (*procurement*), manufaktur (*\""
+                                  },
+                                  {
+                                      "passage":  "**Model data yang disederhanakan.** Universal Journal menyatukan *line item* Financial Accounting (FI) dan Controlling (CO) dalam satu tabel ACDOCA; tabel agregat warisan dihapus; rekonsiliasi FI-CO tidak lagi diperlukan.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"**Model data yang disederhanakan.** Universal Journal menyatukan *line item* Financial Accounting (FI) dan Controlling (\""
+                                  },
+                                  {
+                                      "passage":  "## 5 Fitur Unggulan SAP S/4HANA Fitur unggulan S/4HANA bersumber dari arsitekturnya, bukan dari panjangnya daftar modul.",
+                                      "candidate_score":  11,
+                                      "web_search_query":  "\"## 5 Fitur Unggulan SAP S/4HANA Fitur unggulan S/4HANA bersumber dari arsitekturnya, bukan dari panjangnya daftar modul.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

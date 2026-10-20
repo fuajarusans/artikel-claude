@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ringkasan Review — Artikel Conditional Agustus 2026 (SOLTIUS)</title>
+<style>
+  :root{
+    --bg:#f4f6fb; --card:#ffffff; --ink:#0f1e3d; --muted:#5b6b8c; --line:#e2e8f4;
+    --brand:#0a4bce; --brand-ink:#083a9e; --ok:#12855a; --ok-bg:#e6f6ef;
+    --warn:#b7791f; --warn-bg:#fdf4e3; --hot:#c2410c; --hot-bg:#fdece2;
+    --pill:#eef2fb; --shadow:0 1px 3px rgba(15,30,61,.08),0 8px 24px rgba(15,30,61,.05);
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    line-height:1.55;-webkit-font-smoothing:antialiased}
+  a{color:var(--brand);text-decoration:none}
+  a:hover{text-decoration:underline}
+  .wrap{max-width:1100px;margin:0 auto;padding:0 20px 64px}
+
+  header{background:linear-gradient(135deg,#0a4bce 0%,#0b3aa0 100%);color:#fff;
+    padding:38px 0 30px;margin-bottom:28px;box-shadow:var(--shadow)}
+  header .wrap{padding-bottom:0}
+  .eyebrow{font-size:12px;letter-spacing:.14em;text-transform:uppercase;opacity:.82;margin:0 0 8px}
+  header h1{margin:0 0 6px;font-size:27px;line-height:1.25;font-weight:700}
+  header p{margin:0;opacity:.9;font-size:15px}
+
+  .stats{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:22px 0 4px}
+  .stat{background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.18);
+    border-radius:12px;padding:14px 16px}
+  .stat b{display:block;font-size:24px;line-height:1.1}
+  .stat span{font-size:12px;opacity:.85}
+
+  .note{background:#fff;border:1px solid var(--line);border-left:4px solid var(--brand);
+    border-radius:10px;padding:14px 18px;margin:0 0 26px;font-size:14px;color:var(--muted);box-shadow:var(--shadow)}
+  .note b{color:var(--ink)}
+
+  h2.section{font-size:16px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);
+    margin:34px 0 14px;font-weight:700}
+
+  .tablecard{background:var(--card);border:1px solid var(--line);border-radius:14px;
+    overflow:hidden;box-shadow:var(--shadow)}
+  .scroll{overflow-x:auto}
+  table{border-collapse:collapse;width:100%;min-width:720px;font-size:14px}
+  thead th{background:#f7f9fe;text-align:left;padding:12px 14px;font-size:11px;
+    letter-spacing:.05em;text-transform:uppercase;color:var(--muted);border-bottom:1px solid var(--line);white-space:nowrap}
+  tbody td{padding:12px 14px;border-bottom:1px solid var(--line);vertical-align:middle}
+  tbody tr:last-child td{border-bottom:0}
+  tbody tr:hover{background:#fafbff}
+  td.num{color:var(--muted);font-variant-numeric:tabular-nums;text-align:center;width:34px}
+  td.ttl a{font-weight:600}
+  td.kw{color:var(--muted);font-size:13px}
+  .center{text-align:center}
+  .tnum{font-variant-numeric:tabular-nums}
+
+  .pill{display:inline-block;padding:2px 9px;border-radius:999px;font-size:12px;font-weight:600;white-space:nowrap}
+  .pill.ok{background:var(--ok-bg);color:var(--ok)}
+  .pill.rw{background:#e8eefc;color:var(--brand-ink)}
+  .pill.new{background:var(--pill);color:var(--muted)}
+  .dot{font-variant-numeric:tabular-nums;font-weight:600;padding:2px 8px;border-radius:6px}
+  .dot.g{background:var(--ok-bg);color:var(--ok)}
+  .dot.a{background:var(--warn-bg);color:var(--warn)}
+  .dot.o{background:var(--hot-bg);color:var(--hot)}
+
+  .cards{display:grid;grid-template-columns:repeat(2,1fr);gap:16px;margin-top:6px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;
+    padding:18px 18px 16px;box-shadow:var(--shadow);display:flex;flex-direction:column}
+  .card .top{display:flex;align-items:flex-start;gap:10px;margin-bottom:8px}
+  .card .idx{flex:0 0 auto;width:26px;height:26px;border-radius:8px;background:var(--brand);color:#fff;
+    font-size:13px;font-weight:700;display:flex;align-items:center;justify-content:center;margin-top:2px}
+  .card h3{margin:0;font-size:15.5px;line-height:1.35;font-weight:650}
+  .card .kw{margin:2px 0 0;font-size:12.5px;color:var(--muted)}
+  .card .desc{font-size:13.5px;color:#3d4a66;margin:6px 0 12px;flex:1}
+  .meta{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px}
+  .chip{font-size:11.5px;color:var(--muted);background:#f4f7fd;border:1px solid var(--line);
+    border-radius:7px;padding:2px 8px}
+  .chip b{color:var(--ink);font-weight:650}
+  .files{display:flex;flex-wrap:wrap;gap:8px;border-top:1px dashed var(--line);padding-top:11px}
+  .files a{font-size:12.5px;font-weight:600;padding:5px 11px;border-radius:8px;
+    background:var(--pill);color:var(--brand-ink);display:inline-flex;align-items:center;gap:5px}
+  .files a.secondary{background:#f4f6fb;color:var(--muted);font-weight:500}
+  .files a:hover{background:#e4ebfb;text-decoration:none}
+
+  .legend{display:flex;flex-wrap:wrap;gap:18px;font-size:13px;color:var(--muted);margin:14px 2px 0}
+  .legend b{color:var(--ink)}
+
+  footer{margin-top:38px;background:#fff;border:1px solid var(--line);border-radius:14px;
+    padding:22px 24px;box-shadow:var(--shadow)}
+  footer h3{margin:0 0 12px;font-size:16px}
+  footer ol{margin:0;padding-left:20px;color:#3d4a66;font-size:14px}
+  footer li{margin:6px 0}
+  footer code{background:#f2f5fb;border:1px solid var(--line);border-radius:5px;padding:1px 6px;font-size:12.5px}
+
+  @media(max-width:760px){
+    .stats{grid-template-columns:repeat(2,1fr)}
+    .cards{grid-template-columns:1fr}
+    header h1{font-size:22px}
+  }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <p class="eyebrow">WEBARQ Promote · SOLTIUS · Batch Conditional</p>
+    <h1>Ringkasan Review — 14 Artikel SEO Agustus 2026</h1>
+    <p>Format ringkas 800–1000 kata · on-point, definisi tunggal, tanpa image placeholder · siap direview sebelum commit ke history.</p>
+    <div class="stats">
+      <div class="stat"><b>14</b><span>artikel selesai</span></div>
+      <div class="stat"><b>14/14</b><span>editor approve · validator pass</span></div>
+      <div class="stat"><b>948–996</b><span>rentang jumlah kata</span></div>
+      <div class="stat"><b>0,00</b><span>plagiarisme (median)</span></div>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+
+  <div class="note">
+    <b>Status:</b> semua artikel lolos gate kualitas (editor <span class="pill ok">approve</span> + validator <span class="pill ok">pass</span>).
+    <b>Curator belum dijalankan</b> — belum ada yang di-commit ke <code>articles_history</code>; semua menunggu persetujuan Anda.
+    No.4 (Konsep WMS) adalah <b>rewrite</b> halaman hub yang sudah ranking (URL/slug dipertahankan, tidak menabrak 4 artikel spoke WMS bulan ini).
+    No.2 (Cloud Computing) ditulis sebagai <b>pillar</b> yang menautkan ke artikel SaaS vs PaaS vs IaaS (batch Juli) agar tidak duplikat.
+  </div>
+
+  <h2 class="section">Tabel ringkas</h2>
+  <div class="tablecard"><div class="scroll">
+    <table id="tbl">
+      <thead>
+        <tr>
+          <th>#</th><th>Judul / Keyword</th><th class="center">Tipe</th>
+          <th class="center">Kata</th><th class="center">Skor AI</th><th class="center">Plagiat</th>
+          <th class="center">Editor</th><th class="center">Validator</th><th class="center">CTA</th>
+        </tr>
+      </thead>
+      <tbody id="tbody"></tbody>
+    </table>
+  </div></div>
+  <div class="legend">
+    <span><b>Skor AI</b> — ambang <i>revise</i> ≥ 0,30 · <span class="dot g">&lt;0,10</span> <span class="dot a">0,10–0,20</span> <span class="dot o">0,20–0,30</span></span>
+    <span><b>Plagiat</b> — 0 = tidak ada kecocokan verbatim di halaman non-Soltius</span>
+  </div>
+
+  <h2 class="section">Detail per artikel</h2>
+  <div class="cards" id="cards"></div>
+
+  <footer>
+    <h3>Langkah berikutnya</h3>
+    <ol>
+      <li><b>Review</b> — klik tautan <b>Word (.docx)</b> tiap kartu untuk membuka file Word final. Butuh laporan detail? Buka <b>QC</b> (catatan editor) atau <b>Quality</b> (laporan validator).</li>
+      <li><b>Revisi bila perlu</b> — sebutkan nomor artikelnya; aturan gaya batch ada di <code>style_addendum.md</code>.</li>
+      <li><b>Commit + history</b> — setelah disetujui, jalankan curator untuk mencatat ke <code>articles_history</code> (type: conditional). Versi <code>.docx</code> sudah tersedia.</li>
+    </ol>
+  </footer>
+
+</div>
+
+<script>
+const A = [
+  {n:1, id:"sku-c01", t:"SKU (Stock Keeping Unit): Pengertian, Fungsi, dan Cara Membuatnya", kw:"sku adalah", w:973, ai:0.04, pl:0.00, type:"new", cta:"SAP S/4HANA Retail", d:"SKU adalah kode unik internal untuk mengidentifikasi tiap varian produk. Pahami fungsi SKU, bedanya dengan barcode, serta aturan penomoran dan contohnya."},
+  {n:2, id:"cloud-computing-c01", t:"Apa Itu Cloud Computing dan Jenis Layanannya untuk Bisnis", kw:"cloud computing", w:977, ai:0.04, pl:0.00, type:"pillar", cta:"RISE with SAP", d:"Cloud computing diuji lewat 5 karakteristik esensial NIST. Pahami beda jenis layanan SaaS, PaaS, IaaS dan model deployment public, private, serta hybrid cloud."},
+  {n:3, id:"sap-hyperscaler-c01", t:"SAP di AWS vs Azure vs GCP: Perbandingan untuk Perusahaan Indonesia", kw:"sap di aws azure gcp", w:976, ai:0.04, pl:0.00, type:"new", cta:"SAP on AWS/Azure/GCP", d:"SAP di AWS, Azure, dan GCP: bandingkan status sertifikasi SAP, region Indonesia (Jakarta), dan cakupan layanan ketiga hyperscaler sebelum Anda memutuskan."},
+  {n:4, id:"wms-konsep-c01", t:"Konsep Warehouse Management System yang Wajib Anda Tahu", kw:"warehouse management system", w:958, ai:0.15, pl:0.00, type:"rewrite", cta:"SAP EWM / S/4HANA Supply Chain", d:"Konsep warehouse management system: enam proses inti gudang, beda WMS dengan SCM dan modul ERP, aturan FIFO, LIFO, FEFO, serta arah teknologi gudang 2026."},
+  {n:5, id:"laporan-laba-rugi-c01", t:"Laporan Laba Rugi: Komponen, Jenis, dan Cara Membacanya", kw:"laporan laba rugi", w:996, ai:0.04, pl:0.00, type:"new", cta:"SAP S/4HANA Finance", d:"Laporan laba rugi adalah ringkasan kinerja usaha satu periode. Pahami komponennya, beda single step vs multiple step, plus cara membaca margin lewat contoh."},
+  {n:6, id:"pkwt-pkwtt-c01", t:"PKWT vs PKWTT: Perbedaan, Aturan, dan Implikasinya bagi Perusahaan", kw:"pkwt dan pkwtt", w:986, ai:0.04, pl:0.00, type:"new", cta:"SAP SuccessFactors", d:"PKWT dan PKWTT berbeda pada jangka waktu, masa percobaan, dan uang kompensasi. Pahami aturan PP 35/2021, batas 5 tahun, dan kapan PKWT berubah jadi PKWTT."},
+  {n:7, id:"laporan-keberlanjutan-c01", t:"Apa Itu Laporan Keberlanjutan & Kewajiban POJK 51 bagi Perusahaan", kw:"laporan keberlanjutan", w:979, ai:0.08, pl:0.00, type:"new", cta:"SAP Sustainability", d:"Laporan keberlanjutan wajib menurut POJK 51: siapa saja yang harus menyusun, 9 komponen isi minimum, tenggat 30 April, sanksinya, dan bedanya dengan RAKB."},
+  {n:8, id:"reorder-point-c01", t:"Reorder Point (ROP): Rumus dan Contoh Perhitungannya", kw:"reorder point", w:954, ai:0.08, pl:0.00, type:"new", cta:"SAP IBP", d:"Reorder point adalah titik stok yang memicu pemesanan ulang. Pelajari rumus reorder point, contoh perhitungannya, dan bedanya dengan EOQ dan safety stock."},
+  {n:9, id:"successfactors-vs-hris-c01", t:"SAP SuccessFactors vs HRIS Lokal: Mana yang Tepat untuk Perusahaan?", kw:"successfactors vs hris lokal", w:948, ai:0.04, pl:0.00, type:"new", cta:"SAP SuccessFactors", d:"SAP SuccessFactors vs HRIS lokal: bandingkan cakupan fungsi, lokalisasi penggajian Indonesia, dan integrasi ERP sebelum memilih sistem HR perusahaan."},
+  {n:10, id:"oee-c01", t:"Apa Itu OEE (Overall Equipment Effectiveness) dan Cara Menghitungnya", kw:"oee adalah", w:985, ai:0.08, pl:0.00, type:"new", cta:"SAP Digital Manufacturing", d:"OEE adalah metrik efektivitas mesin dari tiga faktor: availability, performance, quality. Pelajari rumus OEE, contoh perhitungan satu shift, dan arti nilai 85%."},
+  {n:11, id:"ap-ar-c01", t:"Account Payable & Account Receivable: Pengertian dan Cara Mengelolanya", kw:"account payable adalah", w:995, ai:0.04, pl:0.00, type:"new", cta:"SAP S/4HANA Finance", d:"Account payable adalah utang usaha ke pemasok, account receivable adalah piutang dari pelanggan. Pahami perbedaannya, cara mengelola, dan otomasinya di ERP."},
+  {n:12, id:"inventory-turnover-c01", t:"Inventory Turnover Ratio: Rumus dan Cara Meningkatkannya", kw:"inventory turnover", w:979, ai:0.08, pl:0.00, type:"new", cta:"SAP IBP / S/4HANA", d:"Inventory turnover adalah rasio perputaran persediaan. Pelajari rumus inventory turnover berbasis HPP, contoh hitung, cara membaca, dan cara meningkatkannya."},
+  {n:13, id:"fitur-sap-b1-c01", t:"Fitur SAP Business One yang Wajib Diketahui Bisnis Mid-Market", kw:"fitur sap business one", w:978, ai:0.04, pl:0.00, type:"new", cta:"SAP Business One", d:"Peta fitur dan modul SAP Business One untuk bisnis mid-market: fungsi tiap modul, mana yang paling menentukan, dan kapan cakupannya tidak lagi cukup."},
+  {n:14, id:"olap-oltp-c01", t:"OLAP vs OLTP: Perbedaan dan Fungsinya dalam Sistem Database", kw:"olap dan oltp", w:959, ai:0.04, pl:0.00, type:"new", cta:"SAP HANA", d:"OLAP dan OLTP adalah dua tipe beban kerja database: OLTP menangani transaksi dalam milidetik, OLAP menganalisis jutaan baris. Ini perbedaan dan fungsinya."}
+];
+
+const F = "final/";
+const fmt = v => v.toFixed(2).replace(".", ",");
+const aiClass = v => v < 0.10 ? "g" : (v < 0.20 ? "a" : "o");
+const typePill = t => t === "rewrite"
+  ? '<span class="pill rw">rewrite</span>'
+  : (t === "pillar" ? '<span class="pill rw">pillar</span>' : '<span class="pill new">baru</span>');
+
+const tbody = document.getElementById("tbody");
+tbody.innerHTML = A.map(a => `
+  <tr>
+    <td class="num">${a.n}</td>
+    <td class="ttl"><a href="${F}${a.id}.id.docx">${a.t}</a><div class="kw">${a.kw}</div></td>
+    <td class="center">${typePill(a.type)}</td>
+    <td class="center tnum">${a.w}</td>
+    <td class="center"><span class="dot ${aiClass(a.ai)}">${fmt(a.ai)}</span></td>
+    <td class="center"><span class="dot ${a.pl===0?'g':'a'}">${fmt(a.pl)}</span></td>
+    <td class="center"><span class="pill ok">approve</span></td>
+    <td class="center"><span class="pill ok">pass</span></td>
+    <td class="center kw">${a.cta}</td>
+  </tr>`).join("");
+
+const cards = document.getElementById("cards");
+cards.innerHTML = A.map(a => `
+  <div class="card">
+    <div class="top">
+      <div class="idx">${a.n}</div>
+      <div>
+        <h3>${a.t}</h3>
+        <p class="kw">Keyword: <b>${a.kw}</b></p>
+      </div>
+    </div>
+    <p class="desc">${a.d}</p>
+    <div class="meta">
+      <span class="chip"><b>${a.w}</b> kata</span>
+      <span class="chip">Skor AI <b>${fmt(a.ai)}</b></span>
+      <span class="chip">Plagiat <b>${fmt(a.pl)}</b></span>
+      <span class="chip">CTA <b>${a.cta}</b></span>
+      ${typePill(a.type)}
+    </div>
+    <div class="files">
+      <a href="${F}${a.id}.id.docx">📝 Word (.docx)</a>
+      <a class="secondary" href="${F}${a.id}.id.md">Markdown</a>
+      <a class="secondary" href="${F}${a.id}.qc.md">QC editor</a>
+      <a class="secondary" href="${F}${a.id}.quality.md">Quality</a>
+    </div>
+  </div>`).join("");
+</script>
+</body>
+</html>

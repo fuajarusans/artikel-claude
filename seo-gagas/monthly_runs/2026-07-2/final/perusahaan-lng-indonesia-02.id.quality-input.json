@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07-2\\final\\perusahaan-lng-indonesia-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-08T09:58:15+07:00",
+    "word_count":  1614,
+    "paragraph_count":  24,
+    "sentence_count":  83,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.334,
+                        "sentence_burstiness":  0.81,
+                        "top30_vocab_share":  0.29,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.334 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Trennya nyata: menurut DNV, ada 641 kapal berbahan bakar LNG yang beroperasi hingga akhir 2024, hampir dua kali lipat dibanding 2021.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Trennya nyata: menurut DNV, ada 641 kapal berbahan bakar LNG yang beroperasi hingga akhir 2024, hampir dua kali lipat di\""
+                                  },
+                                  {
+                                      "passage":  "**EEDI** (*Energy Efficiency Design Index*): standar efisiensi desain untuk kapal baru, berlaku sejak 2013.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"**EEDI** (*Energy Efficiency Design Index*): standar efisiensi desain untuk kapal baru, berlaku sejak 2013.\""
+                                  },
+                                  {
+                                      "passage":  "## Tipe-Tipe LNG Bunkering: Cara LNG Sampai ke Kapal Ada tiga mekanisme utama pengisian LNG ke kapal, dibedakan oleh sumber pasokan dan skala transfernya.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Tipe-Tipe LNG Bunkering: Cara LNG Sampai ke Kapal Ada tiga mekanisme utama pengisian LNG ke kapal, dibedakan oleh sum\""
+                                  },
+                                  {
+                                      "passage":  "## Apa Itu LNG Bunkering dan Mengapa Sektor Maritim Beralih ke LNG?",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Apa Itu LNG Bunkering dan Mengapa Sektor Maritim Beralih ke LNG?\""
+                                  },
+                                  {
+                                      "passage":  "Perlu ditegaskan: titik-titik ini masih tahap perencanaan per laporan 2022–2023, belum berstatus operasional.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Perlu ditegaskan: titik-titik ini masih tahap perencanaan per laporan 2022–2023, belum berstatus operasional.\""
+                                  },
+                                  {
+                                      "passage":  "Proyek fasilitas pertama sedang dikembangkan di Bontang, Kalimantan Timur, oleh PT PGN LNG Indonesia bersama PT Badak NGL.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Proyek fasilitas pertama sedang dikembangkan di Bontang, Kalimantan Timur, oleh PT PGN LNG Indonesia bersama PT Badak NG\""
+                                  },
+                                  {
+                                      "passage":  "Titik dan Proyek Terkini Proyek fasilitas LNG bunkering pertama di Indonesia sedang dikembangkan di Bontang, Kalimantan Timur.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Titik dan Proyek Terkini Proyek fasilitas LNG bunkering pertama di Indonesia sedang dikembangkan di Bontang, Kalimantan \""
+                                  },
+                                  {
+                                      "passage":  "## Kapan LNG BELUM Masuk Akal untuk Sebuah Armada LNG bukan pilihan tepat untuk setiap kapal.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Kapan LNG BELUM Masuk Akal untuk Sebuah Armada LNG bukan pilihan tepat untuk setiap kapal.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

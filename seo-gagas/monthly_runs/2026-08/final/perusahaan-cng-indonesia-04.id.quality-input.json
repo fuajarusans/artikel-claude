@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-08\\final\\perusahaan-cng-indonesia-04.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-11T14:45:27+07:00",
+    "word_count":  1599,
+    "paragraph_count":  23,
+    "sentence_count":  94,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.373,
+                        "sentence_burstiness":  0.878,
+                        "top30_vocab_share":  0.322,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.373 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Survei *Chief Procurement Officer* global Deloitte 2025 mencatat 74% pimpinan procurement mengandalkan pencarian sumber pasokan alternatif sebagai mitigasi risiko paling efektif.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Survei *Chief Procurement Officer* global Deloitte 2025 mencatat 74% pimpinan procurement mengandalkan pencarian sumber \""
+                                  },
+                                  {
+                                      "passage":  "Survei CPO global Deloitte 2025 mencatat 74% pimpinan procurement mengandalkan diversifikasi pemasok sebagai mitigasi risiko.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Survei CPO global Deloitte 2025 mencatat 74% pimpinan procurement mengandalkan diversifikasi pemasok sebagai mitigasi ri\""
+                                  },
+                                  {
+                                      "passage":  "Di sektor publik, LKPP terus mendorong pola ini; pada 2025 ia menandatangani kontrak payung konsolidasi untuk kebutuhan rutin lintas unit dalam sosialisasi Perpres 46/2025 (JDIH LKPP, 2025).",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Di sektor publik, LKPP terus mendorong pola ini; pada 2025 ia menandatangani kontrak payung konsolidasi untuk kebutuhan \""
+                                  },
+                                  {
+                                      "passage":  "## Kapan Multi-Vendor Justru Lebih Aman daripada Satu Vendor Konsolidasi tidak selalu paling murah atau paling aman.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Kapan Multi-Vendor Justru Lebih Aman daripada Satu Vendor Konsolidasi tidak selalu paling murah atau paling aman.\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai contoh, PGN Gagas menjalankan Sistem Pemantauan Telemetri berbasis IoT pada layanan CNG-nya: mengukur sisa volume dan tekanan real-time di lokasi pelanggan lalu mengotomatisasi jadwal pengisian ulang.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Sebagai contoh, PGN Gagas menjalankan Sistem Pemantauan Telemetri berbasis IoT pada layanan CNG-nya: mengukur sisa volum\""
+                                  },
+                                  {
+                                      "passage":  "Disiplin ini juga sejalan dengan kebijakan energi nasional: lewat PP 33/2023, pengguna energi skala besar (setara ≥6.000 TOE per tahun) wajib menerapkan manajemen energi terstruktur (Kementerian ESDM).",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"Disiplin ini juga sejalan dengan kebijakan energi nasional: lewat PP 33/2023, pengguna energi skala besar (setara ≥6.000\""
+                                  },
+                                  {
+                                      "passage":  "Cakupannya meliputi keputusan single vs multi vendor, kontrak payung, konsolidasi tagihan, standardisasi SLA, dan pemantauan konsumsi terpusat lewat telemetri.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Cakupannya meliputi keputusan single vs multi vendor, kontrak payung, konsolidasi tagihan, standardisasi SLA, dan pemant\""
+                                  },
+                                  {
+                                      "passage":  "Sektor swasta bisa memakai konsep serupa, tapi tanpa payung regulasi yang sama persis.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Sektor swasta bisa memakai konsep serupa, tapi tanpa payung regulasi yang sama persis.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

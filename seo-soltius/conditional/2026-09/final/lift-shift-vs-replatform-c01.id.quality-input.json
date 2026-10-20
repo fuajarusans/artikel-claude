@@ -1,0 +1,81 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-09\\final\\lift-shift-vs-replatform-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-01T08:32:15+07:00",
+    "word_count":  936,
+    "paragraph_count":  15,
+    "sentence_count":  51,
+    "ai_detector":  {
+                        "score":  0.19,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.273,
+                        "sentence_burstiness":  0.904,
+                        "top30_vocab_share":  0.367,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-uniformity",
+                                          "severity":  "high",
+                                          "snippet":  "Paragraph word-count CV=0.273 (target \u003e=0.45; \u003c0.30 is strong AI tell)",
+                                          "line":  -1
+                                      },
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 36.7% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "*Mainstream maintenance* SAP ECC 6.0 berakhir **31 Desember 2027**, dengan *extended maintenance* berbayar sampai **31 Desember 2030**.",
+                                      "candidate_score":  33,
+                                      "web_search_query":  "\"*Mainstream maintenance* SAP ECC 6.0 berakhir **31 Desember 2027**, dengan *extended maintenance* berbayar sampai **31 D\""
+                                  },
+                                  {
+                                      "passage":  "## Lift \u0026 Shift Bukan Brownfield: Dua Sumbu Keputusan Migrasi SAP Ini miskonsepsi yang paling sering merusak perencanaan: menyamakan lift and shift dengan *brownfield*.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## Lift \u0026 Shift Bukan Brownfield: Dua Sumbu Keputusan Migrasi SAP Ini miskonsepsi yang paling sering merusak perencanaan\""
+                                  },
+                                  {
+                                      "passage":  "# Lift \u0026 Shift vs Re-Platform: Strategi Migrasi SAP ke IaaS Keputusan memindahkan SAP ke *hyperscaler* sudah diambil; rapat berikutnya justru mandek pada satu pertanyaan teknis.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"# Lift \u0026 Shift vs Re-Platform: Strategi Migrasi SAP ke IaaS Keputusan memindahkan SAP ke *hyperscaler* sudah diambil; ra\""
+                                  },
+                                  {
+                                      "passage":  "Keduanya memindahkan sistem ke cloud, tetapi rehost umumnya lewat *homogeneous system copy* tanpa menyentuh platform, sedangkan re-platform mengganti komponen tertentu, lazimnya database menuju *heterogeneous migration* ke SAP HANA.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Keduanya memindahkan sistem ke cloud, tetapi rehost umumnya lewat *homogeneous system copy* tanpa menyentuh platform, se\""
+                                  },
+                                  {
+                                      "passage":  "Lift \u0026 shift memindahkan sistem apa adanya — tanpa mengubah aplikasi, sistem operasi, atau database — sehingga cepat dan berisiko rendah.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Lift \u0026 shift memindahkan sistem apa adanya — tanpa mengubah aplikasi, sistem operasi, atau database — sehingga cepat dan\""
+                                  },
+                                  {
+                                      "passage":  "Pendekatan dua langkah lazim: rehost dulu ke cloud, konversi menyusul sebelum tenggat ECC 31 Desember 2027.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Pendekatan dua langkah lazim: rehost dulu ke cloud, konversi menyusul sebelum tenggat ECC 31 Desember 2027.\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apakah lift and shift sama dengan brownfield?",
+                                      "candidate_score":  8,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apakah lift and shift sama dengan brownfield?\""
+                                  },
+                                  {
+                                      "passage":  "Kerangka **7 Rs** dari *AWS Prescriptive Guidance* menempatkan rehost dan re-platform sebagai dua dari tujuh strategi migrasi.",
+                                      "candidate_score":  7,
+                                      "web_search_query":  "\"Kerangka **7 Rs** dari *AWS Prescriptive Guidance* menempatkan rehost dan re-platform sebagai dua dari tujuh strategi mi\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

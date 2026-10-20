@@ -1,0 +1,81 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-07\\final\\saas-paas-iaas-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-06T09:47:13+07:00",
+    "word_count":  1019,
+    "paragraph_count":  19,
+    "sentence_count":  52,
+    "ai_detector":  {
+                        "score":  0.08,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.31,
+                        "sentence_burstiness":  0.922,
+                        "top30_vocab_share":  0.397,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.31 (target \u003e=0.45)",
+                                          "line":  -1
+                                      },
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 39.7% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "SAP S/4HANA Cloud Public Edition dan SuccessFactors dikonsumsi seperti SaaS, SAP Business Technology Platform adalah PaaS, dan infrastrukturnya berjalan di IaaS hyperscaler seperti Azure atau AWS.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"SAP S/4HANA Cloud Public Edition dan SuccessFactors dikonsumsi seperti SaaS, SAP Business Technology Platform adalah Paa\""
+                                  },
+                                  {
+                                      "passage":  "Pada lapisan SaaS, perusahaan memakai Microsoft 365 untuk kolaborasi, SAP SuccessFactors untuk HR, dan SAP S/4HANA Cloud Public Edition untuk ERP; semuanya berlangganan, tanpa tim infrastruktur sendiri.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Pada lapisan SaaS, perusahaan memakai Microsoft 365 untuk kolaborasi, SAP SuccessFactors untuk HR, dan SAP S/4HANA Cloud\""
+                                  },
+                                  {
+                                      "passage":  "# SaaS vs PaaS vs IaaS: Perbedaan dan Contoh Penerapannya Rapat evaluasi cloud sering macet di tiga akronim: SaaS, PaaS, dan IaaS.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"# SaaS vs PaaS vs IaaS: Perbedaan dan Contoh Penerapannya Rapat evaluasi cloud sering macet di tiga akronim: SaaS, PaaS,\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai SAP Platinum Partner melalui United VARs, Soltius mengimplementasikan dan mendukung solusi SAP di ketiga lapisan itu, dari aplikasi, platform SAP BTP, hingga SAP di atas infrastruktur cloud.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Sebagai SAP Platinum Partner melalui United VARs, Soltius mengimplementasikan dan mendukung solusi SAP di ketiga lapisan\""
+                                  },
+                                  {
+                                      "passage":  "Ketiganya terus tumbuh: Gartner memproyeksikan belanja cloud publik global sekitar USD 850 miliar pada 2026, naik 21,3% dari 2025.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Ketiganya terus tumbuh: Gartner memproyeksikan belanja cloud publik global sekitar USD 850 miliar pada 2026, naik 21,3% \""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Mana yang lebih baik: SaaS, PaaS, atau IaaS?",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Mana yang lebih baik: SaaS, PaaS, atau IaaS?\""
+                                  },
+                                  {
+                                      "passage":  "Dalam satu lanskap SAP, ketiganya kerap hadir berdampingan; RISE with SAP membundel SaaS, PaaS (SAP BTP), dan IaaS *hyperscaler* (penyedia cloud global) dalam satu kontrak.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Dalam satu lanskap SAP, ketiganya kerap hadir berdampingan; RISE with SAP membundel SaaS, PaaS (SAP BTP), dan IaaS *hype\""
+                                  },
+                                  {
+                                      "passage":  "Untuk PaaS, contoh enterprise paling jelas adalah SAP Business Technology Platform (SAP BTP), yang diposisikan SAP sebagai *platform as a service*.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Untuk PaaS, contoh enterprise paling jelas adalah SAP Business Technology Platform (SAP BTP), yang diposisikan SAP sebag\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

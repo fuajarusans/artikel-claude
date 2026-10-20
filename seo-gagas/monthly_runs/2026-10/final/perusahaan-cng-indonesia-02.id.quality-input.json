@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-10\\final\\perusahaan-cng-indonesia-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-28T20:02:04+07:00",
+    "word_count":  1673,
+    "paragraph_count":  24,
+    "sentence_count":  102,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.44,
+                        "sentence_burstiness":  0.843,
+                        "top30_vocab_share":  0.284,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.44 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "# Rencana Kontingensi Energi: Jangan Bergantung Satu Perusahaan CNG Pertengahan September 2026, sedikitnya enam pabrik keramik di Jawa bagian barat terpaksa mematikan sebagian lini produksinya.",
+                                      "candidate_score":  35,
+                                      "web_search_query":  "\"# Rencana Kontingensi Energi: Jangan Bergantung Satu Perusahaan CNG Pertengahan September 2026, sedikitnya enam pabrik k\""
+                                  },
+                                  {
+                                      "passage":  "Realisasi AGIT (Alokasi Gas Industri Tertentu) Januari–Mei sekitar **47,5%** adalah soal alokasi awal tahun.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Realisasi AGIT (Alokasi Gas Industri Tertentu) Januari–Mei sekitar **47,5%** adalah soal alokasi awal tahun.\""
+                                  },
+                                  {
+                                      "passage":  "Pasarnya sendiri memungkinkan pilihan: per semester II-2025 tercatat 53 perusahaan pemegang izin niaga CNG, naik dari 33 pada semester sebelumnya (Bloomberg Technoz).",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Pasarnya sendiri memungkinkan pilihan: per semester II-2025 tercatat 53 perusahaan pemegang izin niaga CNG, naik dari 33\""
+                                  },
+                                  {
+                                      "passage":  "96/2024 hanya mencakup minyak bumi, BBM jenis bensin, dan LPG, bukan gas bumi (Kementerian ESDM).",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"96/2024 hanya mencakup minyak bumi, BBM jenis bensin, dan LPG, bukan gas bumi (Kementerian ESDM).\""
+                                  },
+                                  {
+                                      "passage":  "Soal harga, sumber melapor beda: US$8–8,5 ke ~US$12/MMBTU (CNBC), sementara Fortune Indonesia mengutip US$8 ke US$9/MMBTU.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Soal harga, sumber melapor beda: US$8–8,5 ke ~US$12/MMBTU (CNBC), sementara Fortune Indonesia mengutip US$8 ke US$9/MMBT\""
+                                  },
+                                  {
+                                      "passage":  "Force majeure (keadaan memaksa) pada umumnya membebaskan pihak yang gagal memenuhi kewajiban dari tanggung jawab hukum penuh, merujuk KUHPerdata Pasal 1244–1245 dan 1444–1445.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Force majeure (keadaan memaksa) pada umumnya membebaskan pihak yang gagal memenuhi kewajiban dari tanggung jawab hukum p\""
+                                  },
+                                  {
+                                      "passage":  "Keduanya bukan porsi biaya gas terhadap ongkos produksi keramik yang, menurut CNBC Indonesia, naik dari ~35% ke **45–48%**.",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"Keduanya bukan porsi biaya gas terhadap ongkos produksi keramik yang, menurut CNBC Indonesia, naik dari ~35% ke **45–48%\""
+                                  },
+                                  {
+                                      "passage":  "- **Failover fuel:** LPG atau solar (HSD) bisa jadi cadangan lewat burner *dual-fuel*, tapi bukan \"colok-pakai\".",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"- **Failover fuel:** LPG atau solar (HSD) bisa jadi cadangan lewat burner *dual-fuel*, tapi bukan  colok-pakai .\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

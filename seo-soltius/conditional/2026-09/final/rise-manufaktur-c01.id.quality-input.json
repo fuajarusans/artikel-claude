@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-09\\final\\rise-manufaktur-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-01T08:23:49+07:00",
+    "word_count":  885,
+    "paragraph_count":  14,
+    "sentence_count":  41,
+    "ai_detector":  {
+                        "score":  0.15,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.26,
+                        "sentence_burstiness":  0.893,
+                        "top30_vocab_share":  0.328,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-uniformity",
+                                          "severity":  "high",
+                                          "snippet":  "Paragraph word-count CV=0.26 (target \u003e=0.45; \u003c0.30 is strong AI tell)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Menurut Kemenperin, tujuh sektor prioritas Making Indonesia 4.0 menyumbang sekitar 70% PDB manufaktur, tetapi kesiapan digital tiap pabrik berbeda; indeks INDI 4.0 mengukurnya pada skala 0–4.",
+                                      "candidate_score":  35,
+                                      "web_search_query":  "\"Menurut Kemenperin, tujuh sektor prioritas Making Indonesia 4.0 menyumbang sekitar 70% PDB manufaktur, tetapi kesiapan d\""
+                                  },
+                                  {
+                                      "passage":  "RISE membundel tiga pilar: SAP S/4HANA Cloud Private Edition, SAP Business Technology Platform, dan SAP Business Network.",
+                                      "candidate_score":  32,
+                                      "web_search_query":  "\"RISE membundel tiga pilar: SAP S/4HANA Cloud Private Edition, SAP Business Technology Platform, dan SAP Business Network\""
+                                  },
+                                  {
+                                      "passage":  "Tenggat mainstream maintenance SAP ECC pada 31 Desember 2027 menambah urgensi, namun kesiapan lantai produksi tetap penentu utama.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Tenggat mainstream maintenance SAP ECC pada 31 Desember 2027 menambah urgensi, namun kesiapan lantai produksi tetap pene\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai SAP Platinum Partner melalui United VARs dan berpengalaman sejak 1998, Soltius mendampingi migrasi serta integrasi lantai produksi ke ERP.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"Sebagai SAP Platinum Partner melalui United VARs dan berpengalaman sejak 1998, Soltius mendampingi migrasi serta integra\""
+                                  },
+                                  {
+                                      "passage":  "Belum siap bila lantai produksi masih manual, custom code PP menumpuk tanpa pemilik, atau produksi berjalan 24/7 tanpa celah berhenti sama sekali.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Belum siap bila lantai produksi masih manual, custom code PP menumpuk tanpa pemilik, atau produksi berjalan 24/7 tanpa c\""
+                                  },
+                                  {
+                                      "passage":  "## Kesimpulan Pertanyaan pertama pabrik saat migrasi bukan soal modul finance, melainkan berapa lama lini boleh berhenti.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Kesimpulan Pertanyaan pertama pabrik saat migrasi bukan soal modul finance, melainkan berapa lama lini boleh berhenti\""
+                                  },
+                                  {
+                                      "passage":  "Untuk menilai kesiapan RISE with SAP manufaktur dan SAP Cloud ERP Private di pabrik Anda, kunjungi soltius.co.id.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Untuk menilai kesiapan RISE with SAP manufaktur dan SAP Cloud ERP Private di pabrik Anda, kunjungi soltius.co.id.\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apakah produksi harus berhenti saat migrasi ke RISE with SAP?",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apakah produksi harus berhenti saat migrasi ke RISE with SAP?\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

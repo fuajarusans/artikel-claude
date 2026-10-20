@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-09\\final\\cng-indonesia-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-21T10:45:16+07:00",
+    "word_count":  1486,
+    "paragraph_count":  22,
+    "sentence_count":  85,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.323,
+                        "sentence_burstiness":  0.732,
+                        "top30_vocab_share":  0.328,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.323 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "GAPKI (Agustus 2026) menaksir potensi biogas POME ~3,6 miliar m³/tahun dengan baru ~15% termanfaatkan; IPOSS (2025) menyebut \u003e1,5 miliar m³ biometana/tahun, setara ~1,1 miliar liter solar.",
+                                      "candidate_score":  32,
+                                      "web_search_query":  "\"GAPKI (Agustus 2026) menaksir potensi biogas POME ~3,6 miliar m³/tahun dengan baru ~15% termanfaatkan; IPOSS (2025) meny\""
+                                  },
+                                  {
+                                      "passage":  "- **Tapung Hilir, Kampar (target Q1 2027).** Fasilitas baru dengan offtaker yang sama bersama KIS, AEP, dan Bina Pitri Jaya; proyeksi ~142.450 MMBTU/tahun (pewarta.co, Februari 2026).",
+                                      "candidate_score":  29,
+                                      "web_search_query":  "\"- **Tapung Hilir, Kampar (target Q1 2027).** Fasilitas baru dengan offtaker yang sama bersama KIS, AEP, dan Bina Pitri J\""
+                                  },
+                                  {
+                                      "passage":  "Sejak Maret 2023, Kementerian ESDM lewat Ditjen EBTKE resmi menetapkan biogas sebagai bahan bakar sah yang dapat diniagakan di Indonesia ([Ditjen EBTKE, dikutip Kontan, Maret 2023](https://industri.kontan.co.id/news/biogas-resmi-jadi-bahan-bakar-lain-segini-potensi-substitusi-lng-lpg-dan-solar)).",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Sejak Maret 2023, Kementerian ESDM lewat Ditjen EBTKE resmi menetapkan biogas sebagai bahan bakar sah yang dapat diniaga\""
+                                  },
+                                  {
+                                      "passage":  "- **PLTGU Belawan, Sumatra Utara (uji coba).** PLN EPI membidik ~200 pabrik sawit untuk memasok Bio-CNG ke pembangkit, bermitra dengan KIS Biofuels (sawitindonesia.com, Juni 2026).",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"- **PLTGU Belawan, Sumatra Utara (uji coba).** PLN EPI membidik ~200 pabrik sawit untuk memasok Bio-CNG ke pembangkit, b\""
+                                  },
+                                  {
+                                      "passage":  "Kerja sama Bio-CNG ritel pertama di Indonesia berjalan di Pekanbaru sejak Januari 2024, menyalurkan biometana olahan KIS Biofuels dari POME ke pelanggan (ANTARA, Januari 2024).",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Kerja sama Bio-CNG ritel pertama di Indonesia berjalan di Pekanbaru sejak Januari 2024, menyalurkan biometana olahan KIS\""
+                                  },
+                                  {
+                                      "passage":  "Membangun fasilitas *upgrading* butuh modal besar; klaster 8 pabrik Pertagas Niaga saja bernilai ~USD 45 juta.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Membangun fasilitas *upgrading* butuh modal besar; klaster 8 pabrik Pertagas Niaga saja bernilai ~USD 45 juta.\""
+                                  },
+                                  {
+                                      "passage":  "**Pemurnian (*upgrading*).** CO2, H2S, dan uap air dibuang hingga kadar metana ~90–95%, setara gas bumi.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"**Pemurnian (*upgrading*).** CO2, H2S, dan uap air dibuang hingga kadar metana ~90–95%, setara gas bumi.\""
+                                  },
+                                  {
+                                      "passage":  "Skala nyatanya masih kecil: volume yang benar-benar beroperasi (~36.500 MMBTU/tahun di Pekanbaru) jauh di bawah proyek yang masih dibangun (142.450 hingga \u003e830.000 MMBTU/tahun).",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Skala nyatanya masih kecil: volume yang benar-benar beroperasi (~36.500 MMBTU/tahun di Pekanbaru) jauh di bawah proyek y\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

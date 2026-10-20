@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-07\\final\\neraca-saldo-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-06T18:58:50+07:00",
+    "word_count":  1010,
+    "paragraph_count":  16,
+    "sentence_count":  53,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.464,
+                        "sentence_burstiness":  0.754,
+                        "top30_vocab_share":  0.365,
+                        "flags":  [
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 36.5% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Selisih yang habis dibagi 9 mengindikasikan transposisi, angka tertukar seperti 540 tertulis 450.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Selisih yang habis dibagi 9 mengindikasikan transposisi, angka tertukar seperti 540 tertulis 450.\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai SAP Platinum Partner melalui keanggotaan United VARs, Soltius mendampingi perusahaan memindahkan pembukuan dan verifikasi saldo ke SAP S/4HANA Finance, dari implementasi hingga dukungan pasca go-live.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Sebagai SAP Platinum Partner melalui keanggotaan United VARs, Soltius mendampingi perusahaan memindahkan pembukuan dan v\""
+                                  },
+                                  {
+                                      "passage":  "# Neraca Saldo: Pengertian, Fungsi, dan Contoh Penyusunannya Pencatatan yang rapi belum tentu seimbang.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"# Neraca Saldo: Pengertian, Fungsi, dan Contoh Penyusunannya Pencatatan yang rapi belum tentu seimbang.\""
+                                  },
+                                  {
+                                      "passage":  "**Siapkan lembar kerja empat kolom**: kode akun, nama akun, debit, dan kredit.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"**Siapkan lembar kerja empat kolom**: kode akun, nama akun, debit, dan kredit.\""
+                                  },
+                                  {
+                                      "passage":  "Polanya terbaca cepat: akun bersaldo normal debit, yaitu aset dan beban, mengisi kolom kiri; liabilitas, modal, dan pendapatan mengisi kolom kanan.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Polanya terbaca cepat: akun bersaldo normal debit, yaitu aset dan beban, mengisi kolom kiri; liabilitas, modal, dan pend\""
+                                  },
+                                  {
+                                      "passage":  "Neraca saldo hanya menguji kesamaan aritmetika total debit dan kredit, bukan kebenaran isi pencatatan.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Neraca saldo hanya menguji kesamaan aritmetika total debit dan kredit, bukan kebenaran isi pencatatan.\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apa perbedaan neraca saldo dan neraca (laporan posisi keuangan)?",
+                                      "candidate_score":  8,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apa perbedaan neraca saldo dan neraca (laporan posisi keuangan)?\""
+                                  },
+                                  {
+                                      "passage":  "Keseimbangan debit-kredit dijaga sejak dokumen diposting; saldonya dibaca langsung lewat aplikasi Trial Balance di SAP Fiori, tersedia setiap saat tanpa rekap manual akhir bulan.",
+                                      "candidate_score":  8,
+                                      "web_search_query":  "\"Keseimbangan debit-kredit dijaga sejak dokumen diposting; saldonya dibaca langsung lewat aplikasi Trial Balance di SAP F\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

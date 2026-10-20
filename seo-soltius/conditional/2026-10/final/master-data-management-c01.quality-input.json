@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-10\\final\\master-data-management-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-10-08T17:18:13+07:00",
+    "word_count":  1184,
+    "paragraph_count":  20,
+    "sentence_count":  72,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.355,
+                        "sentence_burstiness":  0.878,
+                        "top30_vocab_share":  0.347,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.355 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Dalam konteks data, MDM berarti *Master Data Management*, yakni tata kelola data inti bisnis.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Dalam konteks data, MDM berarti *Master Data Management*, yakni tata kelola data inti bisnis.\""
+                                  },
+                                  {
+                                      "passage":  "**Tata kelola.** Tetapkan *data owner* dan *data steward* (penanggung jawab kualitas data), hak ubah, serta alur persetujuan.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"**Tata kelola.** Tetapkan *data owner* dan *data steward* (penanggung jawab kualitas data), hak ubah, serta alur persetu\""
+                                  },
+                                  {
+                                      "passage":  "Tiga domain intinya mapan: *business partner* (pelanggan dan pemasok), material, serta finance.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Tiga domain intinya mapan: *business partner* (pelanggan dan pemasok), material, serta finance.\""
+                                  },
+                                  {
+                                      "passage":  "Artikel ini menjelaskan mengapa data inti yang berantakan merugikan, bagaimana membangun satu sumber kebenaran, dan di mana SAP Master Data Governance (MDG) berperan dalam [solusi manajemen data](https://www.soltius.co.id/id/solutions-by-products/data-management) perusahaan.",
+                                      "candidate_score":  8,
+                                      "web_search_query":  "\"Artikel ini menjelaskan mengapa data inti yang berantakan merugikan, bagaimana membangun satu sumber kebenaran, dan di m\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apa bedanya master data management dengan mobile device management?",
+                                      "candidate_score":  8,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apa bedanya master data management dengan mobile device management?\""
+                                  },
+                                  {
+                                      "passage":  "Untuk menilai kesiapan tata kelola master data di perusahaan Anda, jelajahi solusi Data Management di soltius.co.id.",
+                                      "candidate_score":  6,
+                                      "web_search_query":  "\"Untuk menilai kesiapan tata kelola master data di perusahaan Anda, jelajahi solusi Data Management di soltius.co.id.\""
+                                  },
+                                  {
+                                      "passage":  "MDG dapat berjalan di dalam SAP S/4HANA, dan federasi umumnya berbasis rilis S/4HANA 2023 ke atas.",
+                                      "candidate_score":  5,
+                                      "web_search_query":  "\"MDG dapat berjalan di dalam SAP S/4HANA, dan federasi umumnya berbasis rilis S/4HANA 2023 ke atas.\""
+                                  },
+                                  {
+                                      "passage":  "Menurut [Gartner](https://www.cio.com/article/191827/what-is-master-data-management-ensuring-a-single-source-of-truth.html), akuntabilitas adalah satu dari lima sasaran MDM, menandakan governance melekat di dalamnya.",
+                                      "candidate_score":  5,
+                                      "web_search_query":  "\"Menurut [Gartner](https://www.cio.com/article/191827/what-is-master-data-management-ensuring-a-single-source-of-truth.ht\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

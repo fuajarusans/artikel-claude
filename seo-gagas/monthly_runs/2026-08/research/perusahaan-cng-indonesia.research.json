@@ -1,0 +1,115 @@
+{
+  "keyword": "Perusahaan CNG Indonesia",
+  "keyword_slug": "perusahaan-cng-indonesia",
+  "month": "2026-08",
+  "captured_at": "2026-08-11",
+  "intent_locked": "commercial / procurement (penyedia, pengadaan, kontrak, SLA, sektor dilayani)",
+  "landing_page": "https://gagas.co.id/perusahaan-cng-indonesia/",
+  "landing_page_summary": "Hub CNG PGN Gagas. Menegaskan CNG (& LNG) via 'virtual pipeline' beyond-pipeline; produk Gaslink (pabrik/komersial: hotel, RS, F&B) & Gasku (transportasi: bus kota, truk, kapal). Sektor manufaktur disebut eksplisit: keramik, peleburan logam, tekstil, kertas (butuh panas proses). Infrastruktur: GTM di truk, PRS di lokasi pelanggan, telemetri IoT real-time (volume+tekanan), penjadwalan pengisian ulang otomatis. Klaim biaya: data KADIN, gas bumi industri ~32% dari harga HSD (potensi hemat ~68%). Kontak survei/transisi: 021-29071415 / info@gagas.co.id. TIDAK menyebut SLA spesifik, ketentuan kontrak multi-lokasi, atau detail pengadaan pemerintah.",
+  "data_sources_used": ["live_serp (bot-blocked -> degraded to WebSearch)", "websearch", "landing_page_fetch"],
+  "ahrefs_available": false,
+  "seo_report": "none",
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Momentum komersial CNG kuat 2026: (a) program Makan Bergizi Gratis mendorong dapur SPPG beralih dari LPG ke CNG; (b) krisis pasokan/harga gas pipa HGBT menekan industri padat energi (keramik) -> minat pada moda pasokan alternatif; (c) tekanan pelaporan keberlanjutan (POJK 51) menaikkan nilai bukti penurunan emisi.",
+    "report_rank": "n/a (seo_report: none)"
+  },
+  "serp": {
+    "note": "google.com/search bot-blocked; lanskap disusun dari WebSearch.",
+    "top_competing_pages": [
+      { "url": "https://cng.co.id/about/corporate-profile/", "title": "PT Citra Nusantara Gemilang (PT CNG)", "angle_summary": "Distributor CNG nasional sejak 2005, klaim 'distributor CNG pertama di Indonesia'; melayani industri/retail/transportasi, Cikarang-Karawang." },
+      { "url": "https://mosafaprimasinergi.co.id/", "title": "PT Mosafa Prima Sinergi", "angle_summary": "Penyedia CNG untuk HORECA (hotel, resto, kafe), home industry, dan pabrik; klaim pengalaman 20+ tahun." },
+      { "url": "https://sentralgas.com/agen-cng/", "title": "Sentralgas (agen/distributor CNG)", "angle_summary": "Penyedia layanan & instalasi CNG sejak 2020; halaman 'agen/suplier/distributor CNG' — kompetitor kata kunci komersial." },
+      { "url": "https://www.gagas.co.id/perusahaan-cng-indonesia", "title": "PGN Gagas — Perusahaan CNG Indonesia (hub klien)", "angle_summary": "Hub landing klien; kontribusi ekonomi + layanan Gaslink/Gasku beyond-pipeline." }
+    ],
+    "other_players_seen": ["PT Citra Nusantara Energi (Surabaya)", "PT Unogas Teknologi Indonesia"],
+    "serp_features": ["ai_overview_likely", "paa", "featured_snippet_definition_list"],
+    "ai_overview_entities": ["CNG", "distributor CNG", "penyedia CNG", "Gaslink", "GTM", "PRS", "beyond pipeline", "HORECA", "industri"]
+  },
+  "paa_proxy": [
+    "Perusahaan CNG mana saja yang ada di Indonesia?",
+    "Bagaimana cara pengadaan/berlangganan CNG untuk industri atau instansi?",
+    "Apakah dapur MBG boleh pakai CNG sebagai pengganti LPG?",
+    "Bisakah pindah dari gas pipa ke CNG dan kapan itu masuk akal?",
+    "Apa yang harus dilakukan jika pasokan CNG bermasalah/terlambat?",
+    "Bagaimana mengelola pasokan gas untuk perusahaan dengan banyak lokasi?",
+    "Data emisi apa yang bisa diberikan penyedia CNG untuk laporan keberlanjutan?"
+  ],
+  "key_facts_verified_pending": {
+    "mbg_sppg": [
+      "PGN memasok CNG ~3.000 m3/bulan untuk SPPG Boyolali (investortrust.id).",
+      "SPPG Dorokandang, Rembang mulai manfaatkan CNG untuk dapur MBG; klaim hemat ~25-30% vs LPG (rembangkab.go.id).",
+      "PGN Batam memasok gas untuk 10 dapur MBG (antaranews).",
+      "Badan Gizi Nasional (BGN) melarang dapur SPPG memakai LPG subsidi 3 kg; alternatif LPG 50/12 kg atau CNG (investortrust.id, kepri.antaranews)."
+    ],
+    "public_procurement": [
+      "E-Katalog LKPP versi 6 berlaku menyeluruh ke K/L sejak 1 Jan 2025 (djpb.kemenkeu).",
+      "Perpres 46/2025: Pejabat Pengadaan berwenang e-purchasing hingga Rp200 juta.",
+      "Perpres 26/2026: dalam keadaan mendesak, pengadaan energi oleh BUMN dapat via penunjukan/pembelian langsung.",
+      "13 pos pemeriksaan produk agar tayang di e-katalog (Kepka LKPP 177/2024)."
+    ],
+    "hgbt_pipeline_crisis": [
+      "Pasokan HGBT turun ke ~37,5% (April 2026); realisasi AGIT PGN Jan-Mei 2026 ~47,5% (bisnis.com).",
+      "Harga gas keramik penerima HGBT US$9 (Jan 2026) -> US$11/MMBTU (April 2026).",
+      "Rencana kenaikan harga regasifikasi LNG PGN dari US$14,9 -> ~US$21-25/MMBTU (Juni 2026).",
+      "Utilisasi kapasitas keramik anjlok <60%; Indonesia turun dari peringkat ke-5 (2023) ke ke-7 (2024) produsen keramik."
+    ],
+    "sla_force_majeure": [
+      "Klausul force majeure: peristiwa di luar kendali (bencana, perang, pembatasan hukum); pembuktian objektif + sebab-akibat; prosedur notifikasi ketat dalam batas waktu.",
+      "Kegagalan membuktikan force majeure -> denda/ganti rugi keterlambatan.",
+      "Konteks kontrak pengadaan pasca Perpres 46/2025."
+    ],
+    "esg_reporting": [
+      "POJK 51/POJK.03/2017 (Keuangan Berkelanjutan): laporan keberlanjutan tahunan ke OJK, batas 30 April.",
+      "Scope 1 = emisi dari pembakaran bahan bakar (stationary combustion); Scope 2 = listrik; Scope 3 = lain.",
+      "Fuel switching ke energi lebih bersih = jalur menurunkan Scope 1; perusahaan butuh data volume + faktor emisi dari penyedia.",
+      "Standar pelaporan: GRI; konteks NDC nasional."
+    ],
+    "multi_site_energy_mgmt": [
+      "Sistem manajemen energi terpusat memudahkan pemantauan aset tersebar di banyak lokasi/cabang.",
+      "Telemetri IoT mengukur sisa volume + tekanan gas real-time; akses cloud multi-lokasi.",
+      "PGN Gagas menyebut telemetri IoT real-time + penjadwalan pengisian ulang otomatis pada layanannya."
+    ]
+  },
+  "gagas_framing_guardrails": {
+    "position": "Penyedia/distributor CNG beyond-pipeline (anak usaha PGN / Subholding Gas Pertamina); menyalurkan/memasok/mengonversi/melayani; BUKAN produsen hulu, BUKAN PGN itu sendiri.",
+    "credentials_usable": ["ISO 9001:2015 (mutu, 2025)", "ISO 45001:2018 (K3, 2025)", "ISO 37001:2016 (anti-suap, 2025)", "layanan 24 jam", "telemetri IoT", "GTM + PRS + Mother Station + MRU + LNG Hub", "Gasku + Gaslink", "600+ pelanggan Gaslink (per Sept 2025 - verify)"],
+    "hgbt_sensitivity": "HGBT/pipa dikelola PGN (induk). Untuk brief migrasi pipa->CNG: framing NETRAL — CNG virtual pipeline sebagai rute untuk lokasi tanpa/di luar jangkauan pipa, relokasi, atau pelengkap ketahanan pasokan; JANGAN menjelekkan pipa PGN. Gunakan krisis HGBT hanya sebagai konteks pasar, dengan sumber.",
+    "no_go": ["superlatif tak tersumber (terbesar/pertama/nomor satu)", "mengarang angka SPBG/MRU/kapasitas/harga/klien", "klaim 'perusahaan LNG' penuh"]
+  },
+  "cousins_this_month": {
+    "same_hub_avoid_as_cousin": "CNG Indonesia (URL sama dgn hub -> jangan jadikan cousin)",
+    "primary_cousins": [
+      { "keyword": "Gaslink", "url": "https://gagas.co.id/gaslink/", "why": "Aplikasi CNG industri/komersial beyond-pipeline — cousin utama untuk semua angle procurement." },
+      { "keyword": "Perusahaan LNG Indonesia", "url": "https://gagas.co.id/perusahaan-lng-indonesia/", "why": "Moda gas alternatif (volume besar/jauh) — relevan untuk migrasi/moda/ESG/keandalan." },
+      { "keyword": "Gasku", "url": "https://gagas.co.id/gasku/", "why": "CNG transportasi — cousin untuk angle multi-lokasi yang mencakup armada." }
+    ]
+  },
+  "history_snapshot": {
+    "committed_commercial_angles_10": [
+      "cara-memilih-penyedia-cng-7-kriteria",
+      "layanan-penyedia-cng-scope-tanggung-jawab (pasokan/GTM/dukungan/SLA umum)",
+      "industri-dilayani-cng-cara-berlangganan-onboarding",
+      "keamanan-keandalan-pasokan-cng-standar (ISO/SMKM)",
+      "kesalahan-memilih-cng-penyedia-dan-solusi",
+      "tco-beralih-penyedia-cng-hitung-biaya-total",
+      "model-harga-kontrak-langganan-cng-minimum-offtake (formula harga)",
+      "keandalan-pasokan-business-continuity-penyedia-cng (BCP/pencegahan)",
+      "pertanyaan-wajib-diajukan-calon-penyedia-cng (red flags)",
+      "cng-horeca-hotel-rs-pengadaan-ganti-lpg (HORECA komersial)"
+    ],
+    "new_informational_this_batch_3_avoid": [
+      "cng-global-vs-indonesia-benchmark-adopsi",
+      "cng-kualitas-udara-dan-dampak-kesehatan",
+      "kualitas-dan-spesifikasi-gas-cng-nilai-kalori-wobbe"
+    ],
+    "chosen_angles_this_run_5": [
+      { "brief": "perusahaan-cng-indonesia-01", "angle": "pengadaan-cng-sppg-dapur-mbg-instansi-pemerintah", "hash": "sha1:00a391343557", "intent": "decision", "why_distinct": "Public-sector procurement (SPPG/MBG + instansi via e-katalog LKPP/penunjukan langsung). #10 HORECA = pembeli komersial-swasta; ini pembeli pemerintah dgn aturan pengadaan berbeda + konteks MBG 2026." },
+      { "brief": "perusahaan-cng-indonesia-02", "angle": "migrasi-gas-pipa-ke-cng-kapan-dan-cara-pindah", "hash": "sha1:7056badb24b3", "intent": "comparison", "why_distinct": "Keputusan berpindah DARI gas pipa KE CNG (relokasi/di luar jangkauan/ketahanan pasokan). Tak ada dari 10 yang membahas migrasi antar-moda; berbeda dari informational 'CNG vs LNG vs LPG apa bedanya'." },
+      { "brief": "perusahaan-cng-indonesia-03", "angle": "eskalasi-resolusi-masalah-pasokan-cng-sla-kompensasi", "hash": "sha1:a900f9299ee8", "intent": "troubleshooting", "why_distinct": "Alur pembeli PASCA-insiden: eskalasi keluhan, klaim SLA/kompensasi, force majeure, resolusi sengketa. #4/#8 = pencegahan/standar keandalan; ini penanganan saat sudah bermasalah." },
+      { "brief": "perusahaan-cng-indonesia-04", "angle": "manajemen-pasokan-cng-multi-lokasi-multi-vendor", "hash": "sha1:8c9fa6a9d1ae", "intent": "how-to", "why_distinct": "Manajemen portofolio pasokan lintas banyak lokasi/vendor (kontrak payung, konsolidasi tagihan, telemetri terpusat, single vs multi vendor). Tidak ada angle multi-site di 10." },
+      { "brief": "perusahaan-cng-indonesia-05", "angle": "data-esg-laporan-keberlanjutan-dari-pasokan-cng", "hash": "sha1:778280aea03b", "intent": "decision", "why_distinct": "Deliverable data/dokumentasi ESG dari penyedia (Scope 1, faktor emisi, POJK 51/GRI). Sudut pelaporan/pengadaan-kepatuhan; bukan manfaat lingkungan umum (informational) maupun dekarbonisasi Gaslink." }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-iigf-institute\\monthly_runs\\2026-08\\final\\sertifikasi-kpbu-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-12T15:37:06+07:00",
+    "word_count":  1603,
+    "paragraph_count":  22,
+    "sentence_count":  107,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.429,
+                        "sentence_burstiness":  0.997,
+                        "top30_vocab_share":  0.32,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.429 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "# Sertifikasi KPBU Internasional: Alur Tiga Level CP3P dan Urutannya Persetujuan anggaran sudah keluar, halaman pendaftaran sudah terbuka, lalu muncul tiga nama level di layar: Foundation, Preparation, Execution.",
+                                      "candidate_score":  32,
+                                      "web_search_query":  "\"# Sertifikasi KPBU Internasional: Alur Tiga Level CP3P dan Urutannya Persetujuan anggaran sudah keluar, halaman pendafta\""
+                                  },
+                                  {
+                                      "passage":  "Di titik itulah IIGF Institute, unit manajemen pengetahuan PT Penjaminan Infrastruktur Indonesia (Persero) sekaligus *Accredited Training Organization* APMG pertama di Indonesia, menyelenggarakan pelatihan Sertifikasi CP3P.",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"Di titik itulah IIGF Institute, unit manajemen pengetahuan PT Penjaminan Infrastruktur Indonesia (Persero) sekaligus *Ac\""
+                                  },
+                                  {
+                                      "passage":  "Keduanya berformat sama: 4 soal kompleks, 80 poin, 2,5 jam (FAQ APMG, per akses Agustus 2026).",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"Keduanya berformat sama: 4 soal kompleks, 80 poin, 2,5 jam (FAQ APMG, per akses Agustus 2026).\""
+                                  },
+                                  {
+                                      "passage":  "Per akses Agustus 2026, sekitar 30 lembaga berstatus *Accredited Training Organization* terdaftar di seluruh dunia, dan APMG menyatakan seluruhnya melalui asesmen serta pengawasan berkala.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Per akses Agustus 2026, sekitar 30 lembaga berstatus *Accredited Training Organization* terdaftar di seluruh dunia, dan \""
+                                  },
+                                  {
+                                      "passage":  "Per akses Agustus 2026, direktori resmi APMG mencatat sekitar 30 ATO di seluruh dunia.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Per akses Agustus 2026, direktori resmi APMG mencatat sekitar 30 ATO di seluruh dunia.\""
+                                  },
+                                  {
+                                      "passage":  "**Tempuh Foundation beserta ujiannya.** 50 soal dalam 40 menit, ambang lulus 50%.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"**Tempuh Foundation beserta ujiannya.** 50 soal dalam 40 menit, ambang lulus 50%.\""
+                                  },
+                                  {
+                                      "passage":  "Foundation sendiri terbuka bagi pemula, tanpa syarat pengalaman kerja PPP sebelumnya (FAQ APMG, per akses Agustus 2026).",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Foundation sendiri terbuka bagi pemula, tanpa syarat pengalaman kerja PPP sebelumnya (FAQ APMG, per akses Agustus 2026).\""
+                                  },
+                                  {
+                                      "passage":  "APMG menerbitkan kredensial CP3P penuh, lengkap dengan lencana digital lewat Candidate Portal, setelah kandidat lulus ketiga ujian (per akses Agustus 2026).",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"APMG menerbitkan kredensial CP3P penuh, lengkap dengan lencana digital lewat Candidate Portal, setelah kandidat lulus ke\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

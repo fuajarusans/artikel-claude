@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-10\\final\\gasku-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-28T19:31:29+07:00",
+    "word_count":  1465,
+    "paragraph_count":  23,
+    "sentence_count":  99,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.417,
+                        "sentence_burstiness":  0.657,
+                        "top30_vocab_share":  0.315,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.417 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "22 Tahun 2009 (Pasal 204) mewajibkan setiap perusahaan angkutan umum membangun Sistem Manajemen Keselamatan (SMK); ketentuan teknisnya diatur Peraturan Menteri Perhubungan PM 85 Tahun 2018.",
+                                      "candidate_score":  41,
+                                      "web_search_query":  "\"22 Tahun 2009 (Pasal 204) mewajibkan setiap perusahaan angkutan umum membangun Sistem Manajemen Keselamatan (SMK); keten\""
+                                  },
+                                  {
+                                      "passage":  "## Apa Bedanya Tanggung Jawab Operator Armada BBG dari Pemilik Mobil Pribadi?",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"## Apa Bedanya Tanggung Jawab Operator Armada BBG dari Pemilik Mobil Pribadi?\""
+                                  },
+                                  {
+                                      "passage":  "Menurut [Direktorat Jenderal Migas Kementerian ESDM](https://migas.esdm.go.id/post/read/Mengenal-Jenis-jenis-Gas-Bumi), kompresinya mencapai sekitar 250 bar, sementara kajian teknik menyebut tekanan kerja tabung kendaraan sekitar 200 bar pada suhu 15°C.",
+                                      "candidate_score":  27,
+                                      "web_search_query":  "\"Menurut [Direktorat Jenderal Migas Kementerian ESDM](https://migas.esdm.go.id/post/read/Mengenal-Jenis-jenis-Gas-Bumi), \""
+                                  },
+                                  {
+                                      "passage":  "- **Pengemudi**: Pasal 90 UU LLAJ membatasi jam kerja maksimal 8 jam sehari dengan istirahat 30 menit tiap 4 jam; tambahkan pemahaman sistem bi-fuel dan respons darurat kebocoran.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"- **Pengemudi**: Pasal 90 UU LLAJ membatasi jam kerja maksimal 8 jam sehari dengan istirahat 30 menit tiap 4 jam; tambah\""
+                                  },
+                                  {
+                                      "passage":  "22 Tahun 2009 Pasal 204, setiap perusahaan angkutan umum, termasuk yang berbahan bakar gas, wajib membangun Sistem Manajemen Keselamatan (SMK) yang teknisnya diatur PM 85/2018.",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"22 Tahun 2009 Pasal 204, setiap perusahaan angkutan umum, termasuk yang berbahan bakar gas, wajib membangun Sistem Manaj\""
+                                  },
+                                  {
+                                      "passage":  "22 Tahun 2009 mengancam kurungan maksimal 6 bulan atau denda maksimal Rp1.500.000.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"22 Tahun 2009 mengancam kurungan maksimal 6 bulan atau denda maksimal Rp1.500.000.\""
+                                  },
+                                  {
+                                      "passage":  "| Jenis perlindungan | Dasar hukum | Yang dilindungi | Sifat | |---|---|---|---| | Asuransi kendaraan | Polis komersial (mis.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"| Jenis perlindungan | Dasar hukum | Yang dilindungi | Sifat | |---|---|---|---| | Asuransi kendaraan | Polis komersial \""
+                                  },
+                                  {
+                                      "passage":  "Satu hal yang sering menjebak: SMK di sini adalah sistem Kementerian Perhubungan khusus angkutan umum (PM 85/2018), berbeda dari SMK3 (Sistem Manajemen K3) versi Kementerian Ketenagakerjaan (PP No.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Satu hal yang sering menjebak: SMK di sini adalah sistem Kementerian Perhubungan khusus angkutan umum (PM 85/2018), berb\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

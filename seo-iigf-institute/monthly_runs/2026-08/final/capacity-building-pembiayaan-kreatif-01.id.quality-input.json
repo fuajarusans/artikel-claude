@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-iigf-institute\\monthly_runs\\2026-08\\final\\capacity-building-pembiayaan-kreatif-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-12T15:18:05+07:00",
+    "word_count":  1584,
+    "paragraph_count":  18,
+    "sentence_count":  88,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.426,
+                        "sentence_burstiness":  0.901,
+                        "top30_vocab_share":  0.281,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.426 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "1 Tahun 2022 tentang Hubungan Keuangan antara Pemerintah Pusat dan Pemerintahan Daerah (UU HKPD), diundangkan 5 Januari 2022 dan masih berlaku per publikasi 2026.",
+                                      "candidate_score":  43,
+                                      "web_search_query":  "\"1 Tahun 2022 tentang Hubungan Keuangan antara Pemerintah Pusat dan Pemerintahan Daerah (UU HKPD), diundangkan 5 Januari \""
+                                  },
+                                  {
+                                      "passage":  "38 Tahun 2015](https://peraturan.bpk.go.id/Details/41764/perpres-no-38-tahun-2015) yang ditetapkan 20 Maret 2015 dan berstatus berlaku menurut data JDIH per Agustus 2026.",
+                                      "candidate_score":  32,
+                                      "web_search_query":  "\"38 Tahun 2015](https://peraturan.bpk.go.id/Details/41764/perpres-no-38-tahun-2015) yang ditetapkan 20 Maret 2015 dan ber\""
+                                  },
+                                  {
+                                      "passage":  "**Mengelola kontrak lintas periode kepemimpinan.** Perjanjian KPBU umumnya berjalan 20–30 tahun (rentang lazim per portal KPBU Kemenkeu, 2026), melampaui satu masa jabatan kepala daerah.",
+                                      "candidate_score":  27,
+                                      "web_search_query":  "\"**Mengelola kontrak lintas periode kepemimpinan.** Perjanjian KPBU umumnya berjalan 20–30 tahun (rentang lazim per porta\""
+                                  },
+                                  {
+                                      "passage":  "38 Tahun 2015, PJPK dapat berupa Menteri, Kepala Lembaga, Kepala Daerah, atau BUMN/BUMD sesuai kewenangannya.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"38 Tahun 2015, PJPK dapat berupa Menteri, Kepala Lembaga, Kepala Daerah, atau BUMN/BUMD sesuai kewenangannya.\""
+                                  },
+                                  {
+                                      "passage":  "# Capacity Building Pembiayaan Kreatif: Fondasi Kapasitas PJPK Seorang kepala bidang di Bappeda pulang dari sesi *capacity building* dua hari dengan map penuh materi.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"# Capacity Building Pembiayaan Kreatif: Fondasi Kapasitas PJPK Seorang kepala bidang di Bappeda pulang dari sesi *capaci\""
+                                  },
+                                  {
+                                      "passage":  "Proyek yang layak ekonomi tetapi belum layak finansial justru sasaran Dukungan Kelayakan (*Viability Gap Fund*).",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Proyek yang layak ekonomi tetapi belum layak finansial justru sasaran Dukungan Kelayakan (*Viability Gap Fund*).\""
+                                  },
+                                  {
+                                      "passage":  "Pemerintah melalui PJPK mengembalikannya lewat tarif pengguna, Pembayaran Ketersediaan Layanan, atau kombinasi keduanya.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Pemerintah melalui PJPK mengembalikannya lewat tarif pengguna, Pembayaran Ketersediaan Layanan, atau kombinasi keduanya.\""
+                                  },
+                                  {
+                                      "passage":  "- **\"Begitu kontrak diteken, tugas pemerintah selesai.\"** PJPK bertanggung jawab hingga akhir Perjanjian KPBU, termasuk memverifikasi kinerja layanan sebelum membayar.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"- ** Begitu kontrak diteken, tugas pemerintah selesai. ** PJPK bertanggung jawab hingga akhir Perjanjian KPBU, termasuk \""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

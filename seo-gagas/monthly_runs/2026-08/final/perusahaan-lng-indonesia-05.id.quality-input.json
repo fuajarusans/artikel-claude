@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-08\\final\\perusahaan-lng-indonesia-05.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-11T14:41:41+07:00",
+    "word_count":  1502,
+    "paragraph_count":  24,
+    "sentence_count":  73,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.363,
+                        "sentence_burstiness":  1.148,
+                        "top30_vocab_share":  0.264,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.363 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Dalam satu studi teknik FSRU berkapasitas 170.000 m³ (Jurnal Teknik [ITS, 2020](https://repository.its.ac.id/80451/)), laju boil-off tercatat sekitar 0,24% per hari.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"Dalam satu studi teknik FSRU berkapasitas 170.000 m³ (Jurnal Teknik [ITS, 2020](https://repository.its.ac.id/80451/)), l\""
+                                  },
+                                  {
+                                      "passage":  "Nilai MARVS pun begitu: pada tangki atmosferik kapal LNG kerap dikutip sekitar 0,7 barg, tetapi ISO tank darat bisa berbeda, jadi perlakukan MARVS sebagai konsep, bukan angka baku.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Nilai MARVS pun begitu: pada tangki atmosferik kapal LNG kerap dikutip sekitar 0,7 barg, tetapi ISO tank darat bisa berb\""
+                                  },
+                                  {
+                                      "passage":  "# Kendala Pasokan LNG dan Cara Mengatasinya di Lapangan Sistem LNG sudah terpasang, tetapi tekanan gas anjlok tepat saat lini produksi paling membutuhkan panas.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"# Kendala Pasokan LNG dan Cara Mengatasinya di Lapangan Sistem LNG sudah terpasang, tetapi tekanan gas anjlok tepat saat\""
+                                  },
+                                  {
+                                      "passage":  "## Kesimpulan Gangguan pasokan LNG jarang lahir dari satu sebab tunggal; ia hasil interaksi antara desain sistem, disiplin rantai dingin, dan responsivitas pemasok.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Kesimpulan Gangguan pasokan LNG jarang lahir dari satu sebab tunggal; ia hasil interaksi antara desain sistem, disipl\""
+                                  },
+                                  {
+                                      "passage":  "## Kapan Masalahnya Bukan LNG-nya, melainkan Desain Sistem Anda Sebagian besar keluhan \"pasokan tidak andal\" sebenarnya berakar pada perencanaan di sisi pelanggan, bukan pada bahan bakarnya.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Kapan Masalahnya Bukan LNG-nya, melainkan Desain Sistem Anda Sebagian besar keluhan  pasokan tidak andal  sebenarnya \""
+                                  },
+                                  {
+                                      "passage":  "- **Transparansi volume**: siapa menanggung susut akibat BOG perlu tertulis jelas sejak awal.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"- **Transparansi volume**: siapa menanggung susut akibat BOG perlu tertulis jelas sejak awal.\""
+                                  },
+                                  {
+                                      "passage":  "**Jaga integritas insulasi tangki** supaya rembesan panas, dan karenanya BOG, tetap minimal.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"**Jaga integritas insulasi tangki** supaya rembesan panas, dan karenanya BOG, tetap minimal.\""
+                                  },
+                                  {
+                                      "passage":  "Bila tak dikelola, BOG menaikkan tekanan tangki hingga melewati batas aman (MARVS) dan memicu pelepasan gas lewat katup pengaman (*venting*).",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Bila tak dikelola, BOG menaikkan tekanan tangki hingga melewati batas aman (MARVS) dan memicu pelepasan gas lewat katup \""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

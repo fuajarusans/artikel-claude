@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-07\\final\\ai-supply-chain-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-06T19:34:12+07:00",
+    "word_count":  1006,
+    "paragraph_count":  18,
+    "sentence_count":  59,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.395,
+                        "sentence_burstiness":  0.508,
+                        "top30_vocab_share":  0.297,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.395 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Gartner memprediksi 70% organisasi besar mengadopsi peramalan permintaan berbasis AI pada 2030 ([Gartner, September 2025](https://www.gartner.com/en/newsroom/press-releases/2025-09-16-gartner-predicts-70-percent-of-large-orgs-will-adopt-ai-based-supply-chain-forecasting-to-predict-future-demand-by-2030)).",
+                                      "candidate_score":  36,
+                                      "web_search_query":  "\"Gartner memprediksi 70% organisasi besar mengadopsi peramalan permintaan berbasis AI pada 2030 ([Gartner, September 2025\""
+                                  },
+                                  {
+                                      "passage":  "Bukti pada skala global: sistem ORION milik UPS diperkirakan menghemat sekitar 100 juta mil perjalanan dan 10 juta galon BBM per tahun (INFORMS).",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Bukti pada skala global: sistem ORION milik UPS diperkirakan menghemat sekitar 100 juta mil perjalanan dan 10 juta galon\""
+                                  },
+                                  {
+                                      "passage":  "Survei Gartner (Februari 2026) terhadap 509 pemimpin supply chain menunjukkan 55% memperkirakan agentic AI mengurangi kebutuhan rekrutmen *entry-level*.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Survei Gartner (Februari 2026) terhadap 509 pemimpin supply chain menunjukkan 55% memperkirakan agentic AI mengurangi ke\""
+                                  },
+                                  {
+                                      "passage":  "**Audit kesiapan data.** Pastikan riwayat penjualan dan pengiriman minimal 2–3 tahun, master data produk dan lokasi rapi, serta jelas siapa pemilik datanya.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"**Audit kesiapan data.** Pastikan riwayat penjualan dan pengiriman minimal 2–3 tahun, master data produk dan lokasi rapi\""
+                                  },
+                                  {
+                                      "passage":  "[McKinsey (2021)](https://www.mckinsey.com/industries/metals-and-mining/our-insights/succeeding-in-the-ai-supply-chain-revolution) mencatat *early adopter* (pengadopsi awal) AI di rantai pasok memperbaiki biaya logistik 15%, tingkat persediaan 35%, dan *service level* 65% dibanding pesaing yang lebih lambat mengadopsi.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"[McKinsey (2021)](https://www.mckinsey.com/industries/metals-and-mining/our-insights/succeeding-in-the-ai-supply-chain-r\""
+                                  },
+                                  {
+                                      "passage":  "# AI dalam Supply Chain: Use Case dan Manfaatnya Forecast penjualan meleset, biaya kirim terus naik, dan disrupsi pemasok baru terlihat setelah barang terlambat.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"# AI dalam Supply Chain: Use Case dan Manfaatnya Forecast penjualan meleset, biaya kirim terus naik, dan disrupsi pemaso\""
+                                  },
+                                  {
+                                      "passage":  "Ruang perbaikan di dalam negeri masih lebar: biaya logistik nasional tercatat 14,29% dari PDB pada 2022 menurut perhitungan Bappenas dan BPS.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Ruang perbaikan di dalam negeri masih lebar: biaya logistik nasional tercatat 14,29% dari PDB pada 2022 menurut perhitun\""
+                                  },
+                                  {
+                                      "passage":  "Di ekosistem SAP, keduanya berjalan pada satu platform cloud, SAP Integrated Business Planning ([SAP IBP](https://www.soltius.co.id/blog/how-sap-ibp-supports-the-sales-operations-planning-s-op-process)).",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Di ekosistem SAP, keduanya berjalan pada satu platform cloud, SAP Integrated Business Planning ([SAP IBP](https://www.so\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

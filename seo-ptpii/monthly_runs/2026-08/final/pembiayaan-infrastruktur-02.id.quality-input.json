@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-ptpii\\monthly_runs\\2026-08\\final\\pembiayaan-infrastruktur-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-12T15:54:42+07:00",
+    "word_count":  1843,
+    "paragraph_count":  26,
+    "sentence_count":  100,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.347,
+                        "sentence_burstiness":  1.006,
+                        "top30_vocab_share":  0.335,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.347 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "68 Tahun 2024 (berlaku 18 Oktober 2024) mengonsolidasikan dukungan pemerintah untuk skema KPBU: penjaminan infrastruktur, dukungan kelayakan, pembayaran ketersediaan layanan, dan fasilitas penyiapan proyek.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"68 Tahun 2024 (berlaku 18 Oktober 2024) mengonsolidasikan dukungan pemerintah untuk skema KPBU: penjaminan infrastruktur\""
+                                  },
+                                  {
+                                      "passage":  "Kementerian Keuangan menyebut kisaran lazim 70–80% utang dan 20–30% ekuitas dari total biaya proyek pada skema KPBU (diakses 2026).",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Kementerian Keuangan menyebut kisaran lazim 70–80% utang dan 20–30% ekuitas dari total biaya proyek pada skema KPBU (dia\""
+                                  },
+                                  {
+                                      "passage":  "Komposisi utang dan ekuitas, yang menurut Kementerian Keuangan lazim berkisar 70–80% utang dan 20–30% ekuitas dari biaya proyek (diakses 2026).",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Komposisi utang dan ekuitas, yang menurut Kementerian Keuangan lazim berkisar 70–80% utang dan 20–30% ekuitas dari biaya\""
+                                  },
+                                  {
+                                      "passage":  "- **Komposisi utang–ekuitas.** Kisaran 70–80% utang adalah praktik umum, bukan ambang regulasi; proyek berisiko tinggi kerap diminta menyetor ekuitas lebih besar.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"- **Komposisi utang–ekuitas.** Kisaran 70–80% utang adalah praktik umum, bukan ambang regulasi; proyek berisiko tinggi k\""
+                                  },
+                                  {
+                                      "passage":  "**Berapa waktu tersedia sampai konstruksi dimulai?** Negosiasi alokasi risiko multipihak butuh waktu, dan jadwal mendesak menghukum struktur berlapis.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"**Berapa waktu tersedia sampai konstruksi dimulai?** Negosiasi alokasi risiko multipihak butuh waktu, dan jadwal mendesa\""
+                                  },
+                                  {
+                                      "passage":  "- **Tenor.** Umur ekonomis aset infrastruktur lazimnya melampaui tenor pinjaman perbankan yang tersedia; selisihnya diselesaikan lewat struktur pelunasan atau rencana pembiayaan ulang.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"- **Tenor.** Umur ekonomis aset infrastruktur lazimnya melampaui tenor pinjaman perbankan yang tersedia; selisihnya dise\""
+                                  },
+                                  {
+                                      "passage":  "Pada proyek KPBU berskala besar, kepastian kewajiban sisi pemerintah kerap menentukan apakah struktur *project finance* bisa berdiri sama sekali.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Pada proyek KPBU berskala besar, kepastian kewajiban sisi pemerintah kerap menentukan apakah struktur *project finance* \""
+                                  },
+                                  {
+                                      "passage":  "- **DSCR.** Ukuran seberapa lega arus kas menutup cicilan pokok dan bunga.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"- **DSCR.** Ukuran seberapa lega arus kas menutup cicilan pokok dan bunga.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

@@ -1,0 +1,80 @@
+{
+  "keyword": "Low Code Platform",
+  "keyword_slug": "low-code-platform",
+  "month": "2026-10",
+  "captured_at": "2026-10-07",
+  "landing_page": "https://www.soltius.co.id/id/blog/low-code-and-no-code-platforms",
+  "landing_page_summary": "Hub masih tipis/pilar: hanya menjelaskan 'Apa itu Low-Code dan No-Code', 'Low-Code VS No-Code', dan 'Mengapa Low-Code/No-Code Digunakan' secara umum. TIDAK menyebut SAP Build/BTP, tidak membahas biaya/lisensi, AI/Joule, process automation, ALM/governance, atau use case per-fungsi. Seluruh angle mendalam = whitespace terhadap hub.",
+  "data_sources_used": ["live_landing_page_fetch", "websearch", "known_id_b2b_query_patterns"],
+  "ahrefs_available": false,
+  "live_serp_status": "Google SERP scrape via WebFetch diblokir (anti-bot). SERP landscape & PAA didekati dari hasil WebSearch kompetitor + pola kueri B2B Indonesia yang umum. Tidak ada angka volume/KD yang difabrikasi.",
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Pasar low-code tumbuh ~19% CAGR menuju ~USD 44,5 miliar pada 2026; Gartner memproyeksikan 70-75% aplikasi enterprise baru dibangun dengan low-code pada 2026 (naik dari <25% di 2020); ~16,2 juta citizen developer global pada 2026. Sumber sekunder (Gartner via Kissflow/ToolJet) — SME researcher WAJIB verifikasi angka + URL primer Gartner.",
+    "apr2026_rank": "n/a (seo_report: none bulan ini; rank #6 pada laporan Apr 2026 sebagai acuan historis)"
+  },
+  "serp": {
+    "top_competitor_angles": [
+      { "source": "kissflow.com", "angle_summary": "Definisi low-code, statistik pasar Gartner, approval workflow, citizen development." },
+      { "source": "sap.com (process automation / developer tools)", "angle_summary": "Fitur SAP Build Process Automation (RPA, workflow orchestration, Document Information Extraction) & GenAI developer tools (Joule, SAP Build Code)." },
+      { "source": "agilepoint.com / hyperbots.com", "angle_summary": "Contoh aplikasi low-code lintas fungsi (finance, HR, procurement, operasional)." },
+      { "source": "quickbase.com / synoptek.com / forrester.com", "angle_summary": "Governance, ALM, application sprawl, scaling low-code tanpa kehilangan kontrol." },
+      { "source": "redresscompliance.com / learning.sap.com", "angle_summary": "Model komersial SAP BTP (CPEA, BTPEA, PAYG), free tier, optimasi biaya." }
+    ],
+    "serp_features": ["ai_overview_likely", "paa", "featured_snippet_definition"],
+    "ai_overview_entities": ["low-code platform", "no-code", "SAP Build", "SAP BTP", "citizen developer", "RPA", "Gartner"]
+  },
+  "paa": [
+    "Apa itu low-code platform?",
+    "Apa perbedaan low-code dan no-code?",
+    "Apa itu SAP Build?",
+    "Berapa biaya platform low-code / SAP BTP?",
+    "Apakah low-code aman untuk aplikasi enterprise?",
+    "Apa contoh penggunaan low-code di perusahaan?",
+    "Apakah low-code menggantikan developer?",
+    "Bagaimana low-code bekerja dengan SAP S/4HANA (clean core)?",
+    "Apa itu citizen developer?",
+    "Apakah low-code bisa untuk otomatisasi proses (RPA)?"
+  ],
+  "sap_facts_verified_via_websearch": {
+    "sap_build_components": "SAP Build Apps (bangun aplikasi visual), SAP Build Process Automation (workflow + RPA + Document Information Extraction), SAP Build Work Zone (portal/experience), SAP Build Code (GenAI code dev untuk Java/JavaScript). Semua di atas SAP BTP.",
+    "btp_commercial_models": "CPEA (Cloud Platform Enterprise Agreement, prepaid tahunan diskon ~20-40%), BTPEA (BTP Enterprise Agreement, komit multi-tahun diskon lebih dalam + price protection), PAYG (Pay-As-You-Go, bayar sesuai pemakaian, cocok pilot). Free tier hanya di model konsumsi (CPEA/PAYG). Entry ~USD 750/bln; deployment enterprise bisa USD 250rb-1jt+/tahun. Sumber: redresscompliance + learning.sap.com — researcher verifikasi ulang.",
+    "joule": "Joule = copilot GenAI SAP yang tertanam lintas SAP Business Suite termasuk SAP Build. Joule Studio (bagian SAP Build) untuk membuat 'skills' kustom; Joule for developers membantu generate kode & unit test ABAP Cloud-compliant. Berkembang ke ekosistem AI agent. Sumber: news.sap.com 2025/03, sap.com developer-tools.",
+    "process_automation": "SAP Build Process Automation: attended & unattended RPA bots; workflow orchestration; Document Information Extraction berbasis template & LLM; integrasi AI services. Sumber: sap.com process-automation/features.",
+    "verify_note": "Semua nama produk/kapabilitas/harga SAP berkembang cepat — SME researcher WAJIB konfirmasi ke help.sap.com / news.sap.com / sap.com sebelum klaim di draft."
+  },
+  "suggested_external_sources": [
+    "https://www.sap.com/products/technology-platform/process-automation/features.html",
+    "https://www.sap.com/products/technology-platform/developer-tools.html",
+    "https://news.sap.com/2025/03/joule-for-developers-ai-powered-capabilities/",
+    "https://learning.sap.com/courses/becoming-an-sap-btp-solution-architect/exploring-sap-btp-commercial-models",
+    "https://www.forrester.com/blogs/the-forrester-landscape-appgen-and-low-code-platforms-q2-2026-is-out/",
+    "https://kissflow.com/low-code/gartner-forecasts-on-low-code-development-market/"
+  ],
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      { "id": "2026-06-low-code-platform-01", "title": "Low-Code Platform: Apa Itu dan Bagaimana Cara Kerjanya untuk Bisnis Enterprise?", "angle": "definisi-dan-cara-kerja-enterprise", "intent": "informational", "subtopics": ["definisi low-code platform","low-code vs no-code vs pro-code","SAP Build BTP","citizen developer","enterprise evaluation framework"] },
+      { "id": "2026-06-low-code-platform-02", "title": "SAP Build di SAP BTP: Platform Low-Code yang Dirancang untuk Ekosistem ERP", "angle": "sap-build-btp-enterprise-deployment", "intent": "comparison", "subtopics": ["SAP Build Apps","SAP Build Process Automation","SAP Build Work Zone","clean core extensibility","SAP Build vs ABAP"] },
+      { "id": "2026-06-low-code-platform-03", "title": "Cara Membangun Program Citizen Developer di Perusahaan dengan Low-Code Platform", "angle": "citizen-developer-program-roadmap", "intent": "how-to", "subtopics": ["citizen developer program","5 langkah roadmap","governance low-code","shadow IT prevention","ROI citizen developer"] },
+      { "id": "2026-06-low-code-platform-04", "title": "Risiko Low-Code Platform yang Jarang Dibahas: Keamanan Data, Shadow IT, dan Vendor Lock-In", "angle": "risiko-keamanan-governance-enterprise", "intent": "troubleshooting", "subtopics": ["risiko keamanan low-code","shadow IT","vendor lock-in","technical debt","checklist keamanan"] },
+      { "id": "2026-06-low-code-platform-05", "title": "Low-Code Platform untuk Manufaktur: 5 Use Case Nyata dan ROI yang Bisa Diukur", "angle": "industri-manufaktur-supply-chain-use-case", "intent": "decision", "subtopics": ["low-code manufaktur use case","QC digital pabrik","SAP Build shop floor","ROI operasional pabrik","supply chain low-code"] },
+      { "id": "2026-09-low-code-platform-01 (uncommitted)", "title": "SAP Build vs Power Platform vs Mendix: Memilih Low-Code Platform untuk Pengguna SAP", "angle": "vendor-comparison-sap-build-power-platform-mendix", "intent": "comparison", "subtopics": ["kriteria pemilihan platform","SAP Build","Microsoft Power Platform","Mendix","tabel perbandingan vendor"] },
+      { "id": "2026-09-low-code-platform-02 (uncommitted)", "title": "Beli, Bangun, atau Low-Code Platform? Kerangka Keputusan Aplikasi Enterprise", "angle": "buy-build-or-lowcode-decision", "intent": "decision", "subtopics": ["beli vs bangun vs low-code","matriks keputusan 6 kriteria","kapan membeli","kapan membangun","kapan low-code bukan jawaban"] },
+      { "id": "2026-09-low-code-platform-03 (uncommitted)", "title": "Low-Code dan Clean Core: Memperluas SAP S/4HANA Tanpa Merusak Inti", "angle": "lowcode-clean-core-extensibility-model", "intent": "informational", "subtopics": ["clean core","model extensibility (in-app, side-by-side, ABAP Cloud)","posisi low-code SAP Build","tier extensibility","batas low-code vs ABAP Cloud"] }
+    ],
+    "uncovered_angles": [
+      "Biaya/TCO & model lisensi SAP BTP (CPEA/BTPEA/PAYG, free tier, kontrol biaya) — belum ada artikel biaya low-code (ROI 2026-06-05 khusus manufaktur).",
+      "Low-code bertenaga AI/GenAI: Joule, Joule Studio, SAP Build Code, AI agent — tren 2026, belum tersentuh.",
+      "SAP Build Process Automation sebagai mesin otomatisasi (RPA attended/unattended, workflow orchestration, Document Information Extraction) — 2026-06-02 hanya menyebut sekilas dalam ikhtisar komponen.",
+      "Use case low-code di luar manufaktur: fungsi back-office (keuangan, SDM, pengadaan, layanan internal) — 2026-06-05 khusus manufaktur/supply-chain.",
+      "Tata kelola siklus hidup aplikasi (ALM): environment dev/test/prod, transport, versioning, pensiun aplikasi, pencegahan application sprawl — berbeda dari program citizen developer (2026-06-03) & risiko keamanan (2026-06-04)."
+    ]
+  },
+  "cousins_this_month": {
+    "note": "Set bulan ini: warehouse-management-system, low-code-platform, business-intelligence, sap-clean-core. Cousin 1 tetap = SAP Clean Core (tie BTP side-by-side extensibility, sesuai instruksi). Cousin 2 dipilih per-brief dari {Business Intelligence, warehouse management system} sesuai relevansi angle (digital-manufacturing dari product_matrix tidak tersedia bulan ini).",
+    "clean_core_url": "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide",
+    "business_intelligence_url": "https://www.soltius.co.id/id/blog/business-intelligence",
+    "wms_url": "https://www.soltius.co.id/id/blog/manfaat-dan-modul-warehouse-management-system"
+  }
+}

@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-08\\final\\cng-indonesia-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-11T14:40:20+07:00",
+    "word_count":  1613,
+    "paragraph_count":  25,
+    "sentence_count":  89,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.313,
+                        "sentence_burstiness":  0.771,
+                        "top30_vocab_share":  0.297,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.313 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Kontribusi transportasi terhadap PM2.5 bergerak menurut musim (sekitar 32–41% saat hujan, 42–57% saat kemarau), sementara KLHK (2023) memakai basis berbeda: sekitar 44% dari penggunaan bahan bakar Jakarta.",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"Kontribusi transportasi terhadap PM2.5 bergerak menurut musim (sekitar 32–41% saat hujan, 42–57% saat kemarau), sementar\""
+                                  },
+                                  {
+                                      "passage":  "Tapi EV bukan otomatis nol emisi total: per Mei 2025 bauran pembangkit listrik nasional masih sekitar 67,5% batu bara (ESDM), jadi emisi berpindah ke PLTU.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Tapi EV bukan otomatis nol emisi total: per Mei 2025 bauran pembangkit listrik nasional masih sekitar 67,5% batu bara (E\""
+                                  },
+                                  {
+                                      "passage":  "WHO mengaitkan polusi udara ambien dengan sekitar 4,2 juta kematian dini per tahun (data 2019), terkait penyakit jantung, stroke, PPOK, dan kanker paru.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"WHO mengaitkan polusi udara ambien dengan sekitar 4,2 juta kematian dini per tahun (data 2019), terkait penyakit jantung\""
+                                  },
+                                  {
+                                      "passage":  "Namun keunggulan NOx bervariasi (sekitar 12–40% menurut studi internasional) dan menyempit terhadap diesel modern.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Namun keunggulan NOx bervariasi (sekitar 12–40% menurut studi internasional) dan menyempit terhadap diesel modern.\""
+                                  },
+                                  {
+                                      "passage":  "\u003e **Ringkasnya:** CNG (*Compressed Natural Gas*) memengaruhi kualitas udara kota terutama lewat sektor transportasi.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"\u003e **Ringkasnya:** CNG (*Compressed Natural Gas*) memengaruhi kualitas udara kota terutama lewat sektor transportasi.\""
+                                  },
+                                  {
+                                      "passage":  "## Dampaknya bagi Kesehatan: PM2.5, Paru, dan Anak-Anak Menurunkan NOx dan partikulat dari kendaraan bernilai kesehatan tinggi karena polutan inilah yang paling dekat dengan tubuh.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"## Dampaknya bagi Kesehatan: PM2.5, Paru, dan Anak-Anak Menurunkan NOx dan partikulat dari kendaraan bernilai kesehatan \""
+                                  },
+                                  {
+                                      "passage":  "## Jujur: CNG Lebih Bersih, tapi Bukan Nol CNG adalah perbaikan nyata, bukan solusi akhir.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Jujur: CNG Lebih Bersih, tapi Bukan Nol CNG adalah perbaikan nyata, bukan solusi akhir.\""
+                                  },
+                                  {
+                                      "passage":  "Studi Clean Air Task Force (2019) bahkan menemukan bus diesel baru bisa lebih efisien biaya menurunkan NOx dan PM.",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"Studi Clean Air Task Force (2019) bahkan menemukan bus diesel baru bisa lebih efisien biaya menurunkan NOx dan PM.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

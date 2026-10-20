@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-iigf-institute\\monthly_runs\\2026-09\\final\\capacity-building-pembiayaan-kreatif-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-22T06:15:47+07:00",
+    "word_count":  1598,
+    "paragraph_count":  24,
+    "sentence_count":  97,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.495,
+                        "sentence_burstiness":  0.617,
+                        "top30_vocab_share":  0.286,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "7 Tahun 2023](https://peraturan.bpk.go.id/Details/271431/permen-ppnkepala-bappenas-no-7-tahun-2023), ditetapkan 22 September 2023, diundangkan 29 September 2023, dan tercatat dalam Berita Negara RI Tahun 2023 Nomor 777 (JDIH BPK RI, pengecekan 2026).",
+                                      "candidate_score":  62,
+                                      "web_search_query":  "\"7 Tahun 2023](https://peraturan.bpk.go.id/Details/271431/permen-ppnkepala-bappenas-no-7-tahun-2023), ditetapkan 22 Septe\""
+                                  },
+                                  {
+                                      "passage":  "PJPK, yakni Menteri, Kepala Lembaga, Kepala Daerah, atau BUMN/BUMD sesuai kewenangannya, biasanya dibantu konsultan penyiapan atau Fasilitas Penyiapan Proyek Kementerian Keuangan.",
+                                      "candidate_score":  32,
+                                      "web_search_query":  "\"PJPK, yakni Menteri, Kepala Lembaga, Kepala Daerah, atau BUMN/BUMD sesuai kewenangannya, biasanya dibantu konsultan peny\""
+                                  },
+                                  {
+                                      "passage":  "7 Tahun 2023 tentang Pelaksanaan KPBU, yang berlaku sejak 29 September 2023.",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"7 Tahun 2023 tentang Pelaksanaan KPBU, yang berlaku sejak 29 September 2023.\""
+                                  },
+                                  {
+                                      "passage":  "38 Tahun 2015, ditetapkan 20 Maret 2015 dan masih berstatus berlaku per pengecekan 2026.",
+                                      "candidate_score":  29,
+                                      "web_search_query":  "\"38 Tahun 2015, ditetapkan 20 Maret 2015 dan masih berstatus berlaku per pengecekan 2026.\""
+                                  },
+                                  {
+                                      "passage":  "# Anatomi Dokumen Pra-Studi Kelayakan KPBU: Isi dan Cara Memeriksanya Sebuah dinas daerah menerima dokumen pra-studi kelayakan dari konsultan penyiapan: dua bundel, ratusan halaman, penuh tabel proyeksi.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"# Anatomi Dokumen Pra-Studi Kelayakan KPBU: Isi dan Cara Memeriksanya Sebuah dinas daerah menerima dokumen pra-studi kel\""
+                                  },
+                                  {
+                                      "passage":  "Satu halaman di portal KPBU Kementerian Keuangan masih memuat daftar komponen versi lama tanpa tanggal publikasi dan tanpa rujukan ke Permen 7/2023, per pengecekan 17 September 2026.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Satu halaman di portal KPBU Kementerian Keuangan masih memuat daftar komponen versi lama tanpa tanggal publikasi dan tan\""
+                                  },
+                                  {
+                                      "passage":  "| Latar belakang disalin utuh, tanpa data baru | | Ekonomi | Analisis permintaan, biaya-manfaat sosial, EIRR dan ENPV | Apakah proyek bermanfaat bagi masyarakat luas?",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"| Latar belakang disalin utuh, tanpa data baru | | Ekonomi | Analisis permintaan, biaya-manfaat sosial, EIRR dan ENPV | \""
+                                  },
+                                  {
+                                      "passage":  "| Hanya menghitung biaya modal, mengabaikan operasi | | Manajemen | Matriks alokasi risiko, rancangan kelembagaan dan perjanjian | Siapa memikul risiko apa, sampai kapan?",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"| Hanya menghitung biaya modal, mengabaikan operasi | | Manajemen | Matriks alokasi risiko, rancangan kelembagaan dan pe\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

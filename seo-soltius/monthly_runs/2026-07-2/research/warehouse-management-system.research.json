@@ -1,0 +1,88 @@
+{
+  "keyword": "warehouse management system",
+  "keyword_slug": "warehouse-management-system",
+  "month": "2026-07-2",
+  "captured_at": "2026-07-07",
+  "landing_page": "https://www.soltius.co.id/id/blog/konsep-warehouse-management-system-yang-wajib-anda-tahu",
+  "landing_page_summary": "Artikel hub introduktori: definisi WMS sebagai bagian dari supply chain, keuntungan (proses lebih cepat, optimasi lokasi, tracking real-time), tiga konsep pengelolaan (FIFO/LIFO/FEFO), dan perbedaan SCM vs WMS. Tidak menyebut produk SAP secara eksplisit; tidak membahas implementasi, industri spesifik, otomasi, ROI, atau e-commerce — semuanya masih terbuka sebagai gap cluster.",
+  "data_sources_used": ["live_serp", "websearch", "landing_page_webfetch", "articles_history"],
+  "ahrefs_available": false,
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Permintaan tinggi & tumbuh di Indonesia — SERP ID sangat kompetitif (Mekari Jurnal, Accurate, Zoho, HashMicro, ScaleOcean, Anchanto, Jubelio). Didorong pertumbuhan e-commerce (nilai transaksi e-commerce ID +17% pada 2024 per Databoks/Katadata) dan kebutuhan omnichannel; banyak vendor lokal WMS bersaing di kata kunci ini.",
+    "apr2026_rank": "n/a (keyword tidak ada di seo_report_apr2026.md; keyword baru untuk bulan ini, seo_report=none)"
+  },
+  "serp": {
+    "top_10": [
+      { "url": "https://www.jurnal.id/id/blog/sistem-manajemen-gudang-pergudangan-warehouse-management-system-adalah/", "title": "Optimalkan Manajemen Gudang dengan WMS - Mekari Jurnal", "angle_summary": "Definisi + manfaat WMS generik untuk UKM; berorientasi produk akuntansi/inventory Mekari." },
+      { "url": "https://accurate.id/marketing-manajemen/warehouse-management-system/", "title": "Warehouse Management System (WMS): Konsep & Manfaatnya - Accurate", "angle_summary": "Konsep, manfaat, jenis WMS; berorientasi software akuntansi lokal." },
+      { "url": "https://www.zoho.com/blog/id/general/warehouse-management-system-wms-pengertian-manfaat-dan-jenisnya.html", "title": "WMS: Pengertian, Manfaat, dan Jenisnya - Zoho", "angle_summary": "Definisi, manfaat, jenis WMS (standalone, modul ERP, cloud); vendor-neutral tapi mengarah ke Zoho Inventory." },
+      { "url": "https://scaleocean.com/id/blog/solusi/pengertian-warehouse-management-system-wms", "title": "WMS: Pengertian dan Manfaatnya - ScaleOcean", "angle_summary": "Pengertian + manfaat + fitur; berorientasi ERP/WMS lokal ScaleOcean." },
+      { "url": "https://8thinktank.com/warehouse-management-system/", "title": "WMS: Pengertian, Fungsi, Manfaat untuk Manufaktur - Think Tank Solusindo", "angle_summary": "Fokus manufaktur; menyinggung SAP EWM & otomasi (conveyor, AS/RS, AMR)." },
+      { "url": "https://www.hashmicro.com/id/aplikasi-wms", "title": "17 Aplikasi WMS - HashMicro", "angle_summary": "Listicle perbandingan vendor WMS lokal; komersial." },
+      { "url": "https://anchanto.com/id-id/7-rekomendasi-aplikasi-gudang-wms-terbaik-dan-terlengkap/", "title": "7 Rekomendasi Aplikasi Gudang WMS - Anchanto", "angle_summary": "Listicle vendor; kuat di segmen e-commerce/marketplace fulfillment (integrasi Shopee/Tokopedia, JNE/Ninja Van)." },
+      { "url": "https://www.mceasy.com/blog/bisnis/manajemen-gudang/implementasi-warehouse-management-system/", "title": "Implementasi Warehouse Management System - McEasy", "angle_summary": "Membahas tahapan implementasi WMS + pentingnya change management/UI untuk operator; masih generik non-SAP." },
+      { "url": "https://www.prieds.com/post/panduan-lengkap-warehouse-management-system-wms", "title": "Panduan Lengkap WMS - PRIEDS", "angle_summary": "Panduan konsep + manfaat + fitur + integrasi; vendor lokal." },
+      { "url": "https://www.jurnal.id/id/aplikasi-warehouse-management-system-online/", "title": "10 Aplikasi WMS Online - Mekari Jurnal", "angle_summary": "Listicle vendor WMS cloud lokal." }
+    ],
+    "serp_features": ["paa", "ai_overview_likely", "listicle_heavy"],
+    "ai_overview_entities": ["Warehouse Management System (WMS)", "Supply Chain Management (SCM)", "FIFO/LIFO/FEFO", "picking", "putaway", "real-time inventory", "ERP", "SAP EWM", "barcode/RFID", "AMR / goods-to-person"]
+  },
+  "paa": [
+    "Apa itu warehouse management system (WMS)?",
+    "Apa perbedaan WMS dan ERP?",
+    "Berapa lama implementasi WMS?",
+    "Berapa biaya implementasi WMS?",
+    "Apa manfaat WMS untuk gudang?",
+    "Apa itu FIFO, LIFO, dan FEFO dalam gudang?",
+    "Apa saja fitur utama WMS?",
+    "Apakah WMS cocok untuk UKM?",
+    "Apa itu SAP EWM?",
+    "Bagaimana WMS terintegrasi dengan e-commerce/marketplace?",
+    "Apa itu picking error dan bagaimana WMS menguranginya?",
+    "Bagaimana WMS mendukung otomasi gudang (robotik/AMR)?"
+  ],
+  "gsc_style_queries_from_report": [
+    "Tidak ada — keyword 'warehouse management system' tidak tercantum di _extracted/seo_report_apr2026.md (report bulan ini = none). Data ranking mengandalkan live SERP + WebSearch."
+  ],
+  "external_facts_captured": {
+    "wms_vs_erp": "ERP mengelola aliran barang di tingkat kuantitas & keuangan (pembelian, produksi, inventaris); WMS mengelola pergerakan fisik dalam gudang (bin, putaway, picking, packing, shipping). Sumber: Finale/Descartes, Acumatica, BlueLink ERP.",
+    "implementasi_durasi": "Integrasi WMS-ERP dasar ~4-8 minggu; deployment modul gudang ERP lengkap 6-18 bulan (bervariasi). Sumber: Finale/Davanti WICS.",
+    "wms_cost_range": "Cloud WMS umumnya USD 100-500/user/bulan; lisensi on-premise satu kali USD 2.500-200.000/fasilitas + maintenance tahunan. Payback WMS tipikal 12-24 bulan; ROI logistik dianggap baik bila >20%/tahun. Sumber: Logiwa, Deposco, Shipedge (angka global, wajib diberi label rentang/estimasi, bukan angka pasti Indonesia).",
+    "sap_ewm_gartner": "SAP diakui Leader dalam Gartner Magic Quadrant for Warehouse Management Systems (2024 & 2026). Sumber: news.sap.com (2024/05 & 2026/05). Wajib diverifikasi ulang oleh researcher.",
+    "sap_ewm_automation": "SAP EWM (embedded/decentralized) terintegrasi dengan conveyor, AS/RS, goods-to-person, dan AMR melalui Material Flow System (MFS) + Warehouse Robotics; mendukung labor management, yard management, slotting. Sumber: SAP EWM features page, Körber, E3 Magazine, Roboteon.",
+    "sap_ewm_omnichannel": "SAP EWM mendukung outbound picking fleksibel multi-order, returns management e-commerce, integrasi SAP TM, dan (via S/4HANA Retail / SAP CAR) BOPIS & ship-from-store untuk omnichannel. Sumber: SAP EWM features, SAPinsider, Crescense.",
+    "cold_chain_cdob": "Distribusi obat di Indonesia wajib mengikuti CDOB (Cara Distribusi Obat yang Baik) yang disertifikasi BPOM; cold chain product (mis. vaksin, insulin, biologis) butuh 2-8°C + monitoring suhu; FEFO wajib. Sumber: BPOM/CDOB, jurnal farmasi ID. WMS/SAP EWM mendukung batch/serial, HU management, dan traceability.",
+    "rfid_accuracy": "Studi Auburn University RFID Lab + GS1 US: RFID memungkinkan akurasi order mendekati 100% di ritel. Sumber: PRNewswire (dipakai artikel 2026-08-04 — hindari duplikasi konteks, boleh dikutip ringan bila relevan).",
+    "ecommerce_growth_id": "Nilai transaksi e-commerce Indonesia naik ~17% pada 2024. Sumber: Databoks/Katadata (dipakai artikel 2026-08-03 — boleh dikutip sebagai konteks pasar bila perlu, tapi cari sumber tambahan untuk menghindari kesan duplikasi)."
+  },
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      { "id": "2026-08-warehouse-management-system-01", "angle": "wms-vs-erp-vs-inventory-batas-keputusan", "angle_hash": "sha1:2edbdd45c8a0", "intent": "comparison", "subtopics": ["aplikasi gudang vs WMS", "slotting", "integrasi WMS-ERP", "modul inventory ERP vs WMS", "real-time inventory", "SAP EWM", "traceability batch/serial/expired", "WMS vs ERP"] },
+      { "id": "2026-08-warehouse-management-system-02", "angle": "sap-ewm-vs-stock-room-vs-lewm-pilihan-s4hana", "angle_hash": "sha1:3cb316cc3ec7", "intent": "decision", "subtopics": ["embedded vs decentralized EWM", "end of maintenance SAP WM", "MFS", "migrasi WM ke EWM", "RISE with SAP", "SAP EWM", "Stock Room Management", "LE-WM", "warehouse management S/4HANA"] },
+      { "id": "2026-08-warehouse-management-system-03", "angle": "tanda-gudang-butuh-wms-dan-kapan-belum-perlu", "angle_hash": "sha1:67c5c1ecc022", "intent": "troubleshooting", "subtopics": ["akurasi inventaris", "kapan butuh WMS", "multi-bin multi-gudang", "picking error", "real-time inventory", "SAP EWM", "selisih stok", "traceability batch FEFO"] },
+      { "id": "2026-08-warehouse-management-system-04", "angle": "wms-cloud-vs-on-premise-integrasi-erp", "angle_hash": "sha1:1182e778e3cc", "intent": "how-to", "subtopics": ["API middleware", "barcode dan RFID", "data residency UU PDP", "embedded vs decentralized EWM", "integrasi WMS-ERP", "real-time inventory sync", "SAP EWM", "single source of truth stok", "WMS cloud vs on-premise"] }
+    ],
+    "uncovered_angles": [
+      "Roadmap implementasi WMS end-to-end (fase proyek, master data cleansing, UAT, change management, adopsi operator) — how-to (BRIEF 01)",
+      "WMS untuk industri farmasi/FMCG: cold chain, CDOB/BPOM, FEFO, batch/serial & serialisasi track-and-trace — informational industry-specific (BRIEF 02)",
+      "Otomasi gudang: WMS + robotik (AMR, goods-to-person, AS/RS, conveyor) via Material Flow System — informational Industry 4.0 (BRIEF 03)",
+      "ROI & TCO WMS: biaya tersembunyi picking error/selisih stok vs investasi, payback period, kerangka kalkulasi — decision (BRIEF 04)",
+      "WMS untuk e-commerce/omnichannel fulfillment: single stock pool, BOPIS/ship-from-store, returns, wave picking, integrasi marketplace — informational/how-to (BRIEF 05)"
+    ],
+    "still_open_after_this_run": [
+      "Integrasi WMS dengan SAP TM (Transportation Management) & yard management mendalam",
+      "Labor management & slotting optimization sebagai artikel tersendiri",
+      "Keamanan data WMS di cloud (SOC2/ISO27001) sebagai artikel tersendiri",
+      "Strategi cutover WMS (big bang vs phased) sebagai artikel tersendiri",
+      "WMS untuk 3PL/logistics service provider (billing, multi-client warehouse)"
+    ]
+  },
+  "cousin_hubs_chosen": {
+    "note": "Dipilih dari set 5 keyword bulan ini (2026-07-2). Cousin paling topikal untuk WMS: (1) ERP migration to the cloud — WMS/SAP EWM adalah bagian dari S/4HANA & pergerakan ke cloud; (2) Business Intelligence — analitik gudang/KPI operasional (throughput, akurasi, OTIF) memerlukan BI. Data Warehouse Solutions dipakai sebagai cousin alternatif pada brief yang membahas data operasional (BRIEF 03/04).",
+    "cousin_1": { "keyword": "ERP migration to the cloud", "url": "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud" },
+    "cousin_2": { "keyword": "Business Intelligence", "url": "https://www.soltius.co.id/id/blog/business-intelligence" },
+    "cousin_alt": { "keyword": "Data Warehouse Solutions", "url": "https://www.soltius.co.id/id/blog/data-warehouse-solutions" }
+  }
+}

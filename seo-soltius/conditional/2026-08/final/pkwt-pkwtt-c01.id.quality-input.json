@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-08\\final\\pkwt-pkwtt-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-17T23:50:43+07:00",
+    "word_count":  1033,
+    "paragraph_count":  17,
+    "sentence_count":  50,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.471,
+                        "sentence_burstiness":  1.241,
+                        "top30_vocab_share":  0.401,
+                        "flags":  [
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 40.1% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Kerangkanya sama, yaitu UU Nomor 13 Tahun 2003 tentang Ketenagakerjaan sebagaimana diubah UU Nomor 6 Tahun 2023 (Cipta Kerja) dengan aturan pelaksana [PP Nomor 35 Tahun 2021](https://jdih.kemnaker.go.id/asset/data_puu/PP352021.pdf).",
+                                      "candidate_score":  44,
+                                      "web_search_query":  "\"Kerangkanya sama, yaitu UU Nomor 13 Tahun 2003 tentang Ketenagakerjaan sebagaimana diubah UU Nomor 6 Tahun 2023 (Cipta K\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai SAP Platinum Partner melalui United VARs, Soltius mengimplementasikan dan mendampingi solusi Human Capital Management SAP seperti SAP SuccessFactors, termasuk penataan data induk kepegawaian.",
+                                      "candidate_score":  34,
+                                      "web_search_query":  "\"Sebagai SAP Platinum Partner melalui United VARs, Soltius mengimplementasikan dan mendampingi solusi Human Capital Manag\""
+                                  },
+                                  {
+                                      "passage":  "Bila tetap disyaratkan, klausul masa percobaan itu batal demi hukum dan masa kerjanya tetap dihitung (PP 35/2021 Pasal 12; UU 13/2003 Pasal 58 versi ubahan).",
+                                      "candidate_score":  32,
+                                      "web_search_query":  "\"Bila tetap disyaratkan, klausul masa percobaan itu batal demi hukum dan masa kerjanya tetap dihitung (PP 35/2021 Pasal 1\""
+                                  },
+                                  {
+                                      "passage":  "Keduanya diatur UU Nomor 13 Tahun 2003 beserta perubahannya dan PP Nomor 35 Tahun 2021.",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"Keduanya diatur UU Nomor 13 Tahun 2003 beserta perubahannya dan PP Nomor 35 Tahun 2021.\""
+                                  },
+                                  {
+                                      "passage":  "Contohnya, masa kerja 8 bulan menghasilkan (8 ÷ 12) × 1 bulan upah, sekitar 0,67 bulan upah.",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"Contohnya, masa kerja 8 bulan menghasilkan (8 ÷ 12) × 1 bulan upah, sekitar 0,67 bulan upah.\""
+                                  },
+                                  {
+                                      "passage":  "Uang kompensasinya punya empat titik: - **Siapa yang berhak:** pekerja PKWT dengan masa kerja paling sedikit 1 bulan terus menerus (Pasal 15 ayat 3).",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Uang kompensasinya punya empat titik: - **Siapa yang berhak:** pekerja PKWT dengan masa kerja paling sedikit 1 bulan ter\""
+                                  },
+                                  {
+                                      "passage":  "Pasal itu telah diubah [UU Nomor 6 Tahun 2023](https://jdih.kemnaker.go.id/asset/data_puu/2023UU06_Naker.pdf); PP 35/2021 hanya mengatur perpanjangan dengan pagu 5 tahun.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Pasal itu telah diubah [UU Nomor 6 Tahun 2023](https://jdih.kemnaker.go.id/asset/data_puu/2023UU06_Naker.pdf); PP 35/202\""
+                                  },
+                                  {
+                                      "passage":  "- **Besarannya:** 12 bulan terus menerus setara 1 bulan upah; kurang atau lebih dari itu proporsional: (masa kerja ÷ 12) × 1 bulan upah (Pasal 16 ayat 1).",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"- **Besarannya:** 12 bulan terus menerus setara 1 bulan upah; kurang atau lebih dari itu proporsional: (masa kerja ÷ 12)\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

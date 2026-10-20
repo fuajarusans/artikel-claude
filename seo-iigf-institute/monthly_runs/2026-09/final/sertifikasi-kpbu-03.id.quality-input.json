@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-iigf-institute\\monthly_runs\\2026-09\\final\\sertifikasi-kpbu-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-22T06:30:25+07:00",
+    "word_count":  1601,
+    "paragraph_count":  23,
+    "sentence_count":  96,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.533,
+                        "sentence_burstiness":  0.867,
+                        "top30_vocab_share":  0.353,
+                        "flags":  [
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 35.3% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Istilah dalam PPP Guide tidak selalu berpadanan satu lawan satu dengan istilah regulasi KPBU Indonesia, misalnya tahapan pada Perpres 38/2015 dan Permen PPN 7/2023.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"Istilah dalam PPP Guide tidak selalu berpadanan satu lawan satu dengan istilah regulasi KPBU Indonesia, misalnya tahapan\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai unit manajemen pengetahuan PT Penjaminan Infrastruktur Indonesia (Persero) di bidang KPBU, IIGF Institute adalah ATO APMG pertama di Indonesia yang menyelenggarakan pelatihan program Sertifikasi CP3P.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Sebagai unit manajemen pengetahuan PT Penjaminan Infrastruktur Indonesia (Persero) di bidang KPBU, IIGF Institute adalah\""
+                                  },
+                                  {
+                                      "passage":  "50 soal pilihan ganda sederhana dalam 40 menit, ambang kelulusan 50 persen atau 25 dari 50 poin (APMG International, penelusuran 2026).",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"50 soal pilihan ganda sederhana dalam 40 menit, ambang kelulusan 50 persen atau 25 dari 50 poin (APMG International, pen\""
+                                  },
+                                  {
+                                      "passage":  "Kerangkanya dikembangkan enam bank pembangunan multilateral, yaitu AfDB, ADB, EBRD, IDB, IsDB, dan World Bank Group, dengan dukungan pendanaan PPIAF.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Kerangkanya dikembangkan enam bank pembangunan multilateral, yaitu AfDB, ADB, EBRD, IDB, IsDB, dan World Bank Group, den\""
+                                  },
+                                  {
+                                      "passage":  "Satu pembagian peran sering dikira satu paket: pelatihan diselenggarakan organisasi berstatus ATO (*Accredited Training Organization*), sedangkan ujian didaftarkan tersendiri lewat portal kandidat APMG.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Satu pembagian peran sering dikira satu paket: pelatihan diselenggarakan organisasi berstatus ATO (*Accredited Training \""
+                                  },
+                                  {
+                                      "passage":  "# Sertifikasi KPBU: Cara Belajar dan Pola Soal Ujian CP3P Salah satu saran pencarian paling ramai di sekitar topik ini adalah \"cp3p foundation exam questions pdf\".",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"# Sertifikasi KPBU: Cara Belajar dan Pola Soal Ujian CP3P Salah satu saran pencarian paling ramai di sekitar topik ini a\""
+                                  },
+                                  {
+                                      "passage":  "Formatnya pun berbeda: Foundation memakai pilihan ganda sederhana, sedangkan Preparation dan Execution memakai soal kompleks berbasis skenario (*complex multiple choice*).",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Formatnya pun berbeda: Foundation memakai pilihan ganda sederhana, sedangkan Preparation dan Execution memakai soal komp\""
+                                  },
+                                  {
+                                      "passage":  "Pada laman FAQ dan sertifikasi resmi APMG International, tidak tercantum bank soal, contoh soal, maupun ujian simulasi untuk Foundation, Preparation, atau Execution (per penelusuran 2026).",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Pada laman FAQ dan sertifikasi resmi APMG International, tidak tercantum bank soal, contoh soal, maupun ujian simulasi u\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

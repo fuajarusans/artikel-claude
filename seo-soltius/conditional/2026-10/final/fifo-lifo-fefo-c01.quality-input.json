@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-10\\final\\fifo-lifo-fefo-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-10-08T17:43:26+07:00",
+    "word_count":  1188,
+    "paragraph_count":  18,
+    "sentence_count":  71,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.474,
+                        "sentence_burstiness":  0.798,
+                        "top30_vocab_share":  0.385,
+                        "flags":  [
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 38.5% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "PSAK 14 revisi 2008 yang berlaku sejak 1 Januari 2009, kini bernomor PSAK 202, hanya mengizinkan FIFO dan rata-rata tertimbang, selaras IAS 2.",
+                                      "candidate_score":  36,
+                                      "web_search_query":  "\"PSAK 14 revisi 2008 yang berlaku sejak 1 Januari 2009, kini bernomor PSAK 202, hanya mengizinkan FIFO dan rata-rata tert\""
+                                  },
+                                  {
+                                      "passage":  "Bersama FIFO, inilah dua metode yang diizinkan PSAK dan Pasal 10 ayat (6) UU PPh untuk pelaporan keuangan dan pajak di Indonesia sejak LIFO dihapus pada 2009.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Bersama FIFO, inilah dua metode yang diizinkan PSAK dan Pasal 10 ayat (6) UU PPh untuk pelaporan keuangan dan pajak di I\""
+                                  },
+                                  {
+                                      "passage":  "FIFO dan LIFO sama-sama membaca tanggal masuk barang, hanya arahnya berlawanan; FEFO membaca tanggal kedaluwarsa.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"FIFO dan LIFO sama-sama membaca tanggal masuk barang, hanya arahnya berlawanan; FEFO membaca tanggal kedaluwarsa.\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apa bedanya FIFO dan FEFO?",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apa bedanya FIFO dan FEFO?\""
+                                  },
+                                  {
+                                      "passage":  "36 Tahun 2008 tentang PPh membatasi penilaian persediaan pada rata-rata atau mendahulukan yang diperoleh pertama, yaitu FIFO.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"36 Tahun 2008 tentang PPh membatasi penilaian persediaan pada rata-rata atau mendahulukan yang diperoleh pertama, yaitu \""
+                                  },
+                                  {
+                                      "passage":  "Untuk menelaah penerapan aturan rotasi stok di SAP Extended Warehouse Management bagi gudang perusahaan Anda, kunjungi soltius.co.id.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Untuk menelaah penerapan aturan rotasi stok di SAP Extended Warehouse Management bagi gudang perusahaan Anda, kunjungi s\""
+                                  },
+                                  {
+                                      "passage":  "Sistem manajemen gudang menegakkan aturan ini otomatis pada tahap pengambilan barang (*picking*) lewat konfigurasi strategi pengeluaran stok (*stock removal strategy*), sehingga urutan pengambilan ditentukan data, bukan tebakan.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Sistem manajemen gudang menegakkan aturan ini otomatis pada tahap pengambilan barang (*picking*) lewat konfigurasi strat\""
+                                  },
+                                  {
+                                      "passage":  "Batch A masuk Januari dan kedaluwarsa Desember; Batch B masuk Februari dan kedaluwarsa Juni.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Batch A masuk Januari dan kedaluwarsa Desember; Batch B masuk Februari dan kedaluwarsa Juni.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

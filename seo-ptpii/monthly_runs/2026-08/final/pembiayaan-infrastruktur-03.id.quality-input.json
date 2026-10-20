@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-ptpii\\monthly_runs\\2026-08\\final\\pembiayaan-infrastruktur-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-12T15:50:40+07:00",
+    "word_count":  1687,
+    "paragraph_count":  20,
+    "sentence_count":  89,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.462,
+                        "sentence_burstiness":  0.815,
+                        "top30_vocab_share":  0.303,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "68 Tahun 2024, Badan Usaha Penjaminan Infrastruktur (BUPI) wajib menerbitkan Acuan Alokasi Risiko setiap tahun (Pasal 75).",
+                                      "candidate_score":  35,
+                                      "web_search_query":  "\"68 Tahun 2024, Badan Usaha Penjaminan Infrastruktur (BUPI) wajib menerbitkan Acuan Alokasi Risiko setiap tahun (Pasal 75\""
+                                  },
+                                  {
+                                      "passage":  "Pada 12 Februari 2026, Fitch Ratings mengafirmasi peringkat PT Penjaminan Infrastruktur Indonesia (PT PII) pada BBB untuk skala internasional dan AAA(idn) untuk skala nasional, dengan Outlook Stabil.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Pada 12 Februari 2026, Fitch Ratings mengafirmasi peringkat PT Penjaminan Infrastruktur Indonesia (PT PII) pada BBB untu\""
+                                  },
+                                  {
+                                      "passage":  "Menurut Kementerian Keuangan (2026), komposisinya umumnya didominasi utang sekitar 70 hingga 80 persen dari biaya proyek, sisanya ekuitas.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Menurut Kementerian Keuangan (2026), komposisinya umumnya didominasi utang sekitar 70 hingga 80 persen dari biaya proyek\""
+                                  },
+                                  {
+                                      "passage":  "Bobotnya besar karena struktur pembiayaan [proyek KPBU](https://www.ptpii.co.id/kpbu) umumnya didominasi utang, 70 hingga 80 persen dari biaya proyek (Kementerian Keuangan, 2026).",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Bobotnya besar karena struktur pembiayaan [proyek KPBU](https://www.ptpii.co.id/kpbu) umumnya didominasi utang, 70 hingg\""
+                                  },
+                                  {
+                                      "passage":  "# Pembiayaan Infrastruktur: Yang Dinilai Lender Sebelum Dana Cair Lelang sudah dimenangkan, perjanjian kerja sama sudah ditandatangani, dan tim proyek menganggap pekerjaan berat selesai.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"# Pembiayaan Infrastruktur: Yang Dinilai Lender Sebelum Dana Cair Lelang sudah dimenangkan, perjanjian kerja sama sudah \""
+                                  },
+                                  {
+                                      "passage":  "Pembiayaan dilakukan Badan Usaha Pelaksana yang dibentuk pemenang lelang, mengikuti pola *project financing*.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Pembiayaan dilakukan Badan Usaha Pelaksana yang dibentuk pemenang lelang, mengikuti pola *project financing*.\""
+                                  },
+                                  {
+                                      "passage":  "Faktor pembentuknya mencakup kepastian pendapatan, kualitas alokasi risiko dalam kontrak, kapasitas sponsor dan kontraktor, serta kejelasan kewajiban pemerintah (Kementerian Keuangan, 2026).",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Faktor pembentuknya mencakup kepastian pendapatan, kualitas alokasi risiko dalam kontrak, kapasitas sponsor dan kontrakt\""
+                                  },
+                                  {
+                                      "passage":  "Kementerian Keuangan (2026) menyebutnya *credit enhancing product* yang menaikkan kelayakan kredit (*creditworthiness*) proyek.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Kementerian Keuangan (2026) menyebutnya *credit enhancing product* yang menaikkan kelayakan kredit (*creditworthiness*) \""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

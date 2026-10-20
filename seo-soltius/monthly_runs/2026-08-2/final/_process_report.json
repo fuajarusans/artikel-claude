@@ -1,0 +1,252 @@
+[
+  {
+    "id": "business-intelligence-01",
+    "word_count": 2148,
+    "faq": 6,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "business-intelligence-02",
+    "word_count": 2089,
+    "faq": 6,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "business-intelligence-03",
+    "word_count": 2022,
+    "faq": 6,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "business-intelligence-04",
+    "word_count": 2095,
+    "faq": 6,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "business-intelligence-05",
+    "word_count": 2092,
+    "faq": 6,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "data-warehouse-solutions-01",
+    "word_count": 2072,
+    "faq": 6,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "data-warehouse-solutions-02",
+    "word_count": 2010,
+    "faq": 6,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "data-warehouse-solutions-03",
+    "word_count": 2184,
+    "faq": 6,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "data-warehouse-solutions-04",
+    "word_count": 2059,
+    "faq": 6,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "data-warehouse-solutions-05",
+    "word_count": 2086,
+    "faq": 6,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "erp-migration-to-the-cloud-01",
+    "word_count": 1843,
+    "faq": 6,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "erp-migration-to-the-cloud-02",
+    "word_count": 2398,
+    "faq": 6,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "erp-migration-to-the-cloud-03",
+    "word_count": 2091,
+    "faq": 6,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "erp-migration-to-the-cloud-04",
+    "word_count": 2119,
+    "faq": 7,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "erp-migration-to-the-cloud-05",
+    "word_count": 1914,
+    "faq": 6,
+    "internal_links": 2,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "sap-clean-core-01",
+    "word_count": 2015,
+    "faq": 7,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "sap-clean-core-02",
+    "word_count": 2182,
+    "faq": 7,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "sap-clean-core-03",
+    "word_count": 2098,
+    "faq": 7,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "sap-clean-core-04",
+    "word_count": 2156,
+    "faq": 7,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "sap-clean-core-05",
+    "word_count": 2262,
+    "faq": 7,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "warehouse-management-system-01",
+    "word_count": 1851,
+    "faq": 7,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "warehouse-management-system-02",
+    "word_count": 2099,
+    "faq": 7,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "warehouse-management-system-03",
+    "word_count": 2004,
+    "faq": 7,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "warehouse-management-system-04",
+    "word_count": 2137,
+    "faq": 7,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "warehouse-management-system-05",
+    "word_count": 2033,
+    "faq": 7,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  }
+]

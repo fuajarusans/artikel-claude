@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-iigf-institute\\monthly_runs\\2026-09\\final\\sertifikasi-kpbu-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-22T06:29:48+07:00",
+    "word_count":  1577,
+    "paragraph_count":  27,
+    "sentence_count":  94,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.383,
+                        "sentence_burstiness":  0.653,
+                        "top30_vocab_share":  0.332,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.383 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "7 Tahun 2023](https://jdih.bappenas.go.id/), yang ditetapkan 22 September 2023 dan berlaku sejak diundangkan 29 September 2023 (Berita Negara RI 2023 Nomor 777).",
+                                      "candidate_score":  44,
+                                      "web_search_query":  "\"7 Tahun 2023](https://jdih.bappenas.go.id/), yang ditetapkan 22 September 2023 dan berlaku sejak diundangkan 29 Septembe\""
+                                  },
+                                  {
+                                      "passage":  "| Peran | Fase pekerjaan yang paling bersinggungan | Level CP3P paling relevan | Terkena Pasal 13 ayat (7)?",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"| Peran | Fase pekerjaan yang paling bersinggungan | Level CP3P paling relevan | Terkena Pasal 13 ayat (7)?\""
+                                  },
+                                  {
+                                      "passage":  "Pasal 13 ayat (7) tidak menyebut badan usaha calon peserta lelang maupun Badan Usaha Pelaksana.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Pasal 13 ayat (7) tidak menyebut badan usaha calon peserta lelang maupun Badan Usaha Pelaksana.\""
+                                  },
+                                  {
+                                      "passage":  "Simpul KPBU adalah unit kerja yang ditunjuk PJPK, yakni menteri, kepala lembaga, kepala daerah, atau BUMN/BUMD menurut Perpres 38/2015 sebagaimana dikutip glosarium hukum Kementerian Keuangan (akses 2026).",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Simpul KPBU adalah unit kerja yang ditunjuk PJPK, yakni menteri, kepala lembaga, kepala daerah, atau BUMN/BUMD menurut P\""
+                                  },
+                                  {
+                                      "passage":  "7 Tahun 2023, sementara ayat (6) menyebut empat pihak yang boleh membantunya.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"7 Tahun 2023, sementara ayat (6) menyebut empat pihak yang boleh membantunya.\""
+                                  },
+                                  {
+                                      "passage":  "APMG International merumuskan audiens tiap level CP3P berdasarkan jenis pekerjaan: penerapan tingkat dasar, penyiapan proyek, atau strukturisasi hingga manajemen kontrak (APMG International, per akses September 2026).",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"APMG International merumuskan audiens tiap level CP3P berdasarkan jenis pekerjaan: penerapan tingkat dasar, penyiapan pr\""
+                                  },
+                                  {
+                                      "passage":  "7 Tahun 2023 hanya mewajibkan sertifikasi ahli KPBU bagi tenaga ahli yang dipekerjakan konsultan Badan Usaha atau konsultan perorangan yang membantu simpul KPBU.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"7 Tahun 2023 hanya mewajibkan sertifikasi ahli KPBU bagi tenaga ahli yang dipekerjakan konsultan Badan Usaha atau konsul\""
+                                  },
+                                  {
+                                      "passage":  "# Sertifikasi KPBU Sesuai Peran: ASN, Konsultan, Akademisi Empat orang bisa duduk di ruang pelatihan yang sama dan pulang dengan empat kesimpulan yang sama-sama keliru.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"# Sertifikasi KPBU Sesuai Peran: ASN, Konsultan, Akademisi Empat orang bisa duduk di ruang pelatihan yang sama dan pulan\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

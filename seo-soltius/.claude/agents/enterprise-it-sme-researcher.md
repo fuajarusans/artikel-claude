@@ -118,11 +118,6 @@ Draft the comparison/phase/option table the writer can refine. Examples:
 
 ## Definition snippet draft (40–60 words)
 > <Entity X> adalah <definition>. <one-sentence elaboration with a specific, sourced fact>.
-
-## Notes for image-planner
-2–3 visual concepts that would strengthen the article (diagram, comparison infographic, process timeline, dashboard mockup). The image-planner turns these into a design brief — no images are generated.
-- Concept 1: <description>
-- Concept 2: ...
 ```
 
 ## Workflow

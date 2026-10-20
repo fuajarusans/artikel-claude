@@ -1,0 +1,89 @@
+{
+  "keyword": "Perusahaan LNG Indonesia",
+  "keyword_slug": "perusahaan-lng-indonesia",
+  "month": "2026-07-2",
+  "captured_at": "2026-07-07",
+  "landing_page": "https://gagas.co.id/perusahaan-lng-indonesia/",
+  "landing_page_summary": "Halaman LNG PGN Gagas: mendefinisikan LNG (gas bumi dicairkan pada ~-162 C, volume menyusut ~1/600), memposisikan Gagas sebagai penyedia solusi LNG 'beyond pipeline' via virtual pipeline (ISO tank + micro-bulk truck berinsulasi vakum) dalam ekosistem PGN/Subholding Gas. Layanan yang disebut: distribusi Gaslink berbasis ISO tank, desain/instalasi/pemeliharaan sistem regasifikasi satelit, studi kelayakan & dukungan engineering, jaminan pasokan didukung jaringan PGN. SEKTOR YANG DISEBUT EKSPLISIT di halaman: heavy manufacturing & petrokimia (furnace/boiler), PEMBANGKIT LISTRIK (PLTMG), MARITIM/SHIPPING (LNG bunkering, IMO 2020), rumah sakit/hotel/pusat komersial. Klaim emisi di halaman: LNG turunkan CO2 'sekitar 40-50% dibanding batu bara, dan 25-30% lebih rendah dari BBM'. CATATAN FRAMING: halaman menyebut frasa 'pioneer and market leader in retail distribution of natural gas' -> writer JANGAN mengangkat superlatif ini (blacklist company_profile.md); posisikan Gagas di sisi HILIR/distribusi + operator LNG Hub, bukan produsen/likuifaksi. Halaman TIDAK memuat: harga spesifik, jumlah pelanggan terkini, lokasi fasilitas operasi, timeline proyek, volume pasokan terkuantifikasi.",
+  "data_sources_used": ["live_serp (Google memblokir fetch otomatis -> fallback WebSearch)", "websearch", "landing_page_webfetch"],
+  "ahrefs_available": false,
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Permintaan LNG domestik menguat: >60% produksi gas untuk domestik (pembangkit + industri); PGN target serap 30 kargo LNG via FSRU Lampung sepanjang 2026 dan lakukan penyaluran LNG perdana ke Nusantara Regas Januari 2026. Program gasifikasi kelistrikan PLN (47 lokasi, 282,93 BBTUD; 52 titik tahap perluasan) mendorong minat 'LNG untuk pembangkit'. IMO 2020 + EEDI/CII mendorong minat 'LNG bunkering/marine fuel'.",
+    "report_rank": "n/a (seo_report: none untuk batch 2026-07-2)"
+  },
+  "serp": {
+    "top_10": [
+      { "url": "https://www.gagas.co.id/perusahaan-lng-indonesia", "title": "Perusahaan LNG Indonesia | PGN Gagas", "angle_summary": "Hub Gagas sendiri; definisi LNG + beyond-pipeline via virtual pipeline; sektor pembangkit, maritim (bunkering IMO 2020), manufaktur, HORECA." },
+      { "url": "https://pgnlng.co.id/berita/wawasan/lng-bunkering-di-indonesia/", "title": "Mengenal LNG Bunkering di Indonesia Serta Tipe-tipenya | PGN LNG", "angle_summary": "Edukasi LNG bunkering (marine fuel): definisi, tipe bunkering (ship-to-ship, truck-to-ship, dll), konteks IMO 2020. Sumber grup PGN kredibel." },
+      { "url": "https://pttensor.com/2025/03/15/lng-sebagai-bahan-bakar-transisi-untuk-mesin-kapal-solusi-berkelanjutan-di-industri-maritim/", "title": "LNG sebagai Bahan Bakar Transisi untuk Mesin Kapal (PT Tensor)", "angle_summary": "LNG marine fuel, EEDI/CII, target emisi 2030/2050; vendor blog, edukatif." },
+      { "url": "https://www.dunia-energi.com/mini-lng-solusi-pemerataan-energi/", "title": "Mini LNG, Solusi Pemerataan Energi (Dunia Energi)", "angle_summary": "Mini LNG untuk pemerataan energi ke daerah remote; virtual pipeline, mini regasification, mini LNG plant." },
+      { "url": "https://migas.esdm.go.id/post/read/pemanfaatan-gas-domestik-capai-68-persen-dukung-program-gasifikasi-kelistrikan", "title": "Pemanfaatan Gas Domestik Capai 68% Dukung Gasifikasi Kelistrikan (ESDM)", "angle_summary": "Program gasifikasi pembangkit; porsi domestik ~68%; LNG untuk kelistrikan. Sumber otoritatif." },
+      { "url": "https://pintu.co.id/en/news/281400-gas-alam-lng-indonesia-2026/amp", "title": "Gas Alam sebagai Jembatan Energi Transisi: Mengapa Indonesia Masih Andalkan LNG di 2026?", "angle_summary": "Transisi energi / bridge fuel; kenapa LNG masih diandalkan 2026." },
+      { "url": "https://indonesiasafetycenter.org/liquefied-natural-gas-lng-masa-depan-energi-dan-keamanan-di-industri-migas/", "title": "LNG: Masa Depan Energi dan Keamanan di Industri Migas (Indonesia Safety Center)", "angle_summary": "Aspek keselamatan LNG di industri migas; risiko & prosedur K3 penanganan LNG." },
+      { "url": "https://jiemar.org/index.php/jiemar/article/download/413/311/", "title": "Analisa Ekonomi Pemanfaatan Gas LNG Sebagai Bahan Bakar (jurnal)", "angle_summary": "Keekonomian LNG vs solar/HSD untuk pembangkit; BPP, penghematan Rp/kWh." }
+    ],
+    "serp_features": ["paa", "kemungkinan_ai_overview_pada_query_definitional_dan_transisi"],
+    "ai_overview_entities": ["LNG (Liquefied Natural Gas)", "likuifaksi -162 C", "regasifikasi", "LNG bunkering", "IMO 2020", "gasifikasi pembangkit", "virtual pipeline", "boil-off gas", "FSRU", "bridge fuel / energi transisi"]
+  },
+  "paa": [
+    "Apa itu LNG dan apa fungsinya?",
+    "Apa perusahaan LNG terbesar di Indonesia?",
+    "Apa itu LNG bunkering?",
+    "Apakah LNG lebih murah daripada solar untuk pembangkit?",
+    "Apa bahaya LNG dan bagaimana penanganannya yang aman?",
+    "Apa itu boil-off gas pada LNG?",
+    "Apakah LNG ramah lingkungan / termasuk energi bersih?",
+    "Sektor apa saja yang memakai LNG di Indonesia?",
+    "Apa itu program gasifikasi pembangkit listrik PLN?",
+    "Bagaimana LNG didistribusikan ke daerah tanpa pipa?"
+  ],
+  "gsc_style_queries_from_report": [],
+  "verified_facts": [
+    "Landing page gagas.co.id/perusahaan-lng-indonesia menyebut EKSPLISIT sektor: pembangkit listrik (PLTMG), maritim/shipping (LNG bunkering, IMO 2020), heavy manufacturing & petrokimia, RS/hotel/pusat komersial. Ini memvalidasi angle sektor-spesifik (pembangkit, marine) sebagai on-page-supported.",
+    "Landing page: LNG turunkan CO2 ~40-50% dibanding batu bara, 25-30% lebih rendah dari BBM (klaim halaman; SME sebaiknya konfirmasi vs sumber independen seperti IEA/EIA sebelum dipatok sebagai fakta keras).",
+    "Program gasifikasi pembangkit PLN: 47 lokasi, total kebutuhan LNG 282,93 BBTUD; 24 pembangkit operasi, 3 pengadaan/konstruksi, 20 rencana. Tahap pertama 32 lokasi (Kalbar, Nusa Tenggara, Papua, Maluku, Sulawesi) dalam 5 cluster. Perluasan ke 52 titik dengan virtual pipeline + mini regasification + mini LNG plant. (WebSearch: ESDM/Liputan6/Tempo; SME verifikasi angka & tanggal ke sumber primer ESDM/PLN.)",
+    "Kebutuhan gas PLN diproyeksi naik dari 1.748 BBTUD (2026) ke 2.490 BBTUD (2034); kargo LNG dari 103 ke 214 kargo. PGN penyaluran LNG perdana ke Nusantara Regas Januari 2026; target serap 30 kargo via FSRU Lampung sepanjang 2026. (WebSearch; SME verifikasi.)",
+    "IMO 2020: batas kandungan sulfur bahan bakar kapal 0,5% -> mendorong transisi ke LNG sebagai marine fuel. EEDI (Energy Efficiency Design Index) & CII (Carbon Intensity Indicator) memperkuat posisi LNG untuk target emisi 2030/2050.",
+    "LNG bunkering: proyek fasilitas LNG bunkering pertama Indonesia di Bontang (Kaltim) diinisiasi PT PGN LNG Indonesia (PLI); titik strategis Batam, Jakarta, Balikpapan. Tipe bunkering: ship-to-ship, truck-to-ship, dll. (SME verifikasi status proyek terkini.)",
+    "Keekonomian LNG vs diesel pembangkit: BPP PLTDG dengan LNG lebih ekonomis dari HSD; contoh studi Rp 1.714,3/kWh dengan penghematan ~Rp 621,70/kWh; aplikasi dual-fuel bisa hemat hingga 74,54% biaya bahan bakar (single->dual fuel penghematan 20-25%). Angka dari jurnal/studi kasus -> label sebagai temuan studi, BUKAN jaminan; SME verifikasi konteks tiap angka.",
+    "Kendala LNG remote: belum meratanya stasiun pengisian/regasifikasi LNG untuk berbagai jenis mesin; butuh pengembangan infrastruktur distribusi. (jurnal UGM/UNUD.)",
+    "Keselamatan LNG kriogenik: risiko utama = cold burn/luka dingin (kontak kulit -162 C), asfiksia (gas mendesak oksigen di ruang tertutup), jet fire (pembakaran langsung bila bocor & tersulut), dan boil-off gas (BOG) yang harus dikelola. Sertifikasi K3 penting untuk pekerja migas LNG. ISO tank tipe T75 = kontainer kriogenik dinding ganda + insulasi (fiberglass/aluminium foil) untuk cairan kriogenik termasuk LNG. LNG TIDAK menyala dalam wujud cair; risiko muncul saat menguap ke rentang mudah terbakar.",
+    "Transisi energi: >60% produksi gas Indonesia untuk domestik (pembangkit + industri); gas alam = bahan bakar fosil terbersih & paling fleksibel, sering diposisikan sebagai 'bridge fuel'. Sektor energi menargetkan penurunan emisi CO2 ~398 juta ton pada 2030. Ada kritik (Mongabay/kajian) bahwa proyek gas dapat menghambat dekarbonisasi -> ruang untuk honest/counter-conventional balance.",
+    "GAGAS LNG FRAMING (WAJIB): company_profile.md hanya mencantumkan LNG Hub sebagai INFRASTRUKTUR Gagas. Landing page memakai frasa superlatif 'pioneer/market leader' -> JANGAN diadopsi (blacklist). Posisikan Gagas sebagai penyedia solusi distribusi LNG beyond-pipeline di sisi HILIR via LNG Hub + virtual pipeline (ISO tank) dalam ekosistem PGN/Subholding Gas Pertamina; BUKAN produsen/likuifaksi, BUKAN operator FSRU/terminal regasifikasi midstream (itu peran mitra spt PT PGN LNG Indonesia / Nusantara Regas). Researcher WAJIB verifikasi peran spesifik sebelum writer menegaskan."
+  ],
+  "priority_from_keywords_md": "new (Perusahaan LNG Indonesia, batch 2026-07-2). Cluster ini baru dibangun (5 artikel part-1); part-2 memperluas ke aplikasi sektor-spesifik + ekonomi + keselamatan + transisi yang belum digarap. Strategi: bangun kedalaman topical authority ke arah use-case konkret & keputusan sektoral, bukan mengulang definisi/rantai pasok.",
+  "part1_angles_committed": [
+    "apa-itu-lng-bedanya-dengan-cng-gas-pipa (informational/definitional; LNG vs CNG vs gas pipa sbg 3 moda distribusi; likuifaksi, -162 C, 1/600, regasifikasi, tabel banding)",
+    "lng-beyond-pipeline-konsep-lng-hub (informational/operasional; LNG Hub, break-bulking, virtual pipeline ISO tank+truck, BOG, HORECA/mid-industri)",
+    "lng-untuk-industri-kapan-lebih-cocok-dari-cng (comparison/decision; kerangka 4 sumbu LNG vs CNG untuk industri: volume, jarak ~300km, ruang, frekuensi)",
+    "rantai-pasok-lng-likuifaksi-pengguna-akhir (informational; 7 simpul sumur->likuifaksi->transport->regasifikasi/FSRU->break-bulking->pengguna; lanskap pemain)",
+    "memilih-penyedia-lng-indonesia-kriteria (decision/commercial; 3 peran hulu/midstream/hilir, 5 kriteria, checklist evaluasi penyedia)"
+  ],
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      "apa-itu-lng-bedanya-dengan-cng-gas-pipa",
+      "lng-beyond-pipeline-konsep-lng-hub",
+      "lng-untuk-industri-kapan-lebih-cocok-dari-cng",
+      "rantai-pasok-lng-likuifaksi-pengguna-akhir",
+      "memilih-penyedia-lng-indonesia-kriteria"
+    ],
+    "uncovered_angles_flagged_by_part1_notes": [
+      "LNG untuk PEMBANGKIT/sektor kelistrikan (gasifikasi PLN) — belum ada; part-1 hanya menyebut 'pembangkit' sebagai salah satu pengguna akhir di rantai pasok, tak pernah jadi fokus",
+      "LNG untuk MARINE/maritim & LNG bunkering (IMO 2020) — belum ada; landing page menyebut eksplisit, part-1 tak menyentuh transport/kapal",
+      "Keekonomian/biaya LNG vs solar-diesel remote — part-1 SENGAJA mengecualikan harga/biaya (dinyatakan eksplisit di notes 03/04/05)",
+      "Keselamatan & standar penanganan LNG kriogenik — part-1 hanya menyinggung BOG sepintas; belum ada artikel safety-fokus",
+      "Peran LNG dalam transisi energi/dekarbonisasi — part-1 SENGAJA menyerahkan transisi energi ke cluster CNG; LNG-spesifik transisi masih terbuka",
+      "Studi kasus industri spesifik (tekstil/petrokimia) — masih terbuka, tapi butuh data pelanggan terverifikasi; ditunda"
+    ],
+    "chosen_angles_for_this_run": [
+      "perusahaan-lng-indonesia-01: lng-untuk-pembangkit-gasifikasi-kelistrikan (informational/use-case sektor kelistrikan)",
+      "perusahaan-lng-indonesia-02: lng-untuk-marine-bunkering-maritim (informational/use-case sektor maritim)",
+      "perusahaan-lng-indonesia-03: keekonomian-lng-vs-diesel-lokasi-remote (decision/cost-analysis)",
+      "perusahaan-lng-indonesia-04: keselamatan-standar-penanganan-lng-kriogenik (how-to/troubleshooting keselamatan)",
+      "perusahaan-lng-indonesia-05: peran-lng-transisi-energi-dekarbonisasi (thought-leadership)"
+    ],
+    "why_distinct_from_part1": "Part-1 seluruhnya bertema FONDASI/HORIZONTAL: apa itu LNG, cara distribusinya (LNG Hub), banding LNG vs CNG generik, rantai pasok, cara pilih penyedia. Part-2 seluruhnya VERTIKAL/APLIKATIF: memasuki sektor pengguna spesifik (pembangkit, maritim), dimensi yang sengaja diexclude part-1 (ekonomi/biaya, keselamatan operasional), dan lensa kebijakan (transisi energi). Tidak ada satu pun subtopik inti part-2 yang menjadi tulang punggung artikel part-1; Jaccard subtopik setiap pasangan <= 0.25 (irisan hanya istilah dasar spt likuifaksi/regasifikasi/BOG yang muncul sepintas sebagai konteks, bukan sebagai subtopik utama)."
+  }
+}

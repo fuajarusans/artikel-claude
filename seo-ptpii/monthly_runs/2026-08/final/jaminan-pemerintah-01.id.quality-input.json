@@ -1,0 +1,81 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-ptpii\\monthly_runs\\2026-08\\final\\jaminan-pemerintah-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-12T15:34:38+07:00",
+    "word_count":  1676,
+    "paragraph_count":  19,
+    "sentence_count":  95,
+    "ai_detector":  {
+                        "score":  0.08,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.427,
+                        "sentence_burstiness":  0.934,
+                        "top30_vocab_share":  0.379,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.427 (target \u003e=0.45)",
+                                          "line":  -1
+                                      },
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 37.9% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "68 Tahun 2024](https://jdih.kemenkeu.go.id/dok/pmk-68-tahun-2024/overview), ditetapkan 24 September 2024, yang mencabut tujuh PMK lama termasuk petunjuk pelaksanaan penjaminan tahun 2010.",
+                                      "candidate_score":  37,
+                                      "web_search_query":  "\"68 Tahun 2024](https://jdih.kemenkeu.go.id/dok/pmk-68-tahun-2024/overview), ditetapkan 24 September 2024, yang mencabut \""
+                                  },
+                                  {
+                                      "passage":  "78 Tahun 2010 tentang Penjaminan Infrastruktur dalam Proyek Kerja Sama Pemerintah dengan Badan Usaha yang Dilakukan Melalui Badan Usaha Penjaminan Infrastruktur.",
+                                      "candidate_score":  36,
+                                      "web_search_query":  "\"78 Tahun 2010 tentang Penjaminan Infrastruktur dalam Proyek Kerja Sama Pemerintah dengan Badan Usaha yang Dilakukan Mela\""
+                                  },
+                                  {
+                                      "passage":  "Mandat BUPI itu dipegang PT Penjaminan Infrastruktur Indonesia (Persero) atau PT PII, BUMN yang berdiri 30 Desember 2009 dan berstatus *Special Mission Vehicle* Kementerian Keuangan.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Mandat BUPI itu dipegang PT Penjaminan Infrastruktur Indonesia (Persero) atau PT PII, BUMN yang berdiri 30 Desember 2009\""
+                                  },
+                                  {
+                                      "passage":  "Portal KPBU Kementerian Keuangan (diakses 2026) menyebut mekanisme penjaminan bersama: apabila kebutuhan penjaminan melampaui kapasitas permodalan BUPI, penjaminan dilakukan bersama antara Kementerian Keuangan dan BUPI.",
+                                      "candidate_score":  27,
+                                      "web_search_query":  "\"Portal KPBU Kementerian Keuangan (diakses 2026) menyebut mekanisme penjaminan bersama: apabila kebutuhan penjaminan mela\""
+                                  },
+                                  {
+                                      "passage":  "Diterbitkan Menteri Keuangan melalui Badan Usaha Penjaminan Infrastruktur (BUPI); bukan jaminan sosial, agunan, atau jaminan pelaksanaan pengadaan.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Diterbitkan Menteri Keuangan melalui Badan Usaha Penjaminan Infrastruktur (BUPI); bukan jaminan sosial, agunan, atau jam\""
+                                  },
+                                  {
+                                      "passage":  "Kerangka nasional KPBU mengenal [11 kategori risiko proyek](https://simpulkpbu.pu.go.id/pages/risiko/kategori-risiko), dari risiko lokasi hingga risiko kepemilikan aset (SIMPUL KPBU, Kementerian PU, diakses 2026).",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Kerangka nasional KPBU mengenal [11 kategori risiko proyek](https://simpulkpbu.pu.go.id/pages/risiko/kategori-risiko), d\""
+                                  },
+                                  {
+                                      "passage":  "Penjaminan pemerintah yang diterbitkan PT PII selaku Badan Usaha Penjaminan Infrastruktur di bawah Kementerian Keuangan dirancang untuk meningkatkan kelayakan kredit proyek sekaligus memagari kewajiban kontinjensi APBN.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Penjaminan pemerintah yang diterbitkan PT PII selaku Badan Usaha Penjaminan Infrastruktur di bawah Kementerian Keuangan \""
+                                  },
+                                  {
+                                      "passage":  "Per publikasi Juni 2026, portofolionya mencakup 61 proyek, 38 di antaranya skema KPBU, dengan nilai investasi lebih dari Rp 732 triliun.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Per publikasi Juni 2026, portofolionya mencakup 61 proyek, 38 di antaranya skema KPBU, dengan nilai investasi lebih dari\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-ptpii\\monthly_runs\\2026-09\\final\\pembiayaan-infrastruktur-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-22T05:57:11+07:00",
+    "word_count":  1747,
+    "paragraph_count":  18,
+    "sentence_count":  101,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.427,
+                        "sentence_burstiness":  0.759,
+                        "top30_vocab_share":  0.286,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.427 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "[Perpres 32/2020 tentang Pembiayaan Infrastruktur Melalui Hak Pengelolaan Terbatas](https://peraturan.go.id/id/perpres-no-32-tahun-2020) ditetapkan 14 Februari 2020 dan berstatus berlaku, lalu diubah Perpres 66/2024.",
+                                      "candidate_score":  50,
+                                      "web_search_query":  "\"[Perpres 32/2020 tentang Pembiayaan Infrastruktur Melalui Hak Pengelolaan Terbatas](https://peraturan.go.id/id/perpres-n\""
+                                  },
+                                  {
+                                      "passage":  "Realisasinya: KIK-EBA Mandiri JSMR01 atas pendapatan Tol Jagorawi, Rp 2 triliun, berbasis proyeksi lima tahun, tercatat di Bursa Efek Indonesia pada 31 Agustus 2017.",
+                                      "candidate_score":  37,
+                                      "web_search_query":  "\"Realisasinya: KIK-EBA Mandiri JSMR01 atas pendapatan Tol Jagorawi, Rp 2 triliun, berbasis proyeksi lima tahun, tercatat \""
+                                  },
+                                  {
+                                      "passage":  "**Sekuritisasi arus kas lewat KIK-EBA (*Kontrak Investasi Kolektif Efek Beragun Aset*).** Menjual hak atas pendapatan masa depan sebuah ruas, tunduk pada POJK Nomor 65/POJK.04/2017.",
+                                      "candidate_score":  37,
+                                      "web_search_query":  "\"**Sekuritisasi arus kas lewat KIK-EBA (*Kontrak Investasi Kolektif Efek Beragun Aset*).** Menjual hak atas pendapatan ma\""
+                                  },
+                                  {
+                                      "passage":  "Contoh paling terdokumentasi adalah KIK-EBA Mandiri JSMR01 atas pendapatan Tol Jagorawi, Rp 2 triliun, berbasis proyeksi lima tahun, tercatat 31 Agustus 2017.",
+                                      "candidate_score":  31,
+                                      "web_search_query":  "\"Contoh paling terdokumentasi adalah KIK-EBA Mandiri JSMR01 atas pendapatan Tol Jagorawi, Rp 2 triliun, berbasis proyeksi\""
+                                  },
+                                  {
+                                      "passage":  "Menurut artikel penjelas [DJKN Kementerian Keuangan](https://www.djkn.kemenkeu.go.id/kpknl-batam/baca-artikel/17722/Skema-Pengelolaan-Dana-Hasil-Kerja-Sama-Terbatas-Untuk-Pembiayaan-Infrastruktur-Ketupi-Oleh-Badan-Layanan-Umum.html) (2025), Perpres 66/2024 memperluas cakupannya menjadi 14 jenis infrastruktur.",
+                                      "candidate_score":  31,
+                                      "web_search_query":  "\"Menurut artikel penjelas [DJKN Kementerian Keuangan](https://www.djkn.kemenkeu.go.id/kpknl-batam/baca-artikel/17722/Skem\""
+                                  },
+                                  {
+                                      "passage":  "Contohnya KIK-EBA Mandiri JSMR01 yang menyekuritisasi pendapatan Tol Jagorawi senilai Rp 2 triliun, tercatat di Bursa Efek Indonesia pada 31 Agustus 2017.",
+                                      "candidate_score":  27,
+                                      "web_search_query":  "\"Contohnya KIK-EBA Mandiri JSMR01 yang menyekuritisasi pendapatan Tol Jagorawi senilai Rp 2 triliun, tercatat di Bursa Ef\""
+                                  },
+                                  {
+                                      "passage":  "# Pembiayaan Infrastruktur Babak Kedua: Mendaur Ulang Modal Sebuah ruas tol sudah tiga tahun beroperasi.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"# Pembiayaan Infrastruktur Babak Kedua: Mendaur Ulang Modal Sebuah ruas tol sudah tiga tahun beroperasi.\""
+                                  },
+                                  {
+                                      "passage":  "Rencana sekuritisasi ruas JORR senilai Rp 2,5 triliun diberitakan pada 2020 tanpa konfirmasi independen bahwa transaksinya rampung.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Rencana sekuritisasi ruas JORR senilai Rp 2,5 triliun diberitakan pada 2020 tanpa konfirmasi independen bahwa transaksin\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-10\\final\\gaslink-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-28T19:32:13+07:00",
+    "word_count":  1420,
+    "paragraph_count":  25,
+    "sentence_count":  80,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.392,
+                        "sentence_burstiness":  0.975,
+                        "top30_vocab_share":  0.343,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.392 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "## Apa Itu Captive Power dan Bisakah Gas Bumi Jadi Bahan Bakarnya?",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## Apa Itu Captive Power dan Bisakah Gas Bumi Jadi Bahan Bakarnya?\""
+                                  },
+                                  {
+                                      "passage":  "Catatan lapangan menyebut diesel di lokasi terpencil sekitar IDR 4.500–9.000+/kWh (sumber vendor, bukan data resmi).",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Catatan lapangan menyebut diesel di lokasi terpencil sekitar IDR 4.500–9.000+/kWh (sumber vendor, bukan data resmi).\""
+                                  },
+                                  {
+                                      "passage":  "## Genset Gas atau Diesel: Mana yang Lebih Hemat untuk Pabrik Anda?",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Genset Gas atau Diesel: Mana yang Lebih Hemat untuk Pabrik Anda?\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai anak usaha PGN dalam Subholding Gas Pertamina, PGN Gagas menyalurkan gas bumi dalam bentuk CNG ke lokasi *beyond-pipeline* lewat Gaslink; kesesuaiannya untuk genset gas dinilai per kasus.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Sebagai anak usaha PGN dalam Subholding Gas Pertamina, PGN Gagas menyalurkan gas bumi dalam bentuk CNG ke lokasi *beyond\""
+                                  },
+                                  {
+                                      "passage":  "Soal harga, pemerintah menetapkan Harga Gas Bumi Tertentu (HGBT) di kisaran USD 6,5–7/MMBTU, tetapi skema itu untuk sektor industri tertentu dan pembangkit kepentingan umum via pipa.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Soal harga, pemerintah menetapkan Harga Gas Bumi Tertentu (HGBT) di kisaran USD 6,5–7/MMBTU, tetapi skema itu untuk sekt\""
+                                  },
+                                  {
+                                      "passage":  "Per satuan energi bahan bakar, gas melepas ~56.100 kg CO2/TJ dibanding solar ~74.100 kg CO2/TJ (IPCC), sekitar seperempat lebih rendah.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Per satuan energi bahan bakar, gas melepas ~56.100 kg CO2/TJ dibanding solar ~74.100 kg CO2/TJ (IPCC), sekitar seperempa\""
+                                  },
+                                  {
+                                      "passage":  "## Kesimpulan Keputusan genset gas vs diesel akhirnya soal angka: profil beban, harga dan kepastian pasokan gas di lokasi, serta total biaya kepemilikan dibanding solar.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Kesimpulan Keputusan genset gas vs diesel akhirnya soal angka: profil beban, harga dan kepastian pasokan gas di lokas\""
+                                  },
+                                  {
+                                      "passage":  "PGN Gagas, anak usaha PGN dalam Subholding Gas Pertamina, menyalurkan gas bumi ke lokasi *beyond-pipeline* lewat Gaslink: memasok bahan bakar untuk genset milik Anda, bukan mengoperasikan pembangkitnya.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"PGN Gagas, anak usaha PGN dalam Subholding Gas Pertamina, menyalurkan gas bumi ke lokasi *beyond-pipeline* lewat Gaslink\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

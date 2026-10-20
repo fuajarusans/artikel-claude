@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-09\\final\\agentic-ai-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-01T08:03:40+07:00",
+    "word_count":  944,
+    "paragraph_count":  16,
+    "sentence_count":  51,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.331,
+                        "sentence_burstiness":  0.734,
+                        "top30_vocab_share":  0.342,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.331 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Skala minatnya terlihat dari proyeksi [Gartner](https://www.gartner.com/en/newsroom/press-releases/2025-08-26-gartner-predicts-40-percent-of-enterprise-apps-will-feature-task-specific-ai-agents-by-2026-up-from-less-than-5-percent-in-2025): 40% aplikasi enterprise diperkirakan memuat agen AI tugas-spesifik pada akhir 2026, melonjak dari kurang dari 5% pada 2025.",
+                                      "candidate_score":  33,
+                                      "web_search_query":  "\"Skala minatnya terlihat dari proyeksi [Gartner](https://www.gartner.com/en/newsroom/press-releases/2025-08-26-gartner-pr\""
+                                  },
+                                  {
+                                      "passage":  "SAP memperkenalkan 14 Joule Agents baru pada SAP Connect Oktober 2025; agen ini dikoordinasikan oleh Joule Assistants berbasis peran dan tertanam di portofolio cloud SAP.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"SAP memperkenalkan 14 Joule Agents baru pada SAP Connect Oktober 2025; agen ini dikoordinasikan oleh Joule Assistants be\""
+                                  },
+                                  {
+                                      "passage":  "SAP memperkenalkan [14 Joule Agents baru](https://news.sap.com/2025/10/sap-connect-business-ai-new-joule-agents-embedded-intelligence/) pada SAP Connect (Oktober 2025), tertanam di proses keuangan, SDM, pengadaan, dan rantai pasok.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"SAP memperkenalkan [14 Joule Agents baru](https://news.sap.com/2025/10/sap-connect-business-ai-new-joule-agents-embedded\""
+                                  },
+                                  {
+                                      "passage":  "## SAP Joule: Contoh Nyata Agentic AI di Dalam ERP Contoh nyata sudah tertanam di dalam ERP.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## SAP Joule: Contoh Nyata Agentic AI di Dalam ERP Contoh nyata sudah tertanam di dalam ERP.\""
+                                  },
+                                  {
+                                      "passage":  "Langkah penerapannya sendiri bertahap; sebuah [roadmap adopsi SAP Joule](https://www.soltius.co.id/blog/sap-ai-joule-adoption-roadmap-a-2026-strategic-technical-guide-for-erp-consultants) memetakan kesiapan data hingga tata kelola sebelum agen dilepas ke proses nyata.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"Langkah penerapannya sendiri bertahap; sebuah [roadmap adopsi SAP Joule](https://www.soltius.co.id/blog/sap-ai-joule-ado\""
+                                  },
+                                  {
+                                      "passage":  "Karena tertanam lintas portofolio cloud SAP, termasuk SAP S/4HANA Cloud, agen bertindak atas data bisnis nyata, bukan teks umum dari internet.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Karena tertanam lintas portofolio cloud SAP, termasuk SAP S/4HANA Cloud, agen bertindak atas data bisnis nyata, bukan te\""
+                                  },
+                                  {
+                                      "passage":  "Contohnya sudah nyata di ERP lewat Joule Agents, sementara mayoritas organisasi masih menata fondasinya.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Contohnya sudah nyata di ERP lewat Joule Agents, sementara mayoritas organisasi masih menata fondasinya.\""
+                                  },
+                                  {
+                                      "passage":  "- **Akses tindakan (*tool use*).** Agen menjalankan transaksi dan alur kerja nyata, bukan sekadar menjawab.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"- **Akses tindakan (*tool use*).** Agen menjalankan transaksi dan alur kerja nyata, bukan sekadar menjawab.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-08\\final\\perusahaan-lng-indonesia-04.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-11T14:42:19+07:00",
+    "word_count":  1490,
+    "paragraph_count":  22,
+    "sentence_count":  91,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.456,
+                        "sentence_burstiness":  0.879,
+                        "top30_vocab_share":  0.302,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "## Kesalahan yang Sering Terjadi: Undersizing dan Frost pada AAV Kesalahan paling umum adalah menakar vaporizer dari kebutuhan rata-rata, lalu kapasitasnya turun drastis saat beban puncak.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Kesalahan yang Sering Terjadi: Undersizing dan Frost pada AAV Kesalahan paling umum adalah menakar vaporizer dari keb\""
+                                  },
+                                  {
+                                      "passage":  "## Empat Jenis Vaporizer LNG dan Kapan Memakainya Empat jenis vaporizer relevan di sisi pelanggan.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Empat Jenis Vaporizer LNG dan Kapan Memakainya Empat jenis vaporizer relevan di sisi pelanggan.\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai gambaran pasar, tangki ISO 20 kaki (~20.000–26.000 liter) sudah butuh area tersendiri di luar ruang untuk vaporizer, PRS, dan akses kendaraan.",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"Sebagai gambaran pasar, tangki ISO 20 kaki (~20.000–26.000 liter) sudah butuh area tersendiri di luar ruang untuk vapori\""
+                                  },
+                                  {
+                                      "passage":  "Arah kebijakan nasional pun mendorong jalur ini: [Kementerian ESDM](https://www.esdm.go.id/id/media-center/arsip-berita/ini-empat-prioritas-pengelolaan-gas-indonesia) menempatkan LNG skala kecil dan LNG untuk truk sebagai prioritas infrastruktur gas (data ~2022–2023).",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Arah kebijakan nasional pun mendorong jalur ini: [Kementerian ESDM](https://www.esdm.go.id/id/media-center/arsip-berita/\""
+                                  },
+                                  {
+                                      "passage":  "\u003e **Ringkas:** Regasifikasi LNG adalah proses mengubah gas alam cair (*Liquefied Natural Gas*) yang disimpan pada suhu sekitar −160°C kembali menjadi gas bertekanan siap pakai.",
+                                      "candidate_score":  11,
+                                      "web_search_query":  "\"\u003e **Ringkas:** Regasifikasi LNG adalah proses mengubah gas alam cair (*Liquefied Natural Gas*) yang disimpan pada suhu s\""
+                                  },
+                                  {
+                                      "passage":  "AAV memanfaatkan udara sekitar melalui pipa bersirip, jadi tak butuh bahan bakar tambahan, tetapi rentan membentuk lapisan es (*frost*) saat kelembapan tinggi atau beban puncak.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"AAV memanfaatkan udara sekitar melalui pipa bersirip, jadi tak butuh bahan bakar tambahan, tetapi rentan membentuk lapis\""
+                                  },
+                                  {
+                                      "passage":  "CNG tetap berbentuk gas sejak dikompresi, jadi di lokasi pelanggan ia hanya melewati *pressure reduction station* untuk menurunkan tekanan, tanpa vaporizer kriogenik.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"CNG tetap berbentuk gas sejak dikompresi, jadi di lokasi pelanggan ia hanya melewati *pressure reduction station* untuk \""
+                                  },
+                                  {
+                                      "passage":  "Lapisan es menghambat perpindahan panas sehingga kapasitas vaporisasi menurun, terutama pada kelembapan tinggi.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Lapisan es menghambat perpindahan panas sehingga kapasitas vaporisasi menurun, terutama pada kelembapan tinggi.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

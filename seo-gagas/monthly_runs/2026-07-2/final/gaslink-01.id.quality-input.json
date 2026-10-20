@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07-2\\final\\gaslink-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-08T09:55:33+07:00",
+    "word_count":  1617,
+    "paragraph_count":  22,
+    "sentence_count":  87,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.435,
+                        "sentence_burstiness":  0.751,
+                        "top30_vocab_share":  0.296,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.435 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "# Keandalan Pasokan Gaslink: Cara Menjaga Gas Tak Terputus Solar bisa ditimbun di tangki, LPG bisa distok bertabung-tabung.",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"# Keandalan Pasokan Gaslink: Cara Menjaga Gas Tak Terputus Solar bisa ditimbun di tangki, LPG bisa distok bertabung-tabu\""
+                                  },
+                                  {
+                                      "passage":  "**Stabilisasi tekanan lewat PRS.** *Pressure Reduction Station* menurunkan tekanan dari kisaran simpan sekitar 200–250 bar menjadi tekanan kerja aman sekitar 0,8–1,5 bar.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"**Stabilisasi tekanan lewat PRS.** *Pressure Reduction Station* menurunkan tekanan dari kisaran simpan sekitar 200–250 b\""
+                                  },
+                                  {
+                                      "passage":  "Sepanjang 2025, Gaslink menjangkau 600+ pelanggan dengan penyaluran 4.067.002 MMBTU, bukti sistem berjalan stabil dalam skala nyata, meski bukan jaminan uptime berangka.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"Sepanjang 2025, Gaslink menjangkau 600+ pelanggan dengan penyaluran 4.067.002 MMBTU, bukti sistem berjalan stabil dalam \""
+                                  },
+                                  {
+                                      "passage":  "Sepanjang 2025 (per September), Gaslink menyalurkan gas ke lebih dari 600 pelanggan dengan volume kumulatif 4.067.002 MMBTU (kumparan, November 2025), bukti sistem berjalan dalam skala nyata dan berkelanjutan.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Sepanjang 2025 (per September), Gaslink menyalurkan gas ke lebih dari 600 pelanggan dengan volume kumulatif 4.067.002 MM\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apakah pasokan Gaslink (CNG) bisa terputus?",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apakah pasokan Gaslink (CNG) bisa terputus?\""
+                                  },
+                                  {
+                                      "passage":  "**Dukungan 24 jam.** Layanan pengisian tersedia sepanjang hari, termasuk permintaan tengah malam, sebagaimana dikonfirmasi langsung perwakilan perusahaan dan testimoni pelanggan (ANTARA, 2019).",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"**Dukungan 24 jam.** Layanan pengisian tersedia sepanjang hari, termasuk permintaan tengah malam, sebagaimana dikonfirma\""
+                                  },
+                                  {
+                                      "passage":  "PGN Gagas mengonfirmasi layanan pengisian 24 jam, termasuk permintaan tengah malam (ANTARA, 2019).",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"PGN Gagas mengonfirmasi layanan pengisian 24 jam, termasuk permintaan tengah malam (ANTARA, 2019).\""
+                                  },
+                                  {
+                                      "passage":  "## Kapan Model Virtual Pipeline Justru Lebih Rapuh Bagian ini jarang ditulis kompetitor, padahal jujur soal keterbatasan justru membangun kepercayaan.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Kapan Model Virtual Pipeline Justru Lebih Rapuh Bagian ini jarang ditulis kompetitor, padahal jujur soal keterbatasan\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

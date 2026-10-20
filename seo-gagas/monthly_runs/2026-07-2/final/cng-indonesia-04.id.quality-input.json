@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07-2\\final\\cng-indonesia-04.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-08T09:37:28+07:00",
+    "word_count":  1556,
+    "paragraph_count":  24,
+    "sentence_count":  87,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.361,
+                        "sentence_burstiness":  0.888,
+                        "top30_vocab_share":  0.329,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.361 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "RUPTL 2025–2034 memproyeksikan kebutuhan listrik nasional tumbuh dari 306 TWh (2024) menjadi 511 TWh pada 2034 ([Kementerian ESDM, Juni 2025](https://gatrik.esdm.go.id/berita/?slug=umumkan-ruptl-pln-2025-2034-menteri-esdm-targetkan-tambahan-kapasitas-pembangkit-listrik-69-5-gw\u0026category=ketenagalistrikan)), tambahan sekitar 205 TWh dalam sepuluh tahun.",
+                                      "candidate_score":  46,
+                                      "web_search_query":  "\"RUPTL 2025–2034 memproyeksikan kebutuhan listrik nasional tumbuh dari 306 TWh (2024) menjadi 511 TWh pada 2034 ([Kemente\""
+                                  },
+                                  {
+                                      "passage":  "Bauran pembangkit 2025 memperjelas gambarannya: batubara 54,4%, gas 22,2%, dan EBT 23,0% (Kementerian ESDM).",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"Bauran pembangkit 2025 memperjelas gambarannya: batubara 54,4%, gas 22,2%, dan EBT 23,0% (Kementerian ESDM).\""
+                                  },
+                                  {
+                                      "passage":  "PLN mencatat 4.655 unit SPKLU di 3.007 lokasi pada 2025, naik dari 3.223 unit di 2.192 lokasi pada 2024, atau tumbuh sekitar 44% dalam setahun.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"PLN mencatat 4.655 unit SPKLU di 3.007 lokasi pada 2025, naik dari 3.223 unit di 2.192 lokasi pada 2024, atau tumbuh sek\""
+                                  },
+                                  {
+                                      "passage":  "Pertumbuhan SPKLU ~44% dalam setahun dan bauran EBT ketenagalistrikan yang mencapai 16,3% pada 2025 (melampaui target RUKN 15,9%, Kementerian ESDM) menunjukkan tren yang serius.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Pertumbuhan SPKLU ~44% dalam setahun dan bauran EBT ketenagalistrikan yang mencapai 16,3% pada 2025 (melampaui target RU\""
+                                  },
+                                  {
+                                      "passage":  "Namun gas tetap dipatok berperan: 9,2 GW dari 27,9 GW tambahan kapasitas tahap pertama (2025–2029).",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Namun gas tetap dipatok berperan: 9,2 GW dari 27,9 GW tambahan kapasitas tahap pertama (2025–2029).\""
+                                  },
+                                  {
+                                      "passage":  "Pemberitaan 2023 menyebut kisaran biaya *converter kit* sekitar Rp 13 juta–Rp 36 juta, tetapi angka itu bervariasi antar-sumber dan harga bahan bakar berubah mengikuti subsidi.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Pemberitaan 2023 menyebut kisaran biaya *converter kit* sekitar Rp 13 juta–Rp 36 juta, tetapi angka itu bervariasi antar\""
+                                  },
+                                  {
+                                      "passage":  "## Kapan Elektrifikasi Justru Pilihan Lebih Tepat daripada CNG Ada situasi di mana listrik memang lebih masuk akal daripada gas.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Kapan Elektrifikasi Justru Pilihan Lebih Tepat daripada CNG Ada situasi di mana listrik memang lebih masuk akal darip\""
+                                  },
+                                  {
+                                      "passage":  "## CNG dan Listrik: Dua Jalur, Bukan Satu Pertarungan CNG dan listrik bukan dua tim yang harus dimenangkan salah satunya.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## CNG dan Listrik: Dua Jalur, Bukan Satu Pertarungan CNG dan listrik bukan dua tim yang harus dimenangkan salah satunya\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

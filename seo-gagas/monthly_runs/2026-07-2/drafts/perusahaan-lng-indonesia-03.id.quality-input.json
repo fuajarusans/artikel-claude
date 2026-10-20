@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07-2\\drafts\\perusahaan-lng-indonesia-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-08T09:28:04+07:00",
+    "word_count":  1691,
+    "paragraph_count":  26,
+    "sentence_count":  90,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.337,
+                        "sentence_burstiness":  0.764,
+                        "top30_vocab_share":  0.309,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.337 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Per akhir Juni 2026, LNG non-HGBT industri sekitar USD 13/MMBTU (turun dari USD 20–23/MMBTU), sedangkan solar industri berkisar Rp 26.000–28.400/liter dan bergerak dua-mingguan.",
+                                      "candidate_score":  36,
+                                      "web_search_query":  "\"Per akhir Juni 2026, LNG non-HGBT industri sekitar USD 13/MMBTU (turun dari USD 20–23/MMBTU), sedangkan solar industri b\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai rule-of-thumb industri, laju boil-off tangki kargo kapal berkisar 0,1–0,15% volume per hari (standar maritim IMO); tangki penyimpanan darat bisa berbeda, jadi angka ini indikatif, bukan pasti.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Sebagai rule-of-thumb industri, laju boil-off tangki kargo kapal berkisar 0,1–0,15% volume per hari (standar maritim IMO\""
+                                  },
+                                  {
+                                      "passage":  "Solar dijual per liter, sementara gas dihargai per MMBTU (*Million British Thermal Units*), satuan energi.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Solar dijual per liter, sementara gas dihargai per MMBTU (*Million British Thermal Units*), satuan energi.\""
+                                  },
+                                  {
+                                      "passage":  "## Biaya Tersembunyi Peralihan ke LNG yang Sering Terlewat Di luar harga gas per MMBTU, peralihan ke LNG membawa beberapa pos biaya yang mudah terlupakan saat menghitung penghematan.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Biaya Tersembunyi Peralihan ke LNG yang Sering Terlewat Di luar harga gas per MMBTU, peralihan ke LNG membawa beberap\""
+                                  },
+                                  {
+                                      "passage":  "## Kapan Solar/Diesel Justru Masih Lebih Ekonomis Ada kondisi ketika bertahan dengan diesel adalah keputusan finansial yang lebih rasional.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Kapan Solar/Diesel Justru Masih Lebih Ekonomis Ada kondisi ketika bertahan dengan diesel adalah keputusan finansial y\""
+                                  },
+                                  {
+                                      "passage":  "Satu studi menemukan hemat hingga 74,54% biaya bahan bakar, tetapi konteksnya propulsi kapal feri, bukan pembangkit atau industri darat.",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"Satu studi menemukan hemat hingga 74,54% biaya bahan bakar, tetapi konteksnya propulsi kapal feri, bukan pembangkit atau\""
+                                  },
+                                  {
+                                      "passage":  "Perbandingan yang benar bukan harga per liter vs per MMBTU, melainkan biaya per unit energi ditambah logistik, capex konversi, dan O\u0026M.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Perbandingan yang benar bukan harga per liter vs per MMBTU, melainkan biaya per unit energi ditambah logistik, capex kon\""
+                                  },
+                                  {
+                                      "passage":  "PLTDG Pesanggaran di Bali, setelah mengonversi bahan bakar minyak ke mini-LNG, tercatat menghemat tidak kurang dari Rp 60 miliar per tahun (Kementerian ESDM, 2016).",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"PLTDG Pesanggaran di Bali, setelah mengonversi bahan bakar minyak ke mini-LNG, tercatat menghemat tidak kurang dari Rp 6\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

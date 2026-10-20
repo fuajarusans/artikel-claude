@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07-2\\final\\perusahaan-cng-indonesia-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-08T09:19:03+07:00",
+    "word_count":  1649,
+    "paragraph_count":  29,
+    "sentence_count":  94,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.374,
+                        "sentence_burstiness":  0.749,
+                        "top30_vocab_share":  0.314,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.374 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Contoh: pada Agustus 2025 produsen keramik hanya mendapat 48% alokasi normal, dengan surcharge 120% untuk sisanya, harga naik dari US$14,8 ke US$17,8/MMBTU (Asaki via Bloomberg Technoz).",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Contoh: pada Agustus 2025 produsen keramik hanya mendapat 48% alokasi normal, dengan surcharge 120% untuk sisanya, harga\""
+                                  },
+                                  {
+                                      "passage":  "Bukan Satu Angka Tunggal Harga CNG bukan satu angka tunggal, melainkan susunan beberapa komponen.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Bukan Satu Angka Tunggal Harga CNG bukan satu angka tunggal, melainkan susunan beberapa komponen.\""
+                                  },
+                                  {
+                                      "passage":  "Pada 29 Juni 2026, pemerintah memangkas harga LNG non-HGBT dari kisaran US$20,57 menjadi US$13/MMBTU, sementara HGBT tetap.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Pada 29 Juni 2026, pemerintah memangkas harga LNG non-HGBT dari kisaran US$20,57 menjadi US$13/MMBTU, sementara HGBT tet\""
+                                  },
+                                  {
+                                      "passage":  "Contohnya, pada 29 Juni 2026 pemerintah memangkas harga LNG non-HGBT ke US$13/MMBTU sementara HGBT tetap.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Contohnya, pada 29 Juni 2026 pemerintah memangkas harga LNG non-HGBT ke US$13/MMBTU sementara HGBT tetap.\""
+                                  },
+                                  {
+                                      "passage":  "Harga aktual penyedia CNG tetap bergantung volume, jarak pengiriman, dan status HGBT pelanggan.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Harga aktual penyedia CNG tetap bergantung volume, jarak pengiriman, dan status HGBT pelanggan.\""
+                                  },
+                                  {
+                                      "passage":  "Skema ini hanya berlaku bagi 7 sektor industri prioritas dan 253 pengguna gas bumi tertentu yang ditetapkan pemerintah (Kementerian ESDM, Februari 2025).",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"Skema ini hanya berlaku bagi 7 sektor industri prioritas dan 253 pengguna gas bumi tertentu yang ditetapkan pemerintah (\""
+                                  },
+                                  {
+                                      "passage":  "- **Take-or-pay (TOP):** kewajiban membayar volume minimum meski tak dikonsumsi; sering disertai mekanisme *make-up gas*.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"- **Take-or-pay (TOP):** kewajiban membayar volume minimum meski tak dikonsumsi; sering disertai mekanisme *make-up gas*\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apa itu minimum offtake dalam kontrak gas CNG?",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apa itu minimum offtake dalam kontrak gas CNG?\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

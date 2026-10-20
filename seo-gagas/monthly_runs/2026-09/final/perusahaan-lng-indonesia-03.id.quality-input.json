@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-09\\final\\perusahaan-lng-indonesia-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-21T11:04:56+07:00",
+    "word_count":  1578,
+    "paragraph_count":  24,
+    "sentence_count":  88,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.424,
+                        "sentence_burstiness":  0.808,
+                        "top30_vocab_share":  0.292,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.424 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Riset mesin *dual-fuel* mencatat NOx turun hingga ~77% dan CO2 ~21–24% dibanding diesel/HFO, tanpa emisi SOx (Jurnal Vokasi Elektro Poltek STIP).",
+                                      "candidate_score":  31,
+                                      "web_search_query":  "\"Riset mesin *dual-fuel* mencatat NOx turun hingga ~77% dan CO2 ~21–24% dibanding diesel/HFO, tanpa emisi SOx (Jurnal Vok\""
+                                  },
+                                  {
+                                      "passage":  "IEA mencatat konsumsi listrik data center global tumbuh sekitar 12% per tahun sejak 2017 dan diproyeksikan menembus ~945 TWh pada 2030 (IEA, *Electricity 2026*).",
+                                      "candidate_score":  27,
+                                      "web_search_query":  "\"IEA mencatat konsumsi listrik data center global tumbuh sekitar 12% per tahun sejak 2017 dan diproyeksikan menembus ~945\""
+                                  },
+                                  {
+                                      "passage":  "Secara terpisah, materi edukasi kelompok PGN mengklaim pengurangan CO2 ~25–30% dibanding BBM.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Secara terpisah, materi edukasi kelompok PGN mengklaim pengurangan CO2 ~25–30% dibanding BBM.\""
+                                  },
+                                  {
+                                      "passage":  "**Virtual pipeline:** LNG diangkut memakai ISO tank kriogenik via truk, kereta, atau kapal.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"**Virtual pipeline:** LNG diangkut memakai ISO tank kriogenik via truk, kereta, atau kapal.\""
+                                  },
+                                  {
+                                      "passage":  "Efisiensinya diukur dengan PUE (*Power Usage Effectiveness*), yang rata-rata globalnya bertahan di 1,54 selama enam tahun (Uptime Institute, 2025).",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Efisiensinya diukur dengan PUE (*Power Usage Effectiveness*), yang rata-rata globalnya bertahan di 1,54 selama enam tahu\""
+                                  },
+                                  {
+                                      "passage":  "Dua risiko lain layak ditimbang: kontrak jangka panjang bisa menimbulkan *lock-in*, dan penanganan rantai dingin (*cold-chain*) LNG menuntut kesiapan tim serta prosedur keselamatan tersendiri.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Dua risiko lain layak ditimbang: kontrak jangka panjang bisa menimbulkan *lock-in*, dan penanganan rantai dingin (*cold-\""
+                                  },
+                                  {
+                                      "passage":  "LNG juga tetap bahan bakar fosil: ia energi transisi (*bridge fuel*), bukan solusi nol-emisi maupun pengganti komitmen energi hijau.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"LNG juga tetap bahan bakar fosil: ia energi transisi (*bridge fuel*), bukan solusi nol-emisi maupun pengganti komitmen e\""
+                                  },
+                                  {
+                                      "passage":  "- **Densitas daya tinggi di lahan terbatas**, kerap melampaui kemampuan jaringan setempat.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"- **Densitas daya tinggi di lahan terbatas**, kerap melampaui kemampuan jaringan setempat.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

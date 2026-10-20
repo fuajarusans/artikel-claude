@@ -1,0 +1,80 @@
+{
+  "keyword": "CNG Indonesia",
+  "keyword_slug": "cng-indonesia",
+  "month": "2026-07-2",
+  "captured_at": "2026-07-07",
+  "intent_locked": "informational/edukasi (NOT commercial provider-selection; that belongs to sibling keyword 'Perusahaan CNG Indonesia' which shares the same hub)",
+  "landing_page": "https://gagas.co.id/perusahaan-cng-indonesia/",
+  "landing_page_summary": "Hub CNG PGN Gagas: menjelaskan CNG sebagai instrumen transisi energi, spesifikasi teknis (kompresi 200-250 bar, metana), tabel CNG vs LPG/LNG/BBM, rantai teknis (Mother Station, GTM, PRS, SPBG, MRU), klaim hemat 68% vs HSD, produk Gaslink (industri) & Gasku (transportasi), peran menuju Net Zero 2060. Tidak membahas mendalam: keselamatan/spesifikasi tabung, mitos-fakta, sejarah CNG, CNG vs listrik, program CNG 3 kg rumah tangga.",
+  "data_sources_used": ["live_serp (blocked by Google access error)", "websearch", "webfetch_landing_page"],
+  "ahrefs_available": false,
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Naik tajam Mei-Juli 2026 karena berita 'CNG Merah Putih 3 kg' pengganti LPG (CNBC, CNN, Tirto, Kompas). Query 'apa itu CNG' meledak Mei 2026 (CNBC publish 07-08 Mei 2026).",
+    "report_rank": "n/a (seo_report: none in keywords.md)"
+  },
+  "serp": {
+    "top_10": [
+      { "url": "https://id.wikipedia.org/wiki/Gas_alam_terkompresi", "title": "Gas alam terkompresi - Wikipedia", "angle_summary": "Definisi ensiklopedik CNG/BBG, sejarah, keselamatan; entity authority tinggi." },
+      { "url": "https://www.cnbcindonesia.com/news/20260507173057-4-733213/apa-itu-cng-ini-pengertian-spesifikasi-dan-penggunaannya", "title": "Apa Itu CNG? Ini Pengertian, Spesifikasi dan Penggunaannya", "angle_summary": "Explainer definisi + spesifikasi dipicu berita CNG 3 kg." },
+      { "url": "https://solarindustri.com/blog/compressed-natural-gas/", "title": "Apa itu Compressed Natural Gas (CNG)? Ini Kegunaannya!", "angle_summary": "Blog kompetitor edukasi CNG untuk industri; kuat di keamanan & kegunaan." },
+      { "url": "https://listrikindonesia.com/detail/17524/mengenal-cng-apa-bedanya-dengan-lpg-dan-lng", "title": "Mengenal CNG, Apa Bedanya dengan LPG dan LNG?", "angle_summary": "Comparison CNG vs LPG vs LNG (sudah dicover part-1 02)." },
+      { "url": "https://www.atlascopco.com/id-id/compressors/air-compressor-blog/apa-itu-cng-dan-kegunaannya", "title": "Apa Itu CNG dan Kelebihannya Daripada Bahan Bakar Lain - Atlas Copco", "angle_summary": "Vendor kompresor; fokus proses kompresi & kelebihan." },
+      { "url": "https://www.gagas.co.id/perusahaan-cng-indonesia", "title": "Perusahaan CNG Indonesia (hub Gagas)", "angle_summary": "Hub klien; ranking untuk keyword utama." },
+      { "url": "https://www.cnbcindonesia.com/news/20260629155323-4-746588/ini-dia-alternatif-baru-pengganti-lpg-cng-merah-putih-3-kg", "title": "Ini Dia Alternatif Baru Pengganti LPG: CNG Merah Putih 3 Kg", "angle_summary": "Berita program tabung CNG 3 kg (whitespace besar, belum ada artikel cluster)." }
+    ],
+    "serp_features": ["ai_overview_likely", "paa", "top_stories (CNG 3 kg news)"],
+    "ai_overview_entities": ["Compressed Natural Gas", "metana", "200-250 bar", "BBG", "LPG", "LNG", "Tabung Merah Putih", "Lemigas", "Type 4 komposit"]
+  },
+  "paa": [
+    "Apa itu CNG dan bedanya dengan LPG?",
+    "Apakah CNG aman dan bisa meledak?",
+    "Apa itu CNG Merah Putih 3 kg?",
+    "Kapan CNG 3 kg pengganti LPG mulai dipakai?",
+    "Berapa tekanan tabung CNG?",
+    "Apakah CNG membuat tenaga mesin turun?",
+    "Apa perbedaan tabung CNG Type 1 dan Type 4?",
+    "Sejak kapan BBG/CNG ada di Indonesia?",
+    "Mana lebih baik, kendaraan CNG atau listrik?",
+    "Apakah CNG ramah lingkungan?"
+  ],
+  "gsc_style_queries_from_report": "n/a (seo_report: none)",
+  "key_facts_verified": {
+    "cng_3kg_program": "Kementerian ESDM (Dirjen Migas Laode Sulaeman) menyiapkan ~15 prototipe 'Tabung CNG Merah Putih' untuk diuji di Lemigas mulai Juli 2026; tabung Type 4 komposit (lebih ringan dari logam LPG); target ~160.000 sambungan rumah tangga 2026, ~1 juta 2027; harga jual setara LPG bersubsidi; klaim hemat subsidi energi ~30% (gas bumi domestik vs LPG impor 80-84%). Sumber: CNBC Indonesia, CNN Indonesia, Tirto, KilasJatim (Juni-Juli 2026).",
+    "tank_specs": "Tekanan kerja CNG 200-250 bar (sebagian sumber 150-250 bar). Type 1 = full baja (AISI 4130), standar desain ISO 11439. Type 4 = liner plastik HDPE + bungkus komposit carbon/glass fiber + resin; jauh lebih ringan. Uji tekanan & sertifikasi di Lemigas; wajib nomor seri, masa berlaku, inspeksi berkala, sistem pengaman katup (stopper/PRD). Sumber: Sinergi Unisma jurnal, mechanicalengboy, RuangEnergi/CNBC.",
+    "safety_myths": "CNG lebih ringan dari udara -> saat bocor cepat menguap ke atas (tidak mengendap seperti bensin/LPG), mengurangi risiko akumulasi & ledakan. Auto-ignition metana ~540 derajat C (lebih tinggi dari bensin ~280-300). Ledakan historis akibat tabung tak sesuai spesifikasi / perawatan buruk, bukan teknologi. Mobil CNG modern punya solenoid/valve otomatis putus aliran saat mesin mati/bocor. Sumber: oto.detik, netralnews, liputan6, solarindustri.",
+    "cng_vs_ev": "CNG = solusi transisi jangka menengah praktis (infrastruktur SPBG/GTM sudah ada, retrofit murah, cocok panas proses industri yang tak bisa dilistrikkan). EV = fokus jangka panjang; kebutuhan listrik nasional diproyeksi naik 306 TWh (2024) -> 511 TWh (2034, PLN). Keduanya komplementer, bukan saling meniadakan. Sumber: PLN RUPTL, koran-jakarta, listrikindonesia.",
+    "history": "1985 Blue Bird mulai coba BBG di Jakarta (terkendala SPBG). 1986 Pertamina memperkenalkan BBG/CNG. 1987 Pemprov DKI mewajibkan BBG (gagal: minim SPBG & suplai). 1992 program 'Langit Biru'. 2008 target 500 bus TransJakarta BBG. 2012 Pertamina operasikan SPBG. Bajaj/taksi BBG banyak kembali ke BBM karena SPBG minim. Kebangkitan: 2013 PLN Batam CNG, 2016 Gresik-Lombok, 2024 CNG vessel, 2026 momentum CNG 3 kg + beyond pipeline industri. Sumber: Kompas Stori, IESR, ANTARA, migas.esdm.",
+    "calorific": "CNG nilai kalor ~9.000-11.000 kcal/kg (~38-47 MJ/kg), oktan ~120. Gas pipa spec ~950-1.150 BTU/scf. Kualitas gas dinilai lewat Wobbe Index & Heating Value (ISO 6976). Sumber: laskarteknik, jurnal Lemigas, husnawalahir.",
+    "gagas_anchor_fact": "PGN Gagas mulai bangun Mother Station CNG pertama di Medan (Martubung, Medan) 19 Sept 2025; konstruksi mulai Juni 2025; kapasitas hingga 1 MMSCFD (proyeksi layani ~4,48 BBTUD); melayani industri, komersial & UMKM Sumut via skema beyond pipeline; target operasi sebelum akhir 2025. Sumber: gagas.co.id, Investor.id, Republika, RM.id, Dunia Energi."
+  },
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      "apa-itu-cng-compressed-natural-gas-cara-kerja (sha1:b649ddf8f0fc) — definisi, metana, kompresi 7-langkah, CNG vs pipa/LPG/LNG, beyond-pipeline concept",
+      "cng-vs-lng-vs-lpg-apa-bedanya (sha1:d43a48ccab7a) — perbandingan 3 gas: asal/wujud/tekanan/nilai kalori, HGBT, decision framework",
+      "manfaat-cng-untuk-industri-dan-lingkungan (sha1:e92c904b3043) — efisiensi, emisi CO2/NOx/PM, alat awet, kapan belum optimal, RS Hasan Sadikin",
+      "cng-beyond-pipeline-gas-bumi-tanpa-pipa (sha1:0081c82326a7) — Mother Station/GTM/PRS/CNG vessel, virtual pipeline logistik, geografi kepulauan, PLN Batam/Lombok",
+      "cng-transisi-energi-indonesia-gas-bumi (sha1:6edda8f46c23) — bridge fuel, bauran energi target, NZE 2060, metana GWP, carbon lock-in"
+    ],
+    "uncovered_angles": [
+      "Program CNG 3 kg 'Tabung Merah Putih' pengganti LPG rumah tangga (2026) — whitespace baru & timely",
+      "Keselamatan CNG & spesifikasi tabung (Type 1-4, ISO 11439, Lemigas, katup) — belum ada",
+      "Mitos vs fakta CNG (aman? meledak? tenaga turun?) — belum ada; format myth-busting",
+      "CNG vs listrik/EV (komparasi lawan elektrifikasi, bukan gas-vs-gas) — sumbu perbandingan baru",
+      "Sejarah CNG di Indonesia 1985/1986-2026 (timeline analitis + pelajaran) — belum ada"
+    ],
+    "avoided_to_prevent_overlap": [
+      "CNG untuk pembangkit remote (overlap dengan part-1 04 beyond-pipeline: PLN Batam/Lombok/CNG vessel)",
+      "Deep-dive peralatan Mother Station/GTM/MRU sebagai artikel tersendiri (overlap dengan part-1 04 process/logistik)",
+      "Sektor/konsumen yang dilayani CNG (dilindungi untuk cluster komersial 'Perusahaan CNG Indonesia')"
+    ]
+  },
+  "chosen_briefs": [
+    { "nn": "01", "angle": "cng-3kg-tabung-merah-putih-pengganti-lpg", "angle_hash": "sha1:087d33b50adb", "intent": "informational" },
+    { "nn": "02", "angle": "keselamatan-cng-spesifikasi-tabung-standar", "angle_hash": "sha1:3819ebde673e", "intent": "informational" },
+    { "nn": "03", "angle": "mitos-fakta-cng-benar-salah", "angle_hash": "sha1:b5a266cc3782", "intent": "informational" },
+    { "nn": "04", "angle": "cng-vs-listrik-ev-dua-jalur-energi-bersih", "angle_hash": "sha1:5a8cc28d3d66", "intent": "comparison (edukatif, bukan provider-selection)" },
+    { "nn": "05", "angle": "sejarah-cng-bbg-indonesia-1986-2026", "angle_hash": "sha1:0d7b1efb3f08", "intent": "informational" }
+  ]
+}

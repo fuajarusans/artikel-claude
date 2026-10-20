@@ -1,0 +1,74 @@
+{
+  "keyword": "ERP migration to the cloud",
+  "keyword_slug": "erp-migration-to-the-cloud",
+  "month": "2026-07-2",
+  "captured_at": "2026-07-07",
+  "landing_page": "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud",
+  "landing_page_summary": "Hub already covers: business case for cloud migration, on-prem vs cloud, the 5R strategy framework (Rehost/Replatform/Refactor/Repurchase/Retire), a five-phase roadmap (Discovery, Planning, Data Migration, Testing, Go-Live) where data migration is only ONE phase, and common pitfalls (hidden cost, downtime, compliance). Mentions SAP S/4HANA Cloud + SAP ECC. It treats data migration, custom code, and post-go-live value only at a shallow, single-phase level — leaving room for deep-dive supporting articles.",
+  "data_sources_used": ["live_websearch_google_id", "landing_page_webfetch", "articles_history"],
+  "ahrefs_available": false,
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "n/a (Ahrefs not connected); 2026-06 seo report marked this keyword #1 and priority 'defend'. keywords.md (2026-07-2) reaffirms priority 'defend'. SERP shows strong 2026-dated SAP-ecosystem content on data migration, custom code, and value realization — active topic demand.",
+    "apr2026_rank": 1
+  },
+  "serp": {
+    "top_results_by_subangle": {
+      "data_migration_strategy": [
+        { "url": "https://blog.syniti.com/the-ultimate-sap-data-migration-checklist-for-2026", "title": "The Ultimate SAP Data Migration Checklist for 2026", "angle_summary": "Checklist-driven SAP data migration best practices (2026)." },
+        { "url": "https://www.tjc-group.com/blogs/sap-data-archiving-how-to-reduce-s-4hana-migration-cost/", "title": "SAP data archiving: How to reduce S/4HANA migration cost", "angle_summary": "Archive 12-18 months before migration to shrink HANA memory, cut downtime, strengthen RISE negotiation." },
+        { "url": "https://learning.sap.com/courses/implementing-sap-s-4hana-cloud-public-edition/introducing-the-sap-s-4hana-migration-cockpit", "title": "Introducing the SAP S/4HANA Migration Cockpit", "angle_summary": "Official SAP course on the Migration Cockpit (LTMC/LTMOM) staging-table vs file load." }
+      ],
+      "custom_code_remediation": [
+        { "url": "https://help.sap.com/doc/9dcbc5e47ba54a5cbb509afaa49dd5a1/2025.001/en-US/CustomCodeMigration_EndtoEnd.pdf", "title": "Custom Code Migration Guide for SAP S/4HANA (2026-02)", "angle_summary": "Official SAP end-to-end custom-code migration: scope, ATC checks vs Simplification DB, adapt to S/4HANA or BTP ABAP." },
+        { "url": "https://community.sap.com/t5/technology-blog-posts-by-sap/custom-code-migration-to-sap-s-4hana-powered-by-sap-joule-for-developers/ba-p/14329094", "title": "Custom code migration powered by SAP Joule for Developers", "angle_summary": "SAP's AI (Joule for Developers / Custom Code Migration Agent) auto-fixes ATC findings at scale." },
+        { "url": "https://diligentglobal.com/blogs/the-definitive-sap-s4hana-custom-code-migration-guide/", "title": "The Definitive SAP S/4HANA Custom Code Migration Guide", "angle_summary": "Automating remediation for clean-core compliance; Business Partner (BP) API remapping." }
+      ],
+      "value_realization_roi": [
+        { "url": "https://sapinsider.org/map/the-new-mandate-for-sap-s-4hana-value-realization-in-2026/", "title": "The New Mandate for SAP S/4HANA Value Realization in 2026", "angle_summary": "2026 shift from go-live success to measured value; consumption KPIs, benefit tracking." },
+        { "url": "https://innovapte.com/event/from-go-live-to-value-realization-measuring-sap-success-beyond-cutover/", "title": "From Go-Live to Value Realization: Measuring SAP Success Beyond Cutover", "angle_summary": "Metrics shift after cutover; baseline before go-live; Fiori adoption vs old T-codes." },
+        { "url": "https://www.pwc.com/us/en/services/consulting/business-transformation/library/cloud-erp-roi.html", "title": "Go beyond the tech: value-based cloud ERP (PwC)", "angle_summary": "Align intended performance outcomes; pull levers that lift KPIs." }
+      ]
+    },
+    "serp_features": ["ai_overview_likely", "paa", "featured_snippet_definition"],
+    "ai_overview_entities": ["SAP S/4HANA Migration Cockpit", "LTMC", "ABAP Test Cockpit (ATC)", "Simplification Database", "SAP Custom Code Migration app", "Business Partner (BP)", "data archiving", "SAP Joule for Developers", "value realization", "consumption KPI", "RISE with SAP", "TCO", "ROI"]
+  },
+  "paa": [
+    "Apa itu strategi migrasi data dalam migrasi ERP ke cloud?",
+    "Berapa lama proses migrasi data dari SAP ECC ke S/4HANA?",
+    "Apa itu SAP S/4HANA Migration Cockpit (LTMC)?",
+    "Kapan sebaiknya mulai membersihkan dan mengarsip data sebelum migrasi?",
+    "Apa itu custom code remediation dalam migrasi SAP S/4HANA?",
+    "Apa fungsi ABAP Test Cockpit (ATC) dalam migrasi ke S/4HANA?",
+    "Bagaimana cara mengurangi jumlah custom code sebelum migrasi ke cloud?",
+    "Apa itu value realization setelah migrasi ERP ke cloud?",
+    "Bagaimana cara mengukur ROI setelah migrasi ERP ke cloud?",
+    "KPI apa yang harus dipantau setelah go-live ERP cloud?",
+    "Mengapa banyak proyek migrasi ERP gagal menghasilkan nilai bisnis?"
+  ],
+  "gsc_style_queries_from_report": "seo_report=none for 2026-07-2; keywords.md reaffirms this keyword is priority 'defend' (#1 in the 2026-06 report). No new GSC rows for this run.",
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      "2026-06-01 brownfield/greenfield/bluefield decision guide (comparison)",
+      "2026-06-02 minimasi downtime / cutover window / NZDT / doC (how-to)",
+      "2026-06-03 TCO / komponen biaya / BEP pra-migrasi (decision)",
+      "2026-06-04 keamanan data / UU PDP / BSSN / data residency (informational)",
+      "2026-06-05 tantangan pasca go-live / hypercare / AMS / change management (troubleshooting)",
+      "2026-08-01 RISE vs GROW with SAP program selection (comparison)",
+      "2026-08-02 migration readiness assessment / 5 dimensi / Readiness Check / Signavio (decision)",
+      "2026-08-03 memilih partner implementasi SAP / system integrator due diligence (decision)"
+    ],
+    "uncovered_angles": [
+      "Data migration strategy deep-dive: cleansing + archiving (12-18 bulan sebelum) + deduplication + Migration Cockpit/LTMC + mock migration/validation + data footprint reduction (distinct from -02 which is downtime mechanics, and from readiness -08-02 where data quality is only 1 of 5 dimensions)",
+      "Custom code / ABAP remediation for clean-core-ready migration: inventory, ATC vs Simplification Database, Custom Code Migration app, Business Partner remapping, refactor/retire/recode, SAP Joule for Developers (NOT covered by any historical article)",
+      "Value realization / measuring ROI-KPI AFTER go-live: baseline before go-live, consumption KPIs, benefit tracking, Fiori adoption vs old T-codes, time-to-value (distinct from -03 pre-migration TCO forecast and -05 qualitative adoption challenges)",
+      "Still open for future: rehearsal/mock cutover testing strategy, industry-specific brownfield (manufaktur), migration project governance/RACI, user training program, incident response ERP cloud"
+    ]
+  },
+  "cousin_hubs_chosen_from_month_set": {
+    "cousin_1": { "keyword": "SAP Clean Core", "url": "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide", "why": "Clean core is the destination principle of both custom-code remediation and data-lean migration; per product_matrix ERP-migration<->Clean Core is the primary cousin pairing." },
+    "cousin_2": { "keyword": "Data Warehouse Solutions", "url": "https://www.soltius.co.id/id/blog/data-warehouse-solutions", "why": "Data cleansing/archiving and post-migration analytics/KPI reporting connect the migrated ERP data layer to the warehouse; product_matrix lists Data Warehouse as ERP-migration cousin 2." }
+  },
+  "note_on_month_set": "2026-07-2 keyword set = {warehouse management system, Data Warehouse Solutions, Business Intelligence, ERP migration to the cloud, SAP Clean Core}. Cousins chosen from WITHIN this set: SAP Clean Core + Data Warehouse Solutions (also matches product_matrix cross-link map). Business Intelligence used as the natural cousin only for the value-realization brief (KPI/dashboards), still within the month set."
+}

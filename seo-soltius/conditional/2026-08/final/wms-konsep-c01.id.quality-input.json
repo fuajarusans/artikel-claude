@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-08\\final\\wms-konsep-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-17T23:47:19+07:00",
+    "word_count":  996,
+    "paragraph_count":  16,
+    "sentence_count":  60,
+    "ai_detector":  {
+                        "score":  0.15,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.291,
+                        "sentence_burstiness":  0.498,
+                        "top30_vocab_share":  0.298,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-uniformity",
+                                          "severity":  "high",
+                                          "snippet":  "Paragraph word-count CV=0.291 (target \u003e=0.45; \u003c0.30 is strong AI tell)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "bahan bangunan) | | **FEFO** | First Expired, First Out | Stok dengan tanggal kedaluwarsa terdekat | Makanan, minuman, farmasi, bahan kimia | FEFO bukan sekadar varian FIFO.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"bahan bangunan) | | **FEFO** | First Expired, First Out | Stok dengan tanggal kedaluwarsa terdekat | Makanan, minuman, f\""
+                                  },
+                                  {
+                                      "passage":  "## Enam Proses Inti yang Dikendalikan WMS WMS bukan satu fitur tunggal, melainkan rantai enam proses berurutan.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"## Enam Proses Inti yang Dikendalikan WMS WMS bukan satu fitur tunggal, melainkan rantai enam proses berurutan.\""
+                                  },
+                                  {
+                                      "passage":  "Berpengalaman sejak 1998 dan berstatus SAP Platinum Partner melalui keanggotaan United VARs, Soltius mengimplementasikan serta memigrasikan SAP EWM di perusahaan logistik, distribusi, dan manufaktur.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Berpengalaman sejak 1998 dan berstatus SAP Platinum Partner melalui keanggotaan United VARs, Soltius mengimplementasikan\""
+                                  },
+                                  {
+                                      "passage":  "Di lanskap SAP, solusi gudang strategisnya adalah SAP Extended Warehouse Management (EWM), yang menurut SAP melayani pelanggan di 24 industri.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Di lanskap SAP, solusi gudang strategisnya adalah SAP Extended Warehouse Management (EWM), yang menurut SAP melayani pel\""
+                                  },
+                                  {
+                                      "passage":  "Arah pasarnya terbaca pada [SAP Logistics Management](https://news.sap.com/2026/02/sap-logistics-management-now-generally-available/), solusi logistik *cloud-native* yang menyatukan pergudangan dan transportasi serta tersedia umum sejak Februari 2026.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Arah pasarnya terbaca pada [SAP Logistics Management](https://news.sap.com/2026/02/sap-logistics-management-now-generall\""
+                                  },
+                                  {
+                                      "passage":  "Untuk mendiskusikan kesiapan gudang perusahaan Anda menjalankan SAP Extended Warehouse Management, kunjungi soltius.co.id.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Untuk mendiskusikan kesiapan gudang perusahaan Anda menjalankan SAP Extended Warehouse Management, kunjungi soltius.co.i\""
+                                  },
+                                  {
+                                      "passage":  "Dalam terminologi SAP, modul persediaan bekerja di level *storage location* dan menjawab pertanyaan \"berapa\": ada 100 unit di Gudang A.",
+                                      "candidate_score":  7,
+                                      "web_search_query":  "\"Dalam terminologi SAP, modul persediaan bekerja di level *storage location* dan menjawab pertanyaan  berapa : ada 100 un\""
+                                  },
+                                  {
+                                      "passage":  "SAP EWM sendiri tertanam di SAP S/4HANA, sehingga keputusan modernisasi gudang nyaris selalu menempel pada agenda [migrasi ERP ke cloud](https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud).",
+                                      "candidate_score":  6,
+                                      "web_search_query":  "\"SAP EWM sendiri tertanam di SAP S/4HANA, sehingga keputusan modernisasi gudang nyaris selalu menempel pada agenda [migra\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

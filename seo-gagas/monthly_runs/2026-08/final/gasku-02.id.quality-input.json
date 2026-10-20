@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-08\\final\\gasku-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-11T14:41:11+07:00",
+    "word_count":  1582,
+    "paragraph_count":  26,
+    "sentence_count":  94,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.415,
+                        "sentence_burstiness":  0.849,
+                        "top30_vocab_share":  0.312,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.415 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Jurnal [Swara Patra](https://journal.esdm.go.id/swarapatra/article/view/1158) terbitan PPSDM Migas Kementerian ESDM (Risdyanta, 2015) menyebut BBG menghasilkan emisi karbon 25–35% lebih rendah dibanding BBM.",
+                                      "candidate_score":  36,
+                                      "web_search_query":  "\"Jurnal [Swara Patra](https://journal.esdm.go.id/swarapatra/article/view/1158) terbitan PPSDM Migas Kementerian ESDM (Ris\""
+                                  },
+                                  {
+                                      "passage":  "Uji coba PGN 2023 pada tiga sepeda motor mencatat rata-rata 38,7 km/LSP (rentang 37–41,6 km/LSP).",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Uji coba PGN 2023 pada tiga sepeda motor mencatat rata-rata 38,7 km/LSP (rentang 37–41,6 km/LSP).\""
+                                  },
+                                  {
+                                      "passage":  "EIA: gas alam sekitar 52,91 kg CO2 per MMBtu versus bensin motor 70,66–76,11 kg, kira-kira 30% lebih rendah per satuan energi.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"EIA: gas alam sekitar 52,91 kg CO2 per MMBtu versus bensin motor 70,66–76,11 kg, kira-kira 30% lebih rendah per satuan e\""
+                                  },
+                                  {
+                                      "passage":  "Satu studi *dynotest* di Indonesia mencatat daya turun 12,4% dan torsi 23,7% dibanding Pertamax RON92 (Subekti, Jurnal Teknologi Bahan dan Barang Teknik).",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Satu studi *dynotest* di Indonesia mencatat daya turun 12,4% dan torsi 23,7% dibanding Pertamax RON92 (Subekti, Jurnal T\""
+                                  },
+                                  {
+                                      "passage":  "Studi pengukuran jalan nyata (metode PEMS) pada kendaraan *bi-fuel* modern menemukan CO, HC, dan NOx rata-rata hanya turun 7–30% dibanding mode bensinnya.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Studi pengukuran jalan nyata (metode PEMS) pada kendaraan *bi-fuel* modern menemukan CO, HC, dan NOx rata-rata hanya tur\""
+                                  },
+                                  {
+                                      "passage":  "## Mengurai Klaim Emisi: Kenapa Ada yang Bilang 20%, Ada yang 90%?",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## Mengurai Klaim Emisi: Kenapa Ada yang Bilang 20%, Ada yang 90%?\""
+                                  },
+                                  {
+                                      "passage":  "Klaim \"BBG 90% lebih ramah lingkungan\" berasal dari pernyataan Komite Penghapusan Bensin Bertimbal (KPBB), berbasis uji emisi tahun 2008 pada kendaraan standar Euro 2.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Klaim  BBG 90% lebih ramah lingkungan  berasal dari pernyataan Komite Penghapusan Bensin Bertimbal (KPBB), berbasis uji \""
+                                  },
+                                  {
+                                      "passage":  "BBG umumnya menurunkan tenaga mesin sekitar 10–20% akibat efisiensi volumetrik yang lebih rendah, namun menghasilkan emisi karbon sekitar 25–35% lebih rendah (PPSDM Migas ESDM, 2015).",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"BBG umumnya menurunkan tenaga mesin sekitar 10–20% akibat efisiensi volumetrik yang lebih rendah, namun menghasilkan emi\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

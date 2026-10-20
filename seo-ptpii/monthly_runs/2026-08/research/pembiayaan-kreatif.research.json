@@ -1,0 +1,238 @@
+{
+  "keyword": "Pembiayaan Kreatif",
+  "keyword_slug": "pembiayaan-kreatif",
+  "month": "2026-08",
+  "language": "id",
+  "captured_at": "2026-08-12",
+  "priority": "defend",
+  "client_anchor": "Pembiayaan Kreatif",
+  "landing_page": "https://www.ptpii.co.id/pembiayaan-kreatif",
+  "landing_page_title": "Pembiayaan Kreatif untuk Infrastruktur Daerah Inovatif",
+  "landing_page_summary": "Hub menjelaskan konsep pembiayaan kreatif, peran UU HKPD, kolaborasi pemerintah-badan usaha, KPBU sebagai skema pembiayaan kreatif, tiga dukungan pemerintah (Penjaminan Pemerintah, PDF, VGF), lalu potensi/tantangan/insentif, dengan studi kasus SPAM Umbulan. Bersifat konseptual dan naratif: TIDAK memuat peta instrumen non-KPBU (obligasi/sukuk daerah, LVC, dana abadi daerah), TIDAK memuat checklist kesiapan pemda yang berurutan, dan TIDAK memuat diagnosis kegagalan proyek. Ketiga celah itu dipakai untuk brief 01/02/03.",
+  "landing_page_headings_verbatim": [
+    "Pembiayaan Kreatif untuk Infrastruktur Daerah Inovatif",
+    "Pembiayaan Kreatif Menjadi Solusi Inovatif untuk Infrastruktur",
+    "Mengenal Konsep Pembiayaan Kreatif",
+    "Peran Pembiayaan Kreatif dalam Konteks UU HKPD",
+    "Kolaborasi Pemerintah-Badan Usaha: Mekanisme Pembiayaan Infrastruktur Kreatif",
+    "KPBU (Kerja Sama Pemerintah dengan Badan Usaha) sebagai Skema Pembiayaan Kreatif",
+    "Manfaat utama KPBU bagi daerah sangat signifikan:",
+    "Dukungan Pemerintah untuk Proyek Pembiayaan Infrastruktur Melalui KPBU",
+    "Potensi, Tantangan, dan Insentif Pembiayaan Kreatif",
+    "Potensi Pembiayaan Daerah Melalui Skema Kreatif",
+    "Studi Kasus Singkat: Proyek SPAM Umbulan, Jawa Timur",
+    "Tantangan Implementasi Pembiayaan Kreatif untuk Infrastruktur",
+    "Insentif untuk Mendorong Pembiayaan Infrastruktur Berbasis Kreatif"
+  ],
+  "landing_page_figures_already_used": [
+    "BPS 2023 — 77,36% rumah tangga akses air minum layak",
+    "SPAM Umbulan — 1,3 juta jiwa terlayani, 5 kabupaten/kota, pipa transmisi 93 km",
+    "Durasi kontrak KPBU 15-30 tahun"
+  ],
+
+  "ahrefs_available": false,
+  "ahrefs_note": "Ahrefs MCP terdaftar di sesi tetapi BELUM terotorisasi (OAuth pending, sesi non-interaktif). GSC juga tidak terhubung. Semua metrik volume/KD di bawah = n/a.",
+  "gsc_available": false,
+  "seo_report_named_in_keywords_md": "none",
+  "data_sources_used": [
+    "live_serp_brave_id (2 capture)",
+    "live_serp_bing_id",
+    "live_serp_yahoo",
+    "websearch (11 kueri)",
+    "webfetch_landing_page",
+    "webfetch_djpk_kemenkeu",
+    "webfetch_mediakeuangan_kemenkeu"
+  ],
+
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "cpc": "n/a (Ahrefs not connected)",
+    "trend": "Naik secara kebijakan, bukan musiman. Pemicu 2026: pemangkasan TKD 2026 memaksa pemda mencari sumber non-APBD; DJPK Kemenkeu menerbitkan dorongan eksplisit ke pemda pada 26 Mei 2026. VERIFIKASI angka TKD sebelum dipakai.",
+    "report_rank": "n/a (tidak ada seo_report di keywords.md)",
+    "observed_rank": "PT PII posisi #1 organik pada Brave Search country=id untuk kueri persis 'pembiayaan kreatif' (capture 2026-08-12), dan #2 pada Brave untuk 'pembiayaan kreatif daerah APBD'. Konsisten dengan priority 'defend'."
+  },
+
+  "serp": {
+    "query_captured": "pembiayaan kreatif (Brave, country=id, 2026-08-12)",
+    "google_note": "google.com/search TIDAK dapat di-scrape dari lingkungan ini — mengembalikan shell consent/navigasi, bukan hasil. Berlaku untuk gbv=1 dan num=20. Digantikan Brave (country=id), Bing (cc=ID), Yahoo.",
+    "top_10": [
+      { "url": "https://www.ptpii.co.id/pembiayaan-kreatif", "title": "Pembiayaan Kreatif untuk Infrastruktur Daerah Inovatif", "angle_summary": "MILIK KLIEN — #1. Explainer konseptual: definisi, UU HKPD, KPBU sebagai skema, dukungan pemerintah, studi kasus SPAM Umbulan." },
+      { "url": "https://kpbu.kemenkeu.go.id/read/1200-1615/umum/kajian-opini-publik/pembiayaan-kreatif-dalam-uu-hkpd", "title": "Pembiayaan Kreatif dalam UU HKPD", "angle_summary": "Opini kebijakan Kemenkeu: menempatkan pembiayaan kreatif pada Pasal 167 UU 1/2022 (Sinergi Pendanaan); menegaskan creative financing ≠ utang." },
+      { "url": "https://djppr.kemenkeu.go.id/instrumendanfasilitaspendukungpembiayaankreatifpenyediaaninfrastruktur", "title": "Instrumen dan Fasilitas Pendukung Pembiayaan Kreatif Penyediaan Infrastruktur", "angle_summary": "Halaman institusional DJPPR — daftar instrumen & fasilitas. Konten render JS, tidak terbaca via fetch; peneliti harus buka manual." },
+      { "url": "https://www.ekon.go.id/publikasi/detail/5946/pemerintah-luncurkan-regulasi-pembiayaan-kreatif-untuk-mendukung-pembangunan-infrastruktur-nasional", "title": "Pemerintah Luncurkan Regulasi Pembiayaan Kreatif untuk Mendukung Pembangunan Infrastruktur Nasional", "angle_summary": "Rilis Kemenko Perekonomian tentang payung regulasi pembiayaan kreatif. Bersudut nasional." },
+      { "url": "https://www.ekon.go.id/publikasi/detail/6575/mendorong-skema-pembiayaan-kreatif-untuk-capai-target-pembangunan-dan-pertumbuhan-ekonomi", "title": "Mendorong Skema Pembiayaan Kreatif untuk Capai Target Pembangunan dan Pertumbuhan Ekonomi", "angle_summary": "Menyebut daftar instrumen: KPBU/KPDBU, pinjaman daerah, penerbitan obligasi/sukuk, Land Value Capture, dana abadi daerah. Sumber terbaik untuk taksonomi instrumen." },
+      { "url": "https://www.ekon.go.id/publikasi/detail/6580/sinergi-pemerintah-dalam-mendorong-percepatan-skema-pembiayaan-kreatif-daerah", "title": "Sinergi Pemerintah dalam Mendorong Percepatan Skema Pembiayaan Kreatif Daerah", "angle_summary": "Fokus koordinasi antarkementerian untuk mempercepat skema daerah." },
+      { "url": "https://djpk.kemenkeu.go.id/?p=76326", "title": "DJPK Dorong Pemerintah Daerah Memanfaatkan Pembiayaan Kreatif", "angle_summary": "TERBARU (26 Mei 2026). Merespons rencana penurunan transfer pusat. Menyebut pinjaman syariah, obligasi & sukuk daerah, KPBU, blended finance, green bond, pemanfaatan aset. Menegaskan hambatan utama BUKAN ketersediaan instrumen melainkan kesiapan kapasitas teknis dan kehati-hatian berlebih." },
+      { "url": "https://news.ddtc.co.id/berita/nasional/pemda-bisa-lakukan-creative-financing-kemenkeu-ingatkan-hati-hati", "title": "Pemda Bisa Lakukan Creative Financing, Kemenkeu Ingatkan Hati-Hati", "angle_summary": "Sudut kehati-hatian/peringatan Kemenkeu ke pemda. URL persis mengembalikan 404 saat fetch — peneliti perlu cari ulang via situs DDTC." },
+      { "url": "https://klc2.kemenkeu.go.id", "title": "Pembiayaan Kreatif: Solusi Alternatif Atasi Defisit APBD", "angle_summary": "Materi pembelajaran internal Kemenkeu (KLC). Framing defisit APBD." },
+      { "url": "https://mediakeuangan.kemenkeu.go.id/article/show/pembiayaan-kreatif-untuk-mengakselerasi-infrastruktur-daerah", "title": "Pembiayaan Kreatif untuk Mengakselerasi Infrastruktur Daerah", "angle_summary": "Artikel majalah (17 Sep 2024). Menyebut pinjaman daerah, obligasi & sukuk daerah, KPBU, sinergi pendanaan; menyebut 5 hambatan pemda (pemanfaatan transfer belum optimal, struktur belanja, local tax ratio rendah, opsi pembiayaan terbatas, koordinasi fiskal)." }
+    ],
+    "serp_features": ["ai_overview_kemungkinan_ada_tidak_terverifikasi", "related_searches", "pdf_results", "video_results"],
+    "ai_overview_entities_expected": ["pembiayaan kreatif", "creative financing", "KPBU", "UU HKPD", "UU No. 1 Tahun 2022", "sinergi pendanaan", "APBD", "obligasi daerah", "blended finance", "Kementerian Keuangan"],
+    "serp_owner_profile": "SERP dikuasai domain pemerintah (kemenkeu.go.id, ekon.go.id, djpk, djppr, kpbu.kemenkeu). PT PII adalah SATU-SATUNYA properti non-kementerian di papan atas. Implikasi strategi: jangan mencoba mengalahkan kementerian pada 'suara resmi' — menangkan pada kegunaan operasional (checklist, tabel keputusan, diagnosis). Itulah yang tidak diproduksi kementerian.",
+    "gap_analysis": [
+      "Semua hasil papan atas bersifat NARATIF KEBIJAKAN. Tidak ada satu pun yang memberi TABEL PERBANDINGAN antarinstrumen (kapan pakai KPBU vs pinjaman daerah vs obligasi daerah vs LVC).",
+      "Tidak ada yang memberi URUTAN LANGKAH/checklist kesiapan yang bisa langsung dipakai Bappeda atau OPD.",
+      "Tidak ada yang membahas KEGAGALAN secara terbuka — misalnya bahwa regulasi obligasi daerah sudah 15+ tahun ada tanpa satu pun penerbitan.",
+      "Tidak ada yang menerjemahkan konsekuensi fiskal Availability Payment (komitmen APBD lintas tahun) untuk perencana daerah.",
+      "Tidak ada yang membedakan tegas mana instrumen yang menambah utang daerah dan mana yang tidak — padahal itu pertanyaan pertama kepala daerah."
+    ]
+  },
+
+  "serp_ambiguity": {
+    "issue": "Frasa 'pembiayaan kreatif' punya tiga tetangga makna yang bersaing.",
+    "neighbours": [
+      { "cluster": "pembiayaan konsumer / multifinance generik", "evidence": "Bing cc=ID untuk kueri persis 'pembiayaan kreatif' MENJATUHKAN modifier dan mengembalikan OJK Lembaga Pembiayaan, MUF, BFI, Bank Syariah Indonesia, majoo — nol hasil infrastruktur.", "risk": "Mesin bisa memperlakukan 'kreatif' sebagai kata sifat opsional." },
+      { "cluster": "pembiayaan ekonomi kreatif / UMKM sektor kreatif", "evidence": "Ekosistem konten terpisah dan aktif: Kemenekraf, pembiayaan berbasis Kekayaan Intelektual, KUR, PNM, program Kreatif IPO.", "risk": "Pembaca salah klaster; AI engine mencampur entitas." },
+      { "cluster": "long-tail ujian/kuliah", "evidence": "Related search Brave memuat 'bentuk creative financing yang dilakukan pemerintah antara lain dengan hal berikut ini kecuali', 'pelaksanaan apbn dilakukan mulai dari', 'apbn menggunakan format i account atau stafel mulai tahun'.", "risk": "Sebagian volume berasal dari mahasiswa/peserta ujian, bukan pemda. Jangan mengejar intent ini." }
+    ],
+    "mitigation_binding_for_all_briefs": "Setiap artikel WAJIB memunculkan trio entitas 'infrastruktur' + 'pemerintah daerah/APBD' + 'KPBU' di dalam 100 kata pertama, dan menyebut 'infrastruktur daerah' di meta title atau meta description. Definition snippet harus berbunyi 'Pembiayaan kreatif dalam konteks infrastruktur daerah adalah ...' — bukan 'Pembiayaan kreatif adalah ...' polos. Judul tidak boleh berdiri sendiri sebagai 'Pembiayaan Kreatif' tanpa kualifikasi daerah/infrastruktur."
+  },
+
+  "paa": {
+    "capture_method": "Google 'Orang juga bertanya' TIDAK dapat di-scrape dari lingkungan ini (google.com/search mengembalikan shell consent pada semua varian URL yang dicoba). Pengganti: related-searches Brave country=id (2 capture terpisah), related terms Yahoo, dan validasi bentuk-pertanyaan via WebSearch. Pertanyaan di bawah diturunkan dari kueri nyata yang tertangkap, bukan karangan.",
+    "raw_related_searches_brave_capture_1": [
+      "sumber pembiayaan kreatif",
+      "pembiayaan pariwisata",
+      "bentuk bentuk creative financing",
+      "creative financing yang dilakukan pemerintah",
+      "contoh anggaran belanja negara yang diklasifikasikan berdasarkan fungsi",
+      "akses pembiayaan",
+      "green bond",
+      "bentuk creative financing yang dilakukan pemerintah antara lain dengan hal berikut ini kecuali"
+    ],
+    "raw_related_searches_brave_capture_2": [
+      "bentuk creative financing adalah",
+      "green bond adalah",
+      "bentuk creative financing yang dilakukan pemerintah antara lain dengan hal berikut ini",
+      "pelaksanaan apbn dilakukan mulai dari",
+      "municipal bond adalah",
+      "apbn menggunakan format i account atau stafel mulai tahun",
+      "bp batam adalah",
+      "kpbu adalah"
+    ],
+    "raw_related_terms_yahoo": [
+      "pembiayaan kreatif daerah adalah",
+      "pembiayaan kreatif daerah menurut",
+      "pembiayaan kreatif daerah dalam",
+      "pembiayaan kreatif daerah untuk",
+      "pembiayaan kreatif daerah jakarta"
+    ],
+    "questions_for_faq_use": [
+      "Apa itu pembiayaan kreatif dalam pembangunan infrastruktur daerah?",
+      "Apa saja bentuk creative financing yang dilakukan pemerintah?",
+      "Apa saja sumber pembiayaan kreatif di luar APBD?",
+      "Apakah pembiayaan kreatif sama dengan berutang?",
+      "Apa itu KPBU dan apa bedanya dengan pengadaan infrastruktur biasa?",
+      "Apa itu obligasi daerah dan apakah pemerintah daerah sudah pernah menerbitkannya?",
+      "Apa itu green bond dan bisakah dipakai pemerintah daerah?",
+      "Apa itu VGF dan PDF dalam proyek KPBU daerah?",
+      "Apa syarat proyek daerah bisa masuk skema KPBU?",
+      "Bagaimana pemerintah daerah memulai proyek pembiayaan kreatif?",
+      "Berapa lama proses penyiapan proyek KPBU daerah?",
+      "Siapa yang menjadi PJPK dalam proyek KPBU di daerah?",
+      "Apakah pembiayaan kreatif menjamin proyek pasti didanai?",
+      "Mengapa proyek KPBU daerah sering mandek di tahap penyiapan?"
+    ]
+  },
+
+  "domain_facts_captured": {
+    "flag": "SEMUA angka dan nomor regulasi di bawah WAJIB diverifikasi ulang oleh infra-finance-sme-researcher terhadap sumber primer sebelum masuk draf. Strategist menangkap dari SERP/WebSearch, bukan dari sumber primer.",
+    "regulasi": [
+      { "ref": "UU No. 1 Tahun 2022 tentang Hubungan Keuangan antara Pemerintah Pusat dan Pemerintahan Daerah (HKPD)", "isi": "Pasal 167 mengatur Sinergi Pendanaan — sinergi sumber pendanaan APBD dan selain APBD untuk program prioritas nasional dan/atau daerah, termasuk percepatan penyediaan infrastruktur. Sumber APBD: PAD, TKD, Pembiayaan Utang Daerah. Sumber selain APBD: kerja sama swasta, BUMN, BUMD, dan/atau pemda lain.", "verify": "peraturan.bpk.go.id/Details/195696 — konfirmasi masih berlaku dan konfirmasi nomor pasal/bab" },
+      { "ref": "PP No. 1 Tahun 2024 tentang Harmonisasi Kebijakan Fiskal Nasional (HKFN)", "isi": "Aturan pelaksana UU HKPD. Empat pilar: sinergi kebijakan fiskal nasional, Pembiayaan Utang Daerah, Dana Abadi Daerah, Sinergi Pendanaan. Ditetapkan 2 Januari 2024.", "verify": "jdih.kemenkeu.go.id/dok/pp-1-tahun-2024 — konfirmasi tanggal, keempat pilar, dan status" },
+      { "ref": "Perpres No. 38 Tahun 2015 tentang KPBU dalam Penyediaan Infrastruktur", "isi": "Payung hukum utama KPBU.", "verify": "WAJIB konfirmasi masih berlaku / belum diganti Perpres baru" },
+      { "ref": "Permendagri No. 96 Tahun 2016 tentang Pembayaran Ketersediaan Layanan (Availability Payment) dalam rangka KPDBU", "isi": "Dasar hukum AP untuk proyek KPBU di daerah. AP dibayar berkala oleh kepala daerah selaku PJPK atas ketersediaan layanan sesuai kualitas dalam perjanjian. AP TIDAK boleh dibayarkan selama masa konstruksi. Penganggaran AP tahun pertama harus dilakukan pada tahun anggaran berjalan sebelum infrastruktur beroperasi.", "verify": "peraturan.go.id/id/permendagri-no-96-tahun-2016 — konfirmasi masih berlaku" },
+      { "ref": "PMK No. 73/PMK.08/2018", "isi": "Fasilitas Penyiapan Proyek dan Pendampingan Transaksi (Project Development Facility / PDF) untuk proyek KPBU — membantu PJPK menghasilkan prastudi kelayakan dan dokumen pendukung.", "verify": "Konfirmasi status; cek apakah sudah diganti PMK yang lebih baru" },
+      { "ref": "PMK No. 223/PMK.011/2012 jo. PMK No. 143/PMK.011/2013", "isi": "Dukungan Kelayakan / Viability Gap Fund (VGF) — kontribusi fiskal atas sebagian biaya konstruksi untuk proyek KPBU yang layak ekonomi tetapi belum layak finansial.", "verify": "WAJIB cek apakah masih PMK ini atau sudah diganti PMK terbaru" },
+      { "ref": "Perpres No. 79 Tahun 2024 tentang Pendanaan Infrastruktur melalui Pengelolaan Peningkatan Nilai Kawasan (P3NK)", "isi": "Payung hukum Land Value Capture (LVC) di Indonesia. Dua basis pelaksanaan: tax-based dan development-based.", "verify": "WAJIB konfirmasi nomor, tahun, dan judul persis — tertangkap dari ringkasan WebSearch, belum dari JDIH" },
+      { "ref": "PMK No. 220/PMK.08/2022", "isi": "Dukungan Pemerintah untuk KPBU dan Pembiayaan Kreatif — KONTEKS IKN, bukan aturan umum daerah. Ditetapkan 30 Desember 2022. Menyebut blended finance sebagai sinergi APBN dengan sumber sah lain (KPBU, penugasan BUMN, SBN, dukungan pembiayaan internasional, pemanfaatan BMN, crowdfunding & filantropi).", "verify": "JANGAN generalisasi ke semua daerah. Konfirmasi ruang lingkup IKN sebelum dikutip." }
+    ],
+    "angka": [
+      { "fakta": "Kebutuhan investasi infrastruktur RPJMN 2025-2029 lebih dari Rp10.303 triliun; APBN hanya mampu memenuhi 23% dan APBD 17% (total fiskal pusat+daerah ± 40%).", "tahun": "RPJMN 2025-2029", "sumber_indikatif": "Bappenas", "catatan": "ANGKA PALING PENTING untuk klaster daerah — porsi APBD 17% adalah versi 'daerah' dari funding gap, dan boleh dipakai TANPA melanggar batas klaster nasional selama dibingkai sebagai konteks singkat. VERIFIKASI ke dokumen Bappenas primer." },
+      { "fakta": "KONFLIK DATA: sumber lain menyebut kebutuhan investasi infrastruktur RPJMN 2025-2029 Rp1.905 triliun dengan funding gap Rp753 triliun.", "tahun": "2025-2029", "catatan": "Bertentangan dengan angka Rp10.303 triliun di atas (kemungkinan beda ruang lingkup: total vs sektor tertentu). Peneliti WAJIB merekonsiliasi dan memilih SATU angka bersumber, bukan memakai keduanya." },
+      { "fakta": "Pagu TKD 2026 sebesar Rp693 triliun, turun 24,6% dari alokasi UU APBN 2025 sebesar Rp919,8 triliun.", "tahun": "2026 vs 2025", "sumber_indikatif": "KPPOD", "catatan": "Hook pembaca paling kuat untuk 2026. VERIFIKASI ke UU APBN 2026 / Perpres rincian APBN 2026." },
+      { "fakta": "DAK Fisik 2026 ditetapkan Rp5 triliun, turun dari Rp36,9 triliun pada 2025.", "tahun": "2026 vs 2025", "sumber_indikatif": "KPPOD", "catatan": "VERIFIKASI. Sangat spesifik dan sangat berdampak pada infrastruktur daerah." },
+      { "fakta": "Hanya 30% pemerintah provinsi, 1% pemerintah kabupaten, dan 12% pemerintah kota yang PAD-nya lebih besar dari TKD.", "tahun": "belum pasti", "sumber_indikatif": "artikel opini kpbu.kemenkeu.go.id", "catatan": "Statistik terkuat untuk membuktikan keterbatasan fiskal daerah. TANPA TAHUN RUJUKAN = TIDAK BOLEH DIPAKAI. Peneliti wajib menemukan tahun + sumber primer." },
+      { "fakta": "Regulasi obligasi daerah dan sukuk daerah sudah tersedia lebih dari 15 tahun, namun belum ada satu pun pemerintah daerah yang menerbitkannya; OJK menyatakan belum ada pemda yang mengajukan izin.", "tahun": "pernyataan OJK — cari tahun terbaru", "sumber_indikatif": "ANTARA / OJK", "catatan": "Fakta counter-conventional terkuat di klaster ini. Daerah yang pernah merencanakan: DKI Jakarta, Jawa Barat, Kalimantan Timur, Jawa Tengah — belum terealisasi karena persetujuan politik, kewenangan proyek, dan tata kelola." },
+      { "fakta": "Kendala obligasi daerah menurut OJK: pemda belum punya unit pengelola utang, SDM terbatas, belum terbiasa menyiapkan proyek layak yang memberi imbal hasil investor, prosedur panjang.", "tahun": "cari tahun pernyataan", "sumber_indikatif": "OJK via ANTARA" },
+      { "fakta": "Proyek KPBU Alat Penerangan Jalan (APJ) Kabupaten Madiun — proyek APJ skema KPBU pertama di Indonesia yang mencapai operasi komersial. Nilai investasi ± Rp97,87 miliar. 7.459 titik lampu, 299,7 km jalan. Penandatanganan perjanjian kerja sama 20 September 2020.", "tahun": "2020 penandatanganan; DJPK menyebut '2023'", "catatan": "KONFLIK TANGGAL — peneliti wajib menetapkan satu kronologi bersumber. PERINGATAN KERAS: proyek ini TIDAK tercantum dalam knowledge_base/company_profile.md sebagai proyek yang dijamin PT PII. Boleh dipakai sebagai contoh pasar umum dengan atribusi ke Kemenkeu/Bappenas, TIDAK BOLEH diklaim sebagai portofolio penjaminan PT PII. Daerah yang disebut ingin mengikuti: Medan, Lombok Barat, Samarinda, Denpasar, Pekanbaru, Kabupaten Bandung." },
+      { "fakta": "DJPK Kemenkeu (26 Mei 2026) menyatakan hambatan utama pembiayaan kreatif daerah BUKAN ketersediaan instrumen, melainkan kesiapan kapasitas teknis dan kehati-hatian berlebih pemda.", "tahun": "2026", "sumber_indikatif": "djpk.kemenkeu.go.id", "catatan": "Pernyataan resmi paling mutakhir; tulang punggung sudut counter-conventional brief 03." },
+      { "fakta": "Lima hambatan pemda menurut Media Keuangan Kemenkeu: pemanfaatan transfer pusat belum optimal, struktur belanja daerah belum memadai, local tax ratio rendah, opsi pembiayaan terbatas, koordinasi fiskal pusat-daerah belum cukup.", "tahun": "artikel 17 September 2024", "sumber_indikatif": "mediakeuangan.kemenkeu.go.id" }
+    ],
+    "instrumen_pembiayaan_kreatif_daerah": [
+      "KPBU / KPDBU (Kerja Sama Pemerintah Daerah dengan Badan Usaha) — user payment atau Availability Payment",
+      "Pinjaman Daerah (konvensional maupun syariah)",
+      "Obligasi Daerah",
+      "Sukuk Daerah",
+      "Sinergi Pendanaan (Pasal 167 UU HKPD)",
+      "Land Value Capture / P3NK",
+      "Dana Abadi Daerah",
+      "Blended finance",
+      "Green bond",
+      "Pemanfaatan / kerja sama Barang Milik Daerah (BMD)"
+    ],
+    "sektor_proyek_daerah_relevan": ["SPAM / air minum", "persampahan & PSEL", "penerangan jalan umum (APJ)", "pasar rakyat", "rumah sakit daerah", "terminal & perparkiran", "perumahan"],
+    "proyek_ptpii_yang_boleh_disebut_untuk_konteks_daerah": [
+      "SPAM Umbulan (Jawa Timur) — SUDAH dipakai hub, hindari mengulang sebagai studi kasus utama",
+      "SPAM Karian-Serpong (Banten)",
+      "PSEL / TPPAS Regional Legok Nangka (Jawa Barat) — satu-satunya proyek KPBU sektor persampahan yang dijamin PT PII",
+      "Jalan Tol Kediri-Tulungagung (Jawa Timur)"
+    ]
+  },
+
+  "authority_sources_for_writers": [
+    { "url": "https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022", "use": "UU HKPD — dasar hukum sinergi pendanaan & pembiayaan utang daerah" },
+    { "url": "https://jdih.kemenkeu.go.id/dok/pp-1-tahun-2024/files", "use": "PP 1/2024 HKFN — empat pilar harmonisasi fiskal" },
+    { "url": "https://djpk.kemenkeu.go.id/?p=76326", "use": "Posisi DJPK 2026: hambatan = kapasitas teknis, bukan instrumen" },
+    { "url": "https://kpbu.kemenkeu.go.id/read/1200-1615/umum/kajian-opini-publik/pembiayaan-kreatif-dalam-uu-hkpd", "use": "Penegasan Kemenkeu: creative financing ≠ utang" },
+    { "url": "https://www.ekon.go.id/publikasi/detail/6575/mendorong-skema-pembiayaan-kreatif-untuk-capai-target-pembangunan-dan-pertumbuhan-ekonomi", "use": "Taksonomi instrumen pembiayaan kreatif daerah" },
+    { "url": "https://mediakeuangan.kemenkeu.go.id/article/show/pembiayaan-kreatif-untuk-mengakselerasi-infrastruktur-daerah", "use": "Lima hambatan fiskal pemda (2024)" },
+    { "url": "https://peraturan.go.id/id/permendagri-no-96-tahun-2016", "use": "Availability Payment untuk KPBU daerah" },
+    { "url": "https://kpbu.kemenkeu.go.id/proyek/detail/119-penerangan-jalan-umum-kabupaten-madiun", "use": "Contoh proyek KPBU daerah — halaman resmi proyek" },
+    { "url": "https://pppmonitor.adb.org/country/indonesia/national-ppp-landscape", "use": "Lanskap PPP Indonesia versi ADB — sumber internasional netral" },
+    { "url": "https://ppp.worldbank.org/public-private-partnership/", "use": "PPP Knowledge Lab — kerangka PPP internasional untuk konteks" }
+  ],
+
+  "history_snapshot": {
+    "index_json_state": "articles_history/index.json — articles: [] (KOSONG). Ini run pertama untuk klien ini.",
+    "existing_articles_for_keyword": [],
+    "by_keyword_dir": "articles_history/by_keyword/pembiayaan-kreatif/ belum ada",
+    "dedup_note": "Tidak ada riwayat untuk dicek. Dedup dilakukan KETAT DI DALAM batch tiga konsep ini: angle_hash unik, intent unik, format unik, dan daftar 'tidak akan dibahas' saling mengunci.",
+    "uncovered_angles_for_future_months": [
+      "Availability Payment daerah sebagai komitmen fiskal lintas tahun — perlakuan di KUA-PPAS dan risiko politik antar-periode kepala daerah",
+      "Obligasi daerah & sukuk daerah sebagai artikel tersendiri — anatomi kegagalan 15 tahun dan prasyarat unit pengelola utang",
+      "Land Value Capture / P3NK untuk pemda — instrumen, dua basis pelaksanaan, dan batas kewenangan daerah",
+      "Dana Abadi Daerah — apa itu dan kapan masuk akal bagi APBD",
+      "Studi kasus mendalam satu proyek KPBU daerah dari studi pendahuluan sampai operasi komersial",
+      "Peran Bappeda dan simpul KPBU daerah — desain kelembagaan yang membuat proyek jalan",
+      "KPBU sektor persampahan/PSEL untuk pemerintah kota — ekonomi tipping fee dan dukungan pemerintah"
+    ]
+  },
+
+  "cluster_boundary_binding": {
+    "shares_hub_with": "Pembiayaan Infrastruktur (keyword lain bulan ini, hub sama /pembiayaan-kreatif)",
+    "this_cluster_owns": "Sudut DAERAH. Pemda/APBD sebagai protagonis. HKPD, kapasitas fiskal daerah, KPBU daerah skala kecil-menengah, VGF/PDF, kesiapan dokumen & kelembagaan pemda, sektor daerah (SPAM, persampahan, APJ, pasar, RSUD).",
+    "other_cluster_owns": "Sudut NASIONAL/MAKRO + sisi lender. Funding gap RPJMN sebagai lanskap, komposisi sumber dana nasional, project finance, obligasi korporasi, cost of fund, financial close.",
+    "hard_rules": [
+      "TIDAK BOLEH menulis esai lanskap funding gap nasional.",
+      "TIDAK BOLEH menjadikan perspektif lender/kreditur sebagai tulang punggung artikel.",
+      "Funding gap nasional hanya boleh muncul sebagai konteks singkat (maksimal satu paragraf) untuk menjelaskan mengapa daerah harus melihat ke luar APBD — sebaiknya lewat porsi APBD 17%, bukan lewat total kebutuhan nasional."
+    ]
+  },
+
+  "internal_link_set_binding": {
+    "note": "Set keyword bulan ini hanya punya 3 URL hub berbeda. Ketiga artikel memakai trio yang sama, dengan anchor text divariasikan per artikel.",
+    "hub": { "url": "https://www.ptpii.co.id/pembiayaan-kreatif", "placement": "inline di lead" },
+    "cousin_1": { "url": "https://www.ptpii.co.id/kpbu", "placement": "inline di badan, saat KPBU pertama dijelaskan sebagai instrumen" },
+    "cousin_2": { "url": "https://www.ptpii.co.id/public-private-partnership", "placement": "inline di badan, saat padanan internasional PPP disinggung" },
+    "forbidden": "institute.iigf.co.id — tidak pernah menjadi target tautan internal di folder ini."
+  },
+
+  "briefs_derived": [
+    { "brief_id": "pembiayaan-kreatif-01", "angle": "peta-instrumen-pembiayaan-kreatif-daerah", "intent": "informational", "angle_hash": "6cbfaaa8c12b4e1560bf637e9c156fb83e3eb692" },
+    { "brief_id": "pembiayaan-kreatif-02", "angle": "checklist-kesiapan-pemda-pembiayaan-kreatif", "intent": "decision", "angle_hash": "3632367ae28034bd3927e47191f35d423ac21b18" },
+    { "brief_id": "pembiayaan-kreatif-03", "angle": "diagnosis-proyek-pembiayaan-kreatif-daerah-mandek", "intent": "troubleshooting", "angle_hash": "6882efa0dbc9631eb4239d8ec8f4c313626d2e15" }
+  ]
+}

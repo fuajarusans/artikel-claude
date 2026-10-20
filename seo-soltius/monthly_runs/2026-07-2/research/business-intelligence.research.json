@@ -1,0 +1,83 @@
+{
+  "keyword": "Business Intelligence",
+  "keyword_slug": "business-intelligence",
+  "month": "2026-07-2",
+  "captured_at": "2026-07-07",
+  "landing_page": "https://www.soltius.co.id/id/blog/business-intelligence",
+  "landing_page_summary": "Hub BI Soltius: mengubah data mentah jadi profit; 5 manfaat BI; BI vs analytics vs data science; alur pipeline data; use case per sektor (retail, F&B, keuangan); ulasan tool BI umum (Tableau, Power BI, Google Looker); tren AI. Tidak menyebut produk SAP spesifik di artikel hub-nya.",
+  "data_sources_used": ["live_serp_websearch", "landing_page_fetch", "articles_history"],
+  "ahrefs_available": false,
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "BI 2026 di Indonesia bergeser dari sekadar tool pelaporan ke fondasi intelligent enterprise; tren teratas: data quality management, data security & privacy, data-driven culture, data & AI governance, data & AI literacy (Fanruan, 2026). 88% pemimpin menyebut data literacy dasar penting; 60% melaporkan data skills gap (DataCamp/Coursera 2026 guide).",
+    "apr2026_rank": "n/a (seo_report: none untuk 2026-07-2; CLAUDE.md 2026-06 mencatat BI crash #10->#100, prioritas rescue)"
+  },
+  "serp": {
+    "top_10": [
+      { "url": "https://www.fanruan.com/id/blog/business-intelligence", "title": "Business Intelligence: Definisi, Cara Kerja, dan Manfaatnya", "angle_summary": "Definisi + cara kerja + manfaat generik, tool-agnostic." },
+      { "url": "https://www.fanruan.com/id/blog/tren-business-intelligence-2026", "title": "BI di Indonesia: Tren, Tantangan, dan Solusi di tahun 2026", "angle_summary": "Tren 2026: data quality, security, data-driven culture, governance, literacy." },
+      { "url": "https://neorix.id/manfaat-business-intelligence-untuk-pengambilan-keputusan-berbasis-data-di-indonesia/", "title": "Manfaat Business Intelligence untuk Pengambilan Keputusan Berbasis Data di Indonesia", "angle_summary": "Manfaat BI untuk keputusan berbasis data, konteks Indonesia." },
+      { "url": "https://www.ad-ins.com/our-story/adins-story/what-is-business-intelligence/", "title": "Apa Itu Business Intelligence? Jenis, Tools, dan Manfaatnya", "angle_summary": "Explainer definisi + jenis + tools." },
+      { "url": "https://dibimbing.id/blog/detail/komponen-utama-business-intelligence-contoh-penerapan", "title": "Komponen Utama Business Intelligence & Contoh Penerapan", "angle_summary": "Komponen BI + contoh penerapan." },
+      { "url": "https://www.ibm.com/think/insights/business-intelligence-adoption", "title": "A new era in BI: Overcoming low adoption (IBM)", "angle_summary": "Adopsi BI rendah: data trust, definisi metrik, gap teknis vs pengguna." },
+      { "url": "https://www.dataversity.net/articles/why-60-of-bi-initiatives-fail-and-how-enterprises-can-avoid-it/", "title": "Why 60% of BI Initiatives Fail", "angle_summary": "60% inisiatif BI gagal; budaya data & trust sebagai akar." },
+      { "url": "https://omni.co/articles/best-semantic-layer-for-ai-and-bi-2026", "title": "Semantic Layer for AI and BI (2026)", "angle_summary": "Semantic/metrics layer sebagai single source of truth definisi metrik." },
+      { "url": "https://www.simplidots.com/blog/distribusi-produk-fmcg/", "title": "5 Cara Analisis Data Tingkatkan Distribusi Produk FMCG", "angle_summary": "Analitik data untuk distribusi FMCG Indonesia (sales density, demand forecast)." },
+      { "url": "https://www.researchgate.net/publication/394698232", "title": "Peran Business Intelligence dalam Meningkatkan Kinerja UMKM", "angle_summary": "BI untuk UMKM: manfaat + tantangan biaya/keahlian." }
+    ],
+    "serp_features": ["ai_overview", "paa", "featured_snippet"],
+    "ai_overview_entities": ["Business Intelligence", "data-driven decision making", "dashboard", "KPI", "data warehouse", "ETL", "data-driven culture", "data literacy", "SAP Analytics Cloud (di ranah SAP)", "Power BI", "Tableau"]
+  },
+  "paa": [
+    "Apa itu business intelligence dan contohnya?",
+    "Apa bedanya business intelligence dan data warehouse?",
+    "Mengapa banyak proyek business intelligence gagal / dashboard tidak dipakai?",
+    "Apa itu data-driven culture dan data literacy?",
+    "Apakah business intelligence cocok untuk UKM/UMKM?",
+    "Berapa biaya dan berapa lama implementasi business intelligence?",
+    "Apa perbedaan real-time analytics dan batch reporting?",
+    "Apa itu single source of truth / semantic layer dalam BI?",
+    "Bagaimana penerapan business intelligence di retail dan distribusi FMCG?",
+    "Siapa saja tim yang dibutuhkan untuk BI (BI analyst, data engineer, BI Center of Excellence)?"
+  ],
+  "gsc_style_queries_from_report": [
+    "seo_report: none untuk bulan 2026-07-2 (keywords.md). Tidak ada baris GSC baru; konteks rank historis dari CLAUDE.md: BI anjlok #10->#100 (April 2026), status rescue."
+  ],
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      "2026-06-01 definisi-bi-mengapa-data-tidak-otomatis-jadi-keputusan (informational): BI vs analytics vs data science, kapan belum butuh BI",
+      "2026-06-02 sap-analytics-cloud-tiga-pilar-bi-planning-predictive (consideration): SAC BI+planning+predictive",
+      "2026-06-03 embedded-analytics-s4hana-bi-operasional-real-time (how-to): embedded analytics S/4HANA, CDS views, Fiori",
+      "2026-06-04 self-service-bi-vs-traditional-bi-framework-keputusan (comparison): self-service vs tradisional, 4-level maturity",
+      "2026-06-05 mengapa-proyek-bi-gagal-diagnosis-dan-perbaikan (troubleshooting): 5 alasan proyek BI gagal, ROI, change mgmt, data quality, adoption",
+      "2026-08-01 business-intelligence-untuk-cfo-keuangan-decision-velocity (decision): CFO, FP&A, rolling forecast, month-end close, decision velocity",
+      "2026-08-02 augmented-analytics-generative-ai-joule-dalam-bi (informational): augmented analytics, NLQ, Smart Insights/Predict, Joule",
+      "2026-08-03 business-intelligence-vs-spreadsheet-excel-kapan-beralih (comparison): BI vs Excel, governed Excel, SAC Excel add-in",
+      "2026-08-04 dashboard-design-best-practice-bi-yang-dipakai (how-to): desain dashboard, adopsi, hierarki visual, data storytelling",
+      "2026-08-05 roi-bisnis-case-business-intelligence-justifikasi-pengukuran (decision): business case, ROI, TCO, payback, value realization"
+    ],
+    "uncovered_angles": [
+      "Data-driven culture + data literacy (sisi manusia/budaya, bukan diagnosis kegagalan) -> brief 01",
+      "BI untuk retail & distribusi/FMCG (industri spesifik, flagged uncovered di 2026-06-01) -> brief 02",
+      "Real-time/operational BI vs batch reporting (arsitektur latency, beda dari embedded-analytics how-to) -> brief 03",
+      "Data governance + semantic/metrics layer / single source of truth untuk BI (flagged 'BI governance & data stewardship') -> brief 04",
+      "BI untuk UKM/mid-market: kapan cocok, kapan BELUM (SMB vs enterprise, flagged uncovered) -> brief 05"
+    ]
+  },
+  "cousin_hubs_this_month": {
+    "chosen": ["Data Warehouse Solutions", "ERP migration to the cloud"],
+    "rationale": "Per product_matrix cross-link map, Business Intelligence -> cousin 1 Data Warehouse Solutions (tempat BI mengambil data) + cousin 2 ERP migration to the cloud (analitik pasca-migrasi). Keduanya ada di keyword set 2026-07-2.",
+    "urls": {
+      "data-warehouse-solutions": "https://www.soltius.co.id/id/blog/data-warehouse-solutions",
+      "erp-migration-to-the-cloud": "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud"
+    }
+  },
+  "external_source_candidates": [
+    { "url": "https://www.sap.com/products/data-cloud/cloud-analytics/what-is-business-intelligence.html", "context": "Definisi resmi SAP tentang Business Intelligence" },
+    { "url": "https://www.gartner.com/en/newsroom/press-releases/2024-01-29-gartner-predicts-more-than-50-percent-of-cdaos-will-secure-funding-for-data-literacy-and-ai-literacy-programs-by-2027", "context": "Investasi data literacy jadi prioritas CDAO" },
+    { "url": "https://www.gartner.com/en/newsroom/press-releases/2024-02-28-gartner-predicts-80-percent-of-data-and-analytics-governance-initiatives-will-fail-by-2027-due-to-a-lack-of-a-real-or-manufactured-crisis-", "context": "80% inisiatif governance data & analitik diprediksi gagal" },
+    { "url": "https://www.bps.go.id/", "context": "Statistik sektor ritel/perdagangan & UMKM Indonesia" },
+    { "url": "https://help.sap.com/docs/SAP_ANALYTICS_CLOUD", "context": "Kapabilitas SAP Analytics Cloud (live vs import model, real-time)" }
+  ]
+}

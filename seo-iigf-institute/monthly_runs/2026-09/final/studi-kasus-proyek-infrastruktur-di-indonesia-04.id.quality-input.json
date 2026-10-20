@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-iigf-institute\\monthly_runs\\2026-09\\final\\studi-kasus-proyek-infrastruktur-di-indonesia-04.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-22T06:51:19+07:00",
+    "word_count":  1638,
+    "paragraph_count":  22,
+    "sentence_count":  81,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.452,
+                        "sentence_burstiness":  1.082,
+                        "top30_vocab_share":  0.286,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Pada Jalan Tol Serang–Panimbang, Seksi I (26,50 km) diresmikan 16 November 2021 dan bertarif sejak awal Desember 2021, sementara seksi berikutnya baru menyusul bertahun-tahun kemudian.",
+                                      "candidate_score":  34,
+                                      "web_search_query":  "\"Pada Jalan Tol Serang–Panimbang, Seksi I (26,50 km) diresmikan 16 November 2021 dan bertarif sejak awal Desember 2021, s\""
+                                  },
+                                  {
+                                      "passage":  "Pada *availability payment* (PMK 260/PMK.08/2016), PJPK membayar berkala selama kriteria ketersediaan layanan terpenuhi.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Pada *availability payment* (PMK 260/PMK.08/2016), PJPK membayar berkala selama kriteria ketersediaan layanan terpenuhi.\""
+                                  },
+                                  {
+                                      "passage":  "Target penyelesaian koridor Serang–Panimbang bergeser beberapa kali, dari pertengahan 2024 ke 2025, lalu ke akhir 2026 menurut pemberitaan Kementerian PU (April 2025).",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Target penyelesaian koridor Serang–Panimbang bergeser beberapa kali, dari pertengahan 2024 ke 2025, lalu ke akhir 2026 m\""
+                                  },
+                                  {
+                                      "passage":  "Konsekuensinya jelas: baru Seksi I, 26,50 km dari 83,67 km (sekitar 32% koridor), yang dipastikan bertarif sejak akhir 2021.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Konsekuensinya jelas: baru Seksi I, 26,50 km dari 83,67 km (sekitar 32% koridor), yang dipastikan bertarif sejak akhir 2\""
+                                  },
+                                  {
+                                      "passage":  "[Definisi resmi Kementerian Keuangan](https://kpbu.kemenkeu.go.id/read/37-40/pjpk/dukungan-pemerintah/dukungan-kelayakan) lebih spesifik: mewujudkan layanan publik dengan tarif terjangkau, dan instrumen ini baru diberikan \"setelah tidak terdapat lagi alternatif lain\" (diakses 2026).",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"[Definisi resmi Kementerian Keuangan](https://kpbu.kemenkeu.go.id/read/37-40/pjpk/dukungan-pemerintah/dukungan-kelayakan\""
+                                  },
+                                  {
+                                      "passage":  "Kontrak 40 tahun menghitung arus kas empat dekade; kinerja tahun awal, saat jaringan belum lengkap, hampir selalu di bawah kurva rata-ratanya.",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"Kontrak 40 tahun menghitung arus kas empat dekade; kinerja tahun awal, saat jaringan belum lengkap, hampir selalu di baw\""
+                                  },
+                                  {
+                                      "passage":  "- **Arus kas tipis, manfaat ekonomi nyata.** Kelayakan ekonomi dan finansial dua hitungan berbeda; celahnya justru alasan adanya dukungan kelayakan.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"- **Arus kas tipis, manfaat ekonomi nyata.** Kelayakan ekonomi dan finansial dua hitungan berbeda; celahnya justru alasa\""
+                                  },
+                                  {
+                                      "passage":  "\u003e **Ringkasnya:** Risiko permintaan dalam proyek KPBU (*Kerja Sama Pemerintah dengan Badan Usaha*) adalah risiko bahwa volume pengguna riil berbeda dari proyeksi yang mendasari kelayakan finansialnya.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"\u003e **Ringkasnya:** Risiko permintaan dalam proyek KPBU (*Kerja Sama Pemerintah dengan Badan Usaha*) adalah risiko bahwa v\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

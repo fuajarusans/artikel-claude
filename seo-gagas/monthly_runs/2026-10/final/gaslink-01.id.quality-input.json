@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-10\\final\\gaslink-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-28T19:32:40+07:00",
+    "word_count":  1562,
+    "paragraph_count":  26,
+    "sentence_count":  91,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.352,
+                        "sentence_burstiness":  0.673,
+                        "top30_vocab_share":  0.295,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.352 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Skalanya nyata: sepanjang 2023, 410 entitas yang menerapkan manajemen energi melaporkan [penghematan setara 10,42 juta SBM, sekitar 1,73% dari total konsumsi](https://www.ruangenergi.com/implementasi-manajemen-energi-tahun-2023-mampu-hemat-1042-juta-sbm/) (mengutip Kementerian ESDM, Februari 2024).",
+                                      "candidate_score":  39,
+                                      "web_search_query":  "\"Skalanya nyata: sepanjang 2023, 410 entitas yang menerapkan manajemen energi melaporkan [penghematan setara 10,42 juta S\""
+                                  },
+                                  {
+                                      "passage":  "8 Tahun 2025](https://environment-indonesia.com/ambang-batas-konsumsi-energi-dalam-permen-esdm-8-2025-siapa-yang-kena-wajib-manajemen-energi/)) mewajibkan audit energi berkala bagi industri berkonsumsi minimal 4.000 TOE (ton setara minyak) per tahun.",
+                                      "candidate_score":  29,
+                                      "web_search_query":  "\"8 Tahun 2025](https://environment-indonesia.com/ambang-batas-konsumsi-energi-dalam-permen-esdm-8-2025-siapa-yang-kena-wa\""
+                                  },
+                                  {
+                                      "passage":  "Meter mengukur volume gas dalam meter kubik, tetapi tagihan dihitung dalam energi, yaitu MMBTU (*Million British Thermal Unit*, satu juta BTU).",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Meter mengukur volume gas dalam meter kubik, tetapi tagihan dihitung dalam energi, yaitu MMBTU (*Million British Thermal\""
+                                  },
+                                  {
+                                      "passage":  "## Apa Itu Monitoring Konsumsi Gas dan Kenapa Penting Setelah Beralih ke Gaslink?",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## Apa Itu Monitoring Konsumsi Gas dan Kenapa Penting Setelah Beralih ke Gaslink?\""
+                                  },
+                                  {
+                                      "passage":  "## Kapan Anda BELUM Perlu Sistem Monitoring Canggih Tidak setiap pengguna gas butuh dashboard IoT mahal.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Kapan Anda BELUM Perlu Sistem Monitoring Canggih Tidak setiap pengguna gas butuh dashboard IoT mahal.\""
+                                  },
+                                  {
+                                      "passage":  "Itulah sebabnya harga gas bumi industri di Indonesia, termasuk acuan Harga Gas Bumi Tertentu dari Kementerian ESDM, dinyatakan dalam US$ per MMBTU, bukan per meter kubik.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Itulah sebabnya harga gas bumi industri di Indonesia, termasuk acuan Harga Gas Bumi Tertentu dari Kementerian ESDM, diny\""
+                                  },
+                                  {
+                                      "passage":  "Dashboard real-time lebih bernilai ketika volume konsumsi besar, proses berjalan 24 jam, atau perusahaan sudah masuk kategori wajib lapor sesuai ambang batas ESDM.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Dashboard real-time lebih bernilai ketika volume konsumsi besar, proses berjalan 24 jam, atau perusahaan sudah masuk kat\""
+                                  },
+                                  {
+                                      "passage":  "## Apa Bedanya Volume Gas (m³) dan Energi (MMBTU) di Tagihan Anda?",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Apa Bedanya Volume Gas (m³) dan Energi (MMBTU) di Tagihan Anda?\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

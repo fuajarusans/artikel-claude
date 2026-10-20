@@ -1,0 +1,99 @@
+{
+  "keyword": "Data Warehouse Solutions",
+  "keyword_slug": "data-warehouse-solutions",
+  "month": "2026-08-2",
+  "captured_at": "2026-07-08",
+  "landing_page": "https://www.soltius.co.id/id/blog/data-warehouse-solutions",
+  "landing_page_summary": "Hub sudah menjadi panduan 2026 yang mendefinisikan data warehouse (OLAP vs OLTP, ETL) DAN membandingkan 7 platform (SAP BW/4HANA, Snowflake, Google BigQuery, Amazon Redshift, Cloudera, Teradata, IBM Db2) plus kriteria evaluasi pemilihan. Catatan penting: hub TIDAK menyebut SAP Datasphere maupun Databricks, dan TIDAK membahas data quality maupun master data management — ini whitespace nyata untuk artikel pendukung.",
+  "data_sources_used": ["live_serp", "websearch", "landing_page_fetch"],
+  "ahrefs_available": false,
+  "priority": "grow",
+  "dedup_context": {
+    "status": "HEAVILY SATURATED — 15 artikel prior lintas 3 batch",
+    "committed_history_2026-06_and_2026-08": [
+      "definisi-manfaat-enterprise-indonesia (apa itu DW, kapan belum butuh)",
+      "data-warehouse-vs-data-lake-vs-lakehouse (arsitektur)",
+      "roadmap-implementasi-5-fase (how-to)",
+      "sap-datasphere-vs-bw4hana (perbandingan internal SAP)",
+      "data-governance-uu-pdp (kepatuhan hukum)",
+      "biaya-tco-komponen (biaya platform)",
+      "real-time-vs-batch (latensi)",
+      "migrasi-legacy-brownfield (migrasi DW lama)",
+      "data-warehouse-per-industri-use-case (vertikal)",
+      "data-warehouse-fondasi-ai (BDC+Databricks untuk AI)"
+    ],
+    "uncommitted_2026-07-2": [
+      "data-warehouse-vs-data-mart-inmon-kimball (scope/metodologi)",
+      "sizing-capacity-planning (compute & storage)",
+      "data-mesh-vs-warehouse-terpusat (kesiapan org)",
+      "finops-observability-post-golive (day-2 ops: biaya + data downtime)",
+      "sap-business-data-cloud-untuk-pembeli-datasphere (decision)"
+    ],
+    "covered_territory_summary": "definisi, arsitektur (warehouse/lake/lakehouse, mesh, mart+Inmon/Kimball), roadmap implementasi, sizing, migrasi legacy, biaya/TCO, FinOps+observability, real-time vs batch, governance UU PDP, per-industri, DW sebagai fondasi AI, SAP Datasphere vs BW/4HANA, SAP Business Data Cloud.",
+    "fresh_whitespace_identified": [
+      "keamanan teknis & enkripsi DW cloud (bukan kepatuhan hukum) — flagged uncovered oleh 07-2-04",
+      "perbandingan buyer's guide SAP Datasphere vs Snowflake vs Databricks (semua perbandingan prior bersifat internal-SAP) — flagged uncovered",
+      "data quality assessment & remediasi konten data (profiling/cleansing/dimensi) — flagged uncovered, beda dari observability pipeline",
+      "master data management (MDM) vs data warehouse & SAP MDG — tidak pernah disentuh 15 artikel",
+      "tim/peran & build-vs-buy/managed services untuk menjalankan DW (dimensi SDM/organisasi) — tidak pernah disentuh"
+    ]
+  },
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Topik data warehouse/analytics stabil-naik; minat enterprise Indonesia meningkat seiring AI-readiness dan migrasi cloud (sinyal WebSearch, bukan angka volume terverifikasi).",
+    "apr2026_rank": 48
+  },
+  "serp": {
+    "top_notes": "SERP untuk sub-topik fresh didominasi konten berbahasa Inggris (Fivetran, LeverX, IBM, TechTarget, Gartner) dan sedikit konten Indonesia generik (BSI, CSIRT) untuk keamanan cloud. Whitespace berbahasa Indonesia B2B-enterprise besar untuk kelima angle.",
+    "vendor_comparison_sources": [
+      {"url": "https://www.fivetran.com/blog/sap-datasphere-vs-modern-data-platforms", "angle_summary": "SAP Datasphere dibanding platform data modern"},
+      {"url": "https://leverx.com/newsroom/the-best-dwh-platforms-comparison", "angle_summary": "SAP Datasphere vs Snowflake, BW, dll."},
+      {"url": "https://www.cimt-ag.de/en/replacing-sap-bw-on-hana-snowflake-or-databricks-as-a-modern-data-warehouse/", "angle_summary": "mengganti SAP BW on HANA dengan Snowflake/Databricks"}
+    ],
+    "serp_features": ["ai_overview_likely", "paa"],
+    "ai_overview_entities": ["SAP Datasphere", "Snowflake", "Databricks", "SAP HANA Cloud", "SAP Master Data Governance", "SAP Information Steward", "SAP Data Services", "data quality dimensions", "RBAC", "Customer-Managed Key"]
+  },
+  "paa": [
+    "Apa perbedaan master data management dan data warehouse?",
+    "Apakah data warehouse itu single source of truth?",
+    "Bagaimana cara mengamankan data warehouse di cloud?",
+    "Apakah data di SAP Datasphere dienkripsi?",
+    "SAP Datasphere vs Snowflake, mana yang lebih baik?",
+    "Apa saja dimensi kualitas data?",
+    "Bagaimana cara menilai kualitas data sebelum masuk data warehouse?",
+    "Siapa saja yang dibutuhkan untuk menjalankan data warehouse?",
+    "Lebih baik membangun tim data sendiri atau pakai managed service?",
+    "Apa itu golden record dalam MDM?"
+  ],
+  "sap_facts_verified_for_researcher": {
+    "datasphere_security": "SAP Datasphere: enkripsi at-rest untuk data, metadata, log, backup dengan customer-specific encryption key; opsi Customer-Managed Key (CMK) via SAP Key Management Service; Data Access Controls row-level (Single Values / Operator-Values, kombinasi AND/OR); shared responsibility model (SAP amankan infrastruktur, pelanggan konfigurasi role/akses). Sumber: SAP Help Portal + SAP Community. Researcher konfirmasi ulang detail versi.",
+    "hana_cloud": "SAP HANA Cloud sebagai fondasi Datasphere; enkripsi + in-memory. Data Lake juga dienkripsi dengan key pelanggan.",
+    "data_quality_tools": "SAP Information Steward (profiling, penilaian, monitoring scorecard, metadata) + SAP Data Services (cleansing, standardisasi, matching); keduanya komplementer dan terintegrasi dengan MDG. Sumber: SAP Community/blogs.",
+    "mdm": "SAP Master Data Governance (MDG) untuk golden record & tata kelola master data (customer/product/vendor/finance); MDG hanya untuk entitas master (bukan data transaksional) dan menulis balik ke sistem sumber — berbeda dari data warehouse yang menyatukan data transaksional untuk analitik. Sumber: TechTarget/1keydata/SAP blogs.",
+    "business_data_cloud": "SAP Business Data Cloud (diperkenalkan Feb 2025) mengonvergensikan Datasphere/BW dengan Databricks (zero-copy Delta Sharing) — relevan untuk angle perbandingan vendor. Researcher verifikasi tanggal & inklusi.",
+    "vendor_positioning": "Snowflake: SQL/BI, pricing lebih transparan berbasis pemakaian. Databricks: lakehouse/ML, Delta Lake + Unity Catalog. SAP Datasphere: business context + semantic model bawaan, integrasi native ke sumber SAP (S/4HANA)."
+  },
+  "cousin_hubs_selected": {
+    "cousin_1": {"keyword": "Business Intelligence", "url": "https://www.soltius.co.id/id/blog/business-intelligence", "why": "BI mengonsumsi data dari warehouse; kualitas & keamanan warehouse menentukan kepercayaan pada dashboard BI."},
+    "cousin_2": {"keyword": "ERP migration to the cloud", "url": "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud", "why": "Data warehouse cloud adalah lapisan data yang menyertai/menyusul migrasi ERP ke cloud (S/4HANA)."}
+  },
+  "soltius_anchor": "Data and AI Consulting + implementor SAP Platinum (via United VARs) + Application Management Services (AMS) untuk operasi pasca go-live. Framing: implements/migrates/supports, bukan membuat SAP.",
+  "history_snapshot": {
+    "existing_articles_for_keyword": 15,
+    "uncovered_angles_selected_this_run": [
+      "keamanan-enkripsi-data-warehouse-cloud",
+      "sap-datasphere-vs-snowflake-vs-databricks-pemilihan",
+      "data-quality-assessment-remediasi-warehouse",
+      "master-data-management-vs-data-warehouse-mdm",
+      "tim-peran-data-warehouse-build-vs-buy-managed-services"
+    ],
+    "angles_still_open_after_this_run": [
+      "data integration patterns (federation/replication/virtualization) untuk sumber SAP + non-SAP",
+      "DataOps: CI/CD, testing, version control untuk model data warehouse",
+      "data warehouse untuk mid-market/SME (SAP Business One + Datasphere entry)",
+      "semantic/metrics layer sebagai lapisan definisi metrik lintas BI (hati-hati kanibalisasi cluster BI)",
+      "retail/e-commerce & healthcare vertical DW (lanjutan per-industri)"
+    ]
+  }
+}

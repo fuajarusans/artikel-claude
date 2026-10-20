@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-ptpii\\monthly_runs\\2026-09\\final\\pembiayaan-kreatif-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-22T05:54:46+07:00",
+    "word_count":  1807,
+    "paragraph_count":  19,
+    "sentence_count":  94,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.457,
+                        "sentence_burstiness":  1.033,
+                        "top30_vocab_share":  0.311,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Portal KPBU Kementerian Keuangan menyebut tiga bentuk pengembalian investasi: Pembayaran Ketersediaan Layanan (*Availability Payment*), Pembayaran Pengguna Layanan (*user charge*), dan pengembalian dalam bentuk lainnya ([kpbu.kemenkeu.go.id](https://kpbu.kemenkeu.go.id/read/16-13/pjpk/persyaratan-proyek), diakses September 2026).",
+                                      "candidate_score":  41,
+                                      "web_search_query":  "\"Portal KPBU Kementerian Keuangan menyebut tiga bentuk pengembalian investasi: Pembayaran Ketersediaan Layanan (*Availabi\""
+                                  },
+                                  {
+                                      "passage":  "Pola yang sama berulang di Kabupaten Lombok Barat, Nusa Tenggara Barat, dengan perjanjian penjaminan dan regres ditandatangani 12 Oktober 2023 menurut portal KPBU Kementerian Keuangan.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"Pola yang sama berulang di Kabupaten Lombok Barat, Nusa Tenggara Barat, dengan perjanjian penjaminan dan regres ditandat\""
+                                  },
+                                  {
+                                      "passage":  "PT PII menandatangani Perjanjian Penjaminan dan Perjanjian Regres untuk proyek tersebut pada 20 September 2022, dan proyek beroperasi komersial pada 18 Juli 2023.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"PT PII menandatangani Perjanjian Penjaminan dan Perjanjian Regres untuk proyek tersebut pada 20 September 2022, dan proy\""
+                                  },
+                                  {
+                                      "passage":  "TPPAS Regional Legok Nangka menyepakati tarif Rp 386.000 per ton pada Oktober 2019, dengan 70% ditanggung enam kabupaten/kota peserta; per Juni 2024 proyek itu dilaporkan belum beroperasi.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"TPPAS Regional Legok Nangka menyepakati tarif Rp 386.000 per ton pada Oktober 2019, dengan 70% ditanggung enam kabupaten\""
+                                  },
+                                  {
+                                      "passage":  "KPBU Penerangan Jalan Umum Kabupaten Madiun, proyek APJ pertama di Indonesia, beroperasi komersial pada 18 Juli 2023.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"KPBU Penerangan Jalan Umum Kabupaten Madiun, proyek APJ pertama di Indonesia, beroperasi komersial pada 18 Juli 2023.\""
+                                  },
+                                  {
+                                      "passage":  "23 Tahun 2014 Pasal 12](https://pasal.id/peraturan/uu/uu-no-23-tahun-2014/pasal-12), yang membagi urusan pemerintahan konkuren menjadi wajib pelayanan dasar, wajib non-pelayanan dasar, dan pilihan.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"23 Tahun 2014 Pasal 12](https://pasal.id/peraturan/uu/uu-no-23-tahun-2014/pasal-12), yang membagi urusan pemerintahan ko\""
+                                  },
+                                  {
+                                      "passage":  "23 Tahun 2014, lebih sempit: air minum, air limbah, persampahan, jalan kabupaten/kota, penerangan jalan umum, pasar, serta fasilitas kesehatan dan sosial skala daerah.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"23 Tahun 2014, lebih sempit: air minum, air limbah, persampahan, jalan kabupaten/kota, penerangan jalan umum, pasar, ser\""
+                                  },
+                                  {
+                                      "passage":  "Sektor tanpa tarif pengguna sama sekali hanya bisa dibayar dari APBD melalui Availability Payment.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Sektor tanpa tarif pengguna sama sekali hanya bisa dibayar dari APBD melalui Availability Payment.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

@@ -1,0 +1,84 @@
+{
+  "keyword": "Perusahaan LNG Indonesia",
+  "keyword_slug": "perusahaan-lng-indonesia",
+  "month": "2026-10",
+  "captured_at": "2026-09-28T00:00:00Z",
+  "landing_page": "https://gagas.co.id/perusahaan-lng-indonesia/",
+  "landing_page_summary": "Hub LNG PGN Gagas: LNG sebagai energi transisi; teknologi & rantai pasok LNG; posisi Gagas sebagai distributor hilir virtual pipeline (Gaslink: ISO tank + micro-bulk truck), terminal penerimaan + storage, regasifikasi satelit (vaporizer di lokasi pelanggan), engineering support (FS/instalasi/maintenance), LNG bunkering. PERINGATAN FRAMING (dikonfirmasi fetch 2026-09-28): halaman mengklaim Gagas 'pionir dan pemimpin pasar' distribusi gas ritel + target ekspor Jepang/Korea/China -- klaim ini TIDAK boleh diadopsi brief/artikel. Frame Gagas HANYA sebagai operator LNG Hub + distributor LNG beyond-pipeline (hilir): menyalurkan/melayani/mendukung, bukan produsen/likuifaksi/FSRU/eksportir. Hub hanya menyinggung 'Boil-Off Gas' minimalisasi sekilas; TIDAK membahas mini-LNG/small-scale, maupun manajemen risiko/kelangsungan pasokan -> ketiga angle Okt adalah gap nyata.",
+  "data_sources_used": ["live_serp (Google scrape blocked -> fell back to WebSearch/Bing)", "websearch", "landing_page_webfetch"],
+  "ahrefs_available": false,
+  "gsc_available": false,
+  "seo_report": "none (per keywords.md)",
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Momentum sisi permintaan tinggi 2026. Harga LNG spot volatil: indeks JKM naik ~111% sepanjang 2026 (awal ~US$9-11,5/MMBTU -> ~US$15-19, puncak ~US$22,3/MMBTU saat eskalasi konflik). Pemerintah pangkas harga LNG industri ke US$13/MMBTU (berlaku s/d 31 Des 2026) + HGBT dipertahankan US$6,5-7/MMBTU untuk 7 sektor. Mini-LNG didorong ESDM untuk negara kepulauan (kilang mini pertama di Jawa beroperasi Feb 2026).",
+    "report_rank": "n/a (no SEO report this month)"
+  },
+  "serp": {
+    "note": "Google SERP scrape via WebFetch diblokir (interstitial; bukan indikasi hasil kosong). Bing generik. SERP landscape direkonstruksi dari WebSearch kata kunci eksak.",
+    "landscape_players": [
+      {"name": "gagas.co.id/perusahaan-lng-indonesia", "angle_summary": "Hub klien; LNG beyond-pipeline + Gaslink; klaim 'pionir/pemimpin pasar' + ekspor (JANGAN diadopsi)."},
+      {"name": "cermati.com/artikel/pgn", "angle_summary": "Profil PGN (sejarah/visi/kegiatan usaha) -- konten profil, bukan edukasi/keputusan LNG."},
+      {"name": "PT PGN LNG Indonesia (pgnlng.co.id)", "angle_summary": "SIBLING PGN (bukan Gagas): likuifaksi, penyimpanan/pengiriman, FSRU Lampung 1,5-2 MTPA/250 MMSCFD, regasifikasi, trading. Juga publikasi edukasi 'Managing Boil-Off Gas' & 'Small-Scale LNG'. Penegasan: Gagas != PGN LNG."},
+      {"name": "PT Lamong Nusantara Gas (ptlng.co.id)", "angle_summary": "Terminal/pengisian LNG skala kecil (ISO tank 20-40 ft) untuk distribusi di luar pipa."},
+      {"name": "Wikipedia 'Pertamina Gas Negara'", "angle_summary": "Ensiklopedia grup PGN/Pertamina -- konteks korporat."}
+    ],
+    "serp_character": "Kata kunci komersial 'Perusahaan LNG Indonesia' didominasi HALAMAN PROFIL/LANSKAP KORPORAT (PGN, PGN LNG, Gagas, Lamong Nusantara Gas, Wikipedia). Miskin konten edukatif/operasional/keputusan -> whitespace untuk konten decision-useful mendalam (BOG, model mini-LNG, keandalan pasokan) sangat lebar.",
+    "serp_features": ["ai_overview_likely", "paa_likely", "featured_snippet_definitional"],
+    "ai_overview_entities": ["LNG (Liquefied Natural Gas)", "PGN LNG", "FSRU", "regasifikasi", "ISO tank", "virtual pipeline", "beyond pipeline", "boil-off gas", "mini LNG", "MMBTU", "PGN", "Pertamina"]
+  },
+  "paa": [
+    "Apa itu perusahaan LNG?",
+    "Perusahaan apa saja yang bergerak di bidang LNG di Indonesia?",
+    "Apa itu boil-off gas dan berapa persen LNG menguap per hari?",
+    "Apa itu mini LNG / small-scale LNG?",
+    "Bagaimana LNG didistribusikan tanpa pipa?",
+    "Berapa harga LNG per MMBTU untuk industri saat ini?",
+    "Bagaimana menjaga keandalan pasokan gas untuk pabrik?",
+    "Apa risiko beralih ke LNG dan bagaimana mengelolanya?"
+  ],
+  "gsc_style_queries_from_report": [],
+  "verified_facts_for_researcher": {
+    "bog_boil_off_gas": "BOG = penguapan alami LNG akibat heat ingress meski tangki terinsulasi (LNG dijaga ~ -160 s/d -162 C). Boil-off rate (BOR) tipikal kapal/tangki besar ~0,10-0,15%/hari (batas IMO 0,15%/hari); rentang umum dikutip 0,1-0,25%/hari kapasitas. CATATAN: ISO tank/tangki kecil cenderung ber-BOR LEBIH TINGGI dari kapal besar -> researcher WAJIB verifikasi BOR ISO tank spesifik, jangan pukul-rata angka kapal. BOG dominan metana (GWP100 ~28-32x CO2; GWP20 jauh lebih tinggi ~80x -- verifikasi angka). Risiko: akumulasi BOG -> tekanan tangki naik -> venting/relief (MARVS). Opsi manajemen: (a) pressure/holding-time management; (b) consume-first/inventori just-in-time; (c) pakai BOG sbg bahan bakar (energy recovery); (d) reliquefaction (siklus refrigerasi terpisah, atau partial reliquefaction system/PRS; reverse Brayton pakai nitrogen di kapal); (e) venting = last resort (rugi gas + emisi). Sumber: Wartsila encyclopedia (BOG), ICCT (2023, methane from LNG-fueled ships), CATF (2021, LNG methane best practice liquefaction->gasification), ScienceDirect (reliquefaction), PGN LNG 'Managing Boil-Off Gas', jurnal ID (UI, ejurnal unsam, researchgate 'Kajian Pengelolaan BOG'). SEMUA angka teknis diverifikasi ulang sebelum ditulis.",
+    "mini_small_scale_lng": "Mini-LNG/small-scale LNG = fasilitas likuifaksi/terminal skala kecil, modular, untuk distribusi gas fleksibel tanpa pipa besar. Rasional kepulauan: banyak estate industri kecil tersebar + permintaan kecil -> pipa terpadu tak ekonomis; mini-LNG juga untuk pembangkit off-grid. Contoh terverifikasi: Kilang Mini LNG PT Liquid Nusantara Gas di Pasuruan Industrial Estate Rembang (PIER), Jatim -- kilang mini LNG PERTAMA di Pulau Jawa; diresmikan Wamen ESDM Yuliot 11 Feb 2026; kapasitas ~20 ton LNG/hari (~7.000 ton/tahun; proyeksi ~2.500 ton/bulan saat penuh); 5 unit cryobox (Galileo Technologies), 3 beroperasi awal; investasi ~Rp247 miliar; TKDN 86% ('role model nasional'); pasokan gas dari WK Selat Madura (HCML - Husky-CNOOC Madura Ltd); LNG untuk pembangkit, kawasan industri, pusat pertumbuhan ekonomi. Teknologi cryobox 'nano LNG' (Joule-Thomson + closed refrigerant loop; modular, mulai produksi ~5 menit, kapasitas penuh ~10 menit). Sumber: ESDM/migas.esdm.go.id, ANTARA, portonews (TKDN 86%), suarapemerintah, listrikindonesia (small scale LNG solusi kepulauan). FRAMING: Gagas BUKAN pemilik/operator kilang mini-LNG ini; ajarkan konsep vendor-neutral, posisikan Gagas hanya sbg distributor hilir/LNG Hub/off-taker dalam ekosistem.",
+    "supply_risk_hedging_bcp": "Volatilitas harga LNG 2026: JKM naik ~111%; awal ~US$9-11,5 -> ~US$15-19; puncak ~US$22,3/MMBTU (eskalasi konflik Timur Tengah). Respons kebijakan: harga LNG industri dipangkas ke US$13/MMBTU (s/d 31 Des 2026); HGBT US$6,5-7/MMBTU 7 sektor; pemerintah beri fleksibilitas kontrak (relaksasi take-or-pay, penyesuaian volume, penjadwalan ulang penyerapan) selama harga tinggi; ekonom usul skema ceiling price. Kontrak LNG lazim jangka panjang berbasis oil-index (slope % harga minyak) vs spot JKM. Prinsip BCP energi (vendor-neutral): multi-source/dual sourcing (hindari single-point-of-failure), secondary supply lines, moda/bahan bakar cadangan (mis. CNG/LPG/diesel genset), emergency fuel reserve/safety-stock (holding days), review tahunan respons vendor, integrasi resiliensi energi ke BCP korporat. Sumber: CNBC Indonesia, detik finance, bisnis.com, liputan6, at-grc 'Indonesia Fuel Foresight 2026', dunia-energi; Schneider Electric, GEP, Duke Energy, Foster Fuels (kerangka BCP energi). Angka harga bergerak cepat -> verifikasi ulang + label tanggal.",
+    "landscape_and_gagas_role": "Pemain LNG Indonesia lintas peran: hulu/likuifaksi (Bontang/Badak, Tangguh, Donggi Senoro), midstream/regas (PT Perta Arun Gas, FSRU Nusantara Regas, PT PGN LNG Indonesia/FSRU Lampung), logistik ISO tank (Perta Arun, Lamong Nusantara Gas), niaga (Pertagas Niaga), hilir/distribusi (PGN Gagas via LNG Hub + Gaslink). PENEGASAN: PT PGN LNG Indonesia (sibling PGN yg melakukan likuifaksi/FSRU/regas/trading) BERBEDA dari PT Gagas Energi Indonesia -> writer JANGAN mengonflasi keduanya. Gagas = SATU distributor hilir di antara banyak pemain -> larang klaim 'terbesar/pionir/pemimpin pasar'."
+  },
+  "gagas_lng_role_verification_required": "company_profile.md HANYA menyebut 'LNG Hub' sbg infrastruktur Gagas. Landing page (dikonfirmasi 2026-09-28) memakai 'pionir/pemimpin pasar' + ekspor Jepang/Korea/China -> TIDAK terverifikasi & DILARANG. Researcher WAJIB verifikasi peran LNG persis Gagas (operator LNG Hub + penyalur hilir beyond-pipeline via Gaslink; regasifikasi satelit di lokasi pelanggan; LNG bunkering) sebelum writer menegaskan apa pun. Default aman: 'distributor CNG/gas bumi yang mengoperasikan LNG Hub', bukan 'perusahaan LNG' penuh, bukan produsen mini-LNG, bukan operator FSRU. Maks 2-3 self-mention/artikel.",
+  "history_snapshot": {
+    "committed_count": 18,
+    "existing_angles_for_keyword": [
+      "apa-itu-lng-vs-cng-vs-gas-pipa (definitional)",
+      "peran-lng-beyond-pipeline-konsep-lng-hub (LNG Hub/break-bulking)",
+      "lng-untuk-industri-kapan-lebih-cocok-daripada-cng (decision volume/jarak)",
+      "rantai-pasok-lng-regasifikasi-hingga-pengguna-akhir (supply chain 7 node)",
+      "memilih-penyedia-solusi-lng-indonesia-kriteria (vendor selection)",
+      "lng-untuk-pembangkit-gasifikasi-kelistrikan (pembangkit/PLN remote)",
+      "lng-untuk-marine-bunkering-maritim (marine bunkering)",
+      "keekonomian-lng-vs-diesel-lokasi-remote (ekonomi vs solar remote)",
+      "keselamatan-standar-penanganan-lng-kriogenik (safety kriogenik)",
+      "peran-lng-transisi-energi-dekarbonisasi (transisi/dekarbonisasi jembatan/jebakan)",
+      "lng-untuk-pertambangan-smelter-hilirisasi (smelter/tambang off-grid)",
+      "lng-vs-lpg-industri-makanan-rantai-dingin (LNG vs LPG cold storage)",
+      "kontrak-struktur-harga-lng-take-or-pay-offtake (kontrak/harga term glossary)",
+      "regasifikasi-vaporizer-lokasi-pelanggan-sru (regas hardware/vaporizer)",
+      "kendala-pasokan-lng-troubleshooting-solusi (field troubleshooting gejala->tindakan)",
+      "biaya-total-tco-lng-cara-menghitung (metodologi TCO/landed cost) [Sep]",
+      "kompatibilitas-peralatan-wobbe-index-lng (interchangeability/retrofit) [Sep]",
+      "lng-untuk-data-center-industri-baru (vertikal beban ekonomi digital) [Sep]"
+    ],
+    "uncovered_angles_chosen_this_run": [
+      "manajemen-boil-off-gas-bog-reliquefaction (manajemen BOG strategis: BOR/holding, minimalisasi, energy recovery, reliquefaction, venting/emisi) -- di-park eksplisit oleh #14/#15/#17 & cache Sep 'left for future'. Distinct dari #15 (troubleshooting insiden reaktif) via sumbu ekonomi-losses+kapex reliquefaction+emisi.",
+      "model-bisnis-mini-lng-small-scale (model pasokan mini/small-scale LNG untuk Indonesia kepulauan; kilang mini Pasuruan; cryobox modular; dampak ke pembeli) -- di-park eksplisit oleh #16/#18 & cache Sep 'left for future'. Distinct dari #04 (supply chain skala nasional kilang besar) & #02 (logistik LNG Hub).",
+      "keandalan-kelangsungan-pasokan-lng-bcp (keandalan & business continuity pasokan LNG: diversifikasi/dual-source, moda cadangan, safety-stock/holding days, hedging volatilitas sbg 1 tuas, force-majeure playbook) -- hedging & force-majeure di-park oleh #13/#16. Distinct dari #13 (definisi term kontrak), #15 (insiden lapangan), #05 (kriteria vendor), #16 (hitung TCO)."
+    ],
+    "uncovered_angles_left_for_future": [
+      "studi kasus per-pulau/regional dengan angka nyata satu pabrik (peta demand)",
+      "roadmap LNG + hidrogen/CCUS (co-firing masa depan captive power)",
+      "pelatihan & sertifikasi operator LNG (simulator, vaporizer, K3 Migas/BNSP/SKKNI)",
+      "audit energi menyeluruh pabrik sebelum adopsi LNG",
+      "GWP20 methane accounting/MRV & pelaporan Scope 1 khusus untuk pembeli LNG (jika BOG-01 hanya menyentuh emisi sekilas)"
+    ]
+  }
+}

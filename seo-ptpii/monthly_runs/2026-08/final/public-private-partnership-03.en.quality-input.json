@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-ptpii\\monthly_runs\\2026-08\\final\\public-private-partnership-03.en.md",
+    "language":  "en",
+    "generated_at":  "2026-08-12T15:33:46+07:00",
+    "word_count":  1805,
+    "paragraph_count":  24,
+    "sentence_count":  90,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.436,
+                        "sentence_burstiness":  1.166,
+                        "top30_vocab_share":  0.282,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.436 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Since [the World Bank Group Guarantee Platform](https://www.worldbank.org/en/about/unit/brief/guarantees-platform) went live on 1 July 2024, World Bank, IFC and MIGA products have formed one consolidated menu at MIGA.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Since [the World Bank Group Guarantee Platform](https://www.worldbank.org/en/about/unit/brief/guarantees-platform) went \""
+                                  },
+                                  {
+                                      "passage":  "| Instrument | Provider | Risks covered | Beneficiary | Claim mechanics | Recourse | Stacks?",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"| Instrument | Provider | Risks covered | Beneficiary | Claim mechanics | Recourse | Stacks?\""
+                                  },
+                                  {
+                                      "passage":  "**World Bank Group co-guarantee: documented, but historical.** Third-party case-study material records the World Bank Group among co-guarantors on named Indonesian flagship projects of roughly 2011 to 2020 vintage.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"**World Bank Group co-guarantee: documented, but historical.** Third-party case-study material records the World Bank Gr\""
+                                  },
+                                  {
+                                      "passage":  "The Indonesian guarantee provider\u0027s cumulative portfolio stood at 61 projects, 38 of them KPBU, across seven sectors, worth above IDR 732 trillion as at June 2026.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"The Indonesian guarantee provider\u0027s cumulative portfolio stood at 61 projects, 38 of them KPBU, across seven sectors, wo\""
+                                  },
+                                  {
+                                      "passage":  "A domestic co-guarantee with the Ministry of Finance is confirmed under PMK 68/2024, while a standing MIGA arrangement was still described as exploratory in reporting through March 2026.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"A domestic co-guarantee with the Ministry of Finance is confirmed under PMK 68/2024, while a standing MIGA arrangement w\""
+                                  },
+                                  {
+                                      "passage":  "# Public Private Partnership Guarantees: Indonesia\u0027s Cover vs MIGA and MDBs Credit committees are easier to convince when every instrument in the package has a defined job.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"# Public Private Partnership Guarantees: Indonesia\u0027s Cover vs MIGA and MDBs Credit committees are easier to convince whe\""
+                                  },
+                                  {
+                                      "passage":  "PT PII is the Ministry of Finance\u0027s Badan Usaha Penjaminan Infrastruktur, mandated to issue government guarantees for KPBU projects.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"PT PII is the Ministry of Finance\u0027s Badan Usaha Penjaminan Infrastruktur, mandated to issue government guarantees for KP\""
+                                  },
+                                  {
+                                      "passage":  "PMK 68/2024 also defines two forms of cover: a guarantee from a Badan Usaha Penjaminan Infrastruktur (BUPI) alone, or a co-guarantee issued jointly with the Government.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"PMK 68/2024 also defines two forms of cover: a guarantee from a Badan Usaha Penjaminan Infrastruktur (BUPI) alone, or a \""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

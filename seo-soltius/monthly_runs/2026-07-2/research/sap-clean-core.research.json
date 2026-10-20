@@ -1,0 +1,101 @@
+{
+  "keyword": "SAP Clean Core",
+  "keyword_slug": "sap-clean-core",
+  "month": "2026-07-2",
+  "captured_at": "2026-07-07",
+  "landing_page": "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide",
+  "landing_page_summary": "English-URL hub 'the complete guide' to SAP Clean Core. Fresh fetch (2026-07-07) confirms it covers: definition (core pure from modifications), in-app vs side-by-side extensibility, five foundational dimensions (Extensibility, Processes, Data, Integration, Operations), five data-governance pillars + data tiering (HOT/WARM/COLD), greenfield vs brownfield paths, business benefits (faster upgrades, less technical debt, AI-readiness), enabling tools (SAP Signavio, SAP BTP), and a Soltius consulting CTA. Overview-level; does NOT go deep on business-case/ROI math, regulated-industry trade-offs, fit-to-standard change management, CoE team-building, or extension upgrade-safety over time. Article body still written in Bahasa Indonesia per project rule; anchor points to this English hub.",
+  "data_sources_used": ["websearch", "live_landing_page_fetch", "articles_history", "prior_month_research_cache_2026-07"],
+  "ahrefs_available": false,
+  "seo_report_available": false,
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Rising, maturing topic through 2025-2026. SAP formalized the four-level (A-D) Clean Core Extensibility model in Aug 2025 and shipped clean-core compliance KPIs to the RISE with SAP Methodology Dashboard in SAP Cloud ALM. 2026 industry content (SAVIC, Redwood, IgniteSAP, Deloitte, ASUG) is now practitioner/strategy-oriented ('50 shades of clean core', pragmatic approaches, technical-debt cost), signalling the conversation has moved from 'what is it' to 'how do we do it responsibly and justify it'. No ID-language volume figure available without Ahrefs.",
+    "apr2026_rank": "n/a (seo_report: none for 2026-07-2 set; per CLAUDE.md the last known rank for this keyword was #100 in Apr 2026 — biggest whitespace in the portfolio)",
+    "rank_trajectory": "Historically #100 / never ranked (2026-06 set). Priority for this run = whitespace: build cluster depth to earn first rankings + AI-Overview citations."
+  },
+  "serp": {
+    "google_id_scrape_status": "Direct server-side scrape of google.com/search not performed this run (blocked on prior runs per 2026-07 cache). Degraded gracefully to WebSearch for competitor angles + PAA per CLAUDE.md guardrail.",
+    "top_competitors_by_theme": [
+      { "theme": "technical debt / hidden cost", "url": "https://smartshift.com/blog/sap-technical-debt-what-it-really-costs-and-how-to-measure-it-in-custom-code", "angle_summary": "Quantifies SAP technical debt: ~USD 0.25-0.63 per line of custom code/year; avg ECC ~22,000 custom objects / ~2.7M lines / ~300,000 debt issues; 40-60% of custom code technically unused. English only." },
+      { "theme": "technical debt / business agility", "url": "https://trillionconsulting.io/articles/from-technical-debt-to-business-agility-why-sap-clean-core-is-no-longer-optional", "angle_summary": "Frames clean core as no-longer-optional debt reduction unlocking agility + Joule. English only." },
+      { "theme": "ROI / TCO", "url": "https://itp.biz/risk-roi-sap-clean-core-strategy-explained/", "angle_summary": "Risk & ROI framing of clean core. Cites TCO reduction ranges. English only." },
+      { "theme": "regulated industry (pharma GxP)", "url": "https://www.snpgroup.com/en/resources/blog/navigating-sap-transformations-in-regulated-industries-pharma-and-life-sciences/", "angle_summary": "SAP transformation in pharma/life sciences: validation lifecycle, GxP, change management; extensions must follow clean-core to minimise re-qualification effort. English only." },
+      { "theme": "regulated industry (pharma GxP)", "url": "https://intuitionlabs.ai/articles/sap-s4hana-pharma-gxp-implementation-validation", "angle_summary": "S/4HANA pharma GxP: technical + programmatic (validation, controls, change mgmt) dimensions; 21 CFR Part 11 / EU GMP Annex 11. English only." },
+      { "theme": "fit-to-standard / culture", "url": "https://ignitesap.com/saps-clean-core-in-practice/", "angle_summary": "Hardest clean-core barriers are organizational not technical: delivery pressure, under-resourced governance, cultural resistance to standard, habit of reaching for custom code. English only." },
+      { "theme": "pragmatic / myth", "url": "https://community.sap.com/t5/fortaleza-blog-posts/rethinking-clean-core-in-sap-from-rigid-formalism-to-pragmatic-common-sense/ba-p/14191424", "angle_summary": "Clean core is responsible extensibility, not a ban on customization; two-question test (standard? then Level A/B?). English only." },
+      { "theme": "CoE / team structure", "url": "https://www.suretysystems.com/insights/sap-coe-steps-to-build-and-optimize-center-of-excellence/", "angle_summary": "How to build an SAP Center of Excellence: in-house vs hybrid, 4 team categories (leadership, core, extended, project), governance." },
+      { "theme": "extension upgrade-safety over time", "url": "https://avotechs.com/blog/what-is-clean-core-a-d-extensibility-model/", "angle_summary": "A-D model: Level A = released/stable APIs with stability contracts, upgrade-safe; Level C = internal objects, upgrade risk, changelog planned. English only." },
+      { "theme": "release/maintenance cadence", "url": "https://ignitesap.com/new-s-4hana-release-and-maintenance-strategy/", "angle_summary": "S/4HANA two-year release cycle (Feb/Aug), 7 years mainstream maintenance from 2023 release; Continuous Feature Delivery between majors. English only." },
+      { "theme": "Indonesia tax localization", "url": "https://userapps.support.sap.com/sap/support/knowledge/en/3580758", "angle_summary": "SAP KBA on Indonesia Core Tax (Coretax) 2025 reforms; ERP can integrate with Coretax via official API (contextual localization signal for regulated-Indonesia angle)." }
+    ],
+    "serp_features": ["ai_overview_likely_for_definitional_queries", "paa", "featured_snippet_opportunity_table"],
+    "ai_overview_entities": ["clean core", "SAP S/4HANA", "SAP BTP", "ABAP Cloud", "released APIs", "Clean Core Extensibility Levels A-D", "SAP Cloud ALM", "technical debt", "fit-to-standard", "RISE with SAP", "Center of Excellence", "GxP / 21 CFR Part 11", "SAP Signavio"],
+    "whitespace_note": "Within an already-whitespace keyword (#100), the practitioner-facing sub-angles - business-case/ROI math, regulated-industry compliance trade-offs, fit-to-standard change management, building a Clean Core CoE, and keeping extensions upgrade-safe over time - are ALL covered only by English sources. No Bahasa Indonesia article addresses them. These five map cleanly onto the uncovered-angle flags left in the history notes of -01/-03/-04/-05 and the 2026-08 set."
+  },
+  "paa": [
+    "Apa itu SAP clean core?",
+    "Berapa biaya technical debt kustomisasi SAP?",
+    "Apakah clean core melarang semua kustomisasi?",
+    "Bagaimana membuat business case clean core untuk direksi?",
+    "Bagaimana clean core untuk industri farmasi yang wajib GxP?",
+    "Apakah clean core cocok untuk perbankan dan industri teregulasi?",
+    "Apa itu fit-to-standard dan mengapa sulit diterapkan?",
+    "Bagaimana cara membangun Center of Excellence (CoE) SAP?",
+    "Bagaimana memastikan ekstensi SAP tetap aman saat upgrade?",
+    "Apa perbedaan extensibility level A, B, C, dan D?",
+    "Kapan kustomisasi SAP masih boleh dilakukan?",
+    "Berapa penghematan TCO dari clean core?"
+  ],
+  "gsc_style_queries_from_report": [
+    "seo_report = none for the 2026-07-2 set. Prior context (Apr 2026 report) noted ID audience searches 'apa itu X' even for English-term concepts, and AI-search referrals are material (Perplexity ~68%, ChatGPT ~22%) landing on practical posts - strong case for GEO-optimized extractable answers and question-format H2s."
+  ],
+  "verified_facts_for_writer": {
+    "technical_debt_cost": "Industry estimates (smartShift): maintaining/testing/upgrading unused custom code costs ~USD 0.25-0.63 per line of code per year; an average SAP ECC system carries ~22,000 custom objects and ~2.7M lines of custom code; ~40-60% of custom code is technically unused. VERIFY/attribute as smartShift industry estimate (not SAP official); label as estimate.",
+    "tco_reduction": "Vendor/analyst estimates put clean-core TCO reduction at ~40-55% within three years (SAVIC/ITP/scmchamps); some cite ~30-40% lower annual maintenance. These are vendor estimates - the writer MUST frame as ranges/estimates, attribute the source, and NOT present as guaranteed. Prefer SAP-official or analyst (Gartner/IDC/Forrester) numbers where available.",
+    "extensibility_levels_A_D": "SAP formalized a four-level model (A-D) in Aug 2025. Level A: released/public stable APIs only (ABAP Cloud on-stack or side-by-side on BTP), backed by stability contracts, fully upgrade-safe - target for new development. Level B: classic ABAP using only officially provided APIs/frameworks (legacy APIs, BAdIs, user exits) - allowed when Level A insufficient; needs governance. Level C: uses SAP internal/unclassified objects - not cloud-ready, meaningful upgrade risk, belongs on remediation roadmap (SAP plans a changelog to flag object changes early). Level D: explicitly non-recommended (core modifications, write access to SAP tables, implicit enhancements) - highest risk, eliminate. Source: SAP Community 'ABAP Extensibility Guide - Clean Core (Aug 2025 Update)' + SAP News 2025/08 + avotechs summary.",
+    "release_maintenance_cadence": "S/4HANA Cloud Public Edition ships semi-annual releases (Feb/Aug). From the 2023 release SAP moved to a two-year release cycle with 7 years mainstream maintenance (up from 5); Continuous Feature Delivery adds innovations between majors. This is WHY upgrade-safe extensions matter - upgrades are now frequent/continuous. VERIFY current cadence wording against SAP help/learning before printing.",
+    "fit_to_standard": "Fit-to-standard = shift from 'change the software to fit our process' to 'adapt our process to the software's best practice' ('why-not-standard' mindset). SAP guidance: every requirement passes a two-question test (can standard meet it? if not, can a Level A/B extension?). Hardest barriers are organizational/cultural (delivery pressure, under-resourced governance, resistance to standard, habit of custom code), not technical. Sources: SAP Learning 'Managing Clean Core' course; IgniteSAP; sap-press blog.",
+    "coe": "SAP Center of Excellence (CoE) = internal team owning SAP lifecycle: process design, enhancements, project delivery, training, governance. Common 4-part structure: leadership/steering, core team (day-to-day + small enhancements), extended team (SME by area), project teams (temporary). Build options: in-house / outsourced / hybrid. Governance provides strategic direction + accountability. Sources: Surety Systems, Eursap, SAPinsider, SAP Customer COE guides.",
+    "regulated_industry": "In regulated industries (pharma/life sciences GxP, banking, food) some customization is mandatory for compliance (21 CFR Part 11, EU GMP Annex 11, audit trails, validation). Clean core here means: keep mandatory compliance extensions clean-core-compliant (Level A/B, decoupled) so validation/re-qualification effort is minimised on each upgrade. Sources: SNP Group, IntuitionLabs, Assima, SAP Community GxP public-cloud post. Indonesian context: Coretax/Core Tax Administration System (DJP, live Jan 2025) and OJK requirements are localization/compliance drivers; ERP can integrate to Coretax via official API. VERIFY OJK-specific claims before printing (search found no clean-core-specific OJK source).",
+    "pragmatic_myth": "Clean core is NOT a ban on customization - it is responsible/controlled extensibility placed OUTSIDE the core. 'There are 50 shades of clean core' (TechTarget). Deloitte/community sources push a pragmatic reading. Useful for the honest/counter-conventional H2s.",
+    "ecc_dates": "SAP ECC (EHP 6-8) mainstream maintenance ends 31 Dec 2027; extended maintenance to end of 2030 for a fee (~+2% / ~9% cited variously - VERIFY exact surcharge); select RISE/private-cloud customers can reach 2033 with conditions. Compatibility Packs final transition extended to 31 May 2026. Migrations take ~18-36 months. VERIFY all dates/surcharges against the live SAP maintenance-strategy page + Forrester before printing - they have shifted historically. Sources: SAP support maintenance-strategy page; SEIDOR; SAVIC; Forrester (cited in prior cluster articles -03/-05)."
+  },
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      { "id": "2026-06-sap-clean-core-01", "angle": "apa-itu-clean-core-kesiapan-cloud", "intent": "informational", "subtopics": ["definisi clean core", "4 dimensi", "in-app vs side-by-side", "ABAP Cloud", "kesiapan cloud", "kapan clean core belum prioritas"] },
+      { "id": "2026-06-sap-clean-core-02", "angle": "remediasi-custom-code-abap-cloud", "intent": "how-to", "subtopics": ["Z-code audit", "ABAP Cloud", "Keep/Eliminate/Rebuild triase", "Custom Code Migration app", "ABAP Test Cockpit"] },
+      { "id": "2026-06-sap-clean-core-03", "angle": "clean-core-maturity-assessment-kerangka", "intent": "decision", "subtopics": ["maturity model", "5 dimensi penilaian", "self-assessment", "skor kesiapan", "extensibility levels A-D sebagai klasifikasi maturity"] },
+      { "id": "2026-06-sap-clean-core-04", "angle": "side-by-side-extensibility-sap-btp-build", "intent": "informational", "subtopics": ["side-by-side extensibility", "in-app vs side-by-side", "SAP Build", "SAP Integration Suite", "kapan side-by-side bukan pilihan"] },
+      { "id": "2026-06-sap-clean-core-05", "angle": "clean-core-brownfield-vs-greenfield-migrasi", "intent": "comparison", "subtopics": ["brownfield vs greenfield", "selective data transition", "RISE with SAP", "nasib Z-code", "greenfield tidak otomatis bersih"] },
+      { "id": "2026-07-sap-clean-core-01 (pilot)", "angle": "clean-core-governance-pasca-go-live", "intent": "decision", "subtopics": ["governance operating model / anti-drift", "ATC blocking mode + exemption log", "SAP Cloud ALM compliance KPI cadence", "transport governance", "CoE ownership (as governance owner)", "quarterly health review", "core kembali kotor setelah go-live"] },
+      { "id": "2026-08-sap-clean-core-01", "angle": "clean-core-fondasi-ai-joule-business-ai", "intent": "informational", "subtopics": ["clean core sebagai prasyarat SAP Business AI/Joule", "ABAP Cloud", "released API", "proses standar sebagai bahasa Joule", "upgrade frekuensi tinggi"] },
+      { "id": "2026-08-sap-clean-core-02", "angle": "clean-core-integrasi-api-first-integration-suite", "intent": "how-to", "subtopics": ["API-first integration", "SAP Integration Suite", "Business Accelerator Hub", "Event Mesh event-driven", "replikasi vs federasi vs streaming", "RFC/BAPI legacy -> released API", "loose coupling"] },
+      { "id": "2026-08-sap-clean-core-03", "angle": "in-app-key-user-extensibility-pengguna-bisnis", "intent": "informational", "subtopics": ["key-user in-app extensibility", "Custom Fields and Logic", "adaptasi UI Fiori", "BAdI", "key-user vs developer", "use case per departemen"] },
+      { "id": "2026-08-sap-clean-core-04", "angle": "memilih-partner-si-clean-core", "intent": "decision", "subtopics": ["memilih partner/SI clean core", "7 pertanyaan", "get clean/stay clean", "fit-to-standard (sebagai kriteria partner)", "AMS clean-core orientation", "SAP Platinum Partner", "red flag proposal"] }
+    ],
+    "uncovered_angles_pursued_this_run": [
+      "Business case / ROI: menjustifikasi anggaran clean core ke CFO/direksi - biaya inaksi, matematika TCO, penghindaran biaya upgrade (flagged as 'biaya tersembunyi' in 2026-08-04 notes; distinct from ERP-migration TCO article which is a different keyword)",
+      "Clean core di industri teregulasi (farmasi/GxP, perbankan/OJK, manufaktur) - menyeimbangkan kustomisasi compliance wajib dengan clean core (flagged in -01 and 2026-08-04 notes)",
+      "Fit-to-standard sebagai perubahan pola pikir & change management - hambatan organisasi/budaya, bukan teknologi (fit-to-standard hanya muncul sebagai KRITERIA di 2026-08-04, belum sebagai artikel utuh tentang perubahan budaya)",
+      "Membangun Clean Core Center of Excellence (CoE) internal - desain tim & struktur (CoE muncul di pilot governance hanya sebagai PEMILIK governance; belum ada artikel tentang cara MEMBANGUN tim/CoE)",
+      "Menjaga ekstensi tetap upgrade-safe sepanjang waktu - deprecation released API, drift level A-D, changelog, continuous release (flagged 'upgrade-safe extensibility' in 2026-08-03 notes; distinct from -04 placement & -03 scoring)"
+    ],
+    "angles_considered_and_rejected": [
+      "Generic 'mitos/pragmatic 50 shades' standalone - too close to -01's 'kapan belum prioritas' + pilot governance; instead folded as the honest/counter-conventional H2 inside briefs 01 and 03",
+      "'Hidden cost of not being clean' standalone - folds into the business-case/ROI brief (01)",
+      "KPI dashboard / SAP Cloud ALM standalone - owned by 2026-07 pilot governance article",
+      "Master data & clean core - hub already covers data pillars; thin as standalone",
+      "SAP Signavio process mining standalone - narrow; referenced inside fit-to-standard brief (03) instead"
+    ],
+    "selected_briefs": [
+      { "brief_id": "sap-clean-core-01", "angle": "business-case-roi-clean-core", "intent": "decision", "angle_hash": "sha1:3c1f7a2e9b04" },
+      { "brief_id": "sap-clean-core-02", "angle": "clean-core-industri-teregulasi-compliance", "intent": "informational", "angle_hash": "sha1:9d2b4e6a1c73" },
+      { "brief_id": "sap-clean-core-03", "angle": "fit-to-standard-mindset-change-management", "intent": "troubleshooting", "angle_hash": "sha1:6f8a1c3d5e27" },
+      { "brief_id": "sap-clean-core-04", "angle": "membangun-clean-core-center-of-excellence", "intent": "how-to", "angle_hash": "sha1:2a7e9b4f0c81" },
+      { "brief_id": "sap-clean-core-05", "angle": "ekstensi-upgrade-safe-lifecycle-deprecation", "intent": "informational", "angle_hash": "sha1:8b3d6c1a4f92" }
+    ],
+    "jaccard_notes": "Each selected brief shares at most the base entities (clean core, S/4HANA, BTP, ABAP Cloud, A-D levels) with priors; distinct subtopic sets keep Jaccard < 0.4 vs every historical article and vs siblings. Closest pairs checked: 01(ROI) vs -03(maturity) share only 'A-D levels as reference' -> ~0.1; 03(fit-to-standard culture) vs 2026-08-04(partner choice) share only 'fit-to-standard' term used differently -> ~0.12; 04(build CoE) vs pilot governance share 'CoE' entity but 04 = org/team design while pilot = anti-drift KPI process -> ~0.15; 05(upgrade-safe lifecycle) vs -04(side-by-side placement) & -03(scoring) share 'A-D levels' only -> ~0.15."
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "keyword": "KPBU",
+  "keyword_slug": "kpbu",
+  "month": "2026-09",
+  "captured_at": "2026-09-17",
+  "language": "id",
+  "priority": "defend",
+  "client_anchor": "Penjaminan Pemerintah",
+  "landing_page": "https://www.ptpii.co.id/kpbu",
+  "landing_page_summary": "NOT FETCHABLE THIS RUN. Every path on www.ptpii.co.id returned a TLS error ('unable to verify the first certificate'); ptpii.co.id/kpbu returned 404. Hub content therefore inferred from the August 2026 cluster records + knowledge_base/company_profile.md: the hub is a definitional KPBU landing page (definition, why KPBU, PT PII's guarantee role). Researcher/editor should retry the host; if it still fails, note it and do not invent hub content.",
+
+  "data_sources_used": [
+    "articles_history/index.json + all three by_keyword/kpbu/*.md records (primary dedup source)",
+    "knowledge_base/company_profile.md, product_matrix.md, style_guide.md, seo_playbook.md",
+    "peraturan.go.id primary text of Perpres 38/2015 (PDF, text-extracted locally)",
+    "peraturan.go.id metadata for Permen PPN/Bappenas 9/2025",
+    "kpbu.kemenkeu.go.id (several primary pages, incl. its published 'Orang juga bertanya' section)",
+    "kpbu.kemenkeu.go.id OBC template PDF, sektor Penerangan Jalan Umum (text-extracted locally)",
+    "WebSearch (5 calls)"
+  ],
+  "ahrefs_available": false,
+  "ahrefs_note": "Ahrefs MCP server is configured but unauthenticated this session; OAuth cannot run non-interactively. No volume/KD/GSC data. Nothing fabricated.",
+
+  "serp_scrape_status": "FAILED — degraded gracefully",
+  "serp_scrape_detail": "google.com/search returned Google's own error page via WebFetch; html.duckduckgo.com served a bot-detection CAPTCHA (NOT attempted — solving CAPTCHAs is out of bounds); bing.com returned irrelevant boilerplate results. No live top-10 or live PAA was captured. Competitor/SERP claims in these briefs are therefore NOT asserted as a scraped ranking; they are drawn from domains that recurred across WebSearch results.",
+
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "n/a — no seo_report named in keywords.md (seo_report: \"none\")",
+    "report_rank": "n/a — no report for this month"
+  },
+
+  "observed_competing_domains": [
+    "kpbu.kemenkeu.go.id — official Kemenkeu KPBU portal; deep but fragmented into many short pages, and carries stale regulatory references (see regulatory_traps)",
+    "simpulkpbu.pu.go.id — PU risk/guidance portal; DNS did not resolve from this environment on 2026-09-17",
+    "bpjt.pu.go.id — toll-sector regulator, sector-specific framing",
+    "ahlikpbuindonesia.or.id — practitioner association blog; the only source found unpacking Permen 7/2023 penyiapan changes, but SECONDARY, must be corroborated",
+    "id.wikipedia.org, scribd/pdfcoffee mirrors — low-authority, definitional only"
+  ],
+  "serp_gap_thesis": "Indonesian-language KPBU content is either (a) regulation restated flatly, or (b) generic definitional explainers. Three gaps are open: nobody explains how the scheme actually differs SECTOR BY SECTOR; nobody unpacks the five kajian inside prastudi kelayakan as a document with failure modes; and nobody treats pengembalian investasi as a three-option design decision rather than an AP-vs-tarif binary.",
+
+  "paa": {
+    "captured_primary_source": {
+      "source": "https://kpbu.kemenkeu.go.id — published 'Orang juga bertanya' section (the portal's own People-Also-Ask equivalent)",
+      "questions": [
+        "Siapa yang Membiayai Proyek pada Skema KPBU?",
+        "Mengapa Perekonomian Tidak Sepenuhnya Diserahkan Kepada Swasta?",
+        "Skema KPBU, Apa Perannya dalam Mendukung Pembangunan IKN?",
+        "Apa Itu Kepanjangan PJPK?",
+        "Apa itu Kantor Bersama KPBU?",
+        "Apa itu Availability Payment?"
+      ]
+    },
+    "derived_not_captured": {
+      "note": "Derived from portal section titles + WebSearch result phrasing because no live SERP PAA could be scraped. Treat as hypotheses, not captured PAA.",
+      "questions": [
+        "Apa saja sektor yang bisa dikerjasamakan lewat KPBU?",
+        "Apa itu prastudi kelayakan KPBU dan apa isinya?",
+        "Berapa lama penyusunan prastudi kelayakan?",
+        "Apa bedanya Outline Business Case dan Final Business Case?",
+        "Apa bedanya Availability Payment dan user charge?",
+        "Siapa yang menetapkan tarif dalam proyek KPBU?",
+        "Apakah proyek KPBU bisa menggabungkan dua skema pengembalian?",
+        "Apa itu Dukungan Kelayakan (VGF) dan kapan diberikan?"
+      ]
+    }
+  },
+
+  "primary_law_verified": {
+    "perpres_38_2015_pasal_5": {
+      "status": "Berlaku (peraturan.go.id)",
+      "ayat_1": "Infrastruktur yang dapat dikerjasamakan adalah infrastruktur ekonomi dan infrastruktur sosial.",
+      "ayat_2_jenis_infrastruktur_19_item": [
+        "a. transportasi", "b. jalan", "c. sumber daya air dan irigasi", "d. air minum",
+        "e. sistem pengelolaan air limbah terpusat", "f. sistem pengelolaan air limbah setempat",
+        "g. sistem pengelolaan persampahan", "h. telekomunikasi dan informatika",
+        "i. ketenagalistrikan", "j. minyak dan gas bumi dan energi terbarukan",
+        "k. konservasi energi", "l. fasilitas perkotaan", "m. fasilitas pendidikan",
+        "n. fasilitas sarana dan prasarana olahraga serta kesenian", "o. kawasan",
+        "p. pariwisata", "q. kesehatan", "r. lembaga pemasyarakatan", "s. perumahan rakyat"
+      ],
+      "ayat_3": "KPBU dapat merupakan gabungan dari 2 (dua) atau lebih jenis infrastruktur.",
+      "ayat_4": "KPBU dapat mengikutsertakan kegiatan penyediaan sarana komersial untuk meningkatkan kelayakan.",
+      "ayat_5": "Jenis infrastruktur lainnya ditetapkan oleh Menteri PPN/Bappenas."
+    },
+    "perpres_38_2015_pasal_6_ayat_2": "Penentuan Menteri/Kepala Lembaga/Kepala Daerah sebagai PJPK dilakukan dengan memperhatikan peraturan perundang-undangan DI BIDANG SEKTOR. — This is the legal basis for the sector thesis in kpbu-01: the Perpres itself defers to sector law.",
+    "perpres_38_2015_pasal_7_ayat_1": "Jika KPBU menggabungkan 2+ jenis infrastruktur, PJPK ditentukan berdasarkan kewenangan sektor.",
+    "perpres_38_2015_bab_vi_pengembalian_investasi": {
+      "pasal_11_ayat_1": "PJPK menetapkan bentuk pengembalian investasi yang meliputi penutupan biaya modal, biaya operasional, dan keuntungan Badan Usaha Pelaksana.",
+      "pasal_11_ayat_2": "Pengembalian investasi bersumber dari: (a) pembayaran oleh pengguna dalam bentuk tarif; (b) Pembayaran Ketersediaan Layanan (Availability Payment); DAN/ATAU (c) bentuk lainnya sepanjang tidak bertentangan dengan peraturan perundang-undangan.",
+      "critical_nuance": "The statute says 'dan/atau' and names THREE sources, not two. The AP-vs-user-charge framing that dominates the SERP is a false binary. This is the spine of kpbu-03.",
+      "pasal_12": "Tarif: PJPK menetapkan tarif awal; tarif awal dan penyesuaiannya ditetapkan untuk memastikan pengembalian biaya modal, biaya operasional, dan keuntungan dalam kurun waktu tertentu; bila tarif belum dapat mengembalikan seluruh investasi, tarif dapat ditentukan berdasarkan tingkat kemampuan pengguna; dalam hal itu PJPK memberikan Dukungan Kelayakan; Dukungan Kelayakan hanya diberikan bagi KPBU yang mempunyai kepentingan dan kemanfaatan sosial, setelah kajian lengkap dan menyeluruh atas kemanfaatan sosial.",
+      "pasal_13": "AP: PJPK menganggarkan dana Pembayaran Ketersediaan Layanan selama masa operasi sesuai jangka waktu dalam Perjanjian Kerja Sama; penganggaran memperhitungkan biaya modal, biaya operasional, dan/atau keuntungan BUP; pembayaran dilakukan melalui anggaran K/L/Pemerintah Daerah setelah BUP mengoperasikan infrastruktur sesuai persyaratan perjanjian."
+    },
+    "permen_ppn_bappenas_9_2025": {
+      "full_title": "Perubahan Atas Permen PPN/Bappenas No. 7 Tahun 2023 tentang Pelaksanaan KPBU dalam Penyediaan Infrastruktur",
+      "ditetapkan": "30 Desember 2025",
+      "diundangkan": "31 Desember 2025 (BN No. 1160)",
+      "status": "Berlaku",
+      "pasal_level_content": "STILL NOT VERIFIED — peraturan.go.id shows metadata only; the substantive text sits behind a PDF link that was not retrieved this run. RULE UNCHANGED FROM AUGUST: state that it exists and amends 7/2023, make NO claim about what it changes."
+    }
+  },
+
+  "prastudi_kelayakan_evidence": {
+    "five_kajian_under_permen_7_2023": [
+      "Kajian hukum dan kelembagaan",
+      "Kajian teknis",
+      "Kajian ekonomi dan komersial",
+      "Kajian lingkungan dan sosial",
+      "Kajian bentuk kerja sama, kajian risiko, dan kajian dukungan pemerintah dan/atau jaminan pemerintah"
+    ],
+    "five_kajian_source_quality": "SECONDARY (practitioner association + toolkit summaries surfaced via WebSearch). MUST be corroborated against the Lampiran of Permen PPN/Bappenas 7/2023 primary text before the writer asserts it.",
+    "eight_aspect_predecessor_PRIMARY": {
+      "source": "https://kpbu.kemenkeu.go.id/backend/Upload/guideline/GUIDELINE22110708102554.pdf — 'Template Penyusunan Dokumen Outline Business Case, Sektor Penerangan Jalan Umum' (text extracted locally, 14 pages)",
+      "structure": [
+        "1.1 Aspek Hukum dan Kelembagaan",
+        "1.2 Aspek Teknis",
+        "1.3 Aspek Ekonomi dan Komersial",
+        "1.4 Aspek Lingkungan dan Sosial",
+        "1.5 Aspek Bentuk KPBU",
+        "1.6 Kajian Risiko",
+        "1.7 Kajian Dukungan Pemerintah dan/atau Jaminan",
+        "1.8 Kajian Hal-hal yang Perlu Ditindaklanjuti"
+      ],
+      "each_aspect_has": ["Kelengkapan dan Isi Kajian", "Dokumen Pendukung", "Critical Points"],
+      "inference_to_verify": "The 8 -> 5 consolidation appears to fold old 1.5 + 1.6 + 1.7 into a single fifth kajian and absorb 1.8. This mapping is MY INFERENCE from comparing the old template against secondary descriptions of Permen 7/2023. The researcher must confirm it against the Permen 7/2023 lampiran before the writer states it as fact."
+    },
+    "worked_example_detail_from_template": "For the APJ sector the legal kajian must, among other things, secure a written agreement between PT PLN (Persero) and the PJPK covering electricity supply, collection/remittance of Pajak Penerangan Jalan, metering, and the energy-consumption calculation mechanism — a concrete illustration that the 'same' kajian carries different content per sector."
+  },
+
+  "sector_evidence": {
+    "ptpii_guaranteed_sectors_7": {
+      "sectors": ["Jalan", "Ketenagalistrikan", "Telekomunikasi", "Air Minum", "Pariwisata", "Transportasi", "Persampahan dan Konservasi Energi"],
+      "reference": "per Juni 2026"
+    },
+    "toll": "BPJT regulates; BUJT is the concession holder. Two KPBU variants coexist: KPBU berbasis tarif (BUJT recovers from toll revenue) and KPBU Availability Payment (government pays periodically). Source: BPJT material surfaced via WebSearch — the bpjt.pu.go.id/konten/bpjt/faq URL itself 404'd, so the researcher must re-source this.",
+    "air_minum": "SPAM Umbulan is the standing example: reportedly waited 40+ years under conventional procurement before proceeding as KPBU. Verify against ekon.go.id / Kemenkeu before repeating the '40 years' claim.",
+    "persampahan": "PSEL / TPPAS Regional Legok Nangka — per company_profile.md the only persampahan KPBU guaranteed by PT PII. News reporting (Kompas, 31 Juli 2026) cites ~Rp 7,2 triliun (~US$400 juta) investment, VGF Rp 1,34 triliun from Kemenkeu, ~2.131 ton sampah/hari, ~40,79 MW net. ALL SECONDARY — verify against PT PII's own release before use, and attach the reference year.",
+    "apj_penerangan_jalan": "Kabupaten Madiun (first APJ KPBU in Indonesia, COD 18 Juli 2023) and Kabupaten Lombok Barat (agreements 12 Oktober 2023) — both in company_profile.md. Investment value for Madiun DIFFERS ACROSS SOURCES; write 'sekitar Rp 100 miliar' or omit.",
+    "ketenagalistrikan_caution": "Do NOT assert that power projects run outside the KPBU regime. Ketenagalistrikan IS listed in Perpres 38/2015 Pasal 5(2)(i), yet most generation is procured as IPP/PPA with PLN. The relationship between the two tracks was NOT verified this run. Either have the researcher verify it properly or drop the point."
+  },
+
+  "regulatory_traps": [
+    "kpbu.kemenkeu.go.id's Availability Payment page (read/1095-1258) still cites PMK No. 260/PMK.08/2016 and Permendagri 96/2016 as governing. PMK 260 and its chain were REVOKED by PMK 68/2024 (company_profile.md). Cite PMK 68/2024; never repeat the portal's stale citation.",
+    "The Kemenkeu OBC template PDF still cites Permen PPN 4/2015 jo. 2/2020 — both revoked by Permen PPN/Bappenas 7/2023. The template is useful as EVIDENCE OF THE OLD STRUCTURE, never as current procedure.",
+    "A WebSearch summary conflated PT PII's figures, reporting 'Nilai Penjaminan: lebih dari Rp 732 triliun'. Wrong. Per company_profile.md: total NILAI PROYEK Rp 732 triliun; total NILAI PENJAMINAN Rp 113 triliun. Do not merge them.",
+    "Permen PPN/Bappenas 9/2025 exists and is in force, but its pasal content remains unverified for a second month running. Mention existence only."
+  ],
+
+  "facts_rechecked_this_run": {
+    "portfolio": "CONFIRMED UNCHANGED — 61 proyek (38 KPBU + 23 non-KPBU), 7 sektor, total nilai investasi > Rp 732 triliun, per Juni 2026. No newer publication surfaced on 2026-09-17.",
+    "permen_9_2025": "Metadata confirmed (ditetapkan 30 Desember 2025, berlaku). Pasal-level content STILL unverified — no new claims permitted.",
+    "fitch_rating": "NOT re-checked this run — not load-bearing for any of these three briefs. Flagged for whichever cluster needs it.",
+    "dki_obligasi_daerah": "NOT re-checked this run — belongs to the pembiayaan-kreatif cluster, not this one."
+  },
+
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      {"id": "2026-08-kpbu-01", "angle_hash": "sha1:f1ed4937b4e3", "owns": "six stages + outputs, PJPK roles, Permen 7/2023 stage-level changes, where projects stall"},
+      {"id": "2026-08-kpbu-02", "angle_hash": "sha1:eda749ba234e", "owns": "Value-for-Money decision framework, 7-axis KPBU-vs-APBN table, when KPBU is the wrong route"},
+      {"id": "2026-08-kpbu-03", "angle_hash": "sha1:34e7841efec8", "owns": "11-category risk-allocation matrix, three misconceptions, construction vs operation allocation"}
+    ],
+    "angles_taken_this_month": [
+      {"brief": "kpbu-01", "angle": "kpbu-per-sektor-rezim-dan-skema", "angle_hash": "sha1:b8191a2c4711", "max_jaccard_vs_history": 0.045},
+      {"brief": "kpbu-02", "angle": "lima-kajian-prastudi-kelayakan-kpbu", "angle_hash": "sha1:67b5bb4ce6ae", "max_jaccard_vs_history": 0.095},
+      {"brief": "kpbu-03", "angle": "pengembalian-investasi-kpbu-ap-vs-tarif", "angle_hash": "sha1:78e1b537a675", "max_jaccard_vs_history": 0.053}
+    ],
+    "uncovered_angles_left_for_later_months": [
+      "KPBU skala kecil as a distinct simplified process track",
+      "Transaction stage deep dive: prakualifikasi -> RFP -> penetapan pemenang -> financial close (ID-language; note the EN cluster owns the lender-side bankability view)",
+      "Prakarsa badan usaha / unsolicited proposals: right to match, bonus nilai, how it differs from solicited",
+      "Cost of capital differential between KPBU and conventional financing",
+      "Long-term concession renegotiation dynamics and force majeure after climate shocks",
+      "Badan Usaha Pelaksana (SPV): formation, share-transfer lock-ins, obligations",
+      "What happens at the end of the concession: asset handback condition, serah terima",
+      "Single-sector deep dives (one article per sector) once the cross-sector comparison in kpbu-01 is live"
+    ]
+  },
+
+  "cousin_hubs_this_month": {
+    "note": "Only 3 distinct hub URLs exist in the 2026-09 set, so every article links all three. Anchor text must differ per brief AND from August's anchors ('skema KPBU', 'proyek KPBU', 'public private partnership', 'pembiayaan kreatif').",
+    "own_hub": "https://www.ptpii.co.id/kpbu",
+    "cousin_1": "https://www.ptpii.co.id/public-private-partnership",
+    "cousin_2": "https://www.ptpii.co.id/pembiayaan-kreatif"
+  },
+
+  "websearch_calls_used": 5
+}

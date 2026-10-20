@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-08\\final\\fitur-sap-b1-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-18T00:02:38+07:00",
+    "word_count":  1041,
+    "paragraph_count":  16,
+    "sentence_count":  54,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.344,
+                        "sentence_burstiness":  1.191,
+                        "top30_vocab_share":  0.307,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.344 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apa saja modul SAP Business One?",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apa saja modul SAP Business One?\""
+                                  },
+                                  {
+                                      "passage":  "Modul lain di daftar resmi (Administration, Business Partners, Banking, Human Resources) melengkapi peta.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Modul lain di daftar resmi (Administration, Business Partners, Banking, Human Resources) melengkapi peta.\""
+                                  },
+                                  {
+                                      "passage":  "## Peta Modul SAP Business One dan Fungsinya SAP Business One dikapalkan sebagai satu aplikasi, bukan kumpulan program yang disambung.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Peta Modul SAP Business One dan Fungsinya SAP Business One dikapalkan sebagai satu aplikasi, bukan kumpulan program y\""
+                                  },
+                                  {
+                                      "passage":  "Peta berikut memakai ejaan resmi SAP di [tab *Modules* pada Main Menu](https://help.sap.com/doc/saphelp_sbo92/9.2/en-US/45/10027ecf465d7ae10000000a11466f/content.htm?no_cache=true), bukan pengelompokan versi brosur; bagi yang baru mengenal produknya, [pengertian SAP Business One](https://www.soltius.co.id/id/blog/pengertian-sap-business-one-dan-kegunaannya) memberi latar dasarnya.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Peta berikut memakai ejaan resmi SAP di [tab *Modules* pada Main Menu](https://help.sap.com/doc/saphelp_sbo92/9.2/en-US/\""
+                                  },
+                                  {
+                                      "passage":  "# Fitur SAP Business One yang Wajib Diketahui Bisnis Mid-Market Catatan stok di sistem tidak cocok dengan hitungan fisik gudang.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"# Fitur SAP Business One yang Wajib Diketahui Bisnis Mid-Market Catatan stok di sistem tidak cocok dengan hitungan fisik\""
+                                  },
+                                  {
+                                      "passage":  "Per Desember 2025, SAP mencatat lebih dari 83.000 pelanggan dan 1,2 juta pengguna di lebih dari 170 negara.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Per Desember 2025, SAP mencatat lebih dari 83.000 pelanggan dan 1,2 juta pengguna di lebih dari 170 negara.\""
+                                  },
+                                  {
+                                      "passage":  "Pesanan pelanggan hidup di satu file, jurnalnya menyusul lewat rekap Excel akhir bulan.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Pesanan pelanggan hidup di satu file, jurnalnya menyusul lewat rekap Excel akhir bulan.\""
+                                  },
+                                  {
+                                      "passage":  "- **Multi-mata uang dan multi-entitas.** Konsolidasi antar cabang tanpa rekap manual tiap akhir bulan.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"- **Multi-mata uang dan multi-entitas.** Konsolidasi antar cabang tanpa rekap manual tiap akhir bulan.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

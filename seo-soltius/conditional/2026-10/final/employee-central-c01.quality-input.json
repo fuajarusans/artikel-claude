@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-10\\final\\employee-central-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-10-08T17:25:59+07:00",
+    "word_count":  1164,
+    "paragraph_count":  13,
+    "sentence_count":  61,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.35,
+                        "sentence_burstiness":  1.105,
+                        "top30_vocab_share":  0.346,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.35 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Enam modul talenta, yaitu Recruiting, Onboarding, Performance \u0026 Goals, Learning, Compensation, dan Succession, ditambah Employee Central Payroll dan SAP S/4HANA, menarik data induk karyawan dari Employee Central.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"Enam modul talenta, yaitu Recruiting, Onboarding, Performance \u0026 Goals, Learning, Compensation, dan Succession, ditambah \""
+                                  },
+                                  {
+                                      "passage":  "Menurut [SAP](https://news.sap.com/2023/12/sap-successfactors-employee-central-payroll-supports-50-locales/) (Desember 2023), EC Payroll secara native mendukung 50 locale dan menerima lebih dari 800 legal change (perubahan ketentuan hukum) setiap tahun; cakupan locale dapat berubah antar-rilis.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Menurut [SAP](https://news.sap.com/2023/12/sap-successfactors-employee-central-payroll-supports-50-locales/) (Desember 2\""
+                                  },
+                                  {
+                                      "passage":  "# Employee Central SAP SuccessFactors: Fungsi dan Keunggulannya Banyak perusahaan yang baru mengadopsi [SAP SuccessFactors](https://www.soltius.co.id/solutions-by-products/reading/success-factors) mengira mereka membeli satu aplikasi SDM.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"# Employee Central SAP SuccessFactors: Fungsi dan Keunggulannya Banyak perusahaan yang baru mengadopsi [SAP SuccessFacto\""
+                                  },
+                                  {
+                                      "passage":  "Modul talenta seperti Recruiting, Onboarding, Performance \u0026 Goals, Learning, dan Compensation umumnya dilisensikan terpisah dan ditambahkan bertahap sesuai prioritas, lalu membaca data induk dari Employee Central.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Modul talenta seperti Recruiting, Onboarding, Performance \u0026 Goals, Learning, dan Compensation umumnya dilisensikan terpi\""
+                                  },
+                                  {
+                                      "passage":  "Menurut dokumentasi SAP, data organisasi harus dibuat lebih dulu karena catatan karyawan bergantung padanya.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Menurut dokumentasi SAP, data organisasi harus dibuat lebih dulu karena catatan karyawan bergantung padanya.\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apa bedanya data karyawan dan data organisasi di Employee Central?",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apa bedanya data karyawan dan data organisasi di Employee Central?\""
+                                  },
+                                  {
+                                      "passage":  "Employee Central memodelkan organisasi lewat *foundation objects* (objek fondasi) yang sebagian berjenjang.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Employee Central memodelkan organisasi lewat *foundation objects* (objek fondasi) yang sebagian berjenjang.\""
+                                  },
+                                  {
+                                      "passage":  "Granularitas struktur organisasi di Employee Central kerap berbeda dari SAP ERP HCM *on-premise*, sehingga kebutuhan struktur dan master data perlu diasesmen sebelum migrasi.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Granularitas struktur organisasi di Employee Central kerap berbeda dari SAP ERP HCM *on-premise*, sehingga kebutuhan str\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

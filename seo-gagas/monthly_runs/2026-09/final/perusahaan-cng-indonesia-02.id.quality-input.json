@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-09\\final\\perusahaan-cng-indonesia-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-21T10:52:39+07:00",
+    "word_count":  1628,
+    "paragraph_count":  24,
+    "sentence_count":  90,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.406,
+                        "sentence_burstiness":  0.562,
+                        "top30_vocab_share":  0.27,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.406 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "32 Tahun 2021](https://migas.esdm.go.id/post/sosialisasi-permen-esdm-32-tahun-2021-simplifikasi-regulasi-inspeksi-teknis-dan-pemeriksaan-keselamatan-instalasi-migas) (diundangkan 17 November 2021), yang mengonsolidasikan Permen ESDM 18/2018 dan Kepmentamben 300K/1997.",
+                                      "candidate_score":  37,
+                                      "web_search_query":  "\"32 Tahun 2021](https://migas.esdm.go.id/post/sosialisasi-permen-esdm-32-tahun-2021-simplifikasi-regulasi-inspeksi-teknis\""
+                                  },
+                                  {
+                                      "passage":  "Truk GTM (*Gas Transportation Module*) tiba membawa CNG bertekanan hingga sekitar 250 bar; PRS lalu menurunkannya ke 0,8–1,5 bar sesuai kebutuhan alat, sebelum gas mengalir lewat pipa hilir.",
+                                      "candidate_score":  29,
+                                      "web_search_query":  "\"Truk GTM (*Gas Transportation Module*) tiba membawa CNG bertekanan hingga sekitar 250 bar; PRS lalu menurunkannya ke 0,8\""
+                                  },
+                                  {
+                                      "passage":  "Desain / engineering PRS | Basic design, tinjauan HSE, spesifikasi hilir | Penyedia | Jarang jadi penghambat | | 3.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Desain / engineering PRS | Basic design, tinjauan HSE, spesifikasi hilir | Penyedia | Jarang jadi penghambat | | 3.\""
+                                  },
+                                  {
+                                      "passage":  "Konstruksi PRS, pipa hilir, retrofit burner | Fondasi PRS, jalur pipa, penyesuaian alat | Penyedia + pembeli | Biasanya fase terpanjang | | 5.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Konstruksi PRS, pipa hilir, retrofit burner | Fondasi PRS, jalur pipa, penyesuaian alat | Penyedia + pembeli | Biasanya \""
+                                  },
+                                  {
+                                      "passage":  "Survei kelayakan \u0026 profil utilitas | Menilai kebutuhan kalori, alat, tata letak PRS | Penyedia + pembeli | Tergantung kompleksitas lokasi | | 2.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Survei kelayakan \u0026 profil utilitas | Menilai kebutuhan kalori, alat, tata letak PRS | Penyedia + pembeli | Tergantung ko\""
+                                  },
+                                  {
+                                      "passage":  "| Fase | Inti pekerjaan | PIC utama | Durasi relatif* | |---|---|---|---| | 1.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"| Fase | Inti pekerjaan | PIC utama | Durasi relatif* | |---|---|---|---| | 1.\""
+                                  },
+                                  {
+                                      "passage":  "Rekomendasi / izin keselamatan lokal | Dokumen HSE, koordinasi izin setempat | Pembeli (dibantu penyedia) | Paling variatif | | 4.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Rekomendasi / izin keselamatan lokal | Dokumen HSE, koordinasi izin setempat | Pembeli (dibantu penyedia) | Paling varia\""
+                                  },
+                                  {
+                                      "passage":  "# Timeline Instalasi \u0026 Commissioning CNG: Setelah Anda Memilih Perusahaan CNG Kontrak pasokan gas sudah diteken, tetapi boiler di pabrik belum menyala juga.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"# Timeline Instalasi \u0026 Commissioning CNG: Setelah Anda Memilih Perusahaan CNG Kontrak pasokan gas sudah diteken, tetapi \""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

@@ -1,0 +1,40 @@
+{
+  "month": "2026-09",
+  "committed": 15,
+  "skipped": [],
+  "docx_ok": [
+    "cng-indonesia-01",
+    "cng-indonesia-02",
+    "cng-indonesia-03",
+    "gasku-01",
+    "gasku-02",
+    "gasku-03",
+    "gaslink-01",
+    "gaslink-02",
+    "gaslink-03",
+    "perusahaan-cng-indonesia-01",
+    "perusahaan-cng-indonesia-02",
+    "perusahaan-cng-indonesia-03",
+    "perusahaan-lng-indonesia-01",
+    "perusahaan-lng-indonesia-02",
+    "perusahaan-lng-indonesia-03"
+  ],
+  "docx_fail": [],
+  "ids": [
+    "2026-09-cng-indonesia-13",
+    "2026-09-cng-indonesia-14",
+    "2026-09-cng-indonesia-15",
+    "2026-09-gasku-10",
+    "2026-09-gasku-11",
+    "2026-09-gasku-12",
+    "2026-09-gaslink-10",
+    "2026-09-gaslink-11",
+    "2026-09-gaslink-12",
+    "2026-09-perusahaan-cng-indonesia-16",
+    "2026-09-perusahaan-cng-indonesia-17",
+    "2026-09-perusahaan-cng-indonesia-18",
+    "2026-09-perusahaan-lng-indonesia-16",
+    "2026-09-perusahaan-lng-indonesia-17",
+    "2026-09-perusahaan-lng-indonesia-18"
+  ]
+}

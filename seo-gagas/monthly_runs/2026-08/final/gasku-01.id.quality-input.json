@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-08\\final\\gasku-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-11T14:40:31+07:00",
+    "word_count":  1605,
+    "paragraph_count":  29,
+    "sentence_count":  97,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.395,
+                        "sentence_burstiness":  0.729,
+                        "top30_vocab_share":  0.322,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.395 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "**Converter Kit bersertifikat:** komponen memenuhi standar (ISO 11439, SNI 7407-2009, SNI 7408-2009) dan didukung Surat Pertimbangan Teknis dari Kemenperin.",
+                                      "candidate_score":  29,
+                                      "web_search_query":  "\"**Converter Kit bersertifikat:** komponen memenuhi standar (ISO 11439, SNI 7407-2009, SNI 7408-2009) dan didukung Surat \""
+                                  },
+                                  {
+                                      "passage":  "Bagaimana Sistem Bahan Bakar Memengaruhi Pemasangan Sistem bahan bakar menentukan kerumitan pemasangan, bukan boleh-tidaknya konversi.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Bagaimana Sistem Bahan Bakar Memengaruhi Pemasangan Sistem bahan bakar menentukan kerumitan pemasangan, bukan boleh-tida\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apakah mobil diesel bisa pakai Gasku?",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apakah mobil diesel bisa pakai Gasku?\""
+                                  },
+                                  {
+                                      "passage":  "PGN bersama PT Gagas Energi Indonesia pernah menguji coba BBG pada tiga sepeda motor matik pada Maret 2023 dengan sistem *dual fuel*, mencatat rata-rata 38,7 km per LSP.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"PGN bersama PT Gagas Energi Indonesia pernah menguji coba BBG pada tiga sepeda motor matik pada Maret 2023 dengan sistem\""
+                                  },
+                                  {
+                                      "passage":  "## Kesimpulan Kelayakan Gasku pada akhirnya soal kecocokan teknis, bukan sekadar keinginan menghemat.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Kesimpulan Kelayakan Gasku pada akhirnya soal kecocokan teknis, bukan sekadar keinginan menghemat.\""
+                                  },
+                                  {
+                                      "passage":  "- **Kendaraan diesel murni.** Tanpa jalur DDF resmi, memaksakan CNG bukan pilihan yang benar.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"- **Kendaraan diesel murni.** Tanpa jalur DDF resmi, memaksakan CNG bukan pilihan yang benar.\""
+                                  },
+                                  {
+                                      "passage":  "\u003e **Ringkas:** Gasku adalah layanan bahan bakar gas (*Compressed Natural Gas*/CNG) dari PGN Gagas untuk sektor transportasi, disalurkan lewat jaringan SPBG dengan tekanan pengisian sekitar 200 bar.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"\u003e **Ringkas:** Gasku adalah layanan bahan bakar gas (*Compressed Natural Gas*/CNG) dari PGN Gagas untuk sektor transport\""
+                                  },
+                                  {
+                                      "passage":  "## Matriks Kompatibilitas: Kelas Kendaraan dan Verdict Secara ringkas: mobil penumpang bensin, MPV, pikap, serta armada seperti taksi, angkot, dan bus kota berbahan bakar bensin masuk kategori layak.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Matriks Kompatibilitas: Kelas Kendaraan dan Verdict Secara ringkas: mobil penumpang bensin, MPV, pikap, serta armada \""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

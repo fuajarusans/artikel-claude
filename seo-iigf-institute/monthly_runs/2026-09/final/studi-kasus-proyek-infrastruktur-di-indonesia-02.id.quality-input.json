@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-iigf-institute\\monthly_runs\\2026-09\\final\\studi-kasus-proyek-infrastruktur-di-indonesia-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-22T06:49:08+07:00",
+    "word_count":  1602,
+    "paragraph_count":  21,
+    "sentence_count":  76,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.46,
+                        "sentence_burstiness":  1.016,
+                        "top30_vocab_share":  0.329,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Begitu kompensasi diterima, seluruh dokumen studi kelayakan berikut hak kekayaan intelektualnya beralih menjadi milik Menteri, Kepala Lembaga, atau Kepala Daerah (Pasal 14 ayat (7) Perpres 38/2015).",
+                                      "candidate_score":  34,
+                                      "web_search_query":  "\"Begitu kompensasi diterima, seluruh dokumen studi kelayakan berikut hak kekayaan intelektualnya beralih menjadi milik Me\""
+                                  },
+                                  {
+                                      "passage":  "Statusnya dapat dilacak melalui SIPRABU (Sistem Informasi Proyek KPBU Atas Prakarsa Badan Usaha), portal resmi Kementerian PU (diakses 2026).",
+                                      "candidate_score":  31,
+                                      "web_search_query":  "\"Statusnya dapat dilacak melalui SIPRABU (Sistem Informasi Proyek KPBU Atas Prakarsa Badan Usaha), portal resmi Kementeri\""
+                                  },
+                                  {
+                                      "passage":  "Proyek Kerja Sama Pemerintah dengan Badan Usaha yang inisiatifnya diajukan oleh Badan Usaha kepada Menteri, Kepala Lembaga, atau Kepala Daerah, menurut definisi resmi Kementerian Keuangan (diakses 2026).",
+                                      "candidate_score":  31,
+                                      "web_search_query":  "\"Proyek Kerja Sama Pemerintah dengan Badan Usaha yang inisiatifnya diajukan oleh Badan Usaha kepada Menteri, Kepala Lemba\""
+                                  },
+                                  {
+                                      "passage":  "## Menguji jalur prakarsa pada SPAM Regional Karian–Serpong SPAM (Sistem Penyediaan Air Minum) Regional Karian–Serpong menunjukkan jalur prakarsa yang berjalan penuh sampai perjanjian kerja sama.",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"## Menguji jalur prakarsa pada SPAM Regional Karian–Serpong SPAM (Sistem Penyediaan Air Minum) Regional Karian–Serpong m\""
+                                  },
+                                  {
+                                      "passage":  "[Publikasi Kementerian PU](https://pembiayaan.pu.go.id/news/detail/274/SPAM-Karian-Serpong-Wilayah-Kota-Tangerang-Zona-2-dan-Zona-3-Dilanjutkan) menyebutnya \"salah satu Proyek Strategis Nasional dan proyek yang diselenggarakan melalui skema KPBU atas prakarsa Badan Usaha\", dengan kapasitas 4.600 liter per detik (publikasi 2021).",
+                                      "candidate_score":  29,
+                                      "web_search_query":  "\"[Publikasi Kementerian PU](https://pembiayaan.pu.go.id/news/detail/274/SPAM-Karian-Serpong-Wilayah-Kota-Tangerang-Zona-2\""
+                                  },
+                                  {
+                                      "passage":  "Naskah Pasal 14 Perpres 38/2015 sebagaimana dihimpun basis data hukum memuat tiga bentuk kompensasi yang bersifat alternatif: dipilih salah satu, tidak diberikan sekaligus.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Naskah Pasal 14 Perpres 38/2015 sebagaimana dihimpun basis data hukum memuat tiga bentuk kompensasi yang bersifat altern\""
+                                  },
+                                  {
+                                      "passage":  "Status pemrakarsa tidak menggantikan lelang, karena Perpres 38/2015 (status berlaku per 2026) tetap mewajibkan pengadaan Badan Usaha Pelaksana secara kompetitif.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"Status pemrakarsa tidak menggantikan lelang, karena Perpres 38/2015 (status berlaku per 2026) tetap mewajibkan pengadaan\""
+                                  },
+                                  {
+                                      "passage":  "Karena itu, sebelum dipakai dalam dokumen resmi, rumusannya sebaiknya ditelusuri langsung ke naskah Perpres 38/2015 yang berstatus berlaku per 2026 menurut basis data JDIH peraturan.bpk.go.id.",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"Karena itu, sebelum dipakai dalam dokumen resmi, rumusannya sebaiknya ditelusuri langsung ke naskah Perpres 38/2015 yang\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

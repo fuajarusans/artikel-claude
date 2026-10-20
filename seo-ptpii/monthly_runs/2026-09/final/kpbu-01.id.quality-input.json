@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-ptpii\\monthly_runs\\2026-09\\final\\kpbu-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-21T11:31:47+07:00",
+    "word_count":  1807,
+    "paragraph_count":  27,
+    "sentence_count":  108,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.374,
+                        "sentence_burstiness":  0.711,
+                        "top30_vocab_share":  0.309,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.374 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Perpres 38/2015 berstatus berlaku dan belum dicabut, sebagaimana tercatat pada basis data Direktorat Jenderal Peraturan Perundang-undangan ([peraturan.go.id](https://peraturan.go.id/id/perpres-no-38-tahun-2015), diakses September 2026).",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"Perpres 38/2015 berstatus berlaku dan belum dicabut, sebagaimana tercatat pada basis data Direktorat Jenderal Peraturan \""
+                                  },
+                                  {
+                                      "passage":  "- **Pasal 5 ayat (5)** memberi Menteri PPN/Bappenas kewenangan menetapkan jenis infrastruktur lain di luar 19 jenis tersebut.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"- **Pasal 5 ayat (5)** memberi Menteri PPN/Bappenas kewenangan menetapkan jenis infrastruktur lain di luar 19 jenis ters\""
+                                  },
+                                  {
+                                      "passage":  "[BPJT](https://bpjt.pu.go.id/faq/apa-perbedaan-kpbu-ap-availability-payment-dengan-kpbu-berbasis-tarif/) (2026) membedakan KPBU berbasis tarif, ketika BUJT menerima pendapatan tol, dari KPBU Availability Payment, ketika pemerintah membayar badan usaha secara berkala.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"[BPJT](https://bpjt.pu.go.id/faq/apa-perbedaan-kpbu-ap-availability-payment-dengan-kpbu-berbasis-tarif/) (2026) membedak\""
+                                  },
+                                  {
+                                      "passage":  "35 Tahun 2018 tentang percepatan pengolahan sampah menjadi energi listrik tercatat hanya menghasilkan dua proyek PSEL nasional sepanjang 2018–2025, sebelum dicabut dan digantikan Perpres No.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"35 Tahun 2018 tentang percepatan pengolahan sampah menjadi energi listrik tercatat hanya menghasilkan dua proyek PSEL na\""
+                                  },
+                                  {
+                                      "passage":  "- **Pasal 5 ayat (4)** membolehkan sarana komersial diikutsertakan untuk menaikkan kelayakan proyek.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"- **Pasal 5 ayat (4)** membolehkan sarana komersial diikutsertakan untuk menaikkan kelayakan proyek.\""
+                                  },
+                                  {
+                                      "passage":  "Availability Payment atau Pembayaran Ketersediaan Layanan adalah bentuk pengembalian investasi badan usaha ketika PJPK membayar secara berkala setelah infrastruktur beroperasi sesuai persyaratan perjanjian (Perpres 38/2015).",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Availability Payment atau Pembayaran Ketersediaan Layanan adalah bentuk pengembalian investasi badan usaha ketika PJPK m\""
+                                  },
+                                  {
+                                      "passage":  "Eligibilitasnya tegas di Pasal 5 ayat (2) huruf i, tetapi jalur pengadaan yang dominan di lapangan adalah IPP, bukan kontrak KPBU dengan PJPK.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Eligibilitasnya tegas di Pasal 5 ayat (2) huruf i, tetapi jalur pengadaan yang dominan di lapangan adalah IPP, bukan kon\""
+                                  },
+                                  {
+                                      "passage":  "38 Tahun 2015 mengelompokkan objek KPBU menjadi infrastruktur ekonomi dan infrastruktur sosial, dengan total 19 jenis, dari jalan, air minum, dan ketenagalistrikan hingga persampahan, kesehatan, dan perumahan rakyat.",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"38 Tahun 2015 mengelompokkan objek KPBU menjadi infrastruktur ekonomi dan infrastruktur sosial, dengan total 19 jenis, d\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

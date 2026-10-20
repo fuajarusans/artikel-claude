@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07-2\\final\\cng-indonesia-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-08T09:55:31+07:00",
+    "word_count":  1599,
+    "paragraph_count":  27,
+    "sentence_count":  88,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.503,
+                        "sentence_burstiness":  0.662,
+                        "top30_vocab_share":  0.257,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "**Mitos 4: \"Isi ulang susah.\" Dulu benar, kini membaik.** Pada 2011–2013, jumlah Stasiun Pengisian Bahan Bakar Gas (SPBG) memang sangat terbatas dan pasokan *converter kit* dibatasi kapasitas produksi.",
+                                      "candidate_score":  33,
+                                      "web_search_query":  "\"**Mitos 4:  Isi ulang susah.  Dulu benar, kini membaik.** Pada 2011–2013, jumlah Stasiun Pengisian Bahan Bakar Gas (SPBG\""
+                                  },
+                                  {
+                                      "passage":  "- **Suhu penyalaan tinggi.** Sekitar 540°C untuk menyala sendiri, sementara bensin sudah bisa tersulut di kisaran 280–315°C (angka rentang teknis industri CNG/NGV, bukan regulasi ESDM).",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"- **Suhu penyalaan tinggi.** Sekitar 540°C untuk menyala sendiri, sementara bensin sudah bisa tersulut di kisaran 280–31\""
+                                  },
+                                  {
+                                      "passage":  "## Mitos 2–4: Tenaga Turun, Sama dengan LPG, dan Isi Ulang Susah Ketiga mitos ini punya derajat kebenaran yang berbeda, dan justru di sinilah kejujuran penting.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"## Mitos 2–4: Tenaga Turun, Sama dengan LPG, dan Isi Ulang Susah Ketiga mitos ini punya derajat kebenaran yang berbeda, \""
+                                  },
+                                  {
+                                      "passage":  "## Mitos 5–7: Hanya untuk Bus/Truk, Boros Perawatan, dan Tak Ramah Lingkungan Tiga mitos terakhir gugur begitu kita melihat data lintas skala dan mekanisme pembakaran.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"## Mitos 5–7: Hanya untuk Bus/Truk, Boros Perawatan, dan Tak Ramah Lingkungan Tiga mitos terakhir gugur begitu kita meli\""
+                                  },
+                                  {
+                                      "passage":  "## Fakta yang Juga Perlu Diakui: Di Mana CNG Memang Punya Keterbatasan Kejujuran soal keterbatasan justru memperkuat, bukan melemahkan, gambaran utuh CNG.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"## Fakta yang Juga Perlu Diakui: Di Mana CNG Memang Punya Keterbatasan Kejujuran soal keterbatasan justru memperkuat, bu\""
+                                  },
+                                  {
+                                      "passage":  "Kini model distribusi *beyond-pipeline* seperti *Gas Transportation Module* (GTM) mengantarkan CNG ke lokasi tanpa jaringan pipa.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Kini model distribusi *beyond-pipeline* seperti *Gas Transportation Module* (GTM) mengantarkan CNG ke lokasi tanpa jarin\""
+                                  },
+                                  {
+                                      "passage":  "Menurut Dirjen Migas, harganya ditargetkan setara LPG bersubsidi, tapi ini target uji coba, belum harga final.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Menurut Dirjen Migas, harganya ditargetkan setara LPG bersubsidi, tapi ini target uji coba, belum harga final.\""
+                                  },
+                                  {
+                                      "passage":  "## Kesimpulan Sebagian besar keraguan soal CNG bersumber dari cerita, bukan mekanisme.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Kesimpulan Sebagian besar keraguan soal CNG bersumber dari cerita, bukan mekanisme.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-10\\final\\cng-indonesia-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-28T19:43:21+07:00",
+    "word_count":  1523,
+    "paragraph_count":  21,
+    "sentence_count":  78,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.361,
+                        "sentence_burstiness":  0.697,
+                        "top30_vocab_share":  0.335,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.361 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Target awal 52 lokasi (~1.697 MW); per pembaruan ESDM Januari 2024, yang terpantau berjalan mencakup 27 PLTMG berkapasitas sekitar 2.269 MW, dikerjakan bertahap hingga akhir 2026.",
+                                      "candidate_score":  34,
+                                      "web_search_query":  "\"Target awal 52 lokasi (~1.697 MW); per pembaruan ESDM Januari 2024, yang terpantau berjalan mencakup 27 PLTMG berkapasit\""
+                                  },
+                                  {
+                                      "passage":  "**Program gasifikasi pembangkit PLN.** Target awal Kepmen ESDM 13/2020 adalah 52 lokasi PLTD (~1.697 MW, kebutuhan gas 167 BBTUD) dikonversi ke gas, dengan Pertamina memasok gasnya.",
+                                      "candidate_score":  29,
+                                      "web_search_query":  "\"**Program gasifikasi pembangkit PLN.** Target awal Kepmen ESDM 13/2020 adalah 52 lokasi PLTD (~1.697 MW, kebutuhan gas 1\""
+                                  },
+                                  {
+                                      "passage":  "Cakupannya berubah tiap laporan; per pembaruan resmi ESDM Januari 2024, yang terpantau berjalan mencakup 27 PLTMG berkapasitas sekitar 2.269 MW.",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"Cakupannya berubah tiap laporan; per pembaruan resmi ESDM Januari 2024, yang terpantau berjalan mencakup 27 PLTMG berkap\""
+                                  },
+                                  {
+                                      "passage":  "Contohnya kapal CNG Jayanti Baruna, yang membawa muatan perdana 23,38 juta kaki kubik dari Gresik ke PLTMGU Lombok Peaker pada September 2024.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Contohnya kapal CNG Jayanti Baruna, yang membawa muatan perdana 23,38 juta kaki kubik dari Gresik ke PLTMGU Lombok Peake\""
+                                  },
+                                  {
+                                      "passage":  "PLN sudah memakai *Compressed Natural Gas* (CNG) sebagai bahan bakar pembangkit sejak 2013, dimulai di Batam berkapasitas 6 MW, lalu meluas ke Gresik, Bawean, dan Lombok (Kementerian ESDM).",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"PLN sudah memakai *Compressed Natural Gas* (CNG) sebagai bahan bakar pembangkit sejak 2013, dimulai di Batam berkapasita\""
+                                  },
+                                  {
+                                      "passage":  "## Bagaimana Gas Menggantikan Diesel: PLTMG, Dual-Fuel, dan Gasifikasi Ada tiga jalur.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Bagaimana Gas Menggantikan Diesel: PLTMG, Dual-Fuel, dan Gasifikasi Ada tiga jalur.\""
+                                  },
+                                  {
+                                      "passage":  "PLN memilihnya untuk grid Maluku-Papua yang tak terinterkoneksi (detikFinance, 2017); contohnya PLTMG Luwuk 40 MW di Sulawesi Tengah.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"PLN memilihnya untuk grid Maluku-Papua yang tak terinterkoneksi (detikFinance, 2017); contohnya PLTMG Luwuk 40 MW di Sul\""
+                                  },
+                                  {
+                                      "passage":  "PLN memakai *Compressed Natural Gas* (CNG) sebagai bahan bakar pembangkit sejak 2013, dimulai di Batam, lalu meluas ke Gresik, Bawean, dan Lombok.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"PLN memakai *Compressed Natural Gas* (CNG) sebagai bahan bakar pembangkit sejak 2013, dimulai di Batam, lalu meluas ke G\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

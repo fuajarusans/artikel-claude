@@ -1,0 +1,213 @@
+{
+  "keyword": "Sertifikasi KPBU",
+  "keyword_slug": "sertifikasi-kpbu",
+  "month": "2026-09",
+  "captured_at": "2026-09-17",
+  "landing_page": "https://institute.iigf.co.id/",
+  "landing_page_summary": "Homepage IIGF Institute, di-fetch ulang 2026-09-17. Title tag masih 'Sertifikasi KPBU Resmi & Profesional | IIGF Institute' — hub menargetkan frasa ini secara langsung. Halaman sebagian berperilaku sebagai portal login (email/password, 'Daftar', lupa kata sandi). Blok program yang tampil: eksplorasi kursus CP3P, capacity building, e-library, riset/publikasi. Tidak ada perubahan struktural dibanding tangkapan Agustus 2026.",
+  "data_sources_used": [
+    "august_research_cache (monthly_runs/2026-08/research/sertifikasi-kpbu.research.json)",
+    "august_dossiers (monthly_runs/2026-08/dossiers/sertifikasi-kpbu-01..04.dossier.md)",
+    "articles_history/index.json (12 artikel Agustus 2026)",
+    "webfetch_apmg_ppp_certification_faqs",
+    "webfetch_apmg_ppp_certification_certification_page",
+    "webfetch_landing_page",
+    "google_autocomplete_suggest_api (hl=id, gl=id)",
+    "websearch (2 kueri — anggaran/kompetensi ASN)"
+  ],
+  "ahrefs_available": false,
+  "seo_report": "none",
+  "websearch_budget": {
+    "cap": 12,
+    "used": 2,
+    "note": "Kuota ditekan sesuai instruksi orkestrator. Mayoritas fakta diambil lewat WebFetch langsung ke APMG + cache/dosir Agustus yang sudah terverifikasi."
+  },
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Head-term 'sertifikasi kpbu' tetap tipis (Agustus: hanya 2 saran autocomplete). Temuan BARU September: klaster niat di sekitarnya justru kaya. Seed 'cp3p exam' mengembalikan 9 saran termasuk 'cp3p exam fees', 'cp3p exam cost', 'cp3p foundation exam questions', 'cp3p foundation exam questions pdf', 'cp3p preparation exam sample' — permintaan nyata soal BIAYA dan POLA SOAL. Seed 'masa berlaku sertifikat kompetensi' mengembalikan 10 saran (BNSP, SKK konstruksi, tenaga kesehatan) — pembaca Indonesia punya model mental kuat bahwa sertifikat KEDALUWARSA. Seed 'simpul kpbu' 10 saran. Sebaliknya 'biaya pelatihan cp3p' = 0 saran (konsisten dengan 'biaya cp3p' = 0 pada Agustus): pertanyaan diketik tapi belum terlayani konten mapan.",
+    "report_rank": "n/a (seo_report: none)"
+  },
+  "serp": {
+    "capture_note": "Google Search memblokir WebFetch langsung (sama seperti Agustus). SERP tidak di-scrape ulang bulan ini; lanskap Agustus dipakai sebagai basis karena keyword, hub, dan pesaing tidak berubah dalam satu siklus bulanan. Yang DIPERBARUI bulan ini adalah data kueri riil via Google Autocomplete (hl=id, gl=id) dan verifikasi ulang fakta primer ke APMG.",
+    "top_10_carried_from_august": [
+      { "url": "https://bnsp.go.id/", "title": "BNSP - Badan Nasional Sertifikasi Profesi", "angle_summary": "Lembaga sertifikasi profesi nasional; tidak membahas KPBU — muncul karena kata 'sertifikasi'." },
+      { "url": "https://www.ahlikpbuindonesia.or.id/", "title": "Perkumpulan Ahli Profesional KPBU Indonesia (PAP-KPBU)", "angle_summary": "Satu-satunya pemain benar-benar topikal: berita pelatihan & uji sertifikasi skema Ahli Pratama KPBU, LSP KPBU terlisensi BNSP. Format berita, bukan artikel penjelas." },
+      { "url": "https://institute.iigf.co.id/", "title": "Sertifikasi KPBU Resmi & Profesional | IIGF Institute", "angle_summary": "Hub klien sendiri; title tag menargetkan keyword persis." },
+      { "url": "https://sertifikat.co.id/", "title": "Pelatihan & Sertifikasi Kompetensi Resmi BNSP", "angle_summary": "Agregator pelatihan BNSP lintas skema; generik, tanpa konten KPBU." },
+      { "url": "https://klc2.kemenkeu.go.id/sertifikasi/", "title": "Sertifikasi — KLC Kemenkeu", "angle_summary": "Katalog sertifikasi internal Kemenkeu; bukan KPBU." }
+    ],
+    "serp_features": ["paa_tidak_terbaca (Google memblokir WebFetch)", "ai_overview_tidak_terverifikasi", "autocomplete_suggestions_terverifikasi"],
+    "ai_overview_entities": [
+      "Belum terverifikasi langsung. Entitas yang konsisten dikutip mesin AI untuk topik ini: KPBU (Kerja Sama Pemerintah dengan Badan Usaha), CP3P (Certified Public-Private Partnership Professional), APMG International, Accredited Training Organization (ATO), PPP Guide, IIGF Institute, PT Penjaminan Infrastruktur Indonesia (Persero), BNSP, LSP KPBU, PAP-KPBU, Panel Ahli KPBU, Bappenas, simpul KPBU."
+    ],
+    "gap_headline_september": "Klaster Agustus sudah menutup empat celah besar (peta tiga kategori, jalur nasional vs internasional, alur tiga level, kapan belum perlu). Celah yang MASIH kosong di seluruh SERP berbahasa Indonesia dan menjadi dasar batch September: (1) pemetaan level ke PERAN PEKERJAAN — belum ada satu pun halaman yang menjawab 'saya ASN di simpul KPBU, level mana yang relevan'; (2) PENGANGGARAN instansi — autocomplete 'biaya pelatihan cp3p' kosong, padahal 'cp3p exam cost/fees' ada, artinya sisi anggaran institusi sama sekali tidak terlayani; (3) CARA BELAJAR dan pola soal — permintaan besar ('cp3p foundation exam questions pdf') dijawab pasar dengan bank soal, bukan strategi belajar yang sah; (4) APA SETELAH LULUS — pembaca Indonesia mengasumsikan sertifikat kedaluwarsa (autocomplete kaya soal masa berlaku), padahal APMG menyatakan tidak ada kewajiban resertifikasi; kesenjangan asumsi ini belum pernah dijelaskan."
+  },
+  "paa": [
+    "CATATAN: Google memblokir pengambilan PAA verbatim. Daftar di bawah diturunkan dari data kueri RIIL Google Autocomplete (hl=id, gl=id) yang ditangkap 2026-09-17 + tangkapan Agustus. Tidak dikarang.",
+    "Berapa biaya ujian CP3P? (autocomplete: 'cp3p exam fees', 'cp3p exam cost')",
+    "Seperti apa soal ujian CP3P Foundation? (autocomplete: 'cp3p foundation exam questions', 'cp3p foundation exam questions pdf')",
+    "Apakah ada contoh soal ujian Preparation CP3P? (autocomplete: 'cp3p preparation exam sample')",
+    "Berapa masa berlaku sertifikat kompetensi? (autocomplete: 'masa berlaku sertifikat kompetensi', 'masa berlaku sertifikat kompetensi bnsp', 'masa berlaku sertifikat kompetensi kerja')",
+    "Apa itu simpul KPBU? (autocomplete: 'simpul kpbu adalah', 'tim simpul kpbu', 'sk simpul kpbu')",
+    "Apa itu PPP Guide APMG? (autocomplete: 'ppp guide apmg', 'ppp guide for practitioners')",
+    "Pengembangan kompetensi ASN minimal berapa JP? (autocomplete: 'pengembangan kompetensi asn minimal berapa jp', 'pengembangan kompetensi asn 20 jp')",
+    "Pengembangan kompetensi ASN diatur dalam apa? (autocomplete: 'pengembangan kompetensi asn diatur dalam')",
+    "Apa itu sertifikasi ahli KPBU? (autocomplete Agustus: 'sertifikasi ahli kpbu', 'sertifikat ahli kpbu')",
+    "Bagaimana cara menjadi ahli KPBU? (autocomplete Agustus: 0 saran — pertanyaan diketik, konten belum mapan)",
+    "Apakah KPBU dan PPP sama? (autocomplete Agustus: 'apakah kpbu dan ppp sama', 'perbedaan kpbu dan ppp')"
+  ],
+  "autocomplete_raw_september": {
+    "cp3p exam": ["cp3p exam", "cp3p exam fees", "cp3p exam cost", "cp3p foundation exam questions", "cp3p foundation exam", "cp3p foundation exam questions pdf", "cp3p preparation exam", "cp3p preparation exam sample", "apmg cp3p exam"],
+    "biaya pelatihan cp3p": [],
+    "masa berlaku sertifikat kompetensi": ["masa berlaku sertifikat kompetensi", "masa berlaku sertifikat kompetensi apoteker", "masa berlaku sertifikat kompetensi perawat", "masa berlaku sertifikat kompetensi penyelia halal", "masa berlaku sertifikat kompetensi bnsp", "masa berlaku sertifikat kompetensi dokter", "masa berlaku sertifikat kompetensi bidan", "masa berlaku sertifikat kompetensi kerja skk konstruksi adalah", "masa berlaku sertifikat kompetensi jabatan fungsional penata pertanahan", "masa berlaku sertifikat kompetensi kerja"],
+    "ppp guide": ["ppp guidelines", "ppp guide", "ppp guide apmg", "ppp guidelines australia", "ppp guidelines 2023", "ppp guideline", "ppp guidelines sri lanka", "ppp guidelines india", "ppp guidelines uganda", "ppp guide for practitioners"],
+    "simpul kpbu": ["simpul kpbu", "simpul kpbu adalah", "simpul kpbu pu go id", "simpul kpbu jawa barat", "simpul kpbu pupr", "simpul kpbu dki jakarta", "simpul kpbu kementerian pu", "simpul kpbu jawa timur", "sk simpul kpbu", "tim simpul kpbu"],
+    "pengembangan kompetensi asn": ["pengembangan kompetensi asn", "pengembangan kompetensi asn merupakan", "pengembangan kompetensi asn merupakan bagian dari", "pengembangan kompetensi asn terintegrasi dengan hal berikut kecuali", "pengembangan kompetensi asn bertujuan utama untuk", "pengembangan kompetensi asn minimal berapa jp", "pengembangan kompetensi asn diatur dalam", "pengembangan kompetensi asn berapa jp", "pengembangan kompetensi asn 20 jp", "pengembangan kompetensi asn terintegrasi dengan hal berikut"]
+  },
+  "cp3p_facts_confirmed": {
+    "verification_note": "Di-fetch ulang langsung ke APMG pada 2026-09-17 (ppp-certification.com/faqs dan ppp-certification.com/certification). Fakta di bawah konsisten dengan dosir Agustus, dengan DUA tambahan baru dan SATU koreksi nuansa.",
+    "pemilik_program": "APMG International — memiliki, menguji, dan menganugerahkan kredensial CP3P",
+    "peran_iigf_institute": "Accredited Training Organization (ATO) APMG pertama di Indonesia sejak 2019; MENYELENGGARAKAN PELATIHAN, bukan pemilik/pemberi kredensial",
+    "pengembang_kerangka": "AfDB, ADB, EBRD, IDB, IsDB, World Bank Group; part-funded oleh PPIAF (Rule 6 company_profile.md). Halaman produk APMG menampilkan logo mitra: World Bank, African Development Bank, ADB, EBRD, IDB, Islamic Development Bank, PPIAF, dan African Legal Support Facility — kehadiran AfDB TERKONFIRMASI ulang 2026-09-17. JANGAN pakai MIF; JANGAN hapus AfDB.",
+    "kredensial_penuh_verbatim": "It is mandatory for candidates to pass all three exams of the CP3P pathway in order to achieve the CP3P Credential and be called a Certified PPP Professional. (ppp-certification.com/certification, diakses 2026-09-17)",
+    "prasyarat_verbatim": "in order to be eligible to take the Preparation and/or Execution exams, you must have already passed the Foundation exam. (ppp-certification.com/faqs, diakses 2026-09-17). Preparation TIDAK wajib sebelum Execution — keduanya terbuka setelah Foundation lulus.",
+    "format_ujian": {
+      "Foundation": "50 soal pilihan ganda, 40 menit, ambang lulus 50% (25 dari 50 poin)",
+      "Preparation": "4 soal (complex multiple choice) masing-masing 20 poin, 2,5 jam, ambang lulus 50% (40 dari 80 poin)",
+      "Execution": "4 soal (complex multiple choice) masing-masing 20 poin, 2,5 jam, ambang lulus 50% (40 dari 80 poin)",
+      "sumber": "ppp-certification.com/faqs, diakses 2026-09-17 (identik dengan tangkapan 2026-08-12 — stabil)",
+      "catatan_penting": "APMG menyebut format Practitioner sebagai 'complex multiple choice', BUKAN esai bebas. Dosir Agustus sempat menulis 'soal esai' di beberapa tempat. Untuk September gunakan rumusan 'soal kompleks berbasis skenario (complex multiple choice)' dan hindari kata 'esai'."
+    },
+    "pemetaan_bab_ppp_guide": {
+      "Foundation": "Glossary + Bab 1",
+      "Preparation": "Bab 2 sampai Bab 5",
+      "Execution": "Bab 5–8 (versi 1) ATAU Bab 5–7 (versi 2) — TERGANTUNG VERSI UJIAN/EDISI PPP Guide",
+      "catatan_wajib": "Perbedaan versi Execution DIKONFIRMASI EKSPLISIT di dua halaman APMG pada 2026-09-17. company_profile.md menulis 'Bab 5–8' saja. Penulis WAJIB menyebut kedua kemungkinan atau memakai deskripsi fungsional ('strukturisasi, tender, manajemen kontrak'), dan TIDAK menyatakan satu angka tunggal sebagai fakta mutlak."
+    },
+    "isi_delapan_bab_ppp_guide": {
+      "Bab 1": "PPP Introduction and Overview",
+      "Bab 2": "Establishing a PPP Framework",
+      "Bab 3": "Project Identification and PPP Screening",
+      "Bab 4": "Appraising PPP Projects",
+      "Bab 5": "Structuring and Drafting the Tender and Contract",
+      "Bab 6": "Tendering and Awarding the Contract",
+      "Bab 7": "Strategy, Delivery and Commissioning",
+      "Bab 8": "Operations and Hand-Back",
+      "sumber": "dosir Agustus sertifikasi-kpbu-03 (diakses 2026-08-12)",
+      "catatan": "Judul bab berbahasa Inggris. Peneliti sebaiknya mengonfirmasi ulang judul Bab 7 pada naskah PPP Guide resmi sebelum dikutip kata demi kata."
+    },
+    "target_audiens_per_level_verbatim": {
+      "Foundation": "individuals working at a basic level of PPP implementation, with little or no prior experience",
+      "Preparation": "involved in the development or implementation of PPP Frameworks — pejabat sektor publik, praktisi, penasihat, dan konsultan",
+      "Execution": "structuring and tendering of PPP projects and the management of PPP contracts",
+      "sumber": "ppp-certification.com/certification, diakses 2026-09-17",
+      "kegunaan": "Ini tulang punggung brief -01 (pemetaan per peran). Rumusan APMG sendiri, bukan tafsiran."
+    },
+    "TEMUAN_BARU_1_materi_belajar_gratis": {
+      "klaim": "PPP Guide tersedia sebagai unduhan GRATIS; APMG juga menyediakan kursus daring gratis HANYA untuk level Foundation.",
+      "verbatim": "The PPP Guide is 'available as a free download'. There is a 'free online training course' for Foundation level. 'There is no free online training course for the Preparation and Execution exam levels.'",
+      "sumber": "ppp-certification.com/faqs, diakses 2026-09-17",
+      "mengapa_penting": "Fakta ini BELUM PERNAH dipakai di klaster Agustus. Ia menjadi inti brief -03 (strategi belajar) dan pendukung brief -02 (penganggaran): ada jalur belajar bermodal nol untuk Foundation, dan tidak ada untuk dua level Practitioner — yang menjelaskan mengapa anggaran pelatihan menumpuk di level lanjutan.",
+      "confidence": "high (verbatim dari halaman FAQ resmi APMG)"
+    },
+    "TEMUAN_BARU_2_tidak_ada_resertifikasi": {
+      "klaim": "Tidak ada kewajiban resertifikasi setiap kali PPP Guide diperbarui; tidak ada masa kedaluwarsa yang disebutkan.",
+      "verbatim": "There is no requirement to get recertified every time the PPP Guide is updated.",
+      "sumber": "ppp-certification.com/faqs, diakses 2026-09-17",
+      "status_verifikasi": "Naik dari medium (Agustus, satu kali akses) menjadi TERKONFIRMASI ULANG pada akses kedua yang terpisah sebulan. TETAP hindari rumusan absolut 'berlaku selamanya' — yang dinyatakan APMG adalah tidak adanya kewajiban resertifikasi, bukan jaminan keabadian.",
+      "mengapa_penting": "Inti brief -04. Beradu langsung dengan model mental pembaca Indonesia (autocomplete 'masa berlaku sertifikat kompetensi' sangat kaya: BNSP, SKK konstruksi, tenaga kesehatan — semuanya berbasis masa berlaku). Ketegangan yang sah: kredensial tidak kedaluwarsa, tetapi PPP Guide DIPERBARUI (bukti: Execution v1 Bab 5–8 vs v2 Bab 5–7)."
+    },
+    "biaya_indikatif_2026": {
+      "Foundation": "Rp 19.000.000 (indikatif, per publikasi 2026)",
+      "Preparation": "Rp 21.000.000 (indikatif, per publikasi 2026)",
+      "Execution": "Rp 21.000.000 (indikatif, per publikasi 2026)",
+      "total_jalur_penuh": "Rp 61.000.000 (indikatif, per publikasi 2026) — penjumlahan ketiga level; WAJIB ditulis sebagai indikatif + tahun, dan disebut sebagai paket bundling kursus + ujian yang bergantung metode pelaksanaan",
+      "aturan_penulisan": "SELALU label 'indikatif' + tahun rujukan + arahkan ke halaman resmi. Angka telanjang = editor fail.",
+      "larangan": "JANGAN kutip tanggal batch/jadwal kelas dari institute.iigf.co.id — halaman-halamannya saling bertentangan (hub 2026, halaman Execution masih 2024)."
+    },
+    "durasi_pelatihan_indikatif": "Foundation ±2 hari (termasuk ujian); Preparation dan Execution masing-masing ±5 hari. Sumber: dosir Agustus; bersifat indikatif dan bergantung penyelenggara.",
+    "pendaftaran_ujian": "Pelatihan (oleh ATO) dan pendaftaran ujian (via APMG Candidate Portal, tautan 'Book Your Exam') adalah dua proses TERPISAH; ujian dapat dijadwalkan hingga satu tahun ke depan. Sumber: dosir Agustus 2026-08-12 — peneliti sebaiknya konfirmasi ulang jendela satu tahun tersebut.",
+    "bentuk_kredensial": "Lencana digital (digital badge) dan e-certificate melalui APMG Candidate Portal. Confidence: medium — belum dikonfirmasi silang; peneliti wajib verifikasi sebelum dipakai."
+  },
+  "konteks_regulasi_indonesia": {
+    "permen_ppn_7_2023": {
+      "status": "TERVERIFIKASI VERBATIM pada Agustus 2026 dari salinan resmi (Berita Negara RI 2023 No. 777). Ditetapkan 22 September 2023; diundangkan dan berlaku 29 September 2023.",
+      "pasal": "Pasal 13 ayat (7)",
+      "cakupan_sempit_WAJIB_DIJAGA": "Hanya mengikat tenaga ahli yang dipekerjakan oleh KONSULTAN BADAN USAHA atau KONSULTAN PERORANGAN yang membantu simpul KPBU. BUKAN kewajiban umum bagi semua ASN, dan BUKAN kewajiban bagi semua badan usaha pelaksana. Salah menggeneralisasi ketentuan ini = kegagalan faktual serius.",
+      "pemakaian_september": "Di brief -01 dipakai untuk menjawab 'apakah ketentuan ini mengenai peran saya', BUKAN untuk memperkenalkan ulang regulasinya sebagai kabar baru (itu sudah dilakukan artikel Agustus -01)."
+    },
+    "pengembangan_kompetensi_asn": {
+      "klaim": "Pengembangan kompetensi ASN diatur sebagai kewajiban dalam UU No. 20 Tahun 2023 tentang ASN (rujukan yang beredar: Pasal 49); ambang 20 jam pelajaran (JP) per tahun berakar pada PP No. 11 Tahun 2017 sebagaimana diubah PP No. 17 Tahun 2020 (rujukan yang beredar: Pasal 203).",
+      "status": "BELUM DIVERIFIKASI PADA NASKAH PRIMER. Seluruh temuan berasal dari sumber sekunder (BKN, portal instansi, media). PENELITI WAJIB membuka naskah resmi di peraturan.bpk.go.id dan/atau bkn.go.id untuk memastikan nomor pasal, angka 20 JP, dan status 'hak' versus 'kewajiban' sebelum dipakai.",
+      "mengapa_penting": "Menjadi jangkar institusional brief -02: sertifikasi bukan pengeluaran liar, melainkan bagian dari kewajiban pengembangan kompetensi yang sudah punya dasar hukum dan pos anggaran.",
+      "nuansa": "Sumber sekunder menyebut pergeseran dari 'hak' (UU 5/2014) menjadi 'kewajiban' (UU 20/2023). Nuansa ini menarik tetapi WAJIB diverifikasi; jangan tulis tanpa konfirmasi naskah primer."
+    },
+    "standar_biaya_masukan": {
+      "klaim": "PMK No. 32 Tahun 2025 tentang Standar Biaya Masukan (SBM) Tahun Anggaran 2026 — acuan penyusunan RKA-K/L. Ditetapkan 14 Mei 2025; diundangkan dan berlaku 20 Mei 2025. SBM terbagi dua sifat: batas tertinggi (tidak boleh dilampaui kecuali keadaan tertentu) dan dapat dilampaui dengan syarat.",
+      "status": "BELUM DIVERIFIKASI PADA NASKAH PRIMER (sumber sekunder: JDIH kementerian, portal perencanaan kampus, penyelenggara bimtek). PENELITI WAJIB membuka naskah PMK di jdih.kemenkeu.go.id sebelum angka/tanggal dipakai.",
+      "mengapa_penting": "Tulang punggung brief -02. Menjelaskan mengapa biaya sertifikasi internasional tidak selalu cocok dengan pos SBM standar dan perlu perencanaan lintas tahun anggaran.",
+      "kehati_hatian": "JANGAN menulis seolah CP3P punya pos khusus di SBM. Yang boleh ditulis: SBM adalah kerangka acuan penyusunan RKA-K/L, dan biaya pelatihan bersertifikasi internasional perlu dipetakan ke mekanisme anggaran yang berlaku di instansi masing-masing. Detail teknis penganggaran WAJIB dihedge dan diarahkan ke unit perencanaan/keuangan instansi."
+    }
+  },
+  "lsi_pool": [
+    "sertifikasi ahli KPBU", "sertifikat ahli KPBU", "tenaga ahli KPBU", "simpul KPBU", "PJPK",
+    "CP3P", "Certified Public-Private Partnership Professional", "APMG International", "PPP Guide",
+    "Accredited Training Organization", "ATO", "level Foundation", "level Preparation", "level Execution",
+    "KPBU", "Kerja Sama Pemerintah dengan Badan Usaha", "PPP", "public-private partnership",
+    "Permen PPN 7 Tahun 2023", "konsultan badan usaha", "badan usaha pelaksana", "Panel Ahli KPBU",
+    "RKA-K/L", "Standar Biaya Masukan", "pengembangan kompetensi ASN", "jam pelajaran", "biaya total kepemilikan",
+    "pola soal", "complex multiple choice", "ambang kelulusan", "masa berlaku kredensial", "resertifikasi",
+    "retensi pengetahuan", "transfer pengetahuan", "rotasi jabatan", "value for money", "alokasi risiko",
+    "penyiapan proyek KPBU", "manajemen kontrak", "unduhan gratis PPP Guide", "kursus daring Foundation"
+  ],
+  "gsc_style_queries_from_report": [],
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      { "id": "2026-08-sertifikasi-kpbu-01", "title": "Sertifikasi KPBU: Tiga Jalur yang Sering Tertukar", "angle": "peta-jalur-sertifikasi-kpbu", "angle_hash": "sha1:0a0f3ec65aa4", "intent": "informational", "inti": "Menamai tiga kategori yang semuanya disebut 'sertifikasi KPBU' + pemicu regulatif." },
+      { "id": "2026-08-sertifikasi-kpbu-02", "title": "Sertifikasi KPBU: Jalur Nasional vs Internasional, Mana yang Anda Butuhkan?", "angle": "jalur-nasional-vs-internasional", "angle_hash": "sha1:5a5c4a3130c4", "intent": "comparison", "inti": "Membandingkan dua jalur pengakuan dan kerangka memilih di antaranya." },
+      { "id": "2026-08-sertifikasi-kpbu-03", "title": "Sertifikasi KPBU Internasional: Alur Tiga Level CP3P dan Urutannya", "angle": "alur-menempuh-cp3p-tiga-level", "angle_hash": "sha1:62188495998e", "intent": "how-to", "inti": "Struktur tiga level, pemetaan bab, aturan prasyarat dan urutan, alur menempuh." },
+      { "id": "2026-08-sertifikasi-kpbu-04", "title": "Kapan Sertifikasi KPBU Belum Jadi Prioritas Anda", "angle": "kapan-belum-perlu-dan-kesalahan-umum", "angle_hash": "sha1:dd1259a4fadf", "intent": "decision", "inti": "Kondisi untuk menunda, checklist kesiapan, lima kesalahan umum, apa yang tidak dijamin." }
+    ],
+    "terpakai_habis_jangan_diulang": [
+      "Peta tiga kategori 'sertifikasi KPBU' (pelatihan vs kompetensi nasional vs kredensial internasional)",
+      "Perbandingan jalur nasional (BNSP/LSP KPBU/Ahli Pratama) vs internasional (CP3P) dan kerangka memilihnya",
+      "Struktur tiga level CP3P, aturan prasyarat Foundation, dan kebebasan urutan Preparation/Execution sebagai materi utama",
+      "Analisis 'kapan sertifikasi belum perlu', checklist kesiapan sebelum menganggarkan, dan lima kesalahan umum memilih program"
+    ],
+    "uncovered_angles_dipakai_september": [
+      "Pemetaan level/jalur berdasarkan PERAN PEKERJAAN (PJPK/ASN, konsultan, badan usaha, akademisi) — brief -01",
+      "Penganggaran instansi (siklus RKA, SBM, pengiriman bertahap) + biaya total kepemilikan jalur penuh — brief -02",
+      "Strategi persiapan ujian, pola soal per level, dan materi belajar resmi yang gratis — brief -03",
+      "Masa berlaku/resertifikasi kredensial + retensi pengetahuan setelah peserta kembali ke unitnya — brief -04"
+    ],
+    "sisa_untuk_oktober_dan_seterusnya": [
+      "Penilaian kesiapan simpul KPBU daerah (instrumen self-assessment untuk pemda) — SATU-SATUNYA celah besar dari daftar Agustus yang sengaja TIDAK dipakai September",
+      "Pembedahan isi tiap bab PPP Guide secara rinci per bab (bab-by-bab, bukan sebagai peta belajar seperti brief -03)",
+      "Padanan istilah dan tahapan: bab PPP Guide versus tahapan KPBU menurut Perpres 38/2015",
+      "Kredensial internasional lain di ranah infrastruktur dan posisinya relatif terhadap CP3P",
+      "Jalur pembiayaan pihak ketiga (beasiswa, donor, program MDB) untuk sertifikasi KPBU"
+    ]
+  },
+  "cousin_map_this_month": {
+    "own_hub": { "url": "https://institute.iigf.co.id/", "anchor": "Sertifikasi KPBU" },
+    "cousin_1": { "url": "https://institute.iigf.co.id/capacity-building", "anchor": "Capacity Building pembiayaan kreatif" },
+    "cousin_2": { "url": "https://institute.iigf.co.id/e-library/lainnya/77/studi-kasus-kpbu-untuk-penguatan-infrastruktur-digital-dan-informasi", "anchor": "studi kasus proyek infrastruktur di Indonesia" },
+    "catatan": "Peta identik dengan Agustus karena set keyword bulan ini identik (3 keyword). Dilarang menaut ke ptpii.co.id dan gagas.co.id."
+  },
+  "guardrails_for_this_keyword": [
+    "'Sertifikasi KPBU' = frasa pencarian generik, BUKAN nama kredensial resmi. Jangan pernah menulis seolah ada sertifikat bernama demikian.",
+    "Cakupan, level, format ujian, dan masa berlaku CP3P WAJIB bersumber APMG International (ppp-certification.com / apmg-international.com) — bukan reseller, broker pelatihan, atau situs ATO mana pun untuk hal yang merupakan properti skema APMG.",
+    "APMG memiliki, menguji, dan menganugerahkan kredensial CP3P. IIGF Institute adalah ATO yang MENYELENGGARAKAN PELATIHAN. Tersirat sebaliknya = hard fail editor.",
+    "Rule 6 — pengembang CP3P: AfDB, ADB, EBRD, IDB, IsDB, World Bank Group + PPIAF part-funder. TANPA MIF. AfDB WAJIB ADA.",
+    "Setelah Foundation lulus, Preparation dan Execution TIDAK berurutan wajib (APMG eksplisit).",
+    "Cakupan bab Execution bergantung versi: Bab 5–8 (v1) atau Bab 5–7 (v2). Jangan nyatakan satu angka tunggal sebagai mutlak.",
+    "Format ujian Practitioner adalah 'complex multiple choice', bukan esai bebas. Hindari kata 'esai'.",
+    "Setiap biaya/jadwal wajib berlabel 'indikatif' + tahun rujukan. JANGAN kutip tanggal batch/jadwal kelas dari institute.iigf.co.id (halaman saling bertentangan: hub 2026, halaman Execution 2024).",
+    "Permen PPN 7/2023 Pasal 13 ayat (7) bercakupan SEMPIT — hanya tenaga ahli yang dipekerjakan konsultan badan usaha/konsultan perorangan yang membantu simpul KPBU. Jangan digeneralisasi.",
+    "Tanpa nama individu. Maksimal 2–3 self-mention klien. Jangan merendahkan penyelenggara pelatihan lain.",
+    "Rule 5 — Kantor Bersama KPBU: kolaborator, bukan anggota.",
+    "Jaga konteks 'infrastruktur/KPBU/PPP/PT PII' dekat setiap penyebutan 'IIGF' (disambiguasi dari International Institute of Green Finance).",
+    "Internal link hanya ke institute.iigf.co.id (plus jipm.iigf.co.id / uniid.or.id bila relevan). Dilarang ptpii.co.id dan gagas.co.id."
+  ]
+}

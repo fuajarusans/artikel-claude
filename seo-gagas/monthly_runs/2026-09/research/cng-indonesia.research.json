@@ -1,0 +1,83 @@
+{
+  "keyword": "CNG Indonesia",
+  "keyword_slug": "cng-indonesia",
+  "month": "2026-09",
+  "captured_at": "2026-09-17",
+  "intent_locked": "informational/edukasi (NOT provider-selection — that lane belongs to 'Perusahaan CNG Indonesia', run after this one)",
+  "landing_page": "https://gagas.co.id/perusahaan-cng-indonesia/",
+  "landing_page_summary": "Hub CNG PGN Gagas: memposisikan CNG sebagai solusi transisi energi & virtual pipeline (kompresi 200-250 bar), produk Gasku (transport) + Gaslink (industri/komersial), klaim hemat hingga 68% vs solar, substitusi impor, mendukung NZE 2060. Sudah mengangkat: definisi teknis, keamanan, substitusi impor makro, virtual pipeline — jadi brief harus MENDALAM di sub-sudut yang belum dibahas hub.",
+  "data_sources_used": ["live_serp (BLOCKED — Google bot-detection, degraded to WebSearch)", "websearch", "landing_page_fetch"],
+  "ahrefs_available": false,
+  "seo_report": "none (keywords.md: seo_report: none)",
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Naik tajam 2026: gelombang berita 'konversi LPG -> CNG' & 'CNG 3 kg tabung merah putih' + agenda kemandirian energi mendorong minat pencarian informasional seputar CNG.",
+    "report_rank": "n/a (no SEO report this month)"
+  },
+  "serp": {
+    "note": "Google SERP fetch diblokir bot-detection; lanskap disusun dari hasil WebSearch (graceful degradation per playbook).",
+    "top_landscape_themes": [
+      {"source": "gagas.co.id/perusahaan-cng-indonesia", "angle_summary": "Hub Gagas — CNG sebagai solusi virtual pipeline, hemat vs solar, substitusi impor, produk Gasku/Gaslink."},
+      {"source": "migas.esdm.go.id — Roadmap Konversi ke CNG Kurangi Beban Subsidi LPG", "angle_summary": "Pemerintah siapkan roadmap konversi LPG->CNG untuk menekan subsidi & impor."},
+      {"source": "cnbcindonesia / liputan6 / kompas.id 2026", "angle_summary": "Impor LPG ~Rp150 T/tahun; uji coba CNG 3 kg pengganti LPG; strategi multijalur bebas impor LPG."},
+      {"source": "journal.lemigas.esdm.go.id — Potensi Pengembangan CNG Darat", "angle_summary": "Kajian teknis-ekonomi pengembangan CNG darat & virtual pipeline."},
+      {"source": "antaranews / sawitindonesia / mediakeuangan 2026", "angle_summary": "Bio-CNG/biometana (CBG) dari POME sawit; Pertagas Niaga serap CBG PalmCo-reNIKOLA; PLN EPI bidik 200 pabrik sawit."}
+    ],
+    "serp_features": ["ai_overview (likely for 'apa itu CNG' queries)", "paa (derived from WebSearch landscape)"],
+    "ai_overview_entities": ["Compressed Natural Gas (CNG)", "gas bumi", "LPG", "virtual pipeline", "konversi LPG ke CNG", "tabung merah putih 3 kg", "biometana / Bio-CNG", "POME", "jargas", "Kementerian ESDM"]
+  },
+  "paa_derived": [
+    "Kenapa Indonesia banyak mengimpor LPG?",
+    "Apakah CNG bisa menggantikan LPG 3 kg?",
+    "Berapa subsidi LPG di APBN 2026?",
+    "Apa itu virtual pipeline CNG?",
+    "Mana yang lebih murah, pipa gas atau CNG?",
+    "Apa itu Bio-CNG dan bagaimana cara membuatnya?",
+    "Apakah CNG termasuk energi terbarukan?",
+    "Apa manfaat CNG untuk ketahanan energi Indonesia?"
+  ],
+  "verified_facts_for_researcher": {
+    "lpg_import": "Ketergantungan impor LPG ~75-80%; impor ~7 juta ton/tahun; nilai impor ~Rp150 triliun/tahun (CNBC/Liputan6 2026) — VERIFIKASI angka & tahun.",
+    "lpg_subsidy": "Subsidi LPG 3 kg APBN 2026 dilaporkan ~Rp80,3 triliun; potensi pemangkasan hingga ~Rp40 triliun skenario moderat (WebSearch 2026) — VERIFIKASI.",
+    "roadmap": "ESDM menyiapkan roadmap konversi LPG->CNG, ditargetkan mulai 2026 (migas.esdm.go.id) — VERIFIKASI status implementasi.",
+    "penghematan": "Konversi diprediksi hemat 30-40% vs LPG — label sebagai proyeksi, bukan jaminan.",
+    "pipa_capex": "Contoh capex pipa: Dumai-Sei Mangke ~Rp7,8 triliun; panjang pipa gas nasional dikutip ~22.821 km (dipakai cng-04) — VERIFIKASI angka terkini.",
+    "cng_tabung_cost": "Biaya produksi 1 tabung CNG ~USD 42-65 (4-6x tabung LPG) + biaya logistik/transport tinggi (WebSearch) — VERIFIKASI.",
+    "biocng_potensi": "Potensi biometana nasional dari POME >1,5 miliar m3/tahun (setara ~1,1 miliar liter solar / ~6% konsumsi solar transport); skenario 70% POME >3,5 miliar m3/tahun — VERIFIKASI sumber.",
+    "biocng_proyek": "Pertagas Niaga serap CBG dari reNIKOLA-PalmCo (8 pabrik PTPN IV); PLN EPI bidik 200 pabrik sawit untuk bio-CNG ke pembangkit (ANTARA/sawitindonesia 2026) — VERIFIKASI.",
+    "gagas_framing": "Gagas = distributor CNG beyond-pipeline (Gasku transport, Gaslink industri), anak usaha PGN / Subholding Gas Pertamina; BUKAN produsen gas/LPG, BUKAN produsen bio-CNG. Untuk bio-CNG: frame hanya 'model distribusi virtual pipeline yang sama bisa membawa gas terbarukan' — verifikasi keterlibatan aktual sebelum klaim."
+  },
+  "history_snapshot": {
+    "committed_cng_indonesia_angles": [
+      "01 apa-itu-cng-cara-kerja-kompresi (definisi/teknis)",
+      "02 cng-vs-lng-vs-lpg-kapan-pakai (perbandingan produk)",
+      "03 manfaat-cng-industri-lingkungan (efisiensi/emisi CO2)",
+      "04 cng-beyond-pipeline-daerah-tanpa-pipa (MEKANIKA distribusi: Mother Station/GTM/PRS/kapal)",
+      "05 cng-transisi-energi-indonesia (bridge fuel/bauran/NZE 2060 — sumbu IKLIM)",
+      "06 cng-3kg-tabung-merah-putih-pengganti-lpg (PRODUK rumah tangga)",
+      "07 keselamatan-cng-spesifikasi-tabung-standar",
+      "08 mitos-fakta-cng (7 mitos)",
+      "09 cng-vs-listrik-ev-dua-jalur-energi-bersih",
+      "10 sejarah-cng-bbg-indonesia-1985-2026",
+      "11 cng-global-vs-indonesia-benchmark-adopsi (India/Iran/Pakistan/China)",
+      "12 cng-kualitas-udara-dan-dampak-kesehatan (NOx/PM2.5/ISPA)"
+    ],
+    "held_uncommitted_angle_TAKEN": "2026-08 cng-indonesia-03 'kualitas gas / nilai kalor / Wobbe / spesifikasi' — treat as TAKEN, do not repeat.",
+    "uncovered_angles_selected": [
+      "01 Substitusi impor LPG & ketahanan/kemandirian energi (sumbu FISKAL/DEVISA/kebijakan makro) — beda dari 05 (iklim) & 06 (produk 3kg)",
+      "02 Ekonomi infrastruktur: pipa vs virtual pipeline CNG (capex/opex/break-even) — beda dari 04 (mekanika 'bagaimana')",
+      "03 Bio-CNG / biometana (CNG terbarukan dari POME) — WHITESPACE murni, 0/12 menyentuh gas terbarukan"
+    ],
+    "left_for_perusahaan_cng_commercial_strategist": [
+      "kriteria memilih penyedia CNG, izin/legalitas, SLA, onboarding, evaluasi vendor, biaya kontrak — SEMUA milik lane KOMERSIAL, sengaja dihindari di 3 brief ini."
+    ]
+  },
+  "cousins_this_month": {
+    "month_keyword_set": ["Gasku", "Gaslink", "CNG Indonesia", "Perusahaan CNG Indonesia", "Perusahaan LNG Indonesia"],
+    "hub": "https://gagas.co.id/perusahaan-cng-indonesia/",
+    "brief_01": ["Perusahaan LNG Indonesia", "Gaslink"],
+    "brief_02": ["Gaslink", "Perusahaan LNG Indonesia"],
+    "brief_03": ["Gaslink", "Gasku"]
+  }
+}

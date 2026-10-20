@@ -1,0 +1,81 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-09\\final\\talent-acquisition-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-01T08:10:30+07:00",
+    "word_count":  858,
+    "paragraph_count":  11,
+    "sentence_count":  52,
+    "ai_detector":  {
+                        "score":  0.08,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.395,
+                        "sentence_burstiness":  0.633,
+                        "top30_vocab_share":  0.363,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.395 (target \u003e=0.45)",
+                                          "line":  -1
+                                      },
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 36.3% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "# 6 Tugas Pokok Talent Acquisition (Update 2026) Banyak perusahaan memperlakukan talent acquisition persis seperti rekrutmen biasa: pasang lowongan, tunggu pelamar, isi kursi kosong.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"# 6 Tugas Pokok Talent Acquisition (Update 2026) Banyak perusahaan memperlakukan talent acquisition persis seperti rekru\""
+                                  },
+                                  {
+                                      "passage":  "## 6 Tugas Pokok Talent Acquisition Keenam tugas berjalan sebagai satu alur hulu ke hilir, dari merencanakan kebutuhan sampai *onboarding*.",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"## 6 Tugas Pokok Talent Acquisition Keenam tugas berjalan sebagai satu alur hulu ke hilir, dari merencanakan kebutuhan s\""
+                                  },
+                                  {
+                                      "passage":  "**Sourcing dan membangun talent pool.** Aktif mencari serta memelihara *pipeline* kandidat, termasuk kandidat pasif, lewat *networking*, komunitas, dan basis data talenta.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"**Sourcing dan membangun talent pool.** Aktif mencari serta memelihara *pipeline* kandidat, termasuk kandidat pasif, lew\""
+                                  },
+                                  {
+                                      "passage":  "Salah satu solusi di kategori ini adalah [SAP SuccessFactors Recruiting](https://www.soltius.co.id/solutions-by-products/reading/success-factors), modul rekrutmen dalam suite *Human Capital Management* (HCM) SAP.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Salah satu solusi di kategori ini adalah [SAP SuccessFactors Recruiting](https://www.soltius.co.id/solutions-by-products\""
+                                  },
+                                  {
+                                      "passage":  "*Applicant tracking system* (ATS), atau sistem pelacak pelamar, menyatukannya dalam satu alur: membuat *job requisition*, mendistribusikan lowongan, mengelola *talent pool*, menjadwalkan wawancara, hingga analitik rekrutmen.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"*Applicant tracking system* (ATS), atau sistem pelacak pelamar, menyatukannya dalam satu alur: membuat *job requisition*\""
+                                  },
+                                  {
+                                      "passage":  "Talent acquisition karena itu bukan sekadar memasang lowongan, melainkan mengelola seluruh perjalanan kandidat.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Talent acquisition karena itu bukan sekadar memasang lowongan, melainkan mengelola seluruh perjalanan kandidat.\""
+                                  },
+                                  {
+                                      "passage":  "Menurut [benchmarking rekrutmen SHRM](https://www.shrm.org/topics-tools/research/recruiting-benchmarking), median *time-to-fill* untuk posisi non-eksekutif berada di sekitar 44 hari kalender (data Amerika Serikat).",
+                                      "candidate_score":  9,
+                                      "web_search_query":  "\"Menurut [benchmarking rekrutmen SHRM](https://www.shrm.org/topics-tools/research/recruiting-benchmarking), median *time-\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apa perbedaan talent acquisition dan rekrutmen?",
+                                      "candidate_score":  8,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apa perbedaan talent acquisition dan rekrutmen?\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

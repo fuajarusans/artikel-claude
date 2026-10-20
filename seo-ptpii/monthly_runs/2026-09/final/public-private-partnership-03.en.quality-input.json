@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-ptpii\\monthly_runs\\2026-09\\final\\public-private-partnership-03.en.md",
+    "language":  "en",
+    "generated_at":  "2026-09-21T11:35:13+07:00",
+    "word_count":  1842,
+    "paragraph_count":  23,
+    "sentence_count":  110,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.456,
+                        "sentence_burstiness":  0.642,
+                        "top30_vocab_share":  0.269,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "| Dimension | Indonesia | Philippines | Vietnam | |---|---|---|---| | Statutory basis | Perpres 38/2015 and 78/2010; PMK 68/2024 (eff.",
+                                      "candidate_score":  42,
+                                      "web_search_query":  "\"| Dimension | Indonesia | Philippines | Vietnam | |---|---|---|---| | Statutory basis | Perpres 38/2015 and 78/2010; PMK\""
+                                  },
+                                  {
+                                      "passage":  "64/2020/QH14, ratified 18 June 2020 and effective 1 January 2021, writes risk sharing directly into statute.",
+                                      "candidate_score":  32,
+                                      "web_search_query":  "\"64/2020/QH14, ratified 18 June 2020 and effective 1 January 2021, writes risk sharing directly into statute.\""
+                                  },
+                                  {
+                                      "passage":  "Its implementing rules took effect 6 April 2024 (Philippine PPP Center, 2024).",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"Its implementing rules took effect 6 April 2024 (Philippine PPP Center, 2024).\""
+                                  },
+                                  {
+                                      "passage":  "11966, the PPP Code, signed 5 December 2023 and effective 23 December 2023.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"11966, the PPP Code, signed 5 December 2023 and effective 23 December 2023.\""
+                                  },
+                                  {
+                                      "passage":  "# Public Private Partnership: Indonesia vs Regional Frameworks An allocator screening the same 40-kilometre toll concession in three Southeast Asian markets finds the engineering comparable.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"# Public Private Partnership: Indonesia vs Regional Frameworks An allocator screening the same 40-kilometre toll concess\""
+                                  },
+                                  {
+                                      "passage":  "Indonesia issues guarantees through a separately capitalised state company under Perpres 78/2010.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Indonesia issues guarantees through a separately capitalised state company under Perpres 78/2010.\""
+                                  },
+                                  {
+                                      "passage":  "Indonesia guarantees through a separately capitalised company under Perpres 78/2010; the Philippines (2023) and Vietnam (2021) chose different architectures.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Indonesia guarantees through a separately capitalised company under Perpres 78/2010; the Philippines (2023) and Vietnam \""
+                                  },
+                                  {
+                                      "passage":  "The Asian Development Bank calls Perpres 38/2015 the [cornerstone of Indonesia\u0027s PPP enabling framework](https://www.adb.org/publications/public-private-partnership-monitor-indonesia).",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"The Asian Development Bank calls Perpres 38/2015 the [cornerstone of Indonesia\u0027s PPP enabling framework](https://www.adb\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

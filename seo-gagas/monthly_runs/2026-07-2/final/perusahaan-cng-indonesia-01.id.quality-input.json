@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07-2\\final\\perusahaan-cng-indonesia-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-08T09:44:14+07:00",
+    "word_count":  1609,
+    "paragraph_count":  25,
+    "sentence_count":  87,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.396,
+                        "sentence_burstiness":  0.765,
+                        "top30_vocab_share":  0.299,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.396 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Harga HSD industri periode 1–14 Juni 2026 berada di Rp25.850–26.200 per liter tergantung area (Area 1 Rp25.850; Area 4 Papua/Maluku Rp26.200).",
+                                      "candidate_score":  45,
+                                      "web_search_query":  "\"Harga HSD industri periode 1–14 Juni 2026 berada di Rp25.850–26.200 per liter tergantung area (Area 1 Rp25.850; Area 4 P\""
+                                  },
+                                  {
+                                      "passage":  "Per evaluasi 29 Juni 2026, HGBT bertahan di US$6,5–7/MMBTU, gas pipa non-HGBT rata-rata sekitar US$9,6/MMBTU, dan LNG non-HGBT dipangkas dari kisaran US$20–23 menjadi US$13/MMBTU ([Kontan, 29–30 Juni 2026](https://industri.kontan.co.id/news/evaluasi-harga-gas-industri-hgbt-dan-gas-pipa-tetap-lng-turun-ke-us-13-per-mmbtu)).",
+                                      "candidate_score":  44,
+                                      "web_search_query":  "\"Per evaluasi 29 Juni 2026, HGBT bertahan di US$6,5–7/MMBTU, gas pipa non-HGBT rata-rata sekitar US$9,6/MMBTU, dan LNG no\""
+                                  },
+                                  {
+                                      "passage":  "# TCO Beralih ke Penyedia CNG: Hitung Biaya Total, Bukan Harga Gas Tim procurement sering menilai penyedia gas dari satu angka: harga gas per MMBTU.",
+                                      "candidate_score":  34,
+                                      "web_search_query":  "\"# TCO Beralih ke Penyedia CNG: Hitung Biaya Total, Bukan Harga Gas Tim procurement sering menilai penyedia gas dari satu\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai gambaran skala, PGN Gagas melalui [layanan Gaslink untuk industri](https://gagas.co.id/gaslink/) tercatat melayani 600 pelanggan dengan volume 10,85 BBTUD per September 2025 (Katadata).",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Sebagai gambaran skala, PGN Gagas melalui [layanan Gaslink untuk industri](https://gagas.co.id/gaslink/) tercatat melaya\""
+                                  },
+                                  {
+                                      "passage":  "## Membandingkan Penyedia CNG Secara Adil: Samakan Basis Hitungan Membandingkan penawaran secara adil berarti menyetarakan basis hitungan sebelum melihat harga.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Membandingkan Penyedia CNG Secara Adil: Samakan Basis Hitungan Membandingkan penawaran secara adil berarti menyetarak\""
+                                  },
+                                  {
+                                      "passage":  "## Kapan TCO Justru Belum Berpihak pada CNG Ada kondisi ketika angka TCO tidak mendukung perpindahan ke CNG, dan jujur soal ini menghemat waktu semua pihak.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Kapan TCO Justru Belum Berpihak pada CNG Ada kondisi ketika angka TCO tidak mendukung perpindahan ke CNG, dan jujur s\""
+                                  },
+                                  {
+                                      "passage":  "Media independen mencatat CNG rata-rata 10–30% lebih murah dari LPG (Kontan), sedangkan kajian ESDM/Liputan6 menyebut potensi hemat hingga sekitar 40% pada kasus tertentu.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Media independen mencatat CNG rata-rata 10–30% lebih murah dari LPG (Kontan), sedangkan kajian ESDM/Liputan6 menyebut po\""
+                                  },
+                                  {
+                                      "passage":  "**Minta rincian, bukan satu angka.** Pisahkan harga molekul gas dari biaya angkut GTM.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"**Minta rincian, bukan satu angka.** Pisahkan harga molekul gas dari biaya angkut GTM.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

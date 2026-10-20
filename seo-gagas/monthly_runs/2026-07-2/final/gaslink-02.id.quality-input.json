@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07-2\\final\\gaslink-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-08T09:46:55+07:00",
+    "word_count":  1612,
+    "paragraph_count":  22,
+    "sentence_count":  80,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.47,
+                        "sentence_burstiness":  1.002,
+                        "top30_vocab_share":  0.294,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "32 Tahun 2021 tentang Inspeksi Teknis dan Pemeriksaan Keselamatan Instalasi dan Peralatan pada Kegiatan Usaha Minyak dan Gas Bumi.",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"32 Tahun 2021 tentang Inspeksi Teknis dan Pemeriksaan Keselamatan Instalasi dan Peralatan pada Kegiatan Usaha Minyak dan\""
+                                  },
+                                  {
+                                      "passage":  "## Standar dan Regulasi yang Mengatur Keselamatan Gas Bumi Industri Keselamatan instalasi gas bumi hilir di Indonesia diatur oleh Permen ESDM No.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"## Standar dan Regulasi yang Mengatur Keselamatan Gas Bumi Industri Keselamatan instalasi gas bumi hilir di Indonesia di\""
+                                  },
+                                  {
+                                      "passage":  "Menurut [sosialisasi resmi Ditjen Migas ESDM](https://migas.esdm.go.id/post/sosialisasi-permen-esdm-32-tahun-2021-simplifikasi-regulasi-inspeksi-teknis-dan-pemeriksaan-keselamatan-instalasi-migas), teks 32/2021 menyebut Instalasi SPBU dan pipa penyalur secara eksplisit.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Menurut [sosialisasi resmi Ditjen Migas ESDM](https://migas.esdm.go.id/post/sosialisasi-permen-esdm-32-tahun-2021-simpli\""
+                                  },
+                                  {
+                                      "passage":  "## Mitos vs Fakta: Apakah CNG Sebahaya yang Dikira, dan Kapan Lokasi Belum Layak?",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## Mitos vs Fakta: Apakah CNG Sebahaya yang Dikira, dan Kapan Lokasi Belum Layak?\""
+                                  },
+                                  {
+                                      "passage":  "## Ceklis Kesiapan Keselamatan Lokasi Sebelum dan Sesudah Instalasi Kesiapan lokasi menentukan apakah instalasi CNG bisa dijalankan dengan aman dan lolos audit K3.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Ceklis Kesiapan Keselamatan Lokasi Sebelum dan Sesudah Instalasi Kesiapan lokasi menentukan apakah instalasi CNG bisa\""
+                                  },
+                                  {
+                                      "passage":  "## Seberapa Aman CNG (Gaslink) di Lokasi Usaha, dan Apa yang Membuatnya Aman?",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Seberapa Aman CNG (Gaslink) di Lokasi Usaha, dan Apa yang Membuatnya Aman?\""
+                                  },
+                                  {
+                                      "passage":  "## Perangkat Pengaman pada Instalasi Gaslink dan Fungsinya Instalasi CNG industri mengandalkan perangkat pengaman yang bekerja berlapis, bukan satu alat tunggal.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Perangkat Pengaman pada Instalasi Gaslink dan Fungsinya Instalasi CNG industri mengandalkan perangkat pengaman yang b\""
+                                  },
+                                  {
+                                      "passage":  "38 Tahun 2017 adalah generasi aturan terdahulu dengan lingkup mirip; kini 32/2021 yang berlaku.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"38 Tahun 2017 adalah generasi aturan terdahulu dengan lingkup mirip; kini 32/2021 yang berlaku.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-08\\final\\successfactors-vs-hris-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-17T23:55:00+07:00",
+    "word_count":  993,
+    "paragraph_count":  14,
+    "sentence_count":  45,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.381,
+                        "sentence_burstiness":  0.808,
+                        "top30_vocab_share":  0.31,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.381 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Kategori riset tempat SAP dinobatkan Leader sepuluh kali berturut-turut bernama [Gartner Magic Quadrant for Cloud HCM Suites for 1.000+ Employee Enterprises](https://news.sap.com/2025/09/sap-leader-gartner-magic-quadrant-cloud-hcm-suites-1000-employee-enterprises/) (Gartner via SAP, 16 September 2025).",
+                                      "candidate_score":  50,
+                                      "web_search_query":  "\"Kategori riset tempat SAP dinobatkan Leader sepuluh kali berturut-turut bernama [Gartner Magic Quadrant for Cloud HCM Su\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai SAP Platinum Partner melalui United VARs, Soltius mengimplementasikan dan mendampingi solusi Human Capital Management SAP, termasuk penataan data induk kepegawaian dan integrasinya ke ERP.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Sebagai SAP Platinum Partner melalui United VARs, Soltius mengimplementasikan dan mendampingi solusi Human Capital Manag\""
+                                  },
+                                  {
+                                      "passage":  "Penggajian ditangani modul Employee Central Payroll, yang menurut SAP secara native mendukung 50 locale dan menerima lebih dari 800 pembaruan regulasi setiap tahun (SAP, Desember 2023).",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Penggajian ditangani modul Employee Central Payroll, yang menurut SAP secara native mendukung 50 locale dan menerima leb\""
+                                  },
+                                  {
+                                      "passage":  "## Kesimpulan Pertanyaannya bukan mana yang lebih bagus antara SAP SuccessFactors dan HRIS lokal, melainkan seberapa jauh proses SDM Anda melampaui administrasi kepegawaian.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Kesimpulan Pertanyaannya bukan mana yang lebih bagus antara SAP SuccessFactors dan HRIS lokal, melainkan seberapa jau\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apakah SAP SuccessFactors cocok untuk perusahaan menengah?",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apakah SAP SuccessFactors cocok untuk perusahaan menengah?\""
+                                  },
+                                  {
+                                      "passage":  "- **Proses HR belum distandarkan.** Sistem apa pun akan diakali lewat spreadsheet selama prosesnya belum disepakati.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"- **Proses HR belum distandarkan.** Sistem apa pun akan diakali lewat spreadsheet selama prosesnya belum disepakati.\""
+                                  },
+                                  {
+                                      "passage":  "SAP menyatakan SuccessFactors dipakai lebih dari 10.000 pelanggan, dari startup dan perusahaan menengah hingga enterprise besar (SAP, September 2025).",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"SAP menyatakan SuccessFactors dipakai lebih dari 10.000 pelanggan, dari startup dan perusahaan menengah hingga enterpris\""
+                                  },
+                                  {
+                                      "passage":  "Namun kategori riset Gartner yang menobatkannya Leader disetel untuk perusahaan 1.000+ karyawan.",
+                                      "candidate_score":  7,
+                                      "web_search_query":  "\"Namun kategori riset Gartner yang menobatkannya Leader disetel untuk perusahaan 1.000+ karyawan.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

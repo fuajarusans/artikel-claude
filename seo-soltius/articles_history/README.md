@@ -55,7 +55,6 @@ articles_history/
       "paths": {
         "id_md": "monthly_runs/2026-06/final/erp-migration-to-the-cloud-01.id.md",
         "id_docx": "monthly_runs/2026-06/final/erp-migration-to-the-cloud-01.id.docx",
-        "image_plan": "monthly_runs/2026-06/final/erp-migration-to-the-cloud-01.images.json",
         "qc": "monthly_runs/2026-06/final/erp-migration-to-the-cloud-01.qc.md",
         "quality": "monthly_runs/2026-06/final/erp-migration-to-the-cloud-01.quality.md"
       },
@@ -72,7 +71,7 @@ articles_history/
 - **status** — `drafted` | `editor-approved` | `published`. The curator writes `editor-approved`; the user sets `published` + `live_url` after go-live on soltius.co.id.
 - **soltius_mentions** — what SAP/partner tech was taught + which Soltius service/credential anchored the CTA. Must respect `knowledge_base/product_matrix.md` (Soltius implements, never "builds").
 - **subtopics** — 5–10 semantic tags; what the article actually covers.
-- No `*_en` fields, no PNG `image_paths` — this client is Bahasa-Indonesia-only and images are a design-team brief (`paths.image_plan`), not generated files.
+- No `*_en` fields and no image fields (`image_plan`/`image_paths`) — this client is Bahasa-Indonesia-only and the pipeline no longer uses images. (Older entries may retain a legacy `image_plan` path from before images were removed on 2026-07-07.)
 
 ## Per-article record (`by_keyword/<keyword-slug>/<slug>.md`)
 

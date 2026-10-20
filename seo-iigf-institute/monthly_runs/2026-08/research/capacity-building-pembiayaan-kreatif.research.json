@@ -1,0 +1,244 @@
+{
+  "keyword": "Capacity Building pembiayaan kreatif",
+  "keyword_slug": "capacity-building-pembiayaan-kreatif",
+  "month": "2026-08",
+  "captured_at": "2026-08-12",
+  "landing_page": "https://institute.iigf.co.id/capacity-building",
+  "landing_page_summary": "Halaman program 'Capacity Building KPBU Pembiayaan Kreatif untuk Infrastruktur' — sebagian besar konten di balik login. Yang publik hanya pernyataan tujuan program ('Mendorong peningkatan kapasitas pemangku kepentingan infrastruktur untuk mendukung penyediaan infrastruktur melalui skema KPBU yang berkualitas') plus label seksi: Tentang, Deskripsi Program, Siapa yang Memenuhi, Tata Cara Pengajuan, Portofolio. Tidak ada penjelasan konseptual tentang pembiayaan kreatif, instrumen, atau kompetensi — celah konten yang sangat besar untuk artikel pendukung.",
+  "data_sources_used": ["live_serp_proxy_brave", "websearch", "competitor_page_fetch", "landing_page_fetch"],
+  "ahrefs_available": false,
+  "gsc_available": false,
+  "seo_report": "none (keywords.md 2026-08 menyatakan seo_report: none)",
+  "serp_access_notes": {
+    "google_direct": "BLOCKED — WebFetch ke google.com/search?hl=id&gl=id mengembalikan halaman error, tanpa hasil organik/PAA.",
+    "duckduckgo": "BLOCKED — ECONNREFUSED (html/ dan lite/).",
+    "bing": "TIDAK RELEVAN — menafsirkan 'capacity' secara generik (kamus bahasa Inggris), bukan SERP Indonesia.",
+    "brave": "BERHASIL — dipakai sebagai proxy SERP utama, ~20 hasil organik relevan Indonesia.",
+    "paa_substitute": "Google PAA tidak terambil. Sebagai gantinya dipakai rubrik 'Orang Juga Bertanya' milik kpbu.kemenkeu.go.id (portal resmi KPBU Kemenkeu) yang secara harfiah memodelkan PAA Indonesia — 6 pertanyaan verbatim — ditambah pertanyaan turunan dari pola query WebSearch."
+  },
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Naik secara tematik. 'Pembiayaan kreatif' menguat sebagai istilah kebijakan sejak UU HKPD No. 1/2022, dan makin sering muncul dikaitkan dengan RPJMN 2025-2029 serta target pertumbuhan ekonomi 8%. Kegiatan capacity building KPBU untuk pemda terekam berulang 2022-2026 (mis. APJ Bali 2022, Malang 2023, Kaltim 2023, Jawa Timur 2026) — permintaan pelatihan nyata dan berkelanjutan, tetapi konten evergreen-nya nyaris tidak ada.",
+    "report_rank": "n/a (tidak ada seo_report bulan ini)"
+  },
+  "serp": {
+    "top_10": [
+      {
+        "url": "https://institute.iigf.co.id/capacity-building",
+        "title": "Capacity Building KPBU Pembiayaan Kreatif untuk Infrastruktur",
+        "angle_summary": "Hub milik klien sendiri. Halaman program ber-login; konten publik tipis (satu kalimat tujuan + label menu). Peringkat teratas karena kecocokan frasa persis, bukan karena kedalaman."
+      },
+      {
+        "url": "https://kpbu.kemenkeu.go.id/berita/read/1592/capacity-building-penyiapan-proyek-dan-pelaksanaan-transaksi-dalam-skema-pembiayaan-kreatif-kpbu-untuk-infrastruktur-alat-penerangan-jalan",
+        "title": "Capacity Building Penyiapan Proyek dan Pelaksanaan Transaksi dalam Skema Pembiayaan Kreatif KPBU untuk Infrastruktur Alat Penerangan Jalan",
+        "angle_summary": "Berita kegiatan (Bali, 4-5 September 2022) oleh Direktorat PDPPI bersama Bappenas, LKPP, PT PII, PT SMI, USAID SINAR. Menyebut agenda hari 1 (penyiapan proyek, mekanisme pembiayaan) dan hari 2 (transaksi, pengadaan), coaching clinic, ~10 pemda, studi kasus APJ Kabupaten Madiun (7.458 titik, operasi sejak 18 Juli 2023). Reportase, bukan penjelasan konsep."
+      },
+      {
+        "url": "https://kpbu.kemenkeu.go.id/berita/read/1532/capacity-building-pemerintah-daerah-atas-skema-kpbu-dalam-proyek-infrastruktur-alat-penerangan-jalan",
+        "title": "Capacity Building Pemerintah Daerah atas Skema KPBU dalam Proyek Infrastruktur Alat Penerangan Jalan",
+        "angle_summary": "Berita kegiatan di Malang, 13 Maret 2023, diikuti 16 pemda dari Jawa Timur/Jawa Tengah. Tujuan: meningkatkan kapasitas dan kesiapan pemda pada proyek APJ. Sekali lagi reportase acara."
+      },
+      {
+        "url": "https://kpbu.kemenkeu.go.id/read/1200-1615/umum/kajian-opini-publik/pembiayaan-kreatif-dalam-uu-hkpd",
+        "title": "Pembiayaan Kreatif dalam UU HKPD",
+        "angle_summary": "Kajian opini publik. Pesaing konseptual terkuat: membahas koridor hukum UU HKPD, instrumen (pinjaman daerah, obligasi daerah, sukuk daerah, LVC, hak pengelolaan terbatas, asset recycling, blended finance) dan menyebut proyek KPBU yang berhenti sebelum operasi karena kapasitas fiskal PJPK dan kelayakan finansial. Berorientasi kebijakan, bukan berorientasi keputusan pembaca; tanpa tabel perbandingan dan tanpa dimensi kompetensi SDM."
+      },
+      {
+        "url": "https://info.metrokota.go.id/pemkot-metro-gelar-capacity-building-kpbu-demi-percepat-pembangunan/",
+        "title": "Pemkot Metro gelar capacity building KPBU demi percepat pembangunan",
+        "angle_summary": "Rilis pemda. Menyatakan tujuan 'meningkatkan pemahaman dan kompetensi aparatur daerah dalam menyiapkan serta melaksanakan proyek kemitraan dengan swasta'. Tidak mengajarkan apa pun."
+      },
+      {
+        "url": "https://www.jpnn.com/news/pt-pii-gelarcapacity-building-kpbu-bersama-pemda-jatim",
+        "title": "PT PII Gelar Capacity Building KPBU Bersama Pemda Jatim",
+        "angle_summary": "Berita media umum tentang pelatihan untuk pemda tingkat provinsi/kota. Reportase."
+      },
+      {
+        "url": "https://www.ptpii.co.id/pembiayaan-kreatif",
+        "title": "Pembiayaan Kreatif untuk Infrastruktur Daerah Inovatif",
+        "angle_summary": "Halaman korporat induk. Paling dekat dengan sudut 'tantangan pemda': kapasitas SDM (penyiapan proyek, analisis kelayakan, hukum kontrak, manajemen kemitraan jangka panjang), komitmen politik lintas periode 15-30 tahun, penyiapan yang bankable, komunikasi publik soal persepsi 'privatisasi aset'. Menyebut dukungan: penjaminan, PDF, VGF; dasar hukum UU No. 1/2022 (HKPD); contoh SPAM Umbulan (>1,3 juta jiwa, pipa transmisi 93 km). CATATAN ISOLASI: sumber fakta saja — DILARANG jadi target internal link."
+      },
+      {
+        "url": "https://bappeda.klungkungkab.go.id/capacity-building-kpdbu-tingkatkan-pemahaman-perangkat-daerah-dalam-penyediaan-infrastruktur-berkelanjutan/",
+        "title": "Capacity Building KPDBU Tingkatkan Pemahaman Perangkat Daerah",
+        "angle_summary": "Rilis Bappeda kabupaten. Menyebut sasaran 'kapasitas kelembagaan dan sumber daya manusia dalam memahami konsep, regulasi, serta mekanisme KPBU' — memvalidasi framing kapasitas individu vs kelembagaan, tapi tidak mengelaborasinya."
+      },
+      {
+        "url": "https://simpulkpbu.pu.go.id/pages/general/skema-pembiayaan",
+        "title": "Skema Pembiayaan — Ditjen Pembiayaan Infrastruktur PU",
+        "angle_summary": "Daftar skema pembiayaan kreatif (KPBU Syariah, B-to-B, Land Value Capture). Daftar tanpa kriteria pemilihan."
+      },
+      {
+        "url": "https://kpbu.kemenkeu.go.id/read/1232-1775/umum/kajian-opini-publik/creative-financing-jurus-jitu-infrastruktur-menembus-ekonomi-8",
+        "title": "Creative Financing, Jurus Jitu Infrastruktur Menembus Ekonomi 8%",
+        "angle_summary": "Kajian opini menghubungkan pembiayaan kreatif dengan target pertumbuhan 8%. Menyebut AP, user-pays, penjaminan, PDF, blended finance, asset recycling, LVC, green/syariah financing, serta dana hibah IIFD untuk peningkatan kualitas SDM pelaksana KPBU. Naratif kebijakan; tanpa angka gap yang bisa diverifikasi di badan artikel."
+      }
+    ],
+    "secondary_results_noted": [
+      "https://kpbu.kemenkeu.go.id/read/1156-1446/... — pembiayaan kreatif untuk infrastruktur IKN",
+      "https://kpbu.kemenkeu.go.id/read/1170-1507/... — peran Hak Pengelolaan Terbatas sebagai pembiayaan kreatif",
+      "https://kpbu.kemenkeu.go.id/read/1223-1762/... — skema KPBU Availability Payment: masihkah diminati",
+      "https://kpbu.kemenkeu.go.id/read/1111-1272/... — 'Yang Utama, tapi Seringkali Terlupa: Bankability'",
+      "https://institute.iigf.co.id/e-library/lainnya/73/skema-kpbu-sebagai-alternatif-pembiayaan-kreatif-untuk-pembangunan-di-indonesia-timur — konten e-library milik klien sendiri, sudut Indonesia Timur",
+      "https://koran-jakarta.com/2026-05-04/... — capacity building KPBU PT PII di Jawa Timur (Mei 2026)",
+      "https://djppr.kemenkeu.go.id/instrumendanfasilitaspendukungpembiayaankreatifpenyediaaninfrastruktur — instrumen & fasilitas pendukung pembiayaan kreatif",
+      "https://diklatkerja.com/blog/pembiayaan-kreatif-pt-pii-... — blog penyedia pelatihan pihak ketiga"
+    ],
+    "serp_features": ["tidak terverifikasi — Google diblokir; tidak ada AI Overview/PAA yang bisa diamati langsung"],
+    "ai_overview_entities": [
+      "Tidak dapat diamati (Google diblokir). Entitas yang secara konsisten muncul di korpus SERP dan layak dinamai eksplisit untuk GEO:",
+      "KPBU (Kerja Sama Pemerintah dengan Badan Usaha)",
+      "PJPK (Penanggung Jawab Proyek Kerja Sama)",
+      "Simpul KPBU",
+      "UU No. 1 Tahun 2022 tentang Hubungan Keuangan antara Pemerintah Pusat dan Pemerintahan Daerah (UU HKPD)",
+      "Perpres No. 38 Tahun 2015",
+      "Permen PPN/Bappenas No. 7 Tahun 2023",
+      "Availability Payment / Pembayaran Ketersediaan Layanan",
+      "Project Development Facility (PDF) / Fasilitas Penyiapan Proyek",
+      "Viability Gap Fund (VGF) / Dukungan Kelayakan",
+      "Land Value Capture (LVC)",
+      "Hak Pengelolaan Terbatas (HPT)",
+      "Blended finance",
+      "Obligasi Daerah, Sukuk Daerah, Pinjaman Daerah",
+      "Kantor Bersama KPBU",
+      "Bappenas, Kementerian Keuangan, LKPP, Kemendagri, Kemenko Perekonomian, BKPM",
+      "PT PII (Penjaminan Infrastruktur Indonesia)",
+      "IIGF Institute"
+    ]
+  },
+  "paa": [
+    "Siapa yang Membiayai Proyek pada Skema KPBU? (verbatim, rubrik 'Orang Juga Bertanya' kpbu.kemenkeu.go.id)",
+    "Mengapa Perekonomian Tidak Sepenuhnya Diserahkan Kepada Swasta? (verbatim)",
+    "Skema KPBU, Apa Perannya dalam Mendukung Pembangunan IKN? (verbatim)",
+    "Apa Itu Kepanjangan PJPK? (verbatim)",
+    "Apa itu Kantor Bersama KPBU? (verbatim)",
+    "Apa itu Availability Payment? (verbatim)",
+    "Apa itu pembiayaan kreatif dalam penyediaan infrastruktur? (turunan pola query)",
+    "Apa saja instrumen pembiayaan kreatif yang diatur UU HKPD? (turunan)",
+    "Apa itu Simpul KPBU dan siapa yang membentuknya? (turunan)",
+    "Apa itu PDF (Project Development Facility) dan VGF dalam KPBU? (turunan)",
+    "Mengapa proyek KPBU daerah berhenti di tahap penyiapan? (turunan)",
+    "Apa bedanya skema Availability Payment dan user pays? (turunan)",
+    "Apa itu bankability dalam proyek KPBU? (turunan)",
+    "Apa itu blended finance dan bagaimana penerapannya di Indonesia? (turunan)"
+  ],
+  "gsc_style_queries_from_report": [],
+  "verified_facts_pool": [
+    {
+      "fact": "Pembiayaan kreatif dalam kerangka UU HKPD mencakup pembiayaan utang daerah (pinjaman daerah konvensional/syariah, obligasi daerah, sukuk daerah), KPBU, dan sinergi pendanaan APBD/non-APBD.",
+      "source": "https://kpbu.kemenkeu.go.id/read/1200-1615/umum/kajian-opini-publik/pembiayaan-kreatif-dalam-uu-hkpd",
+      "confidence": "high",
+      "note": "UU HKPD = UU No. 1 Tahun 2022. Nomor/tahun perlu dikonfirmasi ulang oleh peneliti sebelum ditulis."
+    },
+    {
+      "fact": "Instrumen pembiayaan kreatif lain yang disebut di portal resmi: Land Value Capture (LVC), Hak Pengelolaan Terbatas (HPT), asset recycling, blended finance, KPBU Syariah, dan skema B-to-B.",
+      "source": "https://kpbu.kemenkeu.go.id/read/1200-1615/... ; https://simpulkpbu.pu.go.id/pages/general/skema-pembiayaan ; https://kpbu.kemenkeu.go.id/read/1170-1507/...",
+      "confidence": "high"
+    },
+    {
+      "fact": "Availability Payment adalah pembayaran berkala oleh Menteri/Kepala Lembaga/Kepala Daerah kepada Badan Usaha Pelaksana atas tersedianya layanan infrastruktur sesuai kualitas/kriteria dalam Perjanjian KPBU; sumber dananya APBN atau APBD; cocok untuk infrastruktur dengan pendapatan sedikit/nihil (rumah sakit, pemasyarakatan, penerangan jalan umum).",
+      "source": "https://kpbu.kemenkeu.go.id/read/1095-1258/pjpk/pembayaran-kepada-badan-usaha/pembayaran-ketersediaan-layanan ; https://jdih.kemenkeu.go.id/kamus-hukum/pembayaran-ketersediaan-layanan-(availability-payment)",
+      "confidence": "high"
+    },
+    {
+      "fact": "Ketergantungan penuh AP pada APBN/APBD membebani fiskal, terutama pada proyek jangka panjang; diversifikasi sumber pembayaran AP (pendapatan proyek, kontribusi swasta) dibahas sebagai solusi.",
+      "source": "https://kpbu.kemenkeu.go.id/read/1223-1762/... ; https://kpbu.kemenkeu.go.id/read/1202-1642/...",
+      "confidence": "high"
+    },
+    {
+      "fact": "Tidak semua proyek KPBU mencapai tahap operasi; sebagian berhenti sebelum transaksi. Penyebab utama: keterbatasan kapasitas fiskal PJPK di level pemda dan kelayakan finansial proyek. Penyebab lain yang disebut: penyiapan proyek yang tidak cukup kredibel, risiko politik terlalu tinggi, kelayakan finansial marginal, dan lahan yang belum tersedia sejak awal penyiapan.",
+      "source": "https://kpbu.kemenkeu.go.id/read/1200-1615/... ; https://kpbu.kemenkeu.go.id/read/20-233/pjpk/pelaksanaan-kpbu/pelaksanaan-fasilitas",
+      "confidence": "high",
+      "note": "Ini adalah tulang punggung brief -04. Peneliti wajib mengambil kutipan langsung dari halaman resmi."
+    },
+    {
+      "fact": "Simpul KPBU adalah unit kerja di kementerian/lembaga tingkat nasional atau unit kerja tingkat daerah — dibentuk baru atau melekat pada unit yang sudah ada — dengan tugas perumusan kebijakan dan/atau sinkronisasi dan/atau koordinasi tahap perencanaan dan penyiapan dan/atau pengawasan dan evaluasi tahap penyiapan.",
+      "source": "Perpres No. 38 Tahun 2015 (https://peraturan.bpk.go.id/Details/41764/perpres-no-38-tahun-2015) dan turunannya",
+      "confidence": "medium-high",
+      "note": "Peneliti wajib memverifikasi rumusan pasal dan status berlaku Perpres 38/2015 per 2026."
+    },
+    {
+      "fact": "PJPK adalah Menteri/Kepala Lembaga/Kepala Daerah, atau BUMN/BUMD sesuai kewenangannya, yang bertindak sebagai penyelenggara/penyedia infrastruktur yang melaksanakan proyek dan pelelangan investor.",
+      "source": "Perpres 38/2015; https://kpbu.jabarprov.go.id/page/tentang-kpbu",
+      "confidence": "high"
+    },
+    {
+      "fact": "Permen PPN/Bappenas No. 7 Tahun 2023 menggantikan aturan sebelumnya (Permen PPN No. 4 Tahun 2015) dan mengatur proses perencanaan, penyiapan, dan transaksi proyek KPBU.",
+      "source": "https://www.ahlikpbuindonesia.or.id/berita-dan-kegiatan/tahap-penyiapan-pada-proyek-kpbu-berdasarkan-permen-ppn-bappenas-07-nomor-2023-part-2/",
+      "confidence": "medium",
+      "note": "Sumber sekunder (asosiasi profesi). Peneliti WAJIB mengonfirmasi ke Bappenas/JDIH sebelum dikutip."
+    },
+    {
+      "fact": "Kantor Bersama KPBU adalah wadah koordinasi antar-Kementerian/Lembaga: Kemenko Perekonomian, Kemenko Marves, Kemendagri, Kemenkeu, Bappenas (sekretariat), Kementerian Investasi/BKPM, dan LKPP. Berfungsi sebagai one stop service dan front office yang menghubungkan pembiayaan swasta dengan pemerintah.",
+      "source": "https://kpbu.kemenkeu.go.id/read/1151-1405/umum/orang-juga-bertanya/apa-itu-kantor-bersama-kpbu",
+      "confidence": "high",
+      "note": "TERVERIFIKASI 2026-08-12: daftar resmi hanya 7 K/L di atas — PT PII maupun IIGF Institute TIDAK tercantum sebagai anggota. IIGF Institute adalah kolaborator ekosistem, bukan anggota. Tulis 'berkolaborasi dalam ekosistem Kantor Bersama KPBU'; jangan pernah 'anggota'. Lihat company_profile.md Rule 5."
+    },
+    {
+      "fact": "Fasilitas Penyiapan Proyek/Project Development Facility (PDF) diberikan pada tahap penyiapan dan transaksi untuk membantu PJPK menghasilkan Dokumen Pra-Studi Kelayakan beserta dokumen pendukungnya. VGF adalah Dukungan Pemerintah berupa kontribusi fiskal atas sebagian biaya konstruksi untuk proyek yang layak ekonomi namun belum layak finansial.",
+      "source": "https://kpbu.kemenkeu.go.id/read/1094-1255/pjpk/dukungan-pemerintah/fasilitas-penyiapan-proyek ; https://kpbu.kemenkeu.go.id/read/20-233/pjpk/pelaksanaan-kpbu/pelaksanaan-fasilitas",
+      "confidence": "high"
+    },
+    {
+      "fact": "Tantangan pemda dalam pembiayaan kreatif: keterbatasan SDM yang menguasai penyiapan proyek, analisis kelayakan, hukum kontrak, dan manajemen kemitraan jangka panjang; komitmen politik untuk kontrak 15-30 tahun yang melampaui satu periode kepemimpinan; penyusunan studi kelayakan yang bankable; serta komunikasi publik atas persepsi 'privatisasi aset'.",
+      "source": "https://www.ptpii.co.id/pembiayaan-kreatif",
+      "confidence": "medium-high",
+      "note": "SUMBER FAKTA SAJA. ptpii.co.id tidak boleh menjadi target internal link (aturan isolasi folder)."
+    },
+    {
+      "fact": "Contoh capacity building sektor APJ: kegiatan Bali 4-5 September 2022 (Direktorat PDPPI bersama Bappenas, LKPP, PT PII, PT SMI, USAID SINAR; ~10 pemda; coaching clinic per daerah), dan Malang 13 Maret 2023 (16 pemda Jawa Timur/Jawa Tengah). Studi kasus rintisan: APJ Kabupaten Madiun, 7.458 titik lampu, beroperasi sejak 18 Juli 2023.",
+      "source": "https://kpbu.kemenkeu.go.id/berita/read/1592/... ; https://kpbu.kemenkeu.go.id/berita/read/1532/...",
+      "confidence": "medium-high",
+      "note": "Angka 7.458 titik dan tanggal operasi wajib diverifikasi ulang; tulis dengan tahun rujukan."
+    },
+    {
+      "fact": "Blended finance: menurut IFC, penggunaan dana donor dalam jumlah relatif kecil untuk menurunkan risiko investasi spesifik dan menyeimbangkan kembali profil risk-reward yang tidak layak pada persyaratan komersial ketat. Di Indonesia, SDG Indonesia One yang dikelola PT SMI adalah platform blended finance yang menggabungkan donor internasional, lembaga keuangan iklim, investor hijau, bank umum, dan MDB.",
+      "source": "https://www.ptsmi.co.id/sdg-indonesia ; ResearchGate 'Blended Finance: Konsep & Penerapan di Indonesia'",
+      "confidence": "medium",
+      "note": "Definisi IFC wajib ditelusuri ke sumber IFC/OECD langsung sebelum dikutip."
+    },
+    {
+      "fact": "RPJMN 2025-2029 (Perpres No. 12 Tahun 2025) memuat kebutuhan pendanaan Prioritas Nasional bidang infrastruktur dengan porsi non-APBN yang jauh lebih besar daripada APBN.",
+      "source": "https://jdih.kemenkoinfra.go.id/en/berita/perpres-122025-rencana-pembangunan-jangka-menegah-nasional-tahun-2025-2029",
+      "confidence": "LOW — JANGAN DIKUTIP SEBELUM DIVERIFIKASI",
+      "note": "Angka rupiah spesifik yang muncul di hasil pencarian berasal dari slide pihak ketiga (SlideShare), BUKAN dokumen resmi. Peneliti WAJIB menarik angka dari dokumen RPJMN/Bappenas resmi atau tidak memakainya sama sekali."
+    },
+    {
+      "fact": "Studi kasus KPBU digital (e-library IIGF Institute): Palapa Ring dan Satelit Multifungsi Pemerintah memakai skema Availability Payment; disebut proyeksi kenaikan PDRB 4,5-6,4% dalam 10 tahun dan 200.000 lapangan kerja; faktor sukses yang dicatat: komitmen pemilik proyek, koordinasi pemangku kepentingan, dukungan konsultan memadai, dan kapabilitas pemilik proyek.",
+      "source": "https://institute.iigf.co.id/e-library/lainnya/77/studi-kasus-kpbu-untuk-penguatan-infrastruktur-digital-dan-informasi",
+      "confidence": "medium",
+      "note": "Ini adalah hub cousin 1. Angka proyeksi adalah PROYEKSI, bukan realisasi — wajib diberi label demikian. Faktor sukses 'kapabilitas pemilik proyek' adalah jembatan naratif terkuat ke tema capacity building."
+    }
+  ],
+  "history_snapshot": {
+    "existing_articles_for_keyword": [],
+    "note": "articles_history/index.json kosong (schema 2.0, articles: []). 2026-08 adalah bulan pertama. Dedup lintas-bulan tidak berlaku; dedup wajib dilakukan ANTAR 4 brief bulan ini.",
+    "uncovered_angles": [
+      "Definisi dan kerangka dasar pembiayaan kreatif dikaitkan dengan kapasitas PJPK (diambil brief -01)",
+      "Perbandingan instrumen sebagai keputusan daerah, dengan tabel (diambil brief -02)",
+      "Peta kompetensi tim per tahap siklus KPBU (diambil brief -03)",
+      "Diagnosis proyek yang mandek di penyiapan (diambil brief -04)",
+      "SISA UNTUK BULAN BERIKUTNYA: mendesain program capacity building internal instansi; kaderisasi & retensi kapasitas lintas pergantian kepala daerah; anatomi dokumen studi pendahuluan/OBC/FBC secara mendalam; peran perguruan tinggi daerah (UNIID/JPII) dalam pendampingan penyiapan proyek; KPBU Syariah dan sukuk daerah sebagai jalur pembiayaan kreatif; anatomi biaya dan durasi penyiapan proyek KPBU; manajemen kontrak KPBU pasca-financial close"
+    ]
+  },
+  "cousin_hubs_this_month": [
+    {
+      "keyword": "Studi kasus proyek infrastruktur di Indonesia",
+      "url": "https://institute.iigf.co.id/e-library/lainnya/77/studi-kasus-kpbu-untuk-penguatan-infrastruktur-digital-dan-informasi",
+      "why": "Kapasitas dibuktikan lewat proyek nyata; setiap brief menautkan ke sini ketika menyebut bukti empiris atau contoh proyek."
+    },
+    {
+      "keyword": "Sertifikasi KPBU",
+      "url": "https://institute.iigf.co.id/",
+      "why": "Sertifikasi adalah jalur formalisasi kompetensi; setiap brief menautkan ke sini ketika membahas pembuktian/standardisasi kompetensi."
+    }
+  ],
+  "link_isolation_rules": {
+    "allowed_internal": ["institute.iigf.co.id", "jipm.iigf.co.id (bila relevan)", "uniid.or.id (bila relevan)"],
+    "forbidden_internal": ["ptpii.co.id", "gagas.co.id"],
+    "note": "ptpii.co.id dipakai sebagai sumber fakta di riset ini, TIDAK BOLEH menjadi target tautan."
+  },
+  "client_anchor": "PPP capacity building",
+  "derived_from": "keywords.md 2026-08 (client_anchor: 'PPP capacity building'); cocok dengan baris 'PPP capacity building' di product_matrix.md"
+}

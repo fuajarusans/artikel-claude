@@ -1,0 +1,141 @@
+{
+  "keyword": "CNG Indonesia",
+  "keyword_slug": "cng-indonesia",
+  "month": "2026-10",
+  "captured_at": "2026-09-28",
+  "intent_locked": "informational/edukasi (NOT provider-selection — that commercial lane belongs to 'Perusahaan CNG Indonesia', same hub, dedup across both)",
+  "round": "5th round — heaviest dedup yet: 15 committed cng-indonesia angles + 18 committed perusahaan-cng-indonesia angles + 1 held Aug angle (kualitas gas/Wobbe/nilai kalor) all TAKEN.",
+  "landing_page": "https://gagas.co.id/perusahaan-cng-indonesia/",
+  "landing_page_summary": "Hub CNG PGN Gagas: CNG sebagai alat transisi energi & virtual pipeline; produk Gaslink (industri/komersial, fokus thermal boiler/furnace/dryer) + Gasku (transport); klaim hemat ~68% vs solar; substitusi impor, penciptaan lapangan kerja, ketahanan energi nasional; menyebut 'baseload backup' untuk EBT. Sudah menyentuh: definisi teknis, CNG vs LPG/LNG/BBM, thermal industri, makroekonomi. Brief harus MENDALAM di sub-sudut yang belum dibahas hub (regulasi, kelistrikan/remote power, bandingkan lawan bahan bakar padat).",
+  "data_sources_used": ["live_serp (BLOCKED — Google bot-detection interstitial, degraded to WebSearch)", "websearch", "landing_page_fetch"],
+  "ahrefs_available": false,
+  "gsc_available": false,
+  "seo_report": "none (keywords.md: seo_report: none)",
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Naik 2026: Mei 2026 pemerintah perkuat rencana CNG untuk kendaraan+rumah tangga (harga kompetitif vs LPG/BBM); RKT 2026 Ditjen Migas; program gasifikasi/regasifikasi pembangkit PLN aktif; wacana konversi LPG->CNG. Minat informasional seputar CNG (regulasi, kelistrikan, fuel switching) meningkat.",
+    "report_rank": "n/a (no SEO report this month)"
+  },
+  "serp": {
+    "note": "Google SERP WebFetch diblokir bot-detection (interstitial 2x); lanskap disusun dari WebSearch per graceful-degradation playbook. Kompetitor per-angle dicatat di bawah.",
+    "landscape_by_angle": {
+      "regulasi-kebijakan-cng": [
+        {"source": "esdm.go.id — Percepat Konversi BBM ke BBG, 150 SPBU Siap Dispenser Gas", "angle_summary": "Berita program konversi; Permen ESDM sebagai payung."},
+        {"source": "migas.esdm.go.id — Anggaran Dikurangi, Roadmap Konversi BBM ke Gas Disesuaikan", "angle_summary": "Penyesuaian roadmap konversi (honest angle: kebijakan tersendat)."},
+        {"source": "iesr.or.id — Konversi BBM ke BBG, Kebijakan Setengah Hati", "angle_summary": "Kritik kebijakan — anchor honest/counter-conventional."},
+        {"source": "migas.esdm.go.id — RKT 2026 Ditjen Migas (PDF)", "angle_summary": "Rencana kerja regulator 2026."},
+        {"source": "beritajejakfakta.id (Mei 2026)", "angle_summary": "Pemerintah perkuat rencana CNG untuk kendaraan & rumah tangga, harga kompetitif vs LPG/BBM."}
+      ],
+      "cng-pembangkit-elektrifikasi-remote": [
+        {"source": "esdm.go.id — CNG Solusi Bahan Bakar Pembangkit Wilayah Remote", "angle_summary": "ANCHOR — CNG untuk pembangkit di wilayah tak terjangkau pipa."},
+        {"source": "kompas.id — PLN Operasikan PLTMG Luwuk 40 MW", "angle_summary": "PLTMG gas 40 MW, klaim ~75.000 ton CO2/tahun dihindari."},
+        {"source": "dunia-energi.com — PLN Gunakan CNG Bangkitkan Listrik di Daerah Tak Terjangkau Pipa (via CNG Vessel)", "angle_summary": "CNG untuk pembangkit remote, dikirim via kapal."},
+        {"source": "liputan6.com — Pembangkit di 32 Wilayah Dikonversi ke Gas (Kalbar-Papua)", "angle_summary": "Program konversi pembangkit nasional."},
+        {"source": "ekonomi.bisnis.com — Konversi Pembangkit Diesel PLN ke Gas Dinilai Belum Ekonomis", "angle_summary": "ANCHOR honest — batas keekonomian konversi."},
+        {"source": "PLN EPI — LNG Cluster Nusa Tenggara 477 MW (onstream ~2029)", "angle_summary": "Cousin LNG — pemerataan listrik kepulauan."}
+      ],
+      "cng-vs-batubara-biomassa-boiler": [
+        {"source": "id.samsonindonesiaboiler.com — Perbandingan Bahan Bakar Boiler: Solar, Gas, Biomassa, Batubara", "angle_summary": "KOMPETITOR utama — listicle vendor boiler; kalahkan dgn honesty + kerangka keputusan."},
+        {"source": "hariansinggalang.co.id — Cangkang Sawit Substitusi Energi Fosil pada Boiler", "angle_summary": "Advokasi cangkang sawit sbg bahan bakar boiler domestik."},
+        {"source": "industri.kontan.co.id — Multi Bintang Ganti Bahan Bakar Boiler dari GAS ke EBT (sekam padi+kayu)", "angle_summary": "Nuansa jujur: sebagian industri pindah dari gas ke biomassa (renewable/biaya)."},
+        {"source": "researchgate — Analisa Biaya Cangkang Sawit vs Batubara Boiler (studi kasus PT)", "angle_summary": "Data biaya/tahun per sistem boiler; nilai kalor cangkang."}
+      ]
+    },
+    "serp_features": ["ai_overview (likely for 'apa itu' & 'regulasi' queries)", "paa (derived from WebSearch landscape)"],
+    "ai_overview_entities": ["Compressed Natural Gas (CNG)", "Bahan Bakar Gas (BBG)", "Kementerian ESDM", "BPH Migas", "Permen ESDM 25/2017", "PLTMG", "gasifikasi pembangkit", "CNG Vessel", "cangkang sawit", "batubara", "boiler industri", "fuel switching", "gas bumi"]
+  },
+  "paa_derived": [
+    "Apa saja aturan yang mengatur CNG/BBG di Indonesia?",
+    "Apa itu program konversi BBM ke BBG?",
+    "Siapa yang mengatur harga dan niaga gas bumi di Indonesia?",
+    "Apakah CNG bisa dipakai untuk pembangkit listrik?",
+    "Bagaimana daerah tanpa pipa gas mendapat listrik dari gas?",
+    "Apa itu PLTMG dan gasifikasi pembangkit?",
+    "Mana lebih hemat, boiler gas, batubara, atau cangkang sawit?",
+    "Apakah gas bumi lebih bersih daripada batubara untuk boiler?",
+    "Kapan bahan bakar padat masih lebih murah daripada gas?"
+  ],
+  "verified_facts_for_researcher": {
+    "_disclaimer": "Signals gathered via WebSearch; researcher MUST re-verify each against a primary/authoritative source before the writer states it as fact. Label estimates/claims.",
+    "regulasi": [
+      "UU No. 22/2001 tentang Minyak dan Gas Bumi — payung hukum kegiatan hilir (niaga, pengangkutan, penyimpanan) — VERIFY pasal relevan.",
+      "Permen ESDM No. 25/2017 — percepatan konversi BBM ke BBG sektor transportasi (CNG) — VERIFY status/keberlakuan terkini.",
+      "Kepmen ESDM No. 13/2020 — mandat program gasifikasi/regasifikasi pembangkit PLN — VERIFY nomor & isi.",
+      "BPH Migas — pengatur niaga & pengangkutan gas bumi (Hak Khusus, harga) — VERIFY peran spesifik ke CNG.",
+      "HGBT (Harga Gas Bumi Tertentu) — Kepmen ESDM 2025, ~USD 7/MMBTU bahan bakar untuk sektor tertentu — VERIFY angka & daftar sektor terbaru.",
+      "Standar teknis tabung/instalasi CNG — SNI/ISO + Permen ESDM 32/2021 (inspeksi teknis instalasi) — VERIFY.",
+      "RKT 2026 Ditjen Migas & target sambungan jargas/CNG (~160.000 sambungan 2026 disebut di media) — VERIFY dari sumber ESDM.",
+      "Mei 2026: pemerintah perkuat rencana CNG utk kendaraan+rumah tangga, harga diklaim lebih kompetitif dari LPG/BBM — VERIFY & label sebagai pernyataan pemerintah.",
+      "IESR: kritik 'konversi BBM ke BBG kebijakan setengah hati' — untuk honest section, atribusikan ke IESR."
+    ],
+    "pembangkit_remote": [
+      "ESDM: CNG sebagai bahan bakar pembangkit wilayah remote (tak terjangkau pipa) — anchor konsep.",
+      "PLN PLTMG Luwuk (Banggai, Sulteng) ~40 MW, klaim ~75.000 ton CO2/tahun dihindari (Kompas) — VERIFY.",
+      "PGN mendukung gasifikasi pembangkit PLN di ~52->56 lokasi (mandat Kepmen ESDM 13/2020) — VERIFY jumlah terkini.",
+      "Estimasi kebutuhan ~167 BBTUD gas untuk 52 pembangkit; investasi ~USD 1,5-2,5 miliar (PGN) — VERIFY & label estimasi.",
+      "PLN memakai CNG dikirim via CNG Vessel untuk pembangkit tanpa pipa — VERIFY contoh.",
+      "Dual-fuel PLTDG: mode gas hemat ~40% vs single-fuel HSD (jurnal) — VERIFY & label sebagai temuan studi.",
+      "'Konversi diesel PLN ke gas dinilai belum ekonomis' (Bisnis) — honest anchor, atribusikan.",
+      "PLN EPI LNG cluster Nusa Tenggara ~477 MW, target onstream ~2029 — VERIFY (konteks cousin LNG)."
+    ],
+    "vs_bahan_bakar_padat": [
+      "Cangkang sawit nilai kalor ~4.000-4.500 kkal/kg; harga ~Rp 800-1.200/kg (relatif stabil, domestik) — VERIFY & label rentang.",
+      "Biaya bahan bakar per ton uap: biomassa/batubara ~Rp150.000-270.000 (kompetitor boiler) — VERIFY sumber & label.",
+      "Studi kasus boiler: batubara ~Rp27,5 M/thn vs kayu ~Rp10,3 M/thn vs cangkang sawit ~Rp13,2 M/thn (satu sistem) — VERIFY, label studi kasus.",
+      "Cangkang sawit ~50% lebih rendah emisi CO2 vs batubara (klaim) — VERIFY & label.",
+      "Co-firing biomassa 2024: ~47 PLTU, ~1,67 juta MWh, ~1,62 juta ton biomassa (konteks sektor listrik) — VERIFY.",
+      "Multi Bintang beralih dari GAS ke biomassa (sekam padi 80% + kayu 20%, mitra Tasma Bio Energi) — nuansa jujur bahwa arus tidak selalu 'menuju gas'.",
+      "Keunggulan gas: pembakaran bersih, kontrol suhu presisi, tanpa abu/penanganan limbah padat, tanpa lahan simpan, emisi PM/SOx mendekati nol — VERIFY framing teknis.",
+      "EIA CO2 per MMBTU: gas alam 52,91 vs batubara jauh lebih tinggi (bituminous ~93) — VERIFY angka batubara."
+    ]
+  },
+  "history_snapshot": {
+    "committed_cng_indonesia_15": [
+      "apa-itu-cng-cara-kerja-kompresi (definisi/fisika)",
+      "cng-vs-lng-vs-lpg-kapan-pakai (perbandingan produk gas)",
+      "manfaat-cng-industri-lingkungan (manfaat + kapan belum cocok)",
+      "cng-beyond-pipeline-daerah-tanpa-pipa (MEKANIKA distribusi: Mother Station/GTM/PRS/vessel)",
+      "cng-transisi-energi-indonesia (bridge fuel/NZE 2060/bauran energi makro)",
+      "cng-3kg-tabung-merah-putih-pengganti-lpg (produk rumah tangga)",
+      "keselamatan-cng-spesifikasi-tabung-standar (keselamatan & standar tabung)",
+      "mitos-fakta-cng-benar-salah (mitos/fakta, termasuk takut meledak)",
+      "cng-vs-listrik-ev-dua-jalur-energi-bersih (CNG vs EV)",
+      "sejarah-cng-bbg-indonesia-1986-2026 (sejarah)",
+      "cng-global-vs-indonesia-benchmark-adopsi (benchmark adopsi global)",
+      "cng-kualitas-udara-dan-dampak-kesehatan (kualitas udara/kesehatan lokal)",
+      "cng-substitusi-impor-lpg-ketahanan-energi (fiskal/devisa/substitusi impor LPG)",
+      "ekonomi-pipa-vs-virtual-pipeline-cng (EKONOMI pipa vs virtual pipeline: capex/opex/TCO)",
+      "bio-cng-biometana-cng-terbarukan (Bio-CNG dari limbah sawit)"
+    ],
+    "held_taken": "kualitas gas / Wobbe index / nilai kalor spesifikasi (2026-08 final cng-indonesia-03, status revise/held) — TAKEN, jangan diulang.",
+    "committed_perusahaan_cng_18_commercial": [
+      "cara-memilih / kesalahan-memilih / pertanyaan-penyedia / keandalan-penyedia / layanan-penyedia / keamanan-keandalan-pasokan / manajemen-pasokan-multi-lokasi / model-harga-kontrak-minimum-offtake / data-esg-laporan / eskalasi-sla-kompensasi / industri-cara-berlangganan / migrasi-gas-pipa / pengadaan-dapur-mbg / perpanjang-atau-tender-ulang / tender-kontrak-payung / timeline-commissioning / tco-penyedia / cng-hotel-rumah-sakit-restoran-pengganti-lpg",
+      "NOTE: seluruhnya KOMERSIAL/procurement — brief informasional harus menjauh dari 'memilih/kontrak/SLA/TCO/tender/onboarding penyedia'."
+    ],
+    "uncovered_angles_selected_this_run": [
+      "01 regulasi-kebijakan-cng-indonesia (peta hukum/regulator/standar/roadmap) — flagged uncovered oleh cng-01 & cng-02; belum ada explainer regulasi netral.",
+      "02 cng-pembangkit-listrik-elektrifikasi-terpencil (aplikasi kelistrikan/remote power) — flagged 'ketahanan energi pulau terpencil' oleh cng-01; cng-04 hanya pakai PLN Batam/Lombok sebagai contoh MEKANIKA distribusi, bukan sudut kelistrikan.",
+      "03 cng-vs-batubara-biomassa-boiler-industri (perbandingan LAWAN bahan bakar PADAT) — sumbu baru; cng-02 = gas vs gas, gaslink-02 = gas vs LPG/solar (cair). Belum ada lawan padat."
+    ],
+    "still_open_for_future": [
+      "CNG untuk maritim/bunkering kapal (marine fuel)",
+      "Memahami satuan energi gas (MMBTU/m3/LSP) tanpa menabrak angle Wobbe/nilai-kalor",
+      "CNG untuk sektor pertanian/pengeringan hasil panen (drying)",
+      "Emisi metana/methane slip rantai pasok (lifecycle) — hati-hati vs cng-05",
+      "Studi kasus kota/daerah tunggal pasca konversi (data lokal)"
+    ]
+  },
+  "cousins_from_month_set": {
+    "month_keyword_set": ["Gasku", "Gaslink", "CNG Indonesia", "Perusahaan CNG Indonesia", "Perusahaan LNG Indonesia"],
+    "hub_in_lead": "https://gagas.co.id/perusahaan-cng-indonesia/ (anchor 'CNG di Indonesia'; jangan pakai sbg cousin — hub yang sama)",
+    "brief_01_cousins": ["Gasku (program konversi BBM->BBG = inti kebijakan CNG)", "Perusahaan LNG Indonesia (LNG dlm kebijakan/infrastruktur gas nasional)"],
+    "brief_02_cousins": ["Perusahaan LNG Indonesia (LNG utk pembangkit kepulauan)", "Gaslink (pasokan gas industri/komersial on-site)"],
+    "brief_03_cousins": ["Gaslink (pasokan CNG industri = aplikasi langsung boiler)", "Perusahaan LNG Indonesia (LNG utk thermal volume besar)"]
+  },
+  "briefs_derived": [
+    {"brief_id": "cng-indonesia-01", "angle": "regulasi-kebijakan-cng-indonesia", "angle_hash": "sha1:8ac1dca048a4", "intent": "informational"},
+    {"brief_id": "cng-indonesia-02", "angle": "cng-pembangkit-listrik-elektrifikasi-terpencil", "angle_hash": "sha1:81a2002e741c", "intent": "informational"},
+    {"brief_id": "cng-indonesia-03", "angle": "cng-vs-batubara-biomassa-boiler-industri", "angle_hash": "sha1:b6c419ee9a22", "intent": "comparison"}
+  ]
+}

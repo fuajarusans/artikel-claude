@@ -1,0 +1,99 @@
+{
+  "keyword": "Vendor management system",
+  "keyword_slug": "vendor-management-system",
+  "month": "2026-09",
+  "captured_at": "2026-09-17",
+  "landing_page": "https://www.soltius.co.id/id/blog/sistem-manajemen-vendor",
+  "landing_page_summary": "Hub generik. H2: Pengertian, Manfaat, Kelebihan, Implementasi, Studi Kasus, Tantangan, Kesimpulan; H3 mencakup definisi/ruang lingkup, komponen utama, langkah implementasi, tips memilih, hambatan umum, strategi optimasi. Definisi longgar: 'VMS adalah konsep yang melibatkan pengelolaan dan pengawasan hubungan dengan pihak ketiga.' TIDAK menyebut SAP Fieldglass, SAP Ariba, SAP S/4HANA, contingent workforce, services procurement, atau spend analytics. Tidak membedakan VMS (tenaga kerja eksternal) vs supplier/vendor management (pemasok barang) vs e-procurement. Whitespace besar: disambiguasi konsep, mapping SAP, kedalaman implementasi/integrasi, dan kerangka keputusan.",
+  "data_sources_used": ["landing_page_webfetch", "live_websearch_serp", "websearch", "articles_history"],
+  "ahrefs_available": false,
+  "gsc_available": false,
+  "fresh_keyword": true,
+  "note": "KEYWORD BARU. Tidak ada di product_matrix.md maupun articles_history/ (index.json tanpa entri 'vendor-management-system'; tidak ada folder by_keyword/vendor-management-system/; tidak ada file vendor-management-system-* di monthly_runs 2026-06/2026-07-2/2026-08/2026-08-2 final). Dedup ringan; ruang angle lega. Mapping SAP diturunkan dari sap_focus (Fieldglass + Ariba) + riset.",
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Naik. Pendorong tenaga kerja eksternal 2025: 92% perusahaan menaikkan ketergantungan pada contingent labor; 41% eksekutif tidak punya visibilitas jelas atas tenaga kerja eksternal; pendorong utama = efisiensi biaya (74%) dan akses keahlian spesialis (62%) (SAP News, 2025). SAP Fieldglass = Market Leader pada Ardent VMS Tech Advisor 2025.",
+    "apr2026_rank": "n/a (seo_report: none untuk 2026-09; keyword baru, tanpa histori rank)"
+  },
+  "serp": {
+    "top_results_id": [
+      { "url": "https://vida.id/id/blog/vendor-management-system", "title": "Vendor Management System: Kunci Kelola Vendor yang Efisien", "angle_summary": "Definitional/efisiensi generik; sudut pengelolaan vendor umum, tidak SAP-aware, tidak membedakan tenaga kerja eksternal vs pemasok barang." },
+      { "url": "https://www.karlo.id/blog/vendor-management-system-vms--pengertian-tujuan-tips-dan-pentingnya-menggunakannya", "title": "Vendor Management System (VMS): Pengertian, Tujuan, Tips", "angle_summary": "Pengertian + tujuan + tips memilih; generik, tanpa mapping produk enterprise atau integrasi ERP." },
+      { "url": "https://www.soltius.co.id/id/blog/sistem-manajemen-vendor", "title": "Vendor Management System - Pengertian, Manfaat, dan Kelebihan (hub Soltius)", "angle_summary": "Hub Soltius sendiri; definitional/manfaat, tanpa SAP Fieldglass/Ariba, tanpa disambiguasi konsep." },
+      { "url": "https://www.weefer.co.id/id/2025/07/vendor-management-system/", "title": "Vendor Management System: Pengertian, Fitur, dan Manfaatnya", "angle_summary": "Pengertian + fitur + manfaat; vendor SaaS lokal, generik." },
+      { "url": "https://runmarket.id/blog/vendor-management-system/", "title": "Mengenal Vendor Management System untuk Procurement", "angle_summary": "Sudut procurement/pengadaan barang; menyamakan VMS dengan e-procurement pemasok, tidak menyentuh tenaga kerja kontingen/services procurement." },
+      { "url": "https://eprocurement-indonesia.com/pentingnya-memiliki-vendor-management-system/", "title": "Pentingnya Memiliki Vendor Management System", "angle_summary": "Argumen 'mengapa penting'; sudut e-procurement, generik." },
+      { "url": "https://promise.co.id/vendor-management-itu-apa", "title": "Vendor Management System dan Efektivitas Pengelolaan Vendor", "angle_summary": "Definitional + efektivitas; generik." },
+      { "url": "https://www.equiperp.com/blog/vendor-management-system/", "title": "Vendor Management System: Pengertian, Tujuan, dan Keuntungannya", "angle_summary": "Pengertian + keuntungan; vendor ERP lokal, generik." },
+      { "url": "https://www.mceasy.com/blog/bisnis/manajemen-pengiriman/vendor-management/", "title": "Vendor Management System untuk Manajemen Pengiriman", "angle_summary": "Sudut logistik/pengiriman (vendor transporter); niche logistik, bukan kerangka umum." }
+    ],
+    "serp_features": ["paa", "ai_overview_likely"],
+    "ai_overview_entities": ["vendor management system", "manajemen vendor", "procurement / pengadaan", "vendor onboarding", "kinerja vendor", "e-procurement", "supplier"],
+    "gap_analysis": "SERP ID hampir seluruhnya definitional/manfaat generik yang MENYAMAKAN 'VMS' dengan pengelolaan pemasok barang/e-procurement. TIDAK ADA konten ID yang: (1) mendisambiguasi VMS (tenaga kerja eksternal/kontingen & services procurement = SAP Fieldglass) vs Supplier/Vendor Management (pemasok barang & sourcing = SAP Ariba) vs e-procurement -> whitespace comparison terbesar; (2) menyajikan tahapan implementasi VMS yang matang + integrasi ke ERP/S/4HANA (procure-to-pay, data, governance) -> whitespace how-to; (3) memberi kerangka keputusan 'kapan perusahaan butuh VMS dan kapan belum' + build vs buy vs SaaS + TCO -> whitespace decision/counter-conventional. Ketiganya cocok untuk audiens B2B enterprise Soltius."
+  },
+  "paa": [
+    "Apa itu vendor management system?",
+    "Apa fungsi vendor management system?",
+    "Apa saja komponen vendor management system?",
+    "Apa perbedaan vendor management dan supplier management?",
+    "Apa perbedaan VMS dan e-procurement?",
+    "Apa itu SAP Fieldglass?",
+    "Apa itu SAP Ariba?",
+    "Apa itu contingent workforce (tenaga kerja kontingen)?",
+    "Bagaimana cara kerja vendor management system?",
+    "Bagaimana tahapan implementasi vendor management system?",
+    "Kapan perusahaan butuh vendor management system?",
+    "Bagaimana cara memilih vendor management system?",
+    "Berapa biaya vendor management system?",
+    "Apa manfaat vendor management system bagi perusahaan?"
+  ],
+  "paa_capture_note": "Google SERP direct-fetch diblokir (halaman error). PAA di atas diturunkan dari hasil WebSearch (judul & angle kompetitor), pola query B2B ID standar ('apa itu', 'apa bedanya', 'kapan perlu', 'berapa biaya'), dan related terms produk SAP. Bukan salinan verbatim kotak PAA Google.",
+  "verified_facts": {
+    "vms_two_meanings": "Istilah 'Vendor Management System (VMS)' punya dua makna yang sering dikaburkan konten ID: (a) makna ketat/industri global = perangkat lunak untuk mengelola tenaga kerja eksternal/kontingen (kontraktor, tenaga alih daya, freelancer) dan services procurement berbasis SOW -> ini yang disebut VMS oleh profesional procurement/HR global, dan diwakili SAP Fieldglass; (b) makna longgar/lokal yang mendominasi SERP ID = pengelolaan hubungan pemasok barang/jasa secara umum (registrasi, kontrak, kinerja), yang sebenarnya beririsan dengan Supplier Relationship Management (SRM)/Supplier Lifecycle Management dan e-procurement -> wilayah SAP Ariba.",
+    "sap_fieldglass": "SAP Fieldglass = vendor management system berbasis cloud untuk mengelola tenaga kerja eksternal (external workforce) dan services procurement. Membantu source, engage, manage, dan pay pekerja eksternal & penyedia jasa. Modul inti: (1) Contingent Workforce Management (pekerja individu dibayar per jam/hari: tenaga temporer, kontraktor, freelancer); (2) Services Procurement (pekerjaan berbasis proyek/Statement of Work (SOW) dengan deliverable). Alur end-to-end: requisition -> sourcing -> onboarding -> time/deliverable tracking -> invoicing -> payment. Sumber: sap.com/products/spend-management/about-fieldglass.html; sap.com contingent-workforce-management. VERIFY nama modul terkini (researcher).",
+    "sap_fieldglass_market_leader": "SAP Fieldglass diperingkatkan sebagai Market Leader dalam lanskap VMS menurut laporan Ardent Partners 'VMS Technology Advisor 2025'. VERIFY judul & tahun laporan persis (researcher) sebelum ditulis sebagai fakta.",
+    "sap_ariba": "SAP Ariba = platform procurement/spend management berbasis cloud untuk mengelola PEMASOK (supplier) barang & jasa. Fungsi: menemukan & meng-onboard supplier, sourcing/negosiasi, kontrak, buying, dan otomasi source-to-pay/procure-to-pay; supplier lifecycle & performance (mengelola siklus hidup + kinerja + risiko/kepatuhan supplier); spend analytics. Kuat untuk pengadaan tidak langsung (indirect) maupun langsung (direct). VERIFY nama solusi/modul terkini (mis. Supplier Lifecycle and Performance, Sourcing, Buying, Contracts, Spend Analysis) via help.sap.com (researcher).",
+    "fieldglass_vs_ariba": "Perbedaan inti: SAP Ariba mengelola SUPPLIER (perusahaan pemasok barang/jasa) lewat source-to-pay; SAP Fieldglass mengelola tenaga kerja EKSTERNAL/kontingen (orang) + services procurement berbasis SOW. Keduanya terintegrasi erat (Fieldglass <-> Ariba) sehingga services procurement & data master dapat dipertukarkan. Fieldglass juga terintegrasi ke SAP ERP/S/4HANA & SAP SuccessFactors (total workforce). Sumber: leverx.com (SAP S/4HANA Procurement vs Ariba vs Fieldglass); help.sap.com (SAP Fieldglass & SAP Ariba Integration Business Synopsis).",
+    "contingent_workforce_stats": "SAP News 2025: 92% perusahaan menaikkan ketergantungan pada contingent labor; 41% eksekutif tidak punya visibilitas jelas atas tenaga kerja eksternal; pendorong utama = efisiensi biaya (74%) dan akses keahlian spesialis (62%). Sumber: news.sap.com/2025/11/cost-to-capability-external-workforce-competitive-edge/. VERIFY angka & tanggal (researcher).",
+    "vms_core_components": "Komponen VMS/pengelolaan vendor yang umum: registrasi & onboarding vendor; kualifikasi & penilaian risiko/kepatuhan; manajemen kontrak; katalog/permintaan (requisition); pemantauan kinerja (KPI/SLA); dan integrasi ke keuangan/ERP untuk invoicing & pembayaran (procure-to-pay). Konten ID rata-rata menyebut ini secara generik tanpa memetakan ke produk atau integrasi ERP.",
+    "erp_integration": "Nilai terbesar VMS muncul saat terintegrasi ke ERP inti (SAP S/4HANA): master data vendor tunggal, alur procure-to-pay tanpa entri ganda, dan spend visibility yang menyatu. Fieldglass/Ariba adalah solusi cloud LoB yang terhubung ke S/4HANA -> tie-in ke clean core (integrasi via API standar/side-by-side, bukan modifikasi core). VERIFY detail konektor/skenario integrasi via help.sap.com (researcher)."
+  },
+  "external_citation_candidates": [
+    { "url": "https://www.sap.com/products/spend-management/about-fieldglass.html", "context": "SAP resmi: apa itu SAP Fieldglass (VMS untuk external workforce & services procurement)" },
+    { "url": "https://www.sap.com/products/hcm/contingent-workforce-management.html", "context": "SAP resmi: SAP Fieldglass Contingent Workforce Management" },
+    { "url": "https://news.sap.com/2025/11/cost-to-capability-external-workforce-competitive-edge/", "context": "SAP News 2025: statistik & tren strategi tenaga kerja eksternal (92% / 41% / 74% / 62%)" },
+    { "url": "https://help.sap.com/doc/b9285ee937f949c0a4ef80f41e379b62/cloud/en-US/SAPFieldglassandSAPAribaIntegrationBusinessSynopsis.pdf", "context": "SAP resmi: integrasi SAP Fieldglass dan SAP Ariba (batas & alur services procurement)" },
+    { "url": "https://leverx.com/newsroom/sap-s4hana-procurement-vs-sap-ariba-vs-sap-fieldglass", "context": "Perbandingan SAP S/4HANA Procurement vs SAP Ariba vs SAP Fieldglass (disambiguasi kategori) - sumber mitra, gunakan untuk konteks, utamakan sumber SAP resmi" }
+  ],
+  "history_snapshot": {
+    "existing_articles_for_keyword": [],
+    "existing_articles_note": "Tidak ada artikel sebelumnya untuk keyword ini di committed history maupun batch belum-commit. Ini artikel-artikel FONDASI pertama untuk cluster vendor-management-system.",
+    "uncovered_angles": [
+      "Disambiguasi VMS vs Supplier/Vendor Management vs e-procurement; SAP Fieldglass vs SAP Ariba -> dipakai 2026-09-01 (comparison)",
+      "Tahapan implementasi VMS + integrasi ke ERP/S/4HANA (onboarding -> kualifikasi -> kontrak -> kinerja -> procure-to-pay) -> dipakai 2026-09-02 (how-to)",
+      "Kapan perusahaan butuh VMS dan kapan belum; kriteria pemilihan; build vs buy vs SaaS; TCO -> dipakai 2026-09-03 (decision/counter-conventional)",
+      "Contingent workforce management mendalam via SAP Fieldglass (SOW, compliance tenaga kerja eksternal) -> terbuka untuk bulan depan",
+      "Spend analytics & supplier performance (KPI/SLA vendor) mendalam -> terbuka",
+      "Vendor risk management & kepatuhan (ESG, sanksi, keamanan data pihak ketiga) -> terbuka",
+      "VMS untuk industri spesifik (manufaktur/perkebunan/distribusi) -> terbuka"
+    ]
+  },
+  "cousins_this_month": {
+    "note": "Cousins dipilih dari set 2026-09 (bukan product_matrix default). Set: warehouse management system, Low Code Platform, Business Intelligence, SAP Clean Core.",
+    "assignments": {
+      "01_comparison": [
+        { "keyword": "Business Intelligence", "url": "https://www.soltius.co.id/id/blog/business-intelligence", "why": "Data vendor/supplier yang bersih dari VMS/Ariba adalah bahan bakar spend analytics & dashboard kinerja vendor di SAP Analytics Cloud." },
+        { "keyword": "SAP Clean Core", "url": "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide", "why": "Fieldglass & Ariba adalah solusi cloud LoB yang memperluas S/4HANA lewat integrasi standar (side-by-side), menjaga core tetap bersih." }
+      ],
+      "02_howto": [
+        { "keyword": "SAP Clean Core", "url": "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide", "why": "Mengintegrasikan VMS cloud ke S/4HANA sebaiknya lewat API standar/side-by-side agar core tetap upgrade-safe (clean core)." },
+        { "keyword": "warehouse management system", "url": "https://www.soltius.co.id/id/blog/konsep-warehouse-management-system-yang-wajib-anda-tahu", "why": "Vendor memasok barang yang mengalir inbound ke gudang; alur pengadaan-ke-gudang menghubungkan VMS/procurement dengan WMS." }
+      ],
+      "03_decision": [
+        { "keyword": "Business Intelligence", "url": "https://www.soltius.co.id/id/blog/business-intelligence", "why": "Kebutuhan visibilitas & analitik kinerja/biaya vendor sering jadi pemicu utama adopsi VMS." },
+        { "keyword": "Low Code Platform", "url": "https://www.soltius.co.id/id/blog/low-code-and-no-code-platforms", "why": "Aplikasi vendor/procurement adalah kandidat klasik keputusan build vs buy vs low-code sebelum memutuskan VMS penuh." }
+      ]
+    }
+  }
+}

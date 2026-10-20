@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-ptpii\\monthly_runs\\2026-08\\final\\public-private-partnership-01.en.md",
+    "language":  "en",
+    "generated_at":  "2026-08-12T15:38:49+07:00",
+    "word_count":  1856,
+    "paragraph_count":  25,
+    "sentence_count":  105,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.332,
+                        "sentence_burstiness":  1.031,
+                        "top30_vocab_share":  0.269,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.332 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "As at June 2026 it had guaranteed 61 projects, 38 of them KPBU, worth more than IDR 732 trillion.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"As at June 2026 it had guaranteed 61 projects, 38 of them KPBU, worth more than IDR 732 trillion.\""
+                                  },
+                                  {
+                                      "passage":  "KPBU (*Kerja Sama Pemerintah dengan Badan Usaha*) is Indonesia\u0027s legal term for a public private partnership, defined under Perpres 38/2015.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"KPBU (*Kerja Sama Pemerintah dengan Badan Usaha*) is Indonesia\u0027s legal term for a public private partnership, defined un\""
+                                  },
+                                  {
+                                      "passage":  "78 Tahun 2010, still in force, with Peraturan Menteri Keuangan (Minister of Finance Regulation) No.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"78 Tahun 2010, still in force, with Peraturan Menteri Keuangan (Minister of Finance Regulation) No.\""
+                                  },
+                                  {
+                                      "passage":  "Support pays: the Viability Gap Fund covers up to 49% of construction, equipment, and installation cost under PMK 68/2024.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"Support pays: the Viability Gap Fund covers up to 49% of construction, equipment, and installation cost under PMK 68/202\""
+                                  },
+                                  {
+                                      "passage":  "In Indonesia\u0027s KPBU scheme (*Kerja Sama Pemerintah dengan Badan Usaha*), under Peraturan Presiden No.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"In Indonesia\u0027s KPBU scheme (*Kerja Sama Pemerintah dengan Badan Usaha*), under Peraturan Presiden No.\""
+                                  },
+                                  {
+                                      "passage":  "The [JDIH record for PMK 68 Tahun 2024](https://jdih.kemenkeu.go.id/dok/pmk-68-tahun-2024) is the current position.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"The [JDIH record for PMK 68 Tahun 2024](https://jdih.kemenkeu.go.id/dok/pmk-68-tahun-2024) is the current position.\""
+                                  },
+                                  {
+                                      "passage":  "## How to test your own risk matrix before you bid Run the matrix through five tests before committing bid costs.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## How to test your own risk matrix before you bid Run the matrix through five tests before committing bid costs.\""
+                                  },
+                                  {
+                                      "passage":  "As the Ministry of Finance\u0027s Badan Usaha Penjaminan Infrastruktur, PT PII issues government guarantees intended to raise a project\u0027s creditworthiness while ring-fencing the state\u0027s contingent liabilities.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"As the Ministry of Finance\u0027s Badan Usaha Penjaminan Infrastruktur, PT PII issues government guarantees intended to raise\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

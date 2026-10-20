@@ -1,0 +1,81 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-09\\final\\cara-clean-core-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-01T08:14:09+07:00",
+    "word_count":  1027,
+    "paragraph_count":  17,
+    "sentence_count":  57,
+    "ai_detector":  {
+                        "score":  0.19,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.298,
+                        "sentence_burstiness":  0.588,
+                        "top30_vocab_share":  0.366,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-uniformity",
+                                          "severity":  "high",
+                                          "snippet":  "Paragraph word-count CV=0.298 (target \u003e=0.45; \u003c0.30 is strong AI tell)",
+                                          "line":  -1
+                                      },
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 36.6% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Mainstream maintenance SAP ECC berakhir 31 Desember 2027, dengan extended maintenance opsional bertarif tambahan 2 poin persen sampai 2030.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Mainstream maintenance SAP ECC berakhir 31 Desember 2027, dengan extended maintenance opsional bertarif tambahan 2 poin \""
+                                  },
+                                  {
+                                      "passage":  "Fit-to-standard | Adopsi proses standar SAP dulu; kustomisasi hanya untuk gap nyata | Workshop fit-to-standard / SAP Best Practices | | 2.",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"Fit-to-standard | Adopsi proses standar SAP dulu; kustomisasi hanya untuk gap nyata | Workshop fit-to-standard / SAP Bes\""
+                                  },
+                                  {
+                                      "passage":  "| Langkah | Fokus | Tool / Output SAP | |---|---|---| | 1.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"| Langkah | Fokus | Tool / Output SAP | |---|---|---| | 1.\""
+                                  },
+                                  {
+                                      "passage":  "Pilih model ekstensi | In-app (key-user) vs side-by-side (SAP BTP) vs on-stack ABAP Cloud | Ekstensi via released API, utamakan level A/B | | 5.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Pilih model ekstensi | In-app (key-user) vs side-by-side (SAP BTP) vs on-stack ABAP Cloud | Ekstensi via released API, u\""
+                                  },
+                                  {
+                                      "passage":  "Menurut [SAP News Center](https://news.sap.com/2025/08/extend-sap-s4hana-cloud-right-way-clean-clear/), tingkatannya berjenjang: - **Level A:** paling bersih, hanya released API SAP, lewat on-stack ABAP Cloud atau side-by-side di SAP BTP.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Menurut [SAP News Center](https://news.sap.com/2025/08/extend-sap-s4hana-cloud-right-way-clean-clear/), tingkatannya ber\""
+                                  },
+                                  {
+                                      "passage":  "Private Edition dan on-premise memberi kelonggaran; classic extensibility masih tersedia, meski SAP tetap merekomendasikan jalur bersih lewat ABAP Cloud dan SAP BTP.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Private Edition dan on-premise memberi kelonggaran; classic extensibility masih tersedia, meski SAP tetap merekomendasik\""
+                                  },
+                                  {
+                                      "passage":  "Tetapkan target | Sasaran per dimensi clean core: proses, ekstensi, integrasi, data, operasi | Target level per dimensi (baseline terukur) | | 4.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"Tetapkan target | Sasaran per dimensi clean core: proses, ekstensi, integrasi, data, operasi | Target level per dimensi \""
+                                  },
+                                  {
+                                      "passage":  "Sebagian besar kode lama justru bisa dihentikan; temuan industri menyebut sekitar 40-60% custom code legacy sudah tak terpakai.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Sebagian besar kode lama justru bisa dihentikan; temuan industri menyebut sekitar 40-60% custom code legacy sudah tak te\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

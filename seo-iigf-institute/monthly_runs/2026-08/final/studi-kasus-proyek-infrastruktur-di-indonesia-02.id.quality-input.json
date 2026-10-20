@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-iigf-institute\\monthly_runs\\2026-08\\final\\studi-kasus-proyek-infrastruktur-di-indonesia-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-12T15:17:32+07:00",
+    "word_count":  1594,
+    "paragraph_count":  17,
+    "sentence_count":  83,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.422,
+                        "sentence_burstiness":  0.962,
+                        "top30_vocab_share":  0.285,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.422 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "- ***Availability payment*** (AP, pembayaran ketersediaan layanan): PJPK (Penanggung Jawab Proyek Kerja Sama) membayar berkala selama layanan memenuhi kriteria kontrak; dasar hukumnya PMK 260/PMK.08/2016, berlaku per 2026.",
+                                      "candidate_score":  34,
+                                      "web_search_query":  "\"- ***Availability payment*** (AP, pembayaran ketersediaan layanan): PJPK (Penanggung Jawab Proyek Kerja Sama) membayar b\""
+                                  },
+                                  {
+                                      "passage":  "Pada PSEL Legok Nangka besarannya Rp 386.000 per ton (kesepakatan 2019, indikatif): 30 persen ditanggung provinsi, 70 persen kabupaten/kota.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Pada PSEL Legok Nangka besarannya Rp 386.000 per ton (kesepakatan 2019, indikatif): 30 persen ditanggung provinsi, 70 pe\""
+                                  },
+                                  {
+                                      "passage":  "Masa konsesinya pun berbeda: 40 tahun menurut Kementerian Keuangan, 50 tahun menurut Kementerian PU.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Masa konsesinya pun berbeda: 40 tahun menurut Kementerian Keuangan, 50 tahun menurut Kementerian PU.\""
+                                  },
+                                  {
+                                      "passage":  "**Layak ekonomi tetapi belum layak finansial?** Itu indikasi kebutuhan dukungan kelayakan (*viability gap fund*/VGF, diatur PMK 223/2012 jo.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"**Layak ekonomi tetapi belum layak finansial?** Itu indikasi kebutuhan dukungan kelayakan (*viability gap fund*/VGF, dia\""
+                                  },
+                                  {
+                                      "passage":  "PMK 170/2018), dengan syarat antara lain nilai investasi minimal Rp 100 miliar.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"PMK 170/2018), dengan syarat antara lain nilai investasi minimal Rp 100 miliar.\""
+                                  },
+                                  {
+                                      "passage":  "## *Availability Payment* Bukan Jalan Pintas: Ia Memindahkan Risiko, Bukan Menghapusnya AP memang membuat proyek lebih menarik bagi badan usaha karena pengembaliannya tidak bergantung pada jumlah pengguna.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## *Availability Payment* Bukan Jalan Pintas: Ia Memindahkan Risiko, Bukan Menghapusnya AP memang membuat proyek lebih m\""
+                                  },
+                                  {
+                                      "passage":  "## Cara Memilih Mekanisme yang Tepat untuk Sektor Anda Mulailah dari pembayarnya, bukan dari sektornya.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Cara Memilih Mekanisme yang Tepat untuk Sektor Anda Mulailah dari pembayarnya, bukan dari sektornya.\""
+                                  },
+                                  {
+                                      "passage":  "PJPK adalah Penanggung Jawab Proyek Kerja Sama: menteri, kepala lembaga, atau kepala daerah yang mewakili pemerintah dalam perjanjian KPBU.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"PJPK adalah Penanggung Jawab Proyek Kerja Sama: menteri, kepala lembaga, atau kepala daerah yang mewakili pemerintah dal\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

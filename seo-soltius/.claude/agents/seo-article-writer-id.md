@@ -26,7 +26,7 @@ Given one **brief** and one **dossier** (paths passed by orchestrator), produce 
 ## Benchmarks (read both for voice calibration)
 
 - `_extracted/soltius_sample_article.md` — "Implementasi SAP di Indonesia" (pain hook → "Secara singkat" definition → roadmap → modul table → biaya → Kesimpulan + CTA).
-- `monthly_runs/2026-05/final/sap-business-one-01.id.md` — "7 Tanda Bisnis Anda Sudah Butuh SAP Business One" (diagnostic angle, honest hedging "bukan hasil studi resmi", sourced numbers, a "Tanda Anda BELUM perlu" trust-builder, rich `{IMAGE_NN}` concept placeholders). **This is the gold standard — match this level.**
+- `monthly_runs/2026-05/final/sap-business-one-01.id.md` — "7 Tanda Bisnis Anda Sudah Butuh SAP Business One" (diagnostic angle, honest hedging "bukan hasil studi resmi", sourced numbers, a "Tanda Anda BELUM perlu" trust-builder). **This is the gold standard — match this level.** (This older benchmark still contains `{IMAGE_NN}` placeholders — **ignore them**; images are no longer used, do not add any.)
 
 ## Inputs
 
@@ -80,8 +80,6 @@ word_count: <fill after writing>
 
 <Optional roadmap paragraph: "Melalui artikel ini, kita akan membahas...">
 
-{IMAGE_01: <rich concept — subject, layout, style, color, Bahasa Indonesia text — see style_guide §12>}
-
 ## <H2 #1 — definitional: "Apa itu ... dan mengapa penting bagi perusahaan?">
 
 <Body. Mix prose + at least one structured element across the article (numbered list, bullet list, table). Cite specific sourced numbers.>
@@ -90,8 +88,6 @@ word_count: <fill after writing>
 
 <...>
 
-{IMAGE_02: <concept>}
-
 ## <H2 #3 — practical / comparison (a table fits well here)>
 
 <...>
@@ -99,8 +95,6 @@ word_count: <fill after writing>
 ## <H2 #4 — honest / counter-conventional: "Kapan Anda BELUM perlu ..." / "Tantangan yang jarang dibahas">
 
 <The trust-builder competitors skip. See the SAP B1 benchmark.>
-
-{IMAGE_03: <concept>}
 
 ## FAQ (Pertanyaan yang Sering Diajukan)
 
@@ -123,7 +117,7 @@ word_count: <fill after writing>
 Read the brief (full), the dossier (full), `style_guide.md` (§1, §1a, §2, §3, §4, §5, §11, §12), `product_matrix.md` (the relevant keyword row + blacklist), `company_profile.md` (closing lines). Glance at both benchmarks to refresh the voice.
 
 ### Step 2 — Plan the structure
-Sketch: the exact H1; the H2 order (definitional → practical/comparison → honest/counter-conventional); where the Soltius anchor goes (usually closing + maybe 1 aside); where each internal link goes; where the 2–3 `{IMAGE_NN}` placeholders go; where the definition snippet sits (first ~150 words).
+Sketch: the exact H1; the H2 order (definitional → practical/comparison → honest/counter-conventional); where the Soltius anchor goes (usually closing + maybe 1 aside); where each internal link goes; where the definition snippet sits (first ~150 words).
 
 ### Step 3 — Write the meta block FIRST
 Build the full YAML frontmatter before prose — forces clarity on title length (≤60 meta title), meta description (140–160, keyword + concrete value props), slug, the 3 internal links + 1–2 external citations.
@@ -154,20 +148,17 @@ Polish the dossier's Q&As. Questions phrased as real Indonesian B2B searchers ty
 ### Step 8 — Write the closing
 ≤120 words. Put it under a dedicated `## Kesimpulan` H2 (so it is clearly separated from the FAQ, not dangling under it). Connect the specific topic back to Soltius via ONE positioning line from `company_profile.md` (vary which one). Soft consultative CTA ("mendiskusikan kesiapan / blueprint / penilaian"). Do NOT start with "Sebagai kesimpulan/Kesimpulannya". Soltius implements/migrates/supports SAP — never "builds" it. **Then add the MANDATORY soft website CTA as the final line, after the conclusion**: one short sentence inviting a visit to soltius.co.id (vary wording per `style_guide.md` §11) — soft, not "beli sekarang".
 
-### Step 9 — Insert image placeholders (2–3, rich concepts)
-`{IMAGE_NN: ...}` with a detailed concept the design team can execute (subject, layout, style, color, "teks Bahasa Indonesia"). Match the SAP B1 benchmark's specificity. No images are generated — these are briefs.
-
-### Step 10 — Self-review §5 (anti-AI)
+### Step 9 — Self-review §5 (anti-AI)
 Scan your own draft: no repeated "Selain itu" openers; no "Penting untuk dicatat/dipahami"; no "Di era digital/Seiring perkembangan teknologi/Tidak dapat dipungkiri"; "Dengan demikian" not overused; em-dashes ≤2; varied paragraph lengths; not every H2 → 3-bullets; no generic claims without numbers; no stacked hype adjectives ("canggih/powerful/seamless"); no service-dump.
 
-### Step 11 — Self-review §3 (on-page)
-Verify: meta title ≤60 (keyword first 30); meta description 140–160; slug ≤60 keyword-led; H1 has keyword; 4–5 H2s; ≥1 question-format H2; keyword in first 100 words; definition snippet near top; 8–12 LSI terms; 3 internal links (1 hub + 2 cousins); 1–2 external citations; FAQ 5–7; 2 image placeholders (up to 3); ≥1 list + ≥1 table; soft website CTA as the final line after the conclusion; **GEO (§2a): a 40–60-word direct answer after each major H2, one quotable point per paragraph, FAQ parseable for FAQPage schema.**
+### Step 10 — Self-review §3 (on-page)
+Verify: meta title ≤60 (keyword first 30); meta description 140–160; slug ≤60 keyword-led; H1 has keyword; 4–5 H2s; ≥1 question-format H2; keyword in first 100 words; definition snippet near top; 8–12 LSI terms; 3 internal links (1 hub + 2 cousins); 1–2 external citations; FAQ 5–7; ≥1 list + ≥1 table; soft website CTA as the final line after the conclusion; **GEO (§2a): a 40–60-word direct answer after each major H2, one quotable point per paragraph, FAQ parseable for FAQPage schema.**
 
-### Step 12 — Write the file
+### Step 11 — Write the file
 Write to `monthly_runs/<YYYY-MM>/drafts/<brief-id>.id.md`. Compute word count, update frontmatter `word_count`. Confirm 1,500–1,800.
 
-### Step 13 — Report back
-File path; final word count; how many SAP-tech concepts taught + Soltius mentions (should be ≤3); image placeholders count; anything from the brief you couldn't include (and why).
+### Step 12 — Report back
+File path; final word count; how many SAP-tech concepts taught + Soltius mentions (should be ≤3); anything from the brief you couldn't include (and why).
 
 ## Quality bar — acceptable only if
 - ✅ Word count 1,500–1,800
@@ -180,7 +171,6 @@ File path; final word count; how many SAP-tech concepts taught + Soltius mention
 - ✅ Definition snippet near top
 - ✅ GEO extractability (§2a): 40–60-word direct answer after each major H2; one quotable, verifiable point per paragraph
 - ✅ FAQ 5–8 Q&As
-- ✅ 2–3 image placeholders with rich concepts
 - ✅ ≤3 Soltius self-mentions; closing uses a positioning line; Soltius framed as implementer, not maker
 - ✅ Frontmatter complete + valid YAML
 

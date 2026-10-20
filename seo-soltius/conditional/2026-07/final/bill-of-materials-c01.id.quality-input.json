@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-07\\final\\bill-of-materials-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-06T19:24:29+07:00",
+    "word_count":  985,
+    "paragraph_count":  20,
+    "sentence_count":  41,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.479,
+                        "sentence_burstiness":  0.987,
+                        "top30_vocab_share":  0.359,
+                        "flags":  [
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 35.9% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "## Contoh Struktur BOM Bertingkat Struktur BOM bertingkat dibaca per level: Level 0 adalah produk jadi, Level 1 sub-assembly, Level 2 komponen atau bahan baku.",
+                                      "candidate_score":  37,
+                                      "web_search_query":  "\"## Contoh Struktur BOM Bertingkat Struktur BOM bertingkat dibaca per level: Level 0 adalah produk jadi, Level 1 sub-asse\""
+                                  },
+                                  {
+                                      "passage":  "Sumbu fungsi dokumen memisahkan Engineering BOM (EBOM), produk sebagaimana dirancang tim engineering, dari Manufacturing BOM (MBOM), produk sebagaimana dibuat di lantai produksi.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Sumbu fungsi dokumen memisahkan Engineering BOM (EBOM), produk sebagaimana dirancang tim engineering, dari Manufacturing\""
+                                  },
+                                  {
+                                      "passage":  "Multi-level (indented) BOM menampilkan seluruh struktur bertingkat Level 0-1-2 dan seterusnya, mengikuti sub-assembly sampai bahan baku terbawah, seperti contoh kursi kantor dengan 8 baris pada tabel di atas.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Multi-level (indented) BOM menampilkan seluruh struktur bertingkat Level 0-1-2 dan seterusnya, mengikuti sub-assembly sa\""
+                                  },
+                                  {
+                                      "passage":  "Dari pesanan 100 kursi pada ilustrasi di atas, MRP menurunkan kebutuhan 500 roda kastor, 400 baut M8, dan 80 m² kain pelapis.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Dari pesanan 100 kursi pada ilustrasi di atas, MRP menurunkan kebutuhan 500 roda kastor, 400 baut M8, dan 80 m² kain pel\""
+                                  },
+                                  {
+                                      "passage":  "Penyebabnya, menurut materi resmi [SAP Learning](https://learning.sap.com/courses/exploring-basic-data-for-manufacturing-and-product-management-in-sap-s-4hana/introducing-bills-of-material-boms-), BOM dibaca empat proses inti sekaligus: perencanaan kebutuhan material, produksi, pengadaan, dan *product costing* (perhitungan biaya produk).",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Penyebabnya, menurut materi resmi [SAP Learning](https://learning.sap.com/courses/exploring-basic-data-for-manufacturing\""
+                                  },
+                                  {
+                                      "passage":  "Single-level BOM hanya menampilkan satu tingkat, yaitu produk jadi beserta komponen langsungnya.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Single-level BOM hanya menampilkan satu tingkat, yaitu produk jadi beserta komponen langsungnya.\""
+                                  },
+                                  {
+                                      "passage":  "Di SAP S/4HANA Manufacturing, BOM tersusun atas BOM header yang memuat base quantity dan BOM item; satu struktur itulah yang menjadi acuan bersama keempat proses di atas.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Di SAP S/4HANA Manufacturing, BOM tersusun atas BOM header yang memuat base quantity dan BOM item; satu struktur itulah \""
+                                  },
+                                  {
+                                      "passage":  "Untuk mendiskusikan penataan BOM dan kesiapan SAP S/4HANA Manufacturing di perusahaan Anda, kunjungi soltius.co.id.",
+                                      "candidate_score":  8,
+                                      "web_search_query":  "\"Untuk mendiskusikan penataan BOM dan kesiapan SAP S/4HANA Manufacturing di perusahaan Anda, kunjungi soltius.co.id.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

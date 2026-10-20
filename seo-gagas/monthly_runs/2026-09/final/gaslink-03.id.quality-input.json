@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-09\\final\\gaslink-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-21T10:12:09+07:00",
+    "word_count":  1596,
+    "paragraph_count":  26,
+    "sentence_count":  89,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.371,
+                        "sentence_burstiness":  0.73,
+                        "top30_vocab_share":  0.312,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.371 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Standar rujukan internasional untuk sterilisasi uap sekitar 121°C (setara 15 psig), namun spesifikasinya tetap harus divalidasi sesuai CPOB/GMP fasilitas masing-masing.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Standar rujukan internasional untuk sterilisasi uap sekitar 121°C (setara 15 psig), namun spesifikasinya tetap harus div\""
+                                  },
+                                  {
+                                      "passage":  "## Kapan Retrofit BELUM Sepadan — dan Kesalahan Teknis yang Sering Terjadi Retrofit tidak selalu langkah terbaik.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Kapan Retrofit BELUM Sepadan — dan Kesalahan Teknis yang Sering Terjadi Retrofit tidak selalu langkah terbaik.\""
+                                  },
+                                  {
+                                      "passage":  "# Konversi Boiler \u0026 Oven ke Gaslink: Panduan Retrofit per Industri Ketika harga solar industri naik dan tagihan bahan bakar boiler ikut membengkak, banyak pabrik melirik gas bumi.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"# Konversi Boiler \u0026 Oven ke Gaslink: Panduan Retrofit per Industri Ketika harga solar industri naik dan tagihan bahan ba\""
+                                  },
+                                  {
+                                      "passage":  "## Apa yang Sebenarnya Berubah saat Peralatan Beralih dari Solar ke Gas?",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Apa yang Sebenarnya Berubah saat Peralatan Beralih dari Solar ke Gas?\""
+                                  },
+                                  {
+                                      "passage":  "Nilai kalor gas bumi relatif stabil, standar internasional sekitar 35,6 MJ/m³, sehingga mendukung suhu pembakaran lebih konsisten dibanding bahan bakar cair.",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"Nilai kalor gas bumi relatif stabil, standar internasional sekitar 35,6 MJ/m³, sehingga mendukung suhu pembakaran lebih \""
+                                  },
+                                  {
+                                      "passage":  "**Setel ulang air-fuel ratio \u0026 kontrol.** Kalibrasi rasio udara-gas serta perangkat keselamatan seperti flame detector dan solenoid valve.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"**Setel ulang air-fuel ratio \u0026 kontrol.** Kalibrasi rasio udara-gas serta perangkat keselamatan seperti flame detector d\""
+                                  },
+                                  {
+                                      "passage":  "## Konversi per Industri: Tekstil, Keramik, F\u0026B, dan Farmasi Empat sektor ini menuntut pembakaran berbeda.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"## Konversi per Industri: Tekstil, Keramik, F\u0026B, dan Farmasi Empat sektor ini menuntut pembakaran berbeda.\""
+                                  },
+                                  {
+                                      "passage":  "Untuk gas bumi (metana), rasio stoikiometriknya sekitar 1:9,5 berdasarkan volume udara terhadap gas, bukan 14,7:1 yang lazim dikenal untuk mesin bensin.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Untuk gas bumi (metana), rasio stoikiometriknya sekitar 1:9,5 berdasarkan volume udara terhadap gas, bukan 14,7:1 yang l\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

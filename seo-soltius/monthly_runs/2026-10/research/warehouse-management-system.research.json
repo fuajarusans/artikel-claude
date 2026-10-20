@@ -1,0 +1,99 @@
+{
+  "keyword": "warehouse management system",
+  "keyword_slug": "warehouse-management-system",
+  "month": "2026-10",
+  "captured_at": "2026-10-07",
+  "priority": "grow",
+  "landing_page": "https://www.soltius.co.id/id/blog/manfaat-dan-modul-warehouse-management-system",
+  "landing_page_note": "OCTOBER USES THE NEW HUB URL (manfaat-dan-modul-warehouse-management-system), NOT the old /konsep-warehouse-management-system-yang-wajib-anda-tahu. All 2026-10 WMS briefs use the new URL as the primary internal link.",
+  "landing_page_summary": "New hub positions WMS as an ERP module for supply-chain control (shipping, receiving, putaway, movement, packing) with FIFO/LIFO/FEFO; two sections only — 'Manfaat Menggunakan WMS' and 'Modul WMS'. Modules named: Inventory Control, Item Management, Floating Location System, Barcode Integrated, Gridding System, Cross Docking. Does NOT elaborate picking strategy, returns/reverse logistics, hazardous-materials (B3) handling, peak-season readiness, or packing/VAS/cartonization — exactly the gaps this month's 5 briefs fill.",
+  "data_sources_used": ["live_websearch_serp", "landing_page_webfetch", "articles_history", "prior_batch_finals_dedup"],
+  "ahrefs_available": false,
+  "ahrefs_note": "Ahrefs MCP server is configured but NOT authorized this session (OAuth required). No volume/KD/SERP metrics pulled. seo_report for 2026-10 = 'none' per keywords.md. Ranking/metric fields are n/a; strategy rests on live SERP + saturation history.",
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Structurally rising demand: Indonesia e-commerce + warehousing growth; Harbolnas 2024 (10-16 Dec) booked Rp31,2 triliun, +21,4% YoY vs Rp25,7 triliun (2023), 98 juta pelanggan, order surge 5-10x normal days (Kemendag via Katadata/Antara). Returns now a cost center: reverse-logistics market expanding, fashion return rates up to 40%.",
+    "apr2026_rank": "n/a (keyword not in the Apr 2026 report; added as a monthly keyword)"
+  },
+  "serp": {
+    "top_organic_observed": [
+      { "source": "leafio.ai / conveyco / storefeeder / redstagfulfillment", "title": "Warehouse picking methods: batch, wave, zone, cluster", "angle_summary": "Global SERP for picking strategy is dominated by generic 3PL/fulfillment explainers; no Indonesian SAP-anchored, decision-framework version." },
+      { "source": "sgsystemsglobal / infor / inboundlogistics / DHL (id)", "title": "Returns (RMA) / reverse logistics in warehousing", "angle_summary": "Returns/reverse-logistics content is mostly English glossary + 3PL; DHL has an Indonesia returns piece. No SAP EWM returns-disposition angle in ID." },
+      { "source": "racklify / golocad", "title": "Preparing your warehouse for peak season (capacity, staffing, WMS, carrier)", "angle_summary": "Peak-season playbooks exist but are US-holiday framed; none localized to Harbolnas/11.11/Lebaran with WMS tuning." },
+      { "source": "jurnal.id / jubelio / academic eprints", "title": "WMS adalah / manfaat / modul (Indonesian)", "angle_summary": "Indonesian WMS SERP is thin SaaS landing pages + student theses; generic 'apa itu WMS, manfaat, modul'. Room for deep, practitioner, SAP-anchored supporting articles." },
+      { "source": "4flow / sap-press / learning.sap.com", "title": "SAP EWM putaway strategies, VAS, packaging specification, POSC", "angle_summary": "SAP EWM technical sources confirm putaway (product hazard rating), VAS, packaging spec/cartonization, wave management, Process-Oriented Storage Control (POSC) as real EWM capabilities backing all five angles." }
+    ],
+    "serp_features": ["paa", "ai_overview_likely", "featured_snippet_definition"],
+    "ai_overview_entities": ["warehouse management system", "SAP Extended Warehouse Management (EWM)", "picking (batch/wave/zone/cluster)", "reverse logistics / RMA", "putaway strategy", "value added services (VAS)", "cartonization", "limbah B3 / PP 22/2021", "FEFO"]
+  },
+  "paa": [
+    "Apa saja metode picking dalam warehouse management system?",
+    "Apa perbedaan wave picking, batch picking, dan zone picking?",
+    "Apa itu reverse logistics dan bagaimana prosesnya di gudang?",
+    "Bagaimana WMS menangani barang retur?",
+    "Berapa persen tingkat retur di e-commerce?",
+    "Apa saja syarat penyimpanan bahan berbahaya dan beracun (B3)?",
+    "Bagaimana aturan gudang B3 menurut PP 22/2021?",
+    "Bagaimana menyiapkan gudang menghadapi lonjakan order (peak season/Harbolnas)?",
+    "Apa itu value added services (VAS) dalam operasi gudang?",
+    "Apa itu cartonization dan bagaimana WMS memilih ukuran kardus?",
+    "Apa itu putaway dan bagaimana WMS menentukan lokasi penyimpanan?",
+    "Apakah SAP EWM mendukung picking, packing, dan VAS?"
+  ],
+  "verified_facts": {
+    "picking_methods": "Core strategies: discrete/order, batch, cluster, zone, wave (waveless/order-streaming as modern variant); WMS guides pick assignments and pick paths; hybrids common (batched clusters for e-com + timed waves for wholesale). Source: leafio.ai, conveyco.com, storefeeder.com.",
+    "returns_volume": "Returns are ~20-30% of total e-commerce order volume; fashion up to 40%+. Avg cost per return ~USD 20 (range USD 22-50). Source: sgsystemsglobal.com, DHL (dhl.com/discover id-id). RMA flow: authorization -> receipt into WMS -> inspection/grading -> disposition (restock/repair/refurbish/recycle/dispose) -> inventory update.",
+    "b3_regulation": "Indonesia: PP No. 22/2021 (Penyelenggaraan Perlindungan dan Pengelolaan Lingkungan Hidup) governs B3 & limbah B3; Permen LHK No. 6/2021 details TPS Limbah B3 (temporary storage) requirements — labeling/symbol, segregation, storage conditions. GHS hazard classification + K3/HSE apply. Source: KLHK regulations, crpg.info, academic K3 journals.",
+    "sap_ewm": "SAP EWM supports: putaway strategies (bin determination by process type, stock type, quantity classification, PRODUCT HAZARD RATING), Process-Oriented Storage Control (POSC) for multi-step put/pick, wave management, picking, packing via packaging specifications (cartonization), value added services (VAS), work centers (deconsolidation, QI, packing, VAS), staging, loading. Inbound: unload/count/deconsolidation/QI/VAS/putaway. Outbound: pick/pack/VAS/staging/load. Source: learning.sap.com, sap-press.com, 4flow.com.",
+    "peak_season": "Harbolnas 2024: Rp31,2 triliun (+21,4% YoY), 98 juta pelanggan, order volume 5-10x normal days (Kemendag via Katadata/Antara, Des 2024). Playbook: forecast + capacity stress test, temp labor onboarded 2-4 weeks ahead + cross-trained (pick/pack/returns), WMS tuned (batch sizing, wave rules, carrier API), overflow/mezzanine storage, carrier cutoff coordination, post-peak review. Source: racklify.com, golocad.com, Katadata.",
+    "sap_wms_gartner": "SAP named a Leader in the Gartner Magic Quadrant for Warehouse Management Systems (recognized 2024 and 2026). Source: news.sap.com (per prior batch citations) — researcher to re-confirm the 2026 citation."
+  },
+  "gsc_style_queries_from_report": [],
+  "history_snapshot": {
+    "total_prior_articles_for_keyword": 22,
+    "sources_checked": [
+      "articles_history/index.json (keyword_slug=warehouse-management-system)",
+      "articles_history/by_keyword/warehouse-management-system/*.md (4 records)",
+      "monthly_runs/2026-07-2/final/warehouse-management-system-*.id.md (5)",
+      "monthly_runs/2026-08/final/warehouse-management-system-*.id.md (4)",
+      "monthly_runs/2026-08-2/final/warehouse-management-system-*.id.md (5)",
+      "monthly_runs/2026-09/final/warehouse-management-system-*.id.md (4)"
+    ],
+    "existing_angles_covered": [
+      "implementation roadmap / 5 phases / failure points",
+      "pharma & FMCG: cold chain, FEFO, batch, serialization, CDOB",
+      "warehouse automation / robotics (AMR, goods-to-person, AS/RS, pick-to-light, MFS)",
+      "ROI / hidden costs / payback / business case",
+      "e-commerce & omnichannel fulfillment (single stock pool, ship-from-store, BOPIS)",
+      "WMS vs ERP inventory module vs inventory app (decision boundary)",
+      "SAP EWM vs Stock Room vs LE-WM (S/4HANA product choice)",
+      "7 signs you need WMS / when you do NOT yet (readiness diagnostic)",
+      "WMS cloud vs on-premise + ERP integration",
+      "cycle counting vs stock opname / inventory accuracy",
+      "labor management / engineered standards / productivity",
+      "slotting / velocity-based SKU placement / re-slotting",
+      "yard management / dock scheduling / cross-docking",
+      "WMS-TMS integration / OTIF / transportation hand-off",
+      "WMS for 3PL (multi-client segregation, activity-based billing, SLA)",
+      "warehouse KPIs / data-to-dashboard / vanity vs actionable metrics",
+      "WMS customization without breaking upgrade (clean core / in-app vs side-by-side)",
+      "WMS security / RBAC / audit trail / cloud compliance / UU PDP"
+    ],
+    "uncovered_angles_selected_this_month": [
+      "picking strategies as a dedicated methodology (wave/batch/zone/cluster/waveless + selection) — NOT previously a standalone article",
+      "returns & reverse logistics (RMA, inspection, disposition, returns putaway, return analytics)",
+      "B3 / dangerous-goods & hazardous-materials warehouse (hazmat putaway, segregation, PP 22/2021, K3) — new vertical + compliance regime",
+      "peak-season readiness playbook (Harbolnas/Lebaran surge, capacity + labor + WMS tuning)",
+      "packing, cartonization, kitting & value-added services (VAS) — dedicated outbound pack-bench article"
+    ],
+    "angles_left_for_future": [
+      "putaway & internal replenishment strategies (forward-pick vs reserve, min/max) as standalone",
+      "WES vs WCS vs WMS (orchestration layer in automated DCs)",
+      "multi-site / warehouse network & distributed order management (DOM)",
+      "WMS selection / RFP / vendor evaluation / demo scripting",
+      "AI & computer vision in the warehouse (predictive slotting/labor, visual QC)",
+      "sustainability / green warehouse / energy via WMS"
+    ]
+  }
+}

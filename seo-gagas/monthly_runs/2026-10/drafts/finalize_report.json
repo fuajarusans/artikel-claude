@@ -1,0 +1,112 @@
+{
+  "dir": "monthly_runs/2026-10/drafts",
+  "max_words": 1600,
+  "rows": [
+    {
+      "id": "cng-indonesia-01",
+      "words": 1503,
+      "status": "OK",
+      "in_band": true,
+      "rewrote_file": true
+    },
+    {
+      "id": "cng-indonesia-02",
+      "words": 1421,
+      "status": "OK",
+      "in_band": true,
+      "rewrote_file": true
+    },
+    {
+      "id": "cng-indonesia-03",
+      "words": 1431,
+      "status": "OK",
+      "in_band": true,
+      "rewrote_file": true
+    },
+    {
+      "id": "gasku-01",
+      "words": 1404,
+      "status": "OK",
+      "in_band": true,
+      "rewrote_file": true
+    },
+    {
+      "id": "gasku-02",
+      "words": 1449,
+      "status": "OK",
+      "in_band": true,
+      "rewrote_file": true
+    },
+    {
+      "id": "gasku-03",
+      "words": 1419,
+      "status": "OK",
+      "in_band": true,
+      "rewrote_file": true
+    },
+    {
+      "id": "gaslink-01",
+      "words": 1384,
+      "status": "OK",
+      "in_band": true,
+      "rewrote_file": true
+    },
+    {
+      "id": "gaslink-02",
+      "words": 1378,
+      "status": "OK",
+      "in_band": true,
+      "rewrote_file": true
+    },
+    {
+      "id": "gaslink-03",
+      "words": 1364,
+      "status": "OK",
+      "in_band": true,
+      "rewrote_file": true
+    },
+    {
+      "id": "perusahaan-cng-indonesia-01",
+      "words": 1450,
+      "status": "OK",
+      "in_band": true,
+      "rewrote_file": true
+    },
+    {
+      "id": "perusahaan-cng-indonesia-02",
+      "words": 1534,
+      "status": "OK",
+      "in_band": true,
+      "rewrote_file": true
+    },
+    {
+      "id": "perusahaan-cng-indonesia-03",
+      "words": 1523,
+      "status": "OK",
+      "in_band": true,
+      "rewrote_file": true
+    },
+    {
+      "id": "perusahaan-lng-indonesia-01",
+      "words": 1471,
+      "status": "OK",
+      "in_band": true,
+      "rewrote_file": true
+    },
+    {
+      "id": "perusahaan-lng-indonesia-02",
+      "words": 1438,
+      "status": "OK",
+      "in_band": true,
+      "rewrote_file": true
+    },
+    {
+      "id": "perusahaan-lng-indonesia-03",
+      "words": 1470,
+      "status": "OK",
+      "in_band": true,
+      "rewrote_file": true
+    }
+  ],
+  "over": []
+}

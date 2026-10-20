@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ringkasan Review — Conditional SOLTIUS Oktober 2026</title>
+<style>
+  :root{--bg:#f4f6fb;--card:#fff;--ink:#0f1e3d;--muted:#5b6b8c;--line:#e2e8f4;--brand:#0a4bce;--brand-ink:#083a9e;--ok:#12855a;--ok-bg:#e6f6ef;--warn:#b7791f;--warn-bg:#fdf4e3;--hot:#c2410c;--hot-bg:#fdece2;--pill:#eef2fb;--shadow:0 1px 3px rgba(15,30,61,.08),0 8px 24px rgba(15,30,61,.05);}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.55;-webkit-font-smoothing:antialiased}
+  a{color:var(--brand);text-decoration:none} a:hover{text-decoration:underline}
+  .wrap{max-width:1080px;margin:0 auto;padding:0 20px 64px}
+  header{background:linear-gradient(135deg,#0a4bce 0%,#0b3aa0 100%);color:#fff;padding:38px 0 30px;margin-bottom:28px;box-shadow:var(--shadow)}
+  header .wrap{padding-bottom:0}
+  .eyebrow{font-size:12px;letter-spacing:.14em;text-transform:uppercase;opacity:.82;margin:0 0 8px}
+  header h1{margin:0 0 6px;font-size:26px;line-height:1.25;font-weight:700}
+  header p{margin:0;opacity:.9;font-size:15px}
+  .stats{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:22px 0 4px}
+  .stat{background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.18);border-radius:12px;padding:14px 16px}
+  .stat b{display:block;font-size:22px;line-height:1.1} .stat span{font-size:12px;opacity:.85}
+  .note{background:#fff;border:1px solid var(--line);border-left:4px solid var(--brand);border-radius:10px;padding:14px 18px;margin:0 0 26px;font-size:14px;color:var(--muted);box-shadow:var(--shadow)}
+  .note b{color:var(--ink)}
+  h2.section{font-size:15px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin:30px 0 14px;font-weight:700}
+  .tablecard{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;box-shadow:var(--shadow)}
+  .scroll{overflow-x:auto}
+  table{border-collapse:collapse;width:100%;min-width:720px;font-size:14px}
+  thead th{background:#f7f9fe;text-align:left;padding:11px 13px;font-size:11px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);border-bottom:1px solid var(--line);white-space:nowrap}
+  tbody td{padding:11px 13px;border-bottom:1px solid var(--line);vertical-align:middle}
+  tbody tr:last-child td{border-bottom:0}
+  tbody tr:hover{background:#fafbff}
+  td.num{color:var(--muted);text-align:center;width:30px}
+  .center{text-align:center} .tnum{font-variant-numeric:tabular-nums}
+  .pill{display:inline-block;padding:2px 9px;border-radius:999px;font-size:12px;font-weight:600;white-space:nowrap}
+  .pill.ok{background:var(--ok-bg);color:var(--ok)} .pill.new{background:var(--pill);color:var(--muted)} .pill.rw{background:#e8eefc;color:var(--brand-ink)}
+  .dot{font-variant-numeric:tabular-nums;font-weight:600;padding:2px 8px;border-radius:6px}
+  .dot.g{background:var(--ok-bg);color:var(--ok)} .dot.a{background:var(--warn-bg);color:var(--warn)}
+  .cards{display:grid;grid-template-columns:repeat(2,1fr);gap:15px;margin-top:6px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 16px 14px;box-shadow:var(--shadow);display:flex;flex-direction:column}
+  .card .top{display:flex;align-items:flex-start;gap:10px;margin-bottom:6px}
+  .card .idx{flex:0 0 auto;width:25px;height:25px;border-radius:7px;background:var(--brand);color:#fff;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;margin-top:2px}
+  .card h3{margin:0;font-size:14.5px;line-height:1.35;font-weight:650}
+  .card .kw{margin:2px 0 0;font-size:12px;color:var(--muted)}
+  .card .desc{font-size:13px;color:#3d4a66;margin:7px 0 11px;flex:1}
+  .meta{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:11px}
+  .chip{font-size:11px;color:var(--muted);background:#f4f7fd;border:1px solid var(--line);border-radius:7px;padding:2px 7px}
+  .chip b{color:var(--ink);font-weight:650}
+  .files{display:flex;flex-wrap:wrap;gap:7px;border-top:1px dashed var(--line);padding-top:10px}
+  .files a{font-size:12px;font-weight:600;padding:5px 10px;border-radius:8px;background:var(--pill);color:var(--brand-ink)}
+  .files a.secondary{background:#f4f6fb;color:var(--muted);font-weight:500}
+  .files a:hover{background:#e4ebfb;text-decoration:none}
+  footer{margin-top:34px;background:#fff;border:1px solid var(--line);border-radius:14px;padding:20px 22px;box-shadow:var(--shadow)}
+  footer h3{margin:0 0 10px;font-size:15px} footer ol{margin:0;padding-left:20px;color:#3d4a66;font-size:14px} footer li{margin:6px 0}
+  footer code{background:#f2f5fb;border:1px solid var(--line);border-radius:5px;padding:1px 6px;font-size:12.5px}
+  @media(max-width:720px){.stats{grid-template-columns:repeat(2,1fr)}.cards{grid-template-columns:1fr}header h1{font-size:21px}}
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <p class="eyebrow">WEBARQ Promote · SOLTIUS · Batch Conditional</p>
+  <h1>Ringkasan Review — 14 Artikel SEO Oktober 2026</h1>
+  <p>Ringkas on-point 1000–1200 kata · definisi sekали · tanpa image placeholder · soft CTA soltius.co.id.</p>
+  <div class="stats">
+    <div class="stat"><b>14</b><span>artikel selesai</span></div>
+    <div class="stat"><b>14/14</b><span>editor approve · validator pass</span></div>
+    <div class="stat"><b>1022–1197</b><span>rentang jumlah kata</span></div>
+    <div class="stat"><b>0,00</b><span>plagiarisme (median)</span></div>
+  </div>
+</div></header>
+
+<div class="wrap">
+  <div class="note">
+    <b>Status:</b> semua artikel lolos gate (editor <span class="pill ok">approve</span> + validator <span class="pill ok">pass</span>), semua <b>DRAFT</b> menunggu review Anda. Curator belum dijalankan.
+    <br>No.4 (HCM) = <b>rewrite</b> (URL dipertahankan, meta title+description dioptimasi untuk naikkan CTR). IFRS S1/S2 (forward-looking) di-hedge. Framing Soltius sebagai implementator SAP.
+    <br><b>Perlu konfirmasi:</b> kolom Landing Page sheet kosong, jadi <b>hub/cousin internal link dipilih otomatis</b> dari halaman soltius.co.id yang ada (mis. untuk AI Customer Service belum ada halaman CX khusus). Beri tahu bila ada URL hub yang lebih tepat — tinggal tukar tautannya.
+  </div>
+
+  <h2 class="section">Tabel ringkas</h2>
+  <div class="tablecard"><div class="scroll"><table>
+    <thead><tr><th>#</th><th>Judul / Keyword</th><th class="center">Tipe</th><th class="center">Kata</th><th class="center">AI</th><th class="center">Plag.</th><th class="center">Editor</th><th class="center">Validator</th><th class="center">Funnel</th></tr></thead>
+    <tbody id="tbody"></tbody>
+  </table></div></div>
+
+  <h2 class="section">Detail per artikel</h2>
+  <div class="cards" id="cards"></div>
+
+  <footer>
+    <h3>Langkah berikutnya</h3>
+    <ol>
+      <li><b>Review</b> — klik <b>Word (.docx)</b> tiap kartu. Laporan detail: <b>QC</b> (editor) & <b>Quality</b> (validator).</li>
+      <li><b>Konfirmasi internal link</b> — bila ada halaman hub soltius.co.id yang lebih tepat (mis. CX untuk artikel AI Customer Service), sebutkan; saya tukar tautannya.</li>
+      <li><b>Commit ke history + .docx</b> — setelah disetujui, jalankan curator untuk mencatat ke <code>articles_history</code> (type: conditional). Versi <code>.docx</code> sudah tersedia.</li>
+    </ol>
+  </footer>
+</div>
+
+<script>
+const A=[
+ {n:1,id:"master-data-management-c01",t:"Master Data Management (MDM): Pengertian dan Pentingnya",kw:"master data management",w:1133,ai:0.04,pl:0.00,type:"new",cta:"SAP MDG",d:"Single source of truth untuk data pelanggan/produk/vendor; manfaat, cara kerja, dan peran SAP Master Data Governance."},
+ {n:2,id:"ai-customer-service-c01",t:"AI untuk Customer Service: Dari Chatbot hingga Analitik Sentimen",kw:"ai customer service",w:1196,ai:0.04,pl:0.00,type:"new",cta:"SAP Business AI",d:"Bentuk & use case AI CS (chatbot, routing, analitik sentimen), angka deflection, dan kapan AI belum tepat."},
+ {n:3,id:"employee-central-c01",t:"Employee Central SAP SuccessFactors: Fungsi dan Keunggulannya",kw:"employee central",w:1119,ai:0.04,pl:0.00,type:"new",cta:"SAP SuccessFactors",d:"Modul core HR SF: data karyawan, struktur organisasi, effective dating, dan keunggulannya."},
+ {n:4,id:"human-capital-management-c01",t:"Apa Itu Human Capital Management (HCM)? Panduan Lengkap",kw:"human capital management",w:1046,ai:0.04,pl:0.00,type:"rewrite",cta:"SAP SuccessFactors",d:"Rewrite halaman existing (CTR rendah) + optimasi meta. HCM sebagai pengelolaan SDM strategis end-to-end."},
+ {n:5,id:"loyalty-program-c01",t:"Apa Itu Loyalty Program dan Strateginya untuk Retensi Pelanggan",kw:"loyalty program",w:1172,ai:0.04,pl:0.00,type:"new",cta:"SAP Customer Experience",d:"Jenis program loyalitas (poin/tier/cashback), cara menyusun strategi, dan kapan program justru merugikan."},
+ {n:6,id:"disaster-recovery-c01",t:"Disaster Recovery: Pengertian, RPO & RTO, dan Pentingnya bagi Bisnis",kw:"disaster recovery",w:1192,ai:0.04,pl:0.00,type:"new",cta:"SAP on Cloud",d:"Beda RPO vs RTO, strategi backup hingga multi-site, dan manfaat DR/BCP bagi kelangsungan bisnis."},
+ {n:7,id:"ifrs-s1-s2-c01",t:"IFRS S1 & S2: Standar Baru Pelaporan Keberlanjutan dan Dampaknya",kw:"ifrs s1 s2",w:1137,ai:0.04,pl:0.00,type:"new",cta:"SAP Sustainability",d:"Standar keberlanjutan global ISSB: beda S1 & S2, empat pilar, emisi Scope 1–3, dampak ke pelaporan (di-hedge)."},
+ {n:8,id:"buku-besar-c01",t:"Apa Itu Buku Besar (General Ledger) dan Perannya dalam Akuntansi",kw:"buku besar",w:1196,ai:0.08,pl:0.00,type:"new",cta:"SAP S/4HANA Finance",d:"Posting dari jurnal ke akun + saldo; fungsi, bentuk, cara posting, dan Universal Journal S/4HANA sebagai GL modern."},
+ {n:9,id:"kpi-karyawan-c01",t:"KPI Karyawan: Pengertian, Contoh, dan Cara Menyusunnya",kw:"kpi karyawan",w:1161,ai:0.04,pl:0.00,type:"new",cta:"SAP SuccessFactors",d:"Jenis & contoh KPI per divisi (sales/HR/finance) + 6 langkah menyusun dengan metode SMART."},
+ {n:10,id:"fifo-lifo-fefo-c01",t:"FIFO, LIFO, dan FEFO: Perbedaan Metode Manajemen Stok",kw:"fifo lifo fefo",w:1151,ai:0.04,pl:0.00,type:"new",cta:"SAP EWM",d:"Beda tiga metode rotasi stok, kapan dipakai, dan kenapa LIFO dilarang di akuntansi; link ke WMS."},
+ {n:11,id:"sap-btp-c01",t:"SAP BTP untuk Pemula: Fungsi dan Use Case Business Technology Platform",kw:"sap btp adalah",w:1022,ai:0.04,pl:0.00,type:"new",cta:"SAP BTP",d:"Overview SAP BTP: 4 pilar (app dev, integrasi, data & analytics, AI) + use case untuk pemula."},
+ {n:12,id:"kaizen-c01",t:"Apa Itu Kaizen dan Penerapannya untuk Efisiensi Produksi",kw:"kaizen",w:1166,ai:0.04,pl:0.00,type:"new",cta:"SAP Digital Manufacturing",d:"Perbaikan berkelanjutan: metode PDCA, 5S, gemba, dan penerapan efisiensi produksi di pabrik."},
+ {n:13,id:"cost-center-profit-center-c01",t:"Cost Center dan Profit Center: Perbedaan dan Fungsinya",kw:"cost center dan profit center",w:1122,ai:0.08,pl:0.00,type:"new",cta:"SAP FICO",d:"Beda tanggung jawab biaya vs laba, fungsi, contoh, dan penerapan di SAP Controlling (CO)."},
+ {n:14,id:"demand-forecasting-c01",t:"Demand Forecasting: Metode dan Pentingnya bagi Perencanaan Bisnis",kw:"demand forecasting",w:1197,ai:0.04,pl:0.02,type:"new",cta:"SAP IBP",d:"Metode peramalan permintaan (kualitatif/kuantitatif/AI), cara memilih, dan pentingnya bagi perencanaan."}
+];
+const F="final/"; const fmt=v=>v.toFixed(2).replace(".",","); const aic=v=>v<0.10?"g":"a";
+const tp=t=>t==="rewrite"?'<span class="pill rw">rewrite</span>':'<span class="pill new">baru</span>';
+document.getElementById("tbody").innerHTML=A.map(a=>`
+ <tr><td class="num">${a.n}</td>
+ <td><a href="${F}${a.id}.id.docx" style="font-weight:600">${a.t}</a><div class="kw" style="color:var(--muted);font-size:12.5px">${a.kw}</div></td>
+ <td class="center">${tp(a.type)}</td>
+ <td class="center tnum">${a.w}</td>
+ <td class="center"><span class="dot ${aic(a.ai)}">${fmt(a.ai)}</span></td>
+ <td class="center"><span class="dot ${a.pl===0?'g':'a'}">${fmt(a.pl)}</span></td>
+ <td class="center"><span class="pill ok">approve</span></td>
+ <td class="center"><span class="pill ok">pass</span></td>
+ <td class="center kw" style="color:var(--muted);font-size:12px">${a.cta}</td></tr>`).join("");
+document.getElementById("cards").innerHTML=A.map(a=>`
+ <div class="card"><div class="top"><div class="idx">${a.n}</div>
+ <div><h3>${a.t}</h3><p class="kw">${a.kw}</p></div></div>
+ <p class="desc">${a.d}</p>
+ <div class="meta"><span class="chip"><b>${a.w}</b> kata</span><span class="chip">AI <b>${fmt(a.ai)}</b></span><span class="chip">Plag <b>${fmt(a.pl)}</b></span><span class="chip">CTA <b>${a.cta}</b></span>${tp(a.type)}</div>
+ <div class="files"><a href="${F}${a.id}.id.docx">📝 Word</a><a class="secondary" href="${F}${a.id}.id.md">MD</a><a class="secondary" href="${F}${a.id}.qc.md">QC</a><a class="secondary" href="${F}${a.id}.quality.md">Quality</a></div>
+ </div>`).join("");
+</script>
+</body>
+</html>

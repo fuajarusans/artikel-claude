@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-iigf-institute\\monthly_runs\\2026-08\\drafts\\studi-kasus-proyek-infrastruktur-di-indonesia-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-12T15:13:34+07:00",
+    "word_count":  1612,
+    "paragraph_count":  17,
+    "sentence_count":  92,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.433,
+                        "sentence_burstiness":  0.76,
+                        "top30_vocab_share":  0.301,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.433 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "| | 5 | Dasar *value for money* | EIRR 12,28%; ENPV sekitar Rp1,41 triliun (Simpul KPBU Kementerian PU, 2026).",
+                                      "candidate_score":  32,
+                                      "web_search_query":  "\"| | 5 | Dasar *value for money* | EIRR 12,28%; ENPV sekitar Rp1,41 triliun (Simpul KPBU Kementerian PU, 2026).\""
+                                  },
+                                  {
+                                      "passage":  "| | 7 | Dokumen primer | [Portal KPBU Kemenkeu](https://kpbu.kemenkeu.go.id/proyek/detail/81-sistem-penyediaan-air-minum-umbulan); Simpul KPBU Kementerian PU (diakses 2026).",
+                                      "candidate_score":  31,
+                                      "web_search_query":  "\"| | 7 | Dokumen primer | [Portal KPBU Kemenkeu](https://kpbu.kemenkeu.go.id/proyek/detail/81-sistem-penyediaan-air-minum\""
+                                  },
+                                  {
+                                      "passage":  "| # | Elemen | Isian SPAM Umbulan | |---|---|---| | 1 | Para pihak | PJPK: Gubernur Jawa Timur.",
+                                      "candidate_score":  31,
+                                      "web_search_query":  "\"| # | Elemen | Isian SPAM Umbulan | |---|---|---| | 1 | Para pihak | PJPK: Gubernur Jawa Timur.\""
+                                  },
+                                  {
+                                      "passage":  "| | 6 | Status faktual | Operasi komersial 22 Maret 2021; konsesi sekitar 25 tahun sejak tanggal itu.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"| | 6 | Status faktual | Operasi komersial 22 Maret 2021; konsesi sekitar 25 tahun sejak tanggal itu.\""
+                                  },
+                                  {
+                                      "passage":  "- **Portal KPBU Kementerian Keuangan**: halaman per proyek memuat PJPK, Capex, skema pengembalian, dan status, plus definisi resmi [dukungan kelayakan](https://kpbu.kemenkeu.go.id/read/1098-1261/pjpk/dukungan-pemerintah/dukungan-kelayakan).",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"- **Portal KPBU Kementerian Keuangan**: halaman per proyek memuat PJPK, Capex, skema pengembalian, dan status, plus defi\""
+                                  },
+                                  {
+                                      "passage":  "**Struktur transaksi dan para pihak.** Siapa PJPK (*Penanggung Jawab Proyek Kerja Sama*), siapa badan usaha pelaksana (BUP), siapa pemberi pinjaman dan penjaminnya.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"**Struktur transaksi dan para pihak.** Siapa PJPK (*Penanggung Jawab Proyek Kerja Sama*), siapa badan usaha pelaksana (B\""
+                                  },
+                                  {
+                                      "passage":  "## Menerapkan tujuh elemen pada satu kasus: SPAM Umbulan Sistem Penyediaan Air Minum (SPAM) Umbulan di Jawa Timur cukup terdokumentasi untuk diuji dengan ketujuh elemen sekaligus.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## Menerapkan tujuh elemen pada satu kasus: SPAM Umbulan Sistem Penyediaan Air Minum (SPAM) Umbulan di Jawa Timur cukup \""
+                                  },
+                                  {
+                                      "passage":  "Dahulukan sumber primer pemerintah: portal KPBU Kementerian Keuangan dan Simpul KPBU Kementerian PU untuk data proyek, JDIH Kementerian PPN/Bappenas untuk teks regulasi.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Dahulukan sumber primer pemerintah: portal KPBU Kementerian Keuangan dan Simpul KPBU Kementerian PU untuk data proyek, J\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

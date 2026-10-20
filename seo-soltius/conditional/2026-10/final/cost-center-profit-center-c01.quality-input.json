@@ -1,0 +1,81 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-10\\final\\cost-center-profit-center-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-10-08T17:54:49+07:00",
+    "word_count":  1159,
+    "paragraph_count":  20,
+    "sentence_count":  65,
+    "ai_detector":  {
+                        "score":  0.08,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.383,
+                        "sentence_burstiness":  0.742,
+                        "top30_vocab_share":  0.42,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.383 (target \u003e=0.45)",
+                                          "line":  -1
+                                      },
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 42% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "## Cost Center dan Profit Center dalam Akuntansi Pertanggungjawaban Keduanya tidak berdiri sendiri.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Cost Center dan Profit Center dalam Akuntansi Pertanggungjawaban Keduanya tidak berdiri sendiri.\""
+                                  },
+                                  {
+                                      "passage":  "Karena mengelola pendapatan dan biaya sekaligus, labanya dinilai terhadap target laba, bukan terhadap anggaran biaya.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Karena mengelola pendapatan dan biaya sekaligus, labanya dinilai terhadap target laba, bukan terhadap anggaran biaya.\""
+                                  },
+                                  {
+                                      "passage":  "Cost center mengumpulkan biaya overhead per unit, sedangkan profit center menghitung laba per segmen.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Cost center mengumpulkan biaya overhead per unit, sedangkan profit center menghitung laba per segmen.\""
+                                  },
+                                  {
+                                      "passage":  "Kuncinya prinsip controllability: klasifikasikan unit sesuai apa yang benar-benar bisa dikendalikan manajernya.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Kuncinya prinsip controllability: klasifikasikan unit sesuai apa yang benar-benar bisa dikendalikan manajernya.\""
+                                  },
+                                  {
+                                      "passage":  "Keduanya termasuk empat jenis pusat pertanggungjawaban, bersama cost center dan revenue center.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Keduanya termasuk empat jenis pusat pertanggungjawaban, bersama cost center dan revenue center.\""
+                                  },
+                                  {
+                                      "passage":  "- **Profit center (pusat laba):** mengendalikan pendapatan dan biaya sekaligus, dinilai atas laba.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"- **Profit center (pusat laba):** mengendalikan pendapatan dan biaya sekaligus, dinilai atas laba.\""
+                                  },
+                                  {
+                                      "passage":  "Aturan praktisnya tetap sama, klasifikasikan unit sesuai apa yang benar-benar bisa dikendalikan manajernya.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Aturan praktisnya tetap sama, klasifikasikan unit sesuai apa yang benar-benar bisa dikendalikan manajernya.\""
+                                  },
+                                  {
+                                      "passage":  "- **Revenue center (pusat pendapatan):** fokus menghasilkan penjualan, dengan sedikit kendali atas biaya produksi.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"- **Revenue center (pusat pendapatan):** fokus menghasilkan penjualan, dengan sedikit kendali atas biaya produksi.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

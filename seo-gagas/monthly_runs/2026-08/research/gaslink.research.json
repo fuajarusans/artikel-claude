@@ -1,0 +1,103 @@
+{
+  "keyword": "Gaslink",
+  "keyword_slug": "gaslink",
+  "month": "2026-08",
+  "captured_at": "2026-08-11",
+  "landing_page": "https://gagas.co.id/gaslink/",
+  "landing_page_summary": "Gaslink = layanan distribusi CNG via Gas Transport Module (GTM) untuk industri, komersial, hingga UMKM di luar jaringan pipa; dua varian: Gaslink Cylinder/C-Cyl (28 m3, ruang terbatas) dan Gaslink Regular/GTM (truk, volume tinggi); klaim hemat hingga 30% vs bahan bakar konvensional, smart metering (bayar sesuai pemakaian), layanan 24 jam, 'rasio emisi karbon jauh lebih rendah', mendukung Net Zero Emission; TIDAK memuat angka pelanggan/coverage/volume di halaman ini, dan TIDAK membahas kredit karbon, perizinan/SLO, atau analisis lifecycle metana — semuanya whitespace.",
+  "data_sources_used": ["landing_page_webfetch", "live_serp_blocked_google_and_bing", "websearch"],
+  "ahrefs_available": false,
+  "gsc_available": false,
+  "seo_report": "none (per keywords.md)",
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Gaslink adalah keyword branded PGN Gagas; permintaan didorong tema turunan bernilai tinggi 2026 — perdagangan karbon (IDXCarbon aktif sejak Sep 2023), perizinan berusaha berbasis risiko (OSS/Permen ESDM 32/2021), dan tekanan dekarbonisasi industri (IEA Global Methane Tracker 2025).",
+    "report_rank": "n/a (no seo_report named)"
+  },
+  "serp": {
+    "note": "Google (google.com/search?hl=id&gl=id) dan Bing SERP dua-duanya memblokir scraping WebFetch pada run ini. SERP landscape di bawah direkonstruksi dari hasil WebSearch per-topik (halaman pesaing nyata) — degradasi anggun sesuai izin strategist.",
+    "top_compete_by_topic": {
+      "kredit_karbon": [
+        {"url": "https://idxcarbon.co.id/id/product-spe-grk", "angle": "Definisi & mekanisme produk SPE-GRK di bursa (operator resmi)"},
+        {"url": "https://www.imlcarbon.com/id/5-langkah-strategis-mendapatkan-karbon-kredit-di-indonesia/", "angle": "5 langkah dapat kredit karbon (konsultan, generik lintas-sektor)"},
+        {"url": "https://environment-indonesia.com/panduan-bursa-karbon-indonesia-idx-carbon/", "angle": "Panduan taktis bursa karbon & aturan main"}
+      ],
+      "perizinan": [
+        {"url": "https://jdih.esdm.go.id/common/dokumen-external/Permen%20ESDM%20No.%2032%20Tahun%202021.pdf", "angle": "Regulasi primer inspeksi teknis & keselamatan instalasi migas"},
+        {"url": "https://prolegal.id/sertifikat-laik-operasi-slo-adalah-definisi-manfaat-dan-sanksinya/", "angle": "SLO: definisi, manfaat, sanksi (fokus ketenagalistrikan)"},
+        {"url": "https://ppid.menlhk.go.id/berita/siaran-pers/6945/", "angle": "8 formulir UKL-UPL standar usaha migas (KLHK+ESDM+SKK Migas)"}
+      ],
+      "lifecycle_metana": [
+        {"url": "https://www.iea.org/reports/global-methane-tracker-2025", "angle": "Data emisi metana energi global (well-to-burner)"},
+        {"url": "https://ecobiz.asia/laporan-iea-indonesia-peringkat-kedua-emisi-metana-energi-fosil-di-asia-selatan-dan-tenggara/", "angle": "Indonesia peringkat-2 emisi metana energi fosil regional"},
+        {"url": "https://www.eia.gov/environment/emissions/co2_vol_mass.php", "angle": "Faktor emisi CO2 pembakaran per MMBTU (referensi)"}
+      ]
+    },
+    "serp_features": ["ai_overview_likely_for_definitional_queries", "paa", "featured_snippet_definition"],
+    "gap_vs_top10": "Halaman pesaing generik & lintas-sektor (kredit karbon untuk kehutanan/PLTS; SLO untuk ketenagalistrikan; metana untuk batubara). Belum ada yang menautkan ketiganya secara spesifik ke keputusan industri beralih ke CNG/Gaslink beyond-pipeline. Itulah celah yang diisi 3 brief ini."
+  },
+  "paa_reconstructed": [
+    "Apa itu SPE-GRK dan bagaimana cara memperdagangkannya?",
+    "Apakah pabrik yang beralih ke gas bumi bisa dapat kredit karbon?",
+    "Apa itu Sertifikat Laik Operasi (SLO) untuk instalasi gas?",
+    "Berapa lama proses perizinan instalasi gas industri?",
+    "Apa saja izin yang dibutuhkan untuk memasang instalasi CNG?",
+    "Apakah gas bumi benar-benar bersih jika dihitung emisi metananya?",
+    "Berapa faktor emisi CO2 gas bumi dibanding solar dan LPG?",
+    "Apa itu analisis well-to-burner / life cycle gas bumi?"
+  ],
+  "verified_facts": {
+    "carbon_market": {
+      "spe_grk": "SPE-GRK (Sertifikat Pengurangan Emisi-Gas Rumah Kaca) = kredit karbon; bukti pengurangan emisi via MRV (Measuring/Monitoring, Reporting, Verification), tercatat di Sistem Registri Nasional Pengendalian Perubahan Iklim (SRN PPI). Sumber: idxcarbon.co.id, ojk.go.id.",
+      "idxcarbon": "IDXCarbon = bursa karbon resmi di bawah Bursa Efek Indonesia (BEI), diawasi OJK, beroperasi sejak September 2023. Perdagangan via Lelang, Marketplace, Negosiasi, dan pasar reguler.",
+      "energy_projects": "5 proyek sektor energi telah terotorisasi untuk diperdagangkan internasional (a.l. PLTGU Priok Blok 4, Grati Blok 2, Muara Karang Blok 3, Muara Tawar Blok 2, PLTM Gunung Wugul), total ~1.780.000 ton CO2e — CATATAN: ini pembangkit skala besar, BUKAN pabrik yang beralih ke CNG. Additionality/baseline untuk fuel-switching industri kecil jauh lebih sulit diklaim.",
+      "criteria": "Kredit karbon harus real, additional (tidak terjadi tanpa proyek), measurable, dan verifiable oleh auditor independen.",
+      "legal_basis_to_verify": "Perpres 98/2021 Nilai Ekonomi Karbon (NEK); Permen LHK 21/2022; regulasi NEK subsektor energi (ESDM) — RESEARCHER VERIFIKASI apakah fuel-switching ke CNG termasuk metodologi yang diakui & ambang kelayakan/biaya MRV realistis untuk industri."
+    },
+    "permitting": {
+      "slo": "Sertifikat Laik Operasi (SLO) = bukti legal suatu instalasi telah memenuhi standar keselamatan & laik dioperasikan (basis kuat di ketenagalistrikan UU 30/2009). Untuk instalasi migas, jalurnya Persetujuan/Pernyataan Layak Operasi (PLO) setelah inspeksi keselamatan — RESEARCHER VERIFIKASI istilah tepat (SLO vs PLO) untuk instalasi gas hilir/pelanggan.",
+      "permen_32_2021": "Permen ESDM No. 32 Tahun 2021 = Inspeksi Teknis dan Pemeriksaan Keselamatan Instalasi dan Peralatan pada Kegiatan Usaha Migas. PJIT (Perusahaan Jasa Inspeksi Teknis) melaksanakan inspeksi; permohonan PLO diajukan Kepala Teknik setelah inspeksi lengkap.",
+      "lingkungan": "Persetujuan Lingkungan via UKL-UPL/SPPL tergantung skala; diproses lewat OSS (perizinan berusaha berbasis risiko) + Amdalnet (KLHK). KLHK+ESDM+SKK Migas meluncurkan 8 formulir UKL-UPL standar usaha migas; untuk risiko Menengah-Tinggi SLA persetujuan bisa ~5 hari.",
+      "division": "Penyedia berizin niaga (mis. PGN Gagas) mengurus izin niaga/angkutan CNG; pelanggan mengurus kesiapan legal instalasi on-site (SLO/PLO, persetujuan lingkungan sesuai skala). RESEARCHER VERIFIKASI pembagian tepat & timeline realistis; variasi PTSP daerah."
+    },
+    "lifecycle_methane": {
+      "iea_2025": "IEA Global Methane Tracker 2025: sektor bahan bakar fosil ~35% emisi metana antropogenik; Indonesia peringkat ke-2 emisi metana energi fosil di Asia Selatan & Tenggara (>3 juta ton), didominasi tambang batubara lalu minyak & gas. RESEARCHER VERIFIKASI angka persis (edisi 2025 vs 2026).",
+      "combustion_co2": "Faktor emisi CO2 pembakaran (EIA): gas alam ~52,91 kg CO2/MMBTU; LPG ~62,88; solar ~74,14 — gas paling rendah di sisi pembakaran.",
+      "methane_gwp": "GWP metana ~28-30x CO2 (100 tahun) dan ~80x (20 tahun). Bila kebocoran hulu-ke-burner melampaui ~2-3%, keunggulan lifecycle gas atas sebagian bahan bakar mengecil. RESEARCHER VERIFIKASI nilai GWP AR6 & ambang kebocoran.",
+      "honest_framing": "Gas bumi = emisi PEMBAKARAN lebih rendah, tapi jejak SEBENARNYA bergantung pada kebocoran metana hulu, jarak transport, dan penerapan deteksi kebocoran/CCUS. Tetap unggul vs batubara/solar pada basis lifecycle di mayoritas kasus, tapi bukan 'nol'."
+    },
+    "gagas_anchors_available": {
+      "gaslink": "Gaslink = CNG industri/komersial via GTM (beyond-pipeline); varian C-Cyl 28 m3 & GTM reguler; BUMN Branding & Marketing Award 2022 (merek Gaslink); hemat hingga 30% vs bahan bakar konvensional (klaim halaman).",
+      "certifications": "ISO 9001:2015, ISO 45001:2018 (K3 distribusi CNG), ISO 37001:2016 (2025); Silver Stevie 2024.",
+      "corporate": "Anak usaha PGN, bagian Subholding Gas Pertamina; downstream; menyalurkan/memasok/mengonversi gas bumi — BUKAN produsen hulu."
+    }
+  },
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      {"id": "2026-07-gaslink-01", "angle_hash": "sha1:ff68a917b980", "intent": "informational", "topic": "Apa itu Gaslink / beyond-pipeline / rantai pasok GTM"},
+      {"id": "2026-07-gaslink-02", "angle_hash": "sha1:5f0ff51ae016", "intent": "comparison", "topic": "Gaslink vs LPG vs Solar (biaya per MMBTU, payback)"},
+      {"id": "2026-07-gaslink-03", "angle_hash": "sha1:bbb4be06533d", "intent": "how-to", "topic": "Industri cocok + cara penerapan/onboarding 7 langkah"},
+      {"id": "2026-07-2-gaslink-04", "angle_hash": "sha1:e3ae5e93b84f", "intent": "troubleshooting", "topic": "Keandalan/kontinuitas pasokan (virtual pipeline, 24 jam)"},
+      {"id": "2026-07-2-gaslink-05", "angle_hash": "sha1:116353488dfa", "intent": "how-to", "topic": "Keselamatan CNG di lokasi (standar & ceklis operasional)"},
+      {"id": "2026-07-2-gaslink-06", "angle_hash": "sha1:9cdbc3157a74", "intent": "decision", "topic": "Dekarbonisasi / turunkan emisi Scope 1 (ESG, fuel switching)"}
+    ],
+    "uncovered_angles": [
+      "Monetisasi pengurangan emisi via perdagangan karbon (SPE-GRK / IDXCarbon) — BUKAN sekadar menurunkan/melapor emisi (gaslink-06)",
+      "Perizinan & legalisasi instalasi (SLO/PLO, persetujuan lingkungan, OSS, timeline) — BUKAN ceklis keselamatan operasional (gaslink-05)",
+      "Analisis lifecycle well-to-burner + kebocoran metana hulu (seberapa bersih sebenarnya) — BUKAN business-case Scope 1 (gaslink-06)",
+      "Studi kasus biaya/retrofit CAPEX per sektor dengan metrik (masih tersisa untuk bulan berikutnya)",
+      "Hedging volatilitas harga / keamanan rantai pasok kontraktual (masih tersisa)"
+    ]
+  },
+  "chosen_briefs": [
+    {"brief_id": "gaslink-01", "angle": "gaslink-kredit-karbon-spe-grk-bursa-karbon", "angle_hash": "sha1:b260bd4e4864", "intent": "decision"},
+    {"brief_id": "gaslink-02", "angle": "perizinan-instalasi-gaslink-slo-lingkungan-timeline", "angle_hash": "sha1:09987f94c8c5", "intent": "how-to"},
+    {"brief_id": "gaslink-03", "angle": "jejak-karbon-gas-bumi-well-to-burner-metana", "angle_hash": "sha1:989e35f91107", "intent": "informational"}
+  ],
+  "cousins_this_month": {
+    "primary_hub": "https://gagas.co.id/gaslink/",
+    "cousin_1": {"keyword": "CNG Indonesia", "hub": "https://gagas.co.id/perusahaan-cng-indonesia/", "note": "informational CNG hub"},
+    "cousin_2": {"keyword": "Perusahaan CNG Indonesia", "hub": "https://gagas.co.id/perusahaan-cng-indonesia/", "note": "commercial CNG hub — SAME URL as cousin_1; gunakan anchor & penempatan berbeda (informational vs komersial) agar tidak jadi dua href identik yang berdempet"}
+  }
+}

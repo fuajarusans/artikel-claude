@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-iigf-institute\\monthly_runs\\2026-09\\final\\sertifikasi-kpbu-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-22T06:31:02+07:00",
+    "word_count":  1599,
+    "paragraph_count":  20,
+    "sentence_count":  81,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.515,
+                        "sentence_burstiness":  0.633,
+                        "top30_vocab_share":  0.358,
+                        "flags":  [
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 35.8% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "32 Tahun 2025 (berlaku 20 Mei 2025, status berlaku di JDIH Kemenkeu).",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"32 Tahun 2025 (berlaku 20 Mei 2025, status berlaku di JDIH Kemenkeu).\""
+                                  },
+                                  {
+                                      "passage":  "Satu orang, tiga level | 19 + 21 + 21 juta | Rp 61.000.000 | Satu kredensial CP3P penuh; kompetensi di satu orang | | B.",
+                                      "candidate_score":  27,
+                                      "web_search_query":  "\"Satu orang, tiga level | 19 + 21 + 21 juta | Rp 61.000.000 | Satu kredensial CP3P penuh; kompetensi di satu orang | | B.\""
+                                  },
+                                  {
+                                      "passage":  "Tiga orang, berhenti di Foundation | 3 × 19 juta | Rp 57.000.000 | Tanpa kredensial penuh; tiga orang paham konsep dasar | | C.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"Tiga orang, berhenti di Foundation | 3 × 19 juta | Rp 57.000.000 | Tanpa kredensial penuh; tiga orang paham konsep dasar\""
+                                  },
+                                  {
+                                      "passage":  "| Skenario | Perhitungan (indikatif 2026) | Total | Hasil | |---|---|---|---| | A.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"| Skenario | Perhitungan (indikatif 2026) | Total | Hasil | |---|---|---|---| | A.\""
+                                  },
+                                  {
+                                      "passage":  "\u003e **Ringkasnya:** Biaya total sertifikasi KPBU jalur internasional adalah penjumlahan biaya seluruh level CP3P (*Certified Public-Private Partnership Professional*) sampai kredensial penuh diperoleh, bukan harga satu kelas.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"\u003e **Ringkasnya:** Biaya total sertifikasi KPBU jalur internasional adalah penjumlahan biaya seluruh level CP3P (*Certifi\""
+                                  },
+                                  {
+                                      "passage":  "Secara indikatif per publikasi 2026, pelatihan ketiga level berkisar Rp 61 juta per orang: Rp 19 juta untuk Foundation, serta Rp 21 juta masing-masing untuk Preparation dan Execution.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Secara indikatif per publikasi 2026, pelatihan ketiga level berkisar Rp 61 juta per orang: Rp 19 juta untuk Foundation, \""
+                                  },
+                                  {
+                                      "passage":  "**Periksa pos dan mekanismenya.** Standar Biaya Masukan (SBM) untuk Tahun Anggaran 2026 ditetapkan melalui PMK No.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"**Periksa pos dan mekanismenya.** Standar Biaya Masukan (SBM) untuk Tahun Anggaran 2026 ditetapkan melalui PMK No.\""
+                                  },
+                                  {
+                                      "passage":  "Tidak ada kursus daring gratis untuk level Preparation maupun Execution (APMG International, per akses September 2026).",
+                                      "candidate_score":  11,
+                                      "web_search_query":  "\"Tidak ada kursus daring gratis untuk level Preparation maupun Execution (APMG International, per akses September 2026).\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

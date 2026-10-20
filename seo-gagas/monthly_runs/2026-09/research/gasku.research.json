@@ -1,0 +1,96 @@
+{
+  "keyword": "Gasku",
+  "keyword_slug": "gasku",
+  "month": "2026-09",
+  "captured_at": "2026-09-17",
+  "landing_page": "https://gagas.co.id/gasku/",
+  "landing_page_summary": "Gasku = BBG/CNG PGN Gagas untuk transportasi; harga Rp 4.500/LSP, oktan >120 RON, kompresi ~200 bar, emisi 25-35% lebih rendah; converter kit + ECU bi-fuel wajib dipasang di bengkel bersertifikat; segmen bus kota, bajaj, angkot, taksi (konvensional & online), kendaraan pribadi, truk logistik; SPBG Jakarta + MRU + SPBG Ngagel Surabaya. TIDAK memuat info garansi, asuransi, jadwal perawatan, atau troubleshooting (whitespace terkonfirmasi).",
+  "data_sources_used": ["live_serp_blocked_google_direct", "websearch", "landing_page_fetch"],
+  "ahrefs_available": false,
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Minat konversi BBG naik saat harga BBM tinggi; interest musiman mengikuti isu harga Pertamax (websearch: otomotif.kompas, RRI, industry.co.id 2023-2026). Harga Gasku Rp 4.500/LSP jadi pemicu diskusi (SerayaMotor thread 'CNG BBG harga 4500/LSP utk solusi saat harga BBM mencekik').",
+    "report_rank": "n/a (seo_report: none for 2026-09)"
+  },
+  "serp": {
+    "top_competitors_by_theme": [
+      { "theme": "garansi/asuransi", "urls": ["https://kumparan.com/kumparanoto/ketahui-hal-ini-sebelum-konversi-mobil-jadi-bahan-bakar-gas-264hKeBqZm8", "https://www.idntimes.com/automotive/car/tak-cuma-hemat-mobil-bbg-punya-sejumlah-konsekuensi-00-7cdnt-p7rnkw", "https://www.mobil123.com/berita/mobil-modifikasi-bisa-tetap-ditanggung-asuransi-ini-syaratnya/59649", "https://otomotif.kompas.com/read/2023/02/22/092200315/tanda-tanya-konversi-mobil-dari-bbm-ke-gas-apakah-masih-relevan"], "angle_summary": "Menyebut 'garansi bisa hangus' sebagai satu baris peringatan; asuransi dibahas umum (lapor dulu ke asuransi) tanpa kaitkan khusus ke konversi BBG. Tidak ada panduan OEM-per-OEM + PSAKBI Pasal 8 yang terstruktur." },
+      { "theme": "troubleshooting", "urls": ["https://muji.blog.unimma.ac.id/cara-pasang-converter-kits-lpg-di-mobil/", "https://www.serayamotor.com/diskusi/viewtopic.php?t=32232", "https://rri.co.id/surakarta/hobi/2512589/konversi-bbm-ke-bbg-benarkah-bikin-mobil-lebih-irit", "https://www.merdeka.com/uang/converter-kit-gagal-pemerintah-dorong-pabrikan-bikin-mobil-bbg.html"], "angle_summary": "Tersebar di forum (SerayaMotor) + blog akademik + how-to pasang; membahas brebet/susah pindah mode secara anekdotal. Tidak ada panduan diagnostik gejala->penyebab->solusi yang terstruktur & tabel." },
+      { "theme": "converter-kit-ecosystem", "urls": ["https://www.beritasatu.com/fokus/29869/mengenal-konverter-kit", "https://www.think-gas.com/blogs/sequential-and-conventional-cng-kit-know-the-differences", "https://saicng.com/how-many-types-of-cng-kits-are-there/", "https://rajarafasamudra.com/cng-conversion-kits-parts-suppliers/"], "angle_summary": "Penjelasan tipe kit sebagian besar berbahasa Inggris (think-gas, saicng) atau listing produk (ebay, rajarafasamudra). 'Mengenal Konverter Kit' (beritasatu) lawas. Gap: buyer's guide Bahasa Indonesia venturi vs sequential + standar SNI/ISO + cara pilih kit & bengkel." }
+    ],
+    "serp_features": ["paa", "ai_overview_likely_for_definitional_queries"],
+    "note_google_direct": "WebFetch ke google.com/search diblok (halaman error anti-scraping). SERP disusun dari WebSearch."
+  },
+  "paa": [
+    "Apakah konversi BBG membuat garansi mobil hangus?",
+    "Apakah mobil BBG masih ditanggung asuransi?",
+    "Kenapa mobil brebet setelah pasang converter kit?",
+    "Berapa biaya konversi mobil ke BBG?",
+    "Apa perbedaan converter kit venturi dan sequential injection?",
+    "Apakah semua mobil bisa dikonversi ke BBG?",
+    "Bagaimana cara memilih bengkel konversi BBG bersertifikat?",
+    "Apakah konversi BBG bikin mesin lebih irit?"
+  ],
+  "verified_facts": {
+    "garansi_asuransi": [
+      "Konversi ke BBG/CNG dapat membatalkan (menghanguskan) garansi pabrikan karena mengubah sistem dapur pacu/bahan bakar (kumparan, IDN Times, RRI).",
+      "Asuransi kendaraan: pemilik WAJIB melaporkan modifikasi ke perusahaan asuransi lebih dulu; merujuk PSAKBI (Polis Standar Asuransi Kendaraan Bermotor Indonesia) Pasal 8 tentang Perubahan Risiko, tertanggung wajib memberitahukan setiap keadaan yang memperbesar risiko (mobil123, pikiran-rakyat).",
+      "Jika modifikasi tidak dilaporkan dan terjadi kerusakan akibat modifikasi itu, klaim berpotensi ditolak (Asuransi Astra via mobil123/kompas).",
+      "Mobil modifikasi (termasuk konversi BBG) TETAP bisa ditanggung asuransi asalkan dilaporkan dan disetujui asuransi sebelum modifikasi (mobil123).",
+      "Sistem sequential injection lebih baik dalam menjaga 'warranty conditions' dibanding venturi/mixer (think-gas) — relevan untuk pilihan yang meminimalkan risiko garansi."
+    ],
+    "troubleshooting": [
+      "Pemasangan asal-asalan -> campuran udara-bahan bakar tidak ideal -> tenaga berkurang, mesin brebet, konsumsi membengkak (RRI, kumparan).",
+      "Mobil karburator sering gagal start pada mode gas karena karburator masih terisi bensin (campuran berlebih); solusi: fuel selector ke netral, hidupkan mesin di 1.200-1.500 rpm, tahan sampai mesin seperti kehabisan bahan bakar, lalu pindah selector ke gas; jika mati saat pindah, setel baut pegas lever pada vaporizer (muji.blog.unimma.ac.id).",
+      "ECU BBG punya auto-calibration, tapi fine tuning oleh teknisi berpengalaman tetap dibutuhkan agar tenaga pas (SerayaMotor, muji).",
+      "Solusi umum masalah brebet/tersendat: bawa ke bengkel bersertifikat & berpengalaman untuk penyetelan ulang / fine tuning sistem konversi.",
+      "Program converter kit gratis sempat mangkrak; pemerintah pernah dorong pabrikan bikin mobil BBG langsung dari pabrik (merdeka) — konteks kenapa banyak unit lama bermasalah."
+    ],
+    "converter_kit_ecosystem": [
+      "Dua kelas utama: (1) venturi/mixer (konvensional) - mencampur CNG dengan udara sebelum masuk mesin, tanpa ECU, lebih sederhana & murah, performa/efisiensi lebih rendah; (2) sequential injection - satu injektor per silinder + ECU, presisi seperti mesin injeksi, cocok untuk mobil injeksi modern (think-gas, saicng, lnautogas).",
+      "Standar teknis converter kit CNG di Indonesia: ISO 11439 (tabung), SNI 7407-2009 & SNI 7408-2009, Permenperin 70/2012 (dari histori gasku-07).",
+      "Instalasi harus di bengkel/retrofit center resmi bersertifikat; sertifikasi bengkel diatur Kemenhub PM 39/2012 (histori gasku-02/03).",
+      "Tabung CNG Gasku bertipe seamless (tanpa las) - dari landing page gagas.co.id/gasku/."
+    ],
+    "landing_page_specs": {
+      "harga": "Rp 4.500/LSP",
+      "oktan": ">120 RON",
+      "kompresi": "~200 bar",
+      "emisi": "25-35% lebih rendah dari BBM konvensional",
+      "segmen": "bus kota, bajaj, angkot, taksi konvensional & online, kendaraan pribadi, truk logistik",
+      "tabung": "seamless (tanpa las)",
+      "spbg": "Jakarta & sekitar + MRU; SPBG Ngagel Surabaya"
+    }
+  },
+  "authoritative_sources_for_researcher": [
+    "Kementerian ESDM / Ditjen Migas (migas.esdm.go.id) - kebijakan BBG transportasi, standar",
+    "Kemenhub - PM 39/2012 (persyaratan teknis & sertifikasi bengkel konversi BBG)",
+    "Kemenperin - Permenperin 70/2012, SNI 7407-2009 / 7408-2009 converter kit",
+    "OJK / AAUI - PSAKBI (Polis Standar Asuransi Kendaraan Bermotor Indonesia) Pasal 8 Perubahan Risiko",
+    "PGN / Pertamina resmi - profil Gasku & SPBG",
+    "ISO 11439 - tabung CNG kendaraan"
+  ],
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      "gasku-01 (Jul): apa itu Gasku / cara kerja BBG / SPBG (definitional)",
+      "gasku-02 (Jul): konversi BBM->BBG penghematan armada, payback, HowTo (decision)",
+      "gasku-03 (Jul): kapan BELUM cocok pakai BBG (honest/negation)",
+      "gasku-04 (Jul-2): perawatan/servis berkala & uji tabung hidrostatik (how-to preventive)",
+      "gasku-05 (Jul-2): peta SPBG & rencana rute (navigational/practical)",
+      "gasku-06 (Jul-2): BBG vs LGV vs mobil listrik (comparison)",
+      "gasku-07 (Aug): matriks kompatibilitas kendaraan (technical feasibility)",
+      "gasku-08 (Aug): data performa & emisi vs bensin (data comparison)",
+      "gasku-09 (Aug): TCO 5 tahun kendaraan BBG (economic/lifecycle)"
+    ],
+    "uncovered_angles": [
+      "garansi pabrikan (per OEM) & asuransi kendaraan pasca-konversi -> BRIEF 01",
+      "troubleshooting gejala pasca-konversi (diagnostic) -> BRIEF 02",
+      "ekosistem/tipe converter kit + cara memilih kit & bengkel bersertifikat -> BRIEF 03",
+      "insentif pemerintah daerah (data tipis/risiko fabrikasi - ditunda)",
+      "roadmap ekspansi SPBG ke 2030 (dekat dgn gasku-05 - ditunda)",
+      "keselamatan kerja/liability pengemudi profesional armada (sebagian diserap Brief 01 sisi asuransi)",
+      "performa segmen kendaraan berat truk/bus (ditunda)"
+    ]
+  }
+}

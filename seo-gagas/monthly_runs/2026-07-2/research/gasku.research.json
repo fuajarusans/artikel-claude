@@ -1,0 +1,132 @@
+{
+  "keyword": "Gasku",
+  "keyword_slug": "gasku",
+  "month": "2026-07-2",
+  "captured_at": "2026-07-07",
+  "updated_at": "2026-07-07 (appended gasku-02 SPBG-coverage + gasku-03 BBG-vs-LGV/EV research)",
+  "landing_page": "https://gagas.co.id/gasku/",
+  "landing_page_summary": "Halaman produk Gasku: BBG/CNG untuk kendaraan. Fakta yang tercantum — harga Rp4.500/LSP, RON >120, emisi 25-35% lebih rendah, kompresi ~200 bar, sistem Bi-Fuel, tabung seamless, pemasangan converter kit wajib di bengkel resmi yang ditunjuk PGN Gagas, SPBG/MRU area Jakarta + SPBG Ngagel Surabaya. Halaman TIDAK memuat jadwal perawatan / uji berkala — ini justru whitespace konten.",
+  "data_sources_used": ["live_serp (Google blocked automated fetch -> fell back to WebSearch)", "websearch", "landing_page_webfetch"],
+  "ahrefs_available": false,
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Minat BBG/CNG kendaraan naik saat harga BBM tinggi; PGN aktif ekspansi SPBG (14 SPBG di 7 provinsi per Nov 2025). Konten 'perawatan mobil BBG' punya beberapa hasil kuat tapi belum ada penyedia CNG kredibel yang memiliki panduan lengkapnya.",
+    "report_rank": "n/a (seo_report: none untuk batch 2026-07-2)"
+  },
+  "serp": {
+    "top_10": [
+      { "url": "https://www.idntimes.com/automotive/car/perawatan-mobil-bbg-ternyata-tak-serumit-yang-dibayangkan-00-7cdnt-7lcbg3", "title": "Perawatan Mobil BBG dan Pemeriksaan Keamanannya | IDN Times", "angle_summary": "Perawatan BBG 'tak serumit yang dibayangkan'; leak test harian pakai air sabun, cek injektor/wiring/tabung, wajib bengkel bersertifikasi Kemenhub. General, tanpa interval km/bulan yang rinci." },
+      { "url": "https://rajarafasamudra.com/cng-vehicles-maintenance-repair-workshop/", "title": "Bengkel Perawatan Kendaraan CNG / BBG", "angle_summary": "Halaman jasa bengkel CNG/BBG; menyebut jadwal harian/mingguan/bulanan, komponen (injektor, wiring, tabung) yang perlu dipantau. Berorientasi jualan jasa, bukan panduan edukatif netral." },
+      { "url": "https://rajarafasamudra.com/cng-cylinders-services-supply/", "title": "Penyedia & Perawatan Tabung CNG / BBG", "angle_summary": "Fokus tabung CNG: uji/test berkala maksimum tiap 5 tahun oleh kementerian + sertifikat tiap pengujian; usia pakai terbatas, retesting per spesifikasi produsen." },
+      { "url": "https://solarindustri.com/blog/apakah-cng-aman-untuk-mobil/", "title": "Apakah CNG Aman untuk Mobil? Ini Penjelasannya", "angle_summary": "Fokus keselamatan CNG (autoignition, standar tabung). Angle 'aman/tidak', bukan how-to perawatan berkelanjutan." },
+      { "url": "https://komogas.com/ketahui-ini-sebelum-konversi-mobil-anda-ke-bahan-bakar-gas-bbg/", "title": "Ketahui Ini Sebelum Konversi Mobil ke BBG (Komogas)", "angle_summary": "Pra-konversi (biaya, converter kit, hal yang perlu diketahui). Overlap dengan part-1 gasku-02/03, bukan perawatan." },
+      { "url": "https://money.kompas.com/read/2023/03/31/125055526/uji-coba-motor-bahan-bakar-cng-berhasil-cetak-jarak-tempuh-387-km-lsp", "title": "Uji Coba Motor CNG 38,7 Km/LSP (Kompas)", "angle_summary": "Berita efisiensi motor CNG PGN; data performa, bukan perawatan." },
+      { "url": "https://rajarafasamudra.com/wp-content/uploads/2020/08/Sosialisasi-Umum-tentang-Bahan-Bakar-Gas-untuk-Kendaraan.pdf", "title": "Sosialisasi Umum BBG untuk Kendaraan (PDF)", "angle_summary": "Materi edukasi converter kit BBG; teknis dasar, bukan jadwal servis konsumen." }
+    ],
+    "serp_features": ["paa", "kemungkinan_ai_overview_pada_query_perawatan"],
+    "ai_overview_entities": ["converter kit", "tabung CNG", "leak test", "uji berkala tabung", "ISO 11439", "SNI 7407-2009", "bengkel tersertifikasi Kemenhub"]
+  },
+  "paa": [
+    "Apakah kendaraan BBG perlu perawatan khusus?",
+    "Berapa lama sekali tabung CNG harus diuji ulang (uji berkala)?",
+    "Bagaimana cara memeriksa kebocoran gas pada kendaraan BBG?",
+    "Berapa masa pakai / usia tabung CNG kendaraan?",
+    "Di mana servis kendaraan BBG yang tersertifikasi?",
+    "Kapan filter gas converter kit harus dibersihkan/diganti?",
+    "Apa tanda converter kit BBG bermasalah?",
+    "Apakah perawatan mobil BBG lebih mahal daripada mobil bensin?"
+  ],
+  "gsc_style_queries_from_report": [],
+  "verified_facts": [
+    "IDN Times: perawatan harian = leak test dengan air sabun pada sambungan sistem gas; komponen dipantau = injektor, wiring, tabung; wajib bengkel bersertifikasi Kemenhub (mengutip PM Perhubungan 39/2012).",
+    "Filter gas converter kit sebaiknya diperiksa/dibersihkan sekitar tiap 3 bulan (sumber sekunder; SME verifikasi angka).",
+    "SNI 7407-2009 = 'Cara Uji Tabung Gas Bumi Bertekanan (CNG) Untuk Kendaraan Bermotor' — standar uji tabung CNG kendaraan di Indonesia.",
+    "ISO 11439 = standar internasional tabung CNG otomotif; tabung diuji ~1,5x tekanan operasi.",
+    "Uji berkala tabung CNG di Indonesia disebut maksimum tiap 5 tahun oleh beberapa sumber sekunder; interval resmi & otoritas penguji WAJIB diverifikasi SME (SNI/regulasi ESDM/Kemenhub/Depnaker) — hindari menyebut angka pasti tanpa sumber primer.",
+    "Usia pakai tabung CNG umumnya 15-20 tahun (standar NGV2 internasional); angka Indonesia spesifik perlu verifikasi.",
+    "PM Perhubungan No. 39/2012 mengatur persyaratan teknis & sertifikasi bengkel konversi/servis BBG.",
+    "Landing page gagas.co.id: converter kit dipasang di bengkel resmi yang ditunjuk PGN Gagas; harga Rp4.500/LSP; ~200 bar; Bi-Fuel; tabung seamless."
+  ],
+  "priority_inferred": "grow/whitespace — tidak ada field priority untuk Gasku di keywords.md batch 2026-07-2 & seo_report=none. Dari SERP: konten 'perawatan BBG' didominasi bengkel pihak ketiga (rajarafasamudra) + media umum (IDN Times), belum ada penyedia CNG kredibel dengan panduan perawatan lengkap. Ini whitespace ownership-stage yang memperdalam cluster Gasku ke fase pasca-konversi.",
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      "apa-itu-gasku-bbg-kendaraan-cara-kerja-spbg (informational/definitional; apa itu Gasku, cara kerja SPBG, Bi-Fuel, keselamatan dasar tabung, mitos)",
+      "konversi-bbm-ke-bbg-penghematan-armada (decision/how-to; kerangka hitung penghematan, payback converter kit, 6 langkah memulai konversi, biaya tersembunyi)",
+      "kapan-kendaraan-belum-cocok-pakai-bbg-gasku (decision/counter-conventional; 5 kondisi menunda konversi, trade-off nyata vs ketakutan berlebih)"
+    ],
+    "uncovered_angles": [
+      "PERAWATAN & servis berkala pasca-konversi (dipilih untuk part-2): jadwal harian/bulanan, leak test, filter gas, uji berkala tabung, masa pakai, bengkel servis tersertifikasi, tanda perlu servis",
+      "SPBG site selection & provincial coverage roadmap (peta ekspansi jaringan)",
+      "vehicle compatibility matrix (make/model/year kelayakan retrofit)",
+      "technical performance data (loss tenaga, konsumsi, emisi per test cycle)",
+      "Converter Kit supplier ecosystem / cara memilih converter kit"
+    ],
+    "chosen_angle_for_this_run": "perawatan-servis-berkala-uji-tabung-bbg",
+    "why_distinct_from_part1": "Ketiga artikel part-1 adalah fase PRA-KEPUTUSAN (apa itu / apakah hemat / apakah cocok). Artikel ini adalah fase KEPEMILIKAN/PASCA-KONVERSI (bagaimana merawat & menjaga keselamatan setelah pakai). Subtopik inti (jadwal servis, leak test air sabun, filter gas 3-bulanan, uji berkala tabung 5-tahunan SNI 7407/ISO 11439, masa pakai tabung, bengkel servis tersertifikasi, tanda perlu servis) tidak muncul di part-1. Jaccard subtopik terhadap masing-masing part-1 <= 0.2 (hanya 'keselamatan tabung' & 'bengkel tersertifikasi' yang bersinggungan tipis, dalam konteks berbeda: pemakaian berkelanjutan vs instalasi awal)."
+  },
+  "batch_2026_07_2_additional_angles": {
+    "note": "Riset tambahan untuk gasku-02 & gasku-03 (batch 2026-07-2). gasku-01 (part-2) = perawatan/servis (sudah ditulis). Dua angle baru di bawah adalah whitespace berbeda: (A) logistik pengisian/SPBG coverage & perencanaan rute; (B) perbandingan BBG vs LGV/Vi-Gas vs kendaraan listrik/hybrid.",
+    "gasku-02_spbg_coverage_trip_planning": {
+      "angle": "peta-spbg-jangkauan-perencanaan-rute-bbg",
+      "search_intent": "informational (praktis/operasional)",
+      "verified_facts": [
+        "Per data terkini, terdapat sekitar 15 lokasi pengisian GasKu (CNG) tersebar di DKI Jakarta, Jawa Barat, Jawa Timur, Lampung, dan Batam (radartasik.disway.id 2026; halaman gagas.co.id/gasku menyebut Jakarta+sekitarnya & SPBG Ngagel Surabaya). SME verifikasi jumlah & daftar lokasi terkini sebelum menyebut angka pasti.",
+        "SPBG Ngagel (Surabaya) kapasitas ~4.000-4.500 LSP/hari; melayani taksi & kendaraan pribadi (money.kompas.com 28 Nov 2025; voi.id; dunia-energi.com).",
+        "SPBG Bogor beroperasi sejak 2014, melayani ~312 unit angkutan kota per hari, dioperasikan PGN Gagas (bogor-today.com Mar 2026).",
+        "SPBG Cirebon (Jawa Barat) kolaborasi PGN Gagas dgn Komunitas Mobil Gas (Komogas).",
+        "MRU (Mobile Refueling Unit) 10-ft berkapasitas gas 2.172 m3; dapat memasok ~8 bus TransJakarta atau ~100 microlet/minibus/sedan; waktu isi ~3 menit (minibus) s/d ~20 menit (bus TransJakarta) (journal.ubb.ac.id; migas.esdm.go.id). MRU = solusi mobilitas titik isi (jangkauan sementara/dinamis).",
+        "Uji coba motor CNG PGN: rata-rata ~38,7 km per LSP (Kompas/Media Indonesia 2023). Angka jarak tempuh -> berguna untuk logika 'range' & perencanaan isi ulang. Label sebagai hasil uji, bukan jaminan universal.",
+        "Sistem Bi-Fuel = jaring pengaman jarak: bila gas habis / SPBG jauh, kendaraan otomatis beralih ke bensin -> mengurangi 'range anxiety' sebagai pembeda kunci dari kendaraan listrik.",
+        "Bengkel Keliling PGN (kerja sama Komogas) beroperasi musiman, mis. mudik Lebaran 2026 di Kalimalang (s/d 3 Apr 2026) & SPBG Bogor (6-10 Apr 2026) -> layanan inspeksi/servis/konversi bergerak; relevan untuk perencanaan perjalanan jauh.",
+        "Hemat hingga 55% biaya energi transportasi (klaim PGN, koran-jakarta.com Okt 2025 & TIMES Indonesia) -> label sebagai klaim PGN, konteks tergantung profil pemakaian."
+      ],
+      "sources": [
+        "https://radartasik.disway.id/read/640522/15-lokasi-pengisian-gasku-cng-pengganti-pertalite-cek-daerah-anda",
+        "https://money.kompas.com/read/2025/11/28/175113126/spbg-ngagel-layani-kebutuhan-bahan-bakar-gas-masyarakat-surabaya",
+        "https://bogor-today.com/2026/03/12/hanya-rp4-500-per-liter-spbg-bogor-jadi-solusi-energi-efisien-bagi-transportasi-umum/",
+        "https://migas.esdm.go.id/post/empat-mru-di-jakarta-resmi-beroperasi,-diversifikasi-bbm-ke-bbg-semakin-cepat",
+        "https://www.esdm.go.id/id/media-center/arsip-berita/menteri-esdm-luncurkan-mobile-refueling-unit",
+        "https://mediaindonesia.com/ekonomi/570062/pgn-sukses-uji-coba-motor-cng-satu-liter-setara-premium-bisa-tempuh-387-km"
+      ],
+      "paa_relevant": [
+        "Di mana saja lokasi SPBG / tempat isi BBG Gasku?",
+        "Apakah SPBG tersedia di luar Jakarta?",
+        "Berapa jarak tempuh kendaraan dengan satu kali isi CNG?",
+        "Bagaimana jika gas habis di jalan dan SPBG jauh?",
+        "Apa itu MRU dan bedanya dengan SPBG?",
+        "Bagaimana cara merencanakan perjalanan jauh dengan kendaraan BBG?"
+      ]
+    },
+    "gasku-03_bbg_vs_lgv_ev_comparison": {
+      "angle": "bbg-gasku-vs-lgv-vs-kendaraan-listrik",
+      "search_intent": "comparison",
+      "verified_facts": [
+        "Ada DUA jenis BBG kendaraan turunan gas: CNG (Compressed Natural Gas, dari gas bumi/metana) dan LGV/Vi-Gas (Liquefied Gas for Vehicle, turunan LPG propana-butana). Gasku = CNG. (detikoto; republika; viva).",
+        "CNG: tekanan ~200 bar, tabung lebih besar/berat, umum untuk angkutan massal (bus TransJakarta, taksi). LGV/Vi-Gas: tekanan ~8-12 bar, diisi 80-85% volume tabung, tabung lebih ringan, cocok mobil pribadi/city car. (antaranews jateng; viva; media indonesia).",
+        "LGV tekanan lebih rendah = penanganan lebih sederhana; CNG densitas energi via tekanan tinggi. Keduanya lebih bersih dari BBM.",
+        "Emisi CO2: CNG ~135,013 g/km vs Pertamax ~168,7 g/km vs Premium ~166,1 g/km (jurnal/riset) -> CNG ~20% lebih rendah dari BBM. Label angka sebagai hasil studi, bukan universal.",
+        "Kendaraan listrik (EV): tanpa emisi knalpot langsung (tailpipe), tapi jejak emisi bergantung sumber listrik (grid Indonesia masih dominan batu bara). Biaya beli ~50% lebih mahal & infrastruktur charging masih terbatas (blog.acv.astra.co.id; kompas otomotif Apr 2026).",
+        "Biaya: BBG Gasku Rp4.500/LSP stabil di seluruh SPBG; klaim hemat s/d 55% biaya energi transport (PGN). EV biaya isi daya per-km termurah jangka panjang tapi capex tinggi. (dunia-energi; koran-jakarta).",
+        "Bi-Fuel (CNG+bensin) = keunggulan transisi: tak ada range anxiety, tak perlu ganti kendaraan, converter kit dipasang di kendaraan yang ada. EV = ganti kendaraan penuh; retrofit tidak praktis untuk armada besar existing.",
+        "Positioning jujur (WAJIB, hindari merendahkan): masing-masing punya use case. EV unggul emisi lokal & TCO jangka sangat panjang untuk pemakaian kota; CNG/BBG unggul capex rendah (retrofit), pas untuk armada existing pemakaian tinggi & jarak jauh via Bi-Fuel; LGV pas kendaraan pribadi ringan. JANGAN klaim satu 'terbaik' mutlak."
+      ],
+      "sources": [
+        "https://oto.detik.com/mobil/d-2804906/ingat-bbg-lpg-dengan-cng-itu-berbeda",
+        "https://jateng.antaranews.com/berita/67939/gas-cng-dan-lgv-memiliki-karaekteristik-berbeda",
+        "https://www.viva.co.id/otomotif/tips/578808-gunakan-bahan-bakar-gas-cng-dan-lgv-apa-bedanya",
+        "https://otomotif.kompas.com/read/2026/04/17/112200115/mobil-listrik-vs-bbm--mengungkap-biaya-tersembunyi-emisi",
+        "https://www.dunia-energi.com/harga-gas-stabil-bbg-bisa-jadi-pilihan-ekonomis-bagi-kendaraan/",
+        "https://blog.acv.astra.co.id/detail/kelebihan-dan-kekurangan-mobil-listrik"
+      ],
+      "paa_relevant": [
+        "Apa bedanya BBG (CNG) dengan LGV / Vi-Gas?",
+        "Mana lebih hemat, BBG atau mobil listrik?",
+        "Mana lebih ramah lingkungan, BBG, LGV, atau kendaraan listrik?",
+        "Apakah BBG cocok untuk mobil pribadi atau hanya angkutan umum?",
+        "Kenapa memilih BBG dibanding beralih ke kendaraan listrik?",
+        "Apakah CNG dan LPG kendaraan sama?"
+      ]
+    }
+  }
+}

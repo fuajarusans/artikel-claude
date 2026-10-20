@@ -1,0 +1,81 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-08\\final\\oee-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-18T00:03:04+07:00",
+    "word_count":  1036,
+    "paragraph_count":  21,
+    "sentence_count":  67,
+    "ai_detector":  {
+                        "score":  0.08,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.395,
+                        "sentence_burstiness":  0.668,
+                        "top30_vocab_share":  0.369,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.395 (target \u003e=0.45)",
+                                          "line":  -1
+                                      },
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 36.9% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "**Performance** = (0,45 menit/unit × 720 unit) ÷ 360 = 324 ÷ 360 = **90%**.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"**Performance** = (0,45 menit/unit × 720 unit) ÷ 360 = 324 ÷ 360 = **90%**.\""
+                                  },
+                                  {
+                                      "passage":  "**Planned Production Time** = 480 menit shift − 30 menit planned stop = **450 menit** 2.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"**Planned Production Time** = 480 menit shift − 30 menit planned stop = **450 menit** 2.\""
+                                  },
+                                  {
+                                      "passage":  "**Quality** = 684 ÷ 720 = **95%**, dengan 36 unit reject 6.",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"**Quality** = 684 ÷ 720 = **95%**, dengan 36 unit reject 6.\""
+                                  },
+                                  {
+                                      "passage":  "**Run Time** = 450 − 90 menit downtime tak terencana = **360 menit** 3.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"**Run Time** = 450 − 90 menit downtime tak terencana = **360 menit** 3.\""
+                                  },
+                                  {
+                                      "passage":  "Masing-masing punya rumus turunannya sendiri, dengan variabel yang harus diambil dari data shift: Run Time, Planned Production Time, Ideal Cycle Time, Total Count, dan Good Count.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Masing-masing punya rumus turunannya sendiri, dengan variabel yang harus diambil dari data shift: Run Time, Planned Prod\""
+                                  },
+                                  {
+                                      "passage":  "85% adalah hasil perkalian tiga minimum komponen dalam kerangka TPM (*Total Productive Maintenance*) yang diperkenalkan Seiichi Nakajima: availability 90%, performance 95%, dan quality 99%.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"85% adalah hasil perkalian tiga minimum komponen dalam kerangka TPM (*Total Productive Maintenance*) yang diperkenalkan \""
+                                  },
+                                  {
+                                      "passage":  "Pada ilustrasi yang sama, (684 × 0,45) ÷ 450 = 307,8 ÷ 450 = 68,4%, identik dengan hasil perkalian tiga faktor.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Pada ilustrasi yang sama, (684 × 0,45) ÷ 450 = 307,8 ÷ 450 = 68,4%, identik dengan hasil perkalian tiga faktor.\""
+                                  },
+                                  {
+                                      "passage":  "OEE mengukur terhadap waktu produksi terencana; TEEP (*Total Effective Equipment Performance*) mengukur terhadap waktu kalender penuh.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"OEE mengukur terhadap waktu produksi terencana; TEEP (*Total Effective Equipment Performance*) mengukur terhadap waktu k\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

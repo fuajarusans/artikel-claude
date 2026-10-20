@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-09\\final\\lean-manufacturing-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-01T08:31:31+07:00",
+    "word_count":  976,
+    "paragraph_count":  15,
+    "sentence_count":  54,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.391,
+                        "sentence_burstiness":  1.106,
+                        "top30_vocab_share":  0.321,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.391 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Sebagai SAP Platinum Partner melalui United VARs dan berpengalaman sejak 1998, Soltius mengimplementasikan serta mendampingi SAP Digital Manufacturing untuk memberi lantai produksi visibilitas *near-real-time* di berbagai industri manufaktur.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Sebagai SAP Platinum Partner melalui United VARs dan berpengalaman sejak 1998, Soltius mengimplementasikan serta mendamp\""
+                                  },
+                                  {
+                                      "passage":  "Womack dan Jones merumuskannya dalam buku *Lean Thinking* (1996) dari studi atas Toyota Production System yang dikembangkan Taiichi Ohno sejak era 1950-an.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Womack dan Jones merumuskannya dalam buku *Lean Thinking* (1996) dari studi atas Toyota Production System yang dikembang\""
+                                  },
+                                  {
+                                      "passage":  "## Lima Prinsip Lean Manufacturing Kelima prinsip bukan daftar acak, melainkan urutan berpikir yang saling membangun.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## Lima Prinsip Lean Manufacturing Kelima prinsip bukan daftar acak, melainkan urutan berpikir yang saling membangun.\""
+                                  },
+                                  {
+                                      "passage":  "Istilah \"lean\" sendiri dipopulerkan peneliti MIT lewat buku *The Machine That Changed the World* (1990).",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"Istilah  lean  sendiri dipopulerkan peneliti MIT lewat buku *The Machine That Changed the World* (1990).\""
+                                  },
+                                  {
+                                      "passage":  "- **Jalankan kaizen berkelanjutan.** Perbaikan kecil harian oleh operator, bukan kampanye sekali jalan.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"- **Jalankan kaizen berkelanjutan.** Perbaikan kecil harian oleh operator, bukan kampanye sekali jalan.\""
+                                  },
+                                  {
+                                      "passage":  "**Pull (Tarik).** Produksi dipicu permintaan nyata (*just-in-time*, tepat waktu), bukan ramalan, sehingga *work-in-process* tidak menggunung.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"**Pull (Tarik).** Produksi dipicu permintaan nyata (*just-in-time*, tepat waktu), bukan ramalan, sehingga *work-in-proce\""
+                                  },
+                                  {
+                                      "passage":  "# Lean Manufacturing: Prinsip, Manfaat, dan Penerapannya Manajer pabrik yang ingin menekan biaya biasanya menyasar yang paling terlihat: kurangi tenaga kerja, tekan harga bahan.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"# Lean Manufacturing: Prinsip, Manfaat, dan Penerapannya Manajer pabrik yang ingin menekan biaya biasanya menyasar yang \""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apa perbedaan lean manufacturing dan Six Sigma?",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apa perbedaan lean manufacturing dan Six Sigma?\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-08\\final\\cng-indonesia-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-11T14:49:00+07:00",
+    "word_count":  1515,
+    "paragraph_count":  24,
+    "sentence_count":  79,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.421,
+                        "sentence_burstiness":  0.621,
+                        "top30_vocab_share":  0.306,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.421 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Standar aktif untuk gas bumi via pipa (industri, pembangkit listrik, rumah tangga) adalah SNI 8414:2025, ditetapkan [Badan Standardisasi Nasional (BSN)](https://pesta.bsn.go.id/produk/detail/84142025-sni8414:2025) pada 12 Maret 2025 sebagai revisi SNI 8414:2017.",
+                                      "candidate_score":  34,
+                                      "web_search_query":  "\"Standar aktif untuk gas bumi via pipa (industri, pembangkit listrik, rumah tangga) adalah SNI 8414:2025, ditetapkan [Bad\""
+                                  },
+                                  {
+                                      "passage":  "Yang sering tertukar: SNI 8219:2017 sebenarnya standar Dimethyl Ether (DME), bukan gas bumi maupun CNG, sedangkan SNI 7407:2009 mengatur peralatan konversi (*converter kit*), bukan mutu gasnya.",
+                                      "candidate_score":  32,
+                                      "web_search_query":  "\"Yang sering tertukar: SNI 8219:2017 sebenarnya standar Dimethyl Ether (DME), bukan gas bumi maupun CNG, sedangkan SNI 74\""
+                                  },
+                                  {
+                                      "passage":  "Standar aktif untuk gas bumi via pipa (industri, pembangkit, rumah tangga) adalah SNI 8414:2025 dari Badan Standardisasi Nasional, revisi SNI 8414:2017.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Standar aktif untuk gas bumi via pipa (industri, pembangkit, rumah tangga) adalah SNI 8414:2025 dari Badan Standardisasi\""
+                                  },
+                                  {
+                                      "passage":  "Kompresi CNG hingga sekitar 250 bar, menurut Ditjen Migas ESDM, hanya urusan penyimpanan dan pengangkutan agar volume gas ringkas.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Kompresi CNG hingga sekitar 250 bar, menurut Ditjen Migas ESDM, hanya urusan penyimpanan dan pengangkutan agar volume ga\""
+                                  },
+                                  {
+                                      "passage":  "# Kualitas Gas CNG: Nilai Kalor, Wobbe Index, dan Spesifikasinya Sebuah boiler yang tiba-tiba lebih boros atau nyala burner yang bergejolak jarang murni soal mesin yang aus.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"# Kualitas Gas CNG: Nilai Kalor, Wobbe Index, dan Spesifikasinya Sebuah boiler yang tiba-tiba lebih boros atau nyala bur\""
+                                  },
+                                  {
+                                      "passage":  "Standar internasional mengaturnya rinci: ISO 13686 mendaftar Wobbe index sebagai parameter mutu gas terproses, ISO 6976 mengatur cara menghitungnya dari komposisi, dan ISO 15971 mengatur pengukurannya.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"Standar internasional mengaturnya rinci: ISO 13686 mendaftar Wobbe index sebagai parameter mutu gas terproses, ISO 6976 \""
+                                  },
+                                  {
+                                      "passage":  "Penyalur yang mengantongi sertifikasi sistem manajemen mutu seperti ISO 9001 umumnya menjadikan konsistensi mutu pasokan bagian dari prosedur bakunya, bukan sekadar klaim lisan.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Penyalur yang mengantongi sertifikasi sistem manajemen mutu seperti ISO 9001 umumnya menjadikan konsistensi mutu pasokan\""
+                                  },
+                                  {
+                                      "passage":  "## Batas Pengotor: Air, CO2, H2S, dan Hidrokarbon Berat Sebelum dikompresi menjadi CNG, gas bumi dimurnikan ke spesifikasi komersial untuk menekan pengotor.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Batas Pengotor: Air, CO2, H2S, dan Hidrokarbon Berat Sebelum dikompresi menjadi CNG, gas bumi dimurnikan ke spesifika\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

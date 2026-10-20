@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-iigf-institute\\monthly_runs\\2026-08\\final\\capacity-building-pembiayaan-kreatif-04.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-12T15:22:11+07:00",
+    "word_count":  1624,
+    "paragraph_count":  21,
+    "sentence_count":  91,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.54,
+                        "sentence_burstiness":  0.549,
+                        "top30_vocab_share":  0.315,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Ruang fiskal APBD tak dihitung | Skema pembayaran ketersediaan layanan disepakati tanpa proyeksi APBD | Kontrak KPBU umumnya 20–30 tahun (Kemenkeu, akses 2026) | | 4.",
+                                      "candidate_score":  32,
+                                      "web_search_query":  "\"Ruang fiskal APBD tak dihitung | Skema pembayaran ketersediaan layanan disepakati tanpa proyeksi APBD | Kontrak KPBU umu\""
+                                  },
+                                  {
+                                      "passage":  "# Proyek KPBU Daerah Mandek di Penyiapan: 6 Celah Kapasitas Dokumen pra-studi kelayakan sudah tersusun rapi, konsultan sudah dibayar, usulan proyek sudah masuk daftar.",
+                                      "candidate_score":  29,
+                                      "web_search_query":  "\"# Proyek KPBU Daerah Mandek di Penyiapan: 6 Celah Kapasitas Dokumen pra-studi kelayakan sudah tersusun rapi, konsultan s\""
+                                  },
+                                  {
+                                      "passage":  "Siklus KPBU berjalan dari perencanaan, penyiapan, transaksi, hingga manajemen kontrak sepanjang masa kerja sama yang umumnya 20–30 tahun (portal KPBU Kemenkeu, ditelusuri Agustus 2026).",
+                                      "candidate_score":  27,
+                                      "web_search_query":  "\"Siklus KPBU berjalan dari perencanaan, penyiapan, transaksi, hingga manajemen kontrak sepanjang masa kerja sama yang umu\""
+                                  },
+                                  {
+                                      "passage":  "- **Fasilitas Penyiapan Proyek (*Project Development Facility*/PDF).** Fasilitas Kementerian Keuangan yang membantu PJPK menyusun kajian akhir pra-studi kelayakan dan dokumen lelang, hingga pendampingan transaksi sampai *financial close*.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"- **Fasilitas Penyiapan Proyek (*Project Development Facility*/PDF).** Fasilitas Kementerian Keuangan yang membantu PJPK\""
+                                  },
+                                  {
+                                      "passage":  "Diajukan PJPK kepada Menteri Keuangan melalui Direktur Jenderal Pengelolaan Pembiayaan dan Risiko.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"Diajukan PJPK kepada Menteri Keuangan melalui Direktur Jenderal Pengelolaan Pembiayaan dan Risiko.\""
+                                  },
+                                  {
+                                      "passage":  "Status lahan belum jelas | Pengadaan lahan dimulai saat pelaksanaan fasilitas | Kemenkeu: ketidakpastian lahan [\"mengurangi minat investor\"](https://kpbu.kemenkeu.go.id/read/20-233/pjpk/pelaksanaan-kpbu/pelaksanaan-fasilitas) | | 5.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Status lahan belum jelas | Pengadaan lahan dimulai saat pelaksanaan fasilitas | Kemenkeu: ketidakpastian lahan [ mengura\""
+                                  },
+                                  {
+                                      "passage":  "Syaratnya antara lain prinsip pengguna membayar dan nilai investasi minimum Rp 100 miliar (portal KPBU Kemenkeu, akses Agustus 2026).",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Syaratnya antara lain prinsip pengguna membayar dan nilai investasi minimum Rp 100 miliar (portal KPBU Kemenkeu, akses A\""
+                                  },
+                                  {
+                                      "passage":  "Penyiapan kurang kredibel | Pra-studi kelayakan generik, tak tahan uji lapangan | Bank Dunia (2017): *bankability* didesain sejak tahap pengembangan | | 2.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Penyiapan kurang kredibel | Pra-studi kelayakan generik, tak tahan uji lapangan | Bank Dunia (2017): *bankability* dides\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

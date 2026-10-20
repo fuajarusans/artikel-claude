@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-iigf-institute\\monthly_runs\\2026-09\\final\\studi-kasus-proyek-infrastruktur-di-indonesia-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-22T06:46:32+07:00",
+    "word_count":  1632,
+    "paragraph_count":  21,
+    "sentence_count":  86,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.458,
+                        "sentence_burstiness":  0.799,
+                        "top30_vocab_share":  0.277,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Kemenko Perekonomian (7 Maret 2024) dan pemberitaan 2022 mencatat 10,39 km; Kementerian PU (2023), BPJT (2024), dan Bina Marga (19 Februari 2025) mencatat 10,64 km.",
+                                      "candidate_score":  51,
+                                      "web_search_query":  "\"Kemenko Perekonomian (7 Maret 2024) dan pemberitaan 2022 mencatat 10,39 km; Kementerian PU (2023), BPJT (2024), dan Bina\""
+                                  },
+                                  {
+                                      "passage":  "Seksi 1 dibangun langsung oleh negara, bukan sebagai proyek KPBU, dengan 15% APBN dan 85% pinjaman luar negeri (Bina Marga, 19 Februari 2025).",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Seksi 1 dibangun langsung oleh negara, bukan sebagai proyek KPBU, dengan 15% APBN dan 85% pinjaman luar negeri (Bina Mar\""
+                                  },
+                                  {
+                                      "passage":  "Menurut kerangka kajian VfM Kementerian Keuangan (halaman diakses 2026), penilaian kualitatif menimbang tiga dimensi: kelayakan proyek (*viability*), urgensi (*desirability*), dan kemungkinan ketercapaian (*achievability*).",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Menurut kerangka kajian VfM Kementerian Keuangan (halaman diakses 2026), penilaian kualitatif menimbang tiga dimensi: ke\""
+                                  },
+                                  {
+                                      "passage":  "Seksi tanggul laut bermanfaat besar tanpa memungut tarif, sementara seksi tol berbayar harus menutup Capex indikatif Rp 5,44 triliun (2024) lewat pendapatan tarif.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Seksi tanggul laut bermanfaat besar tanpa memungut tarif, sementara seksi tol berbayar harus menutup Capex indikatif Rp \""
+                                  },
+                                  {
+                                      "passage":  "Revisi anggaran Seksi 1 juga bukan tanda pembengkakan; kontrak multi-tahun lazim mengalami pembaruan nominal.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Revisi anggaran Seksi 1 juga bukan tanda pembengkakan; kontrak multi-tahun lazim mengalami pembaruan nominal.\""
+                                  },
+                                  {
+                                      "passage":  "Layak ekonomi berarti total manfaat proyek bagi masyarakat melebihi biayanya meski tidak seluruhnya berbentuk pendapatan tunai, diukur antara lain lewat EIRR dan ENPV.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Layak ekonomi berarti total manfaat proyek bagi masyarakat melebihi biayanya meski tidak seluruhnya berbentuk pendapatan\""
+                                  },
+                                  {
+                                      "passage":  "*Value for money* adalah tingkat pencapaian maksimal sebuah *outcome* proyek dari setiap biaya input yang dikeluarkan, sesuai [halaman kajian penilaian VfM Kementerian Keuangan](https://kpbu.kemenkeu.go.id/read/69-214/umum/kajian-opini-publik/penilaian-vfm-value-for-money-dalam-penentuan-pemilihan-skema-penyediaan-infrastruktur-di-indonesia).",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"*Value for money* adalah tingkat pencapaian maksimal sebuah *outcome* proyek dari setiap biaya input yang dikeluarkan, s\""
+                                  },
+                                  {
+                                      "passage":  "Penilaian kuantitatif memakai *public sector comparator* (PSC), yang menghitung biaya siklus hidup proyek bila dibiayai penuh dana publik, lalu membandingkannya dengan proyeksi biaya KPBU.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Penilaian kuantitatif memakai *public sector comparator* (PSC), yang menghitung biaya siklus hidup proyek bila dibiayai \""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

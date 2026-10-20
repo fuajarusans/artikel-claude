@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-10\\final\\perusahaan-lng-indonesia-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-28T20:00:42+07:00",
+    "word_count":  1630,
+    "paragraph_count":  26,
+    "sentence_count":  93,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.359,
+                        "sentence_burstiness":  0.912,
+                        "top30_vocab_share":  0.269,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.359 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "# Menjaga Keandalan Pasokan LNG: Strategi Kelangsungan (BCP) untuk Pabrik Ketika lini produksi berhenti karena pasokan gas telat datang, yang hilang bukan cuma harga gasnya.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"# Menjaga Keandalan Pasokan LNG: Strategi Kelangsungan (BCP) untuk Pabrik Ketika lini produksi berhenti karena pasokan g\""
+                                  },
+                                  {
+                                      "passage":  "American Gas Association dan IEA memperlakukan penyimpanan gas sebagai penyangga fleksibilitas tanpa menetapkan jumlah hari baku lintas industri; angka apa pun sebaiknya dianggap ilustrasi.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"American Gas Association dan IEA memperlakukan penyimpanan gas sebagai penyangga fleksibilitas tanpa menetapkan jumlah h\""
+                                  },
+                                  {
+                                      "passage":  "## Apa Itu Keandalan Pasokan dan Rencana Kelangsungan (BCP) untuk Energi Gas?",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Apa Itu Keandalan Pasokan dan Rencana Kelangsungan (BCP) untuk Energi Gas?\""
+                                  },
+                                  {
+                                      "passage":  "## Kapan Anda Justru Terlalu Banyak Berjaga (Over-Engineering Continuity) Ketika biaya berjaga melampaui kerugian yang mungkin terjadi.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Kapan Anda Justru Terlalu Banyak Berjaga (Over-Engineering Continuity) Ketika biaya berjaga melampaui kerugian yang m\""
+                                  },
+                                  {
+                                      "passage":  "Pada 2020, saat serapan gas nasional turun ke sekitar 79% target, sejumlah pembeli mengajukan relaksasi *take-or-pay* ke SKK Migas (Kontan, Juni 2020).",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Pada 2020, saat serapan gas nasional turun ke sekitar 79% target, sejumlah pembeli mengajukan relaksasi *take-or-pay* ke\""
+                                  },
+                                  {
+                                      "passage":  "Harga spot LNG Asia ikut melonjak 45% ke rata-rata US$17,5/MMBtu pada kuartal II, tertinggi sejak krisis 2022, sebelum mereda usai kesepakatan sementara AS–Iran.",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"Harga spot LNG Asia ikut melonjak 45% ke rata-rata US$17,5/MMBtu pada kuartal II, tertinggi sejak krisis 2022, sebelum m\""
+                                  },
+                                  {
+                                      "passage":  "**Diversifikasi sumber (*dual sourcing*).** Satu pemasok atau satu rute berarti satu titik gagal.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"**Diversifikasi sumber (*dual sourcing*).** Satu pemasok atau satu rute berarti satu titik gagal.\""
+                                  },
+                                  {
+                                      "passage":  "**Lindung nilai lewat kontrak.** Kontrak jangka panjang berbasis indeksasi meredam guncangan harga spot harian.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"**Lindung nilai lewat kontrak.** Kontrak jangka panjang berbasis indeksasi meredam guncangan harga spot harian.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

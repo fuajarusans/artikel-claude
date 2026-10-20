@@ -1,0 +1,107 @@
+{
+  "keyword": "Gasku",
+  "keyword_slug": "gasku",
+  "month": "2026-08",
+  "captured_at": "2026-08-11",
+  "landing_page": "https://gagas.co.id/gasku/",
+  "landing_page_summary": "Gasku = layanan CNG/BBG PGN Gagas untuk transportasi. Gas alam (dominan metana) dikompresi ~200 bar, RON >120, tabung seamless (bukan las), harga Rp 4.500/LSP, klaim emisi 25-35% lebih rendah & penghematan biaya harian ~50%. Cocok untuk mesin bensin (spark-ignition) roda-4 via Converter Kit di bengkel bersertifikat. Target: bus kota, bajaj, angkot, taksi, kendaraan pribadi, truk logistik; sektor transportasi publik, UMKM, logistik. SPBG di Jakarta & sekitarnya + Surabaya (SPBG Ngagel). Section landing: Apakah Gasku Itu? / Berapa harga Gasku? / Bagaimana agar kendaraan saya bisa menggunakan Gasku? / Apa Keunggulan Utama Gasku? / Apa Saja Teknologi di Balik Gasku?",
+  "data_sources_used": ["live_landing_page_fetch", "websearch"],
+  "ahrefs_available": false,
+  "google_serp_direct_fetch": "blocked (Google bot-detection error page returned; degraded to WebSearch for competitor angles + PAA-style queries)",
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Naik — momentum BBG/CNG transportasi 2024-2026 didorong efisiensi subsidi & harga BBM; PGN mengoperasikan 14 SPBG di 7 provinsi (Nov 2025), ~2.200 pengisian/hari, penyaluran gas transportasi 1,63 BBTUD (Sep 2025).",
+    "report_rank": "n/a (seo_report: none in keywords.md)"
+  },
+  "serp": {
+    "top_competitors_by_angle": {
+      "eligibilitas_konversi": [
+        {"url": "https://www.industry.co.id/read/152369/panduan-konversi-bbm-ke-gas-untuk-kendaraan-hemat-50-70-biaya-bahan-bakar", "angle_summary": "Panduan umum konversi BBM->gas, klaim hemat 50-70%; tidak ada matriks eligibilitas per jenis kendaraan."},
+        {"url": "https://www.idntimes.com/automotive/car/mobil-diesel-ternyata-bisa-pakai-bbg-begini-sistemnya-00-7cdnt-79wsf4", "angle_summary": "Mesin diesel bisa BBG lewat Diesel Dual Fuel (DDF), tetap butuh solar untuk pembakaran awal."},
+        {"url": "https://otomania.gridoto.com/read/241171715/biaya-pasang-konverter-bbg-di-mobil-injeksi", "angle_summary": "Biaya pasang konverter BBG di mobil injeksi; beda injeksi vs karburator."},
+        {"url": "https://komogas.com/ketahui-ini-sebelum-konversi-mobil-anda-ke-bahan-bakar-gas-bbg/", "angle_summary": "Checklist hal yang perlu diketahui sebelum konversi; blog vendor konverter."}
+      ],
+      "performa_emisi": [
+        {"url": "https://www.idntimes.com/automotive/car/tak-cuma-hemat-mobil-bbg-punya-sejumlah-konsekuensi-00-7cdnt-p7rnkw", "angle_summary": "Konsekuensi mobil BBG: penurunan tenaga hingga 20% pada mesin kompresi rendah."},
+        {"url": "https://www.antaranews.com/berita/1085136/kendaraan-bbg-90-persen-lebih-ramah-lingkungan-dibanding-bbm", "angle_summary": "Klaim BBG 90% lebih ramah lingkungan vs BBM (angka perlu diverifikasi/dikontekskan)."},
+        {"url": "https://solarindustri.com/blog/apakah-cng-aman-untuk-mobil/", "angle_summary": "Keamanan & karakteristik CNG untuk mobil."},
+        {"url": "https://auto2000.co.id/berita-dan-tips/bbg", "angle_summary": "Auto2000: pengenalan mobil BBG & cara kerja (brand OEM)."},
+        {"url": "https://jurnallugas.com/2026/05/10/kelebihan-dan-kekurangan-cng-bahan-bakar-alternatif-dilirik-pengguna-kendaraan/", "angle_summary": "Kelebihan-kekurangan CNG untuk kendaraan (2026)."}
+      ],
+      "biaya_tco": [
+        {"url": "https://www.cnbcindonesia.com/news/20240304134339-4-519447/pakai-bbg-untuk-kendaraan-bisa-hemat-rp-5500-bbm-per-liter", "angle_summary": "Hemat ~Rp5.500/liter vs BBM (2024)."},
+        {"url": "https://finance.detik.com/energi/d-2863898/mobil-anda-mau-pakai-bbg-ini-biaya-yang-harus-disiapkan", "angle_summary": "Biaya yang harus disiapkan untuk konversi BBG."},
+        {"url": "https://www.idntimes.com/automotive/car/mau-irit-bbm-konversi-mobil-bensin-ke-bbg-mulai-rp13-juta-00-7cdnt-bzpgjv", "angle_summary": "Konversi mobil bensin ke BBG mulai Rp13 juta."},
+        {"url": "https://otomotif.kompas.com/read/2023/02/22/092200315/tanda-tanya-konversi-mobil-dari-bbm-ke-gas-apakah-masih-relevan", "angle_summary": "Kompas: relevansi konversi BBM->gas dipertanyakan (skeptis)."}
+      ]
+    },
+    "serp_features": ["paa (approximated via websearch — direct Google fetch blocked)"],
+    "ai_overview_entities": ["BBG", "CNG", "converter kit", "Diesel Dual Fuel (DDF)", "SPBG", "uji tipe / KIR", "SUT (Surat Uji Tipe)", "SNI converter kit", "LSP (Liter Setara Premium)"]
+  },
+  "paa_approximated": [
+    "Apakah semua mobil bisa dikonversi ke BBG?",
+    "Apakah mobil diesel bisa pakai BBG?",
+    "Apa syarat kendaraan bisa dipasang converter kit BBG?",
+    "Berapa penurunan tenaga mesin setelah pakai BBG?",
+    "Apakah BBG merusak mesin mobil?",
+    "Berapa emisi yang bisa dikurangi kendaraan BBG dibanding bensin?",
+    "Berapa biaya pasang converter kit BBG dan kapan balik modal?",
+    "Berapa lama tabung CNG harus diuji ulang?",
+    "Apakah converter kit harus ber-SNI dan bengkelnya bersertifikat?"
+  ],
+  "verified_facts": {
+    "landing_specs": {
+      "tekanan": "~200 bar",
+      "ron": ">120",
+      "tabung": "seamless (bukan las)",
+      "harga": "Rp 4.500/LSP",
+      "emisi_klaim_gagas": "25-35% lebih rendah",
+      "penghematan_klaim_gagas": "~50% biaya operasional harian",
+      "kompatibilitas_landing": "mesin bensin spark-ignition (roda-4), via Converter Kit di bengkel bersertifikat"
+    },
+    "spbg": "14 SPBG di 7 provinsi (Nov 2025), ~2.200 pengisian/hari; penyaluran gas transportasi 1,63 BBTUD (Sep 2025). Lokasi disebut a.l. Jakarta, Bekasi (Pondok Ungu), Bogor, Cilegon, Surabaya (Ngagel), Semarang, Bandar Lampung.",
+    "converter_kit_biaya": "Rp 14-25 juta mobil penumpang (Tipe 1 baja ~Rp15jt, Tipe 4 komposit ~Rp25jt); diesel DDF ~Rp15-17jt (kit terbatas). [Rentang pasar, BUKAN tarif Gagas — verifikasi terkini]",
+    "payback_ilustratif": "~10 bulan dengan penghematan ~Rp2,5 juta/bulan pada konsumsi 15 L/hari (asumsi pasar, bukan jaminan).",
+    "hemat_per_liter": "~Rp5.500/liter vs BBM (CNBC 2024).",
+    "performa": "Penurunan tenaga ~10-20% (paling terasa mesin kompresi rendah / tanjakan / beban berat); akibat efisiensi volumetrik lebih rendah; RON >120 menguntungkan mesin kompresi tinggi.",
+    "emisi_rentang_sumber": "Sumber bervariasi: klaim CO/CO2/N2O turun hingga 95%; karbon ~20% lebih rendah; 'BBG 90% lebih ramah lingkungan'. ANGKA SANGAT BERVARIASI — researcher WAJIB verifikasi & framing hati-hati; gunakan angka landing Gagas (25-35%) + sumber otoritatif (ESDM/EIA) untuk emisi spesifik.",
+    "diesel": "Diesel tidak bisa 100% gas; via Diesel Dual Fuel (DDF) tetap butuh solar untuk pilot ignition. Gasku landing menekankan mesin BENSIN — konversi diesel bukan produk inti Gasku (flag framing)."
+  },
+  "regulatory_context": {
+    "converter_kit": "Wajib ber-SNI; produsen/importir wajib Sertifikat Produk (Permen Perindustrian — persyaratan teknis rangkaian komponen konverter kit).",
+    "uji_tipe": "BPLJSKB (Kemenhub) menguji tipe kendaraan bermotor; kendaraan hasil konversi wajib uji ulang -> Surat Uji Tipe (SUT).",
+    "workshop": "Bengkel konversi wajib bersertifikat (rujukan historis: PM Perhubungan No. 39/2012 tentang persyaratan teknis kendaraan BBG).",
+    "tabung_retest": "Uji berkala/hidrostatik tabung CNG belum ditemukan angka spesifik via WebSearch — rujukan umum SNI/ISO 11439 (uji ulang tiap 3-5 tahun). RESEARCHER WAJIB verifikasi interval & biaya."
+  },
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      {"id": "2026-07-gasku-01", "angle": "apa-itu-gasku-cara-kerja-bbg-spbg", "intent": "informational", "hash": "sha1:f776c9882481"},
+      {"id": "2026-07-gasku-02", "angle": "konversi-bbm-ke-bbg-penghematan-armada", "intent": "decision", "hash": "sha1:ad4dcaa88c88"},
+      {"id": "2026-07-gasku-03", "angle": "kapan-armada-belum-cocok-bbg-jujur", "intent": "decision", "hash": "sha1:c220dc2116e0"},
+      {"id": "2026-07-2-gasku-04", "angle": "perawatan-servis-berkala-uji-tabung-bbg", "intent": "how-to", "hash": "sha1:fdd3c5b320e0"},
+      {"id": "2026-07-2-gasku-05", "angle": "peta-spbg-jangkauan-perencanaan-rute-bbg", "intent": "informational", "hash": "sha1:a7d1e4c9b602"},
+      {"id": "2026-07-2-gasku-06", "angle": "bbg-gasku-vs-lgv-vs-kendaraan-listrik", "intent": "comparison", "hash": "sha1:c3f80b16e4d7"}
+    ],
+    "covered_ground": [
+      "apa itu Gasku / cara kerja SPBG / Bi-Fuel / LSP glossary / safety myths (gasku-01)",
+      "konversi BBM->BBG penghematan + payback + HowTo 6 langkah + program pemerintah (gasku-02)",
+      "kapan BELUM cocok — negasi operasional/ekonomi + power loss trade-off (gasku-03)",
+      "perawatan/servis berkala + uji tabung sebagai PROSEDUR how-to (gasku-04)",
+      "peta SPBG + jangkauan + perencanaan rute (gasku-05)",
+      "Gasku (BBG) vs LGV vs Mobil Listrik — pemilihan powertrain (gasku-06)"
+    ],
+    "uncovered_angles_chosen": [
+      "matriks kompatibilitas/eligibilitas kendaraan (jenis mesin/tahun/kondisi/ruang) untuk konversi Gasku — informational reference",
+      "data performa & emisi BBG (CNG) vs bensin per siklus/parameter uji — comparison (data-rich)",
+      "TCO 5 tahun kepemilikan kendaraan BBG (Gasku) — decision (lifecycle cost, bukan payback bulan pertama)"
+    ],
+    "uncovered_angles_left_for_future": [
+      "implikasi garansi & asuransi per OEM (Toyota/Honda/Mitsubishi/Hino/Isuzu)",
+      "ekosistem/perbandingan supplier converter kit",
+      "insentif pemerintah daerah (Jabar/DKI/Surabaya/Batam)",
+      "roadmap ekspansi SPBG ke 2030 (sebagian di gasku-05)",
+      "troubleshooting gejala kendaraan BBG (brebet/susah start)"
+    ]
+  }
+}

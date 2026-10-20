@@ -1,0 +1,81 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-10\\final\\buku-besar-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-10-08T16:54:57+07:00",
+    "word_count":  1251,
+    "paragraph_count":  21,
+    "sentence_count":  78,
+    "ai_detector":  {
+                        "score":  0.08,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.345,
+                        "sentence_burstiness":  0.893,
+                        "top30_vocab_share":  0.375,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.345 (target \u003e=0.45)",
+                                          "line":  -1
+                                      },
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 37.5% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Buku besar umum memuat akun ringkasan seperti Piutang Usaha, sedangkan buku besar pembantu (*subsidiary ledger*) merincinya per entitas, misalnya piutang tiap pelanggan.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Buku besar umum memuat akun ringkasan seperti Piutang Usaha, sedangkan buku besar pembantu (*subsidiary ledger*) merinci\""
+                                  },
+                                  {
+                                      "passage":  "Di SAP S/4HANA Finance, keduanya melebur ke dalam Universal Journal, yaitu satu tabel bernama ACDOCA yang menampung akuntansi keuangan (*Financial Accounting*/FI) sekaligus pengendalian biaya (*Controlling*/CO).",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Di SAP S/4HANA Finance, keduanya melebur ke dalam Universal Journal, yaitu satu tabel bernama ACDOCA yang menampung akun\""
+                                  },
+                                  {
+                                      "passage":  "Aturannya tegas: total seluruh buku besar pembantu harus sama dengan saldo akun kontrolnya ([AccountingTools](https://accountingtools.com/articles/what-is-a-subsidiary-ledger.html)).",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Aturannya tegas: total seluruh buku besar pembantu harus sama dengan saldo akun kontrolnya ([AccountingTools](https://ac\""
+                                  },
+                                  {
+                                      "passage":  "**Siapkan akun buku besar** sesuai bagan akun (*chart of accounts*), satu akun satu halaman.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"**Siapkan akun buku besar** sesuai bagan akun (*chart of accounts*), satu akun satu halaman.\""
+                                  },
+                                  {
+                                      "passage":  "Jurnal menyusun transaksi urut tanggal, bukan per akun, sehingga saldonya tidak langsung terbaca.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Jurnal menyusun transaksi urut tanggal, bukan per akun, sehingga saldonya tidak langsung terbaca.\""
+                                  },
+                                  {
+                                      "passage":  "Kalau jurnalnya salah, buku besarnya ikut salah; ia menata ulang catatan, bukan memperbaikinya.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Kalau jurnalnya salah, buku besarnya ikut salah; ia menata ulang catatan, bukan memperbaikinya.\""
+                                  },
+                                  {
+                                      "passage":  "Satu catatan: sumber berbeda pendapat apakah skontro punya kolom saldo baku, jadi lajur saldo paling konsisten dirujuk ke staffel.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Satu catatan: sumber berbeda pendapat apakah skontro punya kolom saldo baku, jadi lajur saldo paling konsisten dirujuk k\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apa bedanya buku besar dan buku besar pembantu?",
+                                      "candidate_score":  8,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apa bedanya buku besar dan buku besar pembantu?\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-10\\final\\perusahaan-cng-indonesia-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-28T19:52:16+07:00",
+    "word_count":  1518,
+    "paragraph_count":  26,
+    "sentence_count":  86,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.436,
+                        "sentence_burstiness":  0.87,
+                        "top30_vocab_share":  0.34,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.436 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Diskon LNG US$13/MMBTU pun berlaku terbatas hingga 31 Desember 2026; kelanjutannya belum diputuskan pemerintah ([Kontan](https://industri.kontan.co.id/news/evaluasi-harga-gas-industri-hgbt-dan-gas-pipa-tetap-lng-turun-ke-us-13-per-mmbtu), Juni 2026), dan LNG jadi alternatif [pasokan LNG untuk volume besar](https://gagas.co.id/perusahaan-lng-indonesia/).",
+                                      "candidate_score":  35,
+                                      "web_search_query":  "\"Diskon LNG US$13/MMBTU pun berlaku terbatas hingga 31 Desember 2026; kelanjutannya belum diputuskan pemerintah ([Kontan]\""
+                                  },
+                                  {
+                                      "passage":  "Padahal pilihannya kini banyak: tercatat 53 perusahaan pemegang izin niaga CNG per semester II-2025, naik dari 33 (Bloomberg Technoz, Mei 2026).",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Padahal pilihannya kini banyak: tercatat 53 perusahaan pemegang izin niaga CNG per semester II-2025, naik dari 33 (Bloom\""
+                                  },
+                                  {
+                                      "passage":  "Cara Benchmark \u0026 Negosiasi Penyedia Seorang manajer procurement menerima tiga penawaran pasokan CNG (*Compressed Natural Gas*) dengan selisih harga yang membingungkan.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Cara Benchmark \u0026 Negosiasi Penyedia Seorang manajer procurement menerima tiga penawaran pasokan CNG (*Compressed Natural\""
+                                  },
+                                  {
+                                      "passage":  "Minta klausul tinjauan harga (*price review*): kapan dan bagaimana harga bisa berubah, termasuk bila kebijakan HGBT atau diskon LNG (resmi hanya sampai 31 Desember 2026) berubah.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Minta klausul tinjauan harga (*price review*): kapan dan bagaimana harga bisa berubah, termasuk bila kebijakan HGBT atau\""
+                                  },
+                                  {
+                                      "passage":  "Secara global, indeksasi ke harga minyak menurun, dari 24% (2005) ke 18,5% (2024) menurut survei International Gas Union 2025.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Secara global, indeksasi ke harga minyak menurun, dari 24% (2005) ke 18,5% (2024) menurut survei International Gas Union\""
+                                  },
+                                  {
+                                      "passage":  "HGBT hanya berlaku bagi 253 pengguna yang resmi ditetapkan di tujuh sektor (pupuk, petrokimia, oleokimia, baja, keramik, kaca, sarung tangan karet) menurut [Kementerian ESDM](https://www.esdm.go.id/id/media-center/arsip-berita/skema-baru-hgbt-perkuat-daya-saing-industri-dan-efisiensi-anggaran-negara) (Februari 2025).",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"HGBT hanya berlaku bagi 253 pengguna yang resmi ditetapkan di tujuh sektor (pupuk, petrokimia, oleokimia, baja, keramik,\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Berapa harga gas industri per MMBTU di Indonesia saat ini (2026)?",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Berapa harga gas industri per MMBTU di Indonesia saat ini (2026)?\""
+                                  },
+                                  {
+                                      "passage":  "## Yang Bisa Ditawar vs yang Tetap: Lever Negosiasi Yang bisa ditawar adalah lapisan layanan dan komitmen: tenor, besaran take-or-pay, skema harga, efisiensi logistik, dan margin niaga.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Yang Bisa Ditawar vs yang Tetap: Lever Negosiasi Yang bisa ditawar adalah lapisan layanan dan komitmen: tenor, besara\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

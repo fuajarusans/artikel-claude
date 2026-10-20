@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-ptpii\\monthly_runs\\2026-09\\final\\pembiayaan-kreatif-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-22T05:57:43+07:00",
+    "word_count":  1844,
+    "paragraph_count":  24,
+    "sentence_count":  119,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.453,
+                        "sentence_burstiness":  0.659,
+                        "top30_vocab_share":  0.352,
+                        "flags":  [
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 35.2% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Rencana paling maju, obligasi DKI Jakarta senilai Rp 3,5 triliun, baru menargetkan Juni 2027 ([BPKD Provinsi DKI Jakarta](https://bpkd.jakarta.go.id/artikel/detail/903), 22 Juli 2026).",
+                                      "candidate_score":  39,
+                                      "web_search_query":  "\"Rencana paling maju, obligasi DKI Jakarta senilai Rp 3,5 triliun, baru menargetkan Juni 2027 ([BPKD Provinsi DKI Jakarta\""
+                                  },
+                                  {
+                                      "passage":  "1 Tahun 2024 tentang Harmonisasi Kebijakan Fiskal Nasional diundangkan 2 Januari 2024 dan mencabut PP No.",
+                                      "candidate_score":  34,
+                                      "web_search_query":  "\"1 Tahun 2024 tentang Harmonisasi Kebijakan Fiskal Nasional diundangkan 2 Januari 2024 dan mencabut PP No.\""
+                                  },
+                                  {
+                                      "passage":  "1 Tahun 2024 tentang Harmonisasi Kebijakan Fiskal Nasional, diundangkan 2 Januari 2024, yang mencabut PP No.",
+                                      "candidate_score":  34,
+                                      "web_search_query":  "\"1 Tahun 2024 tentang Harmonisasi Kebijakan Fiskal Nasional, diundangkan 2 Januari 2024, yang mencabut PP No.\""
+                                  },
+                                  {
+                                      "passage":  "56 Tahun 2018 tentang Pinjaman Daerah beserta dua regulasi terkait ([peraturan.go.id](https://peraturan.go.id/id/pp-no-1-tahun-2024), diakses September 2026).",
+                                      "candidate_score":  33,
+                                      "web_search_query":  "\"56 Tahun 2018 tentang Pinjaman Daerah beserta dua regulasi terkait ([peraturan.go.id](https://peraturan.go.id/id/pp-no-1\""
+                                  },
+                                  {
+                                      "passage":  "DSCR (*Debt Service Coverage Ratio*) adalah rasio kemampuan keuangan daerah mengembalikan Pembiayaan Utang Daerah, dan Pasal 40 ayat (4) PP No.",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"DSCR (*Debt Service Coverage Ratio*) adalah rasio kemampuan keuangan daerah mengembalikan Pembiayaan Utang Daerah, dan P\""
+                                  },
+                                  {
+                                      "passage":  "1 Tahun 2024: batas 75% penerimaan umum APBD dan DSCR minimal 2,5.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"1 Tahun 2024: batas 75% penerimaan umum APBD dan DSCR minimal 2,5.\""
+                                  },
+                                  {
+                                      "passage":  "Rencana paling maju datang dari DKI Jakarta senilai Rp 3,5 triliun, dengan target penerbitan yang kini dinyatakan Juni 2027 (BPKD Provinsi DKI Jakarta, 22 Juli 2026).",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"Rencana paling maju datang dari DKI Jakarta senilai Rp 3,5 triliun, dengan target penerbitan yang kini dinyatakan Juni 2\""
+                                  },
+                                  {
+                                      "passage":  "| Ya | Tidak, menurut pembacaan definisi Pasal 1, bukan klausul pengecualian eksplisit | | Pengikat | Perjanjian pinjaman atau surat berharga, BAB III PP No.",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"| Ya | Tidak, menurut pembacaan definisi Pasal 1, bukan klausul pengecualian eksplisit | | Pengikat | Perjanjian pinjama\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

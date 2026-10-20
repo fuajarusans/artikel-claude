@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07-2\\final\\perusahaan-lng-indonesia-05.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-08T09:27:47+07:00",
+    "word_count":  1638,
+    "paragraph_count":  27,
+    "sentence_count":  84,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.377,
+                        "sentence_burstiness":  0.742,
+                        "top30_vocab_share":  0.318,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.377 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Menurut IPCC AR6, potensi pemanasan global (*GWP*) metana fosil mencapai 81 pada horison 20 tahun, dibanding 27 pada horison 100 tahun.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Menurut IPCC AR6, potensi pemanasan global (*GWP*) metana fosil mencapai 81 pada horison 20 tahun, dibanding 27 pada hor\""
+                                  },
+                                  {
+                                      "passage":  "Menurut IPCC AR6, GWP20 metana fosil mencapai 81 dibanding GWP100 sebesar 27, sehingga kebocoran kecil pun bisa memangkas keunggulan iklim LNG.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Menurut IPCC AR6, GWP20 metana fosil mencapai 81 dibanding GWP100 sebesar 27, sehingga kebocoran kecil pun bisa memangka\""
+                                  },
+                                  {
+                                      "passage":  "Target porsi gas bumi dalam bauran energi primer sempat dipatok 22% pada 2025 (RUEN lama), namun Kebijakan Energi Nasional terbaru (PP No.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Target porsi gas bumi dalam bauran energi primer sempat dipatok 22% pada 2025 (RUEN lama), namun Kebijakan Energi Nasion\""
+                                  },
+                                  {
+                                      "passage":  "40/2025) merevisinya menjadi sekitar 12,9–14,2% pada 2030, sinyal bahwa fokus kebijakan bergeser ke energi terbarukan.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"40/2025) merevisinya menjadi sekitar 12,9–14,2% pada 2030, sinyal bahwa fokus kebijakan bergeser ke energi terbarukan.\""
+                                  },
+                                  {
+                                      "passage":  "Semua itu berlabuh pada komitmen Net Zero Emission (NZE) Indonesia pada 2060, bukan 2050 seperti sering keliru dikutip.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Semua itu berlabuh pada komitmen Net Zero Emission (NZE) Indonesia pada 2060, bukan 2050 seperti sering keliru dikutip.\""
+                                  },
+                                  {
+                                      "passage":  "Inilah dasar teknis mengapa LNG kerap disebut instrumen pemerataan energi ke daerah tanpa pipa.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Inilah dasar teknis mengapa LNG kerap disebut instrumen pemerataan energi ke daerah tanpa pipa.\""
+                                  },
+                                  {
+                                      "passage":  "Pada 2025, 69% dari 5.600 BBTUD produksi gas nasional dialokasikan untuk domestik, mendukung kelistrikan, industri, dan pemerataan energi tanpa impor.",
+                                      "candidate_score":  11,
+                                      "web_search_query":  "\"Pada 2025, 69% dari 5.600 BBTUD produksi gas nasional dialokasikan untuk domestik, mendukung kelistrikan, industri, dan \""
+                                  },
+                                  {
+                                      "passage":  "Namun studi Cornell (2024) menemukan bila metana dihitung penuh pada horison 20 tahun, jejaknya bisa 33% lebih tinggi dari batu bara.",
+                                      "candidate_score":  11,
+                                      "web_search_query":  "\"Namun studi Cornell (2024) menemukan bila metana dihitung penuh pada horison 20 tahun, jejaknya bisa 33% lebih tinggi da\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

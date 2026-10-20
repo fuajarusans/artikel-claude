@@ -1,0 +1,81 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-07\\final\\safety-stock-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-06T20:42:03+07:00",
+    "word_count":  956,
+    "paragraph_count":  17,
+    "sentence_count":  51,
+    "ai_detector":  {
+                        "score":  0.08,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.398,
+                        "sentence_burstiness":  0.757,
+                        "top30_vocab_share":  0.381,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.398 (target \u003e=0.45)",
+                                          "line":  -1
+                                      },
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 38.1% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "**Rumus statistik** (service level 95%, Z = 1,65): 1,65 × 12 × √10 ≈ 19,8 × 3,16 ≈ **63 unit**.",
+                                      "candidate_score":  34,
+                                      "web_search_query":  "\"**Rumus statistik** (service level 95%, Z = 1,65): 1,65 × 12 × √10 ≈ 19,8 × 3,16 ≈ **63 unit**.\""
+                                  },
+                                  {
+                                      "passage":  "**Rumus sederhana:** (70 × 14) − (50 × 10) = 980 − 500 = **480 unit**.",
+                                      "candidate_score":  31,
+                                      "web_search_query":  "\"**Rumus sederhana:** (70 × 14) − (50 × 10) = 980 − 500 = **480 unit**.\""
+                                  },
+                                  {
+                                      "passage":  "Datanya: pemakaian rata-rata 50 unit per hari, maksimum 70; lead time rata-rata 10 hari, maksimum 14; σd harian 12 unit.",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"Datanya: pemakaian rata-rata 50 unit per hari, maksimum 70; lead time rata-rata 10 hari, maksimum 14; σd harian 12 unit.\""
+                                  },
+                                  {
+                                      "passage":  "- **Target service level.** Standar umum 95% (Z = 1,65); item kritis layak 99% (Z = 2,33).",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"- **Target service level.** Standar umum 95% (Z = 1,65); item kritis layak 99% (Z = 2,33).\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai SAP Platinum Partner melalui keanggotaan United VARs, Soltius mengimplementasikan dan mendampingi solusi perencanaan rantai pasok SAP seperti SAP IBP untuk perusahaan manufaktur dan distribusi.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Sebagai SAP Platinum Partner melalui keanggotaan United VARs, Soltius mengimplementasikan dan mendampingi solusi perenca\""
+                                  },
+                                  {
+                                      "passage":  "## Cara Menentukan Tingkat Safety Stock yang Tepat Menentukan tidak sama dengan menghitung.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Cara Menentukan Tingkat Safety Stock yang Tepat Menentukan tidak sama dengan menghitung.\""
+                                  },
+                                  {
+                                      "passage":  "Service level 100% praktis mustahil dicapai karena kebutuhan buffer naik tidak proporsional.",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"Service level 100% praktis mustahil dicapai karena kebutuhan buffer naik tidak proporsional.\""
+                                  },
+                                  {
+                                      "passage":  "Kebutuhan buffer naik tidak proporsional saat target mendekati 100%, dan service level 100% secara statistik tidak dapat dicapai; target lazim 90–98%.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Kebutuhan buffer naik tidak proporsional saat target mendekati 100%, dan service level 100% secara statistik tidak dapat\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

@@ -1,0 +1,165 @@
+{
+  "keyword": "public private partnership",
+  "keyword_slug": "public-private-partnership",
+  "month": "2026-08",
+  "language": "en",
+  "captured_at": "2026-08-12",
+  "landing_page": "https://www.ptpii.co.id/public-private-partnership",
+  "landing_page_summary": "English hub titled 'PUBLIC PRIVATE PARTNERSHIP GUARANTEE'. Verbatim H-sections: 'Government Guarantee under the Public Private Partnership', 'Understanding the Definition and Basic Concepts of PPP', 'Why PPP is Critical for Indonesia's Infrastructure', 'Accelerating Development and Improving Service Quality', 'Driving Economic Growth and Job Creation', 'Priority PPP Sectors in Indonesia', 'PPP Project Stages in Indonesia: A Structured Journey', 'Indonesia's Infrastructure Transformation and the Strategic Role of PT PII', 'PPP and the Role of PT PII as a Catalyst for Sustainable Infrastructure Development'. Covers: PPP definition under Perpres 38/2015, six-stage lifecycle (Planning, Preparation, Transaction, Construction, Operations & Maintenance, Termination), priority sectors (transport, energy, water, telco, health, education, housing), PT PII's role, the four products. Cites RPJMN 2020-2024 need of IDR 6,445 trillion with government covering 37%, and states PT PII has guaranteed 33 projects.",
+  "landing_page_gaps": [
+    "STALE FIGURES: hub says 33 projects guaranteed, but ptpii.co.id/informasi-proyek states 61 projects (38 KPBU + 23 non-KPBU) across 7 sectors as at June 2026. Hub also uses the superseded RPJMN 2020-2024 funding figure rather than RPJMN 2025-2029.",
+    "No risk-allocation matrix - it says 'risk mitigation for investors' but never sets out which risks sit with the PJPK/GCA versus the business entity, nor what the guarantee excludes.",
+    "No lender/credit-analyst content: nothing on financial close timing, security package, step-in, termination compensation mechanics, or PT PII's own counterparty credit standing.",
+    "No comparison against international risk-mitigation instruments (MIGA PRI, MDB partial risk guarantees, ECA cover) - the exact frame a cross-border sponsor uses.",
+    "No entry-route content (solicited vs unsolicited, prequalification, SPV/foreign ownership).",
+    "No detailed case studies, no application procedures, no guarantee terms/fees."
+  ],
+  "data_sources_used": ["live_serp_google_en_gl_id", "live_serp_google_en_gl_us", "live_serp_duckduckgo", "live_serp_brave", "websearch", "webfetch_landing_page", "webfetch_secondary_sources"],
+  "ahrefs_available": false,
+  "gsc_available": false,
+  "seo_report_named_in_keywords_md": "none",
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "volume_global": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "n/a (Ahrefs not connected). Qualitative signal only: Indonesian PPP coverage is being refreshed by law firms and DFIs through 2025-2026 (KWM Indonesia PPP Guide 2025 dated 8 Jul 2025; Dentons HPRP note on Bappenas Regulation 9/2025 dated 26 Feb 2026; Chambers Project Finance 2025 - Indonesia).",
+    "report_rank": "n/a (keywords.md sets seo_report: none)",
+    "observed_live_rank": {
+      "how does public private partnership work in indonesia (google.com, hl=en, gl=us)": "ptpii.co.id/public-private-partnership at position 2, snippet 'Public-Private Partnership (PPP) is a collaboration between the government and business entities to provide public infrastructure.'",
+      "indonesia ppp government guarantee risk allocation investors (google.com, hl=en, gl=us)": "ptpii.co.id/public-private-partnership at position 3, snippet 'Operating under the Ministry of Finance, this SOE provides guarantees for Public-Private Partnership (PPP) projects against political risks.'",
+      "public private partnership indonesia (brave)": "ptpii.co.id/public-private-partnership at position 5",
+      "public private partnership indonesia (google.com, hl=en, gl=id)": "the English hub does NOT rank; ptpii.co.id/kpbu ranks at position 2 instead - Google ID substitutes the Indonesian page for the same brand. Confirms the international SERP (gl=us) is the correct target for this keyword.",
+      "difference between PPP and KPBU indonesia (google.com, hl=en, gl=us)": "ptpii.co.id does NOT rank - open whitespace"
+    }
+  },
+  "serp": {
+    "query_primary_international": "how does public private partnership work in indonesia (google.com, hl=en, gl=us)",
+    "top_10_international": [
+      {"url": "https://www.adb.org/publications/public-private-partnership-monitor-indonesia", "title": "Public-Private Partnership Monitor: Indonesia - Asian Development Bank", "angle_summary": "Paid ADB reference guide, 500+ qualitative and quantitative indicators on Indonesia's PPP landscape; authoritative but priced at USD 43 and not a readable explainer."},
+      {"url": "https://www.ptpii.co.id/public-private-partnership", "title": "Indonesia's Public Private Partnership: Definition & Infrastructure", "angle_summary": "The client hub itself - definitional overview plus the six project stages and PT PII's role."},
+      {"url": "https://www.pwc.com/id/en/industry-sectors/cpi/public-private-partnerships.html", "title": "Public Private Partnerships - PwC Indonesia", "angle_summary": "Advisory service page framed around private finance constructing a government asset; sells capability rather than teaching the framework."},
+      {"url": "https://openknowledge.worldbank.org/", "title": "Unlocking the Public-Private Partnerships Deadlock in Indonesia - World Bank Group", "angle_summary": "Gap analysis of Indonesia's PPP framework against successful comparator country programmes; academic register, dated."},
+      {"url": "https://www.abacademies.org/", "title": "The Role of Law in Public Private Partnership: Indonesia - Allied Business Academies", "angle_summary": "Legal-academic paper on affordability and users' ability to pay; not decision-useful for a sponsor."},
+      {"url": "https://www.ppiaf.org/activity/indonesia-development-public-private-partnership-ppp-unit-ministry-finance-indonesia-and-0", "title": "INDONESIA: Development of Public Private Partnership Unit - PPIAF", "angle_summary": "Project record of PPIAF's technical assistance in building the PPP Unit; institutional history, not investor guidance."},
+      {"url": "https://www.mckinsey.com/", "title": "Can public private partnerships solve Indonesia's infrastructure gap? - McKinsey", "angle_summary": "Three-page PDF arguing PPPs can bridge the investment gap by bringing in private finance; consultancy framing, older."},
+      {"url": "https://www.mdpi.com/", "title": "Examining Solicited Projects of Public-Private Partnership - MDPI (Nahdi, 2024)", "angle_summary": "Peer-reviewed FGD study on effective partnering in Indonesian solicited PPPs; academic."},
+      {"url": "https://en.wikipedia.org/wiki/Public%E2%80%93private_partnership", "title": "Public-private partnership - Wikipedia", "angle_summary": "Generic global PPP entry, not Indonesia-specific."}
+    ],
+    "top_10_other_captures": [
+      {"url": "https://ppp.worldbank.org/country-profile-indonesia", "title": "Country Profile: Indonesia | World Bank PPP Legal Resource Center", "angle_summary": "Legal/governance profile with OECD regulatory-reform references; reference library, dry."},
+      {"url": "https://ppp.worldbank.org/library/ppp-unit-indonesia", "title": "PPP Unit Indonesia | World Bank", "angle_summary": "Institutional entry that describes IIGF's 2009 creation by the Ministry of Finance to improve PPP creditworthiness."},
+      {"url": "https://www.kwm.com/global/en/insights/latest-thinking/public-private-partnerships-in-asia-indonesia-guide-2025.html", "title": "Public-Private Partnerships in Asia - Indonesia Guide (KWM, 8 Jul 2025)", "angle_summary": "Law-firm guide: PPPs as a strategic tool since 2005, evolving regulation, pipeline of opportunities, government support and guarantees. Strongest direct competitor for the investor-intent query."},
+      {"url": "https://pppmonitor.adb.org/country/indonesia/national-ppp-landscape", "title": "National PPP landscape - Indonesia (ADB PPP Monitor)", "angle_summary": "Free web version of the ADB Monitor: institutions, VGF/AP/guarantee instruments, and a project-count dataset (2019 vintage)."},
+      {"url": "https://www.aoshearman.com/en/insights/infrastructure-series-public-private-partnerships-ppp-in-indonesia", "title": "Infrastructure series: Public Private Partnerships (PPP) in Indonesia - A&O Shearman", "angle_summary": "The single most investor-honest competitor: names counterparty risk, IDR revenue denomination, weak local-court enforcement and short-lived sectoral regulation as deterrents."},
+      {"url": "https://www.gihub.org/emerging-funding-and-finance/case-studies/promote-private-investment-in-infrastructure-projects-by-providing-government-guarantees/", "title": "Promote private investment by providing government guarantees - Global Infrastructure Hub", "angle_summary": "Case study of the IIGF model as a credit-enhancement instrument."},
+      {"url": "https://www.iisd.org/credit-enhancement-instruments/institution/indonesia-infrastructure-guarantee-fund/", "title": "Indonesia Infrastructure Guarantee Fund: Credit Enhancement for Infrastructure - IISD", "angle_summary": "Instrument-level profile of IIGF including the World Bank / MoF co-guarantor backstop."},
+      {"url": "https://dentons.hprplawyers.com/en/insights/articles/2026/february/26/indonesias-ppp-framework-reinforced", "title": "Indonesia's PPP framework reinforced: what Bappenas regulation 9/2025 means (Dentons HPRP, 26 Feb 2026)", "angle_summary": "Newest regulatory read on the framework. Fetch returned 403 - the researcher must verify contents independently before any article states what Reg 9/2025 changes."}
+    ],
+    "serp_features": ["people_also_ask", "people_also_search_for", "video_pack", "pdf_results", "no_ai_overview_observed_on_captured_queries"],
+    "ai_overview_note": "No AI Overview block rendered on any of the four captured queries (hl=en gl=id, and three hl=en gl=us queries). The PAA block sits high on the page instead, which raises the value of question-format H2s and a clean FAQ for citation capture.",
+    "ai_overview_entities_expected": ["Public-Private Partnership (PPP)", "KPBU", "Perpres 38/2015", "Bappenas", "Ministry of Finance", "PT Penjaminan Infrastruktur Indonesia", "Indonesia Infrastructure Guarantee Fund (IIGF)", "Viability Gap Fund", "Availability Payment", "PJPK / Government Contracting Agency"]
+  },
+  "paa": {
+    "english_google_gl_us": [
+      "How does a public-private partnership work?",
+      "What are the three types of public-private partnering agreements?",
+      "Can you give me an example of a public-private partnership (PPP)?",
+      "What are the benefits of a public partnership?",
+      "Can you give me an example of a Public-Private Partnership (PPP) project?",
+      "What is a PPP project?"
+    ],
+    "indonesian_google_gl_id": [
+      "Apa itu public-private partnership?",
+      "PT. Pii bergerak di bidang apa?",
+      "Apakah public-private partnership sama dengan KPBU?",
+      "Projek PPP itu apa?"
+    ],
+    "people_also_search_for": [
+      "Public-Private Partnership for infrastructure development",
+      "Privatization and public-private partnerships",
+      "Public-private Partnership models",
+      "Public-private partnership companies",
+      "Types of public-private Partnership models",
+      "What is public-private Partnership",
+      "Public private partnership agreement",
+      "Examples of public-private partnerships",
+      "How does public private partnership work in indonesia pdf",
+      "Indonesia public private partnership projects",
+      "PPP joint office Indonesia",
+      "Indonesia PPP per capita",
+      "IIGF Indonesia",
+      "ADB PPP monitor Indonesia"
+    ],
+    "note": "Captured live from Google via browser on 2026-08-12. Google's PAA for this keyword is generic/global rather than Indonesia-specific, which is itself the opportunity: the specific investor and lender questions (risk allocation, coverage exclusions, financial close, instrument comparison) are under-served in the PAA block and unanswered by the top 10."
+  },
+  "gsc_style_queries_from_report": "n/a - keywords.md sets seo_report: none for 2026-08.",
+  "verified_facts_pool": {
+    "note": "Every item below still requires researcher re-verification against the named primary source before it enters a draft. Reference years/dates are recorded here so the writer never publishes a bare number.",
+    "ptpii_portfolio": "61 projects guaranteed (38 KPBU + 23 non-KPBU) across 7 sectors, as at June 2026 - ptpii.co.id/informasi-proyek (Google SERP snippet captured 2026-08-12). NOTE: the English hub page still says 33 projects; the researcher must reconcile and use the dated figure.",
+    "fitch_rating": "Fitch affirmed PT Penjaminan Infrastruktur Indonesia Long-Term Foreign- and Local-Currency IDRs at 'BBB', Short-Term Foreign-Currency IDR at 'F2', National Long-Term Rating at 'AAA(idn)', Outlook Stable - rating action dated 12 February 2026. NOTE: company_profile.md records 'BBB- (verify current)'; the 2026 action says BBB. Researcher must confirm against Fitch's own release before use.",
+    "ptpii_capacity": "Government capital injections IDR 10.7 trillion from establishment in 2009 to end-December 2025; equity IDR 16.0 trillion; maximum guarantee capacity IDR 191.6 trillion; gearing 6.5x in 2025 versus 6.1x in 2024; effective guarantee exposure rose IDR 8.7 trillion during 2025; Fitch GRE support score 45 of a maximum 60, extraordinary support assessed 'Virtually Certain' (Fitch via Petromindo, 12 Feb 2026).",
+    "rpjmn_2025_2029": "Infrastructure funding requirement IDR 1,905.3 trillion; APBN covers IDR 678.91 trillion (35.63%); APBD covers IDR 473.28 trillion (24.87%); funding gap IDR 753 trillion (39.5%), around USD 46.14 billion, through 2029 (RPJMN 2025-2029, reported 2025). A separate and much larger figure (over IDR 10,300 trillion of infrastructure investment by 2029 to support the 8% growth target) circulates with a different scope - the two must never be conflated.",
+    "adb_monitor_2019": "ADB PPP Monitor Indonesia (2019 data): 135 projects reached financial close with a value of USD 63,464 million; PPP investment USD 20,286 million; 97 projects with government support; 22 user-charge PPPs; 64 government-payment PPPs; 72 PPP projects with foreign sponsor participation; guarantee cap limited to 6% of GDP during 2018-2021.",
+    "financial_close_clock": "Financial close must occur no later than 12 months after signing the PPP agreement, extendable by six months where the delay is not the business entity's fault (A&O Shearman infrastructure series). Researcher must trace this to the primary instrument (Perpres 38/2015 and its implementing PMK/Bappenas regulation) before an article states it as law.",
+    "guarantee_scope": "IIGF guarantee covers termination payments, tariff-adjustment delays and land-procurement delays; typically capped, valid up to around 15 years, with upfront and recurring fees (A&O Shearman). Consistent with company_profile.md: discriminatory project-specific change of law, delay/failure to obtain government approvals, early termination on PJPK default, and other acts or omissions of government as contract counterparty.",
+    "vgf": "Viability Gap Fund contributes up to 49% of construction, equipment and installation costs for economically viable but not financially viable projects; user-charge projects only, not availability-payment projects; PMK 170/2018 requires that no other alternative exists to make the project financially viable; ADB records a minimum investment threshold of IDR 100 billion.",
+    "co_guarantee": "For projects larger than IIGF's own capacity the government may act as co-guarantor, with IIGF administering the joint guarantee; IIGF guarantees are backed by co-guarantors including the Ministry of Finance and the World Bank Group (World Bank PPP Knowledge Lab, IISD).",
+    "regress": "PT PII signs a Guarantee and Regress Agreement per project - e.g. the Gedebage-Tasikmalaya-Cilacap and Gilimanuk-Mengwi toll road PPPs (ptpii.co.id English releases).",
+    "foreign_participation": "Foreign ownership is permitted up to 100% in most infrastructure sectors following revision of the Investment Negative List, but the market remains dominated by local investors and local financiers, with SOEs as pioneers; foreign investors 'have started to come but at a much slower pace' (A&O Shearman). Researcher must confirm the current instrument - the DNI was replaced by the Positive Investment List under Perpres 10/2021 - before naming any regulation.",
+    "foreign_investor_deterrents": "Three named deterrents: (1) counterparty risk, distinguishing central government, regional government, SOEs and regional-owned companies, compounded by IDR-denominated revenue against foreign-currency return expectations; (2) enforcement of contractual rights, where a dispute against a government counterpart in local courts is unconvincing; (3) regulatory risk, where sectoral regulation is often short-lived against 25-30 year concessions (A&O Shearman).",
+    "unsolicited": "Unsolicited PPPs run a three-phase process (approval, procurement of the business entity, transaction) and must still go to open tender; the initiator's incentives include a right to match the highest bid, plus the possibility of the GCA purchasing the project.",
+    "miga_vs_mdb": "MIGA political risk insurance covers currency inconvertibility and transfer restriction, expropriation, war/terrorism/civil disturbance, breach of contract and non-honouring of financial obligations. A waiting period and arbitration are typical insurance requirements; bank-type partial risk and credit guarantees from MDBs carry no such waiting period (World Bank PPP Knowledge Lab guarantee pages).",
+    "world_bank_2021": "World Bank blog (14 April 2021): 24 PPP contracts signed worth USD 16.87 billion; IIGF guarantees approved for 15 projects worth USD 15 billion; target of USD 183 billion (42% of infrastructure needs) from private investors by 2024. Dated - use only as historical trajectory, never as current state.",
+    "regulatory_watch": "Bappenas Regulation No. 9 of 2025 is reported to reinforce the PPP framework for project structuring and financing, aligned with RPJMN 2025-2029 (Dentons HPRP, 26 Feb 2026; PPP Book 2025). NOT independently verified - the Dentons page returned HTTP 403. Do not state what it changes until the researcher reads the primary text on Bappenas/JDIH."
+  },
+  "authoritative_source_shortlist": [
+    {"source": "Kementerian Keuangan - KPBU portal", "url": "https://kpbu.kemenkeu.go.id/", "use": "Definition of Penjaminan Infrastruktur, government support instruments, sector review reports"},
+    {"source": "DJPPR Kemenkeu - Viability Gap Fund (English)", "url": "http://kpbu.djppr.kemenkeu.go.id/en/viability-gap-fund/", "use": "VGF definition and eligibility in English"},
+    {"source": "Bappenas PPP Book 2025", "url": "https://perpustakaan.bappenas.go.id/e-library/file_upload/koleksi/dokumenbappenas/konten/Dokumen%202025/Konten/PPP%20Book%202025.pdf", "use": "Current pipeline, project counts, sectors - with the 2025 reference year"},
+    {"source": "World Bank PPP Knowledge Lab - Indonesia country profile", "url": "https://ppp.worldbank.org/country-profile-indonesia", "use": "Legal framework, PPP unit, IIGF description (403 to WebFetch; try Google cache or the PPP Unit page)"},
+    {"source": "World Bank PPP Knowledge Lab - Guarantees", "url": "https://ppp.worldbank.org/guarantees", "use": "Partial risk guarantee mechanics for the comparison article"},
+    {"source": "ADB PPP Monitor - Indonesia national landscape", "url": "https://pppmonitor.adb.org/country/indonesia/national-ppp-landscape", "use": "Institutional map, instruments, project dataset (2019 vintage - always date it)"},
+    {"source": "MIGA - Political Risk Insurance", "url": "https://www.miga.org/political-risk-insurance", "use": "Covered risks for the instrument-comparison article"},
+    {"source": "Global Infrastructure Hub - IIGF case study", "url": "https://www.gihub.org/emerging-funding-and-finance/case-studies/promote-private-investment-in-infrastructure-projects-by-providing-government-guarantees/", "use": "Third-party validation of the IIGF guarantee model"},
+    {"source": "IISD Credit Enhancement Instruments - IIGF", "url": "https://www.iisd.org/credit-enhancement-instruments/institution/indonesia-infrastructure-guarantee-fund/", "use": "Instrument profile and co-guarantor structure"},
+    {"source": "JDIH / peraturan.go.id", "url": "https://peraturan.go.id/", "use": "Confirm Perpres 38/2015 and any implementing PMK are still in force before citing"}
+  ],
+  "history_snapshot": {
+    "existing_articles_for_keyword": [],
+    "index_json_state": "articles_history/index.json has an empty articles array as at 2026-08-11. This is the first run; dedup is therefore internal to the three sibling briefs only.",
+    "uncovered_angles": [
+      "Risk allocation matrix - which risks sit with the PJPK/GCA versus the business entity, and what the guarantee excludes (taken by brief 01)",
+      "Bankability and the road to financial close from the lender's seat (taken by brief 02)",
+      "Indonesia's guarantee versus MIGA PRI, MDB partial risk guarantees and ECA cover (taken by brief 03)",
+      "Entry routes for a foreign sponsor: solicited versus unsolicited, prequalification, SPV and foreign ownership - deliberately left for a later month",
+      "Managing the IDR revenue versus hard-currency return mismatch as a standalone treatment - left for a later month",
+      "Dispute resolution, governing law and arbitration for a foreign party against a government counterpart - left for a later month",
+      "Sector-by-sector read on where Indonesian PPPs actually close (toll roads, electricity, water, waste-to-energy, telecoms) - left for a later month",
+      "What Bappenas Regulation 9/2025 changed, once primary text is verifiable - left for a later month",
+      "Contingent-liability and fiscal-headroom view: guarantee caps, PT PII's capacity, whether the state can pay a claim - left for a later month"
+    ]
+  },
+  "anti_cannibalization": {
+    "sibling_cluster_running_this_month": "KPBU (language id, hub https://www.ptpii.co.id/kpbu) owns the domestic-practitioner explainer of the same scheme; 'Jaminan Pemerintah' (id, same hub) owns the guarantee-instrument mechanics in Indonesian.",
+    "differentiation_rule": "This cluster differentiates by LANGUAGE + AUDIENCE + ANGLE, not by topic label. Every article is written for a cross-border reader: comparative frameworks, World Bank / ADB / PPP Knowledge Lab / MIGA reference points, IDR-versus-hard-currency exposure, what a foreign lender actually diligences, and how Indonesia's guarantee sits against instruments the reader already knows. No article in this cluster may be an English rendering of an Indonesian-cluster article.",
+    "specific_risk_to_watch": "Brief 01 (risk allocation) is the closest neighbour to the Indonesian 'Jaminan Pemerintah' cluster. It is fenced by framing every risk against what an international sponsor's own risk register and an offshore lender's term sheet already contain, and by benchmarking coverage against instruments outside Indonesia - which the Indonesian cluster does not do."
+  },
+  "internal_link_set_for_all_three_briefs": {
+    "note": "The month's set resolves to only 3 distinct hub URLs. Every article carries exactly these 3, all inline and contextual, no callout boxes. Anchor text is English even where the destination page is Bahasa Indonesia - the anchor should describe what the reader will find.",
+    "primary_hub": "https://www.ptpii.co.id/public-private-partnership",
+    "cousin_1": "https://www.ptpii.co.id/kpbu",
+    "cousin_2": "https://www.ptpii.co.id/pembiayaan-kreatif",
+    "never_link": "institute.iigf.co.id (folder isolation rule, CLAUDE.md section 5)"
+  },
+  "must_avoid": [
+    "No names of Direksi or Dewan Komisaris - hard blacklist.",
+    "Every figure carries a reference year or date.",
+    "PT PII is never a lender, equity investor, contractor, operator or regulator - it issues and structures government guarantees and supports project preparation.",
+    "PT PII is not under the Danantara holding; it sits under the Ministry of Finance.",
+    "Maximum 2-3 PT PII self-mentions per article, one CTA anchor only.",
+    "No press-release register - the signature failure mode for this client.",
+    "IIGF must always carry infrastructure / PPP / Ministry of Finance context so it is never read as the International Institute of Green Finance.",
+    "Never imply the guarantee removes the business entity's commercial risk, or that it is a subsidy.",
+    "Do not cite a Perpres/PMK/Bappenas regulation without confirming it is in force."
+  ]
+}

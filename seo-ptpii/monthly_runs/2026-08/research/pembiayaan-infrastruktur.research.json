@@ -1,0 +1,230 @@
+{
+  "keyword": "Pembiayaan Infrastruktur",
+  "keyword_slug": "pembiayaan-infrastruktur",
+  "month": "2026-08",
+  "captured_at": "2026-08-12",
+  "language": "id",
+  "priority": "grow",
+  "articles_requested": 3,
+  "client_anchor": "Penjaminan Pemerintah",
+  "target_word_count": "1500-1800 (aim ~1650)",
+
+  "landing_page": "https://www.ptpii.co.id/pembiayaan-kreatif",
+  "landing_page_summary": "H1 'PRODUK PEMBIAYAAN KREATIF & INFRASTRUKTUR'. Fetched live 2026-08-12. Content is DAERAH-centric: konsep pembiayaan kreatif, peran UU HKPD (UU No. 1/2022), KPBU sebagai skema pembiayaan kreatif, dukungan pemerintah (penjaminan PT PII, fasilitas penyiapan proyek, VGF), studi kasus SPAM Umbulan, tantangan implementasi di daerah. Explicitly does NOT cover: analisis funding gap nasional, lender/perbankan spesifik, mekanisme penerbitan obligasi, struktur project finance, produk obligasi/sukuk terperinci.",
+  "landing_page_gap_for_this_cluster": "The hub is entirely daerah/APBD-facing. The national/macro + financier-side territory assigned to this keyword is UNCOVERED by the hub — all 3 briefs add genuinely new surface rather than restating the landing page.",
+
+  "data_sources_used": ["live_landing_page_fetch", "websearch_result_sets", "kemenkeu_kpbu_portal_paa_section", "competitor_page_fetches"],
+  "ahrefs_available": false,
+  "gsc_available": false,
+  "seo_report": "none (keywords.md declares seo_report: none)",
+
+  "serp_capture_limitations": {
+    "google_direct": "BLOCKED — https://www.google.com/search?q=...&hl=id&gl=id and https://www.google.co.id/... both return Google's 'masalah mengakses Penelusuran' interstitial, no results, no PAA, no AI Overview visible.",
+    "duckduckgo": "BLOCKED — ECONNREFUSED 202.169.44.80 (ISP-level block on duckduckgo.com and lite.duckduckgo.com).",
+    "mojeek": "HTTP 403.",
+    "startpage": "fetch refused by client.",
+    "yahoo": "HTTP 500.",
+    "bing": "REACHABLE BUT UNUSABLE — verified that the fetch only honors the FIRST word of the query. Query 'skema pembiayaan infrastruktur KPBU penjaminan pemerintah' returned SKEMA Business School results; query 'pembiayaan infrastruktur' returned generic consumer-multifinance results (OJK lembaga pembiayaan, BFI, BSI, SEVA). These were DISCARDED and are NOT recorded as SERP data.",
+    "resolution": "No live Google SERP position data or Google-native PAA/AI-Overview capture was possible this run. The competitor landscape below is reconstructed from FIVE real ranked WebSearch result sets across intent-varied queries, plus direct fetches of the top competing pages. PAA is taken verbatim from Kementerian Keuangan's own 'Orang Juga Bertanya' category (a government-maintained mirror of Google PAA for this topic space) and is labelled by provenance. NOTHING is fabricated."
+  },
+
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "cpc": "n/a (Ahrefs not connected)",
+    "trend": "n/a — no Ahrefs/Trends access. Qualitative signal only: high publishing activity through 2026 (ekon.go.id, kpbu.kemenkeu.go.id, SMI/IIF bond issuances in Jun-Jul 2026), suggesting an active, growing topic.",
+    "report_rank": "n/a (seo_report: none)"
+  },
+
+  "serp_landscape_reconstructed": {
+    "method": "union of 5 WebSearch result sets (head term, definitional, scheme-focused, lender/project-finance, failure-mode) + direct page fetches",
+    "observed_competitors": [
+      {
+        "url": "https://www.ptsmi.co.id/perusahaan-pembiayaan-infrastruktur",
+        "title": "Perusahaan Pembiayaan Infrastruktur di Indonesia Terpercaya",
+        "type": "commercial (state-owned lender)",
+        "angle_summary": "PT SMI's own commercial/SEO page positioning itself as the infrastructure financing company. Vendor page, not an explainer."
+      },
+      {
+        "url": "https://www.ptsmi.co.id/lembaga-pembiayaan-pembangunan-indonesia",
+        "title": "Lembaga Pembiayaan Untuk Infrastruktur di Indonesia",
+        "type": "commercial",
+        "angle_summary": "Institution-listing page from PT SMI; describes subordinated loans, direct lending, refinancing."
+      },
+      {
+        "url": "https://www.djkn.kemenkeu.go.id/berita_media/baca/12715/Pendanaan-Infrastruktur.html",
+        "title": "Pendanaan Infrastruktur",
+        "type": "government explainer",
+        "angle_summary": "Broad explainer: skema pembiayaan, institusi yang terlibat, koordinasi. FETCHED: relies on 2015-2019 RPJMN figures (Rp 4.769 triliun; 41,3% APBN / 22,2% BUMN / 36,5% swasta) and a Jakarta-Bandung HSR example. SUBSTANTIALLY DATED — its numbers are two RPJMN cycles old."
+      },
+      {
+        "url": "https://simpulkpbu.pu.go.id/pages/general/skema-pembiayaan",
+        "title": "Skema Pembiayaan — Ditjen Pembiayaan Infrastruktur PU",
+        "type": "government directory",
+        "angle_summary": "FETCHED: names five schemes (KPBU, KPBU Syariah/KPBUS, Kerja Sama Bisnis B-to-B, Penugasan BUMN, Land Value Capture) as bare hyperlinks with no substantive explanation. Functions as a directory, not a resource. Explicitly does not cover lender diligence, cost of fund, financial close, or risk allocation."
+      },
+      {
+        "url": "https://kpbu.kemenkeu.go.id/read/1132-1300/umum/orang-juga-bertanya/siapa-yang-membiayai-proyek-pada-skema-kpbu",
+        "title": "Siapa yang Membiayai Proyek pada Skema KPBU?",
+        "type": "government Q&A",
+        "angle_summary": "FETCHED: financing flows through a BUP/SPV, funded roughly 70-80% debt and the remainder equity; lenders assess cash-flow projections and bankability rather than asset value. Short-form Q&A, single question scope."
+      },
+      {
+        "url": "https://kpbu.kemenkeu.go.id/read/1123-1286/umum/kajian-opini-publik/penjaminan-pemerintah-sebagai-bentuk-credit-enhancing-product-untuk-proyek-infrastruktur-skema-kpbu",
+        "title": "Penjaminan Pemerintah sebagai bentuk Credit Enhancing Product untuk Proyek Infrastruktur Skema KPBU",
+        "type": "government opinion/kajian",
+        "angle_summary": "FETCHED: argues guarantee raises creditworthiness, lowers lender risk and borrowing cost, improves bankability. Essay register, no decision framework or thresholds."
+      },
+      {
+        "url": "https://www.komdigi.go.id/berita/sorotan-media/detail/tiga-skema-pembiayaan-infrastruktur-untuk-pemerataan-ekonomi",
+        "title": "Tiga Skema Pembiayaan Infrastruktur untuk Pemerataan Ekonomi",
+        "type": "government press/media round-up",
+        "angle_summary": "Short news-style piece on three financing schemes."
+      },
+      {
+        "url": "https://www.ekon.go.id/publikasi/detail/6575/mendorong-skema-pembiayaan-kreatif-untuk-capai-target-pembangunan-dan-pertumbuhan-ekonomi",
+        "title": "Mendorong Skema Pembiayaan Kreatif untuk Capai Target Pembangunan dan Pertumbuhan Ekonomi",
+        "type": "government press release",
+        "angle_summary": "Kemenko Perekonomian press release. Announcement register, no reader task."
+      },
+      {
+        "url": "https://www.beritasatu.com/ekonomi/2895608/indonesia-hadapi-gap-pembiayaan-infrastruktur-hingga-us-375-miliar",
+        "title": "Indonesia Hadapi Gap Pembiayaan Infrastruktur hingga US$ 375 Miliar",
+        "type": "business news",
+        "angle_summary": "News report on the RPJMN-era funding gap. Fetch returned 403; figures below come from the WebSearch abstract of this and adjacent reports and MUST be re-verified by the researcher."
+      },
+      {
+        "url": "https://www.ptpii.co.id/pembiayaan-kreatif",
+        "title": "Pembiayaan Kreatif untuk Infrastruktur Daerah Inovatif",
+        "type": "CLIENT — own hub",
+        "angle_summary": "Already surfaces in this topic corpus. Daerah-focused (see landing_page_summary)."
+      },
+      {
+        "url": "https://journal.stiemb.ac.id/index.php/mea/article/download/233/96/",
+        "title": "Pembiayaan Infrastruktur Dengan Sukuk Negara Di Indonesia",
+        "type": "academic PDF",
+        "angle_summary": "Journal article on sovereign sukuk for infrastructure. Academic register, PDF, poor reader experience."
+      },
+      {
+        "url": "https://iptek.its.ac.id/index.php/jps/article/download/3136/2409",
+        "title": "Struktur Pembiayaan Pembangunan Infrastruktur di Indonesia",
+        "type": "academic PDF",
+        "angle_summary": "ITS journal on infrastructure financing structure. Academic PDF."
+      },
+      {
+        "url": "https://www.kompas.id/artikel/en-pembiayaan-infrastruktur",
+        "title": "Pembiayaan Infrastruktur",
+        "type": "news topic page",
+        "angle_summary": "Kompas topic hub, largely paywalled."
+      }
+    ],
+    "serp_features": "NOT VERIFIABLE this run — Google blocked. Do not claim AI Overview presence in any brief without re-verification.",
+    "ai_overview_entities": "not captured (Google blocked)"
+  },
+
+  "gaps_to_exploit": [
+    "The head term is contested between (a) a lender's commercial vendor page (PT SMI), (b) a substantially DATED government explainer still quoting 2015-2019 RPJMN numbers, (c) a bare directory of scheme names with no explanation, and (d) academic PDFs. NO ONE owns a current, practitioner-grade, decision-useful national explainer.",
+    "Nobody reconciles the funding-gap figures. Sources circulate US$625.37bn / Rp10.303tn / Rp10.146tn / US$625bn need and US$375bn vs US$377.2bn gap, and APBD at US$104.31bn vs US$106.31bn — with scope and base year rarely stated. A section that teaches readers how to read these numbers is high-trust, on-brand for the reference-year discipline, and unmatched on the SERP.",
+    "The three financing routes (government financing / corporate financing / project financing) are NAMED across the corpus but never turned into a decision framework with thresholds.",
+    "Lender-side diligence is described only in one short Kemenkeu Q&A. No page walks a sponsor through what a credit committee actually tests, or what raises cost of fund.",
+    "No competing page includes an honest 'when this does NOT work' section — the strongest available differentiator per style_guide 1a.",
+    "Nothing in the corpus carries a comparison table a decision-maker would screenshot and forward."
+  ],
+
+  "paa": {
+    "provenance_note": "Google-native PAA could not be captured (Google blocked from this environment). The list below is VERBATIM from Kementerian Keuangan's own 'Orang Juga Bertanya' category on kpbu.kemenkeu.go.id — a government-maintained PAA mirror for this topic space. Complete category, captured 2026-08-12.",
+    "verbatim_kemenkeu_orang_juga_bertanya": [
+      "Siapa yang Membiayai Proyek pada Skema KPBU?",
+      "Mengapa Perekonomian Tidak Sepenuhnya Diserahkan Kepada Swasta?",
+      "Skema KPBU, Apa Perannya dalam Mendukung Pembangunan IKN?",
+      "Apa Itu Kepanjangan PJPK?",
+      "Apa itu Kantor Bersama KPBU?",
+      "Apa itu Availability Payment?"
+    ],
+    "derived_from_query_corpus": {
+      "note": "Question phrasings evidenced by real page titles and query patterns observed across the 5 WebSearch result sets. Labelled as DERIVED, not captured PAA. Writers may use them as FAQ entries; the researcher should sanity-check phrasing.",
+      "items": [
+        "Apa itu pembiayaan infrastruktur?",
+        "Apa saja sumber pembiayaan infrastruktur di Indonesia?",
+        "Bagaimana cara membiayai proyek infrastruktur?",
+        "Berapa kebutuhan investasi infrastruktur Indonesia 2025-2029?",
+        "Apa perbedaan corporate financing dan project financing?",
+        "Apa itu bankability proyek infrastruktur?",
+        "Apa itu financial close dan berapa lama prosesnya?",
+        "Siapa saja lembaga pembiayaan infrastruktur di Indonesia?",
+        "Apakah penjaminan pemerintah menurunkan biaya pinjaman proyek?",
+        "Mengapa proyek infrastruktur sulit mendapatkan pembiayaan bank?"
+      ]
+    }
+  },
+
+  "facts_harvested_for_briefs": {
+    "warning": "EVERY figure below is a RESEARCH LEAD, not a verified fact. Sources disagree. The SME researcher must pin each to a primary source (Bappenas RPJMN document, Kemenkeu/DJPPR, BPS) and record the exact reference year AND scope before any writer uses it.",
+    "funding_gap_rpjmn_2025_2029": {
+      "need": "US$625,37 miliar (also reported as ~US$625 miliar; rupiah equivalent reported variously as Rp10.303 triliun and Rp10.146 triliun — the rupiah figures differ because of exchange-rate assumptions, which is itself worth explaining)",
+      "apbn": "US$143,84 miliar (~23%)",
+      "apbd": "US$104,31 miliar in one report, US$106,31 miliar (~17%) in another — DISCREPANCY, must be resolved",
+      "government_total_coverage": "~40% of total need",
+      "gap": "US$377,2 miliar in one report; headline 'hingga US$375 miliar' in another",
+      "period": "RPJMN 2025-2029",
+      "status": "UNVERIFIED — verify against the primary Bappenas RPJMN 2025-2029 document at https://rpjmn.bappenas.go.id/dokumen"
+    },
+    "prior_cycle_for_contrast": {
+      "period": "RPJMN 2015-2019",
+      "need": "Rp 4.769 triliun",
+      "composition": "41,3% APBN, 22,2% BUMN, 36,5% partisipasi swasta",
+      "source": "djkn.kemenkeu.go.id article (dated) — useful ONLY as an explicitly-labelled historical contrast, never as current data"
+    },
+    "psn_rpjmn_2025_2029": "77 Proyek Strategis Nasional (29 new, 48 continuing) — UNVERIFIED, verify with Bappenas",
+    "capital_structure": "KPBU project financing typically ~70-80% debt / remainder equity, channelled through a BUP/SPV; lenders assess cash-flow projections and bankability rather than asset value (source: kpbu.kemenkeu.go.id 'Siapa yang Membiayai Proyek pada Skema KPBU?')",
+    "three_financing_routes": "government financing, corporate financing, project financing — named by the Kemenkeu KPBU corpus",
+    "ecosystem_institutions": "PT SMI (lender + project preparation), PT IIF (credit enhancement & risk mitigation), PT PII (government guarantee — the ONLY BUMN with the BUPI mandate), LPEI/Indonesia Eximbank, World Bank, MIGA, ADB, IFC",
+    "market_instruments_2026_leads": [
+      "PT SMI targeting up to Rp2,5 triliun via obligasi + sukuk mudharabah, rated idAAA / idAAA(sy) by Pefindo (reported Jun 2026) — UNVERIFIED",
+      "PT IIF raised Rp655,5 miliar via bonds and perpetual securities for sustainable infrastructure (ANTARA) — UNVERIFIED",
+      "A US$600.000.000 sustainability-linked syndicated loan closed December 2025 — UNVERIFIED, attribution unclear, treat with caution"
+    ],
+    "project_preparation": "Project Development Facility (PDF) is a fiscal support mechanism funding project preparation through to financial close so the transaction is bankable",
+    "failure_modes_reported": "land acquisition failure; PJPK capacity gap (bureaucratic expertise but not project-finance/contract/risk-allocation expertise); political risk across leadership transitions — qualitative, from hukumonline and related commentary; treat as practitioner observation, not statistics"
+  },
+
+  "external_authority_sources_to_verify_against": [
+    "https://rpjmn.bappenas.go.id/dokumen — primary RPJMN 2025-2029 document (PRIORITY: the funding-gap figure must come from here or from Kemenkeu, with its scope)",
+    "https://kpbu.kemenkeu.go.id — Kantor Bersama KPBU / Kemenkeu KPBU portal",
+    "https://www.djppr.kemenkeu.go.id — DJPPR (pengelolaan risiko, penjaminan, kewajiban kontinjensi)",
+    "https://jdih.kemenkeu.go.id — regulasi primer, confirm still in force",
+    "https://www.bps.go.id — macro/infrastructure statistics",
+    "https://ppp.worldbank.org — World Bank PPP Knowledge Lab",
+    "https://www.adb.org — ADB infrastructure finance",
+    "https://simpulkpbu.pu.go.id — Ditjen Pembiayaan Infrastruktur PU"
+  ],
+
+  "history_snapshot": {
+    "existing_articles_for_keyword": [],
+    "history_state": "articles_history/index.json contains an EMPTY articles array (schema_version 2.0, last_updated 2026-08-11). This is the first run for PT PII. No prior-article dedup was possible or required; dedup was enforced WITHIN the batch of 3 (pairwise subtopic Jaccard < 0.2, distinct angle_hash, distinct intent, distinct protagonist).",
+    "uncovered_angles_left_for_future_months": [
+      "Instrumen utang secara mendalam: obligasi proyek vs sukuk vs pinjaman sindikasi vs refinancing",
+      "Blended finance dan peran lembaga multilateral (World Bank, ADB, MIGA, IFC) di proyek Indonesia",
+      "Land Value Capture dan asset recycling sebagai sumber dana",
+      "Peta pemain ekosistem pembiayaan: siapa melakukan apa (SMI, IIF, PII, LPEI, bank, dana pensiun, asuransi)",
+      "Availability Payment vs user-charge: bagaimana model pendapatan mengubah struktur pembiayaan",
+      "Mengapa APBN tidak seharusnya membiayai seluruh infrastruktur — sudut kebijakan fiskal",
+      "Refinancing pasca-konstruksi dan penurunan biaya dana setelah risiko konstruksi lewat"
+    ]
+  },
+
+  "cross_cluster_boundaries_enforced": {
+    "mine": "NASIONAL/MAKRO + SISI PEMBIAYA. Protagonist is the project sponsor, the lender, or the national fiscal picture.",
+    "ceded_to_pembiayaan_kreatif": "Pemda/APBD as protagonist, UU 1/2022 HKPD, KPBU daerah skala kecil, VGF, kesiapan pemda. NONE of the 3 briefs is built on these.",
+    "ceded_to_jaminan_pemerintah": "Instrument-level guarantee mechanics as a spine — tiga tahap penjaminan, hak regress, batas cakupan risiko. Penjaminan appears in these briefs ONLY as one credit-enhancement lever inside the financing stack, never dissected.",
+    "ceded_to_kpbu": "KPBU scheme mechanics, tahapan proyek, peran PJPK as the spine.",
+    "verification": "Brief 03 comes closest to the Jaminan Pemerintah border; it is held at the 'does this move the lender's price' altitude and explicitly instructed NOT to enumerate guarantee stages or regress."
+  },
+
+  "internal_link_plan_all_briefs": {
+    "hub": "https://www.ptpii.co.id/pembiayaan-kreatif",
+    "cousin_1": "https://www.ptpii.co.id/kpbu",
+    "cousin_2": "https://www.ptpii.co.id/public-private-partnership",
+    "note": "The month's set resolves to only 3 distinct hub URLs, so all 3 articles carry the same 3 destinations. Anchor text MUST vary per article to avoid a templated internal-link footprint — per-article anchors are specified in each brief."
+  }
+}

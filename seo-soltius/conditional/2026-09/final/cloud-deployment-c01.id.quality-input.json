@@ -1,0 +1,81 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-09\\final\\cloud-deployment-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-01T08:39:22+07:00",
+    "word_count":  956,
+    "paragraph_count":  16,
+    "sentence_count":  52,
+    "ai_detector":  {
+                        "score":  0.08,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.348,
+                        "sentence_burstiness":  1.132,
+                        "top30_vocab_share":  0.381,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.348 (target \u003e=0.45)",
+                                          "line":  -1
+                                      },
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 38.1% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "# Public vs Private vs Hybrid Cloud: Perbedaan dan Cara Memilih Vendor kerap melempar tiga istilah dalam satu tarikan napas: public cloud, private cloud, hybrid cloud.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"# Public vs Private vs Hybrid Cloud: Perbedaan dan Cara Memilih Vendor kerap melempar tiga istilah dalam satu tarikan na\""
+                                  },
+                                  {
+                                      "passage":  "Menurut Flexera 2026, hybrid dipakai 73% organisasi, sedangkan hanya sekitar 14% murni multicloud.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Menurut Flexera 2026, hybrid dipakai 73% organisasi, sedangkan hanya sekitar 14% murni multicloud.\""
+                                  },
+                                  {
+                                      "passage":  "## Public vs Private vs Hybrid Cloud: Perbandingan Head-to-Head Ketiga model tidak berbeda hanya pada \"berbagi versus privat\".",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Public vs Private vs Hybrid Cloud: Perbandingan Head-to-Head Ketiga model tidak berbeda hanya pada  berbagi versus pr\""
+                                  },
+                                  {
+                                      "passage":  "Pola hybrid inilah yang kini dominan: menurut [Flexera 2026 State of the Cloud Report](https://info.flexera.com/CM-REPORT-State-of-the-Cloud), 73% organisasi menjalankan hybrid, naik sekitar tiga poin dibanding tahun sebelumnya.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Pola hybrid inilah yang kini dominan: menurut [Flexera 2026 State of the Cloud Report](https://info.flexera.com/CM-REPOR\""
+                                  },
+                                  {
+                                      "passage":  "Di lanskap SAP, program RISE with SAP mengantar SAP S/4HANA Cloud dalam dua edisi yang memetakan sumbu ini secara langsung.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Di lanskap SAP, program RISE with SAP mengantar SAP S/4HANA Cloud dalam dua edisi yang memetakan sumbu ini secara langsu\""
+                                  },
+                                  {
+                                      "passage":  "- **Pilih hybrid cloud jika** sebagian data wajib tetap terkendali sementara beban lain butuh elastisitas.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"- **Pilih hybrid cloud jika** sebagian data wajib tetap terkendali sementara beban lain butuh elastisitas.\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apa bedanya hybrid cloud dan multicloud?",
+                                      "candidate_score":  8,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apa bedanya hybrid cloud dan multicloud?\""
+                                  },
+                                  {
+                                      "passage":  "Menurut NIST SP 800-145, private cloud boleh berada on-premise atau off-premise dan dapat dioperasikan pihak ketiga.",
+                                      "candidate_score":  8,
+                                      "web_search_query":  "\"Menurut NIST SP 800-145, private cloud boleh berada on-premise atau off-premise dan dapat dioperasikan pihak ketiga.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

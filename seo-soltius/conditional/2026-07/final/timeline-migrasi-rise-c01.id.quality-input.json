@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-07\\final\\timeline-migrasi-rise-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-06T19:37:18+07:00",
+    "word_count":  1012,
+    "paragraph_count":  17,
+    "sentence_count":  48,
+    "ai_detector":  {
+                        "score":  0.15,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.279,
+                        "sentence_burstiness":  0.904,
+                        "top30_vocab_share":  0.343,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-uniformity",
+                                          "severity":  "high",
+                                          "snippet":  "Paragraph word-count CV=0.279 (target \u003e=0.45; \u003c0.30 is strong AI tell)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "## Enam Fase Migrasi RISE with SAP dan Estimasi Durasi Tiap Fase Keenam fase berjalan berurutan: Discover, Prepare, Explore, Realize, Deploy, lalu Run.",
+                                      "candidate_score":  42,
+                                      "web_search_query":  "\"## Enam Fase Migrasi RISE with SAP dan Estimasi Durasi Tiap Fase Keenam fase berjalan berurutan: Discover, Prepare, Expl\""
+                                  },
+                                  {
+                                      "passage":  "Estimasi resmi SAP: konversi brownfield 12–15 bulan, bluefield 12–18 bulan, greenfield 15–21 bulan end-to-end; sejumlah proyek terbukti tuntas dalam 5–6 bulan.",
+                                      "candidate_score":  36,
+                                      "web_search_query":  "\"Estimasi resmi SAP: konversi brownfield 12–15 bulan, bluefield 12–18 bulan, greenfield 15–21 bulan end-to-end; sejumlah \""
+                                  },
+                                  {
+                                      "passage":  "Di Indonesia, PT Tigaraksa Satria Tbk memulai Project SUNRISE pada 8 Juli 2024 dan go-live pada 6 Januari 2025, sekitar enam bulan kemudian (Liputan6, Januari 2025).",
+                                      "candidate_score":  33,
+                                      "web_search_query":  "\"Di Indonesia, PT Tigaraksa Satria Tbk memulai Project SUNRISE pada 8 Juli 2024 dan go-live pada 6 Januari 2025, sekitar \""
+                                  },
+                                  {
+                                      "passage":  "Masa *mainstream maintenance* SAP Business Suite 7, termasuk SAP ECC, berakhir 31 Desember 2027 ([support.sap.com](https://support.sap.com/en/release-upgrade-maintenance/maintenance-information/maintenance-strategy/s4hana-business-suite7.html)).",
+                                      "candidate_score":  31,
+                                      "web_search_query":  "\"Masa *mainstream maintenance* SAP Business Suite 7, termasuk SAP ECC, berakhir 31 Desember 2027 ([support.sap.com](https\""
+                                  },
+                                  {
+                                      "passage":  "Bertrandt AG, perusahaan jasa engineering asal Jerman, go-live SAP S/4HANA Cloud Private Edition dalam waktu kurang dari 5 bulan sejak kick-off (*case study* resmi SAP, Mei 2025).",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"Bertrandt AG, perusahaan jasa engineering asal Jerman, go-live SAP S/4HANA Cloud Private Edition dalam waktu kurang dari\""
+                                  },
+                                  {
+                                      "passage":  "Menurut SAP S/4HANA Transformation Pocket Guide (SAP, 2024), durasi end-to-end indikatif adalah 12–15 bulan untuk konversi brownfield, 12–18 bulan untuk bluefield, dan 15–21 bulan untuk greenfield satu gelombang.",
+                                      "candidate_score":  29,
+                                      "web_search_query":  "\"Menurut SAP S/4HANA Transformation Pocket Guide (SAP, 2024), durasi end-to-end indikatif adalah 12–15 bulan untuk konver\""
+                                  },
+                                  {
+                                      "passage":  "# Estimasi Timeline Migrasi RISE with SAP: Dari Assessment hingga Go-Live Proyek sudah disetujui, anggaran dikunci, lalu direksi bertanya: kapan go-live?",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"# Estimasi Timeline Migrasi RISE with SAP: Dari Assessment hingga Go-Live Proyek sudah disetujui, anggaran dikunci, lalu\""
+                                  },
+                                  {
+                                      "passage":  "Mundur 12–15 bulan durasi konversi brownfield, kick-off paling lambat jatuh antara akhir September dan akhir Desember 2026.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Mundur 12–15 bulan durasi konversi brownfield, kick-off paling lambat jatuh antara akhir September dan akhir Desember 20\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

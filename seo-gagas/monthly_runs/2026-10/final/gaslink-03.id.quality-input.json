@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-10\\final\\gaslink-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-28T19:43:24+07:00",
+    "word_count":  1550,
+    "paragraph_count":  25,
+    "sentence_count":  84,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.388,
+                        "sentence_burstiness":  0.764,
+                        "top30_vocab_share":  0.3,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.388 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Pada kopi, standar mutu fisik biji (SNI 01-2907-2008) mematok kadar air *green bean* (biji hijau siap simpan) maksimum sekitar 12,5%, menurut Puslitkoka Indonesia.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"Pada kopi, standar mutu fisik biji (SNI 01-2907-2008) mematok kadar air *green bean* (biji hijau siap simpan) maksimum s\""
+                                  },
+                                  {
+                                      "passage":  "Dari 169.788 unit penggilingan padi nasional (survei BPS 2020), sekitar 161.400 berskala kecil.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Dari 169.788 unit penggilingan padi nasional (survei BPS 2020), sekitar 161.400 berskala kecil.\""
+                                  },
+                                  {
+                                      "passage":  "Produksi padi nasional 2024 saja mencapai 53,14 juta ton gabah kering giling (BPS), belum menghitung kopi, teh, dan kakao.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Produksi padi nasional 2024 saja mencapai 53,14 juta ton gabah kering giling (BPS), belum menghitung kopi, teh, dan kaka\""
+                                  },
+                                  {
+                                      "passage":  "## Kapan Beralih ke Gas untuk Pengeringan BELUM Sepadan Beralih ke gas belum tentu tepat untuk semua.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Kapan Beralih ke Gas untuk Pengeringan BELUM Sepadan Beralih ke gas belum tentu tepat untuk semua.\""
+                                  },
+                                  {
+                                      "passage":  "- **Limbah biomassa sendiri sudah gratis.** Banyak penggilingan padi memakai sekam sebagai bahan bakar pengering; bila limbah melimpah, argumen ekonomi gas melemah.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"- **Limbah biomassa sendiri sudah gratis.** Banyak penggilingan padi memakai sekam sebagai bahan bakar pengering; bila l\""
+                                  },
+                                  {
+                                      "passage":  "- **Harapan harga gas khusus.** Harga gas bumi tertentu (HGBT) hanya berlaku bagi tujuh sektor industri terdaftar, dan agroindustri pengeringan tidak termasuk.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"- **Harapan harga gas khusus.** Harga gas bumi tertentu (HGBT) hanya berlaku bagi tujuh sektor industri terdaftar, dan a\""
+                                  },
+                                  {
+                                      "passage":  "Bisa, lewat skema *beyond pipeline* seperti Gaslink: gas diangkut memakai GTM, semacam \"pipa virtual\" di atas truk, lalu diturunkan tekanannya di Pressure Reduction Station sebelum dipakai.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Bisa, lewat skema *beyond pipeline* seperti Gaslink: gas diangkut memakai GTM, semacam  pipa virtual  di atas truk, lalu\""
+                                  },
+                                  {
+                                      "passage":  "[Kementerian ESDM (Ditjen Migas, Oktober 2025)](https://migas.esdm.go.id/) menempatkan peralihan bahan bakar minyak ke gas dan pengembangan *virtual pipeline cluster* sebagai pilar hilirisasi gas bumi.",
+                                      "candidate_score":  9,
+                                      "web_search_query":  "\"[Kementerian ESDM (Ditjen Migas, Oktober 2025)](https://migas.esdm.go.id/) menempatkan peralihan bahan bakar minyak ke g\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

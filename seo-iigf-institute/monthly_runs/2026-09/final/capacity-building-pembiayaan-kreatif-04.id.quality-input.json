@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-iigf-institute\\monthly_runs\\2026-09\\final\\capacity-building-pembiayaan-kreatif-04.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-22T06:16:27+07:00",
+    "word_count":  1615,
+    "paragraph_count":  20,
+    "sentence_count":  97,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.442,
+                        "sentence_burstiness":  0.934,
+                        "top30_vocab_share":  0.348,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.442 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Rujukan konseptualnya sudah ada: portal Kementerian Keuangan mencatat KNEKS bersama PT Penjaminan Infrastruktur Indonesia (Persero) menyusun *Concept Note* KPBU Syariah sebagai acuan penerapan.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Rujukan konseptualnya sudah ada: portal Kementerian Keuangan mencatat KNEKS bersama PT Penjaminan Infrastruktur Indonesi\""
+                                  },
+                                  {
+                                      "passage":  "38 Tahun 2015: perencanaan, penyiapan termasuk prastudi kelayakan, transaksi, dan manajemen kontrak, beserta peran PJPK (Penanggung Jawab Proyek Kerja Sama).",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"38 Tahun 2015: perencanaan, penyiapan termasuk prastudi kelayakan, transaksi, dan manajemen kontrak, beserta peran PJPK \""
+                                  },
+                                  {
+                                      "passage":  "KNEKS dan Ditjen Pembiayaan Infrastruktur Kementerian PU tercatat menyelenggarakan sosialisasi serta pelatihan, misalnya workshop sukuk daerah dan KPBU syariah untuk Pemerintah Kota Bandung pada 30–31 Agustus 2022.",
+                                      "candidate_score":  27,
+                                      "web_search_query":  "\"KNEKS dan Ditjen Pembiayaan Infrastruktur Kementerian PU tercatat menyelenggarakan sosialisasi serta pelatihan, misalnya\""
+                                  },
+                                  {
+                                      "passage":  "Portal Kementerian Keuangan menyebutnya pengembangan dari KPBU konvensional dan mencatat KNEKS bersama PT PII menyusun *Concept Note* KPBU Syariah sebagai acuan penerapannya.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Portal Kementerian Keuangan menyebutnya pengembangan dari KPBU konvensional dan mencatat KNEKS bersama PT PII menyusun *\""
+                                  },
+                                  {
+                                      "passage":  "KPBU Syariah adalah skema Kerja Sama Pemerintah dengan Badan Usaha yang pembiayaannya distrukturkan memakai akad sesuai prinsip syariah, menghindari riba, gharar, dan maysir.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"KPBU Syariah adalah skema Kerja Sama Pemerintah dengan Badan Usaha yang pembiayaannya distrukturkan memakai akad sesuai \""
+                                  },
+                                  {
+                                      "passage":  "Keduanya bisa bertemu, bisa pula berdiri sendiri: - **Bertemu** ketika proyek KPBU memakai sukuk sebagai salah satu sumber pembiayaannya.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Keduanya bisa bertemu, bisa pula berdiri sendiri: - **Bertemu** ketika proyek KPBU memakai sukuk sebagai salah satu sumb\""
+                                  },
+                                  {
+                                      "passage":  "Perencanaan, penyiapan termasuk prastudi kelayakan, transaksi, hingga manajemen kontrak sebagaimana diatur Perpres No.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Perencanaan, penyiapan termasuk prastudi kelayakan, transaksi, hingga manajemen kontrak sebagaimana diatur Perpres No.\""
+                                  },
+                                  {
+                                      "passage":  "Portal Kementerian PU membingkainya sebagai cara memperluas basis investor, bukan jaminan biaya lebih rendah, dengan porsi sekitar 8% pembiayaan perbankan pada proyek KPBU di sektornya per Oktober 2021.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Portal Kementerian PU membingkainya sebagai cara memperluas basis investor, bukan jaminan biaya lebih rendah, dengan por\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

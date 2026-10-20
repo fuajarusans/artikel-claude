@@ -1,0 +1,90 @@
+{
+  "keyword": "Gaslink",
+  "keyword_slug": "gaslink",
+  "month": "2026-09",
+  "captured_at": "2026-09-17",
+  "landing_page": "https://gagas.co.id/gaslink/",
+  "landing_page_summary": "Gaslink = layanan CNG PGN Gagas via moda transportasi gas (GTM) untuk industri, komersial & UMKM di luar jaringan pipa. Dua varian: Gaslink Regular (GTM, truk, volume tinggi) & Gaslink Cylinder (C-Cyl, 28 m3, ruang terbatas). Klaim di halaman: hemat hingga 30%, smart meter (bayar sesuai pemakaian), emisi lebih rendah, layanan 24 jam. Proses: hubungi Call Center Pertamina 135 -> survei lokasi -> instalasi & komisioning. TIDAK menyebut angka CAPEX, jumlah pelanggan, volume, atau detail kontrak.",
+  "data_sources_used": ["live_serp (Google scrape blocked/error page)", "websearch", "landing_page_webfetch"],
+  "ahrefs_available": false,
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "n/a (no SEO report named in keywords.md; 'seo_report: none'). 'Gaslink' is a branded PGN Gagas term -> low generic volume, SERP dominated by gagas.co.id; the deep sub-angles (CAPEX, price hedging, boiler conversion) carry the informational demand.",
+    "report_rank": "n/a (no report)"
+  },
+  "serp": {
+    "top_10": [
+      { "url": "https://gagas.co.id/gaslink/", "title": "Gaslink - PGN Gagas (hub)", "angle_summary": "Definisi layanan + varian GTM/Cylinder + benefit hemat 30%, smart meter, 24 jam." },
+      { "url": "https://www.gagas.co.id/perusahaan-cng-indonesia", "title": "Perusahaan CNG Indonesia - PGN Gagas", "angle_summary": "Hub CNG penyedia; muncul untuk query CNG industri." },
+      { "url": "https://ejournal.undip.ac.id/index.php/rotasi/article/view/4631", "title": "Perhitungan efisiensi & konversi solar ke gas pada boiler Ebara HKL 1800 KA (ROTASI/Undip)", "angle_summary": "Studi akademik konversi boiler solar->gas dengan angka konsumsi & biaya." },
+      { "url": "https://mitraboiler.com/jasa-penggantian-burner-bahan-bakar-solar-ke-gas/", "title": "Jasa penggantian burner solar ke gas (MitraBoiler)", "angle_summary": "Bukti komersial retrofit burner adalah layanan nyata (kompetitor jasa, bukan gas retailer)." },
+      { "url": "https://id.samsonindonesiaboiler.com/post/perbandingan-bahan-bakar-boiler-solar-gas-biomassa-dan-batubara-untuk-industri-indonesia", "title": "Perbandingan bahan bakar boiler: solar, gas, biomassa, batubara", "angle_summary": "Komparasi bahan bakar boiler industri." }
+    ],
+    "serp_features": ["ai_overview_likely", "paa_derived (direct Google scrape returned an error/blocked page; PAA below derived from topical WebSearch + known B2B query patterns, NOT a live scrape)"],
+    "ai_overview_entities": ["Gaslink", "CNG", "GTM (Gas Transportation Module)", "PRS (Pressure Reducing System)", "HGBT", "retrofit burner", "boiler", "smart meter"]
+  },
+  "paa": [
+    "Berapa biaya konversi boiler solar ke gas bumi?",
+    "Apakah beralih ke Gaslink butuh investasi besar di awal?",
+    "Apa itu model tanpa CAPEX untuk pasokan gas industri?",
+    "Kenapa harga gas bumi lebih stabil dibanding solar industri?",
+    "Apa itu HGBT (Harga Gas Bumi Tertentu) dan siapa yang berhak?",
+    "Boiler dan oven jenis apa yang bisa dikonversi ke CNG?",
+    "Berapa lama payback investasi konversi ke gas bumi?",
+    "Apakah pabrik tekstil/keramik/F&B cocok pakai CNG?"
+  ],
+  "gsc_style_queries_from_report": [],
+  "facts_captured": {
+    "hgbt_2025": {
+      "detail": "Skema baru HGBT 2025: USD 7/MMBTU (gas sebagai bahan bakar) & USD 6,5/MMBTU (bahan baku). Kepmen ESDM No. 76.K/MG.01/MEM.M/2025 (perubahan kedua atas Kepmen 91.K/MG.01/MEM.M/2023), ditandatangani Menteri ESDM Bahlil Lahadalia, 26 Feb 2025. 7 sektor (pupuk, petrokimia, oleokimia, baja, keramik, kaca, sarung tangan karet), 253 pengguna gas bumi tertentu.",
+      "sources": ["https://www.esdm.go.id/id/media-center/arsip-berita/skema-baru-hgbt-perkuat-daya-saing-industri-dan-efisiensi-anggaran-negara", "https://reforminer.com/biaya-manfaat-implementasi-kebijkan-harga-gas-bumi-tertentu-hgbt-untuk-sektor-industri/"],
+      "RESEARCHER_MUST_VERIFY": "HGBT berlaku untuk pengguna/sektor tertentu (umumnya tersambung pipa & terdaftar). Pelanggan Gaslink beyond-pipeline BELUM tentu otomatis penerima HGBT. JANGAN samakan harga Gaslink dengan HGBT tanpa verifikasi; gunakan HGBT hanya sebagai konteks kebijakan harga gas, bukan klaim harga Gaslink."
+    },
+    "solar_price_volatility": {
+      "detail": "Solar industri = BBM non-subsidi, harga ikut mekanisme pasar (harga minyak dunia, kurs, supply-demand). Q3-awal Q4 2025 naik signifikan; pertengahan Jan 2026 cenderung stabil. Strategi industri besar: bulk buying + kontrak jangka panjang untuk stabilkan biaya.",
+      "sources": ["https://patrasinergi.com/berita/harga-solar-industri/", "https://solarindustri.com/blog/apa-itu-solar-industri/"],
+      "RESEARCHER_MUST_VERIFY": "Angka harga solar spesifik (mis. 'Rp 30.550/liter April 2026' dari ifakta.co) berasal dari sumber sekunder non-resmi -> verifikasi via Pertamina/ESDM sebelum dikutip; lebih aman gunakan rentang & framing tren."
+    },
+    "boiler_conversion": {
+      "detail": "Studi ROTASI/Undip (boiler Ebara HKL 1800 KA): konsumsi solar 260,79 kg/jam vs gas (LNG) 21 m3/jam; biaya Rp 1.319.797/jam (solar) vs Rp 27.300/jam (gas), penghematan ~Rp 1.292.497/jam. Tekstil/keramik butuh panas konstan & presisi (boiler/kiln). Biaya bahan bakar bisa 30-40% total biaya produksi UMKM tekstil. Konversi butuh penggantian/modifikasi burner (retrofit).",
+      "sources": ["https://ejournal.undip.ac.id/index.php/rotasi/article/view/4631", "https://mitraboiler.com/jasa-penggantian-burner-bahan-bakar-solar-ke-gas/"],
+      "RESEARCHER_MUST_VERIFY": "Angka studi Ebara = kasus spesifik satu unit, BUKAN patokan universal -> bingkai sebagai 'contoh dari studi', hedge. Cari 1 sumber ESDM/asosiasi untuk konsumsi energi per sektor (tekstil/keramik)."
+    },
+    "zero_capex_model": {
+      "detail": "Model zero-CAPEX gas: perjanjian pasok gas, biaya sewa infrastruktur diamortisasi 3-5 tahun; investor aset menyediakan hardware+software (beli, instalasi, maintenance monitoring); vendor gas lokal = mitra logistik pasok. PRS (Pressure Reducing System) komponen: alat ukur gas, skid frame, water box, filter, regulator, heater, control panel -> gas turbine meter mengukur konsumsi CNG.",
+      "sources": ["https://www.antaranews.com/berita/1096144/banyak-permintaan-pgn-gunakan-prs-salurkan-gas-sementara", "https://jurnal-tmit.com/index.php/home/article/view/2083"],
+      "RESEARCHER_MUST_VERIFY": "Apakah PGN Gagas/Gaslink secara resmi menawarkan skema tanpa-CAPEX / sewa infrastruktur -> profil TIDAK menyebut ini. Jangan klaim Gaslink menyediakan zero-CAPEX tanpa verifikasi; boleh jelaskan model sebagai konsep umum industri + arahkan pembaca konsultasi ke gagas.co.id untuk skema spesifik."
+    }
+  },
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      { "id": "2026-07-gaslink-01", "angle": "apa-itu-gaslink-gas-bumi-beyond-pipeline", "intent": "informational", "hash": "sha1:ff68a917b980" },
+      { "id": "2026-07-gaslink-02", "angle": "gaslink-vs-lpg-vs-solar-perbandingan-biaya-efisiensi", "intent": "comparison", "hash": "sha1:5f0ff51ae016" },
+      { "id": "2026-07-gaslink-03", "angle": "industri-cocok-gaslink-cara-penerapan-onboarding", "intent": "how-to", "hash": "sha1:bbb4be06533d" },
+      { "id": "2026-07-2-gaslink-04", "angle": "keandalan-kontinuitas-pasokan-gaslink-virtual-pipeline", "intent": "troubleshooting", "hash": "sha1:e3ae5e93b84f" },
+      { "id": "2026-07-2-gaslink-05", "angle": "keselamatan-operasional-cng-lokasi-pelanggan", "intent": "how-to", "hash": "sha1:116353488dfa" },
+      { "id": "2026-07-2-gaslink-06", "angle": "dekarbonisasi-esg-fuel-switching-gas-bumi", "intent": "decision", "hash": "sha1:9cdbc3157a74" },
+      { "id": "2026-08-gaslink-07", "angle": "gaslink-kredit-karbon-spe-grk-bursa-karbon", "intent": "decision", "hash": "sha1:b260bd4e4864" },
+      { "id": "2026-08-gaslink-08", "angle": "perizinan-instalasi-gaslink-slo-lingkungan-timeline", "intent": "how-to", "hash": "sha1:09987f94c8c5" },
+      { "id": "2026-08-gaslink-09", "angle": "jejak-karbon-gas-bumi-well-to-burner-metana", "intent": "informational", "hash": "sha1:989e35f91107" }
+    ],
+    "uncovered_angles": [
+      "Per-sektor CAPEX / model investasi & retrofit dengan angka (biaya instalasi PRS, retrofit burner, sizing) -> BRIEF gaslink-01",
+      "Hedging volatilitas harga + keamanan rantai pasok via kontrak/HGBT (risiko harga & procurement) -> BRIEF gaslink-02",
+      "Konversi teknis boiler/oven/burner per-industri (tekstil, keramik, F&B, farmasi) -> BRIEF gaslink-03",
+      "CCUS + studi kasus dekarbonisasi sektoral -> DEFERRED (cluster karbon 06/07/09 sudah padat; CCUS kurang pas untuk value beyond-pipeline Gaslink)",
+      "Well-to-wheel vs stationary; LNG vs CNG lifecycle -> DEFERRED",
+      "Variasi PTSP/perizinan antar daerah; studi kasus izin tertahan -> DEFERRED (extends g08)"
+    ],
+    "TAKEN_do_not_repeat": [
+      "kualitas gas / Wobbe / nilai kalor (held revise: monthly_runs/2026-08/final/cng-indonesia-03) -> treat as TAKEN"
+    ]
+  },
+  "chosen_briefs": [
+    { "id": "gaslink-01", "angle": "capex-model-investasi-konversi-gaslink-per-peralatan", "intent": "decision", "hash": "sha1:38a3ef47ccc9" },
+    { "id": "gaslink-02", "angle": "volatilitas-harga-hedging-kontrak-keamanan-pasokan-gaslink", "intent": "decision", "hash": "sha1:c8d6b47bb6df" },
+    { "id": "gaslink-03", "angle": "konversi-boiler-oven-burner-per-industri-tekstil-keramik-fnb-farmasi", "intent": "how-to", "hash": "sha1:02bba4f04f66" }
+  ],
+  "cousin_map_note": "Bulan ini keyword set = Gasku, Gaslink, CNG Indonesia, Perusahaan CNG Indonesia, Perusahaan LNG Indonesia. CNG Indonesia & Perusahaan CNG Indonesia BERBAGI hub yang sama (perusahaan-cng-indonesia). Maka cluster CNG diwakili SATU tautan (perusahaan-cng-indonesia) + cousin kedua = Gasku (produk saudara), sesuai peta cross-link product_matrix.md (Gaslink <-> CNG Indonesia/Perusahaan CNG Indonesia + Gasku)."
+}

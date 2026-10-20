@@ -1,0 +1,229 @@
+{
+  "keyword": "Pembiayaan Infrastruktur",
+  "keyword_slug": "pembiayaan-infrastruktur",
+  "month": "2026-09",
+  "language": "id",
+  "captured_at": "2026-09-17",
+  "landing_page": "https://www.ptpii.co.id/pembiayaan-kreatif",
+  "landing_page_summary": "Hub 'Pembiayaan Kreatif untuk Infrastruktur Daerah Inovatif'. Fetched fresh 2026-09-17 (WebFetch failed on TLS chain; retrieved via curl, HTTP 200). Entirely DAERAH-framed: konsep pembiayaan kreatif, UU 1/2022 (HKPD) sebagai payung, KPBU sebagai instrumen andalan daerah, dukungan pusat (Penjaminan Pemerintah, PDF, VGF), studi kasus SPAM Umbulan (pipa transmisi 93 km, melayani >1,3 juta jiwa), tantangan SDM/komitmen politik/penyiapan proyek, dan kontrak layanan 15-30 tahun. Menyebut data BPS 2023: akses air minum layak 77,36% rumah tangga. IMPLIKASI STRATEGIS: hub ini sudah menempati sudut daerah sepenuhnya, jadi ketiga brief keyword ini WAJIB masuk dari sisi nasional/makro + sisi pembiaya agar tidak menduplikasi halaman hub-nya sendiri maupun klaster 'Pembiayaan Kreatif'.",
+  "data_sources_used": [
+    "live_serp_bing_id_ID (curl, Google HTML JS-gated)",
+    "google_autosuggest_id_gl_id (live query-variant corpus)",
+    "kpbu.kemenkeu.go.id (portal primer + seksi 'Orang Juga Bertanya')",
+    "ptpii.co.id/informasi-proyek + /pembiayaan-kreatif (curl)",
+    "pembiayaan.pu.go.id",
+    "djkn.kemenkeu.go.id",
+    "jdih.kemenkeu.go.id",
+    "websearch (6 calls)"
+  ],
+  "ahrefs_available": false,
+  "gsc_available": false,
+  "seo_report": "none (keywords.md: seo_report: \"none\")",
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "report_rank": "n/a (no SEO report named for 2026-09)",
+    "trend_signal": "Query head is institutional and navigational: Google autosuggest is dominated by 'pembiayaan infrastruktur pekerjaan umum / pupr / pu' (Ditjen Pembiayaan Infrastruktur Kementerian PU) and by 'perusahaan pembiayaan infrastruktur adalah' (OJK-style multifinance definition). Informational-editorial demand ('adalah', 'sumber pembiayaan', 'skema pembiayaan jalan tol') is real but thinly served."
+  },
+  "serp": {
+    "engine": "Bing id-ID, 2026-09-17 (Google SERP HTML returns a JS interstitial to curl and an error page to WebFetch; PAA therefore sourced as noted below)",
+    "top_10": [
+      { "url": "https://pembiayaan.pu.go.id/", "title": "Direktorat Jenderal Pembiayaan Infrastruktur (DJPI) Kementerian PU", "angle_summary": "Institutional homepage of the directorate general; org info + news, not an explainer." },
+      { "url": "https://www.propertylounge.id/memahami-pembiayaan-proyek-infrastruktur-panduan-lengkap-dan-tips-praktis/", "title": "Memahami Pembiayaan Proyek Infrastruktur: Panduan Lengkap dan Tips Praktis", "angle_summary": "The only generic 'panduan lengkap' blog in the top 10 — broad, undated, no sector or post-close depth. This is the page to beat." },
+      { "url": "https://simpuldjpi.pu.go.id/", "title": "Simpul DJPI Kementerian PU", "angle_summary": "News portal of the DJPI simpul; press items on BUMN participation." },
+      { "url": "https://pembiayaan.pu.go.id/pages/detail/7/DIREKTORAT-PELAKSANAAN-PEMBIAYAAN-INFRASTRUKTUR-CIPTA-KARYA", "title": "Direktorat Pelaksanaan Pembiayaan Infrastruktur Cipta Karya", "angle_summary": "Org-chart / tupoksi page." },
+      { "url": "https://kpbu.kemenkeu.go.id/read/1219-1754/umum/kajian-opini-publik/sinergi-sektor-publik-dan-swasta-pembiayaan-infrastruktur-berkelanjutan-yang-inovatif-dan-efektif", "title": "Sinergi Sektor Publik dan Swasta: Pembiayaan Infrastruktur Berkelanjutan", "angle_summary": "Opinion piece (19 Agu 2024) on KPBU as the private-participation alternative. Conceptual, no sector split." },
+      { "url": "https://jdih.kemenkeu.go.id/dok/pmk-68-tahun-2024", "title": "PMK 68 Tahun 2024 — Dukungan Pemerintah untuk Pembiayaan Infrastruktur melalui Skema KPBU", "angle_summary": "Primary legal text, live (18 Okt 2024). Confirms PMK 68/2024 is the current implementing rule." },
+      { "url": "https://simpulkpbu.pu.go.id/pages/general/skema-pembiayaan", "title": "Skema Pembiayaan — Simpul KPBU PU", "angle_summary": "Listed by Bing but the host did not resolve on 2026-09-17 (ENOTFOUND). Treat as unavailable." },
+      { "url": "https://repository.unair.ac.id/113875/1/Wisudanto_Artikel%20601_Struktur%20Pembiayaan.pdf", "title": "Struktur Pembiayaan Pembangunan Infrastruktur di Indonesia", "angle_summary": "Academic PDF: bentuk pembiayaan, instrumen pembiayaan, biaya modal. Dense, not reader-friendly." },
+      { "url": "https://djppr.kemenkeu.go.id/pemerintahdorongpembiayaankreatifuntukpercepatpembangunaninfrastrukturdaerah", "title": "Pemerintah Dorong Pembiayaan Kreatif untuk Percepat Pembangunan Infrastruktur Daerah (DJPPR)", "angle_summary": "DJPPR release dated Jakarta, 22 April 2026. Body is JS-rendered; headline + date confirmed only. Researcher must re-open." },
+      { "url": "https://pu.go.id/struktur-organisasi/direktorat-jenderal-pembiayaan-infrastruktur-pekerjaan-umum", "title": "Direktorat Jenderal Pembiayaan Infrastruktur Pekerjaan Umum", "angle_summary": "Org-chart page." }
+    ],
+    "serp_features": ["no_ai_overview_observable (Google HTML JS-gated)", "paa_proxy_available", "autosuggest_cluster"],
+    "serp_gap_summary": "Eight of the top ten are institutional/org-chart or primary-legal pages; exactly one is an editorial explainer, and it is a generic 'panduan lengkap'. Nobody lays sectors side by side, nobody covers what happens to financing after the asset is operating, and nobody reads the geography of infrastructure capital from the financier's chair. All three September angles are open field."
+  },
+  "paa": {
+    "provenance": "Google's own PAA box was not retrievable (JS interstitial). Substituted with two live, honest sources: (a) the 'Orang Juga Bertanya' section of kpbu.kemenkeu.go.id — the Ministry of Finance's own PAA-mirror section; (b) Google autosuggest (hl=id, gl=id) pulled 2026-09-17. No question below is invented.",
+    "from_kpbu_kemenkeu_orang_juga_bertanya": [
+      "Siapa yang Membiayai Proyek pada Skema KPBU?",
+      "Mengapa Perekonomian Tidak Sepenuhnya Diserahkan Kepada Swasta?",
+      "Skema KPBU, Apa Perannya dalam Mendukung Pembangunan IKN?",
+      "Apa Itu Kepanjangan PJPK?",
+      "Apa itu Kantor Bersama KPBU?",
+      "Apa itu Availability Payment?"
+    ],
+    "from_google_autosuggest_id": [
+      "pembiayaan infrastruktur adalah",
+      "apa itu pembiayaan infrastruktur",
+      "perusahaan pembiayaan infrastruktur adalah",
+      "kegiatan usaha perusahaan pembiayaan infrastruktur adalah",
+      "sumber pembiayaan infrastruktur",
+      "sumber pembiayaan pembangunan infrastruktur",
+      "pembiayaan infrastruktur indonesia",
+      "pembiayaan infrastruktur pekerjaan umum",
+      "pembiayaan infrastruktur dengan sbsn diatur dalam",
+      "pembiayaan infrastruktur syariah",
+      "pembiayaan jalan tol di indonesia",
+      "skema pembiayaan jalan tol",
+      "sumber pembiayaan jalan tol",
+      "apakah pembiayaan jalan tol termasuk fungsi alokasi apbn"
+    ],
+    "note_for_writers": "'perusahaan pembiayaan infrastruktur adalah' is an OJK multifinance query, NOT PT PII. Any article that touches it must keep the distinction explicit: PT PII menjamin, tidak membiayai."
+  },
+  "verified_facts": [
+    {
+      "fact": "Sampai dengan Juni 2026, PT PII telah memberikan penjaminan atas 61 proyek (38 KPBU dan 23 non-KPBU) di 7 sektor, dengan total nilai investasi lebih dari Rp 732 triliun.",
+      "source": "https://www.ptpii.co.id/informasi-proyek",
+      "checked": "2026-09-17",
+      "status": "current — this is the newest PT PII publication; no newer figure found. Confirms the keywords.md portfolio note.",
+      "caveat": "The page says '7 (tujuh) sektor' but then names eight: Jalan, Ketenagalistrikan, Telekomunikasi, Air Minum, Pariwisata, Transportasi, Persampahan, Konservasi Energi. Writers must NOT resolve this silently — either write 'tujuh sektor' as published or list the sectors without asserting a count. Researcher to flag."
+    },
+    {
+      "fact": "Kebutuhan pembiayaan infrastruktur 2025-2029 sekitar USD 625 miliar, dengan kemampuan APBN sekitar USD 250,15 miliar (40%), sehingga sekitar 60% perlu datang dari luar APBN.",
+      "source": "https://www.djkn.kemenkeu.go.id/kpknl-batam/baca-artikel/17722/Skema-Pengelolaan-Dana-Hasil-Kerja-Sama-Terbatas-Untuk-Pembiayaan-Infrastruktur-Ketupi-Oleh-Badan-Layanan-Umum.html",
+      "checked": "2026-09-17 (article dated 1 Juli 2025)",
+      "status": "consistent with the August scope decision — rupiah equivalent to be written as Rp 10.146-10.303 triliun"
+    },
+    {
+      "fact": "KETUPI (Kerja Sama Terbatas untuk Pembiayaan Infrastruktur) — adaptasi Limited Concession Scheme: mitra mengelola aset infrastruktur yang SUDAH beroperasi dan membayar di muka, dananya dikelola BLU di bawah Kementerian Keuangan untuk mendanai infrastruktur baru. Dasar: Perpres 32/2020, Perpres 66/2024, PP 28/2020, PMK 115/PMK.06/2020, KMK 361/KMK.6/2024. Perpres 66/2024 memperluas menjadi 14 jenis infrastruktur (termasuk jalan tol, air minum, persampahan, ketenagalistrikan).",
+      "source": "https://www.djkn.kemenkeu.go.id/kpknl-batam/baca-artikel/17722/...",
+      "checked": "2026-09-17",
+      "status": "MUST be re-verified in JDIH before the writer treats any of these as current law — especially Perpres 66/2024 and KMK 361/KMK.6/2024, which the strategist has not opened directly."
+    },
+    {
+      "fact": "KPBU project finance: komposisi lazim utang 70-80% dan ekuitas 20-30%; lender menilai perkiraan arus kas proyek, bukan nilai aset. Alasan porsi utang tinggi: bunga mengurangi pajak sementara dividen tidak; imbal hasil kreditur lebih rendah dari pemegang saham; kreditur tidak punya hak suara atas BUP.",
+      "source": "https://kpbu.kemenkeu.go.id/read/1132-1300/umum/orang-juga-bertanya/siapa-yang-membiayai-proyek-pada-skema-kpbu",
+      "checked": "2026-09-17",
+      "status": "already used by the August cluster — available as background only, NOT as a new article spine"
+    },
+    {
+      "fact": "Dokumen penyiapan proyek KPBU umumnya disusun 3-4 tahun sebelum beroperasi untuk durasi kerja sama 10-15 tahun setelah kontrak; setelah financial close, PJPK memantau kinerja BUP dan kondisi lapangan sering menyimpang dari asumsi studi kelayakan (contoh: lalu lintas jalan tol saat COVID-19), sehingga kontrak dapat memuat penyesuaian tarif, sharing risiko, dan mekanisme amandemen.",
+      "source": "https://kpbu.kemenkeu.go.id/read/1190-1543/umum/kajian-opini-publik/setelah-financial-close-what-is-next",
+      "checked": "2026-09-17",
+      "status": "primary anchor for brief 02. Note: the article does NOT discuss refinancing, tenor, or step-in — that is precisely the gap brief 02 fills. Page is bylined; do not name the author."
+    },
+    {
+      "fact": "Sekuritisasi aset jalan tol: KIK-EBA Mandiri JSMR01 berbasis pendapatan masa depan Tol Jagorawi senilai Rp 2 triliun (2017), atas pendapatan lima tahun ke depan; pendapatan rata-rata ruas sekitar Rp 700 miliar per tahun dengan sekitar Rp 400 miliar per tahun yang disekuritisasi. Rencana lanjutan atas ruas JORR ditargetkan Rp 2,5 triliun (2020).",
+      "source": "cnnindonesia.com / finance.detik.com / cnbcindonesia.com / mandiri-investasi.co.id",
+      "checked": "2026-09-17",
+      "status": "SECONDARY media sources, figures from 2017 and 2020. Researcher MUST re-source from OJK, IDX, or the issuer's own disclosure, and MUST attach the reference year. Do not present as current."
+    },
+    {
+      "fact": "Obligasi proyek (project bond): kupon dan pokok dibayar dari arus kas proyek; tenor lazim 10-15 tahun. Contoh historis: program obligasi proyek Hutama Karya untuk Tol Trans Sumatera Rp 6,5 triliun (kuartal IV 2016), penerbitan pertama Rp 1 triliun kupon 8,55% tenor 10 tahun (22 Desember 2016), penerbitan kedua Rp 1,96 triliun kupon 8,07% (Mei 2017).",
+      "source": "https://www.ptsmi.co.id/solusi-pendanaan-proyek-pemerintah-en (artikel 10 Juli 2017)",
+      "checked": "2026-09-17",
+      "status": "HISTORIS (2016-2017). Usable only with an explicit reference year and past-tense framing; researcher should look for a newer Indonesian project-bond or refinancing example."
+    },
+    {
+      "fact": "PT SMI: sektor jalan dan jalan tol adalah porsi terbesar portofolio pembiayaan dan investasinya, Rp 43,26 triliun komitmen per Agustus 2025 atau 27,79% dari total Rp 155,68 triliun. Produk Cash Deficiency Support (CDS) diterapkan pada Tol Trans Sumatera ruas Palembang-Indralaya dengan tenor 25 tahun.",
+      "source": "ptsmi.co.id",
+      "checked": "2026-09-17",
+      "status": "useful as vendor-neutral market evidence. CRITICAL FRAMING: PT SMI membiayai dan memberi pinjaman; PT PII menjamin. Never blur."
+    },
+    {
+      "fact": "Target pembangunan infrastruktur Kementerian PU melalui skema KPBU periode 2025-2029 senilai Rp 544,48 triliun, mencakup 11 proyek sumber daya air, 23 proyek jalan tol dan jembatan, serta 11 proyek permukiman.",
+      "source": "https://pembiayaan.pu.go.id/news/detail/308/Skema-KPBU-Kementerian-PU-Dorong-Investasi-Swasta-dan-Asing-untuk-Pembangunan-Infrastruktur",
+      "checked": "2026-09-17 (release dated 17 September 2026)",
+      "status": "FRESH. WARNING: this is a FOURTH distinct scope. It is Kementerian PU's KPBU target only — never conflate with the Rp 1.905,3 triliun PU portfolio figure, the Rp 10.146-10.303 triliun RPJMN infrastructure need, or the Rp 47.587,3 triliun all-sector figure. The release quotes a minister by name — do NOT reproduce the name."
+    },
+    {
+      "fact": "Pembentukan Modal Tetap Bruto (PMTB) 2023: Jawa menyerap 54,79% dari total investasi nasional.",
+      "source": "goodstats.id (secondary, citing BPS)",
+      "checked": "2026-09-17",
+      "status": "MUST be traced to BPS before publication. Primary path: https://www.bps.go.id/id/statistics-table/3/... 'Distribusi Persentase PDRB atas Dasar Harga Berlaku menurut Provinsi'. Write with the reference year attached."
+    },
+    {
+      "fact": "Investor swasta cenderung hanya tertarik pada proyek infrastruktur yang komersial menguntungkan — wilayah dengan kepadatan penduduk tinggi dan daya beli memadai — sehingga daerah terpencil dan tertinggal kerap terabaikan. Pemerintah merespons lewat pengembangan kawasan strategis (KI, KEK, KPBPB, DPP) dengan prioritas di luar Jawa.",
+      "source": "https://ekon.go.id/publikasi/detail/5388/atasi-ketimpangan-pembangunan-antar-wilayah-dan-ciptakan-sumber-pertumbuhan-ekonomi-baru-pemerintah-dorong-pengembangan-kawasan-strategis",
+      "checked": "2026-09-17",
+      "status": "core evidence for brief 03; researcher to confirm the release date"
+    },
+    {
+      "fact": "Sektor air minum: PDAM sebagai offtaker menentukan keberhasilan skema KPBU, namun kinerja PDAM di Indonesia masih belum optimal dan penyerapan air oleh PDAM rendah — akar dari sulitnya proyek SPAM mencapai bankability.",
+      "source": "https://kpbu.kemenkeu.go.id/read/1192-1553/... dan https://kpbu.kemenkeu.go.id/read/1195-1576/...",
+      "checked": "2026-09-17",
+      "status": "core evidence for brief 01. Both pages appear undated — researcher to find a dated source for any figure used."
+    },
+    {
+      "fact": "PMK 68/2024 (Dukungan Pemerintah untuk Pembiayaan Infrastruktur melalui Skema KPBU dan/atau Skema Pembiayaan Lainnya) berlaku sejak 18 Oktober 2024 dan mengonsolidasikan Penjaminan Infrastruktur, VGF, Availability Payment, dan Fasilitas Penyiapan Proyek. Pasal 75 mewajibkan BUPI menerbitkan Acuan Alokasi Risiko tahunan.",
+      "source": "https://jdih.kemenkeu.go.id/dok/pmk-68-tahun-2024",
+      "checked": "2026-09-17 — appears in the live SERP as a current JDIH record",
+      "status": "current law, consistent with company_profile.md"
+    },
+    {
+      "fact": "Buku Acuan Alokasi Risiko Tahun 2025 (PT PII) memuat matriks risiko per sektor, termasuk penyempurnaan matriks sektor ketenagalistrikan dan penambahan narasi struktur proyek sektor air minum dan persampahan.",
+      "source": "https://www.ptpii.co.id/cfind/source/files/buku-acuan-alokasi-risiko-tahun-2025.pdf",
+      "checked": "2026-09-17 (surfaced in search; PDF not opened by the strategist)",
+      "status": "HIGH-VALUE first-party, PMK-mandated source for brief 01. Researcher must open it and cite it directly."
+    }
+  ],
+  "figure_scope_discipline": {
+    "rule": "Four distinct scopes now circulate. Never conflate. Every figure carries BOTH a reference year AND its scope.",
+    "scopes": [
+      "USD 625,37 miliar = Rp 10.146-10.303 triliun — kebutuhan infrastruktur RPJMN 2025-2029 (APBN/APBD menutup sekitar 40%). Use the harmonised rupiah range.",
+      "Rp 1.905,3 triliun dengan gap Rp 753,11 triliun — portofolio Kementerian PU saja",
+      "Rp 47.587,3 triliun — seluruh sektor; komposisi '86,65% swasta' milik ANGKA INI, bukan angka infrastruktur",
+      "Rp 544,48 triliun — target KPBU Kementerian PU 2025-2029 (baru, per rilis 17 September 2026)"
+    ]
+  },
+  "institution_discipline": {
+    "PT PII": "menjamin, menerbitkan dan menstrukturkan penjaminan pemerintah, mendampingi penyiapan proyek. BUKAN pemberi pinjaman, investor ekuitas, kontraktor, operator, atau regulator. Tidak di bawah holding Danantara.",
+    "PT SMI": "membiayai dan memberi pinjaman (SMV Kemenkeu)",
+    "PT IIF": "membiayai (lembaga pembiayaan infrastruktur)",
+    "LPEI / Indonesia Eximbank": "pembiayaan ekspor",
+    "note": "This is the easiest error in this cluster. The editor must check it in every draft."
+  },
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      { "id": "2026-08-pembiayaan-infrastruktur-01", "angle": "peta-sumber-dana-dan-funding-gap-nasional", "owns": "peta sumber dana nasional, tabel komposisi sumber, klarifikasi tiga cakupan angka" },
+      { "id": "2026-08-pembiayaan-infrastruktur-02", "angle": "corporate-finance-vs-project-finance-proyek-infrastruktur", "owns": "pilihan struktur sponsor, recourse/SPV, DSCR, Penjaminan Pinjaman Langsung (PMK 101/PMK.08/2018)" },
+      { "id": "2026-08-pembiayaan-infrastruktur-03", "angle": "kriteria-lender-menuju-financial-close", "owns": "checklist komite kredit, bagian jujur 'apa yang tidak disembuhkan penjaminan'" }
+    ],
+    "burned_spines": [
+      "peta sumber dana nasional / perdebatan cakupan angka funding gap",
+      "corporate finance vs project finance",
+      "uji tuntas lender menuju financial close"
+    ],
+    "reserved_for_september": [
+      "model pembiayaan per sektor (named twice in August's records) -> brief 01",
+      "refinancing dan perpanjangan tenor / dinamika pasca-financial close -> brief 02",
+      "ketimpangan pendanaan antarwilayah -> brief 03",
+      "biaya modal dan negosiasi tenor -> partially folded into brief 02; the cross-structure cost-of-capital table is already burned by August-02",
+      "pembiayaan bersama lembaga multilateral / ECA -> NOT TAKEN this month: the English 'public private partnership' cluster owns co-financing in 2026-09. Reserved for a later ID month."
+    ],
+    "uncovered_angles_left_for_october_plus": [
+      "obligasi/sukuk proyek dan SBSN sebagai jalur pembiayaan infrastruktur (autosuggest shows live demand: 'pembiayaan infrastruktur dengan sbsn diatur dalam', 'pembiayaan infrastruktur syariah')",
+      "pembiayaan bersama lembaga multilateral dari sudut domestik (after the EN cluster has had its turn)",
+      "blended finance dan pembiayaan transisi energi",
+      "peran dana pensiun dan asuransi domestik sebagai pemodal jangka panjang infrastruktur",
+      "dinamika konsorsium dan lead arranger"
+    ]
+  },
+  "cross_cluster_boundary": {
+    "mine": "sudut NASIONAL/MAKRO + SISI PEMBIAYA. Protagonis: sponsor, lender, atau gambaran fiskal nasional.",
+    "pembiayaan_kreatif_cluster": "sudut DAERAH. Protagonis: pemda/APBD. Bulan ini mereka mengambil land value capture, batas pinjaman daerah, pemilihan instrumen per sektor UNTUK PEMDA, persetujuan DPRD, studi kasus daerah.",
+    "friction_point_1_sector": "Mine = bagaimana sebuah SEKTOR didanai secara nasional dan mengapa model pendapatannya berbeda. Theirs = instrumen mana yang dipilih SEBUAH PEMDA untuk sektor itu.",
+    "friction_point_2_region": "Mine = peta ketimpangan nasional dibaca dari kursi pemodal. Theirs = kapasitas satu daerah itu sendiri.",
+    "jaminan_pemerintah_cluster": "owns guarantee mechanics (cakupan per tahap, taksonomi instrumen fiskal, klaim dan hak regres). Penjaminan may appear in my articles ONLY as one credit-enhancement lever inside the financing stack, never dissected.",
+    "kpbu_cluster": "owns 'Availability Payment vs User Charge sebagai skema pengembalian investasi' in 2026-09 (brief kpbu-03). My brief 01 may name AP/user charge as one attribute cell per sector, but must NOT build a section comparing the two.",
+    "UNFLAGGED_COLLISION_FOUND_AND_RESOLVED": {
+      "what": "kpbu-01 ('KPBU per Sektor: Mengapa Air, Tol, dan Sampah Tak Sama') is also a comparison-intent, five-sector table article, sharing sector rows and two table columns with pembiayaan-infrastruktur-01. This was not in the orchestrator's friction list.",
+      "resolution": "Axis split written into brief 01 as a binding table. kpbu-01 owns the LEGAL/INSTITUTIONAL regime per sector (Perpres 38/2015 articles, who the PJPK is, which sector regulation must be cleared). pembiayaan-infrastruktur-01 owns the MONEY profile per sector (cash-flow predictability, offtaker creditworthiness, capital lock-up horizon, what raises the cost of funds). Brief 01's table columns were rewritten to remove the two overlapping columns; 'who the offtaker is institutionally' is kpbu-01's, 'how creditworthy that offtaker is' is ours.",
+      "residual_risk": "Both articles will contain a five-row sector table. The editor should read them side by side before either is committed and confirm the columns and the argument genuinely differ."
+    },
+    "english_ppp_cluster": "owns ECA and multilateral co-financing in 2026-09. My briefs stay domestically framed and in Bahasa Indonesia; multilateral participation is not a spine in any of the three."
+  },
+  "briefs_derived": [
+    { "brief_id": "pembiayaan-infrastruktur-01", "angle": "model-pembiayaan-per-sektor-infrastruktur", "angle_hash": "fa613e95a1b575a1264a32ae4e1eb3e0b72cff89", "intent": "comparison", "max_jaccard_vs_august": 0.043 },
+    { "brief_id": "pembiayaan-infrastruktur-02", "angle": "daur-ulang-modal-dan-refinancing-aset-beroperasi", "angle_hash": "a0ac0157645afb8c7ceac5e0907ac2b229d8769c", "intent": "how-to", "max_jaccard_vs_august": 0.027 },
+    { "brief_id": "pembiayaan-infrastruktur-03", "angle": "ketimpangan-pembiayaan-antarwilayah-sisi-pemodal", "angle_hash": "c6084ddbdd1979230c528686a1502d629de19026", "intent": "troubleshooting", "max_jaccard_vs_august": 0.062 }
+  ],
+  "websearch_calls_used": 6,
+  "facts_still_to_recheck": [
+    "Obligasi daerah DKI Jakarta status per September 2026 — belongs to the 'Pembiayaan Kreatif' (daerah) cluster, not used in any of these three briefs",
+    "Fitch: BBB / F2 / AAA(idn), Outlook Stabil, afirmasi 12 Februari 2026 — not needed by these three briefs; do not cite unless re-verified",
+    "Perpres 66/2024 and KMK 361/KMK.6/2024 — open in JDIH before treating as current law (brief 02)",
+    "BPS PMTB / PDRB regional share — trace the Java share to BPS with its year (brief 03)",
+    "Buku Acuan Alokasi Risiko Tahun 2025 — open the PDF and cite directly (brief 01)"
+  ]
+}

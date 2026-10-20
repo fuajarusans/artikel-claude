@@ -1,0 +1,101 @@
+{
+  "keyword": "warehouse management system",
+  "keyword_slug": "warehouse-management-system",
+  "month": "2026-08-2",
+  "captured_at": "2026-07-08",
+  "landing_page": "https://www.soltius.co.id/id/blog/konsep-warehouse-management-system-yang-wajib-anda-tahu",
+  "landing_page_summary": "Hub menjelaskan konsep dasar WMS: enam proses inti (receiving, putaway, storage, picking, packing, shipping), beda WMS vs SCM vs modul gudang ERP, keuntungan utama, aturan rotasi FIFO/LIFO/FEFO, arah WMS 2026, dan FAQ. Menyebut SAP Extended Warehouse Management (EWM) sebagai solusi kunci; pencatatan pergerakan barang hingga level bin.",
+  "data_sources_used": ["landing_page_webfetch", "live_serp", "websearch"],
+  "ahrefs_available": false,
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Permintaan konten operasional gudang (cycle counting, slotting, otomasi) meningkat seiring pertumbuhan e-commerce & pergudangan di Indonesia; SERP topik operasional ini didominasi vendor ERP generik lokal + sumber berbahasa Inggris, sehingga ada whitespace untuk sudut SAP EWM berbahasa Indonesia.",
+    "apr2026_rank": "n/a (keyword tidak ada di seo_report_apr2026; seo_report untuk 2026-08-2 = none). Priority dari keywords.md = grow (paling sedikit jenuh)."
+  },
+  "serp": {
+    "top_10_by_theme": {
+      "cycle_counting": [
+        {"url": "https://www.mas-software.com/blog/cycle-counting", "title": "Apa itu Cycle Counting? Cara Menerapkannya di Perusahaan", "angle_summary": "Definisi + manfaat + langkah; vendor ERP generik, tanpa sudut SAP EWM/akurasi KPI."},
+        {"url": "https://www.sapx.id/blog/cycle-counting-pengertian-manfaat-dan-perbedaan-dengan-stock-opname/", "title": "Cycle Counting: Pengertian, Manfaat dan Perbedaan dengan Stock Opname", "angle_summary": "Fokus beda cycle counting vs stock opname; tanpa system-directed counting/EWM."},
+        {"url": "https://www.bosnetdis.com/articles/cara-melakukan-cycle-counting", "title": "Apa itu Cycle Counting dan 7 Cara Melakukannya", "angle_summary": "Listicle langkah; generik, tanpa ABC-driven frequency yang di-drive WMS."}
+      ],
+      "labor_management": [
+        {"url": "https://cognitops.com/warehouse-labor-management-system/", "title": "Warehouse Labor Management System (LMS) Software - CognitOps", "angle_summary": "Vendor LMS berbahasa Inggris; engineered standards + tracking produktivitas."},
+        {"url": "https://www.takt.io/solutions/engineered-labor-standards", "title": "Engineered Labor Standards, Explained | Takt", "angle_summary": "Penjelasan ELS/MOST/TMU; Inggris, tanpa konteks SAP EWM Labor Management atau pasar ID."},
+        {"url": "https://made4net.com/knowledge-center/what-is-a-labor-management-system-lms/", "title": "What is a Labor Management System (LMS)?", "angle_summary": "Definisi LMS generik; tidak ada sudut Indonesia/SAP."}
+      ],
+      "slotting": [
+        {"url": "https://www.spil.co.id/blogs/warehouse-slotting/", "title": "Warehouse Slotting: Definisi, Cara Kerja & Manfaat", "angle_summary": "Definisi slotting + faktor velocity/ukuran; tanpa re-slotting cadence/golden zone/EWM slotting."},
+        {"url": "https://slotting.org/slotting-logistik/", "title": "Slotting dalam Logistik: Strategi Efektif untuk Efisiensi Gudang", "angle_summary": "Strategi slotting umum (ABC); tidak terhubung ke WMS system-directed."},
+        {"url": "https://www.perkasaracking.co.id/blog/rahasia-menyusun-rak-gudang-agar-proses-picking-lebih-cepat", "title": "Rahasia Menyusun Rak Gudang agar Proses Picking Lebih Cepat", "angle_summary": "Tips layout rak; vendor racking, bukan software/WMS."}
+      ],
+      "yard_dock": [
+        {"url": "https://www.fourkites.com/blogs/driving-dock-efficiency-with-a-yard-management-system/", "title": "Driving Dock Efficiency with a Yard Management System | FourKites", "angle_summary": "YMS + efisiensi dock; Inggris, tanpa konteks ID/SAP EWM yard."},
+        {"url": "https://www.arrivy.com/blog/what-is-yard-management-a-guide-to-optimizing-warehouse-yards/", "title": "What is Yard Management? A Guide to Optimizing Warehouse Yards", "angle_summary": "Penjelasan yard management + gate-to-dock; Inggris."},
+        {"url": "https://www.project44.com/resources/what-is-yard-and-dock-management/", "title": "What is yard and dock management? | project44", "angle_summary": "Yard + dock + dwell time; Inggris, generik logistik."}
+      ],
+      "wms_tms": [
+        {"url": "https://www.manh.com/our-insights/resources/articles/how-tms-integration-wms-drives-supply-chain-efficiency", "title": "How TMS Integration with WMS Drives Supply Chain Efficiency | Manhattan", "angle_summary": "Integrasi WMS-TMS + handoff; Inggris, vendor Manhattan."},
+        {"url": "https://locus.sh/blogs/tms-warehouse/", "title": "TMS in Warehouse Operations: Role, Integration and ROI", "angle_summary": "Peran TMS + ROI; Inggris."},
+        {"url": "https://www.infios.com/en/knowledge-center/blog/how-integrated-oms-wms-tms-drive-agility", "title": "OMS, WMS and TMS integration: the agility advantage", "angle_summary": "OMS+WMS+TMS terintegrasi; Inggris, tanpa sudut SAP EWM-TM/OTIF ID."}
+      ]
+    },
+    "serp_features": ["ai_overview", "paa", "featured_snippet"],
+    "ai_overview_entities": ["cycle counting", "stock opname", "ABC analysis", "warehouse management system", "labor management system", "engineered labor standards", "slotting", "product velocity", "yard management", "dock appointment scheduling", "cross-docking", "dwell time", "transportation management system", "OTIF", "SAP EWM", "SAP TM"],
+    "serp_observation": "SERP untuk kelima subtopik operasional ini didominasi (a) vendor ERP/WMS generik berbahasa Indonesia yang menulis definisi ringan tanpa menyambungkan ke arsitektur SAP EWM, atau (b) vendor global berbahasa Inggris. Belum ada artikel berbahasa Indonesia yang mengajarkan subtopik ini dengan kedalaman praktisi + sudut SAP EWM. Ini whitespace yang jelas untuk hub WMS Soltius."
+  },
+  "paa": [
+    "Apa itu cycle counting dan apa bedanya dengan stock opname?",
+    "Berapa sering cycle counting sebaiknya dilakukan?",
+    "Apa itu metode ABC dalam penghitungan stok?",
+    "Apakah cycle counting bisa menggantikan stock opname tahunan?",
+    "Apa itu labor management system di gudang?",
+    "Bagaimana cara mengukur produktivitas operator gudang?",
+    "Apa itu engineered labor standards?",
+    "Apa itu slotting gudang dan apa manfaatnya?",
+    "Bagaimana cara slotting yang efektif untuk mempercepat picking?",
+    "Seberapa sering re-slotting perlu dilakukan?",
+    "Apa itu yard management dan dock scheduling?",
+    "Apa itu cross-docking?",
+    "Bagaimana cara mengurangi dwell time truk dan biaya detention?",
+    "Apa bedanya WMS dan TMS?",
+    "Bagaimana integrasi WMS dan TMS bekerja?",
+    "Apa itu OTIF (On-Time In-Full)?"
+  ],
+  "gsc_style_queries_from_report": [
+    "n/a — seo_report untuk 2026-08-2 = none; keyword tidak ada di seo_report_apr2026. Data intent diturunkan dari live SERP + PAA + terminologi SAP EWM."
+  ],
+  "sap_facts_verified_via_websearch": {
+    "sap_ewm_capabilities": "SAP Extended Warehouse Management (EWM) memiliki fitur native: wave management, slotting, labor management, yard management (termasuk dock appointment scheduling & yard inventory), physical inventory (termasuk cycle counting), serta integrasi robotics.",
+    "ewm_tm_integration": "Integrasi SAP EWM dengan SAP Transportation Management (TM) dilakukan lewat objek Transportation Unit (TU)/Vehicle: perencanaan di TM menciptakan TU di EWM; menyelaraskan operasi gudang dengan shipment inbound/outbound.",
+    "labor_standards": "Labor management umum memakai engineered labor standards (ELS) berbasis studi time-and-motion; salah satu metode standar adalah MOST (Maynard Operation Sequence Technique) dengan satuan TMU (Time Measurement Unit).",
+    "slotting_travel_time": "Travel time sering ~50% dari total waktu picking; slotting berbasis velocity/ABC dapat memangkas jarak tempuh picker secara signifikan (klaim vendor: hingga ~50%) — angka harus di-frame sebagai rentang/rule-of-thumb oleh writer, bukan janji pasti.",
+    "note_for_writers": "Semua angka efisiensi (mis. 'travel time 50%', 'akurasi 99%', 'payback') harus diverifikasi researcher & di-frame sebagai rentang industri/rule-of-thumb, bukan klaim pasti. Jangan mengklaim Soltius membuat SAP EWM/TM — Soltius mengimplementasikan/mengintegrasikan/mendukung."
+  },
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      {"id": "2026-08-warehouse-management-system-01", "slug/angle": "wms-vs-erp-vs-inventory-batas-keputusan", "title": "WMS vs Modul Gudang ERP vs Aplikasi Inventory: Kapan Modul Bawaan Tidak Cukup?", "batch": "2026-08 (committed)"},
+      {"id": "2026-08-warehouse-management-system-02", "slug/angle": "sap-ewm-vs-stock-room-vs-lewm-pilihan-s4hana", "title": "SAP EWM, Stock Room, atau WM Lama? Memilih WMS di Era S/4HANA", "batch": "2026-08 (committed)"},
+      {"id": "2026-08-warehouse-management-system-03", "slug/angle": "tanda-gudang-butuh-wms-dan-kapan-belum-perlu", "title": "7 Tanda Gudang Anda Butuh Warehouse Management System (dan Kapan Belum Perlu)", "batch": "2026-08 (committed)"},
+      {"id": "2026-08-warehouse-management-system-04", "slug/angle": "wms-cloud-vs-on-premise-integrasi-erp", "title": "WMS Cloud vs On-Premise: Cara Memilih dan Mengintegrasikan dengan ERP", "batch": "2026-08 (committed)"},
+      {"id": "2026-07-2-warehouse-management-system-01", "slug/angle": "roadmap-implementasi-warehouse-management-system", "title": "Roadmap Implementasi WMS: 5 Fase dan Titik Gagal yang Sering Diabaikan", "batch": "2026-07-2 (NOT committed)"},
+      {"id": "2026-07-2-warehouse-management-system-02", "slug/angle": "warehouse-management-system-farmasi-cold-chain-fefo-cdob", "title": "WMS untuk Farmasi & FMCG: Cold Chain, FEFO, dan Kepatuhan CDOB", "batch": "2026-07-2 (NOT committed)"},
+      {"id": "2026-07-2-warehouse-management-system-03", "slug/angle": "otomasi-gudang-wms-robot-amr-goods-to-person", "title": "Otomasi Gudang dan WMS: Peran Robot AMR, Goods-to-Person, dan Material Flow System", "batch": "2026-07-2 (NOT committed)"},
+      {"id": "2026-07-2-warehouse-management-system-04", "slug/angle": "roi-warehouse-management-system", "title": "Menghitung ROI WMS: Biaya Tersembunyi Gudang vs Investasi WMS", "batch": "2026-07-2 (NOT committed)"},
+      {"id": "2026-07-2-warehouse-management-system-05", "slug/angle": "warehouse-management-system-ecommerce-omnichannel", "title": "WMS untuk E-Commerce dan Omnichannel: Satu Stok, Banyak Kanal", "batch": "2026-07-2 (NOT committed)"}
+    ],
+    "covered_angles_summary": "decision/komparasi (WMS vs modul ERP; cloud vs on-prem; EWM vs Stock Room vs LE-WM), troubleshooting (7 tanda butuh WMS), how-to implementasi (5 fase + titik gagal, sisi orang/change management), industri (farmasi/FMCG cold chain/FEFO/CDOB), otomasi (robot AMR/GTP/MFS), business case (ROI/biaya tersembunyi/payback), kanal (e-commerce/omnichannel/single stock pool), integrasi WMS-ERP.",
+    "uncovered_angles": [
+      "cycle counting / akurasi inventaris berkelanjutan (ABC-driven, system-directed) — DIAMBIL brief 01",
+      "labor management / produktivitas tenaga kerja gudang (engineered labor standards) — DIAMBIL brief 02",
+      "slotting optimization / penempatan SKU berbasis velocity — DIAMBIL brief 03",
+      "yard management / dock scheduling / cross-docking — DIAMBIL brief 04",
+      "integrasi WMS-TMS (transportasi) / OTIF — DIAMBIL brief 05",
+      "returns / reverse logistics mendalam — DITUNDA (sebagian tersentuh brief omnichannel 2026-07-2-05; simpan untuk bulan depan)",
+      "WMS untuk 3PL / logistics service provider (multi-client billing) — DITUNDA",
+      "keamanan & audit data WMS (SOC2/ISO27001, UU PDP mendalam) — DITUNDA",
+      "strategi cutover WMS (big bang vs phased) — DITUNDA"
+    ]
+  }
+}

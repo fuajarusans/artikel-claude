@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-10\\final\\demand-forecasting-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-10-08T17:57:57+07:00",
+    "word_count":  1230,
+    "paragraph_count":  25,
+    "sentence_count":  72,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.321,
+                        "sentence_burstiness":  0.782,
+                        "top30_vocab_share":  0.328,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.321 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "MAPE (Mean Absolute Percentage Error) paling umum, dengan rule of thumb lazim: di bawah 10% akurasi tinggi, 10–20% baik, 20–50% wajar, dan di atas 50% rendah.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"MAPE (Mean Absolute Percentage Error) paling umum, dengan rule of thumb lazim: di bawah 10% akurasi tinggi, 10–20% baik,\""
+                                  },
+                                  {
+                                      "passage":  "[Gartner](https://www.gartner.com/en/newsroom/press-releases/2025-09-16-gartner-predicts-70-percent-of-large-orgs-will-adopt-ai-based-supply-chain-forecasting-to-predict-future-demand-by-2030) memperkirakan 70% organisasi besar akan mengadopsi peramalan rantai pasok berbasis AI pada 2030, meski menyebut adopsi saat ini masih terbatas.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"[Gartner](https://www.gartner.com/en/newsroom/press-releases/2025-09-16-gartner-predicts-70-percent-of-large-orgs-will-a\""
+                                  },
+                                  {
+                                      "passage":  "Rule of thumb yang lazim dikutip: di bawah 10% tergolong akurasi tinggi, 10–20% baik, 20–50% wajar, dan di atas 50% rendah.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Rule of thumb yang lazim dikutip: di bawah 10% tergolong akurasi tinggi, 10–20% baik, 20–50% wajar, dan di atas 50% rend\""
+                                  },
+                                  {
+                                      "passage":  "Di lanskap SAP, platform itu adalah [SAP Integrated Business Planning (SAP IBP)](https://www.soltius.co.id/blog/how-sap-ibp-supports-the-sales-operations-planning-s-op-process), solusi perencanaan rantai pasok berbasis cloud tempat ramalan dikonsensuskan dalam proses S\u0026OP.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Di lanskap SAP, platform itu adalah [SAP Integrated Business Planning (SAP IBP)](https://www.soltius.co.id/blog/how-sap-\""
+                                  },
+                                  {
+                                      "passage":  "Demand sensing merevisi ramalan jangka sangat pendek, harian hingga mingguan, dari sinyal nyaris real-time seperti order masuk dan data point-of-sale (POS).",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Demand sensing merevisi ramalan jangka sangat pendek, harian hingga mingguan, dari sinyal nyaris real-time seperti order\""
+                                  },
+                                  {
+                                      "passage":  "MAD (*Mean Absolute Deviation*) dan MSE (*Mean Squared Error*) adalah dua ukuran error alternatif.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"MAD (*Mean Absolute Deviation*) dan MSE (*Mean Squared Error*) adalah dua ukuran error alternatif.\""
+                                  },
+                                  {
+                                      "passage":  "Untuk mendiskusikan penerapan demand forecasting dan SAP IBP for Demand di perusahaan Anda, kunjungi soltius.co.id.",
+                                      "candidate_score":  8,
+                                      "web_search_query":  "\"Untuk mendiskusikan penerapan demand forecasting dan SAP IBP for Demand di perusahaan Anda, kunjungi soltius.co.id.\""
+                                  },
+                                  {
+                                      "passage":  "Untuk mengukur akurasi, ukuran paling umum adalah MAPE (*Mean Absolute Percentage Error*), yaitu rata-rata selisih absolut ramalan terhadap aktual dalam persen.",
+                                      "candidate_score":  8,
+                                      "web_search_query":  "\"Untuk mengukur akurasi, ukuran paling umum adalah MAPE (*Mean Absolute Percentage Error*), yaitu rata-rata selisih absol\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

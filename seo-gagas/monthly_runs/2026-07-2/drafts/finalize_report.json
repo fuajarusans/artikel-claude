@@ -1,0 +1,195 @@
+{
+  "dir": "monthly_runs/2026-07-2/drafts",
+  "max_words": 1600,
+  "rows": [
+    {
+      "id": "cng-indonesia-01",
+      "words": 1599,
+      "status": "OK",
+      "in_band": true,
+      "rewrote_file": true
+    },
+    {
+      "id": "cng-indonesia-02",
+      "words": 1577,
+      "status": "OK",
+      "in_band": true,
+      "rewrote_file": true
+    },
+    {
+      "id": "cng-indonesia-03",
+      "words": 1727,
+      "status": "OVER",
+      "in_band": false,
+      "rewrote_file": true
+    },
+    {
+      "id": "cng-indonesia-04",
+      "words": 1496,
+      "status": "OK",
+      "in_band": true,
+      "rewrote_file": true
+    },
+    {
+      "id": "cng-indonesia-05",
+      "words": 1663,
+      "status": "OVER",
+      "in_band": false,
+      "rewrote_file": true
+    },
+    {
+      "id": "gasku-01",
+      "words": 1556,
+      "status": "OK",
+      "in_band": true,
+      "rewrote_file": true
+    },
+    {
+      "id": "gasku-02",
+      "words": 1564,
+      "status": "OK",
+      "in_band": true,
+      "rewrote_file": true
+    },
+    {
+      "id": "gasku-03",
+      "words": 1633,
+      "status": "OVER",
+      "in_band": false,
+      "rewrote_file": true
+    },
+    {
+      "id": "gaslink-01",
+      "words": 1567,
+      "status": "OK",
+      "in_band": true,
+      "rewrote_file": true
+    },
+    {
+      "id": "gaslink-02",
+      "words": 1828,
+      "status": "OVER",
+      "in_band": false,
+      "rewrote_file": true
+    },
+    {
+      "id": "gaslink-03",
+      "words": 1695,
+      "status": "OVER",
+      "in_band": false,
+      "rewrote_file": true
+    },
+    {
+      "id": "perusahaan-cng-indonesia-01",
+      "words": 1550,
+      "status": "OK",
+      "in_band": true,
+      "rewrote_file": true
+    },
+    {
+      "id": "perusahaan-cng-indonesia-02",
+      "words": 1655,
+      "status": "OVER",
+      "in_band": false,
+      "rewrote_file": true
+    },
+    {
+      "id": "perusahaan-cng-indonesia-03",
+      "words": 1647,
+      "status": "OVER",
+      "in_band": false,
+      "rewrote_file": true
+    },
+    {
+      "id": "perusahaan-cng-indonesia-04",
+      "words": 1522,
+      "status": "OK",
+      "in_band": true,
+      "rewrote_file": true
+    },
+    {
+      "id": "perusahaan-cng-indonesia-05",
+      "words": 1770,
+      "status": "OVER",
+      "in_band": false,
+      "rewrote_file": true
+    },
+    {
+      "id": "perusahaan-lng-indonesia-01",
+      "words": 1562,
+      "status": "OK",
+      "in_band": true,
+      "rewrote_file": true
+    },
+    {
+      "id": "perusahaan-lng-indonesia-02",
+      "words": 1575,
+      "status": "OK",
+      "in_band": true,
+      "rewrote_file": true
+    },
+    {
+      "id": "perusahaan-lng-indonesia-03",
+      "words": 1662,
+      "status": "OVER",
+      "in_band": false,
+      "rewrote_file": true
+    },
+    {
+      "id": "perusahaan-lng-indonesia-04",
+      "words": 1575,
+      "status": "OK",
+      "in_band": true,
+      "rewrote_file": true
+    },
+    {
+      "id": "perusahaan-lng-indonesia-05",
+      "words": 1609,
+      "status": "OVER",
+      "in_band": false,
+      "rewrote_file": true
+    }
+  ],
+  "over": [
+    {
+      "id": "cng-indonesia-03",
+      "words": 1727
+    },
+    {
+      "id": "cng-indonesia-05",
+      "words": 1663
+    },
+    {
+      "id": "gasku-03",
+      "words": 1633
+    },
+    {
+      "id": "gaslink-02",
+      "words": 1828
+    },
+    {
+      "id": "gaslink-03",
+      "words": 1695
+    },
+    {
+      "id": "perusahaan-cng-indonesia-02",
+      "words": 1655
+    },
+    {
+      "id": "perusahaan-cng-indonesia-03",
+      "words": 1647
+    },
+    {
+      "id": "perusahaan-cng-indonesia-05",
+      "words": 1770
+    },
+    {
+      "id": "perusahaan-lng-indonesia-03",
+      "words": 1662
+    },
+    {
+      "id": "perusahaan-lng-indonesia-05",
+      "words": 1609
+    }
+  ]
+}

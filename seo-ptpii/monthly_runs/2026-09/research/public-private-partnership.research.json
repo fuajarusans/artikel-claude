@@ -1,0 +1,168 @@
+{
+  "keyword": "public private partnership",
+  "keyword_slug": "public-private-partnership",
+  "month": "2026-09",
+  "language": "en",
+  "captured_at": "2026-09-17",
+  "landing_page": "https://www.ptpii.co.id/public-private-partnership",
+  "landing_page_summary": "English PPP Guarantee hub. Covers: definition of PPP, Perpres 38/2015 as legal basis, why PPP matters for Indonesia, output-based procurement vs conventional, economic growth framing, and the four product tabs (PPP Guarantee, Creative Financing, Credit Guarantee for Infrastructure, Project Preparation and Advisory). Purely definitional/promotional. Does NOT cover co-financing, capital-stack composition, lender remedies/step-in, or any cross-country framework comparison — so all three September briefs are hub-complementary rather than hub-duplicating.",
+  "landing_page_stale_data_warning": "CONFIRMED STALE 2026-09-17. The English hub still states 'IIGF has provided guarantees to 33 projects' and still cites the superseded RPJMN 2020-2024 need of 'Rp 6,445 trillion' with the 37%/63% APBN-vs-private split. The Indonesian project page (ptpii.co.id/informasi-proyek) instead shows 61 projects as at June 2026. DO NOT source any figure from the English hub. Writers must take portfolio figures from the verified knowledge base or a researcher-confirmed primary source.",
+  "data_sources_used": [
+    "live_serp (Brave; Google and DuckDuckGo blocked WebFetch with CAPTCHA/403/429)",
+    "google_autocomplete_api (real query-suggestion data)",
+    "websearch (10 calls)",
+    "webfetch_primary (ptpii.co.id via direct HTTP, A&O Shearman, GI Hub PPP Contract Management)"
+  ],
+  "ahrefs_available": false,
+  "gsc_available": false,
+  "seo_report": "none (keywords.md declares seo_report: none)",
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "n/a (Ahrefs not connected)",
+    "report_rank": "n/a (no SEO report named for 2026-09)",
+    "observed_rank_signal": "ptpii.co.id/public-private-partnership ranks #4 on Brave for 'public private partnership indonesia', behind ADB PPP Monitor, PwC Indonesia and the World Bank PPPLRC country profile. Consistent with the 'grow' priority."
+  },
+  "serp": {
+    "query_used": "public private partnership indonesia",
+    "engine": "Brave (Google/DDG blocked automated fetch)",
+    "top_10": [
+      { "url": "https://www.adb.org/publications/public-private-partnership-monitor-indonesia", "title": "Public-Private Partnership Monitor: Indonesia", "angle_summary": "ADB country dataset: pipeline, closed projects, institutional setup. Data-heavy, no practitioner guidance." },
+      { "url": "https://www.pwc.com/id/en/industry-sectors/cpi/public-private-partnerships.html", "title": "Public Private Partnerships", "angle_summary": "Advisory capability page; positions PwC services rather than teaching the framework." },
+      { "url": "https://ppp.worldbank.org/country-profile-indonesia", "title": "Country Profile: Indonesia | PPPLRC", "angle_summary": "Legal resource summary of Indonesia's PPP laws and institutions; reference-style, not decision-useful." },
+      { "url": "https://www.ptpii.co.id/public-private-partnership", "title": "Indonesia's Public Private Partnership: Definition & Infrastructure", "angle_summary": "The client's own hub (rank ~4). Definitional; carries stale 33-project and RPJMN 2020-2024 figures." },
+      { "url": "https://www.ppiaf.org/activity/indonesia-development-public-private-partnership-ppp-unit-ministry-finance-indonesia-and-0", "title": "PPIAF | Development of PPP Unit in the Ministry of Finance", "angle_summary": "Donor activity record; historical institution-building, not investor-facing." },
+      { "url": "https://www.aoshearman.com/en/insights/infrastructure-series-public-private-partnerships-ppp-in-indonesia", "title": "Infrastructure series: PPP in Indonesia", "angle_summary": "Best cross-border competitor. Covers framework, PJPK, solicited/unsolicited, BUP procurement, returns, government support (IIGF Guarantee, VGF, AP)." },
+      { "url": "https://www.mckinsey.com/id/our-insights/can-public-private-partnerships-solve-indonesias-infrastructure-needs", "title": "Can PPPs solve Indonesia's infrastructure needs?", "angle_summary": "Macro think-piece on the funding gap; dated, no transaction mechanics." },
+      { "url": "https://www.kwm.com/global/en/insights/latest-thinking/public-private-partnerships-in-asia-indonesia-guide-2025.html", "title": "Public-Private Partnerships in Asia - Indonesia Guide", "angle_summary": "Law-firm country guide in a pan-Asia series; redirected on fetch, structure inferred from series." },
+      { "url": "https://www.mallesons.com/au/en/insights/latest-thinking/public-private-partnerships-in-indonesia.html", "title": "Public-Private Partnerships in Indonesia", "angle_summary": "Sister publication of the KWM guide; legal-framework overview." },
+      { "url": "https://www.lexology.com/library/detail.aspx?g=8f1c6e78-ee2f-4b31-be63-8f5c070ef366", "title": "A general introduction to public-private partnerships in Indonesia", "angle_summary": "Syndicated law-firm introduction; framework recap." }
+    ],
+    "serp_features": ["ai_overview_present_on_google_unverified", "related_searches", "no_paa_captured"],
+    "competitor_gap_verified": "A&O Shearman (the strongest page aimed at the same cross-border audience) explicitly does NOT cover: ECA/multilateral lender roles, lender step-in rights, security/collateral arrangements, termination and take-over procedure, or comparison with other countries' PPP models. This independently confirms all three September angles are live SERP gaps, not crowded ground.",
+    "intent_hazard": "CRITICAL TARGETING NOTE: Google autocomplete shows 'ppp indonesia vs india/malaysia/singapore/vietnam' sitting directly alongside 'purchasing power parity indonesia vs ...'. The bare acronym 'PPP' in a comparison title collides with purchasing-power-parity intent. All comparison-framed titles and H2s must spell out 'public private partnership' rather than use 'PPP vs'."
+  },
+  "related_questions_and_queries": {
+    "provenance": "HONEST NOTE: Google 'People Also Ask' could NOT be scraped this run - google.com returned 429/CAPTCHA via both WebFetch and a text proxy, DuckDuckGo served a CAPTCHA, Bing returned unrelated cached results. The list below is real query data from (a) Brave related searches and (b) the Google autocomplete API, plus questions surfaced verbatim in competitor headings. It is NOT presented as scraped Google PAA.",
+    "brave_related_searches": [
+      "indonesia public private partnership pdf",
+      "iigf indonesia",
+      "adb ppp monitor indonesia",
+      "ppp joint office indonesia",
+      "indonesia ppp per capita",
+      "indonesia public private partnership projects",
+      "public-private partnership center",
+      "indonesia public private partnership 2022"
+    ],
+    "google_autocomplete": [
+      "public private partnership indonesia pdf",
+      "public private partnership monitor indonesia",
+      "public private partnership bahasa indonesia",
+      "contoh public private partnership di indonesia",
+      "public private partnership examples",
+      "public private partnership rules",
+      "ppp indonesia vs vietnam",
+      "ppp indonesia vs malaysia",
+      "ppp comparison between countries",
+      "step in rights ppp"
+    ],
+    "derived_question_set_for_faq": [
+      "What is co-financing in an infrastructure public private partnership?",
+      "Which lenders fund PPP projects in Indonesia?",
+      "Can a foreign lender finance an Indonesian PPP project directly?",
+      "Does the Indonesian government guarantee cover the loan itself?",
+      "What are lender step-in rights in a PPP?",
+      "Can lenders replace the project company in Indonesia?",
+      "Are step-in rights enforceable under Indonesian law?",
+      "What happens if a PPP sponsor defaults?",
+      "How does Indonesia's PPP framework compare with Vietnam's and the Philippines'?",
+      "Which Southeast Asian country has the strongest PPP guarantee framework?",
+      "How long does a PPP project have to reach financing after signing?",
+      "What is an export credit agency and what does it fund?"
+    ]
+  },
+  "verified_facts": {
+    "lkpp_regulation_1_2026": {
+      "claim": "LKPP Regulation No. 1 of 2026 on Procurement Procedures for KPBU in Infrastructure Provision was enacted 30 July 2026 and entered into force on promulgation. It implements Article 40 of Perpres 38/2015 and replaces LKPP Regulation No. 1 of 2025. Scope: procurement of the Preparation Agency (Badan Penyiapan), procurement of the Implementing Business Entity (BUP), and establishment/use of preparation-agency and business-entity panels.",
+      "why_it_matters": "Roughly seven weeks old at the September run date and aimed squarely at foreign sponsors, contractors and financiers. No August article could have carried it. It is the single best freshness hook available to this cluster.",
+      "status": "REQUIRES PRIMARY VERIFICATION by the researcher at jdih.lkpp.go.id before any article states its contents. Currently sourced only to secondary legal commentary.",
+      "sources": ["https://www.mondaq.com/government-contracts-procurement-ppp/1838024/", "https://jdih.lkpp.go.id/"]
+    },
+    "fitch_pt_pii": {
+      "claim": "Fitch affirmed PT PII at BBB (LT FC and LC IDR) / F2 (ST FC) and AAA(idn) National Long-Term, Outlook Stable, on 12 February 2026. Assessed as a Government-Related Entity credit-linked to the Indonesian sovereign and 100% owned via the Ministry of Finance.",
+      "status": "Confirmed; no newer PT PII-specific rating action found as at 2026-09-17."
+    },
+    "fitch_sovereign_outlook_RED_FLAG": {
+      "claim": "Multiple media reports dated 4 March 2026 state Fitch maintained Indonesia's sovereign rating at BBB but revised the Outlook from Stable to NEGATIVE, citing policy uncertainty and reserve adequacy (reserves projected at 4.9 months of external payments in 2026 against a 5.0-month BBB median).",
+      "why_it_matters": "PT PII's rating is explicitly credit-linked to the sovereign. August's articles stated 'Outlook Stable' as at 12 Feb 2026. If the sovereign outlook moved in March 2026, repeating 'Stable' for PT PII without re-checking risks publishing a stale rating characterisation.",
+      "status": "UNVERIFIED AND CONTESTED. One source is headlined as Indonesian media reporting the change 'as officials seek confirmation'. This is media reporting, not a Fitch release read directly. MUST be confirmed against fitchratings.com before any September article characterises PT PII's or Indonesia's outlook. If unconfirmed, articles should cite the 12 February 2026 PT PII affirmation and simply not assert a current sovereign outlook.",
+      "sources": ["https://www.malaymail.com/news/money/2026/03/04/211293", "https://indonesiabusinesspost.com/6828/markets-and-finance/fitch-warns-indonesia-s-sovereign-rating-faces-pressure"]
+    },
+    "portfolio": {
+      "claim": "61 projects (38 KPBU + 23 non-KPBU) across 7 sectors, total investment value more than IDR 732 trillion, as at June 2026.",
+      "status": "Confirmed against ptpii.co.id/informasi-proyek. Always cite with the June 2026 reference date. Note the English hub contradicts this with 33 projects - do not use the English hub."
+    },
+    "regulations_in_force": {
+      "perpres_78_2010": "In force - infrastructure guarantee through a guarantee business entity (BUPI).",
+      "perpres_38_2015": "In force - primary KPBU/PPP legal basis.",
+      "pmk_68_2024": "In force (set 24 Sep 2024, effective 18 Oct 2024). Consolidates infrastructure guarantee, VGF, Availability Payment and project preparation facilities. Article 75 requires BUPI to publish an annual Risk Allocation Reference.",
+      "revoked_never_cite": "PMK 260/PMK.011/2010 and PMK 8/PMK.08/2016 were REVOKED by PMK 68/2024. Portals including kpbu.kemenkeu.go.id may still display the old pair - that is portal lag, not evidence of validity."
+    },
+    "eca_market": {
+      "claim": "Indonesia has been the second-largest user of export credit agency debt in Asia-Pacific, roughly USD 80 billion since 2018, led by the power sector (about USD 7 billion of export credits over the same period), then manufacturing and equipment (USD 2.4 billion) and telecommunications (USD 570 million).",
+      "status": "Secondary source (Trade Finance Global / ICIEC). Researcher must confirm the figure and attach its reference year before publication."
+    },
+    "step_in_indonesia": {
+      "claim": "Step-in rights are not a recognised form of security under Indonesian positive law. They are constructed via conditional assignment, which is contractual rather than proprietary security. On substitution, government approval is required and the substitute must satisfy eligibility, nationality, track-record, technical and financial tests.",
+      "status": "Multiple concurring sources (World Bank PPPLRC lender-issues page, Indonesian law journals, Indonesian secured-lending practice notes). Researcher to confirm against the PPPLRC page and Indonesian legal commentary."
+    },
+    "step_in_rarity": {
+      "claim": "Global Infrastructure Hub's PPP Contract Management study found lender step-in is a preventative mechanism intended to avoid termination, and identified no substitution examples across a study of 250 global PPP projects. Contractor-level insolvency (construction or O&M contractor) is more common than project-company insolvency.",
+      "status": "Fetched directly from managingppp.gihub.org/report/insolvency/background. Strong, quotable, counter-conventional.",
+      "source": "https://managingppp.gihub.org/report/insolvency/background"
+    },
+    "philippines_framework": {
+      "claim": "Republic Act No. 11966, the PPP Code of the Philippines, was signed 5 December 2023 and took effect 23 December 2023. Government Undertakings include Guarantees on Demand, Guarantees on Private Sector Return, Guarantees on Loan Repayment, VGF subsidy, and monetary payment of contingent liability through the PPP Risk Management Fund of the National Government.",
+      "status": "Well sourced (PPP Center, lawphil, Supreme Court e-library IRR). Researcher to confirm IRR status."
+    },
+    "vietnam_framework": {
+      "claim": "Vietnam's Law on PPP (Law No. 64/2020/QH14) was ratified 18 June 2020 and took effect 1 January 2021. It codifies a revenue risk-sharing mechanism: where actual revenue exceeds 125% of forecast the State receives 50% of the excess; where revenue falls below 75% of forecast the State shares 50% of the shortfall. Government may guarantee foreign-exchange balance for qualifying projects, capped at 30% of project revenue paid in VND, subject to National Assembly or Prime Minister approval.",
+      "status": "Well sourced. Researcher to confirm the 125/75 and 30% figures against the law text or World Bank PPPLRC Vietnam profile."
+    },
+    "guarantee_scope_practical": {
+      "claim": "In practice the PT PII guarantee is described as mainly covering termination payments arising from political risks, delay in tariff adjustment, and delay in land procurement.",
+      "status": "From A&O Shearman's Indonesia PPP note. Useful practical framing; researcher should reconcile with PT PII's own published risk allocation reference before stating as definitive."
+    },
+    "financing_deadline": {
+      "claim": "Indonesian PPP practice requires that within 12 months of PPP agreement signing the loan agreement has been signed and part of the loan disbursed.",
+      "status": "From A&O Shearman. Researcher to confirm against Perpres 38/2015 and PMK 68/2024 before it is stated as a hard rule."
+    }
+  },
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      { "id": "2026-08-public-private-partnership-01", "title": "Risk Allocation in Indonesia's Public Private Partnership: Who Carries What", "owns": "contractual risk matrix, guarantee boundary, explicit not-covered rows" },
+      { "id": "2026-08-public-private-partnership-02", "title": "Public Private Partnership Bankability: Reaching Financial Close in Indonesia", "owns": "signing to financial close sequence, lender diligence checklist, guarantor as rated counterparty" },
+      { "id": "2026-08-public-private-partnership-03", "title": "Public Private Partnership Guarantees: Indonesia's Cover vs MIGA and MDBs", "owns": "instrument comparison matrix vs MIGA PRI / MDB PRG / ECA cover, three-level stacking answer" }
+    ],
+    "burned_spines": ["risk matrix", "road to financial close", "product-by-product comparison against MIGA/MDB/ECA"],
+    "angles_selected_this_month": [
+      "ECA and DFI as CO-FINANCIERS in the capital stack (funding roles, explicitly not cover-product comparison)",
+      "Lender step-in, substitution and take-over procedure in practice",
+      "Indonesia vs regional national PPP frameworks (Philippines, Vietnam, India) - country architecture, not instrument comparison"
+    ],
+    "uncovered_angles_left_for_later": [
+      "Regional vs international lender appetite (domestic bank vs offshore lender on the same project)",
+      "Transition-finance and climate-linked guarantees",
+      "Sector-specific risk allocation templates (toll vs water vs power vs waste)",
+      "Debt pricing and cost-of-fund calculation; DSCR thresholds and tenor negotiation",
+      "COVID-era force majeure renegotiation",
+      "Dispute resolution, governing law and arbitration seat for foreign sponsors",
+      "Unsolicited proposals and the LKPP Regulation 1/2026 procurement route in depth"
+    ]
+  },
+  "cross_cluster_anticannibalization": {
+    "risk": "This month's Indonesian 'Pembiayaan Infrastruktur' cluster is taking multilateral co-financing and cost-of-capital angles, which touches brief 01.",
+    "separation_rule": "Brief 01 is written in English from the offshore participant's seat: ECA eligibility tied to procurement origin and equipment sourcing, foreign-currency tranches against IDR revenue, offshore security and intercreditor mechanics, and how the Indonesian guarantee sits under a cross-border stack. The Indonesian cluster takes co-financing from the national/macro funding-source seat and the domestic cost-of-capital seat. No shared spine, no translation relationship.",
+    "hard_rule": "No September English brief may be a translation of any Indonesian concept in this month's set."
+  }
+}

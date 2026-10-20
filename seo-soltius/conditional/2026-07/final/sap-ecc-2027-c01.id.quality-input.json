@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-07\\final\\sap-ecc-2027-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-06T19:12:47+07:00",
+    "word_count":  1020,
+    "paragraph_count":  18,
+    "sentence_count":  49,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.377,
+                        "sentence_burstiness":  1.183,
+                        "top30_vocab_share":  0.313,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.377 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Mainstream maintenance SAP ECC 6.0 (EHP 6–8) berakhir 31 Desember 2027, sementara EHP 0–5 sudah berakhir lebih dulu pada akhir 2025.",
+                                      "candidate_score":  42,
+                                      "web_search_query":  "\"Mainstream maintenance SAP ECC 6.0 (EHP 6–8) berakhir 31 Desember 2027, sementara EHP 0–5 sudah berakhir lebih dulu pada\""
+                                  },
+                                  {
+                                      "passage":  "\u003e **Ringkasnya:** SAP ECC 2027 adalah tenggat berakhirnya *mainstream maintenance* SAP ECC 6.0 (SAP Business Suite 7) pada 31 Desember 2027, berlaku untuk Enhancement Package 6–8.",
+                                      "candidate_score":  39,
+                                      "web_search_query":  "\"\u003e **Ringkasnya:** SAP ECC 2027 adalah tenggat berakhirnya *mainstream maintenance* SAP ECC 6.0 (SAP Business Suite 7) pa\""
+                                  },
+                                  {
+                                      "passage":  "Batasan versinya sering terlewat: EHP 0–5 sudah lebih dulu kehilangan dukungan pada akhir 2025, sehingga opsi perpanjangan hanya terbuka bagi EHP 6–8 ([SAP, support.sap.com, diakses Juli 2026](https://support.sap.com/en/release-upgrade-maintenance/maintenance-information/maintenance-strategy/s4hana-business-suite7.html)).",
+                                      "candidate_score":  34,
+                                      "web_search_query":  "\"Batasan versinya sering terlewat: EHP 0–5 sudah lebih dulu kehilangan dukungan pada akhir 2025, sehingga opsi perpanjang\""
+                                  },
+                                  {
+                                      "passage":  "Medco Energi, lewat keterbukaan informasi bursa Juni 2026, mengalokasikan USD 1,75 juta untuk migrasi S/4HANA dua anak usahanya, dimulai 2026 dengan target selesai 2027.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Medco Energi, lewat keterbukaan informasi bursa Juni 2026, mengalokasikan USD 1,75 juta untuk migrasi S/4HANA dua anak u\""
+                                  },
+                                  {
+                                      "passage":  "Menurut Gartner, per akhir 2024 baru 39% dari sekitar 35.000 pelanggan ECC yang sudah migrasi ke S/4HANA ([CIO.com, Juni 2025](https://www.cio.com/article/4000543/nearly-half-of-sap-ecc-customers-may-stick-with-legacy-erp-beyond-2027.html)).",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Menurut Gartner, per akhir 2024 baru 39% dari sekitar 35.000 pelanggan ECC yang sudah migrasi ke S/4HANA ([CIO.com, Juni\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Kapan dukungan SAP ECC benar-benar berakhir?",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Kapan dukungan SAP ECC benar-benar berakhir?\""
+                                  },
+                                  {
+                                      "passage":  "SAP menawarkan extended maintenance berbayar hingga akhir 2030, dan bagi pelanggan kompleks berkontrak RISE tersedia transition option hingga 2033.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"SAP menawarkan extended maintenance berbayar hingga akhir 2030, dan bagi pelanggan kompleks berkontrak RISE tersedia tra\""
+                                  },
+                                  {
+                                      "passage":  "Gartner memproyeksikan sekitar 17.000 pelanggan ECC, hampir separuh basis, belum migrasi hingga 2027.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Gartner memproyeksikan sekitar 17.000 pelanggan ECC, hampir separuh basis, belum migrasi hingga 2027.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

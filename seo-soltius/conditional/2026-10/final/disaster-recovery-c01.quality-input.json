@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-10\\final\\disaster-recovery-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-10-08T17:30:54+07:00",
+    "word_count":  1252,
+    "paragraph_count":  21,
+    "sentence_count":  70,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.318,
+                        "sentence_burstiness":  0.724,
+                        "top30_vocab_share":  0.287,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.318 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Contohnya, RPO 1 jam berarti backup minimal tiap jam, sementara RTO 4 jam berarti sistem wajib daring kembali dalam 4 jam.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Contohnya, RPO 1 jam berarti backup minimal tiap jam, sementara RTO 4 jam berarti sistem wajib daring kembali dalam 4 ja\""
+                                  },
+                                  {
+                                      "passage":  "1 jam) | Frekuensi backup/replikasi naik; biaya ikut naik | | **RTO** (Recovery Time Objective) | Toleransi lama sistem berhenti | Waktu (mis.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"1 jam) | Frekuensi backup/replikasi naik; biaya ikut naik | | **RTO** (Recovery Time Objective) | Toleransi lama sistem \""
+                                  },
+                                  {
+                                      "passage":  "Jika RTO 4 jam dan gangguan terjadi pukul 10.30, sistem wajib daring kembali paling lambat pukul 14.30.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Jika RTO 4 jam dan gangguan terjadi pukul 10.30, sistem wajib daring kembali paling lambat pukul 14.30.\""
+                                  },
+                                  {
+                                      "passage":  "11/POJK.03/2022 mewajibkan bank menempatkan Pusat Data dan DRC di wilayah Indonesia, kecuali memperoleh izin OJK untuk penempatan di luar negeri.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"11/POJK.03/2022 mewajibkan bank menempatkan Pusat Data dan DRC di wilayah Indonesia, kecuali memperoleh izin OJK untuk p\""
+                                  },
+                                  {
+                                      "passage":  "4 jam) | Butuh infrastruktur siaga dan otomasi; biaya naik | Contohnya mudah dihitung.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"4 jam) | Butuh infrastruktur siaga dan otomasi; biaya naik | Contohnya mudah dihitung.\""
+                                  },
+                                  {
+                                      "passage":  "Jika RPO 1 jam dengan backup terakhir pukul 10.00, lalu gangguan menyerang pukul 10.59, data yang hilang paling banyak 59 menit, masih dalam ambang RPO.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Jika RPO 1 jam dengan backup terakhir pukul 10.00, lalu gangguan menyerang pukul 10.59, data yang hilang paling banyak 5\""
+                                  },
+                                  {
+                                      "passage":  "Tetapkan RPO dan RTO per sistem berdasarkan dampak bisnisnya, bukan menyamaratakan satu angka.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Tetapkan RPO dan RTO per sistem berdasarkan dampak bisnisnya, bukan menyamaratakan satu angka.\""
+                                  },
+                                  {
+                                      "passage":  "Cloud menyediakan *building block* seperti multi-region, replikasi, dan *failover*, tetapi RPO/RTO tetap hasil desain.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Cloud menyediakan *building block* seperti multi-region, replikasi, dan *failover*, tetapi RPO/RTO tetap hasil desain.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

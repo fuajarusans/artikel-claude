@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ringkasan Review — Artikel Conditional September 2026 (SOLTIUS)</title>
+<style>
+  :root{
+    --bg:#f4f6fb; --card:#ffffff; --ink:#0f1e3d; --muted:#5b6b8c; --line:#e2e8f4;
+    --brand:#0a4bce; --brand-ink:#083a9e; --ok:#12855a; --ok-bg:#e6f6ef;
+    --warn:#b7791f; --warn-bg:#fdf4e3; --hot:#c2410c; --hot-bg:#fdece2;
+    --pill:#eef2fb; --shadow:0 1px 3px rgba(15,30,61,.08),0 8px 24px rgba(15,30,61,.05);
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    line-height:1.55;-webkit-font-smoothing:antialiased}
+  a{color:var(--brand);text-decoration:none}
+  a:hover{text-decoration:underline}
+  .wrap{max-width:1100px;margin:0 auto;padding:0 20px 64px}
+
+  header{background:linear-gradient(135deg,#0a4bce 0%,#0b3aa0 100%);color:#fff;
+    padding:38px 0 30px;margin-bottom:28px;box-shadow:var(--shadow)}
+  header .wrap{padding-bottom:0}
+  .eyebrow{font-size:12px;letter-spacing:.14em;text-transform:uppercase;opacity:.82;margin:0 0 8px}
+  header h1{margin:0 0 6px;font-size:27px;line-height:1.25;font-weight:700}
+  header p{margin:0;opacity:.9;font-size:15px}
+
+  .stats{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:22px 0 4px}
+  .stat{background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.18);
+    border-radius:12px;padding:14px 16px}
+  .stat b{display:block;font-size:24px;line-height:1.1}
+  .stat span{font-size:12px;opacity:.85}
+
+  .note{background:#fff;border:1px solid var(--line);border-left:4px solid var(--brand);
+    border-radius:10px;padding:14px 18px;margin:0 0 26px;font-size:14px;color:var(--muted);box-shadow:var(--shadow)}
+  .note b{color:var(--ink)}
+
+  h2.section{font-size:16px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);
+    margin:34px 0 14px;font-weight:700}
+
+  .tablecard{background:var(--card);border:1px solid var(--line);border-radius:14px;
+    overflow:hidden;box-shadow:var(--shadow)}
+  .scroll{overflow-x:auto}
+  table{border-collapse:collapse;width:100%;min-width:720px;font-size:14px}
+  thead th{background:#f7f9fe;text-align:left;padding:12px 14px;font-size:11px;
+    letter-spacing:.05em;text-transform:uppercase;color:var(--muted);border-bottom:1px solid var(--line);white-space:nowrap}
+  tbody td{padding:12px 14px;border-bottom:1px solid var(--line);vertical-align:middle}
+  tbody tr:last-child td{border-bottom:0}
+  tbody tr:hover{background:#fafbff}
+  td.num{color:var(--muted);font-variant-numeric:tabular-nums;text-align:center;width:34px}
+  td.ttl a{font-weight:600}
+  td.kw{color:var(--muted);font-size:13px}
+  .center{text-align:center}
+  .tnum{font-variant-numeric:tabular-nums}
+
+  .pill{display:inline-block;padding:2px 9px;border-radius:999px;font-size:12px;font-weight:600;white-space:nowrap}
+  .pill.ok{background:var(--ok-bg);color:var(--ok)}
+  .pill.rw{background:#e8eefc;color:var(--brand-ink)}
+  .pill.new{background:var(--pill);color:var(--muted)}
+  .dot{font-variant-numeric:tabular-nums;font-weight:600;padding:2px 8px;border-radius:6px}
+  .dot.g{background:var(--ok-bg);color:var(--ok)}
+  .dot.a{background:var(--warn-bg);color:var(--warn)}
+  .dot.o{background:var(--hot-bg);color:var(--hot)}
+
+  .cards{display:grid;grid-template-columns:repeat(2,1fr);gap:16px;margin-top:6px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;
+    padding:18px 18px 16px;box-shadow:var(--shadow);display:flex;flex-direction:column}
+  .card .top{display:flex;align-items:flex-start;gap:10px;margin-bottom:8px}
+  .card .idx{flex:0 0 auto;width:26px;height:26px;border-radius:8px;background:var(--brand);color:#fff;
+    font-size:13px;font-weight:700;display:flex;align-items:center;justify-content:center;margin-top:2px}
+  .card h3{margin:0;font-size:15.5px;line-height:1.35;font-weight:650}
+  .card .kw{margin:2px 0 0;font-size:12.5px;color:var(--muted)}
+  .card .desc{font-size:13.5px;color:#3d4a66;margin:6px 0 12px;flex:1}
+  .meta{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px}
+  .chip{font-size:11.5px;color:var(--muted);background:#f4f7fd;border:1px solid var(--line);
+    border-radius:7px;padding:2px 8px}
+  .chip b{color:var(--ink);font-weight:650}
+  .files{display:flex;flex-wrap:wrap;gap:8px;border-top:1px dashed var(--line);padding-top:11px}
+  .files a{font-size:12.5px;font-weight:600;padding:5px 11px;border-radius:8px;
+    background:var(--pill);color:var(--brand-ink);display:inline-flex;align-items:center;gap:5px}
+  .files a.secondary{background:#f4f6fb;color:var(--muted);font-weight:500}
+  .files a:hover{background:#e4ebfb;text-decoration:none}
+
+  .legend{display:flex;flex-wrap:wrap;gap:18px;font-size:13px;color:var(--muted);margin:14px 2px 0}
+  .legend b{color:var(--ink)}
+
+  footer{margin-top:38px;background:#fff;border:1px solid var(--line);border-radius:14px;
+    padding:22px 24px;box-shadow:var(--shadow)}
+  footer h3{margin:0 0 12px;font-size:16px}
+  footer ol{margin:0;padding-left:20px;color:#3d4a66;font-size:14px}
+  footer li{margin:6px 0}
+  footer code{background:#f2f5fb;border:1px solid var(--line);border-radius:5px;padding:1px 6px;font-size:12.5px}
+
+  @media(max-width:760px){
+    .stats{grid-template-columns:repeat(2,1fr)}
+    .cards{grid-template-columns:1fr}
+    header h1{font-size:22px}
+  }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <p class="eyebrow">WEBARQ Promote · SOLTIUS · Batch Conditional</p>
+    <h1>Ringkasan Review — 14 Artikel SEO September 2026</h1>
+    <p>Format ringkas 800–1000 kata · on-point, definisi tunggal, tanpa image placeholder · siap direview sebelum commit ke history.</p>
+    <div class="stats">
+      <div class="stat"><b>14</b><span>artikel selesai</span></div>
+      <div class="stat"><b>14/14</b><span>editor approve · validator pass</span></div>
+      <div class="stat"><b>831–991</b><span>rentang jumlah kata</span></div>
+      <div class="stat"><b>0,00</b><span>plagiarisme (median)</span></div>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+
+  <div class="note">
+    <b>Status:</b> semua artikel lolos gate kualitas (editor <span class="pill ok">approve</span> + validator <span class="pill ok">pass</span>).
+    <b>Curator belum dijalankan</b> — belum ada yang di-commit ke <code>articles_history</code>; semua menunggu persetujuan Anda.
+    No.4 (Talent Acquisition) adalah <b>rewrite</b> halaman lama (URL/slug dipertahankan).
+    No.5 (Cloud Deployment) lolos setelah 1 putaran revisi ritme paragraf (fakta tidak berubah).
+    Topik yang berdekatan dengan batch Juli/Agustus dibedakan tegas (spoke cloud deployment, argumen timing migrasi 2026, Clean Core how-to, SAP Build Apps spesifik produk, 10 Tanda ERP generik).
+  </div>
+
+  <h2 class="section">Tabel ringkas</h2>
+  <div class="tablecard"><div class="scroll">
+    <table id="tbl">
+      <thead>
+        <tr>
+          <th>#</th><th>Judul / Keyword</th><th class="center">Tipe</th>
+          <th class="center">Kata</th><th class="center">Skor AI</th><th class="center">Plagiat</th>
+          <th class="center">Editor</th><th class="center">Validator</th><th class="center">CTA</th>
+        </tr>
+      </thead>
+      <tbody id="tbody"></tbody>
+    </table>
+  </div></div>
+  <div class="legend">
+    <span><b>Skor AI</b> — ambang <i>revise</i> ≥ 0,30 · <span class="dot g">&lt;0,10</span> <span class="dot a">0,10–0,20</span> <span class="dot o">0,20–0,30</span></span>
+    <span><b>Plagiat</b> — 0 = tidak ada kecocokan verbatim di halaman non-Soltius</span>
+  </div>
+
+  <h2 class="section">Detail per artikel</h2>
+  <div class="cards" id="cards"></div>
+
+  <footer>
+    <h3>Langkah berikutnya</h3>
+    <ol>
+      <li><b>Review</b> — klik tautan <b>Word (.docx)</b> tiap kartu untuk membuka file Word final. Butuh laporan detail? Buka <b>QC</b> (catatan editor) atau <b>Quality</b> (laporan validator).</li>
+      <li><b>Revisi bila perlu</b> — sebutkan nomor artikelnya; aturan gaya batch ada di <code>style_addendum.md</code>.</li>
+      <li><b>Commit + history</b> — setelah disetujui, jalankan curator untuk mencatat ke <code>articles_history</code> (type: conditional). Versi <code>.docx</code> sudah tersedia.</li>
+    </ol>
+  </footer>
+
+</div>
+
+<script>
+const A = [
+  {n:1, id:"agentic-ai-c01", t:"Apa Itu Agentic AI dan Potensinya untuk Otomasi Bisnis", kw:"agentic ai", w:909, ai:0.04, pl:0.00, type:"new", cta:"SAP Business AI (Joule)", d:"Agentic AI adalah AI yang merencanakan dan bertindak, bukan sekadar menjawab. Kenali bedanya dari AI generatif, otomasi lintas fungsi, dan contoh SAP Joule."},
+  {n:2, id:"markup-vs-margin-c01", t:"Markup vs Margin: Perbedaan dan Cara Menghitung Harga Jual", kw:"markup dan margin", w:947, ai:0.04, pl:0.02, type:"new", cta:"SAP S/4HANA Retail", d:"Markup dan margin sama-sama mengukur laba tetapi beda basis hitung. Pahami rumus, contoh, konversi, dan kapan memakai keduanya untuk menetapkan harga jual."},
+  {n:3, id:"cara-clean-core-c01", t:"Cara Menerapkan SAP Clean Core: Langkah Praktis untuk Migrasi", kw:"cara menerapkan clean core", w:991, ai:0.19, pl:0.00, type:"new", cta:"SAP Clean Core / BTP", d:"Cara menerapkan SAP Clean Core saat migrasi S/4HANA: audit custom code, pilih extensibility in-app vs side-by-side BTP, tetapkan target, jaga lewat tata kelola."},
+  {n:4, id:"talent-acquisition-c01", t:"6 Tugas Pokok Talent Acquisition (Update 2026)", kw:"tugas talent acquisition", w:831, ai:0.08, pl:0.00, type:"rewrite", cta:"SAP SuccessFactors (Recruiting)", d:"Talent acquisition adalah fungsi strategis merekrut talenta. Pahami 6 tugas pokok talent acquisition, bedanya dengan rekrutmen, dan peran sistem rekrutmen."},
+  {n:5, id:"cloud-deployment-c01", t:"Public vs Private vs Hybrid Cloud: Perbedaan dan Cara Memilih", kw:"hybrid cloud", w:905, ai:0.08, pl:0.00, type:"new", cta:"RISE with SAP", d:"Bandingkan public, private, dan hybrid cloud lewat tabel head-to-head dan lima kriteria memilih, plus kaitannya dengan RISE with SAP untuk sistem inti."},
+  {n:6, id:"laporan-arus-kas-c01", t:"Laporan Arus Kas: Pengertian, Metode Langsung & Tidak Langsung", kw:"laporan arus kas", w:989, ai:0.08, pl:0.00, type:"new", cta:"SAP S/4HANA Finance", d:"Laporan arus kas adalah laporan keuangan yang melacak kas masuk dan keluar. Pahami tiga aktivitas, beda metode langsung vs tidak langsung, plus contoh angka."},
+  {n:7, id:"migrasi-sap-2026-c01", t:"2027 Sudah Dekat: Mengapa Migrasi SAP Sebaiknya Dimulai 2026", kw:"migrasi sap 2026", w:859, ai:0.04, pl:0.00, type:"new", cta:"RISE with SAP", d:"Migrasi SAP 2026: runway 18–36 bulan vs tenggat ECC 31 Des 2027 membuat menunda mahal. Simak alasan memulai tahun ini dan kaitannya ke RISE with SAP."},
+  {n:8, id:"manpower-planning-c01", t:"Apa Itu Manpower Planning dan Cara Menyusunnya", kw:"manpower planning", w:848, ai:0.04, pl:0.00, type:"new", cta:"SAP SuccessFactors", d:"Manpower planning adalah perencanaan kebutuhan tenaga kerja. Pahami 4 langkah menyusunnya: forecasting demand, supply, gap analysis, dan rencana aksi."},
+  {n:9, id:"rise-manufaktur-c01", t:"RISE with SAP untuk Manufaktur: Manfaat dan Pertimbangan Migrasi", kw:"rise with sap manufaktur", w:846, ai:0.15, pl:0.00, type:"new", cta:"RISE with SAP / Cloud ERP Private", d:"RISE with SAP untuk manufaktur: manfaat produksi (PP real-time, MES, OEE) dan pertimbangan migrasi khas pabrik: kontinuitas, integrasi mesin, custom code."},
+  {n:10, id:"eoq-c01", t:"Economic Order Quantity (EOQ): Pengertian, Rumus, dan Manfaatnya", kw:"economic order quantity", w:942, ai:0.04, pl:0.02, type:"new", cta:"SAP IBP", d:"Economic order quantity (EOQ) adalah kuantitas pesan paling ekonomis. Pahami rumus EOQ √(2DS/H), contoh perhitungan, trade-off biaya, dan asumsinya."},
+  {n:11, id:"sap-build-apps-c01", t:"SAP Build Apps: Membuat Aplikasi Bisnis dengan Pendekatan Low-Code", kw:"sap build apps", w:887, ai:0.08, pl:0.00, type:"new", cta:"SAP Build / BTP", d:"SAP Build Apps adalah visual app builder low-code SAP. Pahami 6 langkah membangun aplikasi bisnis, kapan pakai Process Automation vs Work Zone, dan status 2026."},
+  {n:12, id:"lean-manufacturing-c01", t:"Lean Manufacturing: Prinsip, Manfaat, dan Penerapannya", kw:"lean manufacturing", w:933, ai:0.04, pl:0.00, type:"new", cta:"SAP Digital Manufacturing", d:"Lean manufacturing adalah metode menghilangkan pemborosan (7 waste) lewat 5 prinsip lean dan kaizen. Pelajari manfaat serta cara penerapannya di pabrik."},
+  {n:13, id:"lift-shift-vs-replatform-c01", t:"Lift & Shift vs Re-Platform: Strategi Migrasi SAP ke IaaS", kw:"lift and shift sap", w:893, ai:0.19, pl:0.02, type:"new", cta:"SAP on AWS/Azure/GCP", d:"Lift and shift atau re-platform untuk migrasi SAP ke IaaS? Bandingkan perubahan sistem, teknik, risiko cutover, dan kapan tiap strategi masuk akal."},
+  {n:14, id:"tanda-butuh-erp-c01", t:"10 Tanda Perusahaan Anda Membutuhkan Sistem ERP", kw:"tanda perusahaan butuh erp", w:985, ai:0.04, pl:0.00, type:"new", cta:"SAP Business One", d:"10 tanda perusahaan butuh ERP, dari data silo antar-divisi sampai tutup buku molor. Plus kapan waktu tepat beralih dan kapan Anda belum perlu ERP."}
+];
+
+const F = "final/";
+const fmt = v => v.toFixed(2).replace(".", ",");
+const aiClass = v => v < 0.10 ? "g" : (v < 0.20 ? "a" : "o");
+const typePill = t => t === "rewrite"
+  ? '<span class="pill rw">rewrite</span>'
+  : (t === "pillar" ? '<span class="pill rw">pillar</span>' : '<span class="pill new">baru</span>');
+
+const tbody = document.getElementById("tbody");
+tbody.innerHTML = A.map(a => `
+  <tr>
+    <td class="num">${a.n}</td>
+    <td class="ttl"><a href="${F}${a.id}.id.docx">${a.t}</a><div class="kw">${a.kw}</div></td>
+    <td class="center">${typePill(a.type)}</td>
+    <td class="center tnum">${a.w}</td>
+    <td class="center"><span class="dot ${aiClass(a.ai)}">${fmt(a.ai)}</span></td>
+    <td class="center"><span class="dot ${a.pl===0?'g':'a'}">${fmt(a.pl)}</span></td>
+    <td class="center"><span class="pill ok">approve</span></td>
+    <td class="center"><span class="pill ok">pass</span></td>
+    <td class="center kw">${a.cta}</td>
+  </tr>`).join("");
+
+const cards = document.getElementById("cards");
+cards.innerHTML = A.map(a => `
+  <div class="card">
+    <div class="top">
+      <div class="idx">${a.n}</div>
+      <div>
+        <h3>${a.t}</h3>
+        <p class="kw">Keyword: <b>${a.kw}</b></p>
+      </div>
+    </div>
+    <p class="desc">${a.d}</p>
+    <div class="meta">
+      <span class="chip"><b>${a.w}</b> kata</span>
+      <span class="chip">Skor AI <b>${fmt(a.ai)}</b></span>
+      <span class="chip">Plagiat <b>${fmt(a.pl)}</b></span>
+      <span class="chip">CTA <b>${a.cta}</b></span>
+      ${typePill(a.type)}
+    </div>
+    <div class="files">
+      <a href="${F}${a.id}.id.docx">📝 Word (.docx)</a>
+      <a class="secondary" href="${F}${a.id}.id.md">Markdown</a>
+      <a class="secondary" href="${F}${a.id}.qc.md">QC editor</a>
+      <a class="secondary" href="${F}${a.id}.quality.md">Quality</a>
+    </div>
+  </div>`).join("");
+</script>
+</body>
+</html>

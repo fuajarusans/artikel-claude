@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-09\\final\\perusahaan-cng-indonesia-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-21T10:58:06+07:00",
+    "word_count":  1561,
+    "paragraph_count":  26,
+    "sentence_count":  90,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.401,
+                        "sentence_burstiness":  0.873,
+                        "top30_vocab_share":  0.291,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.401 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Pada 29 Juni 2026, Kementerian ESDM [menurunkan harga LNG non-HGBT](https://www.esdm.go.id/id/media-center/arsip-berita/selamatkan-industri-menteri-esdm-turunkan-harga-lng-industri) untuk Jawa Barat, Banten, dan DKI Jakarta dari USD 20,57 menjadi USD 13/MMBTU.",
+                                      "candidate_score":  34,
+                                      "web_search_query":  "\"Pada 29 Juni 2026, Kementerian ESDM [menurunkan harga LNG non-HGBT](https://www.esdm.go.id/id/media-center/arsip-berita/\""
+                                  },
+                                  {
+                                      "passage":  "Untuk sebagian sektor industri, acuannya adalah [Harga Gas Bumi Tertentu (HGBT)](https://www.esdm.go.id/id/media-center/arsip-berita/skema-baru-hgbt-perkuat-daya-saing-industri-dan-efisiensi-anggaran-negara): USD 7/MMBTU untuk bahan bakar dan USD 6,5/MMBTU untuk bahan baku (Kepmen ESDM No.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Untuk sebagian sektor industri, acuannya adalah [Harga Gas Bumi Tertentu (HGBT)](https://www.esdm.go.id/id/media-center/\""
+                                  },
+                                  {
+                                      "passage":  "Switching cost bersifat kualitatif: retrofit atau sertifikasi ulang Pressure Reduction System (PRS) bila spesifikasi berbeda, downtime selama transisi, kurva belajar tim, serta kewajiban klausul exit.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Switching cost bersifat kualitatif: retrofit atau sertifikasi ulang Pressure Reduction System (PRS) bila spesifikasi ber\""
+                                  },
+                                  {
+                                      "passage":  "Klausul exit mengatur kewajiban penyedia mendukung transisi tertib saat kontrak berakhir: masa transisi (praktik lintas industri umumnya 3-6 bulan), transfer data telemetri, dan kelanjutan kualitas layanan.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Klausul exit mengatur kewajiban penyedia mendukung transisi tertib saat kontrak berakhir: masa transisi (praktik lintas \""
+                                  },
+                                  {
+                                      "passage":  "Penyedia dengan telemetri real-time seperti PGN Gagas, termasuk via [layanan Gaslink untuk industri \u0026 komersial](https://gagas.co.id/gaslink/), memudahkan penyusunan scorecard berbasis data, bukan klaim.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Penyedia dengan telemetri real-time seperti PGN Gagas, termasuk via [layanan Gaslink untuk industri \u0026 komersial](https:/\""
+                                  },
+                                  {
+                                      "passage":  "## Kesimpulan Masa operasi, bukan masa tender, adalah tempat kontrak pasokan gas benar-benar diuji.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Kesimpulan Masa operasi, bukan masa tender, adalah tempat kontrak pasokan gas benar-benar diuji.\""
+                                  },
+                                  {
+                                      "passage":  "Rujuk kebijakan resmi yang relevan bagi segmen Anda, misalnya HGBT USD 6,5-7/MMBTU untuk tujuh sektor industri tertentu (Kepmen ESDM No.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Rujuk kebijakan resmi yang relevan bagi segmen Anda, misalnya HGBT USD 6,5-7/MMBTU untuk tujuh sektor industri tertentu \""
+                                  },
+                                  {
+                                      "passage":  "Praktik umum manajemen vendor merekomendasikan tinjauan operasional bulanan, QBR strategis triwulanan, dan audit SLA menyeluruh setahun sekali, terutama menjelang perpanjangan.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Praktik umum manajemen vendor merekomendasikan tinjauan operasional bulanan, QBR strategis triwulanan, dan audit SLA men\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

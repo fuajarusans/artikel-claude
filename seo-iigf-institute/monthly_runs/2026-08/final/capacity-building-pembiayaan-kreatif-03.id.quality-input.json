@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-iigf-institute\\monthly_runs\\2026-08\\final\\capacity-building-pembiayaan-kreatif-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-12T15:16:36+07:00",
+    "word_count":  1607,
+    "paragraph_count":  16,
+    "sentence_count":  82,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.504,
+                        "sentence_burstiness":  0.899,
+                        "top30_vocab_share":  0.263,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Kantor Bersama KPBU adalah forum koordinasi tujuh kementerian/lembaga: Kemenko Perekonomian, Kemenko Marves, Kemendagri, Kemenkeu, Bappenas selaku sekretariat, Kementerian Investasi/BKPM, dan LKPP.",
+                                      "candidate_score":  34,
+                                      "web_search_query":  "\"Kantor Bersama KPBU adalah forum koordinasi tujuh kementerian/lembaga: Kemenko Perekonomian, Kemenko Marves, Kemendagri,\""
+                                  },
+                                  {
+                                      "passage":  "**Sertifikasi profesional.** CP3P (*Certified Public-Private Partnership Professional*) dikembangkan bersama ADB, EBRD, IDB, IsDB, dan World Bank Group dengan dukungan pendanaan PPIAF.",
+                                      "candidate_score":  32,
+                                      "web_search_query":  "\"**Sertifikasi profesional.** CP3P (*Certified Public-Private Partnership Professional*) dikembangkan bersama ADB, EBRD, \""
+                                  },
+                                  {
+                                      "passage":  "Sebagai satu contoh, proyek KPBU persampahan di Balikpapan menyepakati pendampingan Fasilitas Penyiapan Proyek selama 36 bulan sesuai kesepakatan induknya (kpbu.kemenkeu.go.id, 2023), bukan angka rata-rata.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"Sebagai satu contoh, proyek KPBU persampahan di Balikpapan menyepakati pendampingan Fasilitas Penyiapan Proyek selama 36\""
+                                  },
+                                  {
+                                      "passage":  "APMG International memiliki programnya dan menganugerahkan kredensialnya, sedangkan pelatihannya diselenggarakan jaringan *Accredited Training Organization* (ATO); IIGF Institute tercatat sebagai ATO APMG pertama di Indonesia sejak 2019 (institute.iigf.co.id, 2026).",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"APMG International memiliki programnya dan menganugerahkan kredensialnya, sedangkan pelatihannya diselenggarakan jaringa\""
+                                  },
+                                  {
+                                      "passage":  "Ujian Foundation berformat 50 soal pilihan ganda dalam 40 menit, nilai lulus 50 persen.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Ujian Foundation berformat 50 soal pilihan ganda dalam 40 menit, nilai lulus 50 persen.\""
+                                  },
+                                  {
+                                      "passage":  "## Peta kompetensi berdasarkan tahap siklus proyek KPBU Siklus proyek KPBU resmi terdiri atas empat tahap: perencanaan, penyiapan, transaksi, dan manajemen kontrak (kpbu.kemenkeu.go.id, 2026).",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"## Peta kompetensi berdasarkan tahap siklus proyek KPBU Siklus proyek KPBU resmi terdiri atas empat tahap: perencanaan, \""
+                                  },
+                                  {
+                                      "passage":  "Fasilitas Penyiapan Proyek atau *Project Development Facility* adalah dukungan pendanaan Kementerian Keuangan untuk membantu PJPK menyusun Dokumen Pra-Studi Kelayakan pada tahap penyiapan dan transaksi.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Fasilitas Penyiapan Proyek atau *Project Development Facility* adalah dukungan pendanaan Kementerian Keuangan untuk memb\""
+                                  },
+                                  {
+                                      "passage":  "[APMG International secara eksplisit membuka jalur belajar mandiri](https://ppp-certification.com/certification) untuk ketiga ujian CP3P memakai *PPP Guide*, tanpa kewajiban mengikuti kursus (APMG International, 2026).",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"[APMG International secara eksplisit membuka jalur belajar mandiri](https://ppp-certification.com/certification) untuk k\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

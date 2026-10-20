@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-10\\final\\gasku-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-28T19:34:52+07:00",
+    "word_count":  1498,
+    "paragraph_count":  22,
+    "sentence_count":  88,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.431,
+                        "sentence_burstiness":  0.714,
+                        "top30_vocab_share":  0.29,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.431 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Penggunaan CNG pada kendaraan bermotor diatur Permenhub PM 39/2012 (masih berlaku), sementara komponen converter kit wajib memenuhi Permenperin No.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Penggunaan CNG pada kendaraan bermotor diatur Permenhub PM 39/2012 (masih berlaku), sementara komponen converter kit waj\""
+                                  },
+                                  {
+                                      "passage":  "## Apa Itu Diesel Dual Fuel (DDF) dan Kenapa Berbeda dari Konversi Mobil Bensin?",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## Apa Itu Diesel Dual Fuel (DDF) dan Kenapa Berbeda dari Konversi Mobil Bensin?\""
+                                  },
+                                  {
+                                      "passage":  "Studi teknik dual-fuel melaporkan rasio substitusi 30–90% berbasis energi, tergantung beban dan putaran mesin; pada putaran rendah bisa turun hingga sekitar 10%.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Studi teknik dual-fuel melaporkan rasio substitusi 30–90% berbasis energi, tergantung beban dan putaran mesin; pada puta\""
+                                  },
+                                  {
+                                      "passage":  "Saat peresmian Desember 2022, pemerintah juga menyatakan DDF pada armada Pertamina telah memenuhi standar keselamatan lintas kementerian: ESDM, Ketenagakerjaan, Perhubungan, dan Perindustrian.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"Saat peresmian Desember 2022, pemerintah juga menyatakan DDF pada armada Pertamina telah memenuhi standar keselamatan li\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai anak usaha PGN, bagian dari Subholding Gas Pertamina, PGN Gagas berperan di sisi pasokan, memastikan ketersediaan BBG lewat jaringan SPBG dan moda pengisian, bukan sebagai pemasang kit.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Sebagai anak usaha PGN, bagian dari Subholding Gas Pertamina, PGN Gagas berperan di sisi pasokan, memastikan ketersediaa\""
+                                  },
+                                  {
+                                      "passage":  "Uji domestik pada truk \"engkel\" mencatat rata-rata sekitar 45% solar berbanding 55% gas.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Uji domestik pada truk  engkel  mencatat rata-rata sekitar 45% solar berbanding 55% gas.\""
+                                  },
+                                  {
+                                      "passage":  "Jawaban teknisnya bernama Diesel Dual Fuel (DDF): sebagian solar digantikan gas, sisanya tetap jadi pemantik.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Jawaban teknisnya bernama Diesel Dual Fuel (DDF): sebagian solar digantikan gas, sisanya tetap jadi pemantik.\""
+                                  },
+                                  {
+                                      "passage":  "Uji domestik pada truk \"engkel\" mencatat komposisi rata-rata sekitar 45% solar berbanding 55% gas.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Uji domestik pada truk  engkel  mencatat komposisi rata-rata sekitar 45% solar berbanding 55% gas.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

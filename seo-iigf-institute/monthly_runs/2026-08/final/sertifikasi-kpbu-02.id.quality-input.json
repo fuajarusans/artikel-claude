@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-iigf-institute\\monthly_runs\\2026-08\\final\\sertifikasi-kpbu-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-12T15:36:36+07:00",
+    "word_count":  1525,
+    "paragraph_count":  17,
+    "sentence_count":  84,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.479,
+                        "sentence_burstiness":  1.055,
+                        "top30_vocab_share":  0.331,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Peraturannya ditetapkan 22 September 2023 serta diundangkan dan berlaku pada 29 September 2023 ([JDIH Bappenas](https://jdih.bappenas.go.id/peraturan/detailperaturan/3383/), Berita Negara RI Tahun 2023 No.",
+                                      "candidate_score":  40,
+                                      "web_search_query":  "\"Peraturannya ditetapkan 22 September 2023 serta diundangkan dan berlaku pada 29 September 2023 ([JDIH Bappenas](https://\""
+                                  },
+                                  {
+                                      "passage":  "Jalur nasional menguji kompetensi kerja terhadap skema domestik lewat Lembaga Sertifikasi Profesi (LSP); jalur internasional menguji penguasaan PPP Guide lewat tiga ujian APMG.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Jalur nasional menguji kompetensi kerja terhadap skema domestik lewat Lembaga Sertifikasi Profesi (LSP); jalur internasi\""
+                                  },
+                                  {
+                                      "passage":  "\u003e **Ringkasnya:** Sertifikasi KPBU (*Kerja Sama Pemerintah dengan Badan Usaha*) bukan nama satu kredensial resmi, melainkan payung untuk dua jalur pengakuan.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"\u003e **Ringkasnya:** Sertifikasi KPBU (*Kerja Sama Pemerintah dengan Badan Usaha*) bukan nama satu kredensial resmi, melain\""
+                                  },
+                                  {
+                                      "passage":  "Ahli Pratama KPBU adalah skema sertifikasi kompetensi tingkat dasar di bidang KPBU yang diujikan LSP KPBU bersama Perkumpulan Ahli Profesional KPBU Indonesia.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Ahli Pratama KPBU adalah skema sertifikasi kompetensi tingkat dasar di bidang KPBU yang diujikan LSP KPBU bersama Perkum\""
+                                  },
+                                  {
+                                      "passage":  "Jalur nasional berupa uji kompetensi atas skema domestik, misalnya Ahli Pratama KPBU yang diujikan LSP KPBU.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Jalur nasional berupa uji kompetensi atas skema domestik, misalnya Ahli Pratama KPBU yang diujikan LSP KPBU.\""
+                                  },
+                                  {
+                                      "passage":  "Pemegangnya tetap perlu menguasai regulasi KPBU domestik, karena PPP Guide adalah kerangka praktik baik lintas negara, bukan pengganti hukum nasional.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Pemegangnya tetap perlu menguasai regulasi KPBU domestik, karena PPP Guide adalah kerangka praktik baik lintas negara, b\""
+                                  },
+                                  {
+                                      "passage":  "Kerangkanya dikembangkan bersama ADB, EBRD, IDB, IsDB, dan World Bank Group dengan dukungan PPIAF.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Kerangkanya dikembangkan bersama ADB, EBRD, IDB, IsDB, dan World Bank Group dengan dukungan PPIAF.\""
+                                  },
+                                  {
+                                      "passage":  "Jalur nasional berupa sertifikasi kompetensi berbasis uji dengan skema seperti Ahli Pratama KPBU.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Jalur nasional berupa sertifikasi kompetensi berbasis uji dengan skema seperti Ahli Pratama KPBU.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-ptpii\\monthly_runs\\2026-09\\final\\public-private-partnership-02.en.md",
+    "language":  "en",
+    "generated_at":  "2026-09-21T11:35:29+07:00",
+    "word_count":  1789,
+    "paragraph_count":  23,
+    "sentence_count":  91,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.382,
+                        "sentence_burstiness":  0.833,
+                        "top30_vocab_share":  0.324,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.382 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "[Perpres 38/2015](https://jdih.kemenkeu.go.id/fullText/2015/38TAHUN2015PERPRES.pdf), enacted 20 March 2015 and still in force as at September 2026, sets the KPBU framework but does not prescribe substitution or termination-compensation mechanics.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"[Perpres 38/2015](https://jdih.kemenkeu.go.id/fullText/2015/38TAHUN2015PERPRES.pdf), enacted 20 March 2015 and still in \""
+                                  },
+                                  {
+                                      "passage":  "The government-support architecture sits in a separate instrument, PMK 68/2024, effective 18 October 2024.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"The government-support architecture sits in a separate instrument, PMK 68/2024, effective 18 October 2024.\""
+                                  },
+                                  {
+                                      "passage":  "That mechanism is rooted in the Indonesian Civil Code (*Kitab Undang-Undang Hukum Perdata*), supported by powers of attorney and novation undertakings.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"That mechanism is rooted in the Indonesian Civil Code (*Kitab Undang-Undang Hukum Perdata*), supported by powers of atto\""
+                                  },
+                                  {
+                                      "passage":  "Three separate remedies sit around a distressed KPBU (*Kerja Sama Pemerintah dengan Badan Usaha*, Indonesia\u0027s public-private partnership scheme) project, and term sheets routinely blur them.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Three separate remedies sit around a distressed KPBU (*Kerja Sama Pemerintah dengan Badan Usaha*, Indonesia\u0027s public-pri\""
+                                  },
+                                  {
+                                      "passage":  "A government guarantee under Indonesia\u0027s infrastructure-guarantee framework, established by Perpres 78/2010, responds to the contracting agency\u0027s own default or specified government-side risks under the cooperation contract.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"A government guarantee under Indonesia\u0027s infrastructure-guarantee framework, established by Perpres 78/2010, responds to\""
+                                  },
+                                  {
+                                      "passage":  "The World Bank\u0027s [PPP Legal Resource Center](https://ppp.worldbank.org/public-private-partnership/legislation-regulation/framework-assessment/legal-environment/lender-issues-step-in-rights) is the standard reference on lender issues of this kind.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"The World Bank\u0027s [PPP Legal Resource Center](https://ppp.worldbank.org/public-private-partnership/legislation-regulation\""
+                                  },
+                                  {
+                                      "passage":  "For Indonesia specifically, this research found no publicly documented instance of step-in or substitution being exercised on a KPBU project, as at September 2026.",
+                                      "candidate_score":  9,
+                                      "web_search_query":  "\"For Indonesia specifically, this research found no publicly documented instance of step-in or substitution being exercis\""
+                                  },
+                                  {
+                                      "passage":  "No publicly documented instance of step-in or substitution being exercised on an Indonesian KPBU project was found in this research, as at September 2026.",
+                                      "candidate_score":  9,
+                                      "web_search_query":  "\"No publicly documented instance of step-in or substitution being exercised on an Indonesian KPBU project was found in th\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

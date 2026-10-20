@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-ptpii\\monthly_runs\\2026-08\\final\\pembiayaan-kreatif-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-12T15:52:14+07:00",
+    "word_count":  1843,
+    "paragraph_count":  19,
+    "sentence_count":  112,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.419,
+                        "sentence_burstiness":  1.083,
+                        "top30_vocab_share":  0.326,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.419 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "KPBU Penerangan Jalan Umum Kabupaten Madiun, dengan nilai investasi sekitar Rp 100 miliar menurut portal resmi Kantor Bersama KPBU Kementerian Keuangan (diakses 2026), sudah beroperasi komersial sejak 2023.",
+                                      "candidate_score":  39,
+                                      "web_search_query":  "\"KPBU Penerangan Jalan Umum Kabupaten Madiun, dengan nilai investasi sekitar Rp 100 miliar menurut portal resmi Kantor Be\""
+                                  },
+                                  {
+                                      "passage":  "68 Tahun 2024 mewajibkan Badan Usaha Penjaminan Infrastruktur menerbitkan Acuan Alokasi Risiko setiap tahun.",
+                                      "candidate_score":  32,
+                                      "web_search_query":  "\"68 Tahun 2024 mewajibkan Badan Usaha Penjaminan Infrastruktur menerbitkan Acuan Alokasi Risiko setiap tahun.\""
+                                  },
+                                  {
+                                      "passage":  "Basis data [ADB PPP Monitor](https://pppmonitor.adb.org/country/indonesia/national-ppp-landscape) mencatat 135 proyek PPP di Indonesia mencapai *financial close* sepanjang 1990–2019, rentang historis dan bukan potret 2026.",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"Basis data [ADB PPP Monitor](https://pppmonitor.adb.org/country/indonesia/national-ppp-landscape) mencatat 135 proyek PP\""
+                                  },
+                                  {
+                                      "passage":  "# Pembiayaan Kreatif Mandek: 7 Penyebab Proyek Daerah Berhenti Sebelum Lelang Pola ini berulang di banyak daerah.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"# Pembiayaan Kreatif Mandek: 7 Penyebab Proyek Daerah Berhenti Sebelum Lelang Pola ini berulang di banyak daerah.\""
+                                  },
+                                  {
+                                      "passage":  "1 Tahun 2022 tentang Hubungan Keuangan antara Pemerintah Pusat dan Pemerintahan Daerah (HKPD), yang masih berlaku per verifikasi 2026.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"1 Tahun 2022 tentang Hubungan Keuangan antara Pemerintah Pusat dan Pemerintahan Daerah (HKPD), yang masih berlaku per ve\""
+                                  },
+                                  {
+                                      "passage":  "Pada 27 Juli 2026, DPRD DKI Jakarta menyetujui rencana penerbitan obligasi daerah Rp 3,5 triliun untuk 2027.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Pada 27 Juli 2026, DPRD DKI Jakarta menyetujui rencana penerbitan obligasi daerah Rp 3,5 triliun untuk 2027.\""
+                                  },
+                                  {
+                                      "passage":  "1 Tahun 2022 tentang HKPD, tetapi kesiapan kelembagaan pemda umumnya belum terbentuk.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"1 Tahun 2022 tentang HKPD, tetapi kesiapan kelembagaan pemda umumnya belum terbentuk.\""
+                                  },
+                                  {
+                                      "passage":  "**PJPK berganti di tengah proses.** PJPK (*Penanggung Jawab Proyek Kerja Sama*) di daerah adalah kepala daerah, sementara kontrak KPBU umumnya berdurasi 15–30 tahun.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"**PJPK berganti di tengah proses.** PJPK (*Penanggung Jawab Proyek Kerja Sama*) di daerah adalah kepala daerah, sementar\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

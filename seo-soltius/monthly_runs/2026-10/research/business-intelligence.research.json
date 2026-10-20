@@ -1,0 +1,104 @@
+{
+  "keyword": "Business Intelligence",
+  "keyword_slug": "business-intelligence",
+  "month": "2026-10",
+  "captured_at": "2026-10-07",
+  "priority": "rescue",
+  "landing_page": "https://www.soltius.co.id/id/blog/business-intelligence",
+  "landing_page_summary": "Hub BI generik: definisi BI, 5 manfaat, BI vs Business Analytics vs Data Science, cara kerja (data mentah -> dashboard), contoh penerapan lintas industri (retail/F&B/finansial), Top 3 tools (Power BI/Tableau/Looker), masa depan BI (AI & automation). SAP (S/4HANA, SAP Business One, Analytics) hanya disebut di footer, bukan di body.",
+  "data_sources_used": ["live_serp_blocked_by_google_antibot", "websearch", "articles_history", "monthly_batches_uncommitted", "knowledge_base/product_matrix.md"],
+  "ahrefs_available": false,
+  "seo_report": "none (keywords.md untuk 2026-10 menyetel seo_report: none; tidak ada laporan rank periode ini)",
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "BI tetap bertema definisional + AI/augmented; dorongan GEO (dikutip AI engine) menguat. Tidak ada angka rank periode ini (seo_report: none).",
+    "apr2026_rank": "#100 (historis per April 2026 report: crash #10 -> #100; status 'rescue'). Tidak diperbarui bulan ini."
+  },
+  "serp": {
+    "note": "WebFetch Google SERP (hl=id,gl=id) diblokir anti-bot Google -> degradasi anggun ke WebSearch per playbook. Top organik untuk 'business intelligence adalah' secara historis didominasi glosari vendor/agensi (dicoding, niagahoster, revou, domo-style explainer) + landing page kompetitor integrator. SERP keyword induk JENUH secara informasional/definisional.",
+    "top_10_observed_via_websearch_by_segment": {
+      "rumah_sakit": ["ejournal UNDIP/Kalbis/ITN (BI RS, ETL SIMRS+INA-CBG)", "repository UPN Jatim (dashboard Power BI layanan kesehatan)", "medminutes.io (monitoring klaim BPJS multi-RS: pending claim, LOS, BOR, INA-CBG)"],
+      "perkebunan_sawit": ["journals.unpad.ac.id & instiper (produktivitas sawit berbasis data)", "ejournal ITN (ensemble model prediksi produktivitas sawit berbasis Power BI)", "kontan.co.id (PTPN V rekor produktivitas; PalmCo replanting 7 ton/ha)"],
+      "sales_analytics": ["sap.com SAP Sales Cloud intelligent sales add-on (pipeline health, win rate, forecast accuracy)", "sap.com partner Sales Effectiveness Dashboard (SAC)", "salesforce/g2 (pipeline visualization, deal-at-risk, rep vs quota)"],
+      "people_analytics": ["sap.com SuccessFactors People Analytics / Workforce Analytics", "yash.com, rizing.com, pwc whitepaper (turnover root-cause, attrition, pay gap, single source of truth)"],
+      "customer_analytics": ["repository ITS / UAJY / Binus / UTP (RFM + CLV + K-Means segmentasi; churn prediction XGBoost)", "ecosire/dengage (RFM segmentation, LTV)"]
+    },
+    "serp_features": ["ai_overview_likely_on_definitional_queries", "paa", "featured_snippet_definition"],
+    "ai_overview_entities": ["Business Intelligence", "dashboard", "data warehouse", "Power BI", "Tableau", "SAP Analytics Cloud", "KPI", "ETL", "RFM", "churn", "BOR", "INA-CBG", "People Analytics"]
+  },
+  "paa": [
+    "Apa itu business intelligence dan contohnya?",
+    "Apa perbedaan business intelligence dan business analytics?",
+    "Apa saja contoh penerapan BI di berbagai industri?",
+    "Apa itu people analytics / HR analytics?",
+    "Bagaimana cara menghitung turnover karyawan?",
+    "Apa itu BOR dan bagaimana menghitungnya?",
+    "Bagaimana BI membantu manajemen klaim BPJS / INA-CBG?",
+    "Apa itu RFM analysis dan customer lifetime value (CLV)?",
+    "Bagaimana memprediksi pelanggan yang akan churn?",
+    "Apa itu sales pipeline dan bagaimana mengukur win rate?",
+    "Bagaimana meningkatkan akurasi sales forecast?",
+    "Bagaimana analitik data meningkatkan produktivitas perkebunan sawit?"
+  ],
+  "gsc_style_queries_from_report": ["n/a (seo_report: none untuk 2026-10)"],
+  "history_snapshot": {
+    "prior_articles_count": 23,
+    "prior_articles_note": "Keyword SANGAT jenuh. 23 artikel BI lintas batch (committed index.json: 10; batch final: 2026-06 x5, 2026-07-2 x5, 2026-08 x5, 2026-08-2 x5, 2026-09 x3).",
+    "covered_angles_subtopics": [
+      "fundamental/definisi BI + data berlimpah != keputusan (2026-06-01)",
+      "SAP Analytics Cloud 3 pilar + SAC vs BO + migrasi BO->SAC timeline/coexistence (2026-06-02)",
+      "embedded analytics S/4HANA + embedded vs SAC + batas embedded (2026-06-03)",
+      "self-service BI vs BI tradisional + framework kematangan (2026-06-04)",
+      "5 alasan proyek BI gagal + data readiness assessment + change management + leading indicators (2026-06-05)",
+      "budaya data vs literasi data + 4 tahap kematangan + CDO (2026-07-2-01)",
+      "BI retail & distribusi FMCG: 5 use case, sell-in/sell-out, fill rate/DSI/OOS, demand forecasting, market basket, DMS/POS (2026-07-2-02)",
+      "real-time BI vs batch + latency + live vs import SAC + federation/CDC + hybrid (2026-07-2-03)",
+      "tata kelola data + semantic/metrics layer + single source of truth + angka beda-beda (2026-07-2-04)",
+      "BI untuk UKM: kapan cocok + jalur SAP Business One (2026-07-2-05)",
+      "BI untuk CFO: financial telemetry, close bulanan, KPI keuangan real-time (2026-08-01)",
+      "augmented analytics/AI: NLQ, prediktif, agentik, dari dashboard ke keputusan (2026-08-02)",
+      "BI vs Excel: 6 dimensi, biaya tersembunyi spreadsheet (2026-08-03)",
+      "desain dashboard yang dipakai: jumlah KPI 7+/-2, hierarki visual, kesalahan grafik (pie/dual-axis/3D/chartjunk), mengapa diabaikan (2026-08-04)",
+      "ROI BI + business case 5 langkah + tangible/intangible (2026-08-05)",
+      "cara memilih platform BI: 9 kriteria, PoC, build vs buy (2026-08-2-01)",
+      "keamanan & privasi data BI: RLS, object-level security, masking, enkripsi, audit, UU PDP (2026-08-2-02)",
+      "BI untuk manufaktur: OEE, downtime, yield, scrap, MES/S4 PP, dashboard produksi (2026-08-2-03)",
+      "BI Center of Excellence: model kepemilikan (sentralisasi/hub-spoke/desentralisasi), peran tim (2026-08-2-04)",
+      "BI cloud vs on-premise vs hybrid: biaya/kontrol, data gravity, mitos cloud lebih murah (2026-08-2-05)",
+      "BI + perencanaan terhubung xP&A: anggaran statis vs rolling forecast, driver-based (2026-09-01)",
+      "spend analytics/procurement: maverick spend, SUM, contract compliance, OTD, supplier scorecard, spend cube (2026-09-02)",
+      "BI untuk laporan ESG yang diaudit: standar, scope 3, data tersebar (2026-09-03)"
+    ],
+    "uncovered_angles_selected_this_run": [
+      "analitik PENJUALAN/komersial (pipeline, win rate, akurasi forecast, deal velocity, quota) -- fungsi sales, BELUM ada (FMCG = distribusi sell-out; CFO = keuangan; spend = procurement)",
+      "BI untuk PERKEBUNAN/agribisnis (produktivitas kebun, yield/ha, panen, biaya, data lapangan/GIS) -- vertikal BELUM ada (manufaktur & FMCG = vertikal berbeda); fit klien Soltius (HPI Agro, Great Giant Pineapple)",
+      "BI untuk RUMAH SAKIT/healthcare (BOR, ALOS, alur pasien, klaim BPJS/INA-CBG, SIMRS) -- vertikal BELUM ada; fit vertikal Healthcare Soltius",
+      "PEOPLE ANALYTICS/HR (turnover, attrition, time-to-hire, cost-per-hire, retensi) -- fungsi SDM BELUM ada; fit solusi HCM/SuccessFactors Soltius",
+      "ANALITIK PELANGGAN/retensi (churn, CLV, RFM, segmentasi, customer 360) -- fungsi customer/CX BELUM ada (distinct dari sales-pipeline: akuisisi vs retensi)"
+    ],
+    "rejected_as_near_duplicate": [
+      "Migrasi SAP BusinessObjects -> SAP Analytics Cloud (playbook) -- DITOLAK: 2026-06-02 sudah punya H2 'kapan migrasi BO->SAC' + bagian migrasi (timeline 6-18 bln, coexistence, prioritisasi laporan, change management). Jaccard >0.4.",
+      "Kesiapan/kualitas data untuk BI (data readiness audit) -- DITOLAK: 2026-06-05 cause #1 'data master tidak siap BI' + FAQ 'memastikan kualitas data sebelum BI' + 2026-07-2-04 (SSOT). Jaccard >0.4.",
+      "Cara membaca dashboard tanpa salah tafsir / literasi data -- DITOLAK: jebakan grafik (pie/dual-axis/chartjunk/konteks) sudah di 2026-08-04; literasi data sudah di 2026-07-2-01. Jaccard >0.4.",
+      "BI untuk logistik/pergudangan/inventaris (OTIF, fill rate, turnover) -- DITOLAK: fill rate/DSI/OOS/replenishment di 2026-07-2-02 (FMCG) + OTD/WMS-receiving di 2026-09-02 (spend). Jaccard >0.4.",
+      "BI performance/optimasi dashboard lambat (live vs import, source load) -- DISISIHKAN borderline: live/import + beban sumber + in-memory sudah di 2026-07-2-03. Risiko Jaccard ~0.4.",
+      "BI vs laporan standar SAP (Fiori) -- DISISIHKAN: tumpang tindih 'embedded analytics: apa yang bisa/tidak bisa' + 'embedded vs SAC' di 2026-06-03."
+    ]
+  },
+  "cousins_from_month_set": {
+    "note": "Cousin dipilih dari set 2026-10 {warehouse management system, Low Code Platform, Business Intelligence(self), SAP Clean Core}. BI induk (Data Warehouse & ERP migration) TIDAK ada di set bulan ini, jadi cousin diambil dari yang paling topikal di dalam set.",
+    "low_code_platform": "https://www.soltius.co.id/id/blog/low-code-and-no-code-platforms -- SAP Build/BTP = lapisan ekstensibilitas tempat aplikasi analitik kustom & embedding SAC dibangun; relevan untuk SEMUA brief BI.",
+    "warehouse_management_system": "https://www.soltius.co.id/id/blog/manfaat-dan-modul-warehouse-management-system -- HUB BARU Oktober; sumber data operasional (inventaris/penerimaan) untuk BI operasional; natural untuk perkebunan (gudang CPO/TBS) & RS (farmasi/logistik medis).",
+    "sap_clean_core": "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide -- clean core = S/4HANA cloud-ready; ekstensi analitik/SuccessFactors/CX di BTP dijaga clean-core; natural untuk sales, HR, customer."
+  },
+  "soltius_anchor": "Analytics solution + Data and AI Consulting; implementasi SAP Analytics Cloud (SAC) sebagai lapisan BI di atas data terkelola. Framing: Soltius MENGIMPLEMENTASIKAN SAC/SAP, bukan membuatnya. Maks 2-3 self-mention; kredensial: SAP Platinum Partner via United VARs, bagian Metrodata sejak 1998. E-E-A-T klien: perkebunan -> HPI Agro / Great Giant Pineapple; distribusi -> Tigaraksa Satria.",
+  "sap_focus_verified": {
+    "SAP_Analytics_Cloud": "Lapisan BI/visualisasi + planning + prediktif (Smart Predict) di atas SAP BTP; live vs import.",
+    "SAP_Sales_Cloud_intelligent_sales_add_on": "Pipeline health, opportunity progression, win/loss, forecast accuracy (SAP). Sumber data sales untuk SAC.",
+    "SAP_SuccessFactors_People_Analytics_Workforce_Analytics": "Agregasi data SDM (talent/performance/HR/payroll) jadi satu tampilan; otomasi metrik turnover/attrition; akar sebab retensi (SAP).",
+    "SIMRS_INA_CBG": "BI RS lazim mengintegrasikan SIMRS + tarif klaim INA-CBG via ETL; dashboard pending claim/LOS/BOR (jurnal ID + medminutes).",
+    "note_verify_researcher": "Angka yield/produktivitas sawit (mis. 1.700-2.300 kg TBS/HK; 7 ton/ha PalmCo; OOS global 8,3%) = patokan/sumber sekunder -> SME researcher harus verifikasi & beri sumber sebelum dipakai di draft. Jangan mengarang angka SAC/BPJS/yield."
+  },
+  "shortfall_assessment": "5 angle segar ditemukan, SEMUANYA vertikal/fungsi (whitespace tersisa). Ruang konseptual/komparasi/how-to/troubleshooting pada cluster ini praktis HABIS (semua kandidat lain Jaccard >0.4). Format brief divariasikan (lean sub-intent, tabel, bagian jujur berbeda) agar tidak klon."
+}

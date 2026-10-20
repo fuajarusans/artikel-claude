@@ -1,0 +1,81 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-09\\final\\sap-build-apps-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-01T08:28:32+07:00",
+    "word_count":  914,
+    "paragraph_count":  15,
+    "sentence_count":  50,
+    "ai_detector":  {
+                        "score":  0.08,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.301,
+                        "sentence_burstiness":  0.659,
+                        "top30_vocab_share":  0.363,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.301 (target \u003e=0.45)",
+                                          "line":  -1
+                                      },
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 36.3% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Sebagai SAP Platinum Partner melalui United VARs dan berpengalaman sejak 1998, Soltius mendampingi pemilihan dan pembangunan ekstensi low-code SAP Build di atas BTP sambil menjaga *clean core*.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Sebagai SAP Platinum Partner melalui United VARs dan berpengalaman sejak 1998, Soltius mendampingi pemilihan dan pembang\""
+                                  },
+                                  {
+                                      "passage":  "## SAP Build Apps, Process Automation, atau Work Zone: Kapan Pakai yang Mana?",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## SAP Build Apps, Process Automation, atau Work Zone: Kapan Pakai yang Mana?\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apa bedanya SAP Build Apps dan SAP Build?",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apa bedanya SAP Build Apps dan SAP Build?\""
+                                  },
+                                  {
+                                      "passage":  "**Hubungkan sumber data.** SAP S/4HANA dan SuccessFactors lewat *OData*, sistem non-SAP lewat *REST API*; koneksi berjalan melalui BTP *destinations*.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"**Hubungkan sumber data.** SAP S/4HANA dan SuccessFactors lewat *OData*, sistem non-SAP lewat *REST API*; koneksi berjal\""
+                                  },
+                                  {
+                                      "passage":  "SAP Build adalah suite terpadu yang menyatukan *app builder*, SAP Build Process Automation, Work Zone, dan Build Code.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"SAP Build adalah suite terpadu yang menyatukan *app builder*, SAP Build Process Automation, Work Zone, dan Build Code.\""
+                                  },
+                                  {
+                                      "passage":  "# SAP Build Apps: Membuat Aplikasi Bisnis dengan Pendekatan Low-Code Permintaan aplikasi internal menumpuk di antrean tim IT: form persetujuan, aplikasi input lapangan, dashboard sederhana, semuanya menunggu berbulan-bulan.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"# SAP Build Apps: Membuat Aplikasi Bisnis dengan Pendekatan Low-Code Permintaan aplikasi internal menumpuk di antrean ti\""
+                                  },
+                                  {
+                                      "passage":  "Sejak 23 Maret 2026 *app builder* tak lagi dijual sebagai produk standalone.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Sejak 23 Maret 2026 *app builder* tak lagi dijual sebagai produk standalone.\""
+                                  },
+                                  {
+                                      "passage":  "Studi *benchmark* [GigaOm (Maret 2025)](https://news.sap.com/2025/03/sap-build-gigaom-study-greater-speed-development/) mencatat SAP Build sekitar 3x lebih cepat dan 59% lebih hemat *effort* dibanding pengembangan custom tradisional.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Studi *benchmark* [GigaOm (Maret 2025)](https://news.sap.com/2025/03/sap-build-gigaom-study-greater-speed-development/) \""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

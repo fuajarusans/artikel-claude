@@ -1,0 +1,81 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-08\\final\\laporan-keberlanjutan-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-17T23:58:49+07:00",
+    "word_count":  1026,
+    "paragraph_count":  20,
+    "sentence_count":  65,
+    "ai_detector":  {
+                        "score":  0.08,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.36,
+                        "sentence_burstiness":  1.016,
+                        "top30_vocab_share":  0.354,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.36 (target \u003e=0.45)",
+                                          "line":  -1
+                                      },
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 35.4% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Bila disusun terpisah dari laporan tahunan, laporan wajib disampaikan ke OJK paling lambat 30 April tahun berikutnya (POJK 51 Pasal 10 ayat 4).",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Bila disusun terpisah dari laporan tahunan, laporan wajib disampaikan ke OJK paling lambat 30 April tahun berikutnya (PO\""
+                                  },
+                                  {
+                                      "passage":  "Otoritas Jasa Keuangan (OJK) mewajibkannya lewat POJK Nomor 51/POJK.03/2017 bagi lembaga jasa keuangan, emiten, dan perusahaan publik, dengan sembilan komponen isi minimum.",
+                                      "candidate_score":  27,
+                                      "web_search_query":  "\"Otoritas Jasa Keuangan (OJK) mewajibkannya lewat POJK Nomor 51/POJK.03/2017 bagi lembaga jasa keuangan, emiten, dan peru\""
+                                  },
+                                  {
+                                      "passage":  "[POJK 51](https://www.ojk.go.id/sustainable-finance/id/peraturan/peraturan-ojk/Documents/SAL%20POJK%2051%20-%20keuangan%20berkelanjutan.pdf) Pasal 10 ayat (1) mewajibkan tiga kelompok: lembaga jasa keuangan (LJK), emiten, dan perusahaan publik.",
+                                      "candidate_score":  27,
+                                      "web_search_query":  "\"[POJK 51](https://www.ojk.go.id/sustainable-finance/id/peraturan/peraturan-ojk/Documents/SAL%20POJK%2051%20-%20keuangan%\""
+                                  },
+                                  {
+                                      "passage":  "## RAKB Bukan Hal yang Sama, dan Arah Baru POJK 51 Rencana Aksi Keuangan Berkelanjutan (RAKB) adalah dokumen berbeda.",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"## RAKB Bukan Hal yang Sama, dan Arah Baru POJK 51 Rencana Aksi Keuangan Berkelanjutan (RAKB) adalah dokumen berbeda.\""
+                                  },
+                                  {
+                                      "passage":  "Bila disusun terpisah dari laporan tahunan, laporan wajib sampai ke OJK paling lambat 30 April tahun berikutnya (Pasal 10 ayat 4).",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Bila disusun terpisah dari laporan tahunan, laporan wajib sampai ke OJK paling lambat 30 April tahun berikutnya (Pasal 1\""
+                                  },
+                                  {
+                                      "passage":  "Pasal 10 ayat (6) mengatur kapan tiap kategori entitas mulai wajib, dari tahun buku 2019 sampai tahun buku 2025.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Pasal 10 ayat (6) mengatur kapan tiap kategori entitas mulai wajib, dari tahun buku 2019 sampai tahun buku 2025.\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai SAP Platinum Partner melalui United VARs, Soltius mengimplementasikan dan mendampingi solusi SAP Sustainability agar angka di laporan tertelusur ke sistem, bukan hasil rekap manual.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Sebagai SAP Platinum Partner melalui United VARs, Soltius mengimplementasikan dan mendampingi solusi SAP Sustainability \""
+                                  },
+                                  {
+                                      "passage":  "Bila menyatu, tenggatnya mengikuti batas waktu laporan tahunan tiap entitas (Pasal 10 ayat 3).",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Bila menyatu, tenggatnya mengikuti batas waktu laporan tahunan tiap entitas (Pasal 10 ayat 3).\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

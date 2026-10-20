@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07-2\\final\\perusahaan-cng-indonesia-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-08T09:16:18+07:00",
+    "word_count":  1640,
+    "paragraph_count":  25,
+    "sentence_count":  96,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.341,
+                        "sentence_burstiness":  0.511,
+                        "top30_vocab_share":  0.312,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.341 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Akibatnya, biaya gas rata-rata yang dibayar industri naik ke US$15–16/MMBTU, dua kali lipat harga acuan HGBT US$7/MMBTU (Kontan, 24 Juni 2026).",
+                                      "candidate_score":  29,
+                                      "web_search_query":  "\"Akibatnya, biaya gas rata-rata yang dibayar industri naik ke US$15–16/MMBTU, dua kali lipat harga acuan HGBT US$7/MMBTU \""
+                                  },
+                                  {
+                                      "passage":  "| Periode | Peristiwa | Angka kunci | |---|---|---| | 15 Agustus 2025 | PGN menyatakan *force majeure* pasokan hulu | Surat No.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"| Periode | Peristiwa | Angka kunci | |---|---|---| | 15 Agustus 2025 | PGN menyatakan *force majeure* pasokan hulu | Su\""
+                                  },
+                                  {
+                                      "passage":  "## Pelajaran dari Gangguan Pasokan Gas 2025–2026 Dua peristiwa berbeda, meski sering dianggap satu, mengajarkan hal penting: gangguan pasokan gas nyata, mahal, dan bisa berulang.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"## Pelajaran dari Gangguan Pasokan Gas 2025–2026 Dua peristiwa berbeda, meski sering dianggap satu, mengajarkan hal pent\""
+                                  },
+                                  {
+                                      "passage":  "## Batas Jujur: Apa yang Tidak Bisa Dijamin Penyedia Mana Pun Tidak ada penyedia yang jujur akan menjanjikan nol gangguan.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## Batas Jujur: Apa yang Tidak Bisa Dijamin Penyedia Mana Pun Tidak ada penyedia yang jujur akan menjanjikan nol ganggua\""
+                                  },
+                                  {
+                                      "passage":  "Sepanjang 2025–2026, industri keramik, kaca, dan baja merasakannya langsung: kuota gas dipangkas, biaya melonjak, utilisasi pabrik turun.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Sepanjang 2025–2026, industri keramik, kaca, dan baja merasakannya langsung: kuota gas dipangkas, biaya melonjak, utilis\""
+                                  },
+                                  {
+                                      "passage":  "**Moda transportasi:** Berapa unit *Gas Transportation Module* (GTM) tersedia, dan apa rencana rotasi jika satu unit rusak?",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"**Moda transportasi:** Berapa unit *Gas Transportation Module* (GTM) tersedia, dan apa rencana rotasi jika satu unit rus\""
+                                  },
+                                  {
+                                      "passage":  "# Keandalan Penyedia CNG: Jaminan Kelangsungan Bisnis Anda Ketika pasokan gas dari pipa tersendat beberapa jam saja, lini produksi bisa berhenti dan pesanan meleset dari tenggat.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"# Keandalan Penyedia CNG: Jaminan Kelangsungan Bisnis Anda Ketika pasokan gas dari pipa tersendat beberapa jam saja, lin\""
+                                  },
+                                  {
+                                      "passage":  "Pada Agustus 2025, misalnya, PGN membatasi kuota HGBT industri di Jawa Barat menjadi 48% disertai *surcharge* akibat *force majeure* hulu.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Pada Agustus 2025, misalnya, PGN membatasi kuota HGBT industri di Jawa Barat menjadi 48% disertai *surcharge* akibat *fo\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

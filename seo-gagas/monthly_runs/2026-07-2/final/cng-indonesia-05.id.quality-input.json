@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07-2\\final\\cng-indonesia-05.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-08T06:08:57+07:00",
+    "word_count":  1738,
+    "paragraph_count":  26,
+    "sentence_count":  86,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.343,
+                        "sentence_burstiness":  0.77,
+                        "top30_vocab_share":  0.242,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.343 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "15/1996) | Kementerian Lingkungan Hidup | | ~2006 | TransJakarta mulai operasikan bus BBG di Koridor II (Pulogadung–Harmoni) | Pemprov DKI (Gub.",
+                                      "candidate_score":  35,
+                                      "web_search_query":  "\"15/1996) | Kementerian Lingkungan Hidup | | ~2006 | TransJakarta mulai operasikan bus BBG di Koridor II (Pulogadung–Harm\""
+                                  },
+                                  {
+                                      "passage":  "Di sisi rumah tangga, tekanan fiskal akibat mahalnya impor LPG mendorong program Tabung Merah Putih 2026, dengan target awal sekitar 160.000 sambungan.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Di sisi rumah tangga, tekanan fiskal akibat mahalnya impor LPG mendorong program Tabung Merah Putih 2026, dengan target \""
+                                  },
+                                  {
+                                      "passage":  "Pada 2008, Pemprov DKI menargetkan 500 bus BBG, padahal saat itu baru sekitar 250 dari sekitar 420 bus yang memakai gas (ANTARA, Maret 2008).",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Pada 2008, Pemprov DKI menargetkan 500 bus BBG, padahal saat itu baru sekitar 250 dari sekitar 420 bus yang memakai gas \""
+                                  },
+                                  {
+                                      "passage":  "## CNG Bukan Barang Baru: Awal Mula BBG di Indonesia Penggunaan bahan bakar gas di Indonesia bermula pada pertengahan 1980-an.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"## CNG Bukan Barang Baru: Awal Mula BBG di Indonesia Penggunaan bahan bakar gas di Indonesia bermula pada pertengahan 19\""
+                                  },
+                                  {
+                                      "passage":  "Pertama, **program Langit Biru resmi diluncurkan pada 1996** lewat Kepmen LH No.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Pertama, **program Langit Biru resmi diluncurkan pada 1996** lewat Kepmen LH No.\""
+                                  },
+                                  {
+                                      "passage":  "Pada 2008, Pemprov DKI menargetkan 500 bus BBG, padahal saat itu baru sekitar 250 dari sekitar 420 bus yang memakai gas.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Pada 2008, Pemprov DKI menargetkan 500 bus BBG, padahal saat itu baru sekitar 250 dari sekitar 420 bus yang memakai gas.\""
+                                  },
+                                  {
+                                      "passage":  "Blue Bird mencoba mengonversi taksinya ke BBG pada 1985 meski pasokan CNG masih terbatas, lalu pada 1986 muncul inisiatif nasional yang menargetkan 20 persen armada taksi memakai CNG.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"Blue Bird mencoba mengonversi taksinya ke BBG pada 1985 meski pasokan CNG masih terbatas, lalu pada 1986 muncul inisiati\""
+                                  },
+                                  {
+                                      "passage":  "Tabung Merah Putih adalah program pemerintah untuk tabung CNG 3 kg berbahan komposit ringan (Tipe 4) sebagai alternatif LPG 3 kg bersubsidi.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"Tabung Merah Putih adalah program pemerintah untuk tabung CNG 3 kg berbahan komposit ringan (Tipe 4) sebagai alternatif \""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

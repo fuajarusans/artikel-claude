@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-09\\final\\perusahaan-lng-indonesia-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-21T11:05:11+07:00",
+    "word_count":  1428,
+    "paragraph_count":  20,
+    "sentence_count":  86,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.413,
+                        "sentence_burstiness":  0.731,
+                        "top30_vocab_share":  0.289,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.413 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Metode perhitungannya diformalkan dalam ISO 6976 (edisi 2016), sementara ISO 13686 (edisi 2013) memakai Wobbe Index sebagai salah satu parameter mutu gas niaga.",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"Metode perhitungannya diformalkan dalam ISO 6976 (edisi 2016), sementara ISO 13686 (edisi 2013) memakai Wobbe Index seba\""
+                                  },
+                                  {
+                                      "passage":  "## Perbandingan Karakteristik: Gas Pipa vs Gas dari LNG vs LPG Ketiganya berbeda pada komponen dominan dan nilai kalor, sehingga menuntut penanganan berbeda.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Perbandingan Karakteristik: Gas Pipa vs Gas dari LNG vs LPG Ketiganya berbeda pada komponen dominan dan nilai kalor, \""
+                                  },
+                                  {
+                                      "passage":  "## Apa Bedanya Gas dari LNG dengan Gas Pipa untuk Peralatan Saya?",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Apa Bedanya Gas dari LNG dengan Gas Pipa untuk Peralatan Saya?\""
+                                  },
+                                  {
+                                      "passage":  "Wobbe Index adalah nilai kalor gas dibagi akar kuadrat densitas relatifnya terhadap udara; makin dekat Wobbe Index dua gas, makin besar peluang keduanya saling menggantikan.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Wobbe Index adalah nilai kalor gas dibagi akar kuadrat densitas relatifnya terhadap udara; makin dekat Wobbe Index dua g\""
+                                  },
+                                  {
+                                      "passage":  "Rumusnya sederhana: Wobbe Index = HHV / √SG, yaitu nilai kalor kotor dibagi akar kuadrat densitas relatif gas.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Rumusnya sederhana: Wobbe Index = HHV / √SG, yaitu nilai kalor kotor dibagi akar kuadrat densitas relatif gas.\""
+                                  },
+                                  {
+                                      "passage":  "Methane Number mengukur ketahanan gas terhadap *knocking*; metana murni bernilai 100 dan turun seiring naiknya etana/propana.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Methane Number mengukur ketahanan gas terhadap *knocking*; metana murni bernilai 100 dan turun seiring naiknya etana/pro\""
+                                  },
+                                  {
+                                      "passage":  "Minta *gas spec sheet* tertulis dari calon pemasok, mencakup nilai kalor (HHV), Wobbe Index, dan komposisi (persentase metana, etana, propana, gas inert).",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Minta *gas spec sheet* tertulis dari calon pemasok, mencakup nilai kalor (HHV), Wobbe Index, dan komposisi (persentase m\""
+                                  },
+                                  {
+                                      "passage":  "Minta *gas spec sheet* tertulis (HHV, Wobbe Index, komposisi) dari calon pemasok.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Minta *gas spec sheet* tertulis (HHV, Wobbe Index, komposisi) dari calon pemasok.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

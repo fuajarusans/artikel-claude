@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-10\\final\\perusahaan-cng-indonesia-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-28T20:05:16+07:00",
+    "word_count":  1600,
+    "paragraph_count":  30,
+    "sentence_count":  100,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.427,
+                        "sentence_burstiness":  0.692,
+                        "top30_vocab_share":  0.311,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.427 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "27 Tahun 2022 tentang Pelindungan Data Pribadi](https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022) (UU PDP) mendefinisikan data pribadi sebagai data orang perseorangan yang teridentifikasi (Pasal 1).",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"27 Tahun 2022 tentang Pelindungan Data Pribadi](https://peraturan.bpk.go.id/Details/229798/uu-no-27-tahun-2022) (UU PDP)\""
+                                  },
+                                  {
+                                      "passage":  "Per semester II-2025 tercatat 53 perusahaan pemegang izin niaga CNG di Indonesia, naik dari 33 pada semester sebelumnya (data Kementerian ESDM, via Bloomberg Technoz).",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Per semester II-2025 tercatat 53 perusahaan pemegang izin niaga CNG di Indonesia, naik dari 33 pada semester sebelumnya \""
+                                  },
+                                  {
+                                      "passage":  "Dua yang lazim adalah Modbus, standar terbuka sejak 2004 untuk perangkat SCADA/PLC lama, dan MQTT, protokol ringan berstandar ISO/IEC 20922:2016 untuk sensor IoT.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Dua yang lazim adalah Modbus, standar terbuka sejak 2004 untuk perangkat SCADA/PLC lama, dan MQTT, protokol ringan berst\""
+                                  },
+                                  {
+                                      "passage":  "Standar ISO 50001:2018 pun mensyaratkan pemantauan dan pengumpulan data berkelanjutan, bukan tebakan bulanan.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Standar ISO 50001:2018 pun mensyaratkan pemantauan dan pengumpulan data berkelanjutan, bukan tebakan bulanan.\""
+                                  },
+                                  {
+                                      "passage":  "## Menghindari Vendor Lock-in: Klausul yang Sering Terlewat Vendor lock-in pada pasokan CNG jarang datang dari larangan pindah; pasar Indonesia justru punya banyak pemain.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Menghindari Vendor Lock-in: Klausul yang Sering Terlewat Vendor lock-in pada pasokan CNG jarang datang dari larangan \""
+                                  },
+                                  {
+                                      "passage":  "Soal siapa memiliki aset meter dan PRS pun tak berjawab baku: [regulasi Ditjen Migas](https://migas.esdm.go.id/post/Surat-Edaran-Penggunaan-Sistem-Ukur-pada-Kegiatan-Migas) menaruh tanggung jawab akurasi alat ukur pada badan usaha penyalur, sisanya ranah negosiasi.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Soal siapa memiliki aset meter dan PRS pun tak berjawab baku: [regulasi Ditjen Migas](https://migas.esdm.go.id/post/Sura\""
+                                  },
+                                  {
+                                      "passage":  "Justru karena bernilai strategis itulah hak atas data perlu diperjelas sejak awal.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Justru karena bernilai strategis itulah hak atas data perlu diperjelas sejak awal.\""
+                                  },
+                                  {
+                                      "passage":  "Tapi hak itu khusus data pribadi perseorangan, bukan data komersial badan usaha; pakai sebagai analogi konseptual saja, bukan dasar hukum menuntut ekspor data telemetri B2B.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Tapi hak itu khusus data pribadi perseorangan, bukan data komersial badan usaha; pakai sebagai analogi konseptual saja, \""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

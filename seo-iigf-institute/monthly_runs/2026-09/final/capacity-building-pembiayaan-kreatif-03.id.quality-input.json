@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-iigf-institute\\monthly_runs\\2026-09\\final\\capacity-building-pembiayaan-kreatif-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-22T06:16:49+07:00",
+    "word_count":  1590,
+    "paragraph_count":  22,
+    "sentence_count":  94,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.505,
+                        "sentence_burstiness":  0.902,
+                        "top30_vocab_share":  0.332,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "[Fasilitas Penyiapan Proyek](https://kpbu.kemenkeu.go.id/read/1094-1255/pjpk/dukungan-pemerintah/fasilitas-penyiapan-proyek) (*Project Development Facility*/PDF) kini diatur PMK Nomor 180/PMK.08/2020, berlaku sejak 23 November 2020, yang mencabut PMK 73/PMK.08/2018 (halaman resmi Kemenkeu dan peraturan.bpk.go.id, diakses 2026).",
+                                      "candidate_score":  61,
+                                      "web_search_query":  "\"[Fasilitas Penyiapan Proyek](https://kpbu.kemenkeu.go.id/read/1094-1255/pjpk/dukungan-pemerintah/fasilitas-penyiapan-pro\""
+                                  },
+                                  {
+                                      "passage":  "Dasar hukumnya PMK Nomor 180/PMK.08/2020, berlaku sejak 23 November 2020 dan mencabut PMK 73/PMK.08/2018 (peraturan.bpk.go.id, akses 2026).",
+                                      "candidate_score":  45,
+                                      "web_search_query":  "\"Dasar hukumnya PMK Nomor 180/PMK.08/2020, berlaku sejak 23 November 2020 dan mencabut PMK 73/PMK.08/2018 (peraturan.bpk.\""
+                                  },
+                                  {
+                                      "passage":  "Biaya konstruksi umumnya ditanggung Badan Usaha Pelaksana lewat *project financing*, dengan porsi utang mendominasi 70 hingga 80 persen dari biaya proyek (kpbu.kemenkeu.go.id, akses 2026).",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"Biaya konstruksi umumnya ditanggung Badan Usaha Pelaksana lewat *project financing*, dengan porsi utang mendominasi 70 h\""
+                                  },
+                                  {
+                                      "passage":  "Biaya konstruksi datang sesudahnya dan umumnya dibiayai Badan Usaha Pelaksana lewat *project financing* dengan porsi utang 70 hingga 80 persen (kpbu.kemenkeu.go.id, akses 2026).",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"Biaya konstruksi datang sesudahnya dan umumnya dibiayai Badan Usaha Pelaksana lewat *project financing* dengan porsi uta\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai satu titik data, pendampingan Fasilitas Penyiapan Proyek untuk proyek KPBU persampahan di Kota Balikpapan disepakati 36 bulan sesuai Kesepakatan Induk proyek tersebut, per *kick-off* Oktober 2023.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Sebagai satu titik data, pendampingan Fasilitas Penyiapan Proyek untuk proyek KPBU persampahan di Kota Balikpapan disepa\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Berapa lama tahap penyiapan proyek KPBU?",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Berapa lama tahap penyiapan proyek KPBU?\""
+                                  },
+                                  {
+                                      "passage":  "Program Capacity Building KPBU Pembiayaan Kreatif untuk Infrastruktur adalah salah satu jalurnya, dijalankan sambil berkolaborasi dalam ekosistem Kantor Bersama KPBU.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Program Capacity Building KPBU Pembiayaan Kreatif untuk Infrastruktur adalah salah satu jalurnya, dijalankan sambil berk\""
+                                  },
+                                  {
+                                      "passage":  "2 Tahun 2020 menyebut batas imbalan maksimum indikatif 25 persen dari total biaya yang dikeluarkan Badan Penyiapan (per publikasi 2023).",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"2 Tahun 2020 menyebut batas imbalan maksimum indikatif 25 persen dari total biaya yang dikeluarkan Badan Penyiapan (per \""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

@@ -1,0 +1,86 @@
+{
+  "keyword": "Gaslink",
+  "keyword_slug": "gaslink",
+  "month": "2026-07-2",
+  "captured_at": "2026-07-07",
+  "landing_page": "https://gagas.co.id/gaslink/",
+  "landing_page_summary": "Hub Gaslink: layanan gas bumi terkompresi (CNG) disalurkan via Gas Transport Module (GTM) sebagai 'pipa gas virtual' yang terhubung ke Pressure Reduction Station (PRS) di lokasi pelanggan; melayani industri, komersial, HOREKA, dan UMKM di luar jaringan pipa. Lima benefit eksplisit: (1) 'Harga Kompetitif dan Efisien', (2) 'Ramah Lingkungan', (3) 'Perhitungan Akurat' (smart metering), (4) 'Lebih Aman', (5) 'Pelayanan 24 Jam'. Landing page BARU secara eksplisit menyebut dukungan komitmen 'Net Zero Emission' dan prinsip ESG (Environmental, Social, Governance), serta sifat keselamatan CNG (lebih ringan dari udara, cepat menguap saat bocor). CTA: 021-29071415, info@gagas.co.id, Form Pendaftaran.",
+  "data_sources_used": ["live_serp (gagas.co.id/gaslink/ fetched fresh 2026-07-07)", "websearch (google.com/search raw blocked; degraded to WebSearch for SERP landscape, PAA-style questions, competitor angles, authoritative stats)", "webfetch (solarindustri.com CNG-safety explainer for competitor/gap analysis)", "reuse of 2026-07/research/gaslink.research.json shared facts (definition, GTM, safety, national stats)"],
+  "ahrefs_available": false,
+  "batch_context": "This is batch 2026-07-2 (Juli PART 2). Part-1 (monthly_runs/2026-07) already committed THREE Gaslink articles: gaslink-01 (informational: apa itu Gaslink + beyond-pipeline supply chain), gaslink-02 (comparison: Gaslink vs LPG vs solar biaya & efisiensi), gaslink-03 (how-to: industri yang cocok + cara penerapan/onboarding). These 3 NEW briefs must dedup (angle_hash + subtopic Jaccard <= 0.4) against all three. Part-1 history notes explicitly RESERVED these uncovered angles: supply reliability & redundancy/continuity planning; regulatory & compliance/permitting; safety certifications & environmental compliance; per-sector cost/retrofit case studies; ESG/decarbonization. These 3 briefs claim: (01) keandalan pasokan/kontinuitas, (02) keselamatan operasional on-site, (03) dekarbonisasi/ESG.",
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Branded product keyword with rising commercial signal. PGN Gagas melaporkan Gaslink 600+ pelanggan dan 4.067.002 MMBTU tersalur sepanjang 2025 (kumparan/ANTARA, Sep 2025); layanan 24 jam dikonfirmasi (ANTARA). Tidak ada angka volume numerik tanpa Ahrefs.",
+    "report_rank": "n/a (no seo_report; keywords.md batch 2026-07-2 seo_report: none)"
+  },
+  "serp": {
+    "top_10": [
+      { "url": "https://www.gagas.co.id/gaslink/", "title": "Gaslink", "angle_summary": "Own hub — definisi, GTM sebagai pipa gas virtual, 5 benefit (termasuk 'Lebih Aman' & 'Ramah Lingkungan'/Net Zero/ESG), form pendaftaran." },
+      { "url": "https://www.antaranews.com/berita/811253/pgn-layani-pelanggan-gaslink-24-jam", "title": "PGN layani pelanggan Gaslink 24 jam - ANTARA", "angle_summary": "Berita — menegaskan Gaslink beroperasi 24 jam; berguna sebagai fakta keandalan/kontinuitas layanan (bukan explainer)." },
+      { "url": "https://www.dunia-energi.com/jalankan-kebijakan-pemerintah-pgn-jamin-keandalan-pasokan-gas-untuk-industri/", "title": "PGN Jamin Keandalan Pasokan Gas untuk Industri - Dunia Energi", "angle_summary": "Berita korporat — PGN menjamin keandalan pasokan gas industri; konteks kebijakan, bukan panduan pembeli tentang cara menilai/menjaga kontinuitas." },
+      { "url": "https://solarindustri.com/blog/keamanan-cng-dalam-operasional-industri/", "title": "Apakah CNG aman? Risiko dan Standar Keselamatannya - Solar Industri", "angle_summary": "Explainer keselamatan CNG umum (sifat CNG, risiko, alat pengaman, Permen ESDM 32/2021 & 38/2017, ISO 15403, NFPA 52) — bukan spesifik Gaslink/PGN Gagas, dan bukan panduan on-site untuk manajer fasilitas." },
+      { "url": "https://money.kompas.com/read/2022/08/22/174430126/gaslink-cylinder-inovasi-cng-dalam-tabung-untuk-pelaku-umkm-dan-industri", "title": "Gaslink Cylinder, Inovasi CNG dalam Tabung - Kompas", "angle_summary": "Fokus sempit varian Gaslink Cylinder untuk UMKM; berita produk." },
+      { "url": "https://kominfo.jatimprov.go.id/index.php/berita/lebih-efisien-gaslink-pgn-diminati-industri", "title": "Lebih Efisien, Gaslink PGN Diminati Industri - Diskominfo Jatim", "angle_summary": "Berita pemda — Gaslink diminati industri karena efisiensi; PR-style, bukan explainer." },
+      { "url": "https://iesr.or.id/dekarbonisasi-industri-strategi-indonesia-untuk-mengurangi-emisi-dalam-5-sektor-utama/", "title": "Dekarbonisasi Industri: Strategi Indonesia - IESR", "angle_summary": "Kajian dekarbonisasi industri (bukan Gaslink) — sumber otoritatif untuk konteks emisi & target NDC; tidak menghubungkan ke fuel switching gas bumi secara praktis untuk pembeli." },
+      { "url": "https://www.asatunews.co.id/pgn-gagas-perluas-pemanfaatan-cng", "title": "PGN Gagas Perluas Pemanfaatan CNG Dukung Bauran Energi Nasional", "angle_summary": "Berita — ekspansi CNG PGN Gagas untuk bauran energi nasional; konteks korporat/kebijakan." },
+      { "url": "https://agendasonly.com/layanan-penyedia-cng-pasokan-distribusi-gtm/", "title": "Layanan Penyedia CNG: Pasokan, Distribusi GTM, hingga Dukungan Teknis", "angle_summary": "Konten pihak ketiga menyerupai artikel cluster 'Perusahaan CNG' (layanan penyedia) — overlap dengan hub CNG, bukan angle keandalan/keselamatan/ESG spesifik." },
+      { "url": "https://jdih.esdm.go.id/common/dokumen-external/Permen%20ESDM%20No.%2032%20Tahun%202021.pdf", "title": "Permen ESDM No. 32 Tahun 2021 (PDF) - JDIH ESDM", "angle_summary": "Regulasi primer pemeriksaan keselamatan instalasi & peralatan migas — sumber otoritatif untuk angle keselamatan (bukan konten pembanding)." }
+    ],
+    "serp_features": ["organic_news_heavy", "regulatory_pdf_present", "paa (inferred via websearch — raw google blocked)"],
+    "ai_overview_entities": ["Gaslink", "CNG (Compressed Natural Gas)", "Gas Transport Module (GTM)", "Pressure Reduction Station (PRS)", "Mother Station", "beyond pipeline / non jaringan pipa", "PT Gagas Energi Indonesia / PGN Gagas", "PGN (Subholding Gas Pertamina)", "keandalan pasokan / kontinuitas", "Net Zero Emission (NZE)", "ESG", "Permen ESDM No. 32 Tahun 2021", "emisi CO2", "smart metering / point of delivery"]
+  },
+  "paa": [
+    "Apakah pasokan Gaslink (CNG) bisa terputus dan bagaimana menjamin kontinuitasnya?",
+    "Bagaimana penyedia CNG menjaga pasokan gas tetap stabil 24 jam?",
+    "Apa yang terjadi jika satu Gas Transport Module (GTM) habis atau terlambat datang?",
+    "Apakah CNG (Gaslink) aman digunakan di lokasi pabrik atau hotel?",
+    "Apa saja standar keselamatan yang wajib dipenuhi untuk instalasi CNG industri?",
+    "Apa itu Pressure Reduction Station dan bagaimana perannya dalam keselamatan?",
+    "Berapa besar pengurangan emisi CO2 jika beralih dari solar/LPG ke gas bumi (CNG)?",
+    "Apakah beralih ke gas bumi membantu memenuhi target ESG dan Net Zero perusahaan?",
+    "Apakah ada pajak karbon di Indonesia dan bagaimana kaitannya dengan bahan bakar industri?"
+  ],
+  "gsc_style_queries_from_report": [],
+  "competitor_landscape": {
+    "news_PR_dominates_SERP": "Top organic untuk 'gaslink' & query terkait masih didominasi berita/PR (ANTARA, Kompas, Dunia Energi, Diskominfo Jatim, Asatu) + satu explainer keselamatan CNG generik (solarindustri.com) + regulasi mentah (Permen ESDM 32/2021). Tidak ada panduan pembeli/manajer fasilitas yang membahas (a) cara menilai & menjaga keandalan/kontinuitas pasokan CNG, (b) keselamatan operasional CNG di sisi PELANGGAN (bukan hanya kendaraan), atau (c) peran fuel switching ke gas bumi dalam agenda dekarbonisasi/ESG perusahaan.",
+    "rival_cng_providers": ["GASRA (gasra.co.id)", "SGE / sentralgas.com", "suppliercng.com", "Solar Industri (media/edukasi CNG generik)"],
+    "gap_to_exploit": "Tiga celah yang bersih untuk konten GEO-citable milik PGN Gagas: (1) KEANDALAN & KONTINUITAS — bagaimana virtual pipeline menjaga suplai tanpa jeda (cascade GTM, buffer, jadwal ritase, SLA, dukungan 24 jam, integrasi jaringan PGN) + jujur soal risiko & mitigasi; (2) KESELAMATAN ON-SITE — standar & perangkat keselamatan CNG di lokasi pelanggan (PRS, pressure relief device, gas detector, emergency shutdown, ventilasi, Permen ESDM 32/2021 & 38/2017, kompetensi operator, ISO 45001) sebagai panduan manajer fasilitas; (3) DEKARBONISASI/ESG — fuel switching solar/LPG->gas bumi sebagai langkah Scope-1 yang terukur, kaitan dengan NDC/NZE 2060, Nilai Ekonomi Karbon (Perpres 98/2021), Standar Industri Hijau, dan pelaporan emisi."
+  },
+  "key_facts_captured": {
+    "definition_verbatim_from_gagas": "Gaslink adalah layanan gas bumi terkompresi (CNG) yang disalurkan melalui Gas Transport Module (GTM) untuk pelaku usaha industri, komersial hingga UMKM yang belum dilalui jaringan gas pipa, dengan harga kompetitif.",
+    "gtm_as_virtual_pipeline": "GTM = moda transportasi CNG yang terhubung ke Pressure Reduction Station (PRS) permanen di lokasi pelanggan; berfungsi sebagai 'pipa gas virtual'. Gas mengalir dari GTM ke jaringan pipa internal pelanggan tanpa infrastruktur bawah tanah permanen.",
+    "five_landing_benefits_verbatim": ["Harga Kompetitif dan Efisien", "Ramah Lingkungan", "Perhitungan Akurat", "Lebih Aman", "Pelayanan 24 Jam"],
+    "landing_esg_nze_claim_VERIFY": "Landing page Gaslink menyebut layanan mendukung komitmen 'Net Zero Emission' dan prinsip ESG (Environmental, Social, Governance). Aman dikutip sebagai positioning Gagas; angka pengurangan emisi spesifik TETAP harus bersumber (bukan dari landing).",
+    "service_24h_VERIFY": "PGN melayani pelanggan Gaslink 24 jam (ANTARA, antaranews.com/berita/811253). Konfirmasi status terkini & konteks (mendukung klaim kontinuitas/keandalan).",
+    "gaslink_operational_sep2025_VERIFY": "kumparan/ANTARA (Sep 2025): Gaslink 600+ pelanggan; total penyaluran 4.067.002 MMBTU sepanjang 2025. Lebih baru dari company_profile.md (12 SPBG/4 MRU per akhir 2021). Researcher konfirmasi angka & sumber.",
+    "cng_safety_properties": "CNG lebih ringan dari udara (cepat menguap ke atas saat bocor, mengurangi akumulasi/ledakan di ruang tertutup); titik nyala/auto-ignition lebih tinggi; pembakaran relatif bersih (minim residu peralatan). Disimpan pada 200-250 bar; diturunkan di PRS ke tekanan kerja aman ~0,8-1,5 bar tergantung alat (angka kisaran industri - VERIFY sebagai rentang, bukan spesifikasi Gaslink resmi).",
+    "cng_safety_devices_VERIFY": "Perangkat keselamatan lazim: gas detector otomatis, katup penutup/shut-off otomatis (emergency shutdown), pressure relief device/valve, ventilasi memadai, APD (SCBA), rambu zona bahaya, prosedur tanggap darurat. Framing sebagai praktik standar industri; konfirmasi mana yang berlaku pada instalasi Gaslink.",
+    "safety_regulations": "Permen ESDM No. 32 Tahun 2021 (pemeriksaan keselamatan instalasi & peralatan migas; modifikasi/penambahan kapasitas wajib didahului risk assessment yang disetujui otoritas); Permen ESDM No. 38 Tahun 2017 (kewajiban keselamatan instalasi); Permen ESDM No. 5 Tahun 2015 (kompetensi operator per SKKNI); SNI 13-3474-2002 (sistem pipa gas); rujukan internasional ISO 15403 & NFPA 52. Kompetensi operator via PPSDM Migas (sertifikasi K3). VERIFY nomor & lingkup sebelum dikutip pasti.",
+    "gagas_iso45001": "PGN Gagas memegang ISO 45001:2018 (Occupational Health & Safety Management System) untuk layanan distribusi CNG (2025) + ISO 9001:2015 + ISO 37001:2016 (dari company_profile.md). Anchor keselamatan yang kuat & terverifikasi.",
+    "decarbonization_context_VERIFY": "IESR: emisi GRK sektor industri Indonesia meningkat ~2x lipat 2011-2022 mencapai >400 juta ton CO2e, ~60-70% dari penggunaan energi (pembakaran bahan bakar fosil). Indonesia Enhanced-NDC (ENDC): target turun dari 29%/835 juta ton menjadi 32%/912 juta ton CO2 pada 2030 (dengan bantuan internasional lebih tinggi). Target Net Zero Emission (NZE) 2060. VERIFY angka & tahun via IESR/KLHK/ESDM.",
+    "carbon_pricing_context_VERIFY": "Perpres No. 98 Tahun 2021 tentang Nilai Ekonomi Karbon (NEK): tiga mekanisme — perdagangan karbon, pembayaran berbasis kinerja, pungutan atas karbon (pajak karbon). Pajak karbon mulai berlaku (rencana April 2022) awalnya untuk PLTU batubara, tarif Rp30/kg CO2e. Standar Industri Hijau (SIH) & RPJPN 2025-2045 (ekonomi sirkular). VERIFY status & tarif terkini; frame sebagai konteks kebijakan, bukan kewajiban pasti untuk semua pelanggan Gaslink.",
+    "co2_emission_factors_reuse": "Faktor emisi CO2 per MMBTU (US EIA, sudah dipakai gaslink-02): gas bumi ~52,91 kg; LPG ~62,88 kg; solar/distillate ~74,14 kg. Selisih gas vs solar ~ -29%; gas vs LPG ~ -16%. Gunakan sebagai dasar klaim pengurangan emisi Scope-1 (label sumber & tahun).",
+    "DO_NOT_CONFUSE": "Program 'CNG tabung 3 kg pengganti LPG 3 kg' rumah tangga (CNN/Bloomberg Technoz 2026) BUKAN Gaslink industri. Kasus RS Kariadi hemat via gas PIPA (bukan Gaslink). Pajak karbon saat ini menyasar PLTU batubara, belum tentu semua industri pengguna gas — jangan overклaim beban/insentif ke pembaca."
+  },
+  "authoritative_sources_for_eeat": [
+    { "source": "Permen ESDM No. 32 Tahun 2021 (pemeriksaan keselamatan instalasi & peralatan migas)", "url_hint": "https://jdih.esdm.go.id/common/dokumen-external/Permen%20ESDM%20No.%2032%20Tahun%202021.pdf", "backs": "kewajiban pemeriksaan keselamatan & risk assessment instalasi gas (angle keselamatan)" },
+    { "source": "Kementerian ESDM - Laporan Kinerja Ditjen Migas 2025 / porsi sektor industri", "url_hint": "https://www.esdm.go.id/assets/media/content/content-laporan-kinerja-ditjen-minyak-dan-gas-bumi-tahun-2025.pdf", "backs": "pemanfaatan domestik gas bumi & porsi konsumen industri (semua angle)" },
+    { "source": "US EIA - CO2 emissions by fuel (per MMBTU)", "url_hint": "https://www.eia.gov/environment/emissions/co2_vol_mass.php", "backs": "faktor emisi CO2 gas vs LPG vs solar (angle dekarbonisasi)" },
+    { "source": "IESR - Dekarbonisasi Industri: Strategi Indonesia", "url_hint": "https://iesr.or.id/dekarbonisasi-industri-strategi-indonesia-untuk-mengurangi-emisi-dalam-5-sektor-utama/", "backs": "kontribusi emisi sektor industri & konteks dekarbonisasi (angle ESG)" },
+    { "source": "Perpres No. 98 Tahun 2021 - Nilai Ekonomi Karbon", "url_hint": "https://peraturan.bpk.go.id/Details/187122/perpres-no-98-tahun-2021", "backs": "kerangka NEK/pajak karbon & mengapa emisi jadi biaya (angle ESG)" }
+  ],
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      { "slug": "apa-itu-gaslink-gas-bumi-tanpa-pipa", "angle_hash": "sha1:ff68a917b980", "intent": "informational", "subtopics": ["CNG definisi", "beyond pipeline", "Mother Station", "GTM", "PRS", "Gaslink Cylinder", "rantai pasok", "keselamatan CNG (dasar)"] },
+      { "slug": "gaslink-vs-lpg-vs-solar-biaya-efisiensi", "angle_hash": "sha1:5f0ff51ae016", "intent": "comparison", "subtopics": ["efisiensi pembakaran", "emisi CO2 (untuk biaya)", "harga per MMBTU", "nilai kalori", "payback period", "HGBT"] },
+      { "slug": "industri-cocok-pakai-gaslink-cara-penerapan", "angle_hash": "sha1:bbb4be06533d", "intent": "how-to", "subtopics": ["cara berlangganan", "kesiapan lokasi", "onboarding 7 langkah", "profil sektor", "retrofit peralatan"] }
+    ],
+    "uncovered_angles_now_claimed": [
+      "gaslink-01 (batch 2): KEANDALAN & KONTINUITAS PASOKAN — cara virtual pipeline (cascade GTM, buffer, ritase, SLA, 24 jam, integrasi jaringan PGN) menjaga suplai tanpa jeda + risiko & mitigasi jujur. Intent: troubleshooting/trust (reliability). RESERVED oleh gaslink-03 part-1 ('supply reliability & redundancy planning').",
+      "gaslink-02 (batch 2): KESELAMATAN OPERASIONAL CNG DI LOKASI PELANGGAN — panduan manajer fasilitas: PRS, pressure relief device, gas detector, emergency shutdown, ventilasi, Permen ESDM 32/2021 & 38/2017, kompetensi operator, ISO 45001. Intent: safety how-to/trust. RESERVED oleh gaslink-01 part-1 ('safety certifications' hanya di level FAQ).",
+      "gaslink-03 (batch 2): DEKARBONISASI & ESG — fuel switching solar/LPG->gas bumi sebagai langkah Scope-1 terukur; NDC/NZE 2060, Nilai Ekonomi Karbon (Perpres 98/2021), Standar Industri Hijau, pelaporan emisi. Intent: decision/thought-leadership. RESERVED oleh gaslink-02 part-1 (emisi hanya untuk biaya) & gaslink-03 part-1 ('regulatory & compliance')."
+    ],
+    "dedup_note": "Semua 3 angle baru punya subtopik set yang berbeda dari 3 part-1. Singgungan tipis: CO2 emission factors muncul di gaslink-02 part-1 (untuk BIAYA) dan gaslink-03 batch-2 (untuk EMISI/ESG) — bingkai & tujuan berbeda, Jaccard < 0.4. 'Keselamatan CNG' disinggung ringan di gaslink-01 part-1 (properti dasar) vs digarap penuh sebagai panduan on-site di gaslink-02 batch-2. 'Keandalan/24 jam' hanya disebut sepintas di landing; digarap penuh di gaslink-01 batch-2."
+  }
+}

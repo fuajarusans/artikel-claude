@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-iigf-institute\\monthly_runs\\2026-08\\final\\capacity-building-pembiayaan-kreatif-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-12T15:15:47+07:00",
+    "word_count":  1614,
+    "paragraph_count":  17,
+    "sentence_count":  116,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.464,
+                        "sentence_burstiness":  0.719,
+                        "top30_vocab_share":  0.277,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Rencana Pemprov DKI Jakarta senilai Rp 3,5 triliun bertarget 2027 masih indikatif per pemberitaan 2026.",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"Rencana Pemprov DKI Jakarta senilai Rp 3,5 triliun bertarget 2027 masih indikatif per pemberitaan 2026.\""
+                                  },
+                                  {
+                                      "passage":  "Pembayaran Ketersediaan Layanan adalah pembayaran berkala oleh Menteri, Kepala Lembaga, atau Kepala Daerah kepada Badan Usaha Pelaksana atas tersedianya layanan sesuai kualitas dalam Perjanjian KPBU.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Pembayaran Ketersediaan Layanan adalah pembayaran berkala oleh Menteri, Kepala Lembaga, atau Kepala Daerah kepada Badan \""
+                                  },
+                                  {
+                                      "passage":  "Rumusan resmi Pembayaran Ketersediaan Layanan berasal dari [portal KPBU Kementerian Keuangan](https://kpbu.kemenkeu.go.id/read/1095-1258/pjpk/pembayaran-kepada-badan-usaha/pembayaran-ketersediaan-layanan) dan berpijak pada PMK No.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Rumusan resmi Pembayaran Ketersediaan Layanan berasal dari [portal KPBU Kementerian Keuangan](https://kpbu.kemenkeu.go.i\""
+                                  },
+                                  {
+                                      "passage":  "Contoh di Indonesia adalah platform SDG Indonesia One yang dikelola PT Sarana Multi Infrastruktur sejak 2018.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"Contoh di Indonesia adalah platform SDG Indonesia One yang dikelola PT Sarana Multi Infrastruktur sejak 2018.\""
+                                  },
+                                  {
+                                      "passage":  "1 Tahun 2024; indikasinya rasio minimal 2,5 kali dan pagu 75% pendapatan APBD tahun sebelumnya yang tidak ditentukan penggunaannya.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"1 Tahun 2024; indikasinya rasio minimal 2,5 kali dan pagu 75% pendapatan APBD tahun sebelumnya yang tidak ditentukan pen\""
+                                  },
+                                  {
+                                      "passage":  "# Instrumen Pembiayaan Kreatif Daerah: Memilih Skema yang Tepat Rapat penyiapan proyek sering berhenti di titik yang sama.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"# Instrumen Pembiayaan Kreatif Daerah: Memilih Skema yang Tepat Rapat penyiapan proyek sering berhenti di titik yang sam\""
+                                  },
+                                  {
+                                      "passage":  "Melalui tiga pilar edukasi, riset, dan advokasi kebijakan, IIGF Institute sebagai unit manajemen pengetahuan PT Penjaminan Infrastruktur Indonesia (Persero) memperkuat kapasitas SDM dan basis pengetahuan KPBU.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Melalui tiga pilar edukasi, riset, dan advokasi kebijakan, IIGF Institute sebagai unit manajemen pengetahuan PT Penjamin\""
+                                  },
+                                  {
+                                      "passage":  "Syaratnya aset sudah beroperasi, sisa umur manfaat minimal 10 tahun, terdaftar dan diaudit.",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"Syaratnya aset sudah beroperasi, sisa umur manfaat minimal 10 tahun, terdaftar dan diaudit.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

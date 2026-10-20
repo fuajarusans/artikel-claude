@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-iigf-institute\\monthly_runs\\2026-08\\final\\sertifikasi-kpbu-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-12T15:36:18+07:00",
+    "word_count":  1548,
+    "paragraph_count":  30,
+    "sentence_count":  105,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.366,
+                        "sentence_burstiness":  0.872,
+                        "top30_vocab_share":  0.326,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.366 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Perkumpulan Ahli Profesional KPBU Indonesia (PAP-KPBU) menyelenggarakan pelatihan tingkat dasar ahli KPBU, sementara uji skema Ahli Pratama KPBU dilaksanakan LSP KPBU Indonesia, lembaga terkait namun terpisah.",
+                                      "candidate_score":  32,
+                                      "web_search_query":  "\"Perkumpulan Ahli Profesional KPBU Indonesia (PAP-KPBU) menyelenggarakan pelatihan tingkat dasar ahli KPBU, sementara uji\""
+                                  },
+                                  {
+                                      "passage":  "IIGF Institute, unit manajemen pengetahuan PT Penjaminan Infrastruktur Indonesia (Persero) di bidang KPBU, tercatat sebagai *Accredited Training Organization* (ATO) APMG pertama di Indonesia sejak 2019.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"IIGF Institute, unit manajemen pengetahuan PT Penjaminan Infrastruktur Indonesia (Persero) di bidang KPBU, tercatat seba\""
+                                  },
+                                  {
+                                      "passage":  "Bukan seluruh ASN, bukan seluruh anggota simpul KPBU, dan bukan seluruh Badan Usaha Pelaksana.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Bukan seluruh ASN, bukan seluruh anggota simpul KPBU, dan bukan seluruh Badan Usaha Pelaksana.\""
+                                  },
+                                  {
+                                      "passage":  "Ayat sebelumnya menyebut simpul KPBU dapat dibantu Badan Penyiapan, konsultan Badan Usaha, konsultan perorangan, dan/atau akademisi.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Ayat sebelumnya menyebut simpul KPBU dapat dibantu Badan Penyiapan, konsultan Badan Usaha, konsultan perorangan, dan/ata\""
+                                  },
+                                  {
+                                      "passage":  "Kewajiban serupa juga muncul di lampiran peraturan yang sama untuk peran Penasihat Proses yang berasal dari Badan Usaha maupun perorangan (Berita Negara RI Tahun 2023 Nomor 777).",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Kewajiban serupa juga muncul di lampiran peraturan yang sama untuk peran Penasihat Proses yang berasal dari Badan Usaha \""
+                                  },
+                                  {
+                                      "passage":  "Kerangka global itu tetap perlu diterjemahkan ke Perpres 38/2015 dan Permen PPN 7/2023 sebelum berguna di meja kerja Anda.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Kerangka global itu tetap perlu diterjemahkan ke Perpres 38/2015 dan Permen PPN 7/2023 sebelum berguna di meja kerja And\""
+                                  },
+                                  {
+                                      "passage":  "CP3P (*Certified Public-Private Partnership Professional*) dimiliki dan dianugerahkan oleh [APMG International](https://ppp-certification.com/), dan kredensial penuhnya baru diperoleh setelah kandidat lulus ketiga ujian: Foundation, Preparation, dan Execution (APMG International, 2026).",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"CP3P (*Certified Public-Private Partnership Professional*) dimiliki dan dianugerahkan oleh [APMG International](https://\""
+                                  },
+                                  {
+                                      "passage":  "7 Tahun 2023](https://jdih.bappenas.go.id/) berlaku pada 29 September 2023, ada kewajiban sertifikasi ahli KPBU bagi kelompok tenaga ahli tertentu.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"7 Tahun 2023](https://jdih.bappenas.go.id/) berlaku pada 29 September 2023, ada kewajiban sertifikasi ahli KPBU bagi kel\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

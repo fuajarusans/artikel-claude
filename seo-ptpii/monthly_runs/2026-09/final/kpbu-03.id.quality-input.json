@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-ptpii\\monthly_runs\\2026-09\\final\\kpbu-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-21T11:34:20+07:00",
+    "word_count":  1677,
+    "paragraph_count":  25,
+    "sentence_count":  98,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.503,
+                        "sentence_burstiness":  0.849,
+                        "top30_vocab_share":  0.33,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "68 Tahun 2024 tentang Dukungan Pemerintah untuk Pembiayaan Infrastruktur melalui Skema KPBU dan/atau Skema Pembiayaan Lainnya, ditetapkan 24 September 2024 dan berlaku 18 Oktober 2024.",
+                                      "candidate_score":  52,
+                                      "web_search_query":  "\"68 Tahun 2024 tentang Dukungan Pemerintah untuk Pembiayaan Infrastruktur melalui Skema KPBU dan/atau Skema Pembiayaan La\""
+                                  },
+                                  {
+                                      "passage":  "PJPK proyek tersebut, yaitu Menteri, Kepala Lembaga, atau Kepala Daerah pemilik proyek, melalui anggaran kementerian/lembaga atau APBD, sesuai Pasal 13 Perpres 38/2015.",
+                                      "candidate_score":  35,
+                                      "web_search_query":  "\"PJPK proyek tersebut, yaitu Menteri, Kepala Lembaga, atau Kepala Daerah pemilik proyek, melalui anggaran kementerian/lem\""
+                                  },
+                                  {
+                                      "passage":  "68 Tahun 2024](https://jdih.kemenkeu.go.id/dok/pmk-68-tahun-2024) yang ditetapkan 24 September 2024 dan berlaku 18 Oktober 2024.",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"68 Tahun 2024](https://jdih.kemenkeu.go.id/dok/pmk-68-tahun-2024) yang ditetapkan 24 September 2024 dan berlaku 18 Oktob\""
+                                  },
+                                  {
+                                      "passage":  "Perpres 38/2015 sendiri berstatus berlaku menurut metadata [peraturan.go.id](https://peraturan.go.id/id/perpres-no-38-tahun-2015) per pemeriksaan September 2026.",
+                                      "candidate_score":  27,
+                                      "web_search_query":  "\"Perpres 38/2015 sendiri berstatus berlaku menurut metadata [peraturan.go.id](https://peraturan.go.id/id/perpres-no-38-ta\""
+                                  },
+                                  {
+                                      "passage":  "Halaman Availability Payment di portal yang sama, per September 2026, masih mencantumkan PMK 260/PMK.08/2016 sebagai dasar hukum, padahal PMK itu sudah dicabut [PMK No.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Halaman Availability Payment di portal yang sama, per September 2026, masih mencantumkan PMK 260/PMK.08/2016 sebagai das\""
+                                  },
+                                  {
+                                      "passage":  "Portal Kantor Bersama KPBU, per pemeriksaan September 2026, menyebut tiga prinsip penganggarannya: kemampuan keuangan negara, kesinambungan fiskal, dan pengelolaan risiko fiskal.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Portal Kantor Bersama KPBU, per pemeriksaan September 2026, menyebut tiga prinsip penganggarannya: kemampuan keuangan ne\""
+                                  },
+                                  {
+                                      "passage":  "Hingga pemeriksaan September 2026, halaman resmi portal KPBU Kementerian Keuangan untuk opsi ini hanya memuat satu kalimat tanpa elaborasi maupun contoh.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Hingga pemeriksaan September 2026, halaman resmi portal KPBU Kementerian Keuangan untuk opsi ini hanya memuat satu kalim\""
+                                  },
+                                  {
+                                      "passage":  "Availability Payment (Pembayaran Ketersediaan Layanan) adalah pembayaran berkala dari PJPK kepada Badan Usaha Pelaksana atas tersedianya layanan infrastruktur sesuai kualitas yang disepakati dalam Perjanjian Kerja Sama.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Availability Payment (Pembayaran Ketersediaan Layanan) adalah pembayaran berkala dari PJPK kepada Badan Usaha Pelaksana \""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-08\\final\\laporan-laba-rugi-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-18T00:21:53+07:00",
+    "word_count":  1070,
+    "paragraph_count":  20,
+    "sentence_count":  59,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.472,
+                        "sentence_burstiness":  0.889,
+                        "top30_vocab_share":  0.389,
+                        "flags":  [
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 38.9% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Menurut Ikatan Akuntan Indonesia (IAI), penomoran ulang dari PSAK 1 disahkan 12 Desember 2022 dan berlaku efektif 1 Januari 2024.",
+                                      "candidate_score":  27,
+                                      "web_search_query":  "\"Menurut Ikatan Akuntan Indonesia (IAI), penomoran ulang dari PSAK 1 disahkan 12 Desember 2022 dan berlaku efektif 1 Janu\""
+                                  },
+                                  {
+                                      "passage":  "## Laporan Laba Rugi di Dalam Sistem: Satu Ledger, Banyak Versi Laporan Di ERP (*Enterprise Resource Planning*), laporan laba rugi tidak disusun ulang tiap akhir bulan.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"## Laporan Laba Rugi di Dalam Sistem: Satu Ledger, Banyak Versi Laporan Di ERP (*Enterprise Resource Planning*), laporan\""
+                                  },
+                                  {
+                                      "passage":  "Ilustrasi berikut memakai angka rekaan, bukan laporan perusahaan nyata: Pendapatan Rp850.000.000 − HPP Rp510.000.000 = **Laba Kotor Rp340.000.000**.",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"Ilustrasi berikut memakai angka rekaan, bukan laporan perusahaan nyata: Pendapatan Rp850.000.000 − HPP Rp510.000.000 = *\""
+                                  },
+                                  {
+                                      "passage":  "## Komponen Laporan Laba Rugi: Dari Pendapatan ke Laba Bersih Komponennya tidak berdiri sebagai daftar beban yang datar.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Komponen Laporan Laba Rugi: Dari Pendapatan ke Laba Bersih Komponennya tidak berdiri sebagai daftar beban yang datar.\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai SAP Platinum Partner melalui United VARs, Soltius mengimplementasikan dan mendampingi SAP S/4HANA Finance, termasuk menata struktur pelaporan keuangannya.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Sebagai SAP Platinum Partner melalui United VARs, Soltius mengimplementasikan dan mendampingi SAP S/4HANA Finance, terma\""
+                                  },
+                                  {
+                                      "passage":  "# Laporan Laba Rugi: Komponen, Jenis, dan Cara Membacanya Laporannya selesai, angkanya cocok, tetapi tidak ada yang bisa menjawab pertanyaan direktur: beban mana yang sebenarnya menggerus margin kita?",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"# Laporan Laba Rugi: Komponen, Jenis, dan Cara Membacanya Laporannya selesai, angkanya cocok, tetapi tidak ada yang bisa\""
+                                  },
+                                  {
+                                      "passage":  "Laba kotor hanya dikurangi harga pokok penjualan, sehingga menguji harga jual dan efisiensi produksi.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Laba kotor hanya dikurangi harga pokok penjualan, sehingga menguji harga jual dan efisiensi produksi.\""
+                                  },
+                                  {
+                                      "passage":  "Penjualan kredit yang belum tertagih tetap menambah laba, sementara penyusutan mengurangi laba tanpa mengeluarkan kas.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Penjualan kredit yang belum tertagih tetap menambah laba, sementara penyusutan mengurangi laba tanpa mengeluarkan kas.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

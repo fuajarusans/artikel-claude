@@ -1,0 +1,89 @@
+{
+  "keyword": "Low Code Platform",
+  "keyword_slug": "low-code-platform",
+  "month": "2026-09",
+  "captured_at": "2026-09-17",
+  "landing_page": "https://www.soltius.co.id/id/blog/low-code-and-no-code-platforms",
+  "landing_page_summary": "Hub tipis: hanya 3 H2 (Apa itu Low-Code dan No-Code; Low-Code vs No-Code; Mengapa Low-Code/No-Code Digunakan). TIDAK menyebut SAP Build, SAP BTP, clean core, citizen developer (istilah), atau kerangka buy-vs-build. Banyak ruang untuk artikel pendukung yang lebih spesifik-SAP, decision-stage, dan governance.",
+  "data_sources_used": ["live_websearch_serp", "websearch", "landing_page_webfetch", "articles_history"],
+  "ahrefs_available": false,
+  "gsc_available": false,
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Naik. Gartner: low-code akan mencakup 75% pengembangan aplikasi baru pada 2026 (dari 40% pada 2021); pasar global diproyeksi USD 44,5 miliar pada 2026 (CAGR ~19%); >=80% pengguna low-code berasal dari luar IT pada 2026. Adopsi LCNC ~70% perusahaan global pada 2025 (dikutip Mekari).",
+    "apr2026_rank": "n/a (seo_report: none untuk 2026-09; low-code terakhir aktif di batch 2026-06; hub sendiri muncul di SERP ID untuk 'low code platform')"
+  },
+  "serp": {
+    "top_results_id": [
+      { "url": "https://mekari.com/blog/low-code-no-code-platform/", "title": "Low Code No Code Platform: Definisi, Manfaat, Penggunaan", "angle_summary": "Definitional/manfaat generik; kutip stat Gartner 70% adopsi 2025." },
+      { "url": "https://www.zoho.com/id/creator/application-development/low-code.html", "title": "Apa itu pengembangan aplikasi low-code? | Zoho Creator", "angle_summary": "Vendor-promo Zoho Creator; manfaat platform low-code." },
+      { "url": "https://javan.co.id/blog/custom-code-vs-low-code-platform", "title": "Custom Code vs Low Code Platform: Mana yang Lebih Cocok?", "angle_summary": "Custom code vs low-code, sudut software house; belum ada kerangka buy/build/low-code tiga-jalur." },
+      { "url": "https://kelas.work/blogs/daftar-platform-low-code-yang-digunakan-untuk-app-development", "title": "9 Platform Low Code untuk Mengembangkan Aplikasi Lebih Mudah", "angle_summary": "Listicle 9 platform; tidak SAP-spesifik, tidak enterprise decision." },
+      { "url": "https://indokrisna.com/blogs/5-platform-low-code-terbaik-untuk-app-development-fitur-kelebihan-dan-kekurangan/", "title": "5 Platform Low Code Terbaik: Fitur, Kelebihan, Kekurangan", "angle_summary": "Listicle kelebihan/kekurangan; generik, bukan untuk pengguna SAP." },
+      { "url": "https://bts.id/blog/low-code-vs-full-code-pilih-solusi-terbaik-untuk-proyek-digital-anda", "title": "Low-Code vs Full-Code: Pilih Solusi Terbaik", "angle_summary": "Low-code vs full-code, sudut agensi." },
+      { "url": "https://www.soltius.co.id/id/blog/low-code-and-no-code-platforms", "title": "Low-Code Platforms: Perbandingan No-Code, Manfaat, Integrasi (Soltius hub)", "angle_summary": "Hub Soltius sendiri; tipis (3 H2)." }
+    ],
+    "serp_features": ["paa", "ai_overview_likely"],
+    "ai_overview_entities": ["low-code platform", "no-code", "drag-and-drop visual interface", "citizen developer", "Gartner", "vendor lock-in", "keamanan"],
+    "gap_analysis": "SERP ID didominasi (a) definitional/manfaat generik dan (b) listicle 'X platform terbaik'. TIDAK ADA konten ID yang: memandu pemilihan platform low-code untuk perusahaan yang SUDAH memakai SAP (SAP Build vs Power Platform vs Mendix); menyajikan kerangka keputusan buy vs build vs low-code untuk aplikasi enterprise; atau menjelaskan bagaimana low-code (SAP Build) cocok dengan model extensibility clean core S/4HANA. Ketiganya = whitespace decision/comparison/technical yang cocok untuk audiens B2B Soltius."
+  },
+  "paa": [
+    "Apa itu low code platform?",
+    "Apa perbedaan low-code dan no-code?",
+    "Apa kelebihan dan kekurangan platform low-code?",
+    "Platform low-code apa yang terbaik untuk perusahaan?",
+    "Apakah low-code aman untuk aplikasi enterprise?",
+    "Apa itu SAP Build?",
+    "Lebih baik beli aplikasi jadi atau bangun sendiri?",
+    "Berapa biaya membangun aplikasi dengan low-code?",
+    "Apakah low-code bisa dipakai bersama SAP S/4HANA?",
+    "Apa itu clean core pada SAP?"
+  ],
+  "verified_facts": {
+    "gartner_lowcode_75pct": "By 2026, low-code development tools account for ~75% of new application development, up from 40% in 2021 (Gartner). Sources: InfoWorld, kissflow (Gartner forecast).",
+    "gartner_market_44_5b": "Pasar low-code global diproyeksi USD 44,5 miliar pada 2026, CAGR ~19% (Gartner via InfoWorld/kissflow).",
+    "gartner_non_it_80pct": "By 2026, >=80% pengguna low-code berasal dari luar departemen IT (naik dari ~60% pada 2021) (Gartner).",
+    "sap_build_portfolio": "SAP Build = portofolio terpadu: SAP Build Apps (bangun aplikasi visual), SAP Build Process Automation (otomasi workflow/RPA), SAP Build Work Zone (workspace/portal), plus SAP Build Code (pro-code). Lifecycle & monitoring terpusat. (community.sap.com What's New Q1-Q4 2025).",
+    "sap_build_ai_joule": "2025: Joule terintegrasi di semua edisi SAP Build Work Zone; SAP Build Apps memakai GenAI mengusulkan halaman UI dari data model; SAP Build Process Automation dapat membuat form/decision/flow dari deskripsi bahasa natural. Joule for Developers diperkenalkan Mar 2025. (news.sap.com; community.sap.com).",
+    "sap_build_deployment": "SAP Build berjalan di SAP BTP sebagai side-by-side extensibility; terintegrasi native ke S/4HANA lewat released APIs. VERIFY detail konektor spesifik via help.sap.com (researcher).",
+    "clean_core_extensibility_model": "Model extensibility SAP: on-stack (ABAP Cloud/RAP = developer extensibility; key-user/in-app extensibility di aplikasi Fiori standar, no-code) vs side-by-side (SAP BTP, SAP Build). ABAP Cloud = upgrade-safe, hanya akses released SAP APIs. Strategi 'BTP-first'.",
+    "clean_core_4_level_model": "PENTING-VERIFY: model 3-tier lama kini berkembang menjadi 'clean core maturity model' 4 level (A, B, C, D) berdasarkan integritas arsitektur & upgrade-safety. Level A = evolusi Tier 1, hanya interface publik-stabil via ABAP Cloud. Diperbarui SAP ~Agustus 2025. Researcher WAJIB konfirmasi status terkini (3-tier vs 4-level) via SAP News/help.sap.com sebelum ditulis sebagai fakta.",
+    "power_platform": "Microsoft Power Platform: integrasi dalam ekosistem Microsoft (Dataverse, SharePoint, Teams, Power Automate); jalur tercepat citizen development untuk organisasi M365. (Gartner Peer Insights, SelectHub).",
+    "mendix": "Mendix: model-driven, fusion development (business + citizen + pro developer), AI layer 'Maia' (NL app generation); kuat untuk aplikasi kompleksitas menengah-tinggi & multi-channel. Rating Gartner Peer Insights 4,5 (314 review). (Gartner Peer Insights, SelectHub).",
+    "buy_build_lowcode_framework": "2026: keputusan software enterprise = 3 jalur: build custom (untuk yang benar-benar diferensiasi/strategis), buy SaaS (untuk komoditas: helpdesk, payroll), atau buy-and-extend/low-code (untuk middle ground: workflow/approval/form yang menghubungkan sistem internal). Kriteria: seberapa strategis, apa yang tim eng bisa 'own', dan TCO bertahun-tahun. Framework terstruktur -> 30-40% lebih sedikit kegagalan implementasi. (kissflow, Forbes, zylo)."
+  },
+  "external_citation_candidates": [
+    { "url": "https://www.infoworld.com/article/2337677/low-code-development-technologies-market-forecast-to-hit-445-billion-by-2026.html", "context": "Gartner: pasar low-code USD 44,5 miliar & 75% aplikasi baru pada 2026" },
+    { "url": "https://news.sap.com/2025/08/extend-sap-s4hana-cloud-right-way-clean-clear/", "context": "SAP: cara memperluas S/4HANA Cloud sesuai clean core (extensibility model)" },
+    { "url": "https://news.sap.com/2025/03/joule-for-developers-ai-powered-capabilities/", "context": "SAP Build + Joule (GenAI) 2025" },
+    { "url": "https://www.gartner.com/reviews/market/enterprise-low-code-application-platform", "context": "Gartner Peer Insights: perbandingan Enterprise Low-Code Application Platforms" },
+    { "url": "https://community.sap.com/t5/technology-blog-posts-by-members/getting-to-a-clean-core-the-new-maturity-model-of-extensions-into-four/ba-p/14326982", "context": "Clean core maturity model 4 level (A-D) - VERIFY status terkini" }
+  ],
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      { "id": "2026-06-low-code-platform-01", "angle": "definisi-dan-cara-kerja-enterprise", "intent": "informational/definitional" },
+      { "id": "2026-06-low-code-platform-02", "angle": "sap-build-btp-enterprise-deployment (3 komponen SAP Build vs ABAP)", "intent": "comparison (internal SAP)" },
+      { "id": "2026-06-low-code-platform-03", "angle": "citizen-developer-program-roadmap", "intent": "how-to" },
+      { "id": "2026-06-low-code-platform-04", "angle": "risiko-keamanan-governance-enterprise", "intent": "troubleshooting/counter-conventional" },
+      { "id": "2026-06-low-code-platform-05", "angle": "industri-manufaktur-supply-chain-use-case", "intent": "decision/use-case" }
+    ],
+    "uncovered_angles": [
+      "Perbandingan CROSS-VENDOR platform low-code untuk pengguna SAP (SAP Build vs Power Platform vs Mendix) -> dipakai 2026-09-01",
+      "Kerangka keputusan buy vs build vs low-code untuk aplikasi enterprise + TCO -> dipakai 2026-09-02",
+      "Low-code dan clean core: model extensibility S/4HANA (in-app, side-by-side, ABAP Cloud) -> dipakai 2026-09-03",
+      "Low-code + AI / Joule / generative app builder (masih terbuka untuk bulan depan)",
+      "Low-code untuk perbankan/jasa keuangan; untuk HR/procurement (masih terbuka)",
+      "Low-code Center of Excellence / fusion team operating model (masih terbuka)",
+      "Exit strategy / mitigasi vendor lock-in mendalam (masih terbuka)"
+    ]
+  },
+  "cousins_this_month": {
+    "note": "Cousins dipilih dari set 2026-09 (bukan product_matrix default digital-manufacturing yang tidak ada bulan ini). Set: warehouse management system, Business Intelligence, Vendor management system, SAP Clean Core.",
+    "primary_cousin": { "keyword": "SAP Clean Core", "url": "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide", "why": "Low-code (SAP Build/BTP side-by-side) = cara utama menjaga core S/4HANA tetap standar/upgrade-safe." },
+    "secondary_cousins": [
+      { "keyword": "Business Intelligence", "url": "https://www.soltius.co.id/id/blog/business-intelligence", "why": "Aplikasi low-code sering memberi input/menyajikan data ke BI (SAP Build + SAP Analytics Cloud)." },
+      { "keyword": "Vendor management system", "url": "https://www.soltius.co.id/id/blog/sistem-manajemen-vendor", "why": "Aplikasi procurement/vendor = kandidat klasik keputusan buy-vs-build-vs-low-code." }
+    ]
+  }
+}

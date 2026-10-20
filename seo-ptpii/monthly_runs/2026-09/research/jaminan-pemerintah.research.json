@@ -1,0 +1,295 @@
+{
+  "keyword": "Jaminan Pemerintah",
+  "keyword_slug": "jaminan-pemerintah",
+  "month": "2026-09",
+  "language": "id",
+  "captured_at": "2026-09-17",
+  "priority": "whitespace",
+  "client_anchor": "Penjaminan Pemerintah",
+  "articles_requested": 3,
+
+  "landing_page": "https://www.ptpii.co.id/kpbu",
+  "landing_page_verified": "2026-09-17 — fetched fresh this run",
+  "landing_page_title": "KPBU Indonesia: Definisi & Tantangan Infrastruktur",
+  "landing_page_h1": "PRODUK PENJAMINAN PEMERINTAH (KPBU)",
+  "landing_page_note": "Confirms the client sheet's landing_page cell holds this page TITLE, not a URL. Title resolves to https://www.ptpii.co.id/kpbu. Re-verified 2026-09-17.",
+  "landing_page_h2s": [
+    "Penjaminan Pemerintah dengan Skema KPBU",
+    "Memahami Definisi dan Konsep Dasar KPBU (Jaminan Pemerintah)",
+    "Mengapa KPBU Begitu Penting untuk Indonesia?",
+    "Sektor Prioritas KPBU di Indonesia",
+    "Tahapan Proyek KPBU di Indonesia: Sebuah Perjalanan Terstruktur",
+    "Transformasi Infrastruktur Indonesia dan Peran Strategis PT PII",
+    "KPBU dan Peran PT PII sebagai Katalis Pembangunan Infrastruktur Berkelanjutan"
+  ],
+  "landing_page_summary": "Hub teaches KPBU definition, why KPBU matters, funding gap, priority sectors, project stages, and PT PII's role as guarantor. It explicitly states PT PII guarantees political risk of government 'baik pusat dan daerah selaku penanggung jawab proyek kerjasama'.",
+  "landing_page_gaps_this_month_can_fill": [
+    "No treatment of how guarantee exposure is accounted for, disclosed or stress-tested (feeds brief 01)",
+    "No treatment of how the five PMK 68/2024 support forms sequence or combine (feeds brief 02)",
+    "No treatment of the access route for a daerah/sub-sovereign PJPK (feeds brief 03)"
+  ],
+
+  "cousin_hubs": {
+    "https://www.ptpii.co.id/pembiayaan-kreatif": {
+      "title": "Pembiayaan Kreatif untuk Infrastruktur Daerah Inovatif",
+      "verified": "2026-09-17",
+      "relevant_h3s": ["Peran Pembiayaan Kreatif dalam Konteks UU HKPD", "Potensi Pembiayaan Daerah Melalui Skema Kreatif", "Tantangan Implementasi Pembiayaan Kreatif untuk Infrastruktur"],
+      "why_useful_as_cousin": "Carries the UU HKPD / APBD-capacity framing that the daerah and fiscal-exposure angles connect to."
+    },
+    "https://www.ptpii.co.id/public-private-partnership": {
+      "title": "Indonesia's Public Private Partnership: Definition & Infrastructure",
+      "verified": "2026-09-17",
+      "relevant_h2s": ["Government Guarantee under the Public Private Partnership", "Priority PPP Sectors in Indonesia", "PPP Project Stages in Indonesia: A Structured Journey"],
+      "why_useful_as_cousin": "English-language mirror of the guarantee framing; the natural sideways link when an article touches international practice or lender/investor readership."
+    }
+  },
+
+  "ahrefs_available": false,
+  "gsc_available": false,
+  "seo_report": "none (keywords.md sets seo_report: none)",
+  "data_sources_used": ["landing_page_fetch", "primary_source_webfetch", "websearch"],
+  "websearch_calls_used": 8,
+  "websearch_budget": 12,
+
+  "serp_capture_status": "DEGRADED — record honestly, do not treat as a clean SERP pull",
+  "serp_capture_notes": [
+    "WebFetch on google.com/search?q=jaminan+pemerintah&hl=id&gl=id returned Google's support/consent shell, no results.",
+    "curl on the same Google URL returned HTTP 200 / ~92KB of JS shell with no organic markup, no PAA, no related searches.",
+    "WebFetch on bing.com/search returned an unrelated zhihu.com result set (geo/session mismatch).",
+    "Bing RSS endpoint returned unrelated result sets for all three queries (query mangled) — DISCARDED, not a signal.",
+    "duckduckgo html and lite endpoints returned no parseable result rows.",
+    "CONSEQUENCE: no verbatim Google People-Also-Ask strings were captured this run. Questions below are labelled by provenance and must NOT be presented to the writer as verbatim Google PAA."
+  ],
+
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "n/a — no report named in keywords.md; no reliable trend signal captured",
+    "report_rank": "n/a (seo_report: none)"
+  },
+
+  "serp": {
+    "top_results_observed": [
+      {"url": "https://kpbu.kemenkeu.go.id/read/64-64/pjpk/dukungan-pemerintah/penjaminan-infrastruktur", "title": "Penjaminan Infrastruktur - KPBU - Kementerian Keuangan", "angle_summary": "Canonical government definition + single-window policy + co-guarantee trigger. Still cites the REVOKED PMK 260/2010 and PMK 8/2016 as its legal basis — portal lag, confirmed live 2026-09-17."},
+      {"url": "https://kpbu.kemenkeu.go.id/read/84-238/pjpk/mengajukan-dukungan-pemerintah/mengajukan-penjaminan", "title": "Mengajukan Penjaminan - KPBU Kemenkeu", "angle_summary": "The application route: five eligible criteria + the three conditions under which the Menteri Keuangan co-guarantees. Procedural, no narrative."},
+      {"url": "https://jdih.kemenkeu.go.id/kamus-hukum/jaminan-pemerintah", "title": "Definisi Jaminan Pemerintah | JDIH Kementerian Keuangan", "angle_summary": "Legal dictionary entry. JDIH carries MULTIPLE different definitions of the same term under different ?id= params, plus separate entries for 'Penjaminan Pemerintah' and 'Jaminan Pemerintah Pusat'."},
+      {"url": "https://www.hukumonline.com/kamus/j/jaminan-pemerintah", "title": "Definisi Istilah Hukum Jaminan Pemerintah | Hukumonline", "angle_summary": "Legal-dictionary framing, no practitioner guidance."},
+      {"url": "https://sulteng.bpk.go.id/wp-content/uploads/2019/11/Tulisan-Hukum-Jaminan-dalam-Pengadaan-Barang-dan-Jasa-Pemerintah.pdf", "title": "Jaminan dalam Pengadaan Barang dan Jasa Pemerintah (BPK)", "angle_summary": "DIFFERENT REGIME ENTIRELY — tender/performance bonds in procurement. Ranks on the same keyword."},
+      {"url": "https://www.djkn.kemenkeu.go.id/artikel/baca/11077/", "title": "Peran PT PII Dalam Meminimalisasi Risiko Fiskal atas Kewajiban Kontinjensi (DJKN)", "angle_summary": "Published 23 Agustus 2016. Defines direct vs contingent liability. Does NOT cover measurement, disclosure, reporting, ceilings, reserve funds or stress tests — the gap brief 01 exploits."},
+      {"url": "https://kpbu.kemenkeu.go.id/read/74-221/umum/kajian-opini-publik/mewaspadai-risiko-fiskal-dari-perjanjian-kpbu", "title": "Mewaspadai Risiko Fiskal dari Perjanjian KPBU", "angle_summary": "Raises contingent-liability concern but stops before disclosure frameworks, ceilings, reserve funds or stress testing."},
+      {"url": "https://www.ksap.org/sap/risiko-fiskal-pemerintah-pusat-dan-daerah/", "title": "Risiko Fiskal Pemerintah Pusat dan Daerah — KSAP", "angle_summary": "Fiscal-risk management framing; explicitly directs readers to SAP for recognition/measurement/disclosure. Names pemda contingent-liability risk from agreements and daerah bonds."},
+      {"url": "https://www.ptpii.co.id/kpbu", "title": "KPBU Indonesia: Definisi & Tantangan Infrastruktur", "angle_summary": "The client's own hub."},
+      {"url": "https://www.ptpii.co.id/cfind/source/files/acuan-alokasi-risiko-bahasa-2023---final.pdf", "title": "Acuan Alokasi Risiko 2023 (PT PII)", "angle_summary": "First-party document; evidence of the annual Acuan Alokasi Risiko obligation. Risk-matrix content itself belongs to the KPBU cluster (kpbu-03, Aug), do not re-teach."}
+    ],
+    "serp_features": ["ai_overview: not observable this run (scrape blocked)", "paa: not capturable this run (scrape blocked)"],
+    "competitive_gap_summary": "Every strong page on this keyword is either a legal-dictionary entry, a procedural portal page, or a 2016 explainer. None explains how guarantee exposure is measured and reported, how the five support forms sequence, or how a daerah PJPK actually accesses a guarantee. All three September angles sit in genuine whitespace."
+  },
+
+  "disambiguation_evidence": {
+    "status": "CONFIRMED and sharpened — binding on all three briefs",
+    "competing_regimes_on_this_keyword": [
+      "Penjaminan infrastruktur KPBU (the one we own)",
+      "Jaminan atas kewajiban BUMN/BUMD kepada kreditur — the direct-lending sense (PMK 101/PMK.08/2018)",
+      "Jaminan dalam pengadaan barang/jasa — tender, pelaksanaan, uang muka, pemeliharaan (BPK PDF ranks top for this)",
+      "Hukum jaminan kebendaan / agunan (the sense Bing reads the phrase as)",
+      "Jaminan sosial / BPJS (colloquial sense)"
+    ],
+    "jdih_multiple_definitions": "JDIH Kemenkeu kamus-hukum returns at least three distinct entries: 'Jaminan Pemerintah' (two different ?id= params with different texts), 'Penjaminan Pemerintah', and 'Jaminan Pemerintah Pusat'. The government's own dictionary does not speak with one voice on this phrase.",
+    "binding_rule": "Every brief requires an infrastructure/KPBU token in title, meta title, meta description, H1 and the first H2, plus one early line stating what this is NOT (bukan jaminan sosial/BPJS, bukan agunan/jaminan kebendaan, bukan jaminan pelaksanaan dalam pengadaan)."
+  },
+
+  "questions_for_faq": {
+    "provenance": "DERIVED, not verbatim Google PAA. Sources: JDIH kamus-hukum entry structure, kpbu.kemenkeu.go.id page and menu structure, the question framings returned in live WebSearch result sets, and the August cluster's carried-over disambiguation. Writer may use these; editor should not treat them as scraped PAA.",
+    "items": [
+      "Apa itu jaminan pemerintah dalam proyek infrastruktur?",
+      "Apa bedanya jaminan pemerintah dan jaminan dalam pengadaan barang/jasa?",
+      "Apakah jaminan pemerintah sama dengan subsidi?",
+      "Di mana kewajiban kontinjensi dari penjaminan dicatat dalam laporan keuangan negara?",
+      "Apakah jaminan pemerintah muncul di neraca APBN?",
+      "Apa itu dana cadangan penjaminan?",
+      "Siapa yang menanggung jika klaim penjaminan muncul?",
+      "Apa saja bentuk dukungan pemerintah menurut PMK 68/2024?",
+      "Bisakah satu proyek KPBU menerima Dukungan Kelayakan dan penjaminan sekaligus?",
+      "Apa bedanya Dukungan Kelayakan (VGF) dan penjaminan infrastruktur?",
+      "Bagaimana cara PJPK mengajukan penjaminan infrastruktur?",
+      "Apakah proyek KPBU daerah bisa mendapat jaminan pemerintah?",
+      "Siapa yang menjadi PJPK dalam proyek KPBU daerah?",
+      "Apa itu KPDBU?",
+      "Berapa nilai investasi minimum agar proyek bisa mendapat Dukungan Kelayakan?",
+      "Kapan Kementerian Keuangan ikut menjamin bersama PT PII?"
+    ]
+  },
+
+  "verified_facts": {
+    "definition_canonical": {
+      "text": "Penjaminan Infrastruktur adalah pemberian jaminan atas kewajiban finansial PJPK untuk membayar kompensasi kepada Badan Usaha saat terjadi risiko infrastruktur sesuai dengan alokasi yang disepakati dalam perjanjian KPBU yang menjadi tanggung jawab PJPK.",
+      "source": "https://kpbu.kemenkeu.go.id/read/64-64/pjpk/dukungan-pemerintah/penjaminan-infrastruktur",
+      "verified": "2026-09-17"
+    },
+    "single_window_and_capacity": {
+      "text": "Penjaminan infrastruktur dilaksanakan oleh PT PII sebagai single window policy. Apabila cakupan kebutuhan penjaminan melewati kapasitas PT PII, dilakukan penjaminan bersama antara Kementerian Keuangan dengan PT PII.",
+      "source": "https://kpbu.kemenkeu.go.id/read/64-64/pjpk/dukungan-pemerintah/penjaminan-infrastruktur",
+      "verified": "2026-09-17"
+    },
+    "co_guarantee_three_conditions": {
+      "text": "Menteri Keuangan dapat ikut serta dalam penjaminan infrastruktur bila: (1) kekayaan PT PII tidak mencukupi untuk penjaminan sesuai usulan namun penjaminan perlu dilakukan; (2) tidak ada kerja sama PT PII dengan lembaga multilateral/pihak sejenis, atau fasilitas yang ada tidak mencukupi/memadai/sesuai; (3) upaya memenuhi kecukupan kekayaan PT PII belum dapat dilakukan sedangkan pengadaan badan usaha tidak dapat ditunda.",
+      "source": "https://kpbu.kemenkeu.go.id/read/84-238/pjpk/mengajukan-dukungan-pemerintah/mengajukan-penjaminan",
+      "verified": "2026-09-17",
+      "use_in": "brief 01 (capacity/exposure) — this is a fiscal-capacity mechanism, not a claim mechanism"
+    },
+    "eligible_criteria_penjaminan": {
+      "items": [
+        "Harus merupakan Proyek KPBU sebagaimana diatur dalam Perpres 38/2015",
+        "Proyek memenuhi ketentuan peraturan sektor terkait yang rencana pengadaannya melalui proses lelang yang transparan dan kompetitif",
+        "Proyek harus layak secara teknis, ekonomi, keuangan dan lingkungan, serta tidak berdampak negatif secara sosial",
+        "Kajian prastudi kelayakan dilakukan oleh konsultan yang independen dan profesional",
+        "Perjanjian KPBU harus memiliki ketentuan arbitrase yang mengikat dalam perjanjian kerja sama"
+      ],
+      "source": "https://kpbu.kemenkeu.go.id/read/84-238/pjpk/mengajukan-dukungan-pemerintah/mengajukan-penjaminan",
+      "verified": "2026-09-17",
+      "WARNING": "The portal page literally prints 'Perpres 38/2005'. That is a PORTAL TYPO. The correct reference is Perpres 38/2015. Never reproduce the typo; researcher confirms against the primary text."
+    },
+    "pmk_68_2024_five_support_forms": {
+      "items": ["Fasilitas Pra-PDF", "Fasilitas PDF", "Penjaminan Infrastruktur", "Dukungan Kelayakan (VGF)", "Availability Payment (pemrosesan dokumen / konfirmasi)"],
+      "source": "https://jdih.kemenkeu.go.id/dok/pmk-68-tahun-2024/summary",
+      "verified": "2026-09-17",
+      "note": "This five-form list is DIFFERENT from the four-instrument taxonomy August's jaminan-pemerintah-02 used (Jaminan / VGF / AP / Penjaminan Pinjaman Langsung). It adds the two project-preparation facilities and drops direct lending, which sits under PMK 101/PMK.08/2018."
+    },
+    "pmk_68_2024_revokes": {
+      "items": ["PMK 260/2010", "PMK 223/2012", "PMK 143/2013", "PMK 170/2015", "PMK 260/2016", "PMK 170/2018", "PMK 180/2020"],
+      "source": "https://jdih.kemenkeu.go.id/dok/pmk-68-tahun-2024/summary",
+      "verified": "2026-09-17",
+      "matches_company_profile": true
+    },
+    "pmk_68_2024_dates": {
+      "locked_baseline": "ditetapkan 24 September 2024, berlaku 18 Oktober 2024",
+      "portal_summary_says": "penetapan 24 September 2024; the JDIH summary field also shows 24 September 2024 as effective",
+      "instruction": "USE THE LOCKED BASELINE from company_profile.md. Do not re-derive. Where an article states the effective date, state 18 Oktober 2024. Flagged as a portal-field inconsistency, not a legal question."
+    },
+    "vgf_eligibility": {
+      "items": [
+        "Proyek Kerja Sama telah memenuhi kelayakan ekonomi namun belum memenuhi kelayakan finansial",
+        "Proyek Kerja Sama menerapkan prinsip pengguna membayar (user pay principle)",
+        "Total biaya investasi Proyek Kerja Sama paling kurang senilai Rp 100 miliar",
+        "Badan usaha dipilih melalui proses lelang yang terbuka dan kompetitif",
+        "Terdapat skema pengalihan aset dan/atau pengelolaannya dari Badan Usaha kepada PJPK pada akhir periode kerja sama"
+      ],
+      "process_phases": ["Prinsip", "Besaran", "Final", "penerbitan surat dukungan"],
+      "source": "https://kpbu.kemenkeu.go.id/read/1098-1261/pjpk/dukungan-pemerintah/dukungan-kelayakan",
+      "verified": "2026-09-17"
+    },
+    "vgf_completed_examples": {
+      "items": ["SPAM Umbulan", "SPAM Bandar Lampung"],
+      "source": "https://kpbu.kemenkeu.go.id/read/1087-1247/umum/kajian-opini-publik/memastikan-terwujudnya-layanan-infrastruktur-melalui-pemberian-dukungan-kelayakan",
+      "verified": "2026-09-17",
+      "note": "SPAM Umbulan also appears in PT PII's guaranteed portfolio (company_profile.md). If the researcher confirms BOTH, SPAM Umbulan is the worked example of VGF + penjaminan on one project for brief 02."
+    },
+    "regres_carve_out": {
+      "text": "Mekanisme regres tidak berlaku dalam Penjaminan Pemerintah di mana Kementerian/Lembaga menjadi PJPK.",
+      "source": "https://kpbu.kemenkeu.go.id/read/64-64/pjpk/dukungan-pemerintah/penjaminan-infrastruktur",
+      "verified_on_page": "2026-09-17",
+      "confidence": "MEDIUM — the page carrying this line also cites revoked PMKs, so it may be stale",
+      "use_in": "brief 03 only, as a scoped structural consequence for daerah/BUMN PJPK — NOT as a regres explainer (that is August jaminan-pemerintah-03)",
+      "researcher_must": "Verify against PMK 68/2024 and Perpres 78/2010. If unverifiable, drop the claim and pivot that section to fiscal-capacity assessment of the daerah PJPK."
+    },
+    "fiscal_management_levers": {
+      "items": ["penetapan batas maksimal penjaminan", "penetapan kebijakan pengelolaan kewajiban penjaminan", "pengalokasian anggaran kewajiban penjaminan dalam APBN", "pembentukan dana cadangan penjaminan"],
+      "source": "DJPPR / Nota Keuangan fiscal-risk disclosure material surfaced via WebSearch 2026-09-17",
+      "confidence": "MEDIUM — the DJPPR media endpoint (api-djppr.kemenkeu.go.id) refused connection this run",
+      "researcher_must": "Re-verify each lever against the current Nota Keuangan risiko-fiskal chapter or a DJPPR publication, and attach a reference year to anything quantified."
+    },
+    "disclosure_location": {
+      "text": "Kewajiban kontinjensi is DISCLOSED in the Catatan atas Laporan Keuangan (CaLK) of the LKPP and reported in the Nota Keuangan fiscal-risk chapter; DJPPR publishes a periodic contingent-liability report carrying outstanding position and guarantee exposure at a stated date. KSAP directs practitioners to SAP for recognition and measurement.",
+      "sources": ["https://www.ksap.org/sap/risiko-fiskal-pemerintah-pusat-dan-daerah/", "https://www.bpk.go.id/assets/files/lkpp/", "https://www.djkn.kemenkeu.go.id/kpknl-palembang/baca-artikel/16216/"],
+      "confidence": "MEDIUM-HIGH on the mechanism, LOW on any specific number",
+      "researcher_must": "Confirm the governing PSAP for contingent liabilities and confirm that a guarantee is disclosed rather than recognised on the neraca until the outflow becomes probable and measurable. This distinction is the article's definition snippet — it must be right."
+    },
+    "kpdbu_daerah": {
+      "text": "KPDBU (Kerja Sama Pemerintah Daerah dengan Badan Usaha) is the regional variant term now in active use. PT PII and Bank Jateng signed an MoU alongside an Executive Workshop on KPDBU policy and financing schemes in Semarang, 8 September 2026, covering project assistance, financing-structure work, and identification of potential projects.",
+      "sources": ["https://infobanknews.com/bank-jateng-dan-pt-pii-kolaborasi-biayai-infrastruktur-daerah-lewat-kpdbu", "https://jogja.antaranews.com/berita/852965/bank-jateng-dan-pt-pii-perkuat-pembiayaan-infrastruktur-daerah", "https://joglojateng.com/2026/09/09/bank-jateng-dan-pt-pii-jalin-kerja-sama-pembiayaan-infrastruktur-daerah-lewat-skema-kpdbu/"],
+      "verified": "2026-09-17 (news-tier sources only)",
+      "FRAMING WARNING": "Several headlines say PT PII 'biayai' / 'membiayai' infrastruktur daerah. That framing is WRONG for us and violates the blacklist. PT PII does not lend or finance. The bank lends; PT PII guarantees and supports preparation. If this MoU is used at all, frame it as pendampingan and penjaminan only, or omit it."
+    },
+    "daerah_project_examples_precleared": {
+      "items": [
+        "KPBU Penerangan Jalan Umum (APJ) Kabupaten Madiun — first APJ KPBU in Indonesia; Perjanjian Penjaminan + Perjanjian Regres signed 20 September 2022; commercial operation 18 Juli 2023; investment value differs across sources (write 'sekitar Rp 100 miliar' or omit)",
+        "KPBU Penerangan Jalan Umum Kabupaten Lombok Barat — Perjanjian Penjaminan + Perjanjian Regres 12 Oktober 2023",
+        "PSEL / TPPAS Regional Legok Nangka — the only waste-sector KPBU project guaranteed by PT PII"
+      ],
+      "source": "knowledge_base/company_profile.md (pre-cleared)",
+      "use_in": "brief 03"
+    }
+  },
+
+  "conflicting_or_unusable": {
+    "gearing_ratio": {
+      "conflict": "One source reports gearing 6,2x against a ceiling of 12x; another reports a ceiling of 20x with current ~6x. Neither carries a reference year.",
+      "ruling": "DO NOT publish any gearing number. Describe the capacity mechanism qualitatively, or have the researcher source a single figure from PT PII's Laporan Tahunan or the Fitch report WITH its reference year. A bare or conflicting number is an editor fail."
+    },
+    "pmn_headline": {
+      "item": "'Disuntik PMN Rp 10 T, PT PII Mampu Jamin Proyek Infrastruktur Rp 561 T' (kumparan) — undated in snippet, almost certainly superseded.",
+      "ruling": "Do not use. company_profile.md carries the current portfolio figures with reference years."
+    },
+    "djppr_media_endpoint": {
+      "item": "https://api-djppr.kemenkeu.go.id/web/api/v1/media/DE337C15-5776-4992-832D-A5A906E0ABE3 (Pengungkapan Risiko Fiskal dalam Nota Keuangan 2025)",
+      "status": "ECONNREFUSED this run — researcher should retry; it is the single best primary source for brief 01"
+    }
+  },
+
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      {"id": "2026-08-jaminan-pemerintah-01", "angle": "batas-cakupan-jaminan-per-tahap", "owns": "covered-vs-not-covered map across pra-konstruksi/konstruksi/operasi", "burned": true},
+      {"id": "2026-08-jaminan-pemerintah-02", "angle": "taksonomi-instrumen-fiskal-kpbu", "owns": "four-instrument taxonomy + contingency test", "burned": true},
+      {"id": "2026-08-jaminan-pemerintah-03", "angle": "mekanika-klaim-dan-hak-regres", "owns": "claim flow, hak regres, ring-fence APBN, not-a-subsidy", "burned": true}
+    ],
+    "cross_cluster_watchlist": [
+      {"id": "2026-08-pembiayaan-kreatif-02", "why": "owns the pemda readiness checklist — brief 03 must stay on guarantee-specific eligibility, not general project readiness", "measured_jaccard_vs_brief_03": 0.200},
+      {"id": "2026-08-kpbu-02", "why": "owns Availability Payment as an investment-recovery scheme choice — brief 02 may treat AP only as a component of the fiscal-support package", "measured_jaccard_vs_brief_02": 0.069}
+    ],
+    "uncovered_angles_consumed_this_month": [
+      "akuntansi kewajiban kontinjensi dan uji tekanan fiskal -> brief 01",
+      "instrumen gabungan / blended instruments + sequencing -> brief 02",
+      "penjaminan untuk proyek daerah / sub-sovereign -> brief 03"
+    ],
+    "uncovered_angles_left_for_later": [
+      "kapasitas penjaminan dan gearing as a standalone article (blocked this month by the unsourced-number conflict)",
+      "penjaminan per sektor (air minum / jalan tol / ketenagalistrikan-EBT / persampahan) — note the KPBU cluster owns sector tracks this month",
+      "guarantee vs insurance mechanics",
+      "VGF eligibility and historical utilisation as a standalone piece",
+      "co-guarantee with multilateral institutions (World Bank / MIGA) as a capacity instrument"
+    ],
+    "permanently_off_limits": "Historical guarantee payout cases and amounts. There is no sourceable public claim-payment history. NO ARTICLE MAY ASSERT THAT A GUARANTEE CLAIM HAS EVER BEEN PAID. Any near-adjacent content must be framed as mechanism or disclosure practice, never as events."
+  },
+
+  "internal_link_plan": {
+    "rule": "3 links per article to 3 distinct ptpii.co.id URLs. /kpbu inline in the lead, /pembiayaan-kreatif and /public-private-partnership as inline cousins. No BACA JUGA. Never link institute.iigf.co.id.",
+    "august_anchors_to_avoid": {
+      "https://www.ptpii.co.id/kpbu": ["jaminan pemerintah untuk proyek KPBU", "jaminan pemerintah dalam skema KPBU", "jaminan pemerintah pada proyek KPBU"],
+      "https://www.ptpii.co.id/public-private-partnership": ["kerangka public private partnership"],
+      "https://www.ptpii.co.id/pembiayaan-kreatif": ["pembiayaan kreatif untuk infrastruktur daerah", "skema pembiayaan kreatif", "pembiayaan kreatif untuk proyek daerah"]
+    },
+    "september_anchors_assigned": {
+      "jaminan-pemerintah-01": {"/kpbu": "penjaminan pemerintah pada skema KPBU", "/pembiayaan-kreatif": "instrumen pembiayaan kreatif infrastruktur", "/public-private-partnership": "praktik public private partnership di Indonesia"},
+      "jaminan-pemerintah-02": {"/kpbu": "dukungan pemerintah dalam proyek KPBU", "/pembiayaan-kreatif": "alternatif pembiayaan kreatif", "/public-private-partnership": "skema public private partnership"},
+      "jaminan-pemerintah-03": {"/kpbu": "proyek KPBU dan penjaminannya", "/pembiayaan-kreatif": "pembiayaan kreatif bagi pemerintah daerah", "/public-private-partnership": "public private partnership sebagai padanan KPBU"}
+    },
+    "check": "All nine anchors differ from every August anchor and from each other."
+  },
+
+  "authority_sources_shortlist": [
+    "https://kpbu.kemenkeu.go.id/read/64-64/pjpk/dukungan-pemerintah/penjaminan-infrastruktur",
+    "https://kpbu.kemenkeu.go.id/read/84-238/pjpk/mengajukan-dukungan-pemerintah/mengajukan-penjaminan",
+    "https://kpbu.kemenkeu.go.id/read/1098-1261/pjpk/dukungan-pemerintah/dukungan-kelayakan",
+    "https://jdih.kemenkeu.go.id/dok/pmk-68-tahun-2024/summary",
+    "https://peraturan.go.id/id/perpres-no-78-tahun-2010",
+    "https://www.ksap.org/sap/risiko-fiskal-pemerintah-pusat-dan-daerah/",
+    "https://www.djkn.kemenkeu.go.id/artikel/baca/11077/",
+    "https://api-djppr.kemenkeu.go.id/web/api/v1/media/DE337C15-5776-4992-832D-A5A906E0ABE3"
+  ],
+
+  "derived_briefs": [
+    {"brief_id": "jaminan-pemerintah-01", "angle": "akuntansi-pengungkapan-kewajiban-kontinjensi-penjaminan", "angle_hash": "sha1:f1a63e4", "search_intent": "informational"},
+    {"brief_id": "jaminan-pemerintah-02", "angle": "urutan-dan-kombinasi-dukungan-pemerintah-kpbu", "angle_hash": "sha1:94e39a5", "search_intent": "decision"},
+    {"brief_id": "jaminan-pemerintah-03", "angle": "jalur-penjaminan-proyek-kpbu-daerah", "angle_hash": "sha1:623244a", "search_intent": "how-to"}
+  ]
+}

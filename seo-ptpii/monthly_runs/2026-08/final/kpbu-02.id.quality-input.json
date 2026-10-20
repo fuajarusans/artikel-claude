@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-ptpii\\monthly_runs\\2026-08\\final\\kpbu-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-12T15:30:07+07:00",
+    "word_count":  1814,
+    "paragraph_count":  27,
+    "sentence_count":  101,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.365,
+                        "sentence_burstiness":  1.077,
+                        "top30_vocab_share":  0.302,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.365 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "68 Tahun 2024](https://jdih.kemenkeu.go.id/dok/pmk-68-tahun-2024), berlaku sejak 18 Oktober 2024 dan mencabut enam peraturan menteri keuangan sebelumnya.",
+                                      "candidate_score":  32,
+                                      "web_search_query":  "\"68 Tahun 2024](https://jdih.kemenkeu.go.id/dok/pmk-68-tahun-2024), berlaku sejak 18 Oktober 2024 dan mencabut enam perat\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai pembanding retrospektif, KPBU dan penugasan tercatat menyumbang 21,4 persen atau sekitar Rp 440 triliun dari kebutuhan periode RPJMN 2020–2024 (forum pembiayaan infrastruktur pemerintah, Juni 2025).",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Sebagai pembanding retrospektif, KPBU dan penugasan tercatat menyumbang 21,4 persen atau sekitar Rp 440 triliun dari keb\""
+                                  },
+                                  {
+                                      "passage":  "7 Tahun 2023, berlaku sejak 29 Oktober 2023, menyediakan jalur KPBU skala kecil dengan proses penyiapan yang disederhanakan.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"7 Tahun 2023, berlaku sejak 29 Oktober 2023, menyediakan jalur KPBU skala kecil dengan proses penyiapan yang disederhana\""
+                                  },
+                                  {
+                                      "passage":  "*User charge* menggantungkan pengembalian investasi pada pemakaian aktual layanan, sehingga risiko permintaan berpindah ke badan usaha ([Simpul KPBU, Kementerian PU](https://simpulkpbu.pu.go.id/pages/panduan-investasi/skema-pengembalian), diakses 2026).",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"*User charge* menggantungkan pengembalian investasi pada pemakaian aktual layanan, sehingga risiko permintaan berpindah \""
+                                  },
+                                  {
+                                      "passage":  "Tidak ada aturan lintas sektor yang mewajibkan VfM berada di atas persentase tertentu dibanding pembanding sektor publik ([Portal KPBU Kementerian Keuangan](https://kpbu.kemenkeu.go.id/read/1092-1254/pjpk/guideline-dan-toolkit/panduan-value-for-money), diakses 2026).",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"Tidak ada aturan lintas sektor yang mewajibkan VfM berada di atas persentase tertentu dibanding pembanding sektor publik\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai Badan Usaha Penjaminan Infrastruktur di bawah Kementerian Keuangan, PT PII menjembatani kebutuhan kepastian investor dengan kemampuan fiskal negara.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Sebagai Badan Usaha Penjaminan Infrastruktur di bawah Kementerian Keuangan, PT PII menjembatani kebutuhan kepastian inve\""
+                                  },
+                                  {
+                                      "passage":  "Uji Value for Money sendiri bukan kewenangan penjamin: keputusannya ada pada PJPK bersama Kementerian Keuangan dan Kementerian PPN/Bappenas.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Uji Value for Money sendiri bukan kewenangan penjamin: keputusannya ada pada PJPK bersama Kementerian Keuangan dan Kemen\""
+                                  },
+                                  {
+                                      "passage":  "Kriteria kelima paling menentukan struktur, karena memaksa PJPK memilih skema pengembalian investasi sejak awal.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Kriteria kelima paling menentukan struktur, karena memaksa PJPK memilih skema pengembalian investasi sejak awal.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

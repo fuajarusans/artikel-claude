@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-07\\final\\employee-retention-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-06T20:29:53+07:00",
+    "word_count":  1001,
+    "paragraph_count":  20,
+    "sentence_count":  49,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.358,
+                        "sentence_burstiness":  0.91,
+                        "top30_vocab_share":  0.311,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.358 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Gallup memperkirakan biaya penggantian karyawan *frontliner* sekitar 40% gaji tahunannya, profesional teknis sekitar 80%, dan pemimpin atau manajer hingga 200% (Gallup, 2024).",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Gallup memperkirakan biaya penggantian karyawan *frontliner* sekitar 40% gaji tahunannya, profesional teknis sekitar 80%\""
+                                  },
+                                  {
+                                      "passage":  "# Apa Itu Employee Retention dan Strategi Mempertahankan Karyawan Talenta terbaik jarang pergi mendadak.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"# Apa Itu Employee Retention dan Strategi Mempertahankan Karyawan Talenta terbaik jarang pergi mendadak.\""
+                                  },
+                                  {
+                                      "passage":  "Menurut praktik umum industri, angka 80–90% dianggap sehat, rata-rata lintas industri berkisar 82–87%, dan di atas 90% tergolong sangat baik.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Menurut praktik umum industri, angka 80–90% dianggap sehat, rata-rata lintas industri berkisar 82–87%, dan di atas 90% t\""
+                                  },
+                                  {
+                                      "passage":  "Praktik industri umumnya menganggap retention rate tahunan 80–90% sehat dan di atas 90% sangat baik, dengan rata-rata lintas industri sekitar 82–87%.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Praktik industri umumnya menganggap retention rate tahunan 80–90% sehat dan di atas 90% sangat baik, dengan rata-rata li\""
+                                  },
+                                  {
+                                      "passage":  "Gallup State of the Global Workplace mencatat *engagement* (keterikatan karyawan) global turun ke 20% pada 2025, terendah sejak 2020.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Gallup State of the Global Workplace mencatat *engagement* (keterikatan karyawan) global turun ke 20% pada 2025, terenda\""
+                                  },
+                                  {
+                                      "passage":  "## Retensi Proaktif: Peran Data Karyawan dan People Analytics *Exit interview* menjelaskan penyebab kepergian setelah orangnya pergi.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Retensi Proaktif: Peran Data Karyawan dan People Analytics *Exit interview* menjelaskan penyebab kepergian setelah or\""
+                                  },
+                                  {
+                                      "passage":  "Lengkapi dengan dua *leading indicator* (indikator dini): retensi 90 hari pertama karyawan baru dan *stay interview*, percakapan berkala tentang alasan karyawan bertahan.",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"Lengkapi dengan dua *leading indicator* (indikator dini): retensi 90 hari pertama karyawan baru dan *stay interview*, pe\""
+                                  },
+                                  {
+                                      "passage":  "Investasi pembelajaran termasuk yang paling kuat: 94% karyawan menyatakan akan bertahan lebih lama di perusahaan yang berinvestasi membantu mereka belajar (LinkedIn Workplace Learning Report, 2019).",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Investasi pembelajaran termasuk yang paling kuat: 94% karyawan menyatakan akan bertahan lebih lama di perusahaan yang be\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

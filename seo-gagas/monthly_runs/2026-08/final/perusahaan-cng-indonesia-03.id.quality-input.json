@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-08\\final\\perusahaan-cng-indonesia-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-11T14:42:00+07:00",
+    "word_count":  1529,
+    "paragraph_count":  22,
+    "sentence_count":  84,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.334,
+                        "sentence_burstiness":  0.694,
+                        "top30_vocab_share":  0.287,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.334 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "30 Tahun 1999](https://peraturan.bpk.go.id/Details/45348/uu-no-30-tahun-1999)); tanpa klausul itu, sengketa jatuh ke pengadilan negeri sesuai domisili yang disepakati.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"30 Tahun 1999](https://peraturan.bpk.go.id/Details/45348/uu-no-30-tahun-1999)); tanpa klausul itu, sengketa jatuh ke pen\""
+                                  },
+                                  {
+                                      "passage":  "SLA (*Service Level Agreement*) pasokan CNG adalah klausul kontrak berisi janji terukur penyedia gas: waktu tanggap gangguan, target ketersediaan, waktu pemulihan, dan akurasi pencatatan lewat telemetri.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"SLA (*Service Level Agreement*) pasokan CNG adalah klausul kontrak berisi janji terukur penyedia gas: waktu tanggap gang\""
+                                  },
+                                  {
+                                      "passage":  "# Saat Pasokan CNG Bermasalah: Eskalasi, SLA, \u0026 Kompensasi Kontrak sudah diteken dan penyedia dipilih dengan cermat.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"# Saat Pasokan CNG Bermasalah: Eskalasi, SLA, \u0026 Kompensasi Kontrak sudah diteken dan penyedia dipilih dengan cermat.\""
+                                  },
+                                  {
+                                      "passage":  "SLA memisahkan kondisi yang bisa dituntut ganti rugi (wanprestasi, Pasal 1243 KUHPerdata) dari *force majeure* yang membebaskan penyedia (Pasal 1244–1245 KUHPerdata).",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"SLA memisahkan kondisi yang bisa dituntut ganti rugi (wanprestasi, Pasal 1243 KUHPerdata) dari *force majeure* yang memb\""
+                                  },
+                                  {
+                                      "passage":  "Lalu suatu pagi tekanan gas turun, pengiriman *Gas Transportation Module* (GTM) telat, dan lini produksi mulai gelisah.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Lalu suatu pagi tekanan gas turun, pengiriman *Gas Transportation Module* (GTM) telat, dan lini produksi mulai gelisah.\""
+                                  },
+                                  {
+                                      "passage":  "- **Mekanisme kredit layanan.** Rumus atau tahapan kompensasi bila SLA dilanggar, termasuk cara menagihnya.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"- **Mekanisme kredit layanan.** Rumus atau tahapan kompensasi bila SLA dilanggar, termasuk cara menagihnya.\""
+                                  },
+                                  {
+                                      "passage":  "**Eskalasi tertulis bila lewat batas.** Bila respons melewati tenggat, naikkan ke manajer akun via email resmi disertai bukti dampak.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"**Eskalasi tertulis bila lewat batas.** Bila respons melewati tenggat, naikkan ke manajer akun via email resmi disertai \""
+                                  },
+                                  {
+                                      "passage":  "Arbitrase (misalnya lewat BANI) hanya berlaku bila kontrak memuat klausul arbitrase tertulis yang disepakati kedua pihak (UU No.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Arbitrase (misalnya lewat BANI) hanya berlaku bila kontrak memuat klausul arbitrase tertulis yang disepakati kedua pihak\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

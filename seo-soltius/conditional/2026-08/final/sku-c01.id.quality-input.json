@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-08\\final\\sku-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-17T23:34:46+07:00",
+    "word_count":  1042,
+    "paragraph_count":  17,
+    "sentence_count":  59,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.396,
+                        "sentence_burstiness":  0.967,
+                        "top30_vocab_share":  0.308,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.396 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Sebagai SAP Platinum Partner melalui United VARs dan berpengalaman sejak 1998, Soltius mengimplementasikan serta mendampingi [solusi retail](https://www.soltius.co.id/id/solutions-by-products/retail-produk) berbasis SAP, termasuk penataan master data produk.",
+                                      "candidate_score":  27,
+                                      "web_search_query":  "\"Sebagai SAP Platinum Partner melalui United VARs dan berpengalaman sejak 1998, Soltius mengimplementasikan serta mendamp\""
+                                  },
+                                  {
+                                      "passage":  "## Cara Membuat SKU: Anatomi Kode dan Aturan Penomoran Kode SKU yang baik dibaca dari umum ke spesifik: merek dan kategori di depan, varian di belakang.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Cara Membuat SKU: Anatomi Kode dan Aturan Penomoran Kode SKU yang baik dibaca dari umum ke spesifik: merek dan katego\""
+                                  },
+                                  {
+                                      "passage":  "- **Hindari karakter kembar.** Angka `0` versus huruf `O`, `1` versus `I`, sumber salah ketik saat input.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"- **Hindari karakter kembar.** Angka `0` versus huruf `O`, `1` versus `I`, sumber salah ketik saat input.\""
+                                  },
+                                  {
+                                      "passage":  "## SKU di Dalam Sistem: Ketika Spreadsheet Mulai Kewalahan Pada skala ribuan varian, penomoran manual gagal bukan karena aturannya salah, melainkan karena tidak ada yang menegakkannya.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## SKU di Dalam Sistem: Ketika Spreadsheet Mulai Kewalahan Pada skala ribuan varian, penomoran manual gagal bukan karena\""
+                                  },
+                                  {
+                                      "passage":  "Menurut GS1 US, dua peritel bisa memakai UPC sama dengan nomor SKU berbeda.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Menurut GS1 US, dua peritel bisa memakai UPC sama dengan nomor SKU berbeda.\""
+                                  },
+                                  {
+                                      "passage":  "Yang diterbitkan lewat GS1 adalah GTIN, nomor global pada barcode, dengan empat struktur sepanjang 8, 12, 13, atau 14 digit.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Yang diterbitkan lewat GS1 adalah GTIN, nomor global pada barcode, dengan empat struktur sepanjang 8, 12, 13, atau 14 di\""
+                                  },
+                                  {
+                                      "passage":  "# SKU (Stock Keeping Unit): Pengertian, Fungsi, dan Cara Membuatnya *Stock opname* selesai tengah malam dan angkanya tetap tidak cocok.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"# SKU (Stock Keeping Unit): Pengertian, Fungsi, dan Cara Membuatnya *Stock opname* selesai tengah malam dan angkanya tet\""
+                                  },
+                                  {
+                                      "passage":  "Tim gudang salah ambil barang karena di sistem dua produk sama-sama bernama \"Kaos Polos Hitam\", padahal ukurannya berbeda.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Tim gudang salah ambil barang karena di sistem dua produk sama-sama bernama  Kaos Polos Hitam , padahal ukurannya berbed\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

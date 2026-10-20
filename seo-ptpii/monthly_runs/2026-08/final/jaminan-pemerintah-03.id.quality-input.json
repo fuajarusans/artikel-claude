@@ -1,0 +1,81 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-ptpii\\monthly_runs\\2026-08\\final\\jaminan-pemerintah-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-12T15:48:46+07:00",
+    "word_count":  1672,
+    "paragraph_count":  22,
+    "sentence_count":  107,
+    "ai_detector":  {
+                        "score":  0.08,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.349,
+                        "sentence_burstiness":  0.547,
+                        "top30_vocab_share":  0.38,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.349 (target \u003e=0.45)",
+                                          "line":  -1
+                                      },
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 38% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "# Klaim Jaminan Pemerintah di Proyek KPBU: Bagaimana Hak Regres Bekerja Menjelang *financial close* (penutupan pembiayaan), dua dokumen ditandatangani berdekatan: Perjanjian Penjaminan dan Perjanjian Regres.",
+                                      "candidate_score":  38,
+                                      "web_search_query":  "\"# Klaim Jaminan Pemerintah di Proyek KPBU: Bagaimana Hak Regres Bekerja Menjelang *financial close* (penutupan pembiayaa\""
+                                  },
+                                  {
+                                      "passage":  "68 Tahun 2024](https://jdih.kemenkeu.go.id/dok/pmk-68-tahun-2024), berlaku sejak 18 Oktober 2024, yang mencabut PMK No.",
+                                      "candidate_score":  34,
+                                      "web_search_query":  "\"68 Tahun 2024](https://jdih.kemenkeu.go.id/dok/pmk-68-tahun-2024), berlaku sejak 18 Oktober 2024, yang mencabut PMK No.\""
+                                  },
+                                  {
+                                      "passage":  "78 Tahun 2010 tentang Penjaminan Infrastruktur, yang [berstatus berlaku](https://peraturan.go.id/id/perpres-no-78-tahun-2010) per verifikasi basis data peraturan resmi 2026.",
+                                      "candidate_score":  31,
+                                      "web_search_query":  "\"78 Tahun 2010 tentang Penjaminan Infrastruktur, yang [berstatus berlaku](https://peraturan.go.id/id/perpres-no-78-tahun-\""
+                                  },
+                                  {
+                                      "passage":  "PT Penjaminan Infrastruktur Indonesia (PT PII) adalah BUMN Persero berstatus Special Mission Vehicle di bawah Kementerian Keuangan, dengan Pemerintah Republik Indonesia c.q.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"PT Penjaminan Infrastruktur Indonesia (PT PII) adalah BUMN Persero berstatus Special Mission Vehicle di bawah Kementeria\""
+                                  },
+                                  {
+                                      "passage":  "Memagari kewajiban kontinjensi pemerintah dan meminimalkan kejutan langsung terhadap APBN memang salah satu tujuan pembentukan Badan Usaha Penjaminan Infrastruktur di bawah Kementerian Keuangan.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Memagari kewajiban kontinjensi pemerintah dan meminimalkan kejutan langsung terhadap APBN memang salah satu tujuan pembe\""
+                                  },
+                                  {
+                                      "passage":  "BUPI di Indonesia berperingkat BBB pada skala internasional dan AAA(idn) pada skala nasional dengan Outlook Stabil (Fitch Ratings, afirmasi 12 Februari 2026), sementara kemampuan bayar PJPK bervariasi antar-daerah.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"BUPI di Indonesia berperingkat BBB pada skala internasional dan AAA(idn) pada skala nasional dengan Outlook Stabil (Fitc\""
+                                  },
+                                  {
+                                      "passage":  "**Klaim diajukan.** Badan Usaha Pelaksana menyampaikan klaim kepada penjamin dengan merujuk Perjanjian Penjaminan proyek tersebut.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"**Klaim diajukan.** Badan Usaha Pelaksana menyampaikan klaim kepada penjamin dengan merujuk Perjanjian Penjaminan proyek\""
+                                  },
+                                  {
+                                      "passage":  "Pemerintah mengungkapkannya secara berkala lewat Pengungkapan Risiko Fiskal dalam Nota Keuangan; edisi 2025 diterbitkan DJPPR Kementerian Keuangan.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Pemerintah mengungkapkannya secara berkala lewat Pengungkapan Risiko Fiskal dalam Nota Keuangan; edisi 2025 diterbitkan \""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

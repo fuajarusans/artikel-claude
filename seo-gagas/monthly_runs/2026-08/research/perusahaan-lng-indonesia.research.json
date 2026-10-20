@@ -1,0 +1,75 @@
+{
+  "keyword": "Perusahaan LNG Indonesia",
+  "keyword_slug": "perusahaan-lng-indonesia",
+  "month": "2026-08",
+  "captured_at": "2026-08-11",
+  "landing_page": "https://gagas.co.id/perusahaan-lng-indonesia/",
+  "landing_page_summary": "Positions LNG as Indonesia's transitional energy; explains LNG definition, cryogenic process, LNG vs CNG/LPG, upstream/downstream chain, applications (manufaktur, pembangkit, maritim), export markets. States Gagas does NOT produce/operate liquefaction; operates as downstream distributor via virtual pipeline (ISO tank + micro-bulk truck). WARNING: page uses 'pionir dan pemimpin pasar (market leader) dalam distribusi gas bumi ritel' — forbidden framing per company_profile blacklist; do NOT adopt.",
+  "data_sources_used": ["landing_page_webfetch", "live_serp_blocked_bot_detection", "websearch"],
+  "ahrefs_available": false,
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "LNG beyond-pipeline demand rising with mini-LNG rollout (Pasuruan mini-LNG Feb 2026) + nickel/mineral downstreaming energy demand; domestic gas prioritized (HGBT). Signal from WebSearch, not Ahrefs.",
+    "report_rank": "n/a (seo_report = none in keywords.md)"
+  },
+  "serp": {
+    "top_players_seen": [
+      {"url": "https://www.gagas.co.id/perusahaan-lng-indonesia", "title": "Perusahaan LNG Indonesia — PGN Gagas", "angle_summary": "Client hub; LNG explainer + beyond-pipeline distributor framing (uses forbidden 'pionir/pemimpin pasar')."},
+      {"url": "https://pgnlng.co.id/", "title": "PGN LNG Indonesia", "angle_summary": "Sister PGN entity; virtual pipeline, ISO tank, regasifikasi learn-hub articles — the strongest technical LNG content competitor."},
+      {"url": "https://ptlng.co.id/latar-belakang/", "title": "PT Lamong Nusantara Gas (LNG)", "angle_summary": "LNG beyond-pipeline via ISO tank; storage, LNG piping, LNG filling station."},
+      {"url": "http://www.pertaarungas.pertamina.com/Page/bisnis-kami/lng", "title": "Pertamina Arun Gas — LNG", "angle_summary": "ISO tank filling station + receiving terminal (KEK Arun Lhokseumawe)."}
+    ],
+    "serp_features": ["ai_overview_likely", "paa"],
+    "ai_overview_entities": ["LNG", "gas bumi", "beyond pipeline", "virtual pipeline", "ISO tank", "Subholding Gas PGN", "regasifikasi"],
+    "note": "Live google.com/search fetch returned Google bot-detection page today; SERP reconstructed from WebSearch. PAA below derived from WebSearch related queries + Indonesian B2B query patterns (playbook §5), not scraped Google PAA."
+  },
+  "paa_derived": [
+    "Apa perbedaan LNG dan LPG untuk industri?",
+    "Mana lebih hemat, LNG atau LPG?",
+    "Bagaimana LNG diubah kembali menjadi gas di lokasi pabrik?",
+    "Apa itu vaporizer dan satuan regasifikasi (SRU)?",
+    "Apa itu boil-off gas pada LNG dan bagaimana mengelolanya?",
+    "Apa itu klausul take-or-pay dalam kontrak gas?",
+    "Berapa harga LNG dan bagaimana penentuannya?",
+    "Apakah LNG bisa dipakai untuk smelter dan tambang tanpa listrik jaringan?",
+    "Siapa saja perusahaan/penyedia LNG di Indonesia?"
+  ],
+  "gsc_style_queries_from_report": [],
+  "facts_for_researcher_to_verify": {
+    "mining_smelter": "Vale Indonesia + PT Bahodopi Nickel Smelting Indonesia (BNSI) green smelter LNG-based di Morowali, ~Rp37,5 triliun, kapasitas ~73.000 ton/tahun (tempo.co). Indonesia ~65-67% produksi nikel dunia (2023). ~70% energi smelter dari PLTU captive batu bara; ~7,7 GW kapasitas PLTU captive (nikel.co.id/AEER). Verify current figures + LNG-vs-coal captive energy claims.",
+    "lng_vs_lpg": "Efisiensi termal LNG ~50,86% vs LPG ~50,11% (jurnal Uniska/PNJ — verify). LPG = propana/butana dari kilang; LNG = metana didinginkan ~-162/-163C, ~1/600. LPG densitas energi per volume lebih tinggi. LNG pembakaran lebih bersih. Verify a real price/unit-panas comparison from an Indonesian source; do NOT invent MMBTU numbers.",
+    "contract": "Take-or-pay (umumnya ~90% ToP), ACQ/DCQ/AACQ, make-up rights 2-5 thn, indeksasi JKM/TTF (spot Asia) vs ICP/Brent; di Indonesia acuan ICP umum. Konteks HGBT (harga gas bumi tertentu) untuk industri. Verify current Indonesian LNG/gas contract norms + regulated-price context (ESDM/SKK Migas).",
+    "regasification": "Vaporizer types: Open Rack Vaporizer (ORV, air laut, suhu >5C), Submerged Combustion Vaporizer (SCV, flue gas), Ambient Air Vaporizer (AAV, udara sekitar), water bath. On-site: satuan regasifikasi (SRU) + PRS + metering. Verify vaporizer selection criteria + typical on-site capacities; avoid inventing specific SRU specs.",
+    "bog_troubleshooting": "BOG dari heat leakage → tekanan tangki naik → venting bila lewat MARVS. Manajemen: konsumsi, reliquefaction, venting. Vaporizer icing/frost pada AAV; rollover tangki. Verify from a technical/academic source; frame at operational (not upstream/FSRU-engineering) level.",
+    "gagas_lng_role_CRITICAL": "Company profile lists ONLY 'LNG Hub' as Gagas infrastructure. Landing page claims 'pionir dan pemimpin pasar' (FORBIDDEN). Researcher MUST verify Gagas's exact LNG role (operator LNG Hub / distributor hilir beyond-pipeline via ISO tank) and NEVER frame Gagas as produsen/likuifaksi/FSRU operator or a full 'perusahaan LNG'. Partners referenced in prior articles: PT PGN LNG, Nusantara Regas (midstream/regas)."
+  },
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      "apa-itu-lng-bedanya-dengan-cng-gas-pipa (informational — LNG vs CNG vs pipa, 3 modalitas)",
+      "lng-beyond-pipeline-konsep-lng-hub (informational — LNG Hub, break-bulking, virtual pipeline, ISO tank, HOREKA)",
+      "lng-untuk-industri-kapan-lebih-cocok-dari-cng (comparison — LNG vs CNG 4 sumbu: volume/jarak ~300km/ruang/frekuensi)",
+      "rantai-pasok-lng-likuifaksi-pengguna-akhir (informational — 7 node supply chain, kilang/FSRU/regas, lanskap pemain)",
+      "memilih-penyedia-lng-indonesia-kriteria (decision — 3 peran hulu/midstream/hilir, 5 kriteria + checklist vendor)",
+      "lng-untuk-pembangkit-gasifikasi-kelistrikan (informational — LNG untuk pembangkit listrik, gasifikasi, daerah terpencil)",
+      "lng-bunkering-bahan-bakar-kapal-maritim (informational — LNG bunkering, bahan bakar maritim, IMO 2020)",
+      "keekonomian-lng-vs-solar-diesel (decision — ekonomi LNG vs solar/diesel, lokasi remote)",
+      "keselamatan-lng-bahaya-kriogenik-penanganan (how-to — keselamatan kriogenik, standar penanganan)",
+      "peran-lng-transisi-energi-indonesia (informational — LNG transisi energi, jembatan/jebakan, dekarbonisasi)"
+    ],
+    "uncovered_angles": [
+      "LNG untuk pertambangan/smelter (hilirisasi nikel) — captive power + panas proses [Brief 01]",
+      "LNG vs LPG head-to-head untuk industri makanan & rantai dingin [Brief 02 — no prior compares LNG vs LPG]",
+      "Kontrak & struktur harga LNG (take-or-pay, offtake, indeksasi) [Brief 03 — no prior covers contract mechanics]",
+      "Regasifikasi & vaporizer di lokasi pelanggan (SRU/AAV engineering) [Brief 04 — priors keep regas at terminal/FSRU macro level]",
+      "Troubleshooting kendala pasokan LNG (BOG venting, vaporizer icing, tekanan) [Brief 05 — first troubleshooting-intent article; safety article 09 is hazard-framed not uptime-framed]"
+    ],
+    "still_open_after_this_batch": [
+      "TCO calculator/worked-cost methodology (deferred — economics article 08 partially adjacent)",
+      "Per-island/regional pemerataan case study (defer; fabrication risk on client outcomes)",
+      "LNG + hydrogen / CCUS complement roadmap (adjacent to transisi-energi article 10)",
+      "Small-scale/mini-LNG business model & stranded-gas monetisation (adjacent to LNG Hub article 02)",
+      "Gas quality / Wobbe Index equipment-compatibility deep-dive"
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-10\\final\\cng-indonesia-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-28T19:44:19+07:00",
+    "word_count":  1625,
+    "paragraph_count":  24,
+    "sentence_count":  125,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.365,
+                        "sentence_burstiness":  0.716,
+                        "top30_vocab_share":  0.311,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.365 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "HGBT saja telah direvisi tiga kali sejak 2021 (Kepmen 134.K/2021, 91.K/2023, lalu 76.K/2025).",
+                                      "candidate_score":  31,
+                                      "web_search_query":  "\"HGBT saja telah direvisi tiga kali sejak 2021 (Kepmen 134.K/2021, 91.K/2023, lalu 76.K/2025).\""
+                                  },
+                                  {
+                                      "passage":  "Arah kebijakan bergerak ke dua tujuan: menekan biaya energi industri lewat skema Harga Gas Bumi Tertentu (HGBT), dan memperluas pemakaian gas bumi menggantikan BBM serta LPG.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Arah kebijakan bergerak ke dua tujuan: menekan biaya energi industri lewat skema Harga Gas Bumi Tertentu (HGBT), dan mem\""
+                                  },
+                                  {
+                                      "passage":  "9 Tahun 2013 untuk menggantikan BP Migas yang dibubarkan Mahkamah Konstitusi pada 13 November 2012, dan perannya murni di hulu.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"9 Tahun 2013 untuk menggantikan BP Migas yang dibubarkan Mahkamah Konstitusi pada 13 November 2012, dan perannya murni d\""
+                                  },
+                                  {
+                                      "passage":  "Menteri ESDM menargetkan produksi tabung CNG 3 kg \"Merah Putih\" mulai Juli 2026 dengan klaim harga 30-40% lebih murah dari LPG.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Menteri ESDM menargetkan produksi tabung CNG 3 kg  Merah Putih  mulai Juli 2026 dengan klaim harga 30-40% lebih murah da\""
+                                  },
+                                  {
+                                      "passage":  "22 Tahun 2001, yang diturunkan menjadi Peraturan Pemerintah, Peraturan Menteri ESDM, dan Keputusan Menteri.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"22 Tahun 2001, yang diturunkan menjadi Peraturan Pemerintah, Peraturan Menteri ESDM, dan Keputusan Menteri.\""
+                                  },
+                                  {
+                                      "passage":  "Untuk meniagakan dan mengangkut CNG, sebuah badan usaha wajib mengantongi izin usaha berbasis risiko lewat sistem *Online Single Submission* (OSS), mengikuti standar Permen ESDM No.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Untuk meniagakan dan mengangkut CNG, sebuah badan usaha wajib mengantongi izin usaha berbasis risiko lewat sistem *Onlin\""
+                                  },
+                                  {
+                                      "passage":  "22 Tahun 2001, dijalankan Kementerian ESDM sebagai perumus kebijakan dan BPH Migas sebagai pengatur niaga, dengan aturan teknis seperti Permen ESDM No.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"22 Tahun 2001, dijalankan Kementerian ESDM sebagai perumus kebijakan dan BPH Migas sebagai pengatur niaga, dengan aturan\""
+                                  },
+                                  {
+                                      "passage":  "# Regulasi CNG di Indonesia: Aturan, Regulator, dan Arah Kebijakannya Banyak pengambil keputusan energi hafal argumen bahwa CNG lebih hemat dan lebih bersih daripada solar atau LPG.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"# Regulasi CNG di Indonesia: Aturan, Regulator, dan Arah Kebijakannya Banyak pengambil keputusan energi hafal argumen ba\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

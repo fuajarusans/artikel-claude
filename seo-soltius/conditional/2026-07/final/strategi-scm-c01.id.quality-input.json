@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-07\\final\\strategi-scm-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-06T19:06:38+07:00",
+    "word_count":  985,
+    "paragraph_count":  14,
+    "sentence_count":  57,
+    "ai_detector":  {
+                        "score":  0.15,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.288,
+                        "sentence_burstiness":  0.881,
+                        "top30_vocab_share":  0.311,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-uniformity",
+                                          "severity":  "high",
+                                          "snippet":  "Paragraph word-count CV=0.288 (target \u003e=0.45; \u003c0.30 is strong AI tell)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Konteksnya nyata: [Gartner, Februari 2025](https://www.gartner.com/en/newsroom/press-releases/2025-02-18-gartner-survey-shows-only-29-percent-of-supply-chain-organizations-have-built-necessary-capabilities-to-deliver-on-future-performance) menemukan baru 29% organisasi supply chain yang telah membangun kapabilitas untuk performa masa depan.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Konteksnya nyata: [Gartner, Februari 2025](https://www.gartner.com/en/newsroom/press-releases/2025-02-18-gartner-survey-\""
+                                  },
+                                  {
+                                      "passage":  "**Bangun visibilitas end-to-end.** [Survei McKinsey, Desember 2025](https://www.mckinsey.com/capabilities/operations/our-insights/supply-chain-risk-survey) mencatat 95% perusahaan memiliki visibilitas risiko sampai pemasok *tier-1*, tetapi baru 42% yang menjangkau tier-2 atau lebih dalam.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"**Bangun visibilitas end-to-end.** [Survei McKinsey, Desember 2025](https://www.mckinsey.com/capabilities/operations/our\""
+                                  },
+                                  {
+                                      "passage":  "Gartner (Maret 2026) memprediksi 60% disrupsi supply chain tertangani tanpa intervensi manusia pada 2031, didorong *agentic AI*.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Gartner (Maret 2026) memprediksi 60% disrupsi supply chain tertangani tanpa intervensi manusia pada 2031, didorong *agen\""
+                                  },
+                                  {
+                                      "passage":  "## Kesimpulan Kelima strategi ini saling menopang: visibilitas memberi data, perencanaan memberi arah, diversifikasi dan segmentasi memberi ketahanan, KPI menjaga kejujuran evaluasi.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Kesimpulan Kelima strategi ini saling menopang: visibilitas memberi data, perencanaan memberi arah, diversifikasi dan\""
+                                  },
+                                  {
+                                      "passage":  "**Evaluasi berkala dengan KPI terukur.** Evaluasi kuartalan memakai indikator baku, bukan kesan rapat.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"**Evaluasi berkala dengan KPI terukur.** Evaluasi kuartalan memakai indikator baku, bukan kesan rapat.\""
+                                  },
+                                  {
+                                      "passage":  "Ukur per kuartal dan bandingkan antarperiode agar tren terlihat, bukan sekadar snapshot satu bulan.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Ukur per kuartal dan bandingkan antarperiode agar tren terlihat, bukan sekadar snapshot satu bulan.\""
+                                  },
+                                  {
+                                      "passage":  "Keduanya trade-off, bukan peringkat; banyak perusahaan menggabungkan keduanya per segmen produk lewat pendekatan hibrida.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Keduanya trade-off, bukan peringkat; banyak perusahaan menggabungkan keduanya per segmen produk lewat pendekatan hibrida\""
+                                  },
+                                  {
+                                      "passage":  "**Diversifikasi dan perkuat kemitraan pemasok.** Survei McKinsey yang sama menemukan 82% rantai pasok terdampak tarif baru sepanjang 2025.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"**Diversifikasi dan perkuat kemitraan pemasok.** Survei McKinsey yang sama menemukan 82% rantai pasok terdampak tarif ba\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

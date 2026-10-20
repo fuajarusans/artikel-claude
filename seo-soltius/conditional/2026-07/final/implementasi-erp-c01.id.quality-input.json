@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-07\\final\\implementasi-erp-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-06T19:31:17+07:00",
+    "word_count":  986,
+    "paragraph_count":  18,
+    "sentence_count":  50,
+    "ai_detector":  {
+                        "score":  0.15,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.299,
+                        "sentence_burstiness":  0.364,
+                        "top30_vocab_share":  0.332,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-uniformity",
+                                          "severity":  "high",
+                                          "snippet":  "Paragraph word-count CV=0.299 (target \u003e=0.45; \u003c0.30 is strong AI tell)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "| Tahap | Fase SAP Activate | Aktivitas kunci | Output | |---|---|---|---| | 1.",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"| Tahap | Fase SAP Activate | Aktivitas kunci | Output | |---|---|---|---| | 1.\""
+                                  },
+                                  {
+                                      "passage":  "Analisis *fit-to-standard* | Explore | Workshop mencocokkan proses ke SAP Best Practices; *gap* dicatat ke *backlog* | Desain solusi terkonfirmasi | | 4.",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"Analisis *fit-to-standard* | Explore | Workshop mencocokkan proses ke SAP Best Practices; *gap* dicatat ke *backlog* | D\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai SAP Platinum Partner melalui keanggotaan United VARs dan berpengalaman sejak 1998, Soltius mendampingi perusahaan menjalankan implementasi ERP dengan metodologi SAP Activate, dari perencanaan hingga dukungan pasca go-live.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Sebagai SAP Platinum Partner melalui keanggotaan United VARs dan berpengalaman sejak 1998, Soltius mendampingi perusahaa\""
+                                  },
+                                  {
+                                      "passage":  "Tabel berikut memetakan keenam tahap ke fase resmi metodologi SAP Activate, merujuk dokumentasi [SAP Learning](https://learning.sap.com/courses/discovering-sap-activate-implementation-tools-and-methodology/describing-the-methodology-structure) (diakses Juli 2026).",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Tabel berikut memetakan keenam tahap ke fase resmi metodologi SAP Activate, merujuk dokumentasi [SAP Learning](https://l\""
+                                  },
+                                  {
+                                      "passage":  "## Apa Itu Metodologi SAP Activate dan Mengapa Menjadi Acuan Proyek ERP?",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## Apa Itu Metodologi SAP Activate dan Mengapa Menjadi Acuan Proyek ERP?\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apa saja tahapan implementasi ERP?",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apa saja tahapan implementasi ERP?\""
+                                  },
+                                  {
+                                      "passage":  "Go-live \u0026 *cutover* | Deploy | Penyiapan lingkungan produksi, migrasi data final, pelatihan pengguna akhir | Sistem produktif | | 6.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Go-live \u0026 *cutover* | Deploy | Penyiapan lingkungan produksi, migrasi data final, pelatihan pengguna akhir | Sistem prod\""
+                                  },
+                                  {
+                                      "passage":  "Konfigurasi \u0026 pengujian (*build*) | Realize | *Build* iteratif dari *backlog*, migrasi data percobaan, pengujian bertingkat hingga UAT | Sistem teruji siap produksi | | 5.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Konfigurasi \u0026 pengujian (*build*) | Realize | *Build* iteratif dari *backlog*, migrasi data percobaan, pengujian berting\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

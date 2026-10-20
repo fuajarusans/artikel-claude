@@ -1,0 +1,76 @@
+{
+  "keyword": "CNG Indonesia",
+  "keyword_slug": "cng-indonesia",
+  "month": "2026-08",
+  "captured_at": "2026-08-11",
+  "intent_lock": "informasional/edukasi (apa itu / cara kerja / edukasi teknis / manfaat) — NOT provider-selection (that is the sibling 'Perusahaan CNG Indonesia')",
+  "landing_page": "https://gagas.co.id/perusahaan-cng-indonesia/",
+  "landing_page_summary": "Hub CNG PGN Gagas: menjelaskan CNG (metana dikompresi 200-250 bar), tabel banding CNG vs LPG/LNG/BBM, peran gas untuk ketahanan energi & transisi (NZE 2060), produk Gaslink (industri/komersial) & Gasku (transportasi), klaim hemat '68% vs solar' (sumber KADIN), solusi virtual pipeline. Sudah mengcover definisi + banding + transisi di level hub.",
+  "data_sources_used": ["live_serp (bot-blocked, degraded)", "websearch", "landing_page_fetch"],
+  "ahrefs_available": false,
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "CNG naik jadi topik hangat 2026 karena uji coba 'Tabung Merah Putih 3 kg' pengganti LPG melon + target jargas/CNG 160.000 sambungan (ESDM 2026); banyak artikel edukasi 'apa itu CNG' baru (CNBC Mei 2026, Chandra Asri, Atlas Copco, PGN LNG)",
+    "report_rank": "n/a (seo_report: none for 2026-08)"
+  },
+  "serp": {
+    "note": "google.com/search bot-blocked pada fetch; SERP landscape disusun dari WebSearch (competitor set) + hub fetch.",
+    "top_competitors_informational": [
+      { "url": "https://id.wikipedia.org/wiki/Gas_alam_terkompresi", "angle_summary": "Ensiklopedia: definisi CNG, aplikasi transportasi/rumah tangga/industri, keterbatasan densitas energi" },
+      { "url": "https://www.cnbcindonesia.com/news/20260507173057-4-733213/apa-itu-cng-ini-pengertian-spesifikasi-dan-penggunaannya", "angle_summary": "Apa itu CNG: pengertian, spesifikasi, penggunaan (angle definisi umum)" },
+      { "url": "https://pgnlng.co.id/berita/wawasan/apa-itu-compressed-natural-gas/", "angle_summary": "PGN LNG: penjelasan mendalam CNG + implementasi (kompetitor grup)" },
+      { "url": "https://chandra-asri.com/id/blog/gas-cng", "angle_summary": "Keunggulan & kegunaan CNG sebagai energi alternatif (industri)" },
+      { "url": "https://investortrust.id/business/104530/cng-disebut-lebih-irit-dari-lpg-tapi-kenapa-belum-dipakai", "angle_summary": "Kenapa CNG belum dipakai luas walau lebih irit (hambatan adopsi)" },
+      { "url": "https://solarindustri.com/blog/metode-uji-cng/", "angle_summary": "Metode uji CNG untuk keamanan industri (quality testing)" }
+    ],
+    "serp_features": ["ai_overview_likely", "paa", "featured_snippet_definition"],
+    "gap_vs_top10": "Kompetitor didominasi artikel 'apa itu CNG' generik + banding LPG. Tidak ada yang: (a) membandingkan adopsi CNG Indonesia dengan negara pengguna terbesar dunia secara data-driven; (b) membahas dampak CNG pada kualitas udara kota & kesehatan publik (bukan CO2 industri); (c) menjelaskan parameter KUALITAS gas CNG (nilai kalor, Wobbe index, batas air/H2S, interchangeability). Tiga celah ini = tiga brief."
+  },
+  "paa_proxy": [
+    "Apa itu CNG dan bedanya dengan LPG?",
+    "Kenapa kendaraan berbahan bakar gas belum populer di Indonesia?",
+    "Negara mana pengguna CNG/BBG terbesar di dunia?",
+    "Apakah CNG lebih ramah lingkungan daripada solar/bensin?",
+    "Apakah bus CNG benar-benar mengurangi polusi udara kota?",
+    "Apa dampak CNG terhadap kesehatan dibanding diesel?",
+    "Apa itu nilai kalor dan Wobbe index pada gas CNG?",
+    "Bagaimana standar/spesifikasi kualitas gas CNG di Indonesia?",
+    "Apakah CNG aman dan sudah memenuhi SNI?"
+  ],
+  "verified_facts": {
+    "global_ngv": "India NGV fleet ~2,5-3 juta unit (didorong program City Gas Distribution); Iran ~1,2-1,5 juta; Pakistan ~0,6-0,8 juta; total Asia ~12-14 juta unit (~60-65% populasi NGV global). CNG = 95,3% pasar NGV (2024). Investasi infrastruktur CNG/LNG India-China-Pakistan >USD 500 juta dalam 3 tahun terakhir. (Sumber: Grand View Research, Future Market Insights, CSIS — market-research, WAJIB diverifikasi researcher dengan sumber lebih otoritatif seperti NGV Global / IEA sebelum angka dikutip.)",
+    "indonesia_adoption_barriers": "Adopsi CNG kendaraan Indonesia rendah: infrastruktur SPBG terbatas, biaya konversi converter kit, densitas energi BBG ~1/2 BBM (efisiensi volumetrik rendah -> daya lebih rendah). Indonesia punya cadangan gas besar namun tertinggal. (Auto2000, Investor Trust, Wikipedia ID — verifikasi researcher.)",
+    "urban_air": "Emisi kendaraan bermotor = 32-57% total pencemaran udara Jakarta. Bus CNG NOx ~0,6 g/km vs diesel ~2 g/km (low speed); studi lain: CNG ~32% lebih rendah NOx dari diesel filter ULSD. Nuansa jujur: bus CNG dapat menaikkan PM2.5 sekunder via NH3 di daerah NOx tinggi (studi 2020-an) -> CNG bukan nol emisi, EV lebih jauh. Transjakarta historis ~85% armada BBG (2015). (CATF, ARB California, ScienceDirect Delhi, Liputan6, Jakarta.go.id — verifikasi researcher, hati-hati angka.)",
+    "health_pm25": "PM2.5 dari pembakaran fosil masuk paru & aliran darah ke organ vital; dampak: batuk, asma, gangguan saraf pusat, pada anak penurunan IQ & stunting. (Kompas.tv, jurnal — verifikasi researcher; framing kesehatan, bukan diagnosis.)",
+    "gas_quality_spec": "Kualitas CNG ditentukan komposisi (metana C1) -> menentukan nilai kalor, densitas, dan Wobbe index. Gas harus penuhi spesifikasi gas komersial: batas maksimum kadar air, CO2, H2S, dan hidrokarbon berat sebelum dikompresi ke ~250 bar. RSNI/SNI CNG memuat batas kadar air, partikulat, komposisi kimia, nilai kalor. Standar terkait: SNI 8414-2017, SNI 8219:2017; Lemigas mengkaji revisi kadar air & partikulat. (BSN, Lemigas ESDM, Solarindustri — verifikasi researcher untuk nomor SNI & nilai batas persis.)",
+    "policy_context_2026": "ESDM 2026: uji coba CNG 'Tabung Merah Putih' 3 kg pengganti LPG melon; proyeksi kurangi subsidi LPG 3 kg 30-40%; target 160.000 sambungan jargas/CNG tahun ini. (CNBC, Kompas — sudah dipakai di cluster part-2, gunakan hanya sebagai konteks momentum, bukan angle utama.)"
+  },
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      "01 apa-itu-cng-cara-kerja-kompresi (informational) — definisi, fisika/kimia, 7-langkah kompresi, CNG vs pipa/LPG/LNG",
+      "02 cng-vs-lng-vs-lpg-kapan-pakai (comparison) — banding 3 gas, nilai kalori, HGBT, decision framework",
+      "03 manfaat-cng-industri-lingkungan (informational) — efisiensi, emisi CO2/NOx INDUSTRI, kapan belum cocok",
+      "04 cng-beyond-pipeline-daerah-tanpa-pipa (informational) — virtual pipeline, Mother Station, GTM, kapal CNG",
+      "05 cng-transisi-energi-indonesia (informational) — bridge fuel, bauran energi 2050, NZE 2060, metana GWP",
+      "06 cng-3kg-tabung-merah-putih-pengganti-lpg (informational/consumer) — CNG 3kg rumah tangga pengganti LPG melon",
+      "07 keselamatan-cng-spesifikasi-tabung-standar (informational/safety) — keselamatan TABUNG/silinder, standar, insiden",
+      "08 mitos-fakta-cng-benar-salah (informational/myth) — 7 mitos CNG & fakta",
+      "09 cng-vs-listrik-ev-dua-jalur-energi-bersih (comparison) — CNG vs EV/listrik",
+      "10 sejarah-cng-bbg-indonesia-1986-2026 (informational/history) — timeline naik-turun BBG Indonesia"
+    ],
+    "uncovered_angles_selected": [
+      "A) Benchmark adopsi CNG global vs Indonesia (comparative/geographic education) -> brief 01",
+      "B) Dampak CNG pada kualitas udara kota & kesehatan publik (health/environmental education, transport tailpipe axis, BUKAN CO2 industri) -> brief 02",
+      "C) Kualitas & spesifikasi GAS CNG: nilai kalor, Wobbe index, batas air/CO2/H2S, interchangeability (technical education, BUKAN spesifikasi tabung/hardware) -> brief 03"
+    ],
+    "deliberately_left_for_commercial_sibling": [
+      "Kriteria memilih penyedia CNG, izin niaga/IUN, SLA/kontrak, evaluasi vendor, keandalan pasok komersial, model harga/minimum offtake — semua KOMERSIAL, milik Perusahaan CNG Indonesia strategist (runs after this)."
+    ]
+  },
+  "briefs_derived": [
+    { "id": "cng-indonesia-01", "angle": "cng-global-vs-indonesia-benchmark-adopsi", "angle_hash": "sha1:94711019d745", "intent": "informational" },
+    { "id": "cng-indonesia-02", "angle": "cng-kualitas-udara-dan-dampak-kesehatan", "angle_hash": "sha1:84580967d16d", "intent": "informational" },
+    { "id": "cng-indonesia-03", "angle": "kualitas-dan-spesifikasi-gas-cng-nilai-kalori-wobbe", "angle_hash": "sha1:4e4c94c0bccc", "intent": "informational" }
+  ]
+}

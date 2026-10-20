@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-ptpii\\monthly_runs\\2026-08\\final\\kpbu-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-12T15:32:40+07:00",
+    "word_count":  1780,
+    "paragraph_count":  28,
+    "sentence_count":  106,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.462,
+                        "sentence_burstiness":  1.094,
+                        "top30_vocab_share":  0.331,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "68 Tahun 2024, berlaku sejak 18 Oktober 2024, memandatkan penyusunan pedoman kategori dan pembagian risiko infrastruktur sekaligus peninjauannya sedikitnya sekali dalam 12 bulan.",
+                                      "candidate_score":  29,
+                                      "web_search_query":  "\"68 Tahun 2024, berlaku sejak 18 Oktober 2024, memandatkan penyusunan pedoman kategori dan pembagian risiko infrastruktur\""
+                                  },
+                                  {
+                                      "passage":  "Simpul KPBU Kementerian Pekerjaan Umum mencantumkan 11 kategori (diakses 2026): risiko lokasi, desain-konstruksi-uji operasi, sponsor, finansial, operasional, pendapatan, konektivitas jaringan, *interface*, politik, kahar, dan kepemilikan aset.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Simpul KPBU Kementerian Pekerjaan Umum mencantumkan 11 kategori (diakses 2026): risiko lokasi, desain-konstruksi-uji ope\""
+                                  },
+                                  {
+                                      "passage":  "[Simpul KPBU Kementerian Pekerjaan Umum](https://simpulkpbu.pu.go.id/pages/risiko/kategori-risiko) mencantumkan risiko lokasi, desain-konstruksi-uji operasi, sponsor, finansial, operasional, pendapatan, konektivitas jaringan, *interface*, politik, kahar, dan kepemilikan aset (diakses 2026).",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"[Simpul KPBU Kementerian Pekerjaan Umum](https://simpulkpbu.pu.go.id/pages/risiko/kategori-risiko) mencantumkan risiko l\""
+                                  },
+                                  {
+                                      "passage":  "Taksonomi yang sama menjadi kerangka Acuan Alokasi Risiko, rujukan yang disusun dan diterbitkan PT PII selaku Badan Usaha Penjaminan Infrastruktur (BUPI).",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Taksonomi yang sama menjadi kerangka Acuan Alokasi Risiko, rujukan yang disusun dan diterbitkan PT PII selaku Badan Usah\""
+                                  },
+                                  {
+                                      "passage":  "Profil risiko proyek telekomunikasi seperti Palapa Ring berbeda secara konseptual dari proyek air minum seperti SPAM Umbulan atau persampahan seperti PSEL Legok Nangka.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Profil risiko proyek telekomunikasi seperti Palapa Ring berbeda secara konseptual dari proyek air minum seperti SPAM Umb\""
+                                  },
+                                  {
+                                      "passage":  "Pada *Availability Payment*, PJPK membayar berkala atas ketersediaan layanan sesuai standar mutu, bukan atas jumlah pemakai, sehingga fluktuasi permintaan berpindah ke pemerintah.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Pada *Availability Payment*, PJPK membayar berkala atas ketersediaan layanan sesuai standar mutu, bukan atas jumlah pema\""
+                                  },
+                                  {
+                                      "passage":  "PJPK adalah Penanggung Jawab Proyek Kerja Sama: menteri, kepala lembaga, atau kepala daerah yang bertindak sebagai pihak pemerintah dalam perjanjian KPBU.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"PJPK adalah Penanggung Jawab Proyek Kerja Sama: menteri, kepala lembaga, atau kepala daerah yang bertindak sebagai pihak\""
+                                  },
+                                  {
+                                      "passage":  "Pengembalian investasi mengikuti skema yang dipilih: *Availability Payment* berarti pemerintah membayar berkala atas ketersediaan layanan, sedangkan *user charge* mengandalkan tarif pengguna.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Pengembalian investasi mengikuti skema yang dipilih: *Availability Payment* berarti pemerintah membayar berkala atas ket\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

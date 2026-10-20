@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-10\\final\\kpi-karyawan-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-10-08T17:49:25+07:00",
+    "word_count":  1202,
+    "paragraph_count":  17,
+    "sentence_count":  70,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.396,
+                        "sentence_burstiness":  0.967,
+                        "top30_vocab_share":  0.268,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.396 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "## Cara Menyusun KPI Karyawan dengan Metode SMART Penyusunan KPI bergerak dari atas ke bawah: sasaran perusahaan diturunkan ke divisi, lalu ke peran tiap individu.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Cara Menyusun KPI Karyawan dengan Metode SMART Penyusunan KPI bergerak dari atas ke bawah: sasaran perusahaan diturun\""
+                                  },
+                                  {
+                                      "passage":  "[Menurut SAP](https://www.sap.com/products/hcm/performance-goals.html), modul ini menautkan penetapan dan *cascade* sasaran (Goal Management), umpan balik berkelanjutan lewat *continuous performance management* (CPM), serta kalibrasi penilaian lintas tim (Calibration) agar standarnya seragam.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"[Menurut SAP](https://www.sap.com/products/hcm/performance-goals.html), modul ini menautkan penetapan dan *cascade* sasa\""
+                                  },
+                                  {
+                                      "passage":  "## Contoh KPI Karyawan di Berbagai Divisi KPI selalu diturunkan dari fungsi tiap divisi, sehingga metriknya berbeda dari satu unit ke unit lain.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"## Contoh KPI Karyawan di Berbagai Divisi KPI selalu diturunkan dari fungsi tiap divisi, sehingga metriknya berbeda dari\""
+                                  },
+                                  {
+                                      "passage":  "Untuk menata pengelolaan KPI karyawan lewat SAP SuccessFactors Performance \u0026 Goals di perusahaan Anda, kunjungi soltius.co.id.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Untuk menata pengelolaan KPI karyawan lewat SAP SuccessFactors Performance \u0026 Goals di perusahaan Anda, kunjungi soltius.\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apa perbedaan KPI dan OKR?",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apa perbedaan KPI dan OKR?\""
+                                  },
+                                  {
+                                      "passage":  "Begitu jumlah karyawan bertambah, mengelola KPI lewat *spreadsheet* cepat kedaluwarsa, sulit dikonsolidasikan, dan rawan versi ganda.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Begitu jumlah karyawan bertambah, mengelola KPI lewat *spreadsheet* cepat kedaluwarsa, sulit dikonsolidasikan, dan rawan\""
+                                  },
+                                  {
+                                      "passage":  "# KPI Karyawan: Pengertian, Contoh, dan Cara Menyusunnya Di akhir periode, seorang kepala divisi harus menilai timnya, tetapi tidak punya ukuran yang disepakati sejak awal.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"# KPI Karyawan: Pengertian, Contoh, dan Cara Menyusunnya Di akhir periode, seorang kepala divisi harus menilai timnya, t\""
+                                  },
+                                  {
+                                      "passage":  "Kerangka SMART, singkatan dari *Specific, Measurable, Achievable, Relevant,* dan *Time-bound* (lima kriteria), diperkenalkan George T.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Kerangka SMART, singkatan dari *Specific, Measurable, Achievable, Relevant,* dan *Time-bound* (lima kriteria), diperkena\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

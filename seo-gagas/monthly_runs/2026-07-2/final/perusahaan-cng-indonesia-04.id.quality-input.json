@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07-2\\final\\perusahaan-cng-indonesia-04.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-08T09:57:15+07:00",
+    "word_count":  1551,
+    "paragraph_count":  25,
+    "sentence_count":  88,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.389,
+                        "sentence_burstiness":  0.597,
+                        "top30_vocab_share":  0.302,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.389 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "4 Tahun 2018** tentang Pengusahaan Gas Bumi pada Kegiatan Usaha Hilir, yang diubah oleh Permen ESDM No.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"4 Tahun 2018** tentang Pengusahaan Gas Bumi pada Kegiatan Usaha Hilir, yang diubah oleh Permen ESDM No.\""
+                                  },
+                                  {
+                                      "passage":  "### Apa bedanya Izin Usaha Niaga (IUN) dan Hak Khusus penyedia gas bumi?",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"### Apa bedanya Izin Usaha Niaga (IUN) dan Hak Khusus penyedia gas bumi?\""
+                                  },
+                                  {
+                                      "passage":  "Operator CNG *beyond-pipeline* (via truk/GTM) umumnya cukup memegang IUN; Hak Khusus relevan bila penyedia juga mengelola jaringan pipa.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Operator CNG *beyond-pipeline* (via truk/GTM) umumnya cukup memegang IUN; Hak Khusus relevan bila penyedia juga mengelol\""
+                                  },
+                                  {
+                                      "passage":  "## Red Flag: Jawaban yang Terdengar Meyakinkan tapi Kosong Waspadai jawaban yang enak didengar tapi tak bisa dibuktikan.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Red Flag: Jawaban yang Terdengar Meyakinkan tapi Kosong Waspadai jawaban yang enak didengar tapi tak bisa dibuktikan.\""
+                                  },
+                                  {
+                                      "passage":  "## Pertanyaan SLA, Respons Darurat, dan Referensi Pelanggan Untuk keandalan, tuntut yang tertulis.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Pertanyaan SLA, Respons Darurat, dan Referensi Pelanggan Untuk keandalan, tuntut yang tertulis.\""
+                                  },
+                                  {
+                                      "passage":  "IUN adalah izin dari Kementerian ESDM/Ditjen Migas untuk kegiatan niaga gas bumi, termasuk CNG, LNG, dan BBG.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"IUN adalah izin dari Kementerian ESDM/Ditjen Migas untuk kegiatan niaga gas bumi, termasuk CNG, LNG, dan BBG.\""
+                                  },
+                                  {
+                                      "passage":  "Penyedia mapan umumnya juga sanggup menunjukkan sertifikat keselamatan, misalnya ISO 45001:2018 (Sistem Manajemen K3) atau penerapan SMK3 sesuai PP No.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Penyedia mapan umumnya juga sanggup menunjukkan sertifikat keselamatan, misalnya ISO 45001:2018 (Sistem Manajemen K3) at\""
+                                  },
+                                  {
+                                      "passage":  "Untuk referensi, satu catatan jujur: perusahaan besar kadang tak bisa menyebut nama pelanggan karena NDA.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Untuk referensi, satu catatan jujur: perusahaan besar kadang tak bisa menyebut nama pelanggan karena NDA.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

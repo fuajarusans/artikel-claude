@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-ptpii\\monthly_runs\\2026-09\\final\\pembiayaan-infrastruktur-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-22T05:58:06+07:00",
+    "word_count":  1817,
+    "paragraph_count":  22,
+    "sentence_count":  102,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.424,
+                        "sentence_burstiness":  0.897,
+                        "top30_vocab_share":  0.282,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.424 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Pada triwulan II-2023, kontribusi terhadap PDB nasional tercatat Jawa 57,27%, Sumatra 21,94%, Kalimantan 8,32%, Sulawesi 7,13%, Bali–Nusa Tenggara 2,77%, dan Maluku–Papua 2,57% ([BPS, dikutip ANTARA, 7 Agustus 2023](https://www.antaranews.com/berita/3670113/bps-pulau-jawa-kontributor-utama-pdb-ri-sebesar-5727-persen)).",
+                                      "candidate_score":  63,
+                                      "web_search_query":  "\"Pada triwulan II-2023, kontribusi terhadap PDB nasional tercatat Jawa 57,27%, Sumatra 21,94%, Kalimantan 8,32%, Sulawesi\""
+                                  },
+                                  {
+                                      "passage":  "Kebutuhan pembiayaan infrastruktur nasional periode 2025–2029 ditaksir sekitar USD 625 miliar, setara Rp 10.146–10.303 triliun, dengan kemampuan APBN menutup sekitar 40% (DJKN, Kementerian Keuangan, 2025).",
+                                      "candidate_score":  39,
+                                      "web_search_query":  "\"Kebutuhan pembiayaan infrastruktur nasional periode 2025–2029 ditaksir sekitar USD 625 miliar, setara Rp 10.146–10.303 t\""
+                                  },
+                                  {
+                                      "passage":  "Keduanya proyek jalan, keduanya punya PJPK (*Penanggung Jawab Proyek Kerja Sama*) yang serius, keduanya butuh tenor panjang.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Keduanya proyek jalan, keduanya punya PJPK (*Penanggung Jawab Proyek Kerja Sama*) yang serius, keduanya butuh tenor panj\""
+                                  },
+                                  {
+                                      "passage":  "Proyek tetap harus memiliki dasar kelayakan finansial serta pembayar yang jelas, sesuai kerangka Perpres 38/2015.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Proyek tetap harus memiliki dasar kelayakan finansial serta pembayar yang jelas, sesuai kerangka Perpres 38/2015.\""
+                                  },
+                                  {
+                                      "passage":  "Pulau Jawa menyumbang 57,27% Produk Domestik Bruto (PDB) nasional pada triwulan II-2023 (Badan Pusat Statistik/BPS), dan itu ukuran kontribusi ekonomi, bukan porsi investasi.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Pulau Jawa menyumbang 57,27% Produk Domestik Bruto (PDB) nasional pada triwulan II-2023 (Badan Pusat Statistik/BPS), dan\""
+                                  },
+                                  {
+                                      "passage":  "Fasilitas penyiapan proyek diatur dalam PMK 68/2024, yang berlaku sejak 18 Oktober 2024.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Fasilitas penyiapan proyek diatur dalam PMK 68/2024, yang berlaku sejak 18 Oktober 2024.\""
+                                  },
+                                  {
+                                      "passage":  "# Pembiayaan Infrastruktur: Kenapa Modal Menumpuk di Jawa Dua proposal mendarat di meja alokasi yang sama pada pekan yang sama.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"# Pembiayaan Infrastruktur: Kenapa Modal Menumpuk di Jawa Dua proposal mendarat di meja alokasi yang sama pada pekan yan\""
+                                  },
+                                  {
+                                      "passage":  "Data BPS menunjukkan kontribusi Pulau Jawa terhadap PDB nasional sebesar 57,27% pada triwulan II-2023, dan itu ukuran aktivitas ekonomi, bukan porsi investasi.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Data BPS menunjukkan kontribusi Pulau Jawa terhadap PDB nasional sebesar 57,27% pada triwulan II-2023, dan itu ukuran ak\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

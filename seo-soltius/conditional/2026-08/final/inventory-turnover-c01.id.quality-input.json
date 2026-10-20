@@ -1,0 +1,81 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-08\\final\\inventory-turnover-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-18T00:07:05+07:00",
+    "word_count":  1036,
+    "paragraph_count":  22,
+    "sentence_count":  73,
+    "ai_detector":  {
+                        "score":  0.08,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.399,
+                        "sentence_burstiness":  0.728,
+                        "top30_vocab_share":  0.362,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.399 (target \u003e=0.45)",
+                                          "line":  -1
+                                      },
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 36.2% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "# Inventory Turnover Ratio: Rumus dan Cara Meningkatkannya Manajer gudang melaporkan stok aman.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"# Inventory Turnover Ratio: Rumus dan Cara Meningkatkannya Manajer gudang melaporkan stok aman.\""
+                                  },
+                                  {
+                                      "passage":  "Rasio 6,0 kali berarti 365 ÷ 6,0 ≈ 61 hari stok tersimpan sebelum terjual.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Rasio 6,0 kali berarti 365 ÷ 6,0 ≈ 61 hari stok tersimpan sebelum terjual.\""
+                                  },
+                                  {
+                                      "passage":  "Persediaan rata-ratanya Rp 1,5 miliar, sehingga rasionya 9 ÷ 1,5 = 6,0 kali setahun.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Persediaan rata-ratanya Rp 1,5 miliar, sehingga rasionya 9 ÷ 1,5 = 6,0 kali setahun.\""
+                                  },
+                                  {
+                                      "passage":  "Konversinya satu baris: DSI (*days sales of inventory*, hari persediaan) = 365 ÷ turnover.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Konversinya satu baris: DSI (*days sales of inventory*, hari persediaan) = 365 ÷ turnover.\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai SAP Platinum Partner melalui United VARs, Soltius mendampingi perusahaan distribusi, manufaktur, dan ritel mengimplementasikan SAP tempat rasio ini dihitung dan dipantau.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Sebagai SAP Platinum Partner melalui United VARs, Soltius mendampingi perusahaan distribusi, manufaktur, dan ritel mengi\""
+                                  },
+                                  {
+                                      "passage":  "Di situlah kelas alat seperti SAP Integrated Business Planning (SAP IBP) bekerja: SAP memosisikannya untuk *multi-echelon inventory optimization* dan penempatan stok terhadap *forecast error* serta ketidakpastian pasokan.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Di situlah kelas alat seperti SAP Integrated Business Planning (SAP IBP) bekerja: SAP memosisikannya untuk *multi-echelo\""
+                                  },
+                                  {
+                                      "passage":  "## Rumus Inventory Turnover dan Contoh Perhitungannya Pembilang rasio ini adalah harga pokok penjualan, bukan penjualan.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"## Rumus Inventory Turnover dan Contoh Perhitungannya Pembilang rasio ini adalah harga pokok penjualan, bukan penjualan.\""
+                                  },
+                                  {
+                                      "passage":  "**Akurasi peramalan permintaan.** Salah ramalan berarti stok salah sejak hari pertama; tuas lain hanya membereskan akibatnya.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"**Akurasi peramalan permintaan.** Salah ramalan berarti stok salah sejak hari pertama; tuas lain hanya membereskan akiba\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

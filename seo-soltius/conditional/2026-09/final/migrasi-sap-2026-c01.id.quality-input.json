@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-09\\final\\migrasi-sap-2026-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-01T08:22:33+07:00",
+    "word_count":  898,
+    "paragraph_count":  15,
+    "sentence_count":  51,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.302,
+                        "sentence_burstiness":  0.89,
+                        "top30_vocab_share":  0.313,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.302 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "# 2027 Sudah Dekat: Mengapa Migrasi SAP Sebaiknya Dimulai 2026 Seorang CIO yang menjalankan SAP ECC (*SAP ERP Central Component*) sudah tahu tenggat 2027 itu ada.",
+                                      "candidate_score":  37,
+                                      "web_search_query":  "\"# 2027 Sudah Dekat: Mengapa Migrasi SAP Sebaiknya Dimulai 2026 Seorang CIO yang menjalankan SAP ECC (*SAP ERP Central Co\""
+                                  },
+                                  {
+                                      "passage":  "Tenggat hak pakai *SAP Compatibility Packs* untuk S/4HANA *on-premise* berakhir akhir Mei 2026 lewat masa transisi final yang diumumkan [SAP](https://news.sap.com/2025/12/sap-announced-final-transition-period-for-compatibility-packs-for-sap-s-4hana-on-premise/) (SAP Note 2269324, Desember 2025).",
+                                      "candidate_score":  35,
+                                      "web_search_query":  "\"Tenggat hak pakai *SAP Compatibility Packs* untuk S/4HANA *on-premise* berakhir akhir Mei 2026 lewat masa transisi final\""
+                                  },
+                                  {
+                                      "passage":  "Menurut Gartner (dikutip [CIO.com](https://www.cio.com/article/4000543/nearly-half-of-sap-ecc-customers-may-stick-with-legacy-erp-beyond-2027.html)), per akhir 2024 baru 39% atau sekitar 14.000 dari ~35.000 pelanggan ECC yang telah migrasi, dan sekitar 17.000 diproyeksikan masih memakai ECC pada 2027.",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"Menurut Gartner (dikutip [CIO.com](https://www.cio.com/article/4000543/nearly-half-of-sap-ecc-customers-may-stick-with-l\""
+                                  },
+                                  {
+                                      "passage":  "Menjelang 2027, permintaan konsultan S/4HANA berpengalaman melampaui pasokan, sehingga estimasi industri menaksir *day rate* naik 30–50% pada 2026–27 dibanding 2024.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Menjelang 2027, permintaan konsultan S/4HANA berpengalaman melampaui pasokan, sehingga estimasi industri menaksir *day r\""
+                                  },
+                                  {
+                                      "passage":  "Runway 18–36 bulan dan *mainstream maintenance* yang berakhir 31 Desember 2027 membuat migrasi SAP 2026 menjadi keputusan yang paling terkendali dan paling murah.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Runway 18–36 bulan dan *mainstream maintenance* yang berakhir 31 Desember 2027 membuat migrasi SAP 2026 menjadi keputusa\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai SAP Platinum Partner melalui United VARs dan berpengalaman sejak 1998, Soltius menjalankan *assessment* serta mendampingi eksekusi migrasi ke SAP S/4HANA di lapangan.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"Sebagai SAP Platinum Partner melalui United VARs dan berpengalaman sejak 1998, Soltius menjalankan *assessment* serta me\""
+                                  },
+                                  {
+                                      "passage":  "Alasannya aritmetika waktu: runway 18–36 bulan (diperkirakan) berbenturan dengan berakhirnya *mainstream maintenance* ECC pada 31 Desember 2027, sehingga menunda menaikkan biaya dan risiko *go-live*.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Alasannya aritmetika waktu: runway 18–36 bulan (diperkirakan) berbenturan dengan berakhirnya *mainstream maintenance* EC\""
+                                  },
+                                  {
+                                      "passage":  "Estimasi industri memperkirakan *day rate* konsultan S/4HANA berpengalaman naik 30–50% pada 2026–27 dibanding 2024, dengan permintaan talenta beberapa kali lipat pasokan menjelang tenggat.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Estimasi industri memperkirakan *day rate* konsultan S/4HANA berpengalaman naik 30–50% pada 2026–27 dibanding 2024, deng\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07-2\\final\\gasku-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-08T09:55:32+07:00",
+    "word_count":  1615,
+    "paragraph_count":  27,
+    "sentence_count":  91,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.311,
+                        "sentence_burstiness":  0.762,
+                        "top30_vocab_share":  0.289,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.311 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Pada 9–16 Maret 2026, PGN Gagas bersama Komogas (Komunitas Mobil Gas) menggelar Bengkel Keliling CNG di SPBG Cirebon menjelang mudik Lebaran, melayani 55 kendaraan (Liputan6, 2026).",
+                                      "candidate_score":  49,
+                                      "web_search_query":  "\"Pada 9–16 Maret 2026, PGN Gagas bersama Komogas (Komunitas Mobil Gas) menggelar Bengkel Keliling CNG di SPBG Cirebon men\""
+                                  },
+                                  {
+                                      "passage":  "Per pemberitaan November 2025, PGN mengoperasikan 14 SPBG di 7 provinsi dengan rata-rata melayani sekitar 2.200 kendaraan per hari (CNBC Indonesia, 6 November 2025).",
+                                      "candidate_score":  38,
+                                      "web_search_query":  "\"Per pemberitaan November 2025, PGN mengoperasikan 14 SPBG di 7 provinsi dengan rata-rata melayani sekitar 2.200 kendaraa\""
+                                  },
+                                  {
+                                      "passage":  "Menurut Kementerian ESDM, unit MRU generasi awal di Jakarta berukuran 20 kaki dengan kapasitas simpan sekitar 1.800 LSP (Liter Setara Premium) per unit (Ditjen Migas ESDM, 2015).",
+                                      "candidate_score":  37,
+                                      "web_search_query":  "\"Menurut Kementerian ESDM, unit MRU generasi awal di Jakarta berukuran 20 kaki dengan kapasitas simpan sekitar 1.800 LSP \""
+                                  },
+                                  {
+                                      "passage":  "Per data yang beredar, jaringannya mencakup DKI Jakarta, Jawa Barat (Bogor, Bekasi, Purwakarta), Banten (Serang, Cilegon), Jawa Timur (Surabaya), Lampung, dan Batam.",
+                                      "candidate_score":  34,
+                                      "web_search_query":  "\"Per data yang beredar, jaringannya mencakup DKI Jakarta, Jawa Barat (Bogor, Bekasi, Purwakarta), Banten (Serang, Cilegon\""
+                                  },
+                                  {
+                                      "passage":  "Harga BBG-nya diatur negara: Rp4.500 per LSP sejak 1 Mei 2022 berdasarkan Keputusan Menteri ESDM No.",
+                                      "candidate_score":  31,
+                                      "web_search_query":  "\"Harga BBG-nya diatur negara: Rp4.500 per LSP sejak 1 Mei 2022 berdasarkan Keputusan Menteri ESDM No.\""
+                                  },
+                                  {
+                                      "passage":  "Uji jalan PGN pada Maret 2023 terhadap tiga sepeda motor mencatat rata-rata 38,7 km per LSP (individual 37–41,6 km/LSP).",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Uji jalan PGN pada Maret 2023 terhadap tiga sepeda motor mencatat rata-rata 38,7 km per LSP (individual 37–41,6 km/LSP).\""
+                                  },
+                                  {
+                                      "passage":  "## Peta Cakupan Gasku Saat Ini: Wilayah dan Titik Isi Utama Jaringan Gasku tersebar di beberapa provinsi, bukan hanya Jakarta.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"## Peta Cakupan Gasku Saat Ini: Wilayah dan Titik Isi Utama Jaringan Gasku tersebar di beberapa provinsi, bukan hanya Ja\""
+                                  },
+                                  {
+                                      "passage":  "Menurut Kementerian ESDM, MRU generasi awal berukuran 20 kaki dengan kapasitas simpan sekitar 1.800 LSP.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Menurut Kementerian ESDM, MRU generasi awal berukuran 20 kaki dengan kapasitas simpan sekitar 1.800 LSP.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

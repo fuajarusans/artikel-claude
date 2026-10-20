@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-09\\final\\tanda-butuh-erp-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-01T08:35:00+07:00",
+    "word_count":  1051,
+    "paragraph_count":  17,
+    "sentence_count":  64,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.402,
+                        "sentence_burstiness":  1.433,
+                        "top30_vocab_share":  0.29,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.402 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "# 10 Tanda Perusahaan Anda Membutuhkan Sistem ERP Tim terlihat sibuk, tetapi laporan selalu telat.",
+                                      "candidate_score":  27,
+                                      "web_search_query":  "\"# 10 Tanda Perusahaan Anda Membutuhkan Sistem ERP Tim terlihat sibuk, tetapi laporan selalu telat.\""
+                                  },
+                                  {
+                                      "passage":  "## Tanda Anda Belum Perlu ERP (dan yang Harus Dibereskan Dulu) Tidak setiap bisnis yang terasa ribet sudah siap ERP.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## Tanda Anda Belum Perlu ERP (dan yang Harus Dibereskan Dulu) Tidak setiap bisnis yang terasa ribet sudah siap ERP.\""
+                                  },
+                                  {
+                                      "passage":  "## Sepuluh Tanda Perusahaan Anda Sudah Butuh ERP Tanda-tanda ini jarang muncul sendirian.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Sepuluh Tanda Perusahaan Anda Sudah Butuh ERP Tanda-tanda ini jarang muncul sendirian.\""
+                                  },
+                                  {
+                                      "passage":  "Panorama Consulting dalam [2026 ERP Report](https://www.panorama-consulting.com/resource-center/erp-report/) yang mensurvei 170 organisasi mencatat lebih dari seperempat proyek ERP melampaui anggaran, kerap karena kebutuhan teknologi tambahan yang tak diantisipasi.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Panorama Consulting dalam [2026 ERP Report](https://www.panorama-consulting.com/resource-center/erp-report/) yang mensur\""
+                                  },
+                                  {
+                                      "passage":  "**Arus kas.** Hutang-piutang lepas pantau; faktur telat tertagih dan proyeksi arus kas jadi tebakan.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"**Arus kas.** Hutang-piutang lepas pantau; faktur telat tertagih dan proyeksi arus kas jadi tebakan.\""
+                                  },
+                                  {
+                                      "passage":  "- **Tim belum berkomitmen berlatih.** Sistem baru menuntut cara kerja baru, bukan sekadar aplikasi baru.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"- **Tim belum berkomitmen berlatih.** Sistem baru menuntut cara kerja baru, bukan sekadar aplikasi baru.\""
+                                  },
+                                  {
+                                      "passage":  "**Data lintas divisi.** Angka yang sama berbeda antar-departemen karena tiap tim memegang salinannya sendiri (*data silo*).",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"**Data lintas divisi.** Angka yang sama berbeda antar-departemen karena tiap tim memegang salinannya sendiri (*data silo\""
+                                  },
+                                  {
+                                      "passage":  "**Produktivitas.** Jam kerja habis menyalin data antar aplikasi dan mencocokkan *spreadsheet*, bukan menganalisis.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"**Produktivitas.** Jam kerja habis menyalin data antar aplikasi dan mencocokkan *spreadsheet*, bukan menganalisis.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

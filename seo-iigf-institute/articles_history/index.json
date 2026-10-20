@@ -1,0 +1,1040 @@
+{
+  "schema_version": "2.0",
+  "client": "IIGF Institute",
+  "client_full_name": "IIGF Institute (Indonesia Infrastructure Guarantee Fund Institute) — unit manajemen pengetahuan PT Penjaminan Infrastruktur Indonesia (Persero)",
+  "domain": "https://institute.iigf.co.id/",
+  "language": "id",
+  "last_updated": "2026-09-21T23:58:20.791787Z",
+  "articles": [
+    {
+      "id": "2026-08-capacity-building-pembiayaan-kreatif-01",
+      "month": "2026-08",
+      "keyword": "Capacity Building pembiayaan kreatif",
+      "keyword_slug": "capacity-building-pembiayaan-kreatif",
+      "title": "Capacity Building Pembiayaan Kreatif: Fondasi Kapasitas PJPK",
+      "slug": "capacity-building-pembiayaan-kreatif",
+      "angle": "fondasi-kapasitas-pjpk-pembiayaan-kreatif",
+      "angle_hash": "sha1:9c2653724828",
+      "search_intent": "informational",
+      "subtopics": [
+        "KPBU",
+        "PJPK",
+        "pembiayaan kreatif",
+        "UU HKPD",
+        "Kantor Bersama KPBU",
+        "kapasitas fiskal"
+      ],
+      "iigf_mentions": [
+        "Pelatihan capacity building KPBU",
+        "ATO APMG sertifikasi CP3P"
+      ],
+      "internal_links": [
+        "https://institute.iigf.co.id/capacity-building",
+        "https://institute.iigf.co.id/e-library/lainnya/77/studi-kasus-kpbu-untuk-penguatan-infrastruktur-digital-dan-informasi",
+        "https://institute.iigf.co.id/"
+      ],
+      "external_citations": [
+        "https://kpbu.kemenkeu.go.id/",
+        "https://peraturan.bpk.go.id/Details/41764/perpres-no-38-tahun-2015",
+        "https://mediakeuangan.kemenkeu.go.id/"
+      ],
+      "word_count": 1519,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-08/final/capacity-building-pembiayaan-kreatif-01.id.md",
+        "id_docx": "monthly_runs/2026-08/final/capacity-building-pembiayaan-kreatif-01.id.docx",
+        "qc": "monthly_runs/2026-08/final/capacity-building-pembiayaan-kreatif-01.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-capacity-building-pembiayaan-kreatif-02",
+      "month": "2026-08",
+      "keyword": "Capacity Building pembiayaan kreatif",
+      "keyword_slug": "capacity-building-pembiayaan-kreatif",
+      "title": "Instrumen Pembiayaan Kreatif Daerah: Memilih Skema yang Tepat",
+      "slug": "instrumen-pembiayaan-kreatif-daerah",
+      "angle": "memilih-instrumen-pembiayaan-kreatif-daerah",
+      "angle_hash": "sha1:ecaed3c07d59",
+      "search_intent": "comparison",
+      "subtopics": [
+        "instrumen pembiayaan",
+        "availability payment",
+        "user pays",
+        "obligasi daerah",
+        "sukuk daerah",
+        "blended finance"
+      ],
+      "iigf_mentions": [
+        "Pelatihan capacity building KPBU",
+        "ATO APMG sertifikasi CP3P"
+      ],
+      "internal_links": [
+        "https://institute.iigf.co.id/capacity-building",
+        "https://institute.iigf.co.id/e-library/lainnya/77/studi-kasus-kpbu-untuk-penguatan-infrastruktur-digital-dan-informasi",
+        "https://institute.iigf.co.id/"
+      ],
+      "external_citations": [
+        "https://kpbu.kemenkeu.go.id/read/1095-1258/pjpk/pembayaran-kepada-badan-usaha/pembayaran-ketersediaan-layanan",
+        "https://ppp.worldbank.org/public-private-partnership/payment-mechanism",
+        "https://ojk.go.id/id/regulasi/Pages/Penerbitan-dan-Pelaporan-Obligasi-Daerah-dan-Sukuk-Daerah.aspx"
+      ],
+      "word_count": 1550,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-08/final/capacity-building-pembiayaan-kreatif-02.id.md",
+        "id_docx": "monthly_runs/2026-08/final/capacity-building-pembiayaan-kreatif-02.id.docx",
+        "qc": "monthly_runs/2026-08/final/capacity-building-pembiayaan-kreatif-02.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-capacity-building-pembiayaan-kreatif-03",
+      "month": "2026-08",
+      "keyword": "Capacity Building pembiayaan kreatif",
+      "keyword_slug": "capacity-building-pembiayaan-kreatif",
+      "title": "Capacity Building KPBU: Kompetensi Tim PJPK di Tiap Tahap",
+      "slug": "capacity-building-kpbu-kompetensi-tim-pjpk",
+      "angle": "peta-kompetensi-tim-pjpk-per-tahap",
+      "angle_hash": "sha1:9ac24a89801a",
+      "search_intent": "how-to",
+      "subtopics": [
+        "kompetensi tim PJPK",
+        "tahapan proyek KPBU",
+        "studi pendahuluan",
+        "manajemen kontrak",
+        "alokasi risiko",
+        "peningkatan kapasitas"
+      ],
+      "iigf_mentions": [
+        "Pelatihan capacity building KPBU",
+        "ATO APMG sertifikasi CP3P"
+      ],
+      "internal_links": [
+        "https://institute.iigf.co.id/capacity-building",
+        "https://institute.iigf.co.id/e-library/lainnya/77/studi-kasus-kpbu-untuk-penguatan-infrastruktur-digital-dan-informasi",
+        "https://institute.iigf.co.id/"
+      ],
+      "external_citations": [
+        "https://kpbu.kemenkeu.go.id/read/1094-1255/pjpk/dukungan-pemerintah/fasilitas-penyiapan-proyek",
+        "https://ppp-certification.com/certification"
+      ],
+      "word_count": 1566,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-08/final/capacity-building-pembiayaan-kreatif-03.id.md",
+        "id_docx": "monthly_runs/2026-08/final/capacity-building-pembiayaan-kreatif-03.id.docx",
+        "qc": "monthly_runs/2026-08/final/capacity-building-pembiayaan-kreatif-03.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-capacity-building-pembiayaan-kreatif-04",
+      "month": "2026-08",
+      "keyword": "Capacity Building pembiayaan kreatif",
+      "keyword_slug": "capacity-building-pembiayaan-kreatif",
+      "title": "Proyek KPBU Daerah Mandek di Penyiapan: 6 Celah Kapasitas",
+      "slug": "capacity-building-pembiayaan-kreatif-proyek-kpbu-mandek",
+      "angle": "diagnosis-proyek-kpbu-daerah-mandek",
+      "angle_hash": "sha1:0300d38c669b",
+      "search_intent": "troubleshooting",
+      "subtopics": [
+        "tahap penyiapan KPBU",
+        "kapasitas fiskal",
+        "bankability proyek",
+        "pengadaan lahan",
+        "dukungan pemerintah",
+        "risiko proyek"
+      ],
+      "iigf_mentions": [
+        "Pelatihan capacity building KPBU",
+        "ATO APMG sertifikasi CP3P"
+      ],
+      "internal_links": [
+        "https://institute.iigf.co.id/capacity-building",
+        "https://institute.iigf.co.id/e-library/lainnya/77/studi-kasus-kpbu-untuk-penguatan-infrastruktur-digital-dan-informasi",
+        "https://institute.iigf.co.id/"
+      ],
+      "external_citations": [
+        "https://blogs.worldbank.org/en/ppps/preparing-bankable-infrastructure-projects",
+        "https://kpbu.kemenkeu.go.id/read/20-233/pjpk/pelaksanaan-kpbu/pelaksanaan-fasilitas"
+      ],
+      "word_count": 1581,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-08/final/capacity-building-pembiayaan-kreatif-04.id.md",
+        "id_docx": "monthly_runs/2026-08/final/capacity-building-pembiayaan-kreatif-04.id.docx",
+        "qc": "monthly_runs/2026-08/final/capacity-building-pembiayaan-kreatif-04.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-sertifikasi-kpbu-01",
+      "month": "2026-08",
+      "keyword": "Sertifikasi KPBU",
+      "keyword_slug": "sertifikasi-kpbu",
+      "title": "Sertifikasi KPBU: Tiga Jalur yang Sering Tertukar",
+      "slug": "sertifikasi-kpbu-tiga-jalur",
+      "angle": "peta-jalur-sertifikasi-kpbu",
+      "angle_hash": "sha1:0a0f3ec65aa4",
+      "search_intent": "informational",
+      "subtopics": [
+        "sertifikasi ahli KPBU",
+        "CP3P",
+        "APMG International",
+        "LSP KPBU",
+        "Ahli Pratama",
+        "pelatihan KPBU"
+      ],
+      "iigf_mentions": [
+        "ATO APMG sertifikasi CP3P",
+        "pelatihan sertifikasi KPBU"
+      ],
+      "internal_links": [
+        "https://institute.iigf.co.id/",
+        "https://institute.iigf.co.id/capacity-building",
+        "https://institute.iigf.co.id/e-library/lainnya/77/studi-kasus-kpbu-untuk-penguatan-infrastruktur-digital-dan-informasi"
+      ],
+      "external_citations": [
+        "https://ppp-certification.com/",
+        "https://jdih.bappenas.go.id/"
+      ],
+      "word_count": 1508,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-08/final/sertifikasi-kpbu-01.id.md",
+        "id_docx": "monthly_runs/2026-08/final/sertifikasi-kpbu-01.id.docx",
+        "qc": "monthly_runs/2026-08/final/sertifikasi-kpbu-01.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-sertifikasi-kpbu-02",
+      "month": "2026-08",
+      "keyword": "Sertifikasi KPBU",
+      "keyword_slug": "sertifikasi-kpbu",
+      "title": "Sertifikasi KPBU: Jalur Nasional vs Internasional, Mana yang Anda Butuhkan?",
+      "slug": "sertifikasi-kpbu-jalur-nasional-vs-internasional",
+      "angle": "jalur-nasional-vs-internasional",
+      "angle_hash": "sha1:5a5c4a3130c4",
+      "search_intent": "comparison",
+      "subtopics": [
+        "sertifikasi nasional",
+        "CP3P internasional",
+        "APMG",
+        "BNSP",
+        "LSP KPBU",
+        "PPP Guide",
+        "tenaga ahli"
+      ],
+      "iigf_mentions": [
+        "ATO APMG sertifikasi CP3P",
+        "pelatihan sertifikasi KPBU"
+      ],
+      "internal_links": [
+        "https://institute.iigf.co.id/",
+        "https://institute.iigf.co.id/capacity-building",
+        "https://institute.iigf.co.id/e-library/lainnya/77/studi-kasus-kpbu-untuk-penguatan-infrastruktur-digital-dan-informasi"
+      ],
+      "external_citations": [
+        "https://ppp-certification.com/faqs",
+        "https://jdih.bappenas.go.id/peraturan/detailperaturan/3383/"
+      ],
+      "word_count": 1477,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-08/final/sertifikasi-kpbu-02.id.md",
+        "id_docx": "monthly_runs/2026-08/final/sertifikasi-kpbu-02.id.docx",
+        "qc": "monthly_runs/2026-08/final/sertifikasi-kpbu-02.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-sertifikasi-kpbu-03",
+      "month": "2026-08",
+      "keyword": "Sertifikasi KPBU",
+      "keyword_slug": "sertifikasi-kpbu",
+      "title": "Sertifikasi KPBU Internasional: Alur Tiga Level CP3P dan Urutannya",
+      "slug": "sertifikasi-kpbu-alur-tiga-level-cp3p",
+      "angle": "alur-menempuh-cp3p-tiga-level",
+      "angle_hash": "sha1:62188495998e",
+      "search_intent": "how-to",
+      "subtopics": [
+        "CP3P Foundation",
+        "CP3P Preparation",
+        "CP3P Execution",
+        "PPP Guide",
+        "APMG International",
+        "ujian praktisi",
+        "biaya sertifikasi"
+      ],
+      "iigf_mentions": [
+        "ATO APMG sertifikasi CP3P",
+        "pelatihan CP3P"
+      ],
+      "internal_links": [
+        "https://institute.iigf.co.id/",
+        "https://institute.iigf.co.id/capacity-building",
+        "https://institute.iigf.co.id/e-library/lainnya/77/studi-kasus-kpbu-untuk-penguatan-infrastruktur-digital-dan-informasi"
+      ],
+      "external_citations": [
+        "https://apmg-international.com/product/cp3p-apmg-public-private-partnerships-ppp-certification-program",
+        "https://ppp-certification.com/faqs"
+      ],
+      "word_count": 1563,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-08/final/sertifikasi-kpbu-03.id.md",
+        "id_docx": "monthly_runs/2026-08/final/sertifikasi-kpbu-03.id.docx",
+        "qc": "monthly_runs/2026-08/final/sertifikasi-kpbu-03.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-sertifikasi-kpbu-04",
+      "month": "2026-08",
+      "keyword": "Sertifikasi KPBU",
+      "keyword_slug": "sertifikasi-kpbu",
+      "title": "Kapan Sertifikasi KPBU Belum Jadi Prioritas Anda",
+      "slug": "sertifikasi-kpbu-kapan-belum-jadi-prioritas",
+      "angle": "kapan-belum-perlu-dan-kesalahan-umum",
+      "angle_hash": "sha1:dd1259a4fadf",
+      "search_intent": "decision",
+      "subtopics": [
+        "kesiapan organisasi",
+        "kewajiban sertifikasi",
+        "kesalahan umum",
+        "kapan menunda",
+        "pelatihan dulu",
+        "kompetensi organisasi"
+      ],
+      "iigf_mentions": [
+        "ATO APMG sertifikasi CP3P",
+        "e-learning center"
+      ],
+      "internal_links": [
+        "https://institute.iigf.co.id/",
+        "https://institute.iigf.co.id/capacity-building",
+        "https://institute.iigf.co.id/e-library/lainnya/77/studi-kasus-kpbu-untuk-penguatan-infrastruktur-digital-dan-informasi"
+      ],
+      "external_citations": [
+        "https://ppp-certification.com/certification",
+        "https://blogs.worldbank.org/en/voices/the-secret-to-infrastructure-success-strong-ppp-frameworks"
+      ],
+      "word_count": 1475,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-08/final/sertifikasi-kpbu-04.id.md",
+        "id_docx": "monthly_runs/2026-08/final/sertifikasi-kpbu-04.id.docx",
+        "qc": "monthly_runs/2026-08/final/sertifikasi-kpbu-04.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-studi-kasus-proyek-infrastruktur-di-indonesia-01",
+      "month": "2026-08",
+      "keyword": "Studi kasus proyek infrastruktur di Indonesia",
+      "keyword_slug": "studi-kasus-proyek-infrastruktur-di-indonesia",
+      "title": "Studi Kasus Proyek Infrastruktur di Indonesia: 7 Elemen yang Wajib Dibedah",
+      "slug": "studi-kasus-proyek-infrastruktur-di-indonesia-7-elemen",
+      "angle": "tujuh-elemen-membedah-studi-kasus-kpbu",
+      "angle_hash": "sha1:00de509a73af",
+      "search_intent": "how-to",
+      "subtopics": [
+        "struktur transaksi",
+        "alokasi risiko",
+        "dukungan kelayakan",
+        "value for money",
+        "badan usaha pelaksana",
+        "penjaminan infrastruktur"
+      ],
+      "iigf_mentions": [
+        "Riset dan jurnal JIPM",
+        "studi kasus KPBU"
+      ],
+      "internal_links": [
+        "https://institute.iigf.co.id/e-library/lainnya/77/studi-kasus-kpbu-untuk-penguatan-infrastruktur-digital-dan-informasi",
+        "https://institute.iigf.co.id/",
+        "https://institute.iigf.co.id/capacity-building"
+      ],
+      "external_citations": [
+        "https://kpbu.kemenkeu.go.id/proyek/detail/81-sistem-penyediaan-air-minum-umbulan",
+        "https://ppp.worldbank.org/public-private-partnership/ppp-knowledge-lab",
+        "https://kpbu.kemenkeu.go.id/read/1098-1261/pjpk/dukungan-pemerintah/dukungan-kelayakan"
+      ],
+      "word_count": 1576,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-08/final/studi-kasus-proyek-infrastruktur-di-indonesia-01.id.md",
+        "id_docx": "monthly_runs/2026-08/final/studi-kasus-proyek-infrastruktur-di-indonesia-01.id.docx",
+        "qc": "monthly_runs/2026-08/final/studi-kasus-proyek-infrastruktur-di-indonesia-01.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-studi-kasus-proyek-infrastruktur-di-indonesia-02",
+      "month": "2026-08",
+      "keyword": "Studi kasus proyek infrastruktur di Indonesia",
+      "keyword_slug": "studi-kasus-proyek-infrastruktur-di-indonesia",
+      "title": "Studi Kasus Proyek Infrastruktur di Indonesia: Empat Sektor, Empat Cara Uang Kembali",
+      "slug": "studi-kasus-proyek-infrastruktur-di-indonesia-4-sektor",
+      "angle": "perbandingan-lintas-sektor-mekanisme-pengembalian-investasi",
+      "angle_hash": "sha1:85be858189416",
+      "search_intent": "comparison",
+      "subtopics": [
+        "mekanisme pengembalian investasi",
+        "availability payment",
+        "user pay",
+        "KPBU jalan tol",
+        "KPBU SPAM",
+        "KPBU persampahan",
+        "tipping fee"
+      ],
+      "iigf_mentions": [
+        "Riset dan jurnal JIPM",
+        "studi kasus KPBU lintas sektor"
+      ],
+      "internal_links": [
+        "https://institute.iigf.co.id/e-library/lainnya/77/studi-kasus-kpbu-untuk-penguatan-infrastruktur-digital-dan-informasi",
+        "https://institute.iigf.co.id/capacity-building",
+        "https://institute.iigf.co.id/"
+      ],
+      "external_citations": [
+        "https://kpbu.kemenkeu.go.id/read/39-42/pjpk/dukungan-pemerintah/pembayaran-berdasarkan-ketersediaan-layanan",
+        "https://simpulkpbu.pu.go.id/proyek/krian-legundi-bunder-manyar",
+        "https://ppp.worldbank.org/public-private-partnership/payment-mechanism"
+      ],
+      "word_count": 1543,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-08/final/studi-kasus-proyek-infrastruktur-di-indonesia-02.id.md",
+        "id_docx": "monthly_runs/2026-08/final/studi-kasus-proyek-infrastruktur-di-indonesia-02.id.docx",
+        "qc": "monthly_runs/2026-08/final/studi-kasus-proyek-infrastruktur-di-indonesia-02.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-studi-kasus-proyek-infrastruktur-di-indonesia-03",
+      "month": "2026-08",
+      "keyword": "Studi kasus proyek infrastruktur di Indonesia",
+      "keyword_slug": "studi-kasus-proyek-infrastruktur-di-indonesia",
+      "title": "Studi Kasus Proyek Infrastruktur di Indonesia: Belajar dari Proyek yang Tersendat",
+      "slug": "studi-kasus-proyek-infrastruktur-tersendat",
+      "angle": "pelajaran-dari-proyek-yang-tersendat-tahap-penyiapan",
+      "angle_hash": "sha1:5e988e15388a",
+      "search_intent": "troubleshooting",
+      "subtopics": [
+        "proyek KPBU tersendat",
+        "kendala penyiapan",
+        "pembebasan lahan",
+        "kapasitas PJPK",
+        "alokasi risiko",
+        "kelayakan finansial"
+      ],
+      "iigf_mentions": [
+        "Riset dan jurnal JIPM",
+        "pembelajaran dari proyek"
+      ],
+      "internal_links": [
+        "https://institute.iigf.co.id/e-library/lainnya/77/studi-kasus-kpbu-untuk-penguatan-infrastruktur-digital-dan-informasi",
+        "https://institute.iigf.co.id/capacity-building",
+        "https://institute.iigf.co.id/"
+      ],
+      "external_citations": [
+        "https://kpbu.kemenkeu.go.id/read/20-233/pjpk/pelaksanaan-kpbu/pelaksanaan-fasilitas",
+        "https://kpbu.kemenkeu.go.id/read/1098-1261/pjpk/dukungan-pemerintah/dukungan-kelayakan"
+      ],
+      "word_count": 1557,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-08/final/studi-kasus-proyek-infrastruktur-di-indonesia-03.id.md",
+        "id_docx": "monthly_runs/2026-08/final/studi-kasus-proyek-infrastruktur-di-indonesia-03.id.docx",
+        "qc": "monthly_runs/2026-08/final/studi-kasus-proyek-infrastruktur-di-indonesia-03.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-studi-kasus-proyek-infrastruktur-di-indonesia-04",
+      "month": "2026-08",
+      "keyword": "Studi kasus proyek infrastruktur di Indonesia",
+      "keyword_slug": "studi-kasus-proyek-infrastruktur-di-indonesia",
+      "title": "Studi Kasus Proyek Infrastruktur di Indonesia: Apa yang Berbeda pada KPBU Daerah",
+      "slug": "studi-kasus-proyek-infrastruktur-di-indonesia-kpbu-daerah",
+      "angle": "kpbu-daerah-kesiapan-pemda-pju-spam-persampahan",
+      "angle_hash": "sha1:3338c3c5e233",
+      "search_intent": "decision",
+      "subtopics": [
+        "KPBU daerah",
+        "PJPK kepala daerah",
+        "kapasitas fiskal APBD",
+        "PJU Samarinda",
+        "SPAM regional",
+        "PSEL persampahan"
+      ],
+      "iigf_mentions": [
+        "Riset dan jurnal JIPM",
+        "studi kasus KPBU daerah"
+      ],
+      "internal_links": [
+        "https://institute.iigf.co.id/e-library/lainnya/77/studi-kasus-kpbu-untuk-penguatan-infrastruktur-digital-dan-informasi",
+        "https://institute.iigf.co.id/capacity-building",
+        "https://institute.iigf.co.id/"
+      ],
+      "external_citations": [
+        "https://simpulkpbu.pu.go.id/proyek/psel-regional-legok-nangka-4-6",
+        "https://kpbu.kemenkeu.go.id/read/1098-1261/pjpk/dukungan-pemerintah/dukungan-kelayakan"
+      ],
+      "word_count": 1572,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-08/final/studi-kasus-proyek-infrastruktur-di-indonesia-04.id.md",
+        "id_docx": "monthly_runs/2026-08/final/studi-kasus-proyek-infrastruktur-di-indonesia-04.id.docx",
+        "qc": "monthly_runs/2026-08/final/studi-kasus-proyek-infrastruktur-di-indonesia-04.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-09-capacity-building-pembiayaan-kreatif-01",
+      "month": "2026-09",
+      "keyword": "Capacity Building pembiayaan kreatif",
+      "keyword_slug": "capacity-building-pembiayaan-kreatif",
+      "title": "Capacity Building KPBU: Agar Kapasitas Tak Ikut Mutasi",
+      "slug": "capacity-building-pembiayaan-kreatif-retensi-kapasitas",
+      "angle": "retensi-kapasitas-lintas-pergantian-kepemimpinan",
+      "angle_hash": "b41a8052919f103a7ff8920ff73b70fb534c63b1",
+      "search_intent": "troubleshooting",
+      "subtopics": [
+        "kapasitas kelembagaan KPBU",
+        "Simpul KPBU daerah",
+        "PJPK",
+        "mutasi pegawai dan kesinambungan proyek",
+        "pergantian kepala daerah",
+        "manajemen pengetahuan instansi",
+        "kaderisasi tim penyiapan proyek",
+        "dokumentasi proyek KPBU",
+        "persetujuan DPRD proyek KPBU",
+        "pembiayaan kreatif infrastruktur daerah"
+      ],
+      "iigf_mentions": [],
+      "internal_links": [
+        "https://institute.iigf.co.id/capacity-building",
+        "https://institute.iigf.co.id/e-library/lainnya/77/studi-kasus-kpbu-untuk-penguatan-infrastruktur-digital-dan-informasi",
+        "https://institute.iigf.co.id/"
+      ],
+      "external_citations": [
+        "https://kpbu.kemenkeu.go.id/read/20-233/pjpk/pelaksanaan-kpbu/pelaksanaan-fasilitas",
+        "https://www.worldbank.org/en/results/2023/04/20/building-stronger-institutions-to-mobilize-private-capital-in-infrastructure",
+        "https://peraturan.bpk.go.id/Home/Details/41764"
+      ],
+      "word_count": 1587,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-09/final/capacity-building-pembiayaan-kreatif-01.id.md",
+        "id_docx": "monthly_runs/2026-09/final/capacity-building-pembiayaan-kreatif-01.id.docx",
+        "qc": "monthly_runs/2026-09/final/capacity-building-pembiayaan-kreatif-01.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-09-capacity-building-pembiayaan-kreatif-02",
+      "month": "2026-09",
+      "keyword": "Capacity Building pembiayaan kreatif",
+      "keyword_slug": "capacity-building-pembiayaan-kreatif",
+      "title": "Anatomi Dokumen Pra-Studi Kelayakan KPBU: Isi dan Cara Memeriksanya",
+      "slug": "anatomi-dokumen-pra-studi-kelayakan-kpbu",
+      "angle": "anatomi-dokumen-prastudi-kelayakan-lima-kajian",
+      "angle_hash": "0f50e57b4be141ded7d8c15db683ab639f96e625",
+      "search_intent": "informational",
+      "subtopics": [
+        "Dokumen Pra-Studi Kelayakan KPBU",
+        "prastudi kelayakan",
+        "studi pendahuluan KPBU",
+        "Permen PPN/Bappenas No. 7 Tahun 2023",
+        "kajian finansial KPBU",
+        "kajian manajemen",
+        "outline business case (OBC)",
+        "whole lifecycle cost",
+        "CAPEX dan OPEX",
+        "kapasitas penyiapan proyek KPBU"
+      ],
+      "iigf_mentions": [],
+      "internal_links": [
+        "https://institute.iigf.co.id/capacity-building",
+        "https://institute.iigf.co.id/e-library/lainnya/77/studi-kasus-kpbu-untuk-penguatan-infrastruktur-digital-dan-informasi",
+        "https://institute.iigf.co.id/"
+      ],
+      "external_citations": [
+        "https://peraturan.bpk.go.id/Details/271431/permen-ppnkepala-bappenas-no-7-tahun-2023",
+        "https://kpbu.kemenkeu.go.id/read/76-223/umum/kajian-opini-publik/hubungan-antar-komponen-dalam-studi-penyiapan-proyek-kpbu"
+      ],
+      "word_count": 1553,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-09/final/capacity-building-pembiayaan-kreatif-02.id.md",
+        "id_docx": "monthly_runs/2026-09/final/capacity-building-pembiayaan-kreatif-02.id.docx",
+        "qc": "monthly_runs/2026-09/final/capacity-building-pembiayaan-kreatif-02.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-09-capacity-building-pembiayaan-kreatif-03",
+      "month": "2026-09",
+      "keyword": "Capacity Building pembiayaan kreatif",
+      "keyword_slug": "capacity-building-pembiayaan-kreatif",
+      "title": "Berapa Lama dan Berapa Biaya Menyiapkan Proyek KPBU?",
+      "slug": "capacity-building-pembiayaan-kreatif-biaya-durasi-kpbu",
+      "angle": "biaya-durasi-dan-penanggung-biaya-penyiapan-kpbu",
+      "angle_hash": "ca40eac8b1a277e90c31c715e240b5b1d8e60167",
+      "search_intent": "decision",
+      "subtopics": [
+        "biaya penyiapan proyek KPBU",
+        "durasi tahap penyiapan",
+        "Fasilitas Penyiapan Proyek",
+        "Badan Penyiapan",
+        "success fee penyiapan proyek",
+        "financial close",
+        "anggaran penyiapan dalam APBD",
+        "Dukungan Kelayakan (VGF)",
+        "sunk cost penyiapan",
+        "kapasitas fiskal daerah"
+      ],
+      "iigf_mentions": [],
+      "internal_links": [
+        "https://institute.iigf.co.id/capacity-building",
+        "https://institute.iigf.co.id/e-library/lainnya/77/studi-kasus-kpbu-untuk-penguatan-infrastruktur-digital-dan-informasi",
+        "https://institute.iigf.co.id/"
+      ],
+      "external_citations": [
+        "https://kpbu.kemenkeu.go.id/read/73-220/umum/kajian-opini-publik/efisiensi-kpbu-dalam-penyediaan-infrastruktur",
+        "https://kpbu.kemenkeu.go.id/read/1094-1255/pjpk/dukungan-pemerintah/fasilitas-penyiapan-proyek",
+        "https://kpbu.kemenkeu.go.id/read/1132-1300/umum/orang-juga-bertanya/siapa-yang-membiayai-proyek-pada-skema-kpbu"
+      ],
+      "word_count": 1550,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-09/final/capacity-building-pembiayaan-kreatif-03.id.md",
+        "id_docx": "monthly_runs/2026-09/final/capacity-building-pembiayaan-kreatif-03.id.docx",
+        "qc": "monthly_runs/2026-09/final/capacity-building-pembiayaan-kreatif-03.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-09-capacity-building-pembiayaan-kreatif-04",
+      "month": "2026-09",
+      "keyword": "Capacity Building pembiayaan kreatif",
+      "keyword_slug": "capacity-building-pembiayaan-kreatif",
+      "title": "KPBU Syariah dan Sukuk Daerah: Jalur Pembiayaan Kreatif",
+      "slug": "kpbu-syariah-sukuk-daerah-pembiayaan-kreatif",
+      "angle": "jalur-syariah-kpbu-dan-sukuk-daerah",
+      "angle_hash": "b2058f31c8c3aad45ddfe3450a8b1ba3502301e4",
+      "search_intent": "comparison",
+      "subtopics": [
+        "KPBU Syariah",
+        "sukuk daerah",
+        "obligasi daerah",
+        "pembiayaan syariah infrastruktur",
+        "KNEKS",
+        "DSN-MUI",
+        "UU HKPD",
+        "POJK 10/2024",
+        "kesiapan kelembagaan pemerintah daerah",
+        "basis investor syariah"
+      ],
+      "iigf_mentions": [],
+      "internal_links": [
+        "https://institute.iigf.co.id/capacity-building",
+        "https://institute.iigf.co.id/e-library/lainnya/77/studi-kasus-kpbu-untuk-penguatan-infrastruktur-digital-dan-informasi",
+        "https://institute.iigf.co.id/"
+      ],
+      "external_citations": [
+        "https://kpbu.kemenkeu.go.id/read/1129-1293/umum/kajian-opini-publik/penerapan-kpbu-berbasis-syariah-dalam-rangka-pembiayaan-infrastruktur",
+        "https://pembiayaan.pu.go.id/news/detail/129/Pemerintah-Skema-Pembiayaan-Syariah-Dapat-Menjadi-Solusi-Terhadap-Funding-GAP-Bidang-Infrastruktur-PUPR"
+      ],
+      "word_count": 1574,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-09/final/capacity-building-pembiayaan-kreatif-04.id.md",
+        "id_docx": "monthly_runs/2026-09/final/capacity-building-pembiayaan-kreatif-04.id.docx",
+        "qc": "monthly_runs/2026-09/final/capacity-building-pembiayaan-kreatif-04.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-09-sertifikasi-kpbu-01",
+      "month": "2026-09",
+      "keyword": "Sertifikasi KPBU",
+      "keyword_slug": "sertifikasi-kpbu",
+      "title": "Sertifikasi KPBU Sesuai Peran: ASN, Konsultan, Akademisi",
+      "slug": "sertifikasi-kpbu-sesuai-peran-kerja",
+      "angle": "pemetaan-level-sertifikasi-per-peran-pekerjaan",
+      "angle_hash": "sha1:5377a946947b",
+      "search_intent": "decision",
+      "subtopics": [
+        "sertifikasi ahli KPBU",
+        "tenaga ahli KPBU",
+        "simpul KPBU",
+        "PJPK",
+        "konsultan Badan Usaha",
+        "Badan Usaha Pelaksana",
+        "CP3P",
+        "level Foundation",
+        "level Preparation",
+        "level Execution",
+        "Permen PPN 7 Tahun 2023",
+        "APMG International"
+      ],
+      "iigf_mentions": [],
+      "internal_links": [
+        "https://institute.iigf.co.id/",
+        "https://institute.iigf.co.id/capacity-building",
+        "https://institute.iigf.co.id/e-library/lainnya/77/studi-kasus-kpbu-untuk-penguatan-infrastruktur-digital-dan-informasi"
+      ],
+      "external_citations": [
+        "https://ppp-certification.com/certification",
+        "https://jdih.bappenas.go.id/"
+      ],
+      "word_count": 1537,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-09/final/sertifikasi-kpbu-01.id.md",
+        "id_docx": "monthly_runs/2026-09/final/sertifikasi-kpbu-01.id.docx",
+        "qc": "monthly_runs/2026-09/final/sertifikasi-kpbu-01.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-09-sertifikasi-kpbu-02",
+      "month": "2026-09",
+      "keyword": "Sertifikasi KPBU",
+      "keyword_slug": "sertifikasi-kpbu",
+      "title": "Sertifikasi KPBU: Menghitung Biaya Total dan Siklus Anggaran",
+      "slug": "sertifikasi-kpbu-biaya-total-siklus-anggaran",
+      "angle": "penganggaran-instansi-dan-biaya-total-kepemilikan",
+      "angle_hash": "sha1:36291eb70796",
+      "search_intent": "comparison",
+      "subtopics": [
+        "biaya sertifikasi CP3P",
+        "biaya total kepemilikan",
+        "RKA-K/L",
+        "Standar Biaya Masukan (SBM)",
+        "pengembangan kompetensi ASN",
+        "jam pelajaran (JP)",
+        "anggaran pelatihan instansi",
+        "CP3P Foundation",
+        "level Preparation",
+        "level Execution",
+        "pengiriman bertahap",
+        "Accredited Training Organization (ATO)"
+      ],
+      "iigf_mentions": [],
+      "internal_links": [
+        "https://institute.iigf.co.id/",
+        "https://institute.iigf.co.id/capacity-building",
+        "https://institute.iigf.co.id/e-library/lainnya/77/studi-kasus-kpbu-untuk-penguatan-infrastruktur-digital-dan-informasi"
+      ],
+      "external_citations": [
+        "https://ppp-certification.com/faqs",
+        "https://ppp-certification.com/book-your-exam",
+        "https://jdih.kemenkeu.go.id/dok/pmk-32-tahun-2025"
+      ],
+      "word_count": 1538,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-09/final/sertifikasi-kpbu-02.id.md",
+        "id_docx": "monthly_runs/2026-09/final/sertifikasi-kpbu-02.id.docx",
+        "qc": "monthly_runs/2026-09/final/sertifikasi-kpbu-02.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-09-sertifikasi-kpbu-03",
+      "month": "2026-09",
+      "keyword": "Sertifikasi KPBU",
+      "keyword_slug": "sertifikasi-kpbu",
+      "title": "Sertifikasi KPBU: Cara Belajar dan Pola Soal Ujian CP3P",
+      "slug": "sertifikasi-kpbu-cara-belajar-pola-soal-cp3p",
+      "angle": "strategi-belajar-dan-pola-soal-ujian",
+      "angle_hash": "sha1:3a0543e88d36",
+      "search_intent": "how-to",
+      "subtopics": [
+        "ujian CP3P",
+        "CP3P Foundation",
+        "pola soal",
+        "complex multiple choice",
+        "ambang kelulusan",
+        "PPP Guide",
+        "unduhan gratis PPP Guide",
+        "kursus daring Foundation",
+        "APMG International",
+        "strategi belajar mandiri",
+        "manajemen waktu ujian",
+        "Accredited Training Organization (ATO)"
+      ],
+      "iigf_mentions": [],
+      "internal_links": [
+        "https://institute.iigf.co.id/",
+        "https://institute.iigf.co.id/capacity-building",
+        "https://institute.iigf.co.id/e-library/lainnya/77/studi-kasus-kpbu-untuk-penguatan-infrastruktur-digital-dan-informasi"
+      ],
+      "external_citations": [
+        "https://ppp-certification.com/faqs",
+        "https://ppp-certification.com/certification"
+      ],
+      "word_count": 1557,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-09/final/sertifikasi-kpbu-03.id.md",
+        "id_docx": "monthly_runs/2026-09/final/sertifikasi-kpbu-03.id.docx",
+        "qc": "monthly_runs/2026-09/final/sertifikasi-kpbu-03.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-09-sertifikasi-kpbu-04",
+      "month": "2026-09",
+      "keyword": "Sertifikasi KPBU",
+      "keyword_slug": "sertifikasi-kpbu",
+      "title": "Sertifikasi KPBU: Masa Berlaku dan Ilmu yang Menguap",
+      "slug": "sertifikasi-kpbu-masa-berlaku-retensi-pengetahuan",
+      "angle": "masa-berlaku-kredensial-dan-retensi-pengetahuan",
+      "angle_hash": "sha1:1fba3673f7a2",
+      "search_intent": "troubleshooting",
+      "subtopics": [
+        "masa berlaku sertifikat kompetensi",
+        "resertifikasi",
+        "kredensial CP3P",
+        "pembaruan PPP Guide",
+        "retensi pengetahuan",
+        "transfer pengetahuan",
+        "rotasi jabatan",
+        "simpul KPBU",
+        "verifikasi kredensial",
+        "APMG International",
+        "kapasitas tim"
+      ],
+      "iigf_mentions": [],
+      "internal_links": [
+        "https://institute.iigf.co.id/",
+        "https://institute.iigf.co.id/capacity-building",
+        "https://institute.iigf.co.id/e-library/lainnya/77/studi-kasus-kpbu-untuk-penguatan-infrastruktur-digital-dan-informasi"
+      ],
+      "external_citations": [
+        "https://ppp-certification.com/faqs",
+        "https://ppp-certification.com/certification",
+        "https://blogs.worldbank.org/en/voices/the-secret-to-infrastructure-success-strong-ppp-frameworks"
+      ],
+      "word_count": 1554,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-09/final/sertifikasi-kpbu-04.id.md",
+        "id_docx": "monthly_runs/2026-09/final/sertifikasi-kpbu-04.id.docx",
+        "qc": "monthly_runs/2026-09/final/sertifikasi-kpbu-04.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-09-studi-kasus-proyek-infrastruktur-di-indonesia-01",
+      "month": "2026-09",
+      "keyword": "Studi kasus proyek infrastruktur di Indonesia",
+      "keyword_slug": "studi-kasus-proyek-infrastruktur-di-indonesia",
+      "title": "Studi Kasus Proyek Infrastruktur di Indonesia: Membuktikan Value for Money, Bukan Sekadar Menyebutnya",
+      "slug": "studi-kasus-proyek-infrastruktur-value-for-money",
+      "angle": "value-for-money-kualitatif-kuantitatif-public-sector-comparator",
+      "angle_hash": "f24155a99a0f014c83e9c54447ffed3095c14cf1",
+      "search_intent": "informational",
+      "subtopics": [
+        "value for money KPBU",
+        "public sector comparator",
+        "VfM kualitatif dan kuantitatif",
+        "biaya siklus hidup proyek",
+        "kelayakan ekonomi vs kelayakan finansial",
+        "dukungan kelayakan VGF",
+        "penyesuaian risiko",
+        "netralitas kompetitif",
+        "studi kasus KPBU jalan tol",
+        "prastudi kelayakan KPBU"
+      ],
+      "iigf_mentions": [
+        "Riset dan jurnal JIPM"
+      ],
+      "internal_links": [
+        "https://institute.iigf.co.id/e-library/lainnya/77/studi-kasus-kpbu-untuk-penguatan-infrastruktur-digital-dan-informasi",
+        "https://institute.iigf.co.id/capacity-building",
+        "https://institute.iigf.co.id/"
+      ],
+      "external_citations": [
+        "https://kpbu.kemenkeu.go.id/read/69-214/umum/kajian-opini-publik/penilaian-vfm-value-for-money-dalam-penentuan-pemilihan-skema-penyediaan-infrastruktur-di-indonesia",
+        "https://kpbu.kemenkeu.go.id/read/37-40/pjpk/dukungan-pemerintah/dukungan-kelayakan"
+      ],
+      "word_count": 1576,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-09/final/studi-kasus-proyek-infrastruktur-di-indonesia-01.id.md",
+        "id_docx": "monthly_runs/2026-09/final/studi-kasus-proyek-infrastruktur-di-indonesia-01.id.docx",
+        "qc": "monthly_runs/2026-09/final/studi-kasus-proyek-infrastruktur-di-indonesia-01.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-09-studi-kasus-proyek-infrastruktur-di-indonesia-02",
+      "month": "2026-09",
+      "keyword": "Studi kasus proyek infrastruktur di Indonesia",
+      "keyword_slug": "studi-kasus-proyek-infrastruktur-di-indonesia",
+      "title": "Studi Kasus Proyek Infrastruktur di Indonesia: Dua Pintu Masuk Proyek KPBU",
+      "slug": "studi-kasus-proyek-infrastruktur-prakarsa-vs-lelang-kpbu",
+      "angle": "prakarsa-badan-usaha-versus-lelang-kpbu",
+      "angle_hash": "4d3ba68b251ccc9d4485986952858edc1702afe6",
+      "search_intent": "comparison",
+      "subtopics": [
+        "KPBU atas prakarsa badan usaha",
+        "proyek unsolicited dan solicited",
+        "hak pemrakarsa proyek KPBU",
+        "right to match",
+        "tambahan nilai 10 persen evaluasi penawaran",
+        "izin prakarsa KPBU",
+        "pengadaan Badan Usaha Pelaksana",
+        "Perpres 38/2015",
+        "studi kasus KPBU SPAM",
+        "Badan Usaha Pelaksana (BUP)",
+        "Proyek Strategis Nasional",
+        "PJPK"
+      ],
+      "iigf_mentions": [
+        "Riset dan jurnal JIPM"
+      ],
+      "internal_links": [
+        "https://institute.iigf.co.id/e-library/lainnya/77/studi-kasus-kpbu-untuk-penguatan-infrastruktur-digital-dan-informasi",
+        "https://institute.iigf.co.id/",
+        "https://institute.iigf.co.id/capacity-building"
+      ],
+      "external_citations": [
+        "https://kpbu.kemenkeu.go.id/faq",
+        "https://pembiayaan.pu.go.id/news/detail/274/SPAM-Karian-Serpong-Wilayah-Kota-Tangerang-Zona-2-dan-Zona-3-Dilanjutkan",
+        "https://peraturan.bpk.go.id/Home/Details/41764/perpres-no-38-tahun-2015"
+      ],
+      "word_count": 1534,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-09/final/studi-kasus-proyek-infrastruktur-di-indonesia-02.id.md",
+        "id_docx": "monthly_runs/2026-09/final/studi-kasus-proyek-infrastruktur-di-indonesia-02.id.docx",
+        "qc": "monthly_runs/2026-09/final/studi-kasus-proyek-infrastruktur-di-indonesia-02.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-09-studi-kasus-proyek-infrastruktur-di-indonesia-03",
+      "month": "2026-09",
+      "keyword": "Studi kasus proyek infrastruktur di Indonesia",
+      "keyword_slug": "studi-kasus-proyek-infrastruktur-di-indonesia",
+      "title": "Studi Kasus Proyek Infrastruktur di Indonesia: Ketika Satu Layanan Melintasi Empat Wilayah",
+      "slug": "studi-kasus-proyek-infrastruktur-spam-lintas-daerah",
+      "angle": "spam-regional-lintas-daerah-tata-kelola-offtake",
+      "angle_hash": "fe623e9a5f1eeb9ffbf6cf2efb48aa68dca2c328",
+      "search_intent": "decision",
+      "subtopics": [
+        "KPBU SPAM regional",
+        "PJPK gabungan",
+        "offtaker PDAM",
+        "perjanjian jual beli air curah",
+        "mekanisme take-or-pay",
+        "tarif air curah",
+        "kerja sama antardaerah",
+        "risiko serapan",
+        "BOT",
+        "masa konsesi",
+        "user charge",
+        "studi kasus KPBU air minum"
+      ],
+      "iigf_mentions": [
+        "Riset dan jurnal JIPM"
+      ],
+      "internal_links": [
+        "https://institute.iigf.co.id/e-library/lainnya/77/studi-kasus-kpbu-untuk-penguatan-infrastruktur-digital-dan-informasi",
+        "https://institute.iigf.co.id/",
+        "https://institute.iigf.co.id/capacity-building"
+      ],
+      "external_citations": [
+        "https://kpbu.kemenkeu.go.id/faq",
+        "https://pu.go.id/berita/spam-regional-jatiluhur-i-mulai-beroperasi-secara-komersial-wakil-menteri-pu-pemenuhan-air-minum-berkualitas-untuk-19-juta-masyarakat",
+        "https://kpbu.kemenkeu.go.id/berita/read/1343",
+        "https://pu.go.id/berita/bppspam-dorong-pengelola-spam-regional-mewujudkan-tarif-air-curah-yang-berkeadilan"
+      ],
+      "word_count": 1587,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-09/final/studi-kasus-proyek-infrastruktur-di-indonesia-03.id.md",
+        "id_docx": "monthly_runs/2026-09/final/studi-kasus-proyek-infrastruktur-di-indonesia-03.id.docx",
+        "qc": "monthly_runs/2026-09/final/studi-kasus-proyek-infrastruktur-di-indonesia-03.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-09-studi-kasus-proyek-infrastruktur-di-indonesia-04",
+      "month": "2026-09",
+      "keyword": "Studi kasus proyek infrastruktur di Indonesia",
+      "keyword_slug": "studi-kasus-proyek-infrastruktur-di-indonesia",
+      "title": "Studi Kasus Proyek Infrastruktur di Indonesia: Saat Asumsi Lalu Lintas Meleset",
+      "slug": "studi-kasus-proyek-infrastruktur-risiko-permintaan-tol",
+      "angle": "risiko-permintaan-jalan-tol-proyeksi-lalu-lintas",
+      "angle_hash": "57d12e512f3a9fff73ce7e1452238d5c54fd3498",
+      "search_intent": "troubleshooting",
+      "subtopics": [
+        "risiko permintaan",
+        "proyeksi lalu lintas",
+        "skema user pays",
+        "masa konsesi jalan tol",
+        "dukungan kelayakan VGF",
+        "availability payment",
+        "alokasi risiko KPBU",
+        "kelayakan finansial proyek",
+        "Badan Pengatur Jalan Tol",
+        "pembukaan bertahap per seksi"
+      ],
+      "iigf_mentions": [
+        "Riset dan jurnal JIPM"
+      ],
+      "internal_links": [
+        "https://institute.iigf.co.id/e-library/lainnya/77/studi-kasus-kpbu-untuk-penguatan-infrastruktur-digital-dan-informasi",
+        "https://institute.iigf.co.id/capacity-building",
+        "https://institute.iigf.co.id/"
+      ],
+      "external_citations": [
+        "https://kpbu.kemenkeu.go.id/proyek/detail/117-jalan-tol-serang-panimbang",
+        "https://kpbu.kemenkeu.go.id/read/37-40/pjpk/dukungan-pemerintah/dukungan-kelayakan",
+        "https://ppp.worldbank.org/library/toll-road-ppps-identifying-mitigating-and-managing-traffic-risk"
+      ],
+      "word_count": 1562,
+      "status": "editor-approved",
+      "paths": {
+        "id_md": "monthly_runs/2026-09/final/studi-kasus-proyek-infrastruktur-di-indonesia-04.id.md",
+        "id_docx": "monthly_runs/2026-09/final/studi-kasus-proyek-infrastruktur-di-indonesia-04.id.docx",
+        "qc": "monthly_runs/2026-09/final/studi-kasus-proyek-infrastruktur-di-indonesia-04.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-ptpii\\monthly_runs\\2026-09\\final\\kpbu-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-21T11:30:22+07:00",
+    "word_count":  1715,
+    "paragraph_count":  23,
+    "sentence_count":  106,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.395,
+                        "sentence_burstiness":  0.65,
+                        "top30_vocab_share":  0.33,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.395 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "38 Tahun 2015, dengan tahapan pelaksanaan diatur lewat Permen PPN/Kepala Bappenas No.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"38 Tahun 2015, dengan tahapan pelaksanaan diatur lewat Permen PPN/Kepala Bappenas No.\""
+                                  },
+                                  {
+                                      "passage":  "Per Juni 2026, portofolio penjaminannya mencakup 61 proyek (38 KPBU dan 23 non-KPBU), dengan nilai proyek lebih dari Rp 732 triliun dan nilai penjaminan Rp 113 triliun.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Per Juni 2026, portofolio penjaminannya mencakup 61 proyek (38 KPBU dan 23 non-KPBU), dengan nilai proyek lebih dari Rp \""
+                                  },
+                                  {
+                                      "passage":  "Penyusunnya adalah PJPK, yaitu menteri, kepala lembaga, atau kepala daerah pemrakarsa, dibantu Tim KPBU dan dikoordinasikan melalui Simpul KPBU di instansi tersebut (DJKN Kementerian Keuangan, diakses 2026).",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"Penyusunnya adalah PJPK, yaitu menteri, kepala lembaga, atau kepala daerah pemrakarsa, dibantu Tim KPBU dan dikoordinasi\""
+                                  },
+                                  {
+                                      "passage":  "Penanggung Jawab Proyek Kerja Sama (PJPK), yaitu menteri, kepala lembaga, atau kepala daerah pemrakarsa, bertanggung jawab menyusunnya, dibantu Tim KPBU dan dikoordinasikan melalui Simpul KPBU di instansi tersebut.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Penanggung Jawab Proyek Kerja Sama (PJPK), yaitu menteri, kepala lembaga, atau kepala daerah pemrakarsa, bertanggung jaw\""
+                                  },
+                                  {
+                                      "passage":  "Portal KPBU Kementerian Keuangan menegaskan susunan itu: prastudi kelayakan adalah studi yang [terdiri dari kajian awal dan kajian akhir](https://kpbu.kemenkeu.go.id/read/55-1267/umum/kajian-opini-publik/feasibility-study-atau-prafeasibility-study-bukan-business-case) (diakses 2026).",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Portal KPBU Kementerian Keuangan menegaskan susunan itu: prastudi kelayakan adalah studi yang [terdiri dari kajian awal \""
+                                  },
+                                  {
+                                      "passage":  "PJPK adalah Penanggung Jawab Proyek Kerja Sama: menteri, kepala lembaga, atau kepala daerah yang menjadi penanggung jawab proyek KPBU dari sisi pemerintah.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"PJPK adalah Penanggung Jawab Proyek Kerja Sama: menteri, kepala lembaga, atau kepala daerah yang menjadi penanggung jawa\""
+                                  },
+                                  {
+                                      "passage":  "2 Tahun 2020 sebagai dasarnya, padahal keduanya sudah dicabut oleh Permen PPN/Bappenas No.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"2 Tahun 2020 sebagai dasarnya, padahal keduanya sudah dicabut oleh Permen PPN/Bappenas No.\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apa itu prastudi kelayakan dalam proyek KPBU?",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apa itu prastudi kelayakan dalam proyek KPBU?\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

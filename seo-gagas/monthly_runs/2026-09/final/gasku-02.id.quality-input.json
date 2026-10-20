@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-09\\final\\gasku-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-21T10:10:37+07:00",
+    "word_count":  1527,
+    "paragraph_count":  21,
+    "sentence_count":  80,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.416,
+                        "sentence_burstiness":  1.147,
+                        "top30_vocab_share":  0.286,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.416 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Keinginan pemilik agar sistemnya optimal pun masuk akal; menurut PGN, Gasku dijual Rp 4.500 per Liter Setara Premium dan diklaim menghemat biaya energi 30–55% dibanding BBM.",
+                                      "candidate_score":  31,
+                                      "web_search_query":  "\"Keinginan pemilik agar sistemnya optimal pun masuk akal; menurut PGN, Gasku dijual Rp 4.500 per Liter Setara Premium dan\""
+                                  },
+                                  {
+                                      "passage":  "70/M-IND/PER/7/2012](https://kemenperin.go.id/artikel/4130/Kemenperin-Mewajibkan-Persyaratan-Teknis-Rangkaian-Komponen-Konverter-Kit--Untuk-Kendaraan-Bermotor--), bagian dari [program konversi BBM ke BBG](https://www.migas.esdm.go.id/post/Konversi-BBM-ke-BBG-Akan-Dimulai-1-April-Secara-Bertahap) yang digulirkan Kementerian ESDM sejak 2012.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"70/M-IND/PER/7/2012](https://kemenperin.go.id/artikel/4130/Kemenperin-Mewajibkan-Persyaratan-Teknis-Rangkaian-Komponen-K\""
+                                  },
+                                  {
+                                      "passage":  "## Tabel Diagnosis Cepat: Gejala, Penyebab, dan Langkah Pertama Tabel berikut memetakan enam gejala paling umum ke kemungkinan penyebab dan langkah pertama yang tepat.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Tabel Diagnosis Cepat: Gejala, Penyebab, dan Langkah Pertama Tabel berikut memetakan enam gejala paling umum ke kemun\""
+                                  },
+                                  {
+                                      "passage":  "## Kapan Berhenti Utak-atik Sendiri dan Wajib ke Bengkel Bersertifikat Batasnya sederhana.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Kapan Berhenti Utak-atik Sendiri dan Wajib ke Bengkel Bersertifikat Batasnya sederhana.\""
+                                  },
+                                  {
+                                      "passage":  "Di Indonesia, komponen converter kit CNG wajib bersertifikat teknis sejak [Permenperin No.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Di Indonesia, komponen converter kit CNG wajib bersertifikat teknis sejak [Permenperin No.\""
+                                  },
+                                  {
+                                      "passage":  "Komponen tersangka utama: reducer (regulator tekanan), filter gas, sensor MAP/lambda, dan mapping ECU.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Komponen tersangka utama: reducer (regulator tekanan), filter gas, sensor MAP/lambda, dan mapping ECU.\""
+                                  },
+                                  {
+                                      "passage":  "Di sinilah kualitas jalur pemasangan menentukan: memilih jalur resmi seperti Gasku sejak awal menekan risiko pemasangan asal-asalan yang kerap jadi sumber brebet.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Di sinilah kualitas jalur pemasangan menentukan: memilih jalur resmi seperti Gasku sejak awal menekan risiko pemasangan \""
+                                  },
+                                  {
+                                      "passage":  "Untuk sistem tipe karburator atau saklar tiga posisi, dokumentasi akademik dosen otomotif Universitas Muhammadiyah Magelang mencatat prosedur manual berkonteks LPG yang kira-kira seperti berikut: 1.",
+                                      "candidate_score":  11,
+                                      "web_search_query":  "\"Untuk sistem tipe karburator atau saklar tiga posisi, dokumentasi akademik dosen otomotif Universitas Muhammadiyah Magel\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

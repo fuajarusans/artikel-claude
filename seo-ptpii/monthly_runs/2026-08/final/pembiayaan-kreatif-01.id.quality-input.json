@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-ptpii\\monthly_runs\\2026-08\\final\\pembiayaan-kreatif-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-12T15:50:10+07:00",
+    "word_count":  1832,
+    "paragraph_count":  22,
+    "sentence_count":  97,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.385,
+                        "sentence_burstiness":  1.775,
+                        "top30_vocab_share":  0.335,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.385 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "1 Tahun 2024 tentang Harmonisasi Kebijakan Fiskal Nasional (ditetapkan 2 Januari 2024), yang mencabut PP No.",
+                                      "candidate_score":  34,
+                                      "web_search_query":  "\"1 Tahun 2024 tentang Harmonisasi Kebijakan Fiskal Nasional (ditetapkan 2 Januari 2024), yang mencabut PP No.\""
+                                  },
+                                  {
+                                      "passage":  "DPRD DKI Jakarta menyetujui rencana obligasi Rp 3,5 triliun untuk tahun anggaran 2027 (27 Juli 2026), yang hingga Agustus 2026 belum diterbitkan.",
+                                      "candidate_score":  33,
+                                      "web_search_query":  "\"DPRD DKI Jakarta menyetujui rencana obligasi Rp 3,5 triliun untuk tahun anggaran 2027 (27 Juli 2026), yang hingga Agustu\""
+                                  },
+                                  {
+                                      "passage":  "1 Tahun 2022 tentang Hubungan Keuangan antara Pemerintah Pusat dan Pemerintahan Daerah](https://peraturan.go.id/id/uu-no-1-tahun-2022) (HKPD) yang mengatur Sinergi Pendanaan.",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"1 Tahun 2022 tentang Hubungan Keuangan antara Pemerintah Pusat dan Pemerintahan Daerah](https://peraturan.go.id/id/uu-no\""
+                                  },
+                                  {
+                                      "passage":  "Menurut DJPK Kementerian Keuangan (26 Mei 2026), bentuknya mencakup pinjaman konvensional dan syariah, obligasi daerah, sukuk daerah, KPBU, *blended finance*, *green bond* daerah, serta kerja sama pemanfaatan aset.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"Menurut DJPK Kementerian Keuangan (26 Mei 2026), bentuknya mencakup pinjaman konvensional dan syariah, obligasi daerah, \""
+                                  },
+                                  {
+                                      "passage":  "[DJPK Kementerian Keuangan](https://djpk.kemenkeu.go.id/?p=76326) pada 26 Mei 2026 menyebut hambatan utama bukan ketiadaan instrumen, melainkan komitmen kepala daerah dan kesiapan teknis pemda.",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"[DJPK Kementerian Keuangan](https://djpk.kemenkeu.go.id/?p=76326) pada 26 Mei 2026 menyebut hambatan utama bukan ketiada\""
+                                  },
+                                  {
+                                      "passage":  "10 Tahun 2024](https://ojk.go.id/id/regulasi/Pages/Penerbitan-dan-Pelaporan-Obligasi-Daerah-dan-Sukuk-Daerah.aspx) yang berlaku 9 Juli 2024, tetapi hingga Agustus 2026 belum ada satu pun pemerintah daerah di Indonesia yang benar-benar menerbitkannya.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"10 Tahun 2024](https://ojk.go.id/id/regulasi/Pages/Penerbitan-dan-Pelaporan-Obligasi-Daerah-dan-Sukuk-Daerah.aspx) yang \""
+                                  },
+                                  {
+                                      "passage":  "# Pembiayaan Kreatif Daerah: Peta 6 Instrumen di Luar APBD Anggaran ditutup, daftar usulan infrastruktur di RPJMD tidak.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"# Pembiayaan Kreatif Daerah: Peta 6 Instrumen di Luar APBD Anggaran ditutup, daftar usulan infrastruktur di RPJMD tidak.\""
+                                  },
+                                  {
+                                      "passage":  "UU HKPD memisahkan dua kelompok sumber dana yang boleh disinergikan: - **Bersumber dari APBD**: Pendapatan Asli Daerah (PAD), Transfer ke Daerah (TKD), dan Pembiayaan Utang Daerah.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"UU HKPD memisahkan dua kelompok sumber dana yang boleh disinergikan: - **Bersumber dari APBD**: Pendapatan Asli Daerah (\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-08\\final\\gasku-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-11T14:42:17+07:00",
+    "word_count":  1605,
+    "paragraph_count":  24,
+    "sentence_count":  88,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.37,
+                        "sentence_burstiness":  0.67,
+                        "top30_vocab_share":  0.289,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.37 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Pertamax cerita lain: naik dari Rp 12.300 ke Rp 16.250/liter pada 10 Juni 2026, lalu turun ke Rp 15.950 pada 1 Agustus 2026 ([Kompas Otomotif, Agustus 2026](https://otomotif.kompas.com/read/2026/08/01/054722915/daftar-harga-bbm-pertamina-agustus-2026-pertamax-turun)).",
+                                      "candidate_score":  47,
+                                      "web_search_query":  "\"Pertamax cerita lain: naik dari Rp 12.300 ke Rp 16.250/liter pada 10 Juni 2026, lalu turun ke Rp 15.950 pada 1 Agustus 2\""
+                                  },
+                                  {
+                                      "passage":  "# TCO 5 Tahun Kendaraan BBG (Gasku): Bukan Sekadar Balik Modal \"Balik modal 10 bulan\" terdengar meyakinkan di brosur konversi BBG.",
+                                      "candidate_score":  34,
+                                      "web_search_query":  "\"# TCO 5 Tahun Kendaraan BBG (Gasku): Bukan Sekadar Balik Modal  Balik modal 10 bulan  terdengar meyakinkan di brosur kon\""
+                                  },
+                                  {
+                                      "passage":  "## Skenario TCO 3 \u0026 5 Tahun: Tiga Profil Pemakaian Semakin tinggi pemakaian harian, semakin cepat penghematan bahan bakar menutup investasi kit.",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"## Skenario TCO 3 \u0026 5 Tahun: Tiga Profil Pemakaian Semakin tinggi pemakaian harian, semakin cepat penghematan bahan baka\""
+                                  },
+                                  {
+                                      "passage":  "Lima komponen yang membentuk TCO kendaraan BBG: - **Investasi converter kit.** Kisaran pasar Rp 14 juta (tabung besi/Tipe 1) hingga Rp 25 juta (komposit/Tipe 4).",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Lima komponen yang membentuk TCO kendaraan BBG: - **Investasi converter kit.** Kisaran pasar Rp 14 juta (tabung besi/Tip\""
+                                  },
+                                  {
+                                      "passage":  "## Nilai Jual Kembali \u0026 Risiko yang Tidak Masuk Kalkulator Hemat Angka TCO yang positif tidak otomatis berarti keputusan mudah.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## Nilai Jual Kembali \u0026 Risiko yang Tidak Masuk Kalkulator Hemat Angka TCO yang positif tidak otomatis berarti keputusan\""
+                                  },
+                                  {
+                                      "passage":  "Di Indonesia, LEMIGAS (Balai Besar Pengujian Minyak dan Gas Bumi, ESDM) menyediakan layanan resmi pengujian tabung ini, meski tanpa daftar harga yang dipublikasikan secara nasional.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Di Indonesia, LEMIGAS (Balai Besar Pengujian Minyak dan Gas Bumi, ESDM) menyediakan layanan resmi pengujian tabung ini, \""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apa saja komponen Total Cost of Ownership (TCO) kendaraan BBG?",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apa saja komponen Total Cost of Ownership (TCO) kendaraan BBG?\""
+                                  },
+                                  {
+                                      "passage":  "Pertalite adalah basis pembanding paling stabil: harganya bertahan di Rp 10.000/liter sepanjang 2026 sebagai BBM bersubsidi, sehingga selisih terhadap Gasku terkunci di sekitar Rp 5.500/LSP (~55%).",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Pertalite adalah basis pembanding paling stabil: harganya bertahan di Rp 10.000/liter sepanjang 2026 sebagai BBM bersubs\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

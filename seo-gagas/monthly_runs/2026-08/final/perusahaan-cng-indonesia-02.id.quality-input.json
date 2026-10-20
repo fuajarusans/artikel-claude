@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-08\\final\\perusahaan-cng-indonesia-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-11T14:43:43+07:00",
+    "word_count":  1579,
+    "paragraph_count":  22,
+    "sentence_count":  92,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.422,
+                        "sentence_burstiness":  0.63,
+                        "top30_vocab_share":  0.309,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.422 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Realisasi Januari–Mei 2026 dilaporkan sekitar 47,5% ([Kontan](https://industri.kontan.co.id/news/pasokan-gas-industri-menyusut-industri-khawatir-utilisasi-pabrik-keramik-turun), 23 Juni 2026); asosiasi FIPGB menyebut sekitar 27,5% (Bisnis Indonesia, 7 Agustus 2026); sementara realisasi PGN terhadap alokasi Kepmen ESDM No.",
+                                      "candidate_score":  47,
+                                      "web_search_query":  "\"Realisasi Januari–Mei 2026 dilaporkan sekitar 47,5% ([Kontan](https://industri.kontan.co.id/news/pasokan-gas-industri-me\""
+                                  },
+                                  {
+                                      "passage":  "76.K/MG.01/MEM.M/2025, pemerintah menetapkan harga US$7/MMBTU untuk gas sebagai bahan bakar dan US$6,5/MMBTU untuk bahan baku, bagi 253 pengguna di tujuh sektor industri termasuk keramik ([Kementerian ESDM](https://www.esdm.go.id/id/media-center/arsip-berita/skema-baru-hgbt-perkuat-daya-saing-industri-dan-efisiensi-anggaran-negara), Februari 2025).",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"76.K/MG.01/MEM.M/2025, pemerintah menetapkan harga US$7/MMBTU untuk gas sebagai bahan bakar dan US$6,5/MMBTU untuk bahan\""
+                                  },
+                                  {
+                                      "passage":  "Kompresi hanya memampatkan gas bumi ke tekanan tinggi (kisaran 70–250 bar tergantung sistem, dengan tabung angkut 250–400 bar) agar muat diangkut.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Kompresi hanya memampatkan gas bumi ke tekanan tinggi (kisaran 70–250 bar tergantung sistem, dengan tabung angkut 250–40\""
+                                  },
+                                  {
+                                      "passage":  "Pemerintah memangkas harga regasifikasi LNG untuk kawasan Jabar/Banten/Jakarta dari US$20,57 menjadi US$13/MMBTU, efektif 29 Juni 2026 (Kementerian ESDM).",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Pemerintah memangkas harga regasifikasi LNG untuk kawasan Jabar/Banten/Jakarta dari US$20,57 menjadi US$13/MMBTU, efekti\""
+                                  },
+                                  {
+                                      "passage":  "Pemicu paling ramai dibicarakan sepanjang 2026 adalah dinamika *Harga Gas Bumi Tertentu* (HGBT), skema gas bersubsidi pemerintah.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Pemicu paling ramai dibicarakan sepanjang 2026 adalah dinamika *Harga Gas Bumi Tertentu* (HGBT), skema gas bersubsidi pe\""
+                                  },
+                                  {
+                                      "passage":  "281.K/2026 pada Juli mencapai sekitar 88% menurut pemberitaan yang mengutip kepmen tersebut (Kompas, 6 Agustus 2026).",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"281.K/2026 pada Juli mencapai sekitar 88% menurut pemberitaan yang mengutip kepmen tersebut (Kompas, 6 Agustus 2026).\""
+                                  },
+                                  {
+                                      "passage":  "# Pindah dari Gas Pipa ke CNG: Kapan Masuk Akal \u0026 Caranya Banyak pabrik dan fasilitas komersial sudah tersambung jaringan pipa gas, lalu menganggap urusan energi selesai.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"# Pindah dari Gas Pipa ke CNG: Kapan Masuk Akal \u0026 Caranya Banyak pabrik dan fasilitas komersial sudah tersambung jaringa\""
+                                  },
+                                  {
+                                      "passage":  "Klaim penghematan \"hingga 30%\" yang lazim disebut penyedia CNG dihitung terhadap bahan bakar konvensional seperti solar atau LPG, bukan terhadap gas pipa.",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"Klaim penghematan  hingga 30%  yang lazim disebut penyedia CNG dihitung terhadap bahan bakar konvensional seperti solar \""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

@@ -121,8 +121,8 @@ Draft the comparison/phase/option table the writer can refine. Example:
 ## Definition snippet draft (40–60 words)
 > <Entity X> adalah <definition>. <one-sentence elaboration with a specific, sourced fact>.
 
-## Notes for image-planner
-2–3 visual concepts that would strengthen the article (diagram, comparison infographic, process timeline, dashboard mockup). The image-planner turns these into a design brief — no images are generated.
+## Notes for visuals (optional — only if the client uses image placeholders)
+2–3 visual concepts that would strengthen the article (diagram, comparison infographic, process timeline, dashboard mockup). If the client uses `{IMAGE_NN}` placeholders, the writer turns these into the placeholder concept, which IS the design brief — no images are generated. If the client runs image-free, skip this section.
 - Concept 1: <description>
 - Concept 2: ...
 ```

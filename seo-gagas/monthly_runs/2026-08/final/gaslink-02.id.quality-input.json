@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-08\\final\\gaslink-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-11T14:42:44+07:00",
+    "word_count":  1569,
+    "paragraph_count":  22,
+    "sentence_count":  102,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.339,
+                        "sentence_burstiness":  0.827,
+                        "top30_vocab_share":  0.34,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.339 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Peraturan tentang Inspeksi Teknis dan Pemeriksaan Keselamatan Instalasi dan Peralatan pada Kegiatan Usaha Minyak dan Gas Bumi, ditetapkan 12 November 2021.",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"Peraturan tentang Inspeksi Teknis dan Pemeriksaan Keselamatan Instalasi dan Peralatan pada Kegiatan Usaha Minyak dan Gas\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai anak usaha PGN, bagian dari Subholding Gas Pertamina, PGN Gagas terbiasa mendampingi pelanggan Gaslink melewati komisioning dan inspeksi, didukung sertifikasi K3 ISO 45001:2018 untuk distribusi CNG.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Sebagai anak usaha PGN, bagian dari Subholding Gas Pertamina, PGN Gagas terbiasa mendampingi pelanggan Gaslink melewati \""
+                                  },
+                                  {
+                                      "passage":  "22 Tahun 2021](https://peraturan.go.id/id/pp-no-22-tahun-2021): SPPL, UKL-UPL, atau AMDAL untuk dampak besar, tergantung klasifikasi risiko usaha.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"22 Tahun 2021](https://peraturan.go.id/id/pp-no-22-tahun-2021): SPPL, UKL-UPL, atau AMDAL untuk dampak besar, tergantung\""
+                                  },
+                                  {
+                                      "passage":  "Untuk UKL-UPL standar, verifikasinya berkisar 3–5 hari kerja per tahap (estimasi merujuk PP No.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Untuk UKL-UPL standar, verifikasinya berkisar 3–5 hari kerja per tahap (estimasi merujuk PP No.\""
+                                  },
+                                  {
+                                      "passage":  "Tanpa PLO, belum ada jaminan resmi bahwa instalasi memenuhi standar keselamatan Permen ESDM No.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Tanpa PLO, belum ada jaminan resmi bahwa instalasi memenuhi standar keselamatan Permen ESDM No.\""
+                                  },
+                                  {
+                                      "passage":  "Untuk instalasi gas bumi termasuk CNG, istilah resminya adalah PLO (Persetujuan Layak Operasi), yang diterbitkan Ditjen Migas berdasarkan Permen ESDM No.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Untuk instalasi gas bumi termasuk CNG, istilah resminya adalah PLO (Persetujuan Layak Operasi), yang diterbitkan Ditjen \""
+                                  },
+                                  {
+                                      "passage":  "- **Status laik operasi (PLO).** Menyatakan instalasi dan peralatannya aman dioperasikan, berdasarkan inspeksi teknis menurut Permen ESDM No.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"- **Status laik operasi (PLO).** Menyatakan instalasi dan peralatannya aman dioperasikan, berdasarkan inspeksi teknis me\""
+                                  },
+                                  {
+                                      "passage":  "Izin laik operasi (PLO) menilai keselamatan teknis instalasinya sendiri berdasarkan Permen ESDM No.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Izin laik operasi (PLO) menilai keselamatan teknis instalasinya sendiri berdasarkan Permen ESDM No.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

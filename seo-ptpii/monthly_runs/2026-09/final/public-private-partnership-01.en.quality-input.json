@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-ptpii\\monthly_runs\\2026-09\\final\\public-private-partnership-01.en.md",
+    "language":  "en",
+    "generated_at":  "2026-09-21T11:33:17+07:00",
+    "word_count":  1810,
+    "paragraph_count":  20,
+    "sentence_count":  88,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.412,
+                        "sentence_burstiness":  1.009,
+                        "top30_vocab_share":  0.236,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.412 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "On 4 March 2026 Fitch affirmed Indonesia\u0027s sovereign rating at BBB but [revised the sovereign Outlook to Negative](https://www.bloomberg.com/news/articles/2026-03-04/fitch-lowers-indonesia-s-rating-outlook-to-negative).",
+                                      "candidate_score":  27,
+                                      "web_search_query":  "\"On 4 March 2026 Fitch affirmed Indonesia\u0027s sovereign rating at BBB but [revised the sovereign Outlook to Negative](https\""
+                                  },
+                                  {
+                                      "passage":  "68 Tahun 2024, effective 18 October 2024, is the consolidated implementing regulation.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"68 Tahun 2024, effective 18 October 2024, is the consolidated implementing regulation.\""
+                                  },
+                                  {
+                                      "passage":  "Fitch affirmed the entity at BBB / F2 / AAA(idn), Outlook Stable, on 12 February 2026, assessing it as a government-related entity credit-linked to the sovereign.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Fitch affirmed the entity at BBB / F2 / AAA(idn), Outlook Stable, on 12 February 2026, assessing it as a government-rela\""
+                                  },
+                                  {
+                                      "passage":  "Treat it as market convention rather than a codified deadline; it was not confirmed in Perpres 38/2015 or PMK 68/2024 during this review.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Treat it as market convention rather than a codified deadline; it was not confirmed in Perpres 38/2015 or PMK 68/2024 du\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Frequently Asked Questions) ### What is co-financing in an infrastructure public-private partnership?",
+                                      "candidate_score":  8,
+                                      "web_search_query":  "\"## FAQ (Frequently Asked Questions) ### What is co-financing in an infrastructure public-private partnership?\""
+                                  },
+                                  {
+                                      "passage":  "How a Government Guarantee is structured for a specific KPBU project, and what it does not cover, is set out at ptpii.co.id.",
+                                      "candidate_score":  6,
+                                      "web_search_query":  "\"How a Government Guarantee is structured for a specific KPBU project, and what it does not cover, is set out at ptpii.co\""
+                                  },
+                                  {
+                                      "passage":  "### How soon after signing must financing be in place for an Indonesian PPP project?",
+                                      "candidate_score":  6,
+                                      "web_search_query":  "\"### How soon after signing must financing be in place for an Indonesian PPP project?\""
+                                  },
+                                  {
+                                      "passage":  "### What determines whether an export credit agency will support an Indonesian PPP project?",
+                                      "candidate_score":  6,
+                                      "web_search_query":  "\"### What determines whether an export credit agency will support an Indonesian PPP project?\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

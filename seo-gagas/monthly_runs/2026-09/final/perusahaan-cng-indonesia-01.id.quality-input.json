@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-09\\final\\perusahaan-cng-indonesia-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-21T10:51:55+07:00",
+    "word_count":  1503,
+    "paragraph_count":  25,
+    "sentence_count":  85,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.468,
+                        "sentence_burstiness":  0.749,
+                        "top30_vocab_share":  0.29,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Regulasi pengadaan pemerintah juga terus berubah: Perpres 16/2018 sudah diubah hingga Perpres 46/2025.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"Regulasi pengadaan pemerintah juga terus berubah: Perpres 16/2018 sudah diubah hingga Perpres 46/2025.\""
+                                  },
+                                  {
+                                      "passage":  "## Kapan Tender Terbuka Justru Bukan Pilihan Terbaik Tender terbuka penuh tidak selalu sepadan.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"## Kapan Tender Terbuka Justru Bukan Pilihan Terbaik Tender terbuka penuh tidak selalu sepadan.\""
+                                  },
+                                  {
+                                      "passage":  "Menurut data Kementerian ESDM per semester II-2025 sebagaimana dilaporkan Beritasatu dan Bloomberg Technoz, terdapat 53 badan usaha pemegang izin niaga CNG, naik dari 33 pada semester I-2025.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Menurut data Kementerian ESDM per semester II-2025 sebagaimana dilaporkan Beritasatu dan Bloomberg Technoz, terdapat 53 \""
+                                  },
+                                  {
+                                      "passage":  "Gate paling langsung untuk niaga CNG adalah [Izin Usaha Niaga (IUN) gas bumi dari Kementerian ESDM](https://migas.esdm.go.id/post/menteri-jonan-tetapkan-permen-esdm-tentang-pengusahaan-gas-bumi-pada-kegiatan-usaha-hilir-minyak-dan-gas-bumi), yang berdasar pada Permen ESDM 4/2018 jo.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Gate paling langsung untuk niaga CNG adalah [Izin Usaha Niaga (IUN) gas bumi dari Kementerian ESDM](https://migas.esdm.g\""
+                                  },
+                                  {
+                                      "passage":  "## Legalitas yang Harus Jadi Syarat Gugur, Bukan Sekadar Nilai Tambah Verifikasi legalitas sebagai syarat gugur, bukan poin bonus.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## Legalitas yang Harus Jadi Syarat Gugur, Bukan Sekadar Nilai Tambah Verifikasi legalitas sebagai syarat gugur, bukan p\""
+                                  },
+                                  {
+                                      "passage":  "Gate utamanya adalah Izin Usaha Niaga (IUN) gas bumi dari Kementerian ESDM, berdasar Permen ESDM 4/2018 jo.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Gate utamanya adalah Izin Usaha Niaga (IUN) gas bumi dari Kementerian ESDM, berdasar Permen ESDM 4/2018 jo.\""
+                                  },
+                                  {
+                                      "passage":  "Karena regulasi memakai konstruksi \"dan/atau\", untuk pasokan CNG murni via truk/GTM, IUN saja umumnya cukup; Hak Khusus baru relevan bila penyedia juga mengoperasikan jaringan pipa.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Karena regulasi memakai konstruksi  dan/atau , untuk pasokan CNG murni via truk/GTM, IUN saja umumnya cukup; Hak Khusus \""
+                                  },
+                                  {
+                                      "passage":  "Kontrak payung adalah kontrak harga satuan berjangka waktu tertentu, di mana volume dan waktu penyerahan gas belum dikunci saat penandatanganan (Pasal 27 ayat (8) Perpres 16/2018 jo.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Kontrak payung adalah kontrak harga satuan berjangka waktu tertentu, di mana volume dan waktu penyerahan gas belum dikun\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

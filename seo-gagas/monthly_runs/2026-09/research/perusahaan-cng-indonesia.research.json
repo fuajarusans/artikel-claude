@@ -1,0 +1,105 @@
+{
+  "keyword": "Perusahaan CNG Indonesia",
+  "keyword_slug": "perusahaan-cng-indonesia",
+  "month": "2026-09",
+  "captured_at": "2026-09-17",
+  "intent_locked": "KOMERSIAL/penyedia (procurement-side: memilih, mengontrak, memasang, mengelola penyedia CNG). NOT informational — that lane belongs to 'CNG Indonesia', run separately this batch.",
+  "landing_page": "https://gagas.co.id/perusahaan-cng-indonesia/",
+  "landing_page_summary": "Hub CNG PGN Gagas: memposisikan Gagas (anak usaha PGN) sebagai distributor CNG/LNG via virtual pipeline untuk industri & komersial di luar jaringan pipa; produk Gaslink (pabrik/HOREKA/RS) + Gasku (transport/logistik); klaim hemat hingga 68% vs solar; telemetri IoT real-time. Halaman bersifat marketing-macro — TIDAK membahas proses tender/pengadaan, SLA rinci, timeline instalasi/commissioning, evaluasi vendor, atau model kontrak. Ketiga celah itu jadi ruang brief komersial ini.",
+  "data_sources_used": ["live_serp (SKIPPED — Google bot-detection memblokir WebFetch pada run cluster ini; degrade ke WebSearch per playbook)", "websearch", "landing_page_fetch"],
+  "ahrefs_available": false,
+  "seo_report": "none (keywords.md: seo_report: none)",
+  "priority": "whitespace",
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Naik 2026: gelombang berita 'PGN Gagas bidik industri hingga MBG', 'CNG energi andalan baru', dan konversi LPG->CNG mendorong pencarian sisi-pembeli ('cara berlangganan/memilih penyedia CNG'). Kluster komersial sudah 15 artikel; permintaan menggeser ke sub-sudut proses (tender, instalasi, tata kelola vendor).",
+    "report_rank": "n/a (no SEO report this month)"
+  },
+  "serp": {
+    "note": "Lanskap disusun dari WebSearch (graceful degradation). Google SERP fetch tidak dipakai karena bot-detection pada run cluster CNG ini.",
+    "top_landscape_themes": [
+      {"source": "gagas.co.id/perusahaan-cng-indonesia", "angle_summary": "Hub Gagas — CNG virtual pipeline, Gaslink/Gasku, hemat vs solar; marketing-macro, bukan procurement-ready."},
+      {"source": "beritasatu.com — 'Ada 53 Perusahaan CNG di Indonesia'", "angle_summary": "Daftar 53 pemegang izin niaga CNG (semester II 2025) — konteks 'lanskap penyedia' untuk pembeli yang harus mengevaluasi banyak opsi."},
+      {"source": "ir.pgn.co.id — Public Expose 2024", "angle_summary": "Ekosistem PGN: pipa >33.000 km, 3.310 pelanggan industri/komersial, 78 kabupaten/kota; CNG/LNG beyond-pipeline sebagai andalan ekspansi."},
+      {"source": "ruangenergi.com / jawapos.com 2026", "angle_summary": "PGN Gagas salurkan CNG ke pelanggan komersial di lokasi tanpa pipa; bidik industri hingga MBG."},
+      {"source": "scaleocean.com / UKPBJ / Pertagas pedoman pengadaan", "angle_summary": "Kontrak payung (framework agreement): harga & T&C disepakati di muka, volume/waktu menyusul — dasar tender pasokan berulang."},
+      {"source": "deltaflowidn / ottonusantaraenergy / researchgate PRS", "angle_summary": "Instalasi & commissioning industri: survei kelayakan -> desain PRS (HSE) -> instalasi -> uji fungsi; PRS turunkan tekanan CNG ke 0,8-1,5 bar kerja alat."},
+      {"source": "runsystem / hashmicro / researchgate 'Model Evaluasi Kinerja Vendor'", "angle_summary": "KPI procurement & evaluasi vendor: quality/delivery/service; on-time delivery rate, defect rate, lead time; hasil evaluasi memandu keputusan perpanjang vs cari vendor baru."}
+    ],
+    "serp_features": ["ai_overview (likely untuk 'cara memilih/berlangganan penyedia CNG')", "paa (derived dari WebSearch)"],
+    "ai_overview_entities": ["Compressed Natural Gas (CNG)", "penyedia/perusahaan CNG", "Izin Usaha Niaga (IUN)", "Hak Khusus BPH Migas", "kontrak payung / framework agreement", "Gas Transportation Module (GTM)", "Pressure Reduction Station (PRS)", "SLA", "commissioning", "KPI vendor", "LKPP e-katalog", "PGN / Subholding Gas Pertamina"]
+  },
+  "paa_derived": [
+    "Berapa banyak perusahaan CNG di Indonesia?",
+    "Bagaimana cara menyusun spesifikasi teknis pengadaan gas CNG?",
+    "Apa itu kontrak payung dalam pengadaan gas?",
+    "Berapa lama proses instalasi dan commissioning CNG di pabrik?",
+    "Apa saja yang harus disiapkan pembeli sebelum pemasangan PRS?",
+    "Bagaimana mengevaluasi kinerja penyedia CNG setelah kontrak berjalan?",
+    "Kapan sebaiknya memperpanjang kontrak vs melakukan tender ulang penyedia gas?",
+    "Apa saja izin yang wajib dimiliki penyedia CNG (IUN, Hak Khusus BPH Migas)?",
+    "Bagaimana membandingkan penawaran beberapa penyedia CNG secara adil?",
+    "Siapa yang bertanggung jawab atas PRS: penyedia atau pembeli?"
+  ],
+  "verified_facts_for_researcher": {
+    "jumlah_penyedia": "53 perusahaan pemegang izin niaga CNG per semester II 2025 (beritasatu.com; konsisten dengan konteks PGN) — VERIFIKASI angka & tanggal; pakai sebagai 'lanskap yang harus dievaluasi pembeli', bukan klaim posisi Gagas.",
+    "pgn_ekosistem": "PGN (induk) mengoperasikan pipa >33.000 km, melayani 822.561 rumah tangga, 2.842 pelanggan kecil, 3.310 pelanggan industri & komersial di 78 kabupaten/kota (PGN Public Expose 2024) — atribusikan ke PGN, BUKAN Gagas; Gagas = anak usaha yang menjalankan segmen CNG beyond-pipeline.",
+    "izin_niaga": "Penyedia niaga CNG wajib Izin Usaha Niaga (IUN) gas bumi dari Kementerian ESDM; pengangkutan lintas wilayah dapat memerlukan Hak Khusus BPH Migas (dipakai di artikel 01/05/09) — VERIFIKASI dasar hukum terkini (Permen ESDM 4/2018 jo. 19/2021).",
+    "prs_pressure": "PRS (Pressure Reduction Station) menurunkan tekanan CNG ke ~0,8-1,5 bar sesuai kebutuhan alat (konsisten dg artikel 02) — VERIFIKASI rentang per aplikasi.",
+    "commissioning_flow": "Alur umum instalasi industri: survei kelayakan/site visit (HSE) -> desain/tata letak PRS -> instalasi -> uji fungsi/commissioning; durasi TIDAK terstandar publik, bervariasi menurut skala/kompleksitas/kondisi lokasi — LABEL semua durasi sebagai 'rentang praktik lapangan', bukan janji.",
+    "kontrak_payung": "Kontrak payung/framework agreement: harga satuan & syarat disepakati di muka untuk periode tertentu; volume, waktu pengiriman ditentukan kemudian sesuai kebutuhan (scaleocean/UKPBJ) — cocok untuk pasokan gas berulang & multi-penarikan.",
+    "vendor_kpi": "Model evaluasi vendor standar: kriteria quality, delivery, service; metrik kepatuhan SLA (on-time delivery rate, defect/deviation rate, lead time, responsivitas) memandu keputusan perpanjang/kembangkan vs ganti vendor (runsystem/hashmicro/researchgate) — kerangka umum, sesuaikan ke konteks pasokan gas.",
+    "e_katalog_lkpp": "Untuk pembeli instansi/BUMN, jalur pengadaan energi bisa via e-katalog LKPP, tender terbuka, atau penunjukan langsung sesuai Perpres 16/2018 jo. 12/2021 (dipakai di artikel 11) — VERIFIKASI ambang nilai & ketentuan terkini.",
+    "harga_benchmark_refs": "Referensi benchmark harga saat renegosiasi/renewal: HGBT (Harga Gas Bumi Tertentu) sektor tertentu, harga LNG industri, paritas LPG/solar — pakai sumber ESDM/Kontan terkini yang diverifikasi; JANGAN kutip angka harga tanpa sumber.",
+    "gagas_framing": "Gagas = distributor CNG beyond-pipeline (Gaslink industri/komersial, Gasku transport), anak usaha PGN / Subholding Gas Pertamina; ISO 9001/45001/37001 (2025). BUKAN produsen gas, BUKAN PGN itu sendiri. Untuk brief komersial, anchor pada kredibilitas proses (izin, ISO, SLA/telemetri, dukungan 24 jam) — 2-3 self-mention maksimal, utama di CTA. DILARANG superlatif ('terbesar/terbaik') dan 'satu-satunya penyedia'."
+  },
+  "history_snapshot": {
+    "committed_perusahaan_cng_angles_15": [
+      "01 cara-memilih-penyedia-cng-7-kriteria (kriteria positif; izin/ISO/keandalan)",
+      "02 layanan-penyedia-cng-scope-tanggung-jawab (apa yang dibeli: GTM/PRS/telemetri/support)",
+      "03 industri-dilayani-cng-cara-berlangganan-onboarding (sektor HGBT/HOREKA + 6 langkah keputusan->operasi)",
+      "04 keamanan-keandalan-pasokan-cng-standar (keamanan vs keandalan, standar/sertifikasi)",
+      "05 kesalahan-memilih-cng-penyedia-dan-solusi (7 kesalahan pembeli + jebakan harga)",
+      "06 tco-beralih-penyedia-cng-hitung-biaya-total (TCO, biaya total vs harga gas)",
+      "07 model-harga-kontrak-langganan-cng-minimum-offtake (struktur harga & minimum offtake/formula)",
+      "08 keandalan-pasokan-business-continuity-penyedia-cng (BCP dari sisi jaminan keandalan)",
+      "09 pertanyaan-wajib-diajukan-calon-penyedia-cng (daftar pertanyaan + alarm jawaban)",
+      "10 cng-horeca-hotel-rs-pengadaan-ganti-lpg (sektor HORECA ganti LPG)",
+      "11 pengadaan-cng-sppg-dapur-mbg-instansi-pemerintah (procurement publik/e-katalog LKPP)",
+      "12 migrasi-gas-pipa-ke-cng-kapan-dan-cara-pindah (perpindahan moda pipa->CNG, dual-source)",
+      "13 eskalasi-resolusi-masalah-pasokan-cng-sla-kompensasi (penanganan insiden pasca-kejadian: eskalasi/kompensasi/force majeure)",
+      "14 manajemen-pasokan-cng-multi-lokasi-multi-vendor (portofolio multi-site: single vs multi vendor, kontrak payung sbg alat konsolidasi ops)",
+      "15 data-esg-laporan-keberlanjutan-dari-pasokan-cng (data ESG/emisi Scope 1 dari penyedia)"
+    ],
+    "informational_cng_angles_this_batch_OUT_OF_SCOPE": [
+      "cng-substitusi-impor-lpg-ketahanan-energi (makro fiskal/devisa)",
+      "ekonomi-pipa-vs-virtual-pipeline-cng (capex/opex/break-even infrastruktur)",
+      "bio-cng-biometana-cng-terbarukan (gas terbarukan dari POME)"
+    ],
+    "held_uncommitted_TAKEN": "2026-08 cng-indonesia-03 'kualitas gas / Wobbe / nilai kalor' — treat as TAKEN.",
+    "uncovered_commercial_whitespace_selected": [
+      "01 Menyusun tender/KAK/RFQ + kontrak payung pengadaan CNG (SETUP pengadaan: dokumen & scoring) — beda dari 01 (kriteria naratif), 07 (struktur harga), 09 (daftar pertanyaan), 14 (kelola banyak kontrak yang SUDAH ada). Flag whitespace dari notes 11/13/14 (KAK/RFQ/negosiasi klausul).",
+      "02 Timeline instalasi & commissioning dari SISI PEMBELI + checklist kesiapan lokasi (EKSEKUSI proyek pasca-kontrak: durasi fase, ruang/akses PRS, purging/first-gas-in, berita acara, penyebab molor) — beda dari 02 (scope layanan) & 03 (perjalanan keputusan berlangganan + kecocokan sektor). Flag whitespace dari note 12 (checklist kesiapan lokasi: ruang PRS, tekanan, akses truk GTM).",
+      "03 Manajemen kinerja penyedia CNG jangka panjang + keputusan perpanjang vs tender ulang (GOVERNANCE steady-state: QBR, KPI scorecard, renewal/re-tender, switching cost) — beda dari 08 (BCP), 13 (insiden reaktif), 14 (portofolio multi-vendor). Flag whitespace dari notes 13/14 (audit SLA tahunan, kinerja & renewal)."
+    ],
+    "left_for_future_runs": [
+      "Studi kasus MBG-cluster / pabrik dual-source dengan ANGKA NYATA (butuh data klien terverifikasi — hindari sampai ada; risiko fabrikasi tinggi).",
+      "Negosiasi & benchmark harga sebagai artikel penuh (sebagian disinggung di brief 01 scoring & brief 03 renewal; bisa diperdalam terpisah).",
+      "Panduan menyusun baseline emisi fasilitas sisi-pembeli (dekat 15; pisahkan hati-hati agar Jaccard aman)."
+    ]
+  },
+  "cousins_this_month": {
+    "month_keyword_set": ["Gasku", "Gaslink", "CNG Indonesia", "Perusahaan CNG Indonesia", "Perusahaan LNG Indonesia"],
+    "hub": "https://gagas.co.id/perusahaan-cng-indonesia/",
+    "note": "CNG Indonesia berbagi URL hub yang SAMA (perusahaan-cng-indonesia) -> tidak dipakai sebagai cousin (akan jadi self-link). Dua cousin terkait untuk lane komersial industri = Gaslink (produk yang dikontrak pembeli industri/komersial) + Perusahaan LNG Indonesia (moda alternatif untuk volume besar/jarak jauh yang ditimbang saat tender/benchmark/renewal). Konsisten dg product_matrix cross-link map.",
+    "brief_01": ["Gaslink", "Perusahaan LNG Indonesia"],
+    "brief_02": ["Gaslink", "Perusahaan LNG Indonesia"],
+    "brief_03": ["Gaslink", "Perusahaan LNG Indonesia"]
+  },
+  "angle_hashes": {
+    "perusahaan-cng-indonesia-01": "cb4a6ac8b27ec543f5db5d4de1df422df4433bb5",
+    "perusahaan-cng-indonesia-02": "fea4f1f6d626b62fa97fcda04a9ca56f54237767",
+    "perusahaan-cng-indonesia-03": "313c5a60f955c82d8cd2e78214a4e3697d4cb3f0"
+  }
+}

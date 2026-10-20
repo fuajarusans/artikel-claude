@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-iigf-institute\\monthly_runs\\2026-09\\final\\capacity-building-pembiayaan-kreatif-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-22T06:18:28+07:00",
+    "word_count":  1636,
+    "paragraph_count":  23,
+    "sentence_count":  106,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.449,
+                        "sentence_burstiness":  0.718,
+                        "top30_vocab_share":  0.302,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.449 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Pada halaman [pelaksanaan fasilitas penyiapan proyek](https://kpbu.kemenkeu.go.id/read/20-233/pjpk/pelaksanaan-kpbu/pelaksanaan-fasilitas), Kementerian Keuangan mencatat pemberian Fasilitas Penyiapan Proyek (*Project Development Facility*/PDF) untuk setidaknya 20 proyek KPBU hingga 2020.",
+                                      "candidate_score":  38,
+                                      "web_search_query":  "\"Pada halaman [pelaksanaan fasilitas penyiapan proyek](https://kpbu.kemenkeu.go.id/read/20-233/pjpk/pelaksanaan-kpbu/pela\""
+                                  },
+                                  {
+                                      "passage":  "# Capacity Building KPBU: Agar Kapasitas Tak Ikut Mutasi Sebuah dinas mengirim lima orang ke pelatihan KPBU (*Kerja Sama Pemerintah dengan Badan Usaha*).",
+                                      "candidate_score":  38,
+                                      "web_search_query":  "\"# Capacity Building KPBU: Agar Kapasitas Tak Ikut Mutasi Sebuah dinas mengirim lima orang ke pelatihan KPBU (*Kerja Sama\""
+                                  },
+                                  {
+                                      "passage":  "| Siklus | Durasi indikatif | |---|---| | Masa jabatan kepala daerah | 5 tahun per periode, maksimal 2 periode berturut-turut (UU No.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"| Siklus | Durasi indikatif | |---|---| | Masa jabatan kepala daerah | 5 tahun per periode, maksimal 2 periode berturut-\""
+                                  },
+                                  {
+                                      "passage":  "38 Tahun 2015, PJPK dapat berupa Menteri, Kepala Lembaga, Kepala Daerah, atau BUMN/BUMD sesuai kewenangannya.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"38 Tahun 2015, PJPK dapat berupa Menteri, Kepala Lembaga, Kepala Daerah, atau BUMN/BUMD sesuai kewenangannya.\""
+                                  },
+                                  {
+                                      "passage":  "Perjanjian KPBU berjalan 15–30 tahun secara indikatif, bergantung sektor (rujukan 2026), sementara masa jabatan kepala daerah lima tahun.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Perjanjian KPBU berjalan 15–30 tahun secara indikatif, bergantung sektor (rujukan 2026), sementara masa jabatan kepala d\""
+                                  },
+                                  {
+                                      "passage":  "Tanggung jawabnya membentang dari perencanaan hingga manajemen kontrak, mencakup masa perjanjian indikatif 15–30 tahun (rujukan 2026).",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Tanggung jawabnya membentang dari perencanaan hingga manajemen kontrak, mencakup masa perjanjian indikatif 15–30 tahun (\""
+                                  },
+                                  {
+                                      "passage":  "77 Tahun 2020: aturan keuangan daerah yang memformalkan komitmen fiskal lintas tahun anggaran, meski bukan jaminan otomatis untuk lintas periode jabatan.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"77 Tahun 2020: aturan keuangan daerah yang memformalkan komitmen fiskal lintas tahun anggaran, meski bukan jaminan otoma\""
+                                  },
+                                  {
+                                      "passage":  "**Kontak pendamping.** Siapa narahubung teknis, termasuk pendamping Fasilitas Penyiapan Proyek, bagi pengganti.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"**Kontak pendamping.** Siapa narahubung teknis, termasuk pendamping Fasilitas Penyiapan Proyek, bagi pengganti.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

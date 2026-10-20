@@ -1,0 +1,112 @@
+{
+  "keyword": "SAP Clean Core",
+  "keyword_slug": "sap-clean-core",
+  "month": "2026-08-2",
+  "captured_at": "2026-07-08",
+  "landing_page": "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide",
+  "landing_page_summary": "Hub 'the complete guide' covers: definisi clean core, 5 dimensi (Extensibility, Processes, Data, Integration, Operations), pembedahan Dimensi Data jadi 5 pilar (Governance, Strategy, Quality, Tiering/DVM, Protection), manfaat & ROI, langkah implementasi greenfield vs brownfield, dan CTA Soltius. Hub MENYINGGUNG dimensi data (level ikhtisar) dan opsi deployment (public/private/on-prem) tetapi TIDAK membahas: add-on ISV pihak ketiga, monitoring/KPI/SAP Cloud ALM, dan tata kelola stay-clean secara mendalam. Artikel cluster pendukung boleh menyelami tiap subtopik lebih dalam sambil link UP ke hub.",
+  "data_sources_used": ["live_websearch", "landing_page_fetch"],
+  "ahrefs_available": false,
+  "gsc_available": false,
+  "seo_report_for_month": "none (keywords.md: seo_report: none)",
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Topik clean core meningkat kuat 2024-2026 seiring tenggat SAP ECC (mainstream maintenance 2027, extended 2030) dan dorongan RISE/GROW with SAP; banyak konten SAP + integrator baru tahun 2025-2026 (mis. 'ABAP Extensibility Guide Aug 2025', 'Clean Core 2026' guides).",
+    "apr2026_rank": "n/a (report 'none' this month; CLAUDE.md historical ref: sap-clean-core ~#100, whitespace)"
+  },
+  "priority": "whitespace",
+  "saturation_note": "SANGAT jenuh. 14 angle cluster distinct sudah ada di 3 batch sebelumnya + committed history (lihat history_snapshot). Setiap angle Agustus WAJIB unik (angle_hash unik + subtopic Jaccard <0.4).",
+  "serp": {
+    "note": "Google ID SERP scrape diblokir (halaman error Google). Landscape disintesis dari WebSearch (Google-indexed) + fetch hub. SERP clean core didominasi SAP official (community.sap.com, learning.sap.com, sap.com asset PDFs) + integrator global (LeverX, SAVIC, Prolifics, easy-software, Sovos, SAPinsider, IgniteSAP, avotechs).",
+    "top_sources_by_subtopic": {
+      "data_dimension": [
+        {"url": "https://learning.sap.com/courses/sap-s-4hana-cloud-private-edition-production-planning-and-manufacturing/exploring-how-to-make-data-core-compliant-1", "title": "Exploring How to Make Data Clean Core Compliant (SAP Learning)", "angle_summary": "SAP resmi: cara membuat data 'clean core compliant'."},
+        {"url": "https://community.sap.com/t5/technology-blogs-by-members/mastering-the-data-deluge-a-comprehensive-guide-to-saps-volume-management/ba-p/13563630", "title": "Mastering the Data Deluge: SAP DVM, Archiving & Disposition", "angle_summary": "Panduan DVM + archiving + disposition SAP."},
+        {"url": "https://www.natuvion.com/challenges/sap-information-lifecycle-management/", "title": "SAP Information Lifecycle Management (ILM) | Definition & Benefits", "angle_summary": "ILM: archiving, retention, destruction untuk kurangi volume DB."}
+      ],
+      "third_party_addons": [
+        {"url": "https://community.sap.com/t5/enterprise-resource-planning-blog-posts-by-sap/certification-of-partner-solutions-following-clean-core/ba-p/13556247", "title": "Certification of Partner Solutions following Clean Core (SAP)", "angle_summary": "SAP ICC sertifikasi solusi partner sesuai clean core Level A-C."},
+        {"url": "https://community.sap.com/t5/enterprise-resource-planning-blog-posts-by-sap/natively-abap-cloud-clean-core-add-ons-in-sap-s-4hana-cloud-public-edition/ba-p/14093908", "title": "Natively ABAP Cloud (Clean Core) Add-ons in Public Edition", "angle_summary": "Add-on ABAP Cloud upgrade-safe + fulfilment via SAP Store."},
+        {"url": "https://sovos.com/blog/vat/clean-core-with-certified-sap-s-4hana-add-ons/", "title": "Achieving a Clean Core with Certified SAP S/4HANA Add-Ons (Sovos)", "angle_summary": "Add-on tersertifikasi menjaga core bersih (kasus pajak/VAT)."},
+        {"url": "https://sapinsider.org/blogs/saps-new-integration-rules-draw-a-line-in-the-sand-for-certifications/", "title": "SAP's New Integration Rules Draw a Line for Certifications (SAPinsider)", "angle_summary": "Aturan integrasi/sertifikasi baru untuk partner."}
+      ],
+      "deployment_editions": [
+        {"url": "https://community.sap.com/t5/technology-blog-posts-by-sap/abap-extensibility-guide-clean-core-for-sap-s-4hana-cloud-august-2025/ba-p/14175399", "title": "ABAP Extensibility Guide - Clean Core (Aug 2025 Update, SAP)", "angle_summary": "Model ekstensibilitas per edisi; tier/level per deployment."},
+        {"url": "https://www.sap.com/assetdetail/2024/10/be407a0d-dc7e-0010-bca6-c68f7e60039b.html", "title": "Clean core extensibility in SAP S/4HANA Cloud Private Edition (SAP)", "angle_summary": "Ekstensibilitas clean core khusus Private Edition."},
+        {"url": "https://avotechs.com/blog/what-is-clean-core-a-d-extensibility-model/", "title": "S/4HANA Clean Core Update 2025: A-D Extensibility Model", "angle_summary": "Model Level A-D pengganti 3-tier; aturan per edisi."}
+      ],
+      "monitoring_cloud_alm": [
+        {"url": "https://community.sap.com/t5/enterprise-resource-planning-blog-posts-by-sap/new-clean-core-extensibility-kpis-arrive-on-the-rise-with-sap-dashboard/ba-p/14257352", "title": "New Clean Core Extensibility KPIs on the RISE with SAP Dashboard (SAP)", "angle_summary": "KPI clean core baru: Technical Debt Score, Clean Core Share, dll."},
+        {"url": "https://help.sap.com/docs/cloud-alm/applicationhelp/custom-kpis", "title": "Setting Up Custom KPIs - SAP Cloud ALM (help.sap.com)", "angle_summary": "Cloud ALM: custom KPI untuk monitoring."},
+        {"url": "https://www.neomore.fi/en/insights/sap-cloud-alm-in-action", "title": "SAP Cloud ALM in Action", "angle_summary": "Peran Cloud ALM untuk operasi + monitoring."}
+      ],
+      "stay_clean_governance": [
+        {"url": "https://asardigital.com/what-clean-core-actually-means-and-why-its-the-most-important-decision-in-your-sap-cloud-erp-program/", "title": "What 'Clean Core' Actually Means (Asar Digital)", "angle_summary": "Governance 'with teeth': 3 pertanyaan tiap request kustomisasi."},
+        {"url": "https://nhimg.org/articles/sap-clean-core-certification-sharpens-governance-for-s4hana-migration/", "title": "SAP clean core certification sharpens governance", "angle_summary": "Sertifikasi menajamkan tata kelola migrasi."},
+        {"url": "https://www.basisadmin.com/sap-clean-core", "title": "SAP Clean Core Services: Code Remediation & Governance", "angle_summary": "Remediasi + governance sebagai layanan."}
+      ]
+    },
+    "serp_features": ["ai_overview_likely", "paa", "featured_snippet_definition"],
+    "ai_overview_entities": ["clean core", "S/4HANA", "ABAP Cloud", "SAP BTP", "SAP Cloud ALM", "SAP ILM", "SAP ICC", "SAP Store", "Level A-D extensibility", "RISE with SAP", "GROW with SAP", "Data Volume Management"]
+  },
+  "paa": [
+    "Apa itu dimensi data dalam clean core SAP?",
+    "Apa perbedaan clean core di S/4HANA Cloud Public Edition dan Private Edition?",
+    "Apakah add-on pihak ketiga bisa merusak clean core?",
+    "Bagaimana cara mengetahui add-on SAP sudah tersertifikasi clean core?",
+    "Apa itu Level A, B, C, D dalam ekstensibilitas clean core?",
+    "Bagaimana cara memantau kepatuhan clean core?",
+    "Apa itu SAP Cloud ALM dan KPI clean core?",
+    "Bagaimana menjaga core tetap bersih setelah go-live (stay clean)?",
+    "Apakah clean core relevan untuk SAP on-premise?",
+    "Apa itu SAP Information Lifecycle Management (ILM) dan data archiving?",
+    "Bagaimana data volume management mendukung clean core?",
+    "Siapa yang harus menyetujui permintaan kustomisasi SAP?"
+  ],
+  "verified_facts_for_writers": {
+    "clean_core_5_dimensions": "Extensibility, Data, Integration/Integrations, Processes, Operations. (SAP framing; hub 'complete guide' pakai 5 dimensi yang sama. SME verifikasi penamaan resmi terkini.)",
+    "data_dimension_pillars": "Governance, Strategy, Quality, Volume efficiency/Tiering (hot/warm/cold), Protection. Alat: SAP Information Lifecycle Management (ILM), Data Volume Management (DVM), archiving. (SME verifikasi.)",
+    "extensibility_levels": "Model Level A-D (2025) menggantikan model 3-tier lama. A = ABAP Cloud/SAP Build pakai released public API; B = classic API (BAPI/IDoc/RFC); C = objek internal/unreleased; D = modifikasi & implicit enhancement. (SME verifikasi definisi tiap level via SAP ICC/help.sap.com.)",
+    "deployment_editions": "Public Edition (GROW): clean core praktis DIPAKSA sistem, hanya key-user + developer + side-by-side extensibility, TANPA classic ABAP/modifikasi core. Private Edition (RISE) & on-premise: classic ABAP (Level C/D) masih mungkin tapi tidak disarankan, clean core = rekomendasi bukan paksaan. (SME verifikasi batasan per edisi terkini.)",
+    "cloud_alm_kpis": "Dashboard Clean Core Extensibility KPIs di RISE with SAP / SAP Cloud ALM: Technical Debt Score, Execution of Customer Objects, Business Modifications, Unused Customer Objects, Clean Core Share, Custom Code inventory (tren 3 bulan). Alat pendukung: ABAP Test Cockpit (ATC), SAP Readiness Check, SAP Custom Code Migration app. (SME verifikasi nama KPI + ketersediaan.)",
+    "addons": "SAP ICC (SAP Integration and Certification Center) menyertifikasi solusi partner mengikuti clean core (Level A-C). Add-on ABAP Cloud native untuk Public Edition upgrade-safe + fulfilment via SAP Store. On-stack vs side-by-side (BTP) add-on. (SME verifikasi program sertifikasi + istilah 'SAP Certified' terkini.)",
+    "governance": "Governance 'with teeth': tiap request kustomisasi lewat review formal 3 pertanyaan (bisa via konfigurasi standar? bisa via ekstensi BTP? benar-benar wajib?). Guardrail teknis: ABAP Cloud (hanya released API) sebagai model dev baru; custom-code register; approval workflow; quality gate. Prinsip 'get clean, stay clean'. (SME verifikasi.)",
+    "ecc_deadline": "SAP ECC mainstream maintenance berakhir 2027, extended maintenance 2030. (SME konfirmasi ke SAP official — pernah bergeser historis.)",
+    "soltius_framing": "Soltius = SAP Platinum Partner via United VARs, Metrodata Group sejak 1998. Implements/migrates/supports SAP - NEVER builds. Anchor: Implementation + Enhancement + ERP Strategy + AMS pasca go-live. Max 2-3 self-mentions."
+  },
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      {"slug": "apa-itu-clean-core-sap", "angle": "apa-itu-clean-core-kesiapan-cloud", "intent": "informational", "angle_hash": "sha1:e1aa99030012", "batch": "2026-06 (committed)"},
+      {"slug": "remediasi-custom-code-sap-clean-core", "angle": "remediasi-custom-code-abap-cloud", "intent": "how-to", "angle_hash": "sha1:78536fffc72b", "batch": "2026-06 (committed)"},
+      {"slug": "sap-clean-core-maturity-assessment", "angle": "clean-core-maturity-assessment-kerangka", "intent": "decision", "angle_hash": "sha1:4fd550c8c78b", "batch": "2026-06 (committed)"},
+      {"slug": "side-by-side-extensibility-sap-btp-clean-core", "angle": "side-by-side-extensibility-sap-btp-build", "intent": "informational", "angle_hash": "sha1:84fecc2e4a43", "batch": "2026-06 (committed)"},
+      {"slug": "clean-core-sap-brownfield-vs-greenfield", "angle": "clean-core-brownfield-vs-greenfield-migrasi", "intent": "comparison", "angle_hash": "sha1:40a25e669e97", "batch": "2026-06 (committed)"},
+      {"slug": "sap-clean-core-fondasi-ai-joule-s4hana", "angle": "clean-core-fondasi-ai-joule-business-ai", "intent": "informational", "angle_hash": "sha1:81f9f680faa3", "batch": "2026-08 (committed)"},
+      {"slug": "integrasi-clean-core-sap-api-first", "angle": "clean-core-integrasi-api-first-integration-suite", "intent": "how-to", "angle_hash": "sha1:ca6958549495", "batch": "2026-08 (committed)"},
+      {"slug": "clean-core-kustomisasi-sap-tanpa-coding-key-user", "angle": "in-app-key-user-extensibility-pengguna-bisnis", "intent": "informational", "angle_hash": "sha1:d1d16ec56458", "batch": "2026-08 (committed)"},
+      {"slug": "memilih-partner-sap-clean-core", "angle": "memilih-partner-si-clean-core", "intent": "decision", "angle_hash": "sha1:afe2478d12ae", "batch": "2026-08 (committed)"},
+      {"slug": "sap-clean-core-business-case-roi-direksi", "angle": "business-case-roi-direksi", "intent": "decision", "angle_hash": "n/a (uncommitted)", "batch": "2026-07-2 (final, NOT committed)"},
+      {"slug": "sap-clean-core-industri-teregulasi", "angle": "clean-core-industri-teregulasi-compliance", "intent": "informational", "angle_hash": "n/a (uncommitted)", "batch": "2026-07-2 (final, NOT committed)"},
+      {"slug": "sap-clean-core-fit-to-standard-budaya", "angle": "fit-to-standard-resistensi-budaya", "intent": "informational", "angle_hash": "n/a (uncommitted)", "batch": "2026-07-2 (final, NOT committed)"},
+      {"slug": "cara-membangun-sap-clean-core-center-of-excellence", "angle": "clean-core-center-of-excellence-tim", "intent": "how-to", "angle_hash": "n/a (uncommitted)", "batch": "2026-07-2 (final, NOT committed)"},
+      {"slug": "sap-clean-core-ekstensi-upgrade-safe", "angle": "ekstensi-upgrade-safe-level-a-d", "intent": "how-to", "angle_hash": "n/a (uncommitted)", "batch": "2026-07-2 (final, NOT committed)"}
+    ],
+    "covered_subtopics_master": [
+      "definisi clean core + kesiapan cloud", "remediasi custom code / Z-code / ATC", "maturity model 5 dimensi + self-assessment scoring", "side-by-side extensibility BTP / SAP Build", "brownfield vs greenfield vs SDT", "clean core sebagai fondasi AI/Joule", "integrasi API-first / Integration Suite / event-driven", "in-app / key-user extensibility no-code", "memilih partner SI (7 pertanyaan)", "business case / ROI / TCO untuk direksi", "industri teregulasi / compliance-driven customization", "fit-to-standard / resistensi budaya / change mgmt", "Center of Excellence / tim internal / peran", "ekstensi upgrade-safe / klasifikasi level A-D / release cadence"
+    ],
+    "uncovered_angles_selected_for_august": [
+      "01 Dimensi DATA clean core (archiving/ILM/DVM/master data/tiering) - deep-dive praktis; hub hanya ikhtisar, TIDAK ada artikel cluster untuk data",
+      "02 Add-on pihak ketiga / ISV / SAP Store & sertifikasi ICC (Level A-D) - TIDAK dibahas hub maupun cluster",
+      "03 Clean core lintas opsi deployment: Public vs Private vs On-Premise (aturan/enforcement berbeda) - berbeda dari brownfield/greenfield (jalur migrasi) & apa-itu (kesiapan cloud)",
+      "04 Memantau kesehatan clean core: KPI + SAP Cloud ALM (Technical Debt Score, Clean Core Share) - operasi/pengukuran berkelanjutan, beda dari maturity-assessment satu-kali",
+      "05 Tata kelola 'stay clean': guardrails, approval workflow, custom-code register - proses/kebijakan, beda dari CoE (struktur tim) & memilih-partner"
+    ],
+    "left_for_future": [
+      "Clean core & security/authorization concept (belum jelas sebagai dimensi resmi - hati-hati)",
+      "Clean core & DevOps/CI-CD transport automation mendalam (Operations dimension teknis)",
+      "Migrasi objek tanpa released API (troubleshooting mendalam remediasi lanjutan)",
+      "Clean core untuk two-tier ERP HQ-subsidiary"
+    ]
+  }
+}

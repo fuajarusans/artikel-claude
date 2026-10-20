@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-10\\final\\loyalty-program-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-10-08T17:35:13+07:00",
+    "word_count":  1216,
+    "paragraph_count":  20,
+    "sentence_count":  72,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.339,
+                        "sentence_burstiness":  0.835,
+                        "top30_vocab_share":  0.313,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.339 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Dalam [\"Zero Defections: Quality Comes to Services\"](https://hbr.org/1990/09/zero-defections-quality-comes-to-services) (Reichheld \u0026 Sasser, HBR, September 1990), menaikkan retensi pelanggan sebesar 5% dikaitkan dengan kenaikan profit sekitar 25% hingga 85%.",
+                                      "candidate_score":  32,
+                                      "web_search_query":  "\"Dalam [ Zero Defections: Quality Comes to Services ](https://hbr.org/1990/09/zero-defections-quality-comes-to-services) \""
+                                  },
+                                  {
+                                      "passage":  "Sebagai gambaran permintaan, satu laporan riset pasar (ResearchAndMarkets, September 2025) memproyeksikan nilai pasar loyalitas Indonesia sekitar US$1,03 miliar pada 2025, tumbuh kira-kira 18,3% per tahun.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"Sebagai gambaran permintaan, satu laporan riset pasar (ResearchAndMarkets, September 2025) memproyeksikan nilai pasar lo\""
+                                  },
+                                  {
+                                      "passage":  "Probabilitas menjual ke pelanggan lama kerap diperkirakan 60–70%, dibanding sekitar 5–20% ke prospek baru, meski keduanya estimasi industri, bukan angka mutlak.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Probabilitas menjual ke pelanggan lama kerap diperkirakan 60–70%, dibanding sekitar 5–20% ke prospek baru, meski keduany\""
+                                  },
+                                  {
+                                      "passage":  "Beberapa yang aktif: OVO Points pada dompet digital, sistem tier plus Shopee Coins di marketplace, AlfaGift milik Alfamart, dan Gojek PLUS yang berbentuk langganan sejak 2024.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Beberapa yang aktif: OVO Points pada dompet digital, sistem tier plus Shopee Coins di marketplace, AlfaGift milik Alfama\""
+                                  },
+                                  {
+                                      "passage":  "Angka yang sering dikutip menyebut biaya mengakuisisi pelanggan baru sekitar lima kali biaya mempertahankan pelanggan lama, meski estimasi industri melebar ke kisaran 5–25 kali tergantung sektor.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Angka yang sering dikutip menyebut biaya mengakuisisi pelanggan baru sekitar lima kali biaya mempertahankan pelanggan la\""
+                                  },
+                                  {
+                                      "passage":  "# Apa Itu Loyalty Program dan Strateginya untuk Retensi Pelanggan Pelanggan datang sekali karena promo, lalu tidak pernah kembali.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"# Apa Itu Loyalty Program dan Strateginya untuk Retensi Pelanggan Pelanggan datang sekali karena promo, lalu tidak perna\""
+                                  },
+                                  {
+                                      "passage":  "**Ukur dan iterasi.** Pantau retention rate, CLV, serta pendapatan anggota dibanding non-anggota.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"**Ukur dan iterasi.** Pantau retention rate, CLV, serta pendapatan anggota dibanding non-anggota.\""
+                                  },
+                                  {
+                                      "passage":  "## Jenis Loyalty Program dan Kapan Cocok Dipakai Tidak ada satu model yang cocok untuk semua bisnis.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Jenis Loyalty Program dan Kapan Cocok Dipakai Tidak ada satu model yang cocok untuk semua bisnis.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

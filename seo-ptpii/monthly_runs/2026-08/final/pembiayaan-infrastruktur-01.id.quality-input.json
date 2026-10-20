@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-ptpii\\monthly_runs\\2026-08\\final\\pembiayaan-infrastruktur-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-12T15:51:12+07:00",
+    "word_count":  1854,
+    "paragraph_count":  28,
+    "sentence_count":  90,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.426,
+                        "sentence_burstiness":  0.817,
+                        "top30_vocab_share":  0.298,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.426 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Angka Rp 47.587,3 triliun beredar bersama komposisi 86,65 persen swasta, 7,22 persen pemerintah, dan 6,13 persen BUMN, sebagaimana dilaporkan ANTARA pada 19 Desember 2024 mengutip Bappenas.",
+                                      "candidate_score":  39,
+                                      "web_search_query":  "\"Angka Rp 47.587,3 triliun beredar bersama komposisi 86,65 persen swasta, 7,22 persen pemerintah, dan 6,13 persen BUMN, s\""
+                                  },
+                                  {
+                                      "passage":  "Pada proyek kerja sama, sekitar 70 sampai 80 persen biaya proyek lazim berasal dari utang ([Kantor Bersama KPBU, Kementerian Keuangan](https://kpbu.kemenkeu.go.id), 2026).",
+                                      "candidate_score":  27,
+                                      "web_search_query":  "\"Pada proyek kerja sama, sekitar 70 sampai 80 persen biaya proyek lazim berasal dari utang ([Kantor Bersama KPBU, Kemente\""
+                                  },
+                                  {
+                                      "passage":  "- **PT Indonesia Infrastructure Finance (PT IIF)**, berdiri Agustus 2010 dan diawasi OJK: membiayai serta mengelola investasi infrastruktur.",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"- **PT Indonesia Infrastructure Finance (PT IIF)**, berdiri Agustus 2010 dan diawasi OJK: membiayai serta mengelola inve\""
+                                  },
+                                  {
+                                      "passage":  "Per Desember 2025, IIF melaporkan komitmen investasi kumulatif Rp 12,82 triliun ([iif.co.id](https://iif.co.id), diakses 2026).",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Per Desember 2025, IIF melaporkan komitmen investasi kumulatif Rp 12,82 triliun ([iif.co.id](https://iif.co.id), diakses\""
+                                  },
+                                  {
+                                      "passage":  "Pada RPJMN 2025–2029, anggaran pemerintah dilaporkan hanya menutup sekitar 40 persen kebutuhan.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Pada RPJMN 2025–2029, anggaran pemerintah dilaporkan hanya menutup sekitar 40 persen kebutuhan.\""
+                                  },
+                                  {
+                                      "passage":  "Beberapa laporan menyebut sekitar USD 625,37 miliar, setara Rp 10.146 hingga Rp 10.303 triliun tergantung asumsi kurs, dengan APBN dan APBD diperkirakan menutup sekitar 40 persen.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Beberapa laporan menyebut sekitar USD 625,37 miliar, setara Rp 10.146 hingga Rp 10.303 triliun tergantung asumsi kurs, d\""
+                                  },
+                                  {
+                                      "passage":  "Angka ini berbeda dari kebutuhan investasi seluruh sektor perekonomian untuk target pertumbuhan 8 persen, yang dilaporkan Rp 47.587,3 triliun (ANTARA, 19 Desember 2024).",
+                                      "candidate_score":  17,
+                                      "web_search_query":  "\"Angka ini berbeda dari kebutuhan investasi seluruh sektor perekonomian untuk target pertumbuhan 8 persen, yang dilaporka\""
+                                  },
+                                  {
+                                      "passage":  "**Dukungan kelayakan (*Viability Gap Fund*).** Kontribusi tunai atas sebagian biaya konstruksi, untuk proyek yang manfaat ekonominya tinggi tetapi arus kasnya tipis.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"**Dukungan kelayakan (*Viability Gap Fund*).** Kontribusi tunai atas sebagian biaya konstruksi, untuk proyek yang manfaa\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

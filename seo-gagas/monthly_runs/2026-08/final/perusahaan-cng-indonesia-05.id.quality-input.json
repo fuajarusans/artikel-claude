@@ -1,0 +1,81 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-08\\final\\perusahaan-cng-indonesia-05.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-11T14:33:49+07:00",
+    "word_count":  1594,
+    "paragraph_count":  26,
+    "sentence_count":  93,
+    "ai_detector":  {
+                        "score":  0.08,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.419,
+                        "sentence_burstiness":  0.629,
+                        "top30_vocab_share":  0.375,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.419 (target \u003e=0.45)",
+                                          "line":  -1
+                                      },
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 37.5% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "[POJK 51/POJK.03/2017](https://ojk.go.id/id/kanal/perbankan/regulasi/peraturan-ojk/Pages/POJK-Penerapan-Keuangan-Berkelanjutan-bagi-Lembaga-Jasa-Keuangan,-Emiten,-dan-Perusahaan-Publik.aspx) mewajibkan Lembaga Jasa Keuangan, Emiten, dan Perusahaan Publik menyusun Laporan Keberlanjutan tahunan.",
+                                      "candidate_score":  35,
+                                      "web_search_query":  "\"[POJK 51/POJK.03/2017](https://ojk.go.id/id/kanal/perbankan/regulasi/peraturan-ojk/Pages/POJK-Penerapan-Keuangan-Berkela\""
+                                  },
+                                  {
+                                      "passage":  "Standar pelaporan GRI 305 mewajibkan pengungkapan ketiganya (305-1, 305-2, 305-3) dan merujuk langsung ke GHG Protocol.",
+                                      "candidate_score":  27,
+                                      "web_search_query":  "\"Standar pelaporan GRI 305 mewajibkan pengungkapan ketiganya (305-1, 305-2, 305-3) dan merujuk langsung ke GHG Protocol.\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apa itu emisi Scope 1, Scope 2, dan Scope 3?",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apa itu emisi Scope 1, Scope 2, dan Scope 3?\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai gambaran arah saja, data US Energy Information Administration (EIA) menunjukkan intensitas karbon gas bumi sekitar 53 kg CO2/MMBtu dibanding sekitar 100 kg CO2/MMBtu untuk batu bara.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Sebagai gambaran arah saja, data US Energy Information Administration (EIA) menunjukkan intensitas karbon gas bumi sekit\""
+                                  },
+                                  {
+                                      "passage":  "Skenario nol emisi bersih IEA bahkan menuntut emisi metana operasi bahan bakar fosil turun sekitar 75% pada 2030 dibanding 2023.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Skenario nol emisi bersih IEA bahkan menuntut emisi metana operasi bahan bakar fosil turun sekitar 75% pada 2030 dibandi\""
+                                  },
+                                  {
+                                      "passage":  "## Scope 1, 2, dan 3: Di Mana Posisi Bahan Bakar Anda?",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"## Scope 1, 2, dan 3: Di Mana Posisi Bahan Bakar Anda?\""
+                                  },
+                                  {
+                                      "passage":  "# Data ESG dari Pasokan CNG: Bukti Emisi untuk Laporan Anda Tim keberlanjutan Anda sudah beralih dari solar ke gas bumi, dan di atas kertas emisinya turun.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"# Data ESG dari Pasokan CNG: Bukti Emisi untuk Laporan Anda Tim keberlanjutan Anda sudah beralih dari solar ke gas bumi,\""
+                                  },
+                                  {
+                                      "passage":  "Menurut GHG Protocol, Scope 1 dihitung dari data aktivitas (volume bahan bakar) dikalikan faktor emisi resmi, bukan estimasi kualitatif.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Menurut GHG Protocol, Scope 1 dihitung dari data aktivitas (volume bahan bakar) dikalikan faktor emisi resmi, bukan esti\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

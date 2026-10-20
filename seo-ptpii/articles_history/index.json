@@ -1,0 +1,509 @@
+{
+  "schema_version": "2.0",
+  "client": "PT PII",
+  "client_full_name": "PT Penjaminan Infrastruktur Indonesia (Persero)",
+  "domain": "https://www.ptpii.co.id/",
+  "language": "id",
+  "note": "Default language is id. Individual keywords may be routed to en via the language field in monthly_runs/<YYYY-MM>/keywords.md; those articles record language: en on their entry.",
+  "last_updated": "2026-08-12T00:00:00",
+  "articles": [
+    {
+      "id": "2026-08-kpbu-01",
+      "month": "2026-08",
+      "keyword": "KPBU",
+      "keyword_slug": "kpbu",
+      "title": "KPBU: Tahapan Proyek dari Perencanaan hingga Akhir Perjanjian",
+      "slug": "kpbu-tahapan-proyek-hingga-akhir-perjanjian",
+      "angle": "tahapan-kpbu-aturan-terkini-2023",
+      "angle_hash": "sha1:f1ed4937b4e3",
+      "search_intent": "informational",
+      "subtopics": ["tahapan proyek KPBU", "perencanaan", "penyiapan", "transaksi", "konstruksi", "operasi", "aturan 2023", "Permen 7/2023"],
+      "language": "id",
+      "ptpii_mentions": ["tahapan dan proses KPBU (teach)", "Penjaminan Pemerintah untuk proyek KPBU (anchor)"],
+      "internal_links": [
+        "https://www.ptpii.co.id/kpbu",
+        "https://www.ptpii.co.id/public-private-partnership",
+        "https://www.ptpii.co.id/pembiayaan-kreatif"
+      ],
+      "external_citations": [
+        "https://jdih.kemenkeu.go.id/dok/perpres-38-tahun-2015",
+        "https://peraturan.go.id/id/permen-ppn-bappenas-no-9-tahun-2025",
+        "https://kpbu.kemenkeu.go.id/read/1094-1255/pjpk/dukungan-pemerintah/fasilitas-penyiapan-proyek"
+      ],
+      "word_count": 1783,
+      "status": "editor-approved",
+      "paths": {
+        "md": "monthly_runs/2026-08/final/kpbu-01.id.md",
+        "docx": "monthly_runs/2026-08/final/kpbu-01.id.docx",
+        "qc": "monthly_runs/2026-08/final/kpbu-01.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-kpbu-02",
+      "month": "2026-08",
+      "keyword": "KPBU",
+      "keyword_slug": "kpbu",
+      "title": "KPBU atau APBN? Cara Menentukan Skema yang Tepat untuk Proyek",
+      "slug": "kpbu-atau-apbn-value-for-money",
+      "angle": "kpbu-vs-apbn-value-for-money-decision",
+      "angle_hash": "sha1:eda749ba234e",
+      "search_intent": "comparison",
+      "subtopics": ["Value for Money", "keputusan skema", "biaya transaksi", "Availability Payment", "user charge", "VGF"],
+      "language": "id",
+      "ptpii_mentions": ["Value for Money dan keputusan skema (teach)", "Penjaminan Pemerintah dalam VfM (anchor)"],
+      "internal_links": [
+        "https://www.ptpii.co.id/kpbu",
+        "https://www.ptpii.co.id/public-private-partnership",
+        "https://www.ptpii.co.id/pembiayaan-kreatif"
+      ],
+      "external_citations": [
+        "https://kpbu.kemenkeu.go.id/read/1092-1254/pjpk/guideline-dan-toolkit/panduan-value-for-money",
+        "https://simpulkpbu.pu.go.id/pages/panduan-investasi/skema-pengembalian",
+        "https://jdih.kemenkeu.go.id/dok/pmk-68-tahun-2024"
+      ],
+      "word_count": 1774,
+      "status": "editor-approved",
+      "paths": {
+        "md": "monthly_runs/2026-08/final/kpbu-02.id.md",
+        "docx": "monthly_runs/2026-08/final/kpbu-02.id.docx",
+        "qc": "monthly_runs/2026-08/final/kpbu-02.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-kpbu-03",
+      "month": "2026-08",
+      "keyword": "KPBU",
+      "keyword_slug": "kpbu",
+      "title": "KPBU dan Pembagian Risiko: Siapa Menanggung Apa dalam Kontrak",
+      "slug": "kpbu-pembagian-risiko-siapa-menanggung-apa",
+      "angle": "alokasi-risiko-kpbu-siapa-menanggung-apa",
+      "angle_hash": "sha1:34e7841efec8",
+      "search_intent": "informational",
+      "subtopics": ["alokasi risiko", "pembagian risiko", "kategori risiko", "risiko lahan", "risiko konstruksi", "risiko permintaan", "risiko politik", "force majeure"],
+      "language": "id",
+      "ptpii_mentions": ["alokasi risiko dalam KPBU (teach)", "Penjaminan Pemerintah sebagai mitigasi risiko (anchor)"],
+      "internal_links": [
+        "https://www.ptpii.co.id/kpbu",
+        "https://www.ptpii.co.id/public-private-partnership",
+        "https://www.ptpii.co.id/pembiayaan-kreatif"
+      ],
+      "external_citations": [
+        "https://simpulkpbu.pu.go.id/pages/risiko/kategori-risiko",
+        "https://kpbu.kemenkeu.go.id/read/23-228/umum/tentang-kpbu/kpbu-bukan-privatisasi-swastanisasi",
+        "https://ppp.worldbank.org/public-private-partnership/translating-risk-allocation-contract-structure"
+      ],
+      "word_count": 1724,
+      "status": "editor-approved",
+      "paths": {
+        "md": "monthly_runs/2026-08/final/kpbu-03.id.md",
+        "docx": "monthly_runs/2026-08/final/kpbu-03.id.docx",
+        "qc": "monthly_runs/2026-08/final/kpbu-03.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-public-private-partnership-01",
+      "month": "2026-08",
+      "keyword": "public private partnership",
+      "keyword_slug": "public-private-partnership",
+      "title": "Risk Allocation in Indonesia's Public Private Partnership: Who Carries What",
+      "slug": "public-private-partnership-risk-allocation-indonesia",
+      "angle": "ppp-risk-allocation-what-the-government-guarantee-covers",
+      "angle_hash": "sha1:58441d1903b8",
+      "search_intent": "informational",
+      "subtopics": ["risk allocation", "risk matrix", "government guarantee", "commercial risks", "contingent liability", "PJPK", "contract assignment"],
+      "language": "en",
+      "ptpii_mentions": ["PPP risk allocation framework (teach)", "Government guarantee as risk transfer mechanism (anchor)"],
+      "internal_links": [
+        "https://www.ptpii.co.id/public-private-partnership",
+        "https://www.ptpii.co.id/kpbu",
+        "https://www.ptpii.co.id/pembiayaan-kreatif"
+      ],
+      "external_citations": [
+        "https://jdih.kemenkeu.go.id/dok/pmk-68-tahun-2024",
+        "https://ppp.worldbank.org/allocating-risks",
+        "https://pppmonitor.adb.org/country/indonesia/national-ppp-landscape",
+        "https://www.petromindo.com/news/article/fitch-affirms-penjaminan-infrastruktur-indonesia-at-bbb-aaa-idn-outlook-stable"
+      ],
+      "word_count": 1789,
+      "status": "editor-approved",
+      "paths": {
+        "md": "monthly_runs/2026-08/final/public-private-partnership-01.en.md",
+        "docx": "monthly_runs/2026-08/final/public-private-partnership-01.en.docx",
+        "qc": "monthly_runs/2026-08/final/public-private-partnership-01.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-public-private-partnership-02",
+      "month": "2026-08",
+      "keyword": "public private partnership",
+      "keyword_slug": "public-private-partnership",
+      "title": "Public Private Partnership Bankability: Reaching Financial Close in Indonesia",
+      "slug": "public-private-partnership-financial-close",
+      "angle": "ppp-bankability-road-to-financial-close-lender-view",
+      "angle_hash": "sha1:e52cb49a35b4",
+      "search_intent": "how-to",
+      "subtopics": ["bankability", "financial close", "project finance", "lender due diligence", "availability payment", "Viability Gap Fund", "conditions precedent", "step-in rights"],
+      "language": "en",
+      "ptpii_mentions": ["PPP bankability criteria (teach)", "Government guarantee rating affirmation (anchor)"],
+      "internal_links": [
+        "https://www.ptpii.co.id/public-private-partnership",
+        "https://www.ptpii.co.id/kpbu",
+        "https://www.ptpii.co.id/pembiayaan-kreatif"
+      ],
+      "external_citations": [
+        "https://jdih.kemenkeu.go.id/dok/pmk-68-tahun-2024",
+        "https://peraturan.go.id/id/perpres-no-38-tahun-2015",
+        "https://www.petromindo.com/news/article/fitch-affirms-penjaminan-infrastruktur-indonesia-at-bbb-aaa-idn-outlook-stable",
+        "https://pppmonitor.adb.org/country/indonesia/national-ppp-landscape",
+        "https://ekon.go.id/publikasi/detail/2202/spam-umbulan-capai-financial-close-dalam-6-bulan"
+      ],
+      "word_count": 1775,
+      "status": "editor-approved",
+      "paths": {
+        "md": "monthly_runs/2026-08/final/public-private-partnership-02.en.md",
+        "docx": "monthly_runs/2026-08/final/public-private-partnership-02.en.docx",
+        "qc": "monthly_runs/2026-08/final/public-private-partnership-02.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-public-private-partnership-03",
+      "month": "2026-08",
+      "keyword": "public private partnership",
+      "keyword_slug": "public-private-partnership",
+      "title": "Public Private Partnership Guarantees: Indonesia's Cover vs MIGA and MDBs",
+      "slug": "public-private-partnership-guarantees-compared",
+      "angle": "indonesia-ppp-guarantee-vs-miga-mdb-risk-instruments",
+      "angle_hash": "sha1:b375e0c64ef7",
+      "search_intent": "comparison",
+      "subtopics": ["PPP guarantee", "MIGA insurance", "partial risk guarantee", "credit enhancement", "political risk cover", "export credit agency", "guarantee stacking", "co-guarantee"],
+      "language": "en",
+      "ptpii_mentions": ["Infrastructure guarantee instruments and comparators (teach)", "Indonesia's government guarantee positioning vs MIGA (anchor)"],
+      "internal_links": [
+        "https://www.ptpii.co.id/public-private-partnership",
+        "https://www.ptpii.co.id/kpbu",
+        "https://www.ptpii.co.id/pembiayaan-kreatif"
+      ],
+      "external_citations": [
+        "https://www.miga.org/political-risk-insurance",
+        "https://www.worldbank.org/en/about/unit/brief/guarantees-platform",
+        "https://www.adb.org/what-we-do/private-sector-financing/guarantees",
+        "https://jdih.kemenkeu.go.id/dok/pmk-68-tahun-2024"
+      ],
+      "word_count": 1750,
+      "status": "editor-approved",
+      "paths": {
+        "md": "monthly_runs/2026-08/final/public-private-partnership-03.en.md",
+        "docx": "monthly_runs/2026-08/final/public-private-partnership-03.en.docx",
+        "qc": "monthly_runs/2026-08/final/public-private-partnership-03.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-jaminan-pemerintah-01",
+      "month": "2026-08",
+      "keyword": "Jaminan Pemerintah",
+      "keyword_slug": "jaminan-pemerintah",
+      "title": "Jaminan Pemerintah Proyek KPBU: Apa yang Dijamin dan Tidak",
+      "slug": "jaminan-pemerintah-proyek-kpbu-yang-dijamin",
+      "angle": "batas-cakupan-jaminan-per-tahap",
+      "angle_hash": "sha1:f170fa7e6eba",
+      "search_intent": "informational",
+      "subtopics": ["jaminan pemerintah", "kewajiban finansial", "tahap proyek", "coverage scope", "PJPK", "BUPI", "bankability"],
+      "language": "id",
+      "ptpii_mentions": ["Jaminan pemerintah coverage dan batas cakupannya (teach)", "PT PII sebagai penerbit Penjaminan Pemerintah (anchor)"],
+      "internal_links": [
+        "https://www.ptpii.co.id/kpbu",
+        "https://www.ptpii.co.id/public-private-partnership",
+        "https://www.ptpii.co.id/pembiayaan-kreatif"
+      ],
+      "external_citations": [
+        "https://kpbu.kemenkeu.go.id/read/64-64/pjpk/dukungan-pemerintah/penjaminan-infrastruktur",
+        "https://jdih.kemenkeu.go.id/dok/pmk-68-tahun-2024/overview",
+        "https://simpulkpbu.pu.go.id/pages/risiko/kategori-risiko"
+      ],
+      "word_count": 1640,
+      "status": "editor-approved",
+      "paths": {
+        "md": "monthly_runs/2026-08/final/jaminan-pemerintah-01.id.md",
+        "docx": "monthly_runs/2026-08/final/jaminan-pemerintah-01.id.docx",
+        "qc": "monthly_runs/2026-08/final/jaminan-pemerintah-01.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-jaminan-pemerintah-02",
+      "month": "2026-08",
+      "keyword": "Jaminan Pemerintah",
+      "keyword_slug": "jaminan-pemerintah",
+      "title": "Jaminan Pemerintah vs Dukungan Pemerintah dalam KPBU: Apa Bedanya?",
+      "slug": "jaminan-pemerintah-vs-dukungan-pemerintah-kpbu",
+      "angle": "taksonomi-instrumen-fiskal-kpbu",
+      "angle_hash": "sha1:85004a0cf692",
+      "search_intent": "comparison",
+      "subtopics": ["jaminan pemerintah", "Dukungan Kelayakan VGF", "Availability Payment", "kewajiban kontinjensi", "subsidi vs jaminan", "PMK 68/2024"],
+      "language": "id",
+      "ptpii_mentions": ["Taksonomi instrumen fiskal pemerintah untuk KPBU (teach)", "Penjaminan Pemerintah vs VGF vs AP (anchor)"],
+      "internal_links": [
+        "https://www.ptpii.co.id/kpbu",
+        "https://www.ptpii.co.id/pembiayaan-kreatif",
+        "https://www.ptpii.co.id/public-private-partnership"
+      ],
+      "external_citations": [
+        "https://kpbu.kemenkeu.go.id/read/64-64/pjpk/dukungan-pemerintah/penjaminan-infrastruktur",
+        "https://jdih.kemenkeu.go.id/dok/pmk-68-tahun-2024",
+        "https://www.djkn.kemenkeu.go.id/artikel/baca/11077/Peran-PT-Penjaminan-Infrastruktur-Indonesia-Persero-Dalam-Meminimalisasi-Risiko-Fiskal-atas-Kewajiban-Kontinjensi-Pemerintah-Indonesia-yang-Timbul-dari-Proyek-Infrastruktur.html"
+      ],
+      "word_count": 1740,
+      "status": "editor-approved",
+      "paths": {
+        "md": "monthly_runs/2026-08/final/jaminan-pemerintah-02.id.md",
+        "docx": "monthly_runs/2026-08/final/jaminan-pemerintah-02.id.docx",
+        "qc": "monthly_runs/2026-08/final/jaminan-pemerintah-02.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-jaminan-pemerintah-03",
+      "month": "2026-08",
+      "keyword": "Jaminan Pemerintah",
+      "keyword_slug": "jaminan-pemerintah",
+      "title": "Klaim Jaminan Pemerintah di Proyek KPBU: Bagaimana Hak Regres Bekerja",
+      "slug": "jaminan-pemerintah-hak-regres-klaim-kpbu",
+      "angle": "mekanika-klaim-dan-hak-regres",
+      "angle_hash": "sha1:54fcfbce06b6",
+      "search_intent": "troubleshooting",
+      "subtopics": ["klaim penjaminan", "hak regres", "perjanjian regres", "alur pembayaran", "kewajiban kontinjensi", "ring-fence APBN", "single window penjaminan"],
+      "language": "id",
+      "ptpii_mentions": ["Mekanika klaim dan hak regres dalam penjaminan (teach)", "Penjaminan Pemerintah sebagai instrumen ring-fence APBN (anchor)"],
+      "internal_links": [
+        "https://www.ptpii.co.id/kpbu",
+        "https://www.ptpii.co.id/pembiayaan-kreatif",
+        "https://www.ptpii.co.id/public-private-partnership"
+      ],
+      "external_citations": [
+        "https://kpbu.kemenkeu.go.id/read/64-64/pjpk/dukungan-pemerintah/penjaminan-infrastruktur",
+        "https://peraturan.go.id/id/perpres-no-78-tahun-2010",
+        "https://jdih.kemenkeu.go.id/dok/pmk-68-tahun-2024",
+        "https://kpbu.kemenkeu.go.id/berita/read/1632"
+      ],
+      "word_count": 1633,
+      "status": "editor-approved",
+      "paths": {
+        "md": "monthly_runs/2026-08/final/jaminan-pemerintah-03.id.md",
+        "docx": "monthly_runs/2026-08/final/jaminan-pemerintah-03.id.docx",
+        "qc": "monthly_runs/2026-08/final/jaminan-pemerintah-03.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-pembiayaan-kreatif-01",
+      "month": "2026-08",
+      "keyword": "Pembiayaan Kreatif",
+      "keyword_slug": "pembiayaan-kreatif",
+      "title": "Pembiayaan Kreatif Daerah: Peta 6 Instrumen di Luar APBD",
+      "slug": "pembiayaan-kreatif-daerah-instrumen-di-luar-apbd",
+      "angle": "peta-instrumen-pembiayaan-kreatif-daerah",
+      "angle_hash": "sha1:6cbfaaa8c12b",
+      "search_intent": "informational",
+      "subtopics": ["pembiayaan kreatif", "instrumen pendanaan", "KPBU daerah", "pinjaman daerah", "obligasi daerah", "Land Value Capture", "dana abadi daerah"],
+      "language": "id",
+      "ptpii_mentions": ["Peta enam instrumen pembiayaan kreatif daerah (teach)", "Pembiayaan Kreatif sebagai solusi keterbatasan APBD (anchor)"],
+      "internal_links": [
+        "https://www.ptpii.co.id/pembiayaan-kreatif",
+        "https://www.ptpii.co.id/kpbu",
+        "https://www.ptpii.co.id/public-private-partnership"
+      ],
+      "external_citations": [
+        "https://peraturan.go.id/id/uu-no-1-tahun-2022",
+        "https://ojk.go.id/id/regulasi/Pages/Penerbitan-dan-Pelaporan-Obligasi-Daerah-dan-Sukuk-Daerah.aspx",
+        "https://djpk.kemenkeu.go.id/?p=76326"
+      ],
+      "word_count": 1767,
+      "status": "editor-approved",
+      "paths": {
+        "md": "monthly_runs/2026-08/final/pembiayaan-kreatif-01.id.md",
+        "docx": "monthly_runs/2026-08/final/pembiayaan-kreatif-01.id.docx",
+        "qc": "monthly_runs/2026-08/final/pembiayaan-kreatif-01.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-pembiayaan-kreatif-02",
+      "month": "2026-08",
+      "keyword": "Pembiayaan Kreatif",
+      "keyword_slug": "pembiayaan-kreatif",
+      "title": "Pembiayaan Kreatif: Checklist Kesiapan Pemda Sebelum Mulai",
+      "slug": "pembiayaan-kreatif-checklist-kesiapan-pemda",
+      "angle": "checklist-kesiapan-pemda-pembiayaan-kreatif",
+      "angle_hash": "sha1:3632367ae280",
+      "search_intent": "decision",
+      "subtopics": ["kesiapan pemerintah daerah", "syarat proyek KPBU", "prastudi kelayakan", "PJPK", "Tim KPBU", "Availability Payment", "kapasitas fiskal"],
+      "language": "id",
+      "ptpii_mentions": ["Delapan prasyarat kesiapan pemda untuk pembiayaan kreatif (teach)", "Pembiayaan Kreatif sebagai instrumen yang memerlukan kesiapan teknis (anchor)"],
+      "internal_links": [
+        "https://www.ptpii.co.id/pembiayaan-kreatif",
+        "https://www.ptpii.co.id/kpbu",
+        "https://www.ptpii.co.id/public-private-partnership"
+      ],
+      "external_citations": [
+        "https://kpbu.kemenkeu.go.id/read/16-13/pjpk/persyaratan-proyek",
+        "https://djpk.kemenkeu.go.id/?p=76326",
+        "https://kpbu.kemenkeu.go.id/read/1094-1255/pjpk/dukungan-pemerintah/fasilitas-penyiapan-proyek"
+      ],
+      "word_count": 1771,
+      "status": "editor-approved",
+      "paths": {
+        "md": "monthly_runs/2026-08/final/pembiayaan-kreatif-02.id.md",
+        "docx": "monthly_runs/2026-08/final/pembiayaan-kreatif-02.id.docx",
+        "qc": "monthly_runs/2026-08/final/pembiayaan-kreatif-02.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-pembiayaan-kreatif-03",
+      "month": "2026-08",
+      "keyword": "Pembiayaan Kreatif",
+      "keyword_slug": "pembiayaan-kreatif",
+      "title": "Pembiayaan Kreatif Mandek: 7 Penyebab Proyek Daerah Berhenti Sebelum Lelang",
+      "slug": "pembiayaan-kreatif-mandek-penyebab-proyek-daerah",
+      "angle": "diagnosis-proyek-pembiayaan-kreatif-daerah-mandek",
+      "angle_hash": "sha1:6882efa0dbc9",
+      "search_intent": "troubleshooting",
+      "subtopics": ["proyek mandek", "penyebab kegagalan", "kapasitas teknis pemda", "alokasi risiko", "biaya transaksi", "obligasi daerah", "market sounding"],
+      "language": "id",
+      "ptpii_mentions": ["Diagnosis tujuh penyebab proyek pembiayaan kreatif daerah mandek (teach)", "Pembiayaan Kreatif dan tantangan implementasinya di lapangan (anchor)"],
+      "internal_links": [
+        "https://www.ptpii.co.id/pembiayaan-kreatif",
+        "https://www.ptpii.co.id/kpbu",
+        "https://www.ptpii.co.id/public-private-partnership"
+      ],
+      "external_citations": [
+        "https://djpk.kemenkeu.go.id/?p=76326",
+        "https://www.antaranews.com/berita/4872861/ojk-sebut-belum-ada-pemerintah-daerah-yang-ajukan-izin-obligasi-daerah",
+        "https://pppmonitor.adb.org/country/indonesia/national-ppp-landscape"
+      ],
+      "word_count": 1780,
+      "status": "editor-approved",
+      "paths": {
+        "md": "monthly_runs/2026-08/final/pembiayaan-kreatif-03.id.md",
+        "docx": "monthly_runs/2026-08/final/pembiayaan-kreatif-03.id.docx",
+        "qc": "monthly_runs/2026-08/final/pembiayaan-kreatif-03.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-pembiayaan-infrastruktur-01",
+      "month": "2026-08",
+      "keyword": "Pembiayaan Infrastruktur",
+      "keyword_slug": "pembiayaan-infrastruktur",
+      "title": "Pembiayaan Infrastruktur: Siapa yang Menutup Kekurangan Dana Nasional",
+      "slug": "pembiayaan-infrastruktur-sumber-dana-nasional",
+      "angle": "peta-sumber-dana-dan-funding-gap-nasional",
+      "angle_hash": "sha1:82617d438bac",
+      "search_intent": "informational",
+      "subtopics": ["funding gap", "kebutuhan investasi RPJMN", "sumber pembiayaan", "partisipasi swasta", "BUMN", "lembaga pembiayaan", "penjaminan"],
+      "language": "id",
+      "ptpii_mentions": ["Peta sumber dana infrastruktur nasional dan peran masing-masing (teach)", "Penjaminan Pemerintah sebagai instrumen fiskal di tengah funding gap (anchor)"],
+      "internal_links": [
+        "https://www.ptpii.co.id/pembiayaan-kreatif",
+        "https://www.ptpii.co.id/kpbu",
+        "https://www.ptpii.co.id/public-private-partnership"
+      ],
+      "external_citations": [
+        "https://kpbu.kemenkeu.go.id",
+        "https://www.djkn.kemenkeu.go.id/berita_media/baca/12715/Pendanaan-Infrastruktur.html",
+        "https://iif.co.id"
+      ],
+      "word_count": 1795,
+      "status": "editor-approved",
+      "paths": {
+        "md": "monthly_runs/2026-08/final/pembiayaan-infrastruktur-01.id.md",
+        "docx": "monthly_runs/2026-08/final/pembiayaan-infrastruktur-01.id.docx",
+        "qc": "monthly_runs/2026-08/final/pembiayaan-infrastruktur-01.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-pembiayaan-infrastruktur-02",
+      "month": "2026-08",
+      "keyword": "Pembiayaan Infrastruktur",
+      "keyword_slug": "pembiayaan-infrastruktur",
+      "title": "Pembiayaan Infrastruktur: Corporate Finance atau Project Finance?",
+      "slug": "pembiayaan-infrastruktur-corporate-vs-project-finance",
+      "angle": "corporate-finance-vs-project-finance-proyek-infrastruktur",
+      "angle_hash": "sha1:340fe7713543",
+      "search_intent": "comparison",
+      "subtopics": ["project financing", "corporate financing", "special purpose vehicle", "non-recourse", "limited recourse", "debt service coverage", "arus kas proyek", "bankability"],
+      "language": "id",
+      "ptpii_mentions": ["Perbandingan tiga jalur pembiayaan infrastruktur (teach)", "Penjaminan Pemerintah dalam struktur project finance (anchor)"],
+      "internal_links": [
+        "https://www.ptpii.co.id/pembiayaan-kreatif",
+        "https://www.ptpii.co.id/kpbu",
+        "https://www.ptpii.co.id/public-private-partnership"
+      ],
+      "external_citations": [
+        "https://kpbu.kemenkeu.go.id",
+        "https://iptek.its.ac.id/index.php/jps/article/download/3136/2409"
+      ],
+      "word_count": 1786,
+      "status": "editor-approved",
+      "paths": {
+        "md": "monthly_runs/2026-08/final/pembiayaan-infrastruktur-02.id.md",
+        "docx": "monthly_runs/2026-08/final/pembiayaan-infrastruktur-02.id.docx",
+        "qc": "monthly_runs/2026-08/final/pembiayaan-infrastruktur-02.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    },
+    {
+      "id": "2026-08-pembiayaan-infrastruktur-03",
+      "month": "2026-08",
+      "keyword": "Pembiayaan Infrastruktur",
+      "keyword_slug": "pembiayaan-infrastruktur",
+      "title": "Pembiayaan Infrastruktur: Yang Dinilai Lender Sebelum Dana Cair",
+      "slug": "pembiayaan-infrastruktur-penilaian-lender",
+      "angle": "kriteria-lender-menuju-financial-close",
+      "angle_hash": "sha1:d477d612d874",
+      "search_intent": "troubleshooting",
+      "subtopics": ["financial close", "bankability", "lender due diligence", "komite kredit", "cash flow", "credit enhancement", "kelayakan kredit", "risk allocation"],
+      "language": "id",
+      "ptpii_mentions": ["Kriteria lender dalam menilai pembiayaan infrastruktur menuju financial close (teach)", "Penjaminan Pemerintah sebagai credit enhancement dan risk transfer (anchor)"],
+      "internal_links": [
+        "https://www.ptpii.co.id/pembiayaan-kreatif",
+        "https://www.ptpii.co.id/kpbu",
+        "https://www.ptpii.co.id/public-private-partnership"
+      ],
+      "external_citations": [
+        "https://kpbu.kemenkeu.go.id/read/1132-1300/umum/orang-juga-bertanya/siapa-yang-membiayai-proyek-pada-skema-kpbu",
+        "https://www.miga.org/what-we-offer"
+      ],
+      "word_count": 1652,
+      "status": "editor-approved",
+      "paths": {
+        "md": "monthly_runs/2026-08/final/pembiayaan-infrastruktur-03.id.md",
+        "docx": "monthly_runs/2026-08/final/pembiayaan-infrastruktur-03.id.docx",
+        "qc": "monthly_runs/2026-08/final/pembiayaan-infrastruktur-03.qc.md"
+      },
+      "published_at": null,
+      "live_url": null
+    }
+  ]
+}

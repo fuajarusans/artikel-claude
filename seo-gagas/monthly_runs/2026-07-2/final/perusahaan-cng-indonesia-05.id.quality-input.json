@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07-2\\final\\perusahaan-cng-indonesia-05.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-08T09:33:07+07:00",
+    "word_count":  1720,
+    "paragraph_count":  29,
+    "sentence_count":  92,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.498,
+                        "sentence_burstiness":  0.668,
+                        "top30_vocab_share":  0.285,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Contohnya Hotel Dharmawangsa (sejak 2017) dan RS Hasan Sadikin Bandung (2025), yang beralih demi menekan biaya operasional 15–30% tergantung profil konsumsi.",
+                                      "candidate_score":  32,
+                                      "web_search_query":  "\"Contohnya Hotel Dharmawangsa (sejak 2017) dan RS Hasan Sadikin Bandung (2025), yang beralih demi menekan biaya operasion\""
+                                  },
+                                  {
+                                      "passage":  "Contohnya Hotel Dharmawangsa Jakarta (lima dapur dan boiler laundry sejak 2017) serta RS Hasan Sadikin Bandung (dapur sejak Agustus 2025).",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"Contohnya Hotel Dharmawangsa Jakarta (lima dapur dan boiler laundry sejak 2017) serta RS Hasan Sadikin Bandung (dapur se\""
+                                  },
+                                  {
+                                      "passage":  "Kasus horeca/restoran di Batam pada 2026 melaporkan efisiensi 15–30% dibanding LPG non-subsidi, sejalan dengan klaim resmi Gaslink; kasus Hotel Dharmawangsa (2017) diperkirakan hemat 20–50%.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Kasus horeca/restoran di Batam pada 2026 melaporkan efisiensi 15–30% dibanding LPG non-subsidi, sejalan dengan klaim res\""
+                                  },
+                                  {
+                                      "passage":  "Secara teknis, peralihan umumnya tak memerlukan penggantian kompor, hanya modifikasi bagian spuyer (nozzle) agar sesuai karakteristik gas bumi, menurut Ditjen Migas ESDM dan PGN Gagas Batam (Mei 2026).",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"Secara teknis, peralihan umumnya tak memerlukan penggantian kompor, hanya modifikasi bagian spuyer (nozzle) agar sesuai \""
+                                  },
+                                  {
+                                      "passage":  "Harga LPG non-subsidi 12 kg naik menjadi Rp228.000 per tabung dan 5,5 kg menjadi Rp107.000 per tabung di Jawa-Bali-Nusra per 18 April 2026, mengikuti mekanisme pasar.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Harga LPG non-subsidi 12 kg naik menjadi Rp228.000 per tabung dan 5,5 kg menjadi Rp107.000 per tabung di Jawa-Bali-Nusra\""
+                                  },
+                                  {
+                                      "passage":  "Per September 2025, Gaslink melayani sekitar 600 pelanggan gabungan sektor industri, hotel, kafe/restoran, dan dapur MBG, sebagian kecil dari total HORECA dan rumah sakit nasional (Kumparan, November 2025).",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Per September 2025, Gaslink melayani sekitar 600 pelanggan gabungan sektor industri, hotel, kafe/restoran, dan dapur MBG\""
+                                  },
+                                  {
+                                      "passage":  "## Kapan Bisnis Komersial Anda BELUM Cocok Pakai CNG CNG belum tentu tepat untuk setiap usaha.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Kapan Bisnis Komersial Anda BELUM Cocok Pakai CNG CNG belum tentu tepat untuk setiap usaha.\""
+                                  },
+                                  {
+                                      "passage":  "- **~20–50% (Hotel Dharmawangsa, 2017)**: perkiraan pada hotel yang memakai CNG untuk lima dapur dan boiler laundry sejak awal 2017; angka lawas, bukan janji terkini.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"- **~20–50% (Hotel Dharmawangsa, 2017)**: perkiraan pada hotel yang memakai CNG untuk lima dapur dan boiler laundry seja\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

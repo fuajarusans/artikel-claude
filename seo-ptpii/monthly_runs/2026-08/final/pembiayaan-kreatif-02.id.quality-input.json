@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-ptpii\\monthly_runs\\2026-08\\final\\pembiayaan-kreatif-02.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-12T15:51:32+07:00",
+    "word_count":  1812,
+    "paragraph_count":  22,
+    "sentence_count":  103,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.534,
+                        "sentence_burstiness":  0.876,
+                        "top30_vocab_share":  0.285,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "96 Tahun 2016 tentang Pembayaran Ketersediaan Layanan, ditetapkan 17 November 2016 dan berstatus berlaku per verifikasi 2026.",
+                                      "candidate_score":  35,
+                                      "web_search_query":  "\"96 Tahun 2016 tentang Pembayaran Ketersediaan Layanan, ditetapkan 17 November 2016 dan berstatus berlaku per verifikasi \""
+                                  },
+                                  {
+                                      "passage":  "Syarat pengajuan PDF tercantum eksplisit di [portal Kantor Bersama KPBU](https://kpbu.kemenkeu.go.id/read/1094-1255/pjpk/dukungan-pemerintah/fasilitas-penyiapan-proyek) (diakses Agustus 2026): studi kelayakan awal, pembentukan Tim KPBU, rencana bisnis, dan dokumen pengadaan lahan.",
+                                      "candidate_score":  33,
+                                      "web_search_query":  "\"Syarat pengajuan PDF tercantum eksplisit di [portal Kantor Bersama KPBU](https://kpbu.kemenkeu.go.id/read/1094-1255/pjpk\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai pembanding skala, proyek KPBU penerangan jalan Kabupaten Madiun bernilai sekitar Rp 100 miliar (portal KPBU Kemenkeu, diakses Agustus 2026).",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Sebagai pembanding skala, proyek KPBU penerangan jalan Kabupaten Madiun bernilai sekitar Rp 100 miliar (portal KPBU Keme\""
+                                  },
+                                  {
+                                      "passage":  "Proyek dicantumkan dalam RPJMD (*Rencana Pembangunan Jangka Menengah Daerah*) dan RKPD (*Rencana Kerja Pemerintah Daerah*), disusun Studi Pendahuluannya, lalu diperdalam menjadi prastudi kelayakan pada tahap Penyiapan.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Proyek dicantumkan dalam RPJMD (*Rencana Pembangunan Jangka Menengah Daerah*) dan RKPD (*Rencana Kerja Pemerintah Daerah\""
+                                  },
+                                  {
+                                      "passage":  "## Bagaimana pemerintah daerah mengakses Dukungan Kelayakan (VGF) dan Fasilitas Penyiapan Proyek (PDF)?",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"## Bagaimana pemerintah daerah mengakses Dukungan Kelayakan (VGF) dan Fasilitas Penyiapan Proyek (PDF)?\""
+                                  },
+                                  {
+                                      "passage":  "## Delapan prasyarat sebelum proyek daerah masuk skema pembiayaan kreatif Delapan prasyarat berikut mengikuti dua tahap awal KPBU, yaitu Perencanaan dan Penyiapan, sesuai kerangka Perpres No.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"## Delapan prasyarat sebelum proyek daerah masuk skema pembiayaan kreatif Delapan prasyarat berikut mengikuti dua tahap \""
+                                  },
+                                  {
+                                      "passage":  "2 Tahun 2012, kesesuaian tata ruang diperiksa lewat KKPR dalam PP No.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"2 Tahun 2012, kesesuaian tata ruang diperiksa lewat KKPR dalam PP No.\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apa syarat proyek daerah bisa masuk skema KPBU?",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apa syarat proyek daerah bisa masuk skema KPBU?\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

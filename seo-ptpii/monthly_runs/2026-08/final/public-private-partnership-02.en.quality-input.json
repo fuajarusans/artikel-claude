@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-ptpii\\monthly_runs\\2026-08\\final\\public-private-partnership-02.en.md",
+    "language":  "en",
+    "generated_at":  "2026-08-12T15:34:00+07:00",
+    "word_count":  1822,
+    "paragraph_count":  25,
+    "sentence_count":  96,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.426,
+                        "sentence_burstiness":  0.964,
+                        "top30_vocab_share":  0.229,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.426 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Since 18 October 2024 both sit inside one consolidated regulation, [PMK 68/2024](https://jdih.kemenkeu.go.id/dok/pmk-68-tahun-2024).",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"Since 18 October 2024 both sit inside one consolidated regulation, [PMK 68/2024](https://jdih.kemenkeu.go.id/dok/pmk-68-\""
+                                  },
+                                  {
+                                      "passage":  "SPAM Umbulan, an IDR 4.51 trillion water-supply KPBU, reached financial close on 30 December 2016, six months ahead of its original target (Coordinating Ministry for Economic Affairs).",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"SPAM Umbulan, an IDR 4.51 trillion water-supply KPBU, reached financial close on 30 December 2016, six months ahead of i\""
+                                  },
+                                  {
+                                      "passage":  "Government Support (*Dukungan Pemerintah*) puts money in: the Viability Gap Fund tops up user-charge projects whose tariffs cannot carry construction cost.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Government Support (*Dukungan Pemerintah*) puts money in: the Viability Gap Fund tops up user-charge projects whose tari\""
+                                  },
+                                  {
+                                      "passage":  "ADB\u0027s PPP Monitor recorded 135 projects reaching financial close worth USD 63,464 million, 72 of them with foreign sponsor participation, on 2019-vintage data.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"ADB\u0027s PPP Monitor recorded 135 projects reaching financial close worth USD 63,464 million, 72 of them with foreign spons\""
+                                  },
+                                  {
+                                      "passage":  "The guaranteed portfolio stood at 61 projects, 38 of them KPBU, worth more than IDR 732 trillion as at June 2026.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"The guaranteed portfolio stood at 61 projects, 38 of them KPBU, worth more than IDR 732 trillion as at June 2026.\""
+                                  },
+                                  {
+                                      "passage":  "That entity is PT Penjaminan Infrastruktur Indonesia (Persero), internationally known as the Indonesia Infrastructure Guarantee Fund (IIGF), mandated to guarantee government-side risk on Indonesian KPBU projects.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"That entity is PT Penjaminan Infrastruktur Indonesia (Persero), internationally known as the Indonesia Infrastructure Gu\""
+                                  },
+                                  {
+                                      "passage":  "# Public Private Partnership Bankability: Reaching Financial Close in Indonesia The signing ceremony is the easy part.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"# Public Private Partnership Bankability: Reaching Financial Close in Indonesia The signing ceremony is the easy part.\""
+                                  },
+                                  {
+                                      "passage":  "Fitch Ratings affirmed Indonesia\u0027s state-owned infrastructure guarantee company at long-term foreign- and local-currency \u0027BBB\u0027, short-term \u0027F2\u0027 and national long-term \u0027AAA(idn)\u0027, Outlook Stable, on 12 February 2026.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Fitch Ratings affirmed Indonesia\u0027s state-owned infrastructure guarantee company at long-term foreign- and local-currency\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

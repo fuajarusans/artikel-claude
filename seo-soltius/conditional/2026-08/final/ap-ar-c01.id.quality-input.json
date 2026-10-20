@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-08\\final\\ap-ar-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-17T23:59:19+07:00",
+    "word_count":  1060,
+    "paragraph_count":  20,
+    "sentence_count":  59,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.362,
+                        "sentence_burstiness":  0.943,
+                        "top30_vocab_share":  0.338,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.362 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "## Cara Mengelola Account Payable: Kontrol Sebelum Uang Keluar Mengelola account payable bukan soal rajin mencatat, melainkan menolak membayar sebelum tiga dokumen cocok.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"## Cara Mengelola Account Payable: Kontrol Sebelum Uang Keluar Mengelola account payable bukan soal rajin mencatat, mela\""
+                                  },
+                                  {
+                                      "passage":  "Notasi termin seperti **2/10 net 30** dibaca begini: diskon 2% bila dibayar dalam 10 hari, jatuh tempo penuh 30 hari.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"Notasi termin seperti **2/10 net 30** dibaca begini: diskon 2% bila dibayar dalam 10 hari, jatuh tempo penuh 30 hari.\""
+                                  },
+                                  {
+                                      "passage":  "# Account Payable \u0026 Account Receivable: Pengertian dan Cara Mengelolanya Faktur pemasok disetujui padahal barangnya kurang satu palet.",
+                                      "candidate_score":  26,
+                                      "web_search_query":  "\"# Account Payable \u0026 Account Receivable: Pengertian dan Cara Mengelolanya Faktur pemasok disetujui padahal barangnya kura\""
+                                  },
+                                  {
+                                      "passage":  "## Cara Mengelola Account Receivable: Umur Piutang Menentukan Tindakan Di sisi piutang, kontrolnya justru bekerja setelah faktur terbit, karena uangnya sudah ada di tangan orang lain.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"## Cara Mengelola Account Receivable: Umur Piutang Menentukan Tindakan Di sisi piutang, kontrolnya justru bekerja setela\""
+                                  },
+                                  {
+                                      "passage":  "Piutang lewat 90 hari baru ketahuan saat direktur bertanya mengapa kas seret padahal penjualan naik.",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"Piutang lewat 90 hari baru ketahuan saat direktur bertanya mengapa kas seret padahal penjualan naik.\""
+                                  },
+                                  {
+                                      "passage":  "Soltius, berpengalaman sejak 1998 dan bagian dari Metrodata Group, mengimplementasikan dan mendampingi SAP S/4HANA Finance, termasuk menata proses utang-piutang.",
+                                      "candidate_score":  11,
+                                      "web_search_query":  "\"Soltius, berpengalaman sejak 1998 dan bagian dari Metrodata Group, mengimplementasikan dan mendampingi SAP S/4HANA Finan\""
+                                  },
+                                  {
+                                      "passage":  "Menurut [SAP Learning](https://learning.sap.com/courses/exploring-end-to-end-business-processes-in-sap-business-suite/managing-accounts-receivable_af769af4-e265-4bd5-8a46-7bda1ba03b38), Accounts Receivable di Financial Accounting (FI) mencatat dan mengelola data akuntansi setiap pelanggan, dan akun rekonsiliasi (*reconciliation account*) yang ditetapkan diperbarui otomatis.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Menurut [SAP Learning](https://learning.sap.com/courses/exploring-end-to-end-business-processes-in-sap-business-suite/ma\""
+                                  },
+                                  {
+                                      "passage":  "Staf account payable memverifikasi faktur pemasok terhadap tiga dokumen (purchase order, bukti penerimaan barang, dan faktur), menjadwalkan pembayaran sesuai termin yang disepakati, lalu merekonsiliasi saldo pemasok.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Staf account payable memverifikasi faktur pemasok terhadap tiga dokumen (purchase order, bukti penerimaan barang, dan fa\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

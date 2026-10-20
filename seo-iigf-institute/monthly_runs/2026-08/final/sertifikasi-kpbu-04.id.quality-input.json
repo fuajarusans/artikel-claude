@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-iigf-institute\\monthly_runs\\2026-08\\final\\sertifikasi-kpbu-04.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-12T15:39:52+07:00",
+    "word_count":  1515,
+    "paragraph_count":  27,
+    "sentence_count":  89,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.369,
+                        "sentence_burstiness":  0.762,
+                        "top30_vocab_share":  0.297,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.369 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Kewajiban pada Permen PPN/Kepala Bappenas Nomor 7 Tahun 2023 Pasal 13 ayat (7) menyasar tenaga ahli di sisi konsultan pendamping simpul KPBU, bukan seluruh aparatur sipil negara.",
+                                      "candidate_score":  36,
+                                      "web_search_query":  "\"Kewajiban pada Permen PPN/Kepala Bappenas Nomor 7 Tahun 2023 Pasal 13 ayat (7) menyasar tenaga ahli di sisi konsultan pe\""
+                                  },
+                                  {
+                                      "passage":  "[Bank Dunia (2024)](https://blogs.worldbank.org/en/voices/the-secret-to-infrastructure-success-strong-ppp-frameworks) mencatat negara yang memperkuat kerangka kelembagaan PPP sepanjang 1990–2022 membukukan kenaikan investasi infrastruktur rata-rata USD 488 juta per tahun.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"[Bank Dunia (2024)](https://blogs.worldbank.org/en/voices/the-secret-to-infrastructure-success-strong-ppp-frameworks) me\""
+                                  },
+                                  {
+                                      "passage":  "**Mengira kredensial internasional menggantikan penguasaan regulasi nasional.** Kerangka global tetap harus disandingkan dengan Perpres 38/2015, yang masih berstatus berlaku per 2026, beserta aturan pelaksananya.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"**Mengira kredensial internasional menggantikan penguasaan regulasi nasional.** Kerangka global tetap harus disandingkan\""
+                                  },
+                                  {
+                                      "passage":  "Kisarannya sekitar Rp 19.000.000 untuk Foundation serta sekitar Rp 21.000.000 masing-masing untuk Preparation dan Execution, indikatif per publikasi 2026.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Kisarannya sekitar Rp 19.000.000 untuk Foundation serta sekitar Rp 21.000.000 masing-masing untuk Preparation dan Execut\""
+                                  },
+                                  {
+                                      "passage":  "Riset Bank Dunia (2024) menunjukkan kekuatan kerangka kelembagaan PPP lebih menentukan hasil sebuah program dibanding kompetensi perorangan semata.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Riset Bank Dunia (2024) menunjukkan kekuatan kerangka kelembagaan PPP lebih menentukan hasil sebuah program dibanding ko\""
+                                  },
+                                  {
+                                      "passage":  "\u003e **Ringkasnya:** Sertifikasi KPBU adalah istilah umum untuk beberapa jalur pengakuan atas penguasaan Kerja Sama Pemerintah dengan Badan Usaha, padanan Indonesia untuk *public-private partnership* (PPP).",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"\u003e **Ringkasnya:** Sertifikasi KPBU adalah istilah umum untuk beberapa jalur pengakuan atas penguasaan Kerja Sama Pemerin\""
+                                  },
+                                  {
+                                      "passage":  "Masalahnya memang bukan kompetensi individu: studi pendahuluan belum disusun, penetapan penanggung jawab proyek belum keluar, atau timnya berganti sebelum sempat menerapkan apa pun.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Masalahnya memang bukan kompetensi individu: studi pendahuluan belum disusun, penetapan penanggung jawab proyek belum ke\""
+                                  },
+                                  {
+                                      "passage":  "Keberhasilan proyek ditentukan kualitas dokumen penyiapan, kepastian dukungan pemerintah, stabilitas tim, dan kondisi pasar.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Keberhasilan proyek ditentukan kualitas dokumen penyiapan, kepastian dukungan pemerintah, stabilitas tim, dan kondisi pa\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

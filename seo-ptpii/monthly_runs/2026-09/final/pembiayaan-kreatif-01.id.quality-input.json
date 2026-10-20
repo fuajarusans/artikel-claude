@@ -1,0 +1,70 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-ptpii\\monthly_runs\\2026-09\\final\\pembiayaan-kreatif-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-22T05:59:35+07:00",
+    "word_count":  1801,
+    "paragraph_count":  21,
+    "sentence_count":  105,
+    "ai_detector":  {
+                        "score":  0,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.485,
+                        "sentence_burstiness":  0.635,
+                        "top30_vocab_share":  0.291,
+                        "flags":  [
+
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "79 Tahun 2024 yang diundangkan 12 Agustus 2024 melalui Berita Negara RI No.",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"79 Tahun 2024 yang diundangkan 12 Agustus 2024 melalui Berita Negara RI No.\""
+                                  },
+                                  {
+                                      "passage":  "3 Tahun 2026 diluncurkan sekitar akhir Mei hingga awal Juni 2026, kira-kira 21 bulan setelah Perpres diundangkan.",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"3 Tahun 2026 diluncurkan sekitar akhir Mei hingga awal Juni 2026, kira-kira 21 bulan setelah Perpres diundangkan.\""
+                                  },
+                                  {
+                                      "passage":  "Salah satu instrumennya, P3NK (Pengelolaan Perolehan Peningkatan Nilai Kawasan), memperoleh payung hukum lewat Peraturan Presiden No.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Salah satu instrumennya, P3NK (Pengelolaan Perolehan Peningkatan Nilai Kawasan), memperoleh payung hukum lewat Peraturan\""
+                                  },
+                                  {
+                                      "passage":  "# Pembiayaan Kreatif dari Nilai Tanah: Aturan Ada, Hasil Belum Sebuah jalan lingkar selesai dibangun dengan APBD.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"# Pembiayaan Kreatif dari Nilai Tanah: Aturan Ada, Hasil Belum Sebuah jalan lingkar selesai dibangun dengan APBD.\""
+                                  },
+                                  {
+                                      "passage":  "[Portal pembiayaan infrastruktur Kementerian Pekerjaan Umum](https://pembiayaan.pu.go.id/news/detail/94/Peluang-Penerapan-Pembiayaan-Infrastruktur-Melalui-Skema-Land-Value-Capture-di-Indonesia) menyampaikan hal serupa, dan saat aturan pelaksananya diluncurkan pemerintah pusat justru masih meminta pemda mengidentifikasi calon proyek percontohan.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"[Portal pembiayaan infrastruktur Kementerian Pekerjaan Umum](https://pembiayaan.pu.go.id/news/detail/94/Peluang-Penerapa\""
+                                  },
+                                  {
+                                      "passage":  "Keduanya bergerak mengikuti Nilai Jual Objek Pajak (NJOP), bukan mengikuti selisih nilai yang diciptakan satu proyek infrastruktur tertentu.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Keduanya bergerak mengikuti Nilai Jual Objek Pajak (NJOP), bukan mengikuti selisih nilai yang diciptakan satu proyek inf\""
+                                  },
+                                  {
+                                      "passage":  "Mekanisme DKI Jakarta berjalan di bawah kewenangan Gubernur atas tata bangunan lewat rantai [Pergub No.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Mekanisme DKI Jakarta berjalan di bawah kewenangan Gubernur atas tata bangunan lewat rantai [Pergub No.\""
+                                  },
+                                  {
+                                      "passage":  "P3NK adalah Pengelolaan Perolehan Peningkatan Nilai Kawasan, diatur dalam Peraturan Presiden No.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"P3NK adalah Pengelolaan Perolehan Peningkatan Nilai Kawasan, diatur dalam Peraturan Presiden No.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

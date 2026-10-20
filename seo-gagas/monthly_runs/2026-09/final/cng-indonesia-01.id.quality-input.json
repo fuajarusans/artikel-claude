@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-09\\final\\cng-indonesia-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-21T10:42:50+07:00",
+    "word_count":  1477,
+    "paragraph_count":  25,
+    "sentence_count":  79,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.323,
+                        "sentence_burstiness":  0.723,
+                        "top30_vocab_share":  0.303,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.323 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Menurut ReforMiner Institute (Agustus 2025), konsumsi LPG tumbuh 10,98% sepanjang 2020–2024 sementara produksi domestik hanya 2,40%, sehingga celahnya melebar tiap tahun.",
+                                      "candidate_score":  31,
+                                      "web_search_query":  "\"Menurut ReforMiner Institute (Agustus 2025), konsumsi LPG tumbuh 10,98% sepanjang 2020–2024 sementara produksi domestik \""
+                                  },
+                                  {
+                                      "passage":  "Namun kerangkanya belum final: per [siaran pers ESDM 27 April 2026](https://migas.esdm.go.id/siaranpers/Optimalkan-Gas-Domestik-Pemerintah-Kaji-Pemanfaatan-CNG-Nasional-1), pemanfaatan CNG sebagai substitusi LPG masih tahap kajian, belum menjadi regulasi berjalan penuh.",
+                                      "candidate_score":  27,
+                                      "web_search_query":  "\"Namun kerangkanya belum final: per [siaran pers ESDM 27 April 2026](https://migas.esdm.go.id/siaranpers/Optimalkan-Gas-D\""
+                                  },
+                                  {
+                                      "passage":  "Per siaran pers ESDM 27 April 2026, rencana ini masih tahap kajian, belum berupa regulasi final, dengan uji coba prototipe tabung berjalan sejak Juli 2026.",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"Per siaran pers ESDM 27 April 2026, rencana ini masih tahap kajian, belum berupa regulasi final, dengan uji coba prototi\""
+                                  },
+                                  {
+                                      "passage":  "**CNG tabung \"Merah Putih\" 3 kg** untuk rumah tangga: sekitar 15 prototipe tabung komposit diuji di Lemigas sejak Juli 2026, belum diproduksi massal.",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"**CNG tabung  Merah Putih  3 kg** untuk rumah tangga: sekitar 15 prototipe tabung komposit diuji di Lemigas sejak Juli 2\""
+                                  },
+                                  {
+                                      "passage":  "Kilang domestik hanya menghasilkan sekitar 1,6–1,9 juta ton LPG per tahun, sementara kebutuhan nasional menembus 8,5–8,9 juta ton.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Kilang domestik hanya menghasilkan sekitar 1,6–1,9 juta ton LPG per tahun, sementara kebutuhan nasional menembus 8,5–8,9\""
+                                  },
+                                  {
+                                      "passage":  "Untuk skema rumah tangga bersubsidi, harga jual tabung CNG Merah Putih 3 kg ditargetkan setara LPG 3 kg bersubsidi, bukan lebih murah bagi konsumen.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Untuk skema rumah tangga bersubsidi, harga jual tabung CNG Merah Putih 3 kg ditargetkan setara LPG 3 kg bersubsidi, buka\""
+                                  },
+                                  {
+                                      "passage":  "Sedangkan Rp80,3 triliun adalah pagu subsidi dalam Nota Keuangan RAPBN 2026 (Kementerian Keuangan), naik 14,52% dari realisasi 2025 sekitar Rp68,7 triliun.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"Sedangkan Rp80,3 triliun adalah pagu subsidi dalam Nota Keuangan RAPBN 2026 (Kementerian Keuangan), naik 14,52% dari rea\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Kenapa Indonesia mengimpor LPG padahal punya gas bumi sendiri?",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Kenapa Indonesia mengimpor LPG padahal punya gas bumi sendiri?\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-soltius\\conditional\\2026-08\\final\\cloud-computing-c01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-18T00:21:35+07:00",
+    "word_count":  1028,
+    "paragraph_count":  20,
+    "sentence_count":  58,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.422,
+                        "sentence_burstiness":  1.151,
+                        "top30_vocab_share":  0.3,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.422 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Kendali lokasi data kini jadi kriteria arus utama: Gartner memproyeksikan belanja sovereign cloud IaaS global mencapai USD 80 miliar pada 2026.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Kendali lokasi data kini jadi kriteria arus utama: Gartner memproyeksikan belanja sovereign cloud IaaS global mencapai U\""
+                                  },
+                                  {
+                                      "passage":  "IDC memproyeksikan belanja layanan cloud publik global menembus [USD 1 triliun pada 2026](https://my.idc.com/getdoc.jsp?containerId=IDC_P33214), tumbuh sekitar 21% setahun.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"IDC memproyeksikan belanja layanan cloud publik global menembus [USD 1 triliun pada 2026](https://my.idc.com/getdoc.jsp?\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai mitra implementasi SAP yang diakui sebagai Best RISE dan Best Cloud Partner (2021), Soltius mendampingi perusahaan memindahkan sistem inti ke cloud lewat layanan Migration.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"Sebagai mitra implementasi SAP yang diakui sebagai Best RISE dan Best Cloud Partner (2021), Soltius mendampingi perusaha\""
+                                  },
+                                  {
+                                      "passage":  "Standar NIST SP 800-145 merumuskannya lewat lima karakteristik esensial, tiga model layanan, dan empat model deployment.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"Standar NIST SP 800-145 merumuskannya lewat lima karakteristik esensial, tiga model layanan, dan empat model deployment.\""
+                                  },
+                                  {
+                                      "passage":  "## Kesimpulan Cloud computing bukan soal lokasi server, melainkan model penyediaan yang harus lolos lima karakteristik esensial.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Kesimpulan Cloud computing bukan soal lokasi server, melainkan model penyediaan yang harus lolos lima karakteristik e\""
+                                  },
+                                  {
+                                      "passage":  "Di lanskap SAP, ERP (*Enterprise Resource Planning*) cloud hadir sebagai SAP S/4HANA Cloud, dan pilihan deployment-nya ikut menentukan ruang kustomisasi, jalur kepatuhan, sampai rencana *downtime*.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Di lanskap SAP, ERP (*Enterprise Resource Planning*) cloud hadir sebagai SAP S/4HANA Cloud, dan pilihan deployment-nya i\""
+                                  },
+                                  {
+                                      "passage":  "Karena itu pertanyaannya bukan seberapa besar diskonnya, melainkan seberapa naik-turun beban kerjanya.",
+                                      "candidate_score":  10,
+                                      "web_search_query":  "\"Karena itu pertanyaannya bukan seberapa besar diskonnya, melainkan seberapa naik-turun beban kerjanya.\""
+                                  },
+                                  {
+                                      "passage":  "27 Tahun 2022) kerap mendorong beban kerja tertentu ke arah private atau hybrid; [studi kasus private cloud dan public cloud](https://www.soltius.co.id/id/blog/private-cloud-dan-public-cloud-di-berbagai-sektor-industri) per sektor industri memperlihatkan polanya.",
+                                      "candidate_score":  8,
+                                      "web_search_query":  "\"27 Tahun 2022) kerap mendorong beban kerja tertentu ke arah private atau hybrid; [studi kasus private cloud dan public c\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

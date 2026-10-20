@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-09\\final\\gaslink-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-17T16:40:42+07:00",
+    "word_count":  1586,
+    "paragraph_count":  26,
+    "sentence_count":  86,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.353,
+                        "sentence_burstiness":  0.855,
+                        "top30_vocab_share":  0.29,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.353 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Soal OPEX, harga gas industri sering dibahas lewat kebijakan Harga Gas Bumi Tertentu (HGBT): Kepmen ESDM No.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Soal OPEX, harga gas industri sering dibahas lewat kebijakan Harga Gas Bumi Tertentu (HGBT): Kepmen ESDM No.\""
+                                  },
+                                  {
+                                      "passage":  "Konversi satu boiler solar ke gas mencatat biaya bahan bakar solar sekitar Rp1.319.797/jam melawan gas hanya Rp27.300/jam (Jurnal Rotasi, Universitas Diponegoro).",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Konversi satu boiler solar ke gas mencatat biaya bahan bakar solar sekitar Rp1.319.797/jam melawan gas hanya Rp27.300/ja\""
+                                  },
+                                  {
+                                      "passage":  "76.K/2025 mematoknya USD 7/MMBTU untuk bahan bakar dan USD 6,5/MMBTU untuk bahan baku (Kementerian ESDM, 2025).",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"76.K/2025 mematoknya USD 7/MMBTU untuk bahan bakar dan USD 6,5/MMBTU untuk bahan baku (Kementerian ESDM, 2025).\""
+                                  },
+                                  {
+                                      "passage":  "*Heater* menaikkan suhu gas hingga sekitar 50°C untuk mencegah efek Joule-Thomson, yaitu pembekuan instrumen akibat penurunan tekanan mendadak.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"*Heater* menaikkan suhu gas hingga sekitar 50°C untuk mencegah efek Joule-Thomson, yaitu pembekuan instrumen akibat penu\""
+                                  },
+                                  {
+                                      "passage":  "Pembagiannya kira-kira begini: - **Masuk CAPEX (satu kali):** survei dan *sizing* kebutuhan, instalasi PRS, retrofit burner, pemasangan meter, penyesuaian jalur pipa di lokasi.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"Pembagiannya kira-kira begini: - **Masuk CAPEX (satu kali):** survei dan *sizing* kebutuhan, instalasi PRS, retrofit bur\""
+                                  },
+                                  {
+                                      "passage":  "Klaim populer \"hemat hingga 30%\" pun perlu ditempatkan tepat: angka itu berasal dari klaim penyedia (gagas.co.id), bukan audit independen pihak ketiga.",
+                                      "candidate_score":  13,
+                                      "web_search_query":  "\"Klaim populer  hemat hingga 30%  pun perlu ditempatkan tepat: angka itu berasal dari klaim penyedia (gagas.co.id), bukan\""
+                                  },
+                                  {
+                                      "passage":  "**Tekanan kerja.** Spesifikasi tekanan tiap alat menentukan konfigurasi regulator dan tahapan reduksi tekanan.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"**Tekanan kerja.** Spesifikasi tekanan tiap alat menentukan konfigurasi regulator dan tahapan reduksi tekanan.\""
+                                  },
+                                  {
+                                      "passage":  "Memahami fungsi tiap bagian membantu Anda menilai kewajaran sebuah penawaran, bukan sekadar menerimanya.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Memahami fungsi tiap bagian membantu Anda menilai kewajaran sebuah penawaran, bukan sekadar menerimanya.\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-09\\final\\gasku-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-21T10:11:22+07:00",
+    "word_count":  1467,
+    "paragraph_count":  23,
+    "sentence_count":  92,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.362,
+                        "sentence_burstiness":  0.675,
+                        "top30_vocab_share":  0.309,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.362 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "70/M-IND/PER/7/2012](https://peraturan.go.id/id/permenperin-no-70-m-ind-per-7-2012-tahun-2012) mewajibkan converter kit dan tangki CNG memenuhi standar seperti SNI ISO 7407:2009 atau standar internasional setara (ISO/UN-ECE) sebelum boleh diedarkan.",
+                                      "candidate_score":  33,
+                                      "web_search_query":  "\"70/M-IND/PER/7/2012](https://peraturan.go.id/id/permenperin-no-70-m-ind-per-7-2012-tahun-2012) mewajibkan converter kit \""
+                                  },
+                                  {
+                                      "passage":  "22 Tahun 2009 tentang LLAJ, Pasal 52), dengan ancaman denda hingga Rp 24 juta bila diabaikan (Pasal 277).",
+                                      "candidate_score":  31,
+                                      "web_search_query":  "\"22 Tahun 2009 tentang LLAJ, Pasal 52), dengan ancaman denda hingga Rp 24 juta bila diabaikan (Pasal 277).\""
+                                  },
+                                  {
+                                      "passage":  "Berdasarkan PSAKBI Pasal 8 tentang Perubahan Risiko (AAUI), tertanggung wajib memberitahukan setiap perubahan yang memperbesar risiko paling lambat 7 hari kalender.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"Berdasarkan PSAKBI Pasal 8 tentang Perubahan Risiko (AAUI), tertanggung wajib memberitahukan setiap perubahan yang mempe\""
+                                  },
+                                  {
+                                      "passage":  "70/M-IND/PER/7/2012 mewajibkan converter kit dan tangki CNG bersertifikat sesuai SNI (misalnya SNI ISO 7407:2009) atau standar internasional setara sebelum boleh diedarkan dan dipasang.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"70/M-IND/PER/7/2012 mewajibkan converter kit dan tangki CNG bersertifikat sesuai SNI (misalnya SNI ISO 7407:2009) atau s\""
+                                  },
+                                  {
+                                      "passage":  "Menurut PSAKBI Pasal 8, pemasangan converter kit wajib dilaporkan ke asuransi paling lambat 7 hari kalender.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Menurut PSAKBI Pasal 8, pemasangan converter kit wajib dilaporkan ke asuransi paling lambat 7 hari kalender.\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apakah konversi BBG pasti membuat garansi mobil hangus?",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apakah konversi BBG pasti membuat garansi mobil hangus?\""
+                                  },
+                                  {
+                                      "passage":  "## Apa yang Sebenarnya Terjadi pada Garansi \u0026 Asuransi Saat Mobil Dikonversi ke BBG?",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Apa yang Sebenarnya Terjadi pada Garansi \u0026 Asuransi Saat Mobil Dikonversi ke BBG?\""
+                                  },
+                                  {
+                                      "passage":  "## Yang Jarang Dibahas: Cara Memproteksi Garansi \u0026 Asuransi Sekaligus Untungnya, garansi dan asuransi bisa dijaga bersamaan lewat lima langkah sederhana, sebelum dan sesudah konversi.",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Yang Jarang Dibahas: Cara Memproteksi Garansi \u0026 Asuransi Sekaligus Untungnya, garansi dan asuransi bisa dijaga bersam\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

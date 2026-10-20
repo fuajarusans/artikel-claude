@@ -1,0 +1,81 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-08\\final\\gaslink-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-08-11T14:43:39+07:00",
+    "word_count":  1517,
+    "paragraph_count":  24,
+    "sentence_count":  91,
+    "ai_detector":  {
+                        "score":  0.08,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.431,
+                        "sentence_burstiness":  0.531,
+                        "top30_vocab_share":  0.356,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.431 (target \u003e=0.45)",
+                                          "line":  -1
+                                      },
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 35.6% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Menurut US Energy Information Administration ([EIA](https://www.eia.gov/environment/emissions/co2_vol_mass.php), data 2022), gas bumi melepas 52,91 kg CO2 per MMBTU, sekitar 45% lebih rendah dari batubara (95,99).",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"Menurut US Energy Information Administration ([EIA](https://www.eia.gov/environment/emissions/co2_vol_mass.php), data 20\""
+                                  },
+                                  {
+                                      "passage":  "Menurut faktor emisi pembakaran EIA (data 2022): gas bumi 52,91 kg CO2/MMBTU, LPG 62,88, solar 74,14, dan batubara 95,99.",
+                                      "candidate_score":  29,
+                                      "web_search_query":  "\"Menurut faktor emisi pembakaran EIA (data 2022): gas bumi 52,91 kg CO2/MMBTU, LPG 62,88, solar 74,14, dan batubara 95,99\""
+                                  },
+                                  {
+                                      "passage":  "## Emisi Pembakaran: Kenapa Gas Bumi Memang Paling Rendah CO2 Untuk emisi pembakaran saja, gas bumi memang paling rendah CO2 di antara bahan bakar fosil umum.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"## Emisi Pembakaran: Kenapa Gas Bumi Memang Paling Rendah CO2 Untuk emisi pembakaran saja, gas bumi memang paling rendah\""
+                                  },
+                                  {
+                                      "passage":  "Menurut IPCC AR6 (2021), metana fosil punya *Global Warming Potential* sekitar 27–30 kali lipat CO2 pada rentang 100 tahun (GWP100) dan sekitar 80–83 kali pada 20 tahun (GWP20).",
+                                      "candidate_score":  27,
+                                      "web_search_query":  "\"Menurut IPCC AR6 (2021), metana fosil punya *Global Warming Potential* sekitar 27–30 kali lipat CO2 pada rentang 100 tah\""
+                                  },
+                                  {
+                                      "passage":  "(2023, *Environmental Research Letters*)**: cakupan global, gas baru mencapai paritas dengan batubara rata-rata bila kebocoran melewati sekitar 7,6% (GWP100) atau 4,7% (GWP20).",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"(2023, *Environmental Research Letters*)**: cakupan global, gas baru mencapai paritas dengan batubara rata-rata bila keb\""
+                                  },
+                                  {
+                                      "passage":  "Menurut IPCC AR6, metana fosil sekitar 27–30 kali CO2 pada 100 tahun (GWP100) dan sekitar 80–83 kali pada 20 tahun (GWP20), karena kuat memerangkap panas namun cepat terurai.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Menurut IPCC AR6, metana fosil sekitar 27–30 kali CO2 pada 100 tahun (GWP100) dan sekitar 80–83 kali pada 20 tahun (GWP2\""
+                                  },
+                                  {
+                                      "passage":  "## Gas Bumi Bukan Energi \"Nol Emisi\", dan Itu Bukan Alasan Menundanya Gas bumi bukan energi nol emisi, dan bersikap jujur soal itu justru menguatkan keputusan beralih.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## Gas Bumi Bukan Energi  Nol Emisi , dan Itu Bukan Alasan Menundanya Gas bumi bukan energi nol emisi, dan bersikap juju\""
+                                  },
+                                  {
+                                      "passage":  "Angka ini murni emisi pembakaran, belum memasukkan metana hulu, jadi jangan disajikan sebagai gambaran lifecycle lengkap.* ## Kalau Metana Hulu Ikut Dihitung, Apakah Gas Masih Lebih Bersih?",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Angka ini murni emisi pembakaran, belum memasukkan metana hulu, jadi jangan disajikan sebagai gambaran lifecycle lengkap\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

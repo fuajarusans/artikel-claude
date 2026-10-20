@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-09\\final\\perusahaan-lng-indonesia-01.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-21T11:05:34+07:00",
+    "word_count":  1544,
+    "paragraph_count":  27,
+    "sentence_count":  89,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.427,
+                        "sentence_burstiness":  0.655,
+                        "top30_vocab_share":  0.286,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.427 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Dengan *slope* ilustrasi 14%, komponen FOB kira-kira 0,14 × 89,43 ≈ US$12,5/MMBTU, sejalan dengan contoh Bloomberg Technoz (29 Jun 2026): minyak US$90/barel dikali 14% menghasilkan FOB US$12,6/MMBTU.",
+                                      "candidate_score":  47,
+                                      "web_search_query":  "\"Dengan *slope* ilustrasi 14%, komponen FOB kira-kira 0,14 × 89,43 ≈ US$12,5/MMBTU, sejalan dengan contoh Bloomberg Techn\""
+                                  },
+                                  {
+                                      "passage":  "Contoh angka yang ramai dikutip: ESDM menurunkan harga gas LNG industri tertentu menjadi US$13/MMBTU efektif 29 Juni 2026 (CNBC Indonesia, 29 Jun 2026).",
+                                      "candidate_score":  35,
+                                      "web_search_query":  "\"Contoh angka yang ramai dikutip: ESDM menurunkan harga gas LNG industri tertentu menjadi US$13/MMBTU efektif 29 Juni 202\""
+                                  },
+                                  {
+                                      "passage":  "## Contoh Perhitungan TCO 5 Tahun: LNG vs Bahan Bakar Lama Kalikan *landed cost* terverifikasi ke volume tahunan, lalu tambahkan *capex on-site*, O\u0026M, boil-off, dan alokasi *take-or-pay*.",
+                                      "candidate_score":  31,
+                                      "web_search_query":  "\"## Contoh Perhitungan TCO 5 Tahun: LNG vs Bahan Bakar Lama Kalikan *landed cost* terverifikasi ke volume tahunan, lalu t\""
+                                  },
+                                  {
+                                      "passage":  "# Cara Menghitung Biaya Total (TCO) LNG untuk Pabrik: Metode + Contoh Seorang manajer procurement menerima penawaran LNG bertuliskan \"US$13/MMBTU\" dan mengira itulah angka yang akan ditanggung pabriknya.",
+                                      "candidate_score":  23,
+                                      "web_search_query":  "\"# Cara Menghitung Biaya Total (TCO) LNG untuk Pabrik: Metode + Contoh Seorang manajer procurement menerima penawaran LNG\""
+                                  },
+                                  {
+                                      "passage":  "- **Sensitivitas kurs dan ICP:** ICP naik 9,5% hanya dari Juli ke Agustus 2026 (US$81,68 ke US$89,43/barel), sehingga proyeksi linear rawan meleset.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"- **Sensitivitas kurs dan ICP:** ICP naik 9,5% hanya dari Juli ke Agustus 2026 (US$81,68 ke US$89,43/barel), sehingga pr\""
+                                  },
+                                  {
+                                      "passage":  "## Apa Itu Biaya Total (TCO) LNG dan Mengapa Beda dari Harga per MMBTU?",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## Apa Itu Biaya Total (TCO) LNG dan Mengapa Beda dari Harga per MMBTU?\""
+                                  },
+                                  {
+                                      "passage":  "Struktur rumusnya sederhana: \u003e **Landed cost = FOB (slope × ICP) + logistik + regasifikasi + capex/O\u0026M disetahunkan + boil-off + margin** Isi bagian yang bisa diverifikasi.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Struktur rumusnya sederhana: \u003e **Landed cost = FOB (slope × ICP) + logistik + regasifikasi + capex/O\u0026M disetahunkan + bo\""
+                                  },
+                                  {
+                                      "passage":  "Per Juni 2026, ESDM menurunkan harga gas LNG industri tertentu menjadi US$13/MMBTU, tetapi hanya untuk industri non-HGBT terdampak defisit pasokan pipa, terutama di Jawa Barat.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"Per Juni 2026, ESDM menurunkan harga gas LNG industri tertentu menjadi US$13/MMBTU, tetapi hanya untuk industri non-HGBT\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

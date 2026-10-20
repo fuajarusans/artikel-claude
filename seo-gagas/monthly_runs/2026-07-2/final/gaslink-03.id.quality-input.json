@@ -1,0 +1,81 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-07-2\\final\\gaslink-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-07-08T09:28:43+07:00",
+    "word_count":  1629,
+    "paragraph_count":  27,
+    "sentence_count":  78,
+    "ai_detector":  {
+                        "score":  0.08,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.442,
+                        "sentence_burstiness":  0.569,
+                        "top30_vocab_share":  0.373,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.442 (target \u003e=0.45)",
+                                          "line":  -1
+                                      },
+                                      {
+                                          "pattern":  "vocab-repetition",
+                                          "severity":  "low",
+                                          "snippet":  "Top 30 words = 37.3% of body (target \u003c30%)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Berdasarkan faktor emisi pembakaran US EIA, gas bumi menghasilkan sekitar 52,91 kg CO2 per MMBtu, dibanding solar ~74,14 (turun ~29%) dan LPG ~62,88 (turun ~16%).",
+                                      "candidate_score":  31,
+                                      "web_search_query":  "\"Berdasarkan faktor emisi pembakaran US EIA, gas bumi menghasilkan sekitar 52,91 kg CO2 per MMBtu, dibanding solar ~74,14\""
+                                  },
+                                  {
+                                      "passage":  "## Kenapa Fuel Switching ke Gas Bumi Jadi Langkah Dekarbonisasi Tercepat bagi Industri?",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"## Kenapa Fuel Switching ke Gas Bumi Jadi Langkah Dekarbonisasi Tercepat bagi Industri?\""
+                                  },
+                                  {
+                                      "passage":  "*Fuel switching* menurunkan emisi Scope 1 pembakaran, tetapi net zero menuntut penanganan Scope 2, Scope 3, sekaligus pengurangan emisi metana di sepanjang rantai pasok gas.",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"*Fuel switching* menurunkan emisi Scope 1 pembakaran, tetapi net zero menuntut penanganan Scope 2, Scope 3, sekaligus pe\""
+                                  },
+                                  {
+                                      "passage":  "Standar Industri Hijau (SIH) disusun Kementerian Perindustrian, mencakup bahan baku, energi, proses produksi, hingga limbah, dan sudah terbit untuk 17 jenis industri.",
+                                      "candidate_score":  21,
+                                      "web_search_query":  "\"Standar Industri Hijau (SIH) disusun Kementerian Perindustrian, mencakup bahan baku, energi, proses produksi, hingga lim\""
+                                  },
+                                  {
+                                      "passage":  "Namun Scope 2 (listrik) dan Scope 3 (rantai pasok) tetap perlu ditangani terpisah, dan gas bumi sendiri masih bahan bakar fosil, bukan solusi nol emisi.",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"Namun Scope 2 (listrik) dan Scope 3 (rantai pasok) tetap perlu ditangani terpisah, dan gas bumi sendiri masih bahan baka\""
+                                  },
+                                  {
+                                      "passage":  "Namun pajak karbon **belum berlaku efektif** hingga pertengahan 2026, sudah dua kali ditunda, dan sasaran awalnya hanya PLTU batu bara, bukan seluruh industri pengguna bahan bakar fosil.",
+                                      "candidate_score":  15,
+                                      "web_search_query":  "\"Namun pajak karbon **belum berlaku efektif** hingga pertengahan 2026, sudah dua kali ditunda, dan sasaran awalnya hanya \""
+                                  },
+                                  {
+                                      "passage":  "**Kalikan dengan faktor emisi.** Kalikan total MMBtu dengan faktor emisi bahan bakar lama (74,14 untuk solar) dan faktor gas bumi (52,91), memakai koefisien EIA.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"**Kalikan dengan faktor emisi.** Kalikan total MMBtu dengan faktor emisi bahan bakar lama (74,14 untuk solar) dan faktor\""
+                                  },
+                                  {
+                                      "passage":  "Pertama, faktor emisi EIA hanya menghitung titik pembakaran; bila ditambah emisi metana (CH4) dari ekstraksi, pemrosesan, dan pengangkutan, keunggulan gas bisa mengecil.",
+                                      "candidate_score":  12,
+                                      "web_search_query":  "\"Pertama, faktor emisi EIA hanya menghitung titik pembakaran; bila ditambah emisi metana (CH4) dari ekstraksi, pemrosesan\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

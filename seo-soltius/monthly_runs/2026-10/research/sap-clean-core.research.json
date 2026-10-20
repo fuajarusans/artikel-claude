@@ -1,0 +1,96 @@
+{
+  "keyword": "SAP Clean Core",
+  "keyword_slug": "sap-clean-core",
+  "month": "2026-10",
+  "captured_at": "2026-10-07",
+  "landing_page": "https://www.soltius.co.id/blog/sap-clean-core-the-complete-guide",
+  "landing_page_summary": "Hub guide covers: definisi clean core (in-app vs side-by-side), 5 dimensi (Extensibility, Processes, Data, Integration, Operations), deep-dive dimensi Data (governance/strategy/quality/tiering/protection), ROI & manfaat bisnis, langkah implementasi greenfield vs brownfield, SAP Signavio + SAP BTP sebagai enabler, FAQ. Basics sudah tertutup di hub + 23 artikel supporting lintas batch.",
+  "data_sources_used": ["websearch", "landing_page_fetch", "articles_history", "monthly_run_finals_2026-06_2026-07-2_2026-08_2026-08-2_2026-09"],
+  "ahrefs_available": false,
+  "live_serp_scrape": "blocked (google.com/search returned an error/interstitial page; PAA derived from WebSearch result snippets + known Indonesian B2B query patterns instead)",
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Clean core tetap tema inti SAP 2025-2026 (Sapphire 2026: clean core + AI readiness). Coretax (wajib 31 Des 2025) menambah urgensi integrasi clean-core-safe di Indonesia.",
+    "apr2026_rank": "#100 (per CLAUDE.md / seo_report; whitespace terbesar)"
+  },
+  "serp": {
+    "top_10": [
+      { "url": "https://www.sap.com/resources/what-is-a-clean-core", "title": "What is a clean core? | SAP", "angle_summary": "Definisi resmi SAP: pindahkan kustomisasi off-core ke BTP via approved tools/released API; lima dimensi." },
+      { "url": "https://blog.sap-press.com/sap-s4hana-clean-core-principles-benefits-and-best-practices", "title": "SAP S/4HANA Clean Core: Principles, Benefits and Best Practices", "angle_summary": "Prinsip, manfaat, best practice; audiens arsitek/konsultan." },
+      { "url": "https://sapinsider.org/articles/sap-solution-extensibility-build-whats-yours-protect-whats-saps/", "title": "SAP Solution Extensibility: Build What's Yours, Protect What's SAP's", "angle_summary": "Framing extensibility clean core; build vs protect." },
+      { "url": "https://redresscompliance.com/sap-clean-core-licensing-implications.html", "title": "What SAP's Clean Core Strategy Actually Requires", "angle_summary": "Implikasi lisensi + biaya refactor off-core ke BTP (US$500k-3jt untuk skenario besar)." },
+      { "url": "https://www.workato.com/the-connector/coretax-indonesia/", "title": "Coretax ERP Integration in 2026 (e-Faktur, XML, H2H)", "angle_summary": "Integrasi ERP (SAP/Oracle/NetSuite) ke Coretax DJP via H2H/API; titik gagal di handoff ERP-validasi-submit." }
+    ],
+    "serp_features": ["ai_overview", "paa"],
+    "ai_overview_entities": ["SAP S/4HANA", "SAP BTP", "ABAP Cloud", "side-by-side extensibility", "in-app extensibility", "released API", "Clean Core Levels A-D", "SAP Joule", "SAP Build Code", "SAP Readiness Check", "GROW with SAP", "SAP Cloud ALM", "Coretax DJP"]
+  },
+  "paa": [
+    "Apa itu SAP clean core?",
+    "Apakah custom code wajib dihilangkan untuk clean core?",
+    "Berapa biaya SAP BTP untuk ekstensi clean core?",
+    "Apa perbedaan Clean Core Level A, B, C, dan D?",
+    "Bagaimana cara menghubungkan SAP S/4HANA ke Coretax tanpa mengotori core?",
+    "Apakah GROW with SAP mengharuskan clean core?",
+    "Apa itu SAP Readiness Check dan apa yang dianalisisnya?",
+    "Bisakah Joule membantu menulis kode ABAP Cloud yang clean-core-safe?",
+    "Seberapa sering SAP S/4HANA Cloud Public Edition di-upgrade?",
+    "Apakah clean core mengurangi beban testing saat upgrade?"
+  ],
+  "gsc_style_queries_from_report": [
+    "n/a untuk bulan ini (seo_report: none di keywords.md 2026-10). Rank acuan #100 dari CLAUDE.md; keyword priority=whitespace."
+  ],
+  "verified_facts": {
+    "coretax": "Coretax = sistem inti administrasi pajak DJP; wajib/berlaku nasional sejak 31 Desember 2025, menggantikan e-Faktur sebagai kanal utama. Filer volume tinggi integrasi via host-to-host (H2H) dan API dengan skema XML DJP. (Workato, Comarch 2025-2026.)",
+    "grow_with_sap": "GROW with SAP = offering untuk perusahaan menengah tanpa jejak SAP sebelumnya; S/4HANA Cloud Public Edition + SAP Activate + best practice + BTP; fit-to-standard, clean-core-by-default; target 50-250 karyawan; go-live 4-8 minggu. (ASUG, Techzine, SAPinsider.)",
+    "sap_build_code_joule": "SAP Build Code = lingkungan dev generatif di BTP dengan Joule; Joule memakai ABAP LLM untuk generate kode sesuai model ABAP Cloud dan menjelaskan legacy code untuk modernisasi ke clean core; akses dari ABAP development tools untuk S/4HANA Cloud. (SAP News, SAP Community, Constellation Research.)",
+    "readiness_check": "SAP Readiness Check menganalisis simplification items (relevan untuk source/target release), custom code (high-level, lanjutkan dengan tools lain spt ATC/Custom Code Migration), sizing, SAP Notes. Clean core extensibility diklasifikasi Level A-D. (Consilio, SAP blogs.)",
+    "cloud_alm_testing": "SAP Cloud ALM Test Management mendokumentasikan tes proses/integrasi/migrasi data; regression testing pada fase Run untuk cek dampak upgrade pada konfigurasi/kustomisasi; ada predelivered automated test case untuk proses standar S/4HANA Cloud Public Edition (Test Preparation app) — pelanggan otomasi proses kustom sendiri; jadwal upgrade tetap (tidak bisa digeser). (SAP Learning, Panaya, PIKON.)",
+    "clean_core_levels": "Level A (public interface + stability contract), B (established API/klasik), C (read access objek internal), D (modifikasi kritis / tidak direkomendasikan). (Consilio/SAP.)"
+  },
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      "2026-06-01 apa-itu-clean-core-kesiapan-cloud (definisi/4 dimensi) [committed]",
+      "2026-06-02 remediasi-custom-code-abap-cloud (Z-code remediation, how-to) [committed]",
+      "2026-06-03 clean-core-maturity-assessment-kerangka (maturity 5-dimensi konseptual) [committed]",
+      "2026-06-04 side-by-side-extensibility-sap-btp-build (side-by-side ext) [committed]",
+      "2026-06-05 clean-core-brownfield-vs-greenfield (comparison migrasi) [committed]",
+      "2026-08-01 clean-core-fondasi-ai-joule-business-ai (AI/Joule readiness, business) [committed]",
+      "2026-08-02 clean-core-integrasi-api-first-integration-suite (integrasi generik API-first) [committed]",
+      "2026-08-03 in-app-key-user-extensibility-pengguna-bisnis (key-user ext) [committed]",
+      "2026-08-04 memilih-partner-si-clean-core (pilih partner, 7 pertanyaan) [committed]",
+      "2026-07-2-01 business-case-roi-direksi (business case/ROI/TCO) [final-uncommitted]",
+      "2026-07-2-02 industri-teregulasi (farmasi/bank/mfg, compliance customization) [final-uncommitted]",
+      "2026-07-2-03 fit-to-standard-budaya (fit-to-standard, change mgmt/budaya) [final-uncommitted]",
+      "2026-07-2-04 center-of-excellence (CoE, tim internal) [final-uncommitted]",
+      "2026-07-2-05 ekstensi-upgrade-safe (upgrade-safe, Level A-D, high-freq release) [final-uncommitted]",
+      "2026-08-2-01 dimensi-data (data dimension, archiving/ILM/tiering) [final-uncommitted]",
+      "2026-08-2-02 add-on-pihak-ketiga (certified add-on, build vs buy) [final-uncommitted]",
+      "2026-08-2-03 public-private-on-premise (aturan clean core per deployment) [final-uncommitted]",
+      "2026-08-2-04 kpi-clean-core-cloud-alm (KPI monitoring via Cloud ALM) [final-uncommitted]",
+      "2026-08-2-05 tata-kelola-stay-clean (governance/stay clean, approval workflow) [final-uncommitted]",
+      "2026-09-01 strategi-keamanan (security, attack surface, Security Notes) [final-uncommitted]",
+      "2026-09-02 merger-akuisisi (M&A harmonization, Central Finance) [final-uncommitted]",
+      "2026-09-03 transisi-developer-abap-cloud (developer upskilling, RAP, ADT) [final-uncommitted]",
+      "2026-09-04 biaya-btp-side-by-side (biaya BTP, CPEA/BTPEA/PAYG, FinOps) [final-uncommitted]"
+    ],
+    "total_prior": 23,
+    "saturation": "SANGAT TINGGI (paling jenuh dari 4 keyword Oktober). Hampir semua intent & dimensi inti sudah tertutup.",
+    "uncovered_angles_selected": [
+      "GROW with SAP: clean core sebagai default untuk perusahaan menengah adopter-baru (audiens net-new, bukan migran ECC)",
+      "Integrasi clean-core-safe ke sistem regulasi Indonesia (Coretax/e-Faktur DJP, SLIK OJK, BI-FAST, BPJS) — localized, flagged uncovered oleh 2026-08-02",
+      "Membaca laporan SAP Readiness Check untuk sinyal clean core sebelum proyek (tooling/how-to, flagged uncovered oleh 2026-08-04)",
+      "SAP Build Code + Joule: pembangunan ekstensi clean-core-safe dibantu AI generatif (dev tooling AI, bukan upskilling career 09-03 atau business-AI 08-01)",
+      "Strategi testing/regresi untuk rilis cloud 2x/tahun: clean core memperkecil surface regresi (disiplin test management, bukan KPI monitoring 08-2-04 atau klasifikasi ekstensi 07-2-05)"
+    ],
+    "rejected_as_near_duplicate": [
+      "Mitos/misconception clean core (tiap mitos sudah dibantah tersebar: greenfield auto-bersih di 06-05, semua Z-code harus dibuang di 06-02) -> repackage",
+      "Technical-debt / cost-of-inaction quantification -> overlap business case 07-2-01 'biaya inaksi'",
+      "Extensibility decision tree menyeluruh -> sintesis 06-04 + 08-03",
+      "Timeline/countdown 2027-2030 -> overlap business case + brownfield/greenfield + maturity",
+      "'Sudah di S/4HANA tapi kotor' cleanup -> overlap remediasi 06-02",
+      "Global template / localisation multinasional -> overlap regulated 07-2-02 + M&A 09-02 (borderline)",
+      "RFP/SOW kontrak penegak clean core -> overlap partner selection 08-04 + governance 08-2-05"
+    ]
+  }
+}

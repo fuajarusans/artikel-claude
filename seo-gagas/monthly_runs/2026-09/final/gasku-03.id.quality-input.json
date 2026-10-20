@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-gagas\\monthly_runs\\2026-09\\final\\gasku-03.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-21T10:11:56+07:00",
+    "word_count":  1578,
+    "paragraph_count":  24,
+    "sentence_count":  86,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.416,
+                        "sentence_burstiness":  0.705,
+                        "top30_vocab_share":  0.287,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.416 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "Berdasarkan PM 39 Tahun 2012 Kemenhub, bengkel konversi CNG wajib memegang sertifikat dari Direktur Jenderal Perhubungan Darat serta mempekerjakan teknisi bersertifikat kompetensi.",
+                                      "candidate_score":  30,
+                                      "web_search_query":  "\"Berdasarkan PM 39 Tahun 2012 Kemenhub, bengkel konversi CNG wajib memegang sertifikat dari Direktur Jenderal Perhubungan\""
+                                  },
+                                  {
+                                      "passage":  "70/M-IND/PER/7/2012, rangkaian komponen converter kit untuk kendaraan CNG maupun LGV wajib memenuhi persyaratan teknis, termasuk SNI 7407-2009 dan SNI 7408-2009, baik untuk produk buatan dalam negeri maupun impor.",
+                                      "candidate_score":  29,
+                                      "web_search_query":  "\"70/M-IND/PER/7/2012, rangkaian komponen converter kit untuk kendaraan CNG maupun LGV wajib memenuhi persyaratan teknis, \""
+                                  },
+                                  {
+                                      "passage":  "Menurut [PM 39 Tahun 2012 Kemenhub](https://peraturan.bpk.go.id/Details/147046/permenhub-no-39-tahun-2012), bengkel konversi CNG wajib bersertifikat dari Ditjen Perhubungan Darat, dan verifikasi ini sebaiknya dilakukan sebelum menyerahkan kendaraan.",
+                                      "candidate_score":  27,
+                                      "web_search_query":  "\"Menurut [PM 39 Tahun 2012 Kemenhub](https://peraturan.bpk.go.id/Details/147046/permenhub-no-39-tahun-2012), bengkel konv\""
+                                  },
+                                  {
+                                      "passage":  "70/M-IND/PER/7/2012, rangkaian converter kit untuk kendaraan CNG maupun LGV wajib memenuhi persyaratan teknis SNI, baik produk lokal maupun impor.",
+                                      "candidate_score":  25,
+                                      "web_search_query":  "\"70/M-IND/PER/7/2012, rangkaian converter kit untuk kendaraan CNG maupun LGV wajib memenuhi persyaratan teknis SNI, baik \""
+                                  },
+                                  {
+                                      "passage":  "## Cara Memilih Bengkel Konversi BBG yang Benar (Checklist) Kit bersertifikat pun bisa mengecewakan jika dipasang sembarangan.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"## Cara Memilih Bengkel Konversi BBG yang Benar (Checklist) Kit bersertifikat pun bisa mengecewakan jika dipasang sembar\""
+                                  },
+                                  {
+                                      "passage":  "## Kit Termurah Sering Jadi Paling Mahal: Biaya Tersembunyi yang Jarang Dibahas Memilih kit dan bengkel semata karena harga termurah kerap menjadi keputusan paling mahal dalam jangka panjang.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"## Kit Termurah Sering Jadi Paling Mahal: Biaya Tersembunyi yang Jarang Dibahas Memilih kit dan bengkel semata karena ha\""
+                                  },
+                                  {
+                                      "passage":  "Sebagai konteks historis, program Ditjen Migas ESDM pernah membagikan converter kit gratis untuk angkutan umum, total sekitar 3.444 unit hingga akhir 2013.",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Sebagai konteks historis, program Ditjen Migas ESDM pernah membagikan converter kit gratis untuk angkutan umum, total se\""
+                                  },
+                                  {
+                                      "passage":  "## Apa Itu Converter Kit dan Kenapa Pilihannya Menentukan Pengalaman BBG Anda?",
+                                      "candidate_score":  20,
+                                      "web_search_query":  "\"## Apa Itu Converter Kit dan Kenapa Pilihannya Menentukan Pengalaman BBG Anda?\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

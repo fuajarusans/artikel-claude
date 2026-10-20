@@ -1,0 +1,126 @@
+{
+  "keyword": "Business Intelligence",
+  "keyword_slug": "business-intelligence",
+  "month": "2026-08-2",
+  "captured_at": "2026-07-08",
+  "landing_page": "https://www.soltius.co.id/id/blog/business-intelligence",
+  "landing_page_summary": "Hub explainer: apa itu BI, 5 manfaat, BI vs Business Analytics vs Data Science, cara kerja BI (raw data -> dashboard), penerapan lintas industri (retail/F&B/finance), 3 tools populer (Tableau, Power BI, Looker), masa depan BI (AI & otomasi). Generik, tool-agnostik; SAP hanya muncul di sidebar (SAP Business One, S/4HANA).",
+  "data_sources_used": ["live_serp", "websearch", "landing_page_fetch", "articles_history", "product_matrix.md"],
+  "ahrefs_available": false,
+  "ahrefs_note": "Ahrefs MCP requires OAuth and is NOT connected to this session. Volume/KD reported as n/a; ranking context from CLAUDE.md/product_matrix (Apr 2026 rank #100, crashed #10->#100, priority=rescue).",
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "BI as a term is stable-to-growing in ID; interest shifting toward AI/augmented analytics, governance/compliance (UU PDP), and vertical use-cases based on live SERP competitor coverage.",
+    "apr2026_rank": 100,
+    "rank_trajectory": "Crashed from #10 to #100 (Apr 2026). Priority = rescue. Needs deep, original, non-thin coverage that fills genuine SERP gaps.",
+    "priority": "rescue"
+  },
+  "serp": {
+    "note": "WebSearch is US-region; Indonesian-language queries used to surface both ID and global competitor angles + PAA-style questions. Live google.com/search?hl=id scrape degraded; angles cross-checked against ID competitors (fanruan.com/id, gits.id, integrasolusi, dtrust, badr.co.id) and global BI vendors.",
+    "angle_probes": [
+      {
+        "angle": "platform selection / build vs buy / PoC",
+        "top_results": [
+          {"url": "https://productschool.com/blog/leadership/build-vs-buy", "title": "Build vs Buy: Making Smarter Software Decisions in 2026", "angle_summary": "Strategic-alignment framework for build vs buy; build only where it is core competitive advantage."},
+          {"url": "https://www.databricks.com/blog/enterprise-analytics-platform-evaluation", "title": "How to Evaluate an Enterprise Analytics Platform", "angle_summary": "Argues dashboard comparison is the wrong start; evaluate whether analytics+AI+agents run on one data layer; PoC on your own data + 3-year TCO + vendor question bank."},
+          {"url": "https://www.silvon.com/blog/build-buy-debate/", "title": "Business Intelligence: The Build vs Buy Debate", "angle_summary": "Classic build-vs-buy tradeoffs for BI specifically."}
+        ],
+        "gaps": "No Indonesian-language, SAP-context piece on a repeatable BI selection method (criteria matrix + PoC-on-your-own-data + 3-year TCO + build-vs-buy) framed for a mid-large ID enterprise. Global pieces are vendor-biased."
+      },
+      {
+        "angle": "BI security / RLS / masking / UU PDP compliance",
+        "top_results": [
+          {"url": "https://resources.dtrust.co.id/blog/kenali-9-teknologi-keamanan-uu-pdp-nomor-tujuh-sering-diabaikan/", "title": "9 Teknologi Keamanan UU PDP", "angle_summary": "General UU PDP security tech: masking/tokenization, encryption at-rest/in-transit, IAM/least-privilege, MFA, audit trail, DLP."},
+          {"url": "https://gits.id/blog/uu-pdp-perlindungan-keamanan-data-pribadi/", "title": "UU PDP: Landasan Baru untuk Keamanan Data Pribadi", "angle_summary": "UU PDP overview (disahkan 20 Sep 2022; masa transisi penuh ~Okt 2024)."},
+          {"url": "https://badr.co.id/business-insights/kepatuhan-uu-pdp-dan-gdpr-dalam-pengelolaan-data-di-indonesia/", "title": "Kepatuhan UU PDP dan GDPR", "angle_summary": "Compliance obligations, parallels to GDPR."}
+        ],
+        "gaps": "Plenty of generic UU PDP/security content, but almost nothing that connects it specifically to BI/analytics: row-level & object-level security, what happens when personal data lands in a dashboard, data minimization in reports, DSAR/retention in analytics, over-restriction killing adoption. Clear whitespace."
+      },
+      {
+        "angle": "BI for manufacturing (OEE/downtime/yield)",
+        "top_results": [
+          {"url": "https://www.fanruan.com/id/blog/manfaat-bi-untuk-pabrik", "title": "Manfaat BI untuk Pabrik: 7 Use Case", "angle_summary": "ID-language BI-for-factory use cases: reduce downtime & cost."},
+          {"url": "https://www.wynenterprise.com/blogs/business-intelligence-dashboards-for-manufacturing-overall-equipment-effectiveness/", "title": "BI Dashboards for Manufacturing: OEE", "angle_summary": "OEE = Availability x Performance x Quality; world-class >=85%, typical 40-60%."},
+          {"url": "https://okundata.com/blog/business-intelligence-for-manufacturing", "title": "BI for Manufacturing: Optimizing Production with Data", "angle_summary": "Consolidate production/maintenance/quality/inventory/cost into one view for faster root-cause."}
+        ],
+        "gaps": "ID competitors treat it as a generic 'manfaat BI untuk pabrik' listicle. Whitespace: SAP-context piece connecting shop-floor metrics (OEE, downtime, first-pass yield, scrap) to real data sources (MES, SAP Digital Manufacturing, S/4HANA PP) + honest 'garbage-in' warning on machine data quality."
+      },
+      {
+        "angle": "BI Center of Excellence / operating model",
+        "top_results": [
+          {"url": "https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-center-of-excellence", "title": "Fabric adoption roadmap: Center of Excellence", "angle_summary": "Centralized vs federated vs unified CoE models; roles, governance."},
+          {"url": "https://metricasoftware.com/power-bi-center-of-excellence-structure-roles-and-governance-model/", "title": "Power BI CoE: Structure, Roles, Governance", "angle_summary": "CoE structure, roles, RACI-style ownership."},
+          {"url": "https://gocollectiv.com/blog/power-bi-center-of-excellence-framework/", "title": "Build a Power BI CoE in 5 Steps", "angle_summary": "Practical 5-step CoE build."}
+        ],
+        "gaps": "All Power-BI/Microsoft-centric and English. No ID-language, vendor-neutral piece on WHO should own BI in an Indonesian enterprise (centralized vs federated vs hub-and-spoke), the roles needed, funding/backlog model, and when a formal CoE is premature."
+      },
+      {
+        "angle": "cloud vs on-premise BI deployment",
+        "top_results": [
+          {"url": "https://www.sigmacomputing.com/blog/business-intelligence-in-the-cloud-saas-vs-on-premises", "title": "BI: Cloud (SaaS) vs On-Premises", "angle_summary": "SaaS vs on-prem tradeoffs; vendor handles hosting/maintenance/scaling in SaaS."},
+          {"url": "https://www.zoho.com/analytics/cloud-vs-on-prem-bi.html", "title": "Cloud BI vs On-Premises BI: How to Choose", "angle_summary": "Decision guide across cost, control, speed."},
+          {"url": "https://www.yellowfinbi.com/blog/why-companies-still-choose-on-premise-business-intelligence-deployments", "title": "Why Companies Still Choose On-Premise BI", "angle_summary": "Data residency, classified environments, legacy data gravity keep on-prem alive; hybrid now common."}
+        ],
+        "gaps": "English/vendor content only. Whitespace: ID-context deployment decision (SAC is cloud-only SaaS; BusinessObjects on-prem) weighing TCO, control/maintenance, latency/data-gravity, upgrade cadence, and Indonesian sector residency rules (OJK/finance, government) + honest 'cloud is not always cheaper'."
+      }
+    ],
+    "serp_features": ["ai_overview_likely", "paa", "featured_snippet_definition"],
+    "ai_overview_entities": ["Business Intelligence", "SAP Analytics Cloud", "OEE", "row-level security", "UU PDP", "data warehouse", "Center of Excellence", "SaaS", "TCO", "self-service BI"]
+  },
+  "paa": [
+    "Bagaimana cara memilih tools business intelligence yang tepat?",
+    "Apa itu proof of concept dalam proyek BI?",
+    "Lebih baik membangun BI sendiri atau membeli platform jadi?",
+    "Bagaimana mengamankan data pribadi di dashboard sesuai UU PDP?",
+    "Apa itu row-level security di BI?",
+    "Apa saja metrik BI untuk manufaktur?",
+    "Bagaimana cara menghitung OEE?",
+    "Siapa yang seharusnya mengelola tim BI di perusahaan?",
+    "Apa itu BI Center of Excellence?",
+    "Lebih baik BI di cloud atau on-premise?",
+    "Apakah data BI di cloud aman dan sesuai regulasi Indonesia?"
+  ],
+  "gsc_style_queries_from_report": [
+    "n/a - keywords.md for 2026-08-2 sets seo_report: none (no April-report rows leaned on for this batch). Ranking context taken from CLAUDE.md/product_matrix: BI rank #100 Apr 2026, priority rescue."
+  ],
+  "history_snapshot": {
+    "existing_articles_for_keyword": [
+      "business-intelligence-data-berlimpah-keputusan-lebih-baik (2026-06) - foundational: BI vs analytics vs data science, when you need BI, 3 layers",
+      "sap-analytics-cloud-bi-planning-prediktif-tiga-pilar (2026-06) - SAC product: 3 pillars (BI/planning/predictive), SAC vs BusinessObjects",
+      "embedded-analytics-s4hana-business-intelligence-real-time (2026-06) - embedded analytics in S/4HANA, vs SAC",
+      "self-service-bi-vs-bi-tradisional-framework-keputusan (2026-06) - self-service vs traditional, analytics-maturity decision framework",
+      "alasan-proyek-business-intelligence-gagal-dan-cara-mencegah (2026-06) - 5 reasons BI projects fail + prevention",
+      "business-intelligence-untuk-cfo (2026-08) - persona CFO: financial KPIs, real-time close, financial telemetry",
+      "augmented-analytics-ai-business-intelligence (2026-08) - AI in BI: NLP query, predictive, agentic; limits",
+      "business-intelligence-vs-excel-kapan-beralih (2026-08) - BI vs Excel, 6 dimensions, hidden spreadsheet cost",
+      "cara-mendesain-dashboard-bi-yang-dipakai (2026-08) - dashboard design: KPI count, visual hierarchy, misleading viz",
+      "roi-business-intelligence-business-case (2026-08) - ROI: cost components, tangible/intangible, 5-step business case",
+      "business-intelligence-butuh-budaya-data-bukan-cuma-tools (2026-07-2, uncommitted) - data culture, literacy, maturity stages",
+      "business-intelligence-retail-distribusi-fmcg-use-case (2026-07-2, uncommitted) - vertical: retail/FMCG distribution, 5 use cases, field-data quality",
+      "real-time-bi-vs-laporan-batch (2026-07-2, uncommitted) - real-time vs batch, latency, live vs import, data-warehouse role",
+      "kenapa-angka-bi-beda-tata-kelola-data-semantic-layer (2026-07-2, uncommitted) - single source of truth, semantic/metrics layer, governance vs agility",
+      "business-intelligence-untuk-ukm-kapan-cocok (2026-07-2, uncommitted) - SMB/UKM readiness, cost, SAP Business One path"
+    ],
+    "saturation_note": "15 prior BI articles across 3 batches (2026-06, 2026-08, 2026-07-2). Heavily covered intents: definitional, product deep-dive (SAC/embedded), comparison (BI vs Excel, self-service vs traditional, real-time vs batch, SAC vs BO), persona (CFO), how-to (dashboard design), decision (ROI, failure), vertical (FMCG, UKM), foundational (data culture, semantic-layer governance), AI (augmented analytics).",
+    "uncovered_angles_selected_for_this_batch": [
+      "HOW to select/evaluate a BI platform (criteria matrix + PoC-on-your-own-data + 3-year TCO + build vs buy) - distinct from ROI (business case $) and failure-reasons (why projects fail)",
+      "BI SECURITY & privacy: row-level/object-level security, masking, UU PDP compliance, audit trail - distinct from semantic-layer governance (which was metric consistency/single source of truth)",
+      "BI for MANUFACTURING (shop-floor: OEE, downtime, yield, scrap; MES/S4HANA PP data) - distinct vertical from FMCG distribution (sell-through/logistics metrics)",
+      "WHO owns BI: Center of Excellence / operating model (centralized vs federated vs hub-and-spoke, roles, funding) - distinct from data-culture (behavior) and governance (metrics)",
+      "Cloud vs on-premise BI DEPLOYMENT (SaaS vs on-prem vs hybrid; TCO, control, data gravity, residency) - distinct infra angle, untouched by any prior article"
+    ],
+    "left_for_future_batches": [
+      "People analytics / HR BI (SuccessFactors) - persona angle not yet used",
+      "Analytics maturity ladder (descriptive->diagnostic->predictive->prescriptive) - conceptual, but adjacent to augmented-analytics + maturity articles; deferred to keep <0.4 Jaccard",
+      "BI data quality deep-dive (garbage-in) - adjacent to data-culture + governance; deferred",
+      "Mobile/executive BI on-the-go",
+      "BI + generative AI / conversational analytics deep-dive - already partly covered by augmented-analytics"
+    ]
+  },
+  "cousins_chosen": {
+    "cousin_1": {"keyword": "Data Warehouse Solutions", "url": "https://www.soltius.co.id/id/blog/data-warehouse-solutions", "why": "BI membutuhkan lapisan data/warehouse sebagai sumber tepercaya (single source of truth)."},
+    "cousin_2": {"keyword": "ERP migration to the cloud", "url": "https://www.soltius.co.id/id/blog/migrasi-erp-ke-cloud", "why": "Analitik pasca-migrasi: S/4HANA sebagai sumber data operasional real-time untuk BI."},
+    "note": "Both cousins are in the 2026-08-2 keyword set (per instruction to pick 2 cousins from within the set) AND match the product_matrix.md endorsed BI cousin pairing. Used consistently across all 5 briefs."
+  }
+}

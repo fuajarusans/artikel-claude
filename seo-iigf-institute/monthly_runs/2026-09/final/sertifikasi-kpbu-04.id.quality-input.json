@@ -1,0 +1,75 @@
+﻿{
+    "article_path":  "D:\\Users\\seo\\Documents\\fajar-artikel\\artikel-claude\\seo-iigf-institute\\monthly_runs\\2026-09\\final\\sertifikasi-kpbu-04.id.md",
+    "language":  "id",
+    "generated_at":  "2026-09-22T06:34:28+07:00",
+    "word_count":  1589,
+    "paragraph_count":  25,
+    "sentence_count":  86,
+    "ai_detector":  {
+                        "score":  0.04,
+                        "verdict":  "pass",
+                        "threshold_revise":  0.3,
+                        "threshold_reject":  0.5,
+                        "paragraph_burstiness":  0.42,
+                        "sentence_burstiness":  0.896,
+                        "top30_vocab_share":  0.3,
+                        "flags":  [
+                                      {
+                                          "pattern":  "paragraph-low-variance",
+                                          "severity":  "low",
+                                          "snippet":  "Paragraph word-count CV=0.42 (target \u003e=0.45)",
+                                          "line":  -1
+                                      }
+                                  ],
+                        "external_api_used":  false
+                    },
+    "plagiarism_candidates":  [
+                                  {
+                                      "passage":  "7 Tahun 2023 mencabut dua peraturan pelaksana KPBU sebelumnya dan mulai berlaku 29 September 2023.",
+                                      "candidate_score":  28,
+                                      "web_search_query":  "\"7 Tahun 2023 mencabut dua peraturan pelaksana KPBU sebelumnya dan mulai berlaku 29 September 2023.\""
+                                  },
+                                  {
+                                      "passage":  "PPP Guide sendiri memang diperbarui: halaman sertifikasi APMG menyebut cakupan bab level Execution sebagai Bab 5–7 pada satu versi dan Bab 5–8 pada versi lain (APMG International, 2026).",
+                                      "candidate_score":  27,
+                                      "web_search_query":  "\"PPP Guide sendiri memang diperbarui: halaman sertifikasi APMG menyebut cakupan bab level Execution sebagai Bab 5–7 pada \""
+                                  },
+                                  {
+                                      "passage":  "[Halaman sertifikasi APMG](https://ppp-certification.com/certification) menyebut cakupan ujian level Execution sebagai *\"Chapters 5-7 (version 2) or Chapters 5-8 (version 1)\"*, dua versi panduan berdampingan pada satu halaman resmi yang sama.",
+                                      "candidate_score":  24,
+                                      "web_search_query":  "\"[Halaman sertifikasi APMG](https://ppp-certification.com/certification) menyebut cakupan ujian level Execution sebagai *\""
+                                  },
+                                  {
+                                      "passage":  "Kredensial CP3P penuh baru diberikan kepada kandidat yang lulus ketiga ujian, dengan Foundation mencakup Bab 1 dan Preparation Bab 2–5 (APMG International, 2026).",
+                                      "candidate_score":  22,
+                                      "web_search_query":  "\"Kredensial CP3P penuh baru diberikan kepada kandidat yang lulus ketiga ujian, dengan Foundation mencakup Bab 1 dan Prepa\""
+                                  },
+                                  {
+                                      "passage":  "IIGF Institute, unit manajemen pengetahuan PT Penjaminan Infrastruktur Indonesia (Persero) di bidang KPBU, menjadi ATO APMG pertama di Indonesia sejak 2019.",
+                                      "candidate_score":  19,
+                                      "web_search_query":  "\"IIGF Institute, unit manajemen pengetahuan PT Penjaminan Infrastruktur Indonesia (Persero) di bidang KPBU, menjadi ATO A\""
+                                  },
+                                  {
+                                      "passage":  "## FAQ (Pertanyaan yang Sering Diajukan) ### Apakah kredensial CP3P memiliki masa berlaku?",
+                                      "candidate_score":  18,
+                                      "web_search_query":  "\"## FAQ (Pertanyaan yang Sering Diajukan) ### Apakah kredensial CP3P memiliki masa berlaku?\""
+                                  },
+                                  {
+                                      "passage":  "**Terjemahkan istilahnya.** Petakan konsep PPP Guide ke dokumen internal: kerangka acuan kerja, kajian awal, rancangan kontrak.",
+                                      "candidate_score":  16,
+                                      "web_search_query":  "\"**Terjemahkan istilahnya.** Petakan konsep PPP Guide ke dokumen internal: kerangka acuan kerja, kajian awal, rancangan k\""
+                                  },
+                                  {
+                                      "passage":  "## Langkah menjaga investasi sertifikasi tetap hidup Menjaga investasi sertifikasi tetap hidup bukan soal menambah pelatihan, melainkan memberi pengetahuan itu saluran keluar, lahan praktik, dan penyimpanan.",
+                                      "candidate_score":  14,
+                                      "web_search_query":  "\"## Langkah menjaga investasi sertifikasi tetap hidup Menjaga investasi sertifikasi tetap hidup bukan soal menambah pelat\""
+                                  }
+                              ],
+    "plagiarism":  {
+                       "verdict_pending":  true,
+                       "note":  "Agent must run WebSearch on each candidate.web_search_query and aggregate verdict (pass/revise/reject).",
+                       "external_api_used":  false,
+                       "threshold_revise_sentence":  0.15,
+                       "threshold_revise_paragraph":  0.08
+                   }
+}

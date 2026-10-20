@@ -1,0 +1,164 @@
+{
+  "keyword": "Sertifikasi KPBU",
+  "keyword_slug": "sertifikasi-kpbu",
+  "month": "2026-08",
+  "captured_at": "2026-08-12",
+  "landing_page": "https://institute.iigf.co.id/",
+  "landing_page_summary": "Homepage IIGF Institute; title tag berbunyi 'Sertifikasi KPBU Resmi & Profesional | IIGF Institute' — hub sudah menargetkan frasa ini secara langsung. Heading utama: 'Selamat Datang', 'Publikasi Kami'. CTA utama 'Jelajahi Kursus CP3P'. Blok lain: Capacity Building ('Pelajari Lebih Lanjut'), E-Library, Research. Halaman berperilaku sebagian sebagai portal login; sebagian konten hanya terbaca lewat snippet publik.",
+  "data_sources_used": [
+    "live_serp_bing_id (proxy; Google memblokir WebFetch)",
+    "google_autocomplete_suggest_api (data query riil, hl=id&gl=id)",
+    "websearch",
+    "webfetch_landing_page",
+    "webfetch_institute_cp3p_ikhtisar_kursus"
+  ],
+  "ahrefs_available": false,
+  "seo_report": "none",
+  "metrics": {
+    "volume_id": "n/a (Ahrefs not connected)",
+    "kd": "n/a (Ahrefs not connected)",
+    "trend": "Sinyal volume rendah tapi nyata. Google Autocomplete (hl=id, gl=id) hanya mengembalikan 2 saran untuk seed 'sertifikasi kpbu' ('sertifikasi kpbu', 'sertifikasi ahli kpbu') dan 0 saran untuk 'sertifikasi kpbu adalah' / 'biaya cp3p' / 'cara menjadi ahli kpbu' — indikasi head-term tipis. Klaster tetangga 'ahli kpbu' jauh lebih kaya (9 saran), menandakan intent riil terkonsentrasi di sana. Momentum regulatif naik: kewajiban sertifikasi tenaga ahli KPBU muncul di Permen PPN/Bappenas No. 7 Tahun 2023, dan uji sertifikasi skema Ahli Pratama KPBU oleh LSP KPBU terlisensi BNSP dilaporkan berjalan pada Agustus 2025.",
+    "report_rank": "n/a (tidak ada seo_report bulan ini)"
+  },
+  "serp": {
+    "capture_note": "Google Search memblokir WebFetch (mengembalikan halaman bantuan). SERP direkonstruksi dari Bing ID (cc=ID&setlang=id) + WebSearch. CATATAN KEANDALAN: Bing mengembalikan set hasil yang identik untuk 'sertifikasi KPBU' dan 'sertifikasi ahli KPBU CP3P', jadi Bing hanya dipakai untuk mengonfirmasi pola dominasi, bukan sebagai peringkat presisi.",
+    "top_10": [
+      { "url": "https://bnsp.go.id/", "title": "BNSP - Badan Nasional Sertifikasi Profesi", "angle_summary": "Situs lembaga sertifikasi profesi nasional; tidak membahas KPBU sama sekali — muncul karena kata 'sertifikasi'." },
+      { "url": "https://e-sertifikasi.pom.go.id/", "title": "e-Sertifikasi Badan POM", "angle_summary": "Portal e-sertifikasi obat & makanan; sepenuhnya tidak relevan dengan KPBU." },
+      { "url": "https://sertifikat.co.id/", "title": "Sertifikat.co.id — Pelatihan & Sertifikasi Kompetensi Resmi BNSP", "angle_summary": "Agregator pelatihan/sertifikasi BNSP lintas skema; generik, tanpa konten KPBU." },
+      { "url": "https://dealls.com/pengembangan-karir/macam-macam-sertifikasi-profesi", "title": "5 Macam Sertifikasi Profesi untuk Meningkatkan Karier", "angle_summary": "Listicle karier umum tentang sertifikasi profesi BNSP (Mar 2025); tidak menyentuh infrastruktur/KPBU." },
+      { "url": "https://www.belajarlagi.id/post/lembaga-sertifikasi-profesi", "title": "10+ Lembaga Sertifikasi Profesi Indonesia dan Jenisnya", "angle_summary": "Daftar LSP/LSK (Nov 2025); kerangka BNSP, bukan KPBU." },
+      { "url": "https://bnsp.go.id/lsp", "title": "LSP — BNSP", "angle_summary": "Direktori LSP; kelembagaan, bukan topikal." },
+      { "url": "https://balaisertifikasi.com/", "title": "Balai Sertifikasi — Lembaga Sertifikasi Profesi dan Kompetensi Indonesia", "angle_summary": "Penyedia sertifikasi komersial lintas bidang; tanpa konten KPBU." },
+      { "url": "https://institute.iigf.co.id/", "title": "Sertifikasi KPBU Resmi & Profesional | IIGF Institute", "angle_summary": "Hub klien sendiri; muncul di hasil WebSearch untuk frasa ini. Title tag sudah menargetkan keyword persis. Isi: portal program CP3P, capacity building, e-library, riset." },
+      { "url": "https://klc2.kemenkeu.go.id/sertifikasi/", "title": "Sertifikasi — KLC Kemenkeu", "angle_summary": "Katalog sertifikasi internal Kemenkeu (mis. ahli kepabeanan); bukan KPBU." },
+      { "url": "https://www.ahlikpbuindonesia.or.id/", "title": "Perkumpulan Ahli Profesional KPBU Indonesia (PAP-KPBU)", "angle_summary": "Satu-satunya pemain yang benar-benar topikal: berita pelatihan Tingkat Dasar Ahli KPBU, uji sertifikasi skema Ahli Pratama KPBU, LSP KPBU terlisensi BNSP. Format berita, bukan artikel penjelas yang bisa dikutip." }
+    ],
+    "serp_features": ["paa_tidak_terbaca (Google diblokir)", "ai_overview_tidak_terverifikasi", "autocomplete_suggestions_terverifikasi"],
+    "ai_overview_entities": [
+      "Belum terverifikasi langsung. Entitas yang PASTI diambil mesin AI untuk topik ini (dari hasil WebSearch yang mengutip sumber): KPBU (Kerja Sama Pemerintah dengan Badan Usaha), CP3P (Certified Public-Private Partnership Professional), APMG International, Accredited Training Organization (ATO), IIGF Institute, PT Penjaminan Infrastruktur Indonesia (Persero), BNSP, LSP KPBU, PAP-KPBU, Panel Ahli KPBU, Bappenas, PPP Guide."
+    ],
+    "gap_headline": "WHITESPACE NYATA. SERP untuk frasa telanjang 'sertifikasi KPBU' dikuasai halaman sertifikasi profesi generik (BNSP dan turunannya) yang tidak menyinggung KPBU sedikit pun. Satu-satunya hasil topikal adalah situs berita asosiasi (PAP-KPBU) dan hub klien sendiri. Belum ada satu pun halaman yang menjelaskan secara jujur bahwa 'Sertifikasi KPBU' BUKAN nama satu kredensial, lalu memetakan jalur yang benar-benar ada."
+  },
+  "paa": [
+    "CATATAN: Google memblokir pengambilan PAA langsung. Daftar di bawah adalah pertanyaan berbasis data query RIIL dari Google Autocomplete (hl=id, gl=id) + judul/snippet hasil pencarian — bukan PAA verbatim, dan tidak dikarang.",
+    "Apakah KPBU dan PPP sama? (autocomplete: 'apakah kpbu dan ppp sama', 'perbedaan kpbu dan ppp')",
+    "Apa itu sertifikasi ahli KPBU? (autocomplete: 'sertifikasi ahli kpbu', 'sertifikat ahli kpbu')",
+    "Apa itu CP3P? (snippet berulang di hasil pencarian: 'CP3P adalah singkatan dari Certified Public-Private Partnership Professional')",
+    "Berapa biaya sertifikasi CP3P? (query bertema biaya muncul konsisten; autocomplete 'biaya cp3p' kosong = pertanyaan ada tapi belum terlayani konten)",
+    "Apa syarat mengikuti sertifikasi CP3P? (snippet halaman resmi menjawab soal prasyarat pengalaman)",
+    "Apa itu CP3P Foundation? (autocomplete: 'cp3p foundation', 'cp3p foundation exam')",
+    "Bagaimana cara menjadi ahli KPBU? (autocomplete: 'cara menjadi ahli kpbu' — 0 saran, artinya pertanyaan diketik tapi belum ada konten mapan)",
+    "Apa itu Ahli Pratama KPBU? (autocomplete: 'ahli pratama kpbu')",
+    "Siapa yang mengeluarkan sertifikasi ahli KPBU? (autocomplete: 'perkumpulan ahli kpbu', 'asosiasi ahli kpbu', 'lsp kpbu')",
+    "Apa itu simpul KPBU? (autocomplete: 'apa itu simpul kpbu')"
+  ],
+  "autocomplete_raw": {
+    "sertifikasi kpbu": ["sertifikasi kpbu", "sertifikasi ahli kpbu"],
+    "sertifikasi kpbu adalah": [],
+    "pelatihan kpbu": ["pelatihan kpbu", "pelatihan ahli kpbu"],
+    "sertifikat kpbu": ["sertifikat kpbu", "sertifikat ahli kpbu"],
+    "ahli kpbu": ["ahli kpbu", "ahli kpbu indonesia", "sertifikasi ahli kpbu", "pelatihan ahli kpbu", "tenaga ahli kpbu", "ahli pratama kpbu", "perkumpulan ahli kpbu", "asosiasi ahli kpbu", "sertifikat ahli kpbu"],
+    "lsp kpbu": ["lsp kpbu", "lsp kpbu indonesia"],
+    "cp3p": ["cp3p", "cp3p certification", "cp3p foundation", "cp3p training", "cp3p exam", "cp3p foundation exam"],
+    "cp3p adalah": ["cp3p adalah"],
+    "biaya cp3p": [],
+    "cara menjadi ahli kpbu": [],
+    "apakah kpbu": ["apakah kpbu dan ppp sama", "apakah kpbu", "apakah kcic kpbu", "apakah whoosh kpbu", "apakah mrt kpbu"],
+    "kpbu dan ppp": ["kpbu dan ppp", "apakah kpbu dan ppp sama", "perbedaan kpbu dan ppp", "kpbu ppp", "kpbu ppp adalah"],
+    "apa itu kpbu": ["apa itu kpbu", "apa itu kpbu unsolicited", "apa itu kpbu ap", "apa itu kpbu spam", "apa itu kpbu solicited", "apa itu kpbu ikn", "apa itu skema kpbu", "apa itu proyek kpbu", "apa itu simpul kpbu", "apa itu pembiayaan kpbu"]
+  },
+  "landscape_findings": {
+    "headline": "'Sertifikasi KPBU' adalah frasa pencarian payung, bukan nama kredensial. Riset menemukan TIGA kategori berbeda yang semuanya disebut orang 'sertifikasi KPBU'.",
+    "kategori": [
+      {
+        "nama": "Kredensial profesional bertaraf internasional",
+        "contoh": "CP3P (Certified Public-Private Partnership Professional) — APMG International",
+        "sifat": "Kredensial berbasis ujian atas PPP Guide; tiga level (Foundation, Preparation, Execution). APMG memiliki dan menganugerahkan kredensial; pelatihan diselenggarakan Accredited Training Organization (ATO).",
+        "sumber_utama": "https://ppp-certification.com/ ; https://apmg-international.com/product/cp3p-apmg-public-private-partnerships-ppp-certification-program"
+      },
+      {
+        "nama": "Sertifikasi kompetensi nasional (skema BNSP)",
+        "contoh": "Skema Ahli Pratama KPBU — LSP KPBU (terlisensi BNSP), dikelola/didorong PAP-KPBU (Perkumpulan Ahli Profesional KPBU Indonesia)",
+        "sifat": "Uji kompetensi berbasis skema nasional; uji sertifikasi skema Ahli Pratama KPBU dilaporkan digelar Agustus 2025. WAJIB DIVERIFIKASI ULANG oleh peneliti (status lisensi, jenjang skema, penyelenggara).",
+        "sumber_utama": "https://www.ahlikpbuindonesia.or.id/ ; https://bnsp.go.id/lsp"
+      },
+      {
+        "nama": "Sertifikat pelatihan / diklat (bukan sertifikasi kompetensi)",
+        "contoh": "Pelatihan teknis PPP/KPBU Pusbindiklatren Bappenas; Pelatihan Skema Pembiayaan Pembangunan Infrastruktur KPBU BPSDM Kementerian PU; sertifikat pelatihan BPPK Kemenkeu; e-learning LKPP; e-learning IIGF Institute",
+        "sifat": "Bukti kehadiran/penyelesaian pelatihan, bukan pengakuan kompetensi berbasis uji. Ini sumber kebingungan terbesar pembaca.",
+        "sumber_utama": "http://pusbindiklatren.bappenas.go.id/ ; https://bpsdm.pu.go.id/ ; https://bppk.kemenkeu.go.id/"
+      }
+    ],
+    "pemicu_regulatif": {
+      "klaim": "Tenaga Ahli yang dipekerjakan Badan Usaha/Konsultan wajib memiliki sertifikasi Ahli KPBU yang diakui secara nasional dan/atau internasional.",
+      "rujukan_yang_muncul_di_riset": "Permen PPN/Kepala Bappenas No. 7 Tahun 2023 tentang Pelaksanaan KPBU dalam Penyediaan Infrastruktur, disebutkan pada Pasal 13 ayat (7)",
+      "rujukan_pendukung": "Keputusan Menteri PPN/Kepala Bappenas No. KEP.218/M.PPN/HK/12/2019 tentang Panel Ahli KPBU dalam Penyediaan Infrastruktur",
+      "status": "BELUM DIVERIFIKASI PADA NASKAH ASLI. Peneliti WAJIB membuka teks resmi di https://jdih.bappenas.go.id/ dan/atau https://kpbu.kemenkeu.go.id/peraturan/ untuk memastikan nomor pasal/ayat, kutipan persis, dan status keberlakuan sebelum dipakai di artikel mana pun.",
+      "mengapa_penting": "Inilah alasan struktural orang mengetik 'sertifikasi KPBU' — ada kewajiban regulatif, tapi belum ada satu pun halaman yang menjelaskannya dengan jernih. Ini kartu diferensiasi utama seluruh klaster."
+    }
+  },
+  "cp3p_facts_confirmed": {
+    "pemilik_program": "APMG International",
+    "peran_iigf_institute": "Accredited Training Organization (ATO) APMG pertama di Indonesia sejak 2019; menyelenggarakan pelatihan, BUKAN pemilik/pemberi kredensial",
+    "pengembang_kerangka": "AfDB, ADB, EBRD, IDB, IsDB, World Bank Group; part-funded oleh PPIAF",
+    "pengembang_kerangka_koreksi_2026-08-12": "Nilai sebelumnya ('ADB, EBRD, IDB, IsDB, MIF, World Bank Group') keliru — daftar itu berasal dari foreword lawas PPP Certification Guide (2016). MIF berganti nama menjadi IDB Lab pada Oktober 2018 dan melebur ke IDB Group; seluruh halaman APMG terkini (ppp-certification.com home, /about-us, /ppp-certification-guide/about-ppp-guide, dan halaman produk apmg-international.com) menyebut AfDB, ADB, EBRD, IDB, IsDB, WBG. Jangan kembalikan MIF, dan jangan pula menghapus AfDB.",
+    "struktur_ujian": "Satu ujian Foundation + dua ujian Practitioner. Foundation adalah prasyarat ujian Practitioner. Dua ujian Practitioner boleh diambil dalam urutan mana pun, tetapi peserta diarahkan mengambil Preparation sebelum Execution mengikuti siklus PPP.",
+    "pemetaan_bab_ppp_guide": {
+      "Foundation": "Bab 1 + Appendix A + Glossary",
+      "Preparation (Practitioner)": "Bab 2–5",
+      "Execution (Practitioner)": "Bab 5–8"
+    },
+    "kredensial_penuh": "Peserta yang mengikuti dan lulus ketiga ujian dapat diberikan kredensial The APMG PPP Certification Program® / CP3P",
+    "untuk_siapa": "Kalangan umum lintas disiplin; terutama praktisi PPP di Kementerian/Lembaga dan Pemda, praktisi PPP, investor, operator, lembaga keuangan, serta konsultan (keuangan, hukum, teknis). Pengalaman sebelumnya membantu tetapi tidak menjadi penghalang.",
+    "biaya_indikatif_2026": {
+      "Foundation": "Rp 19.000.000 (indikatif, per publikasi 2026 — paket bundling kursus + ujian, bergantung metode pelaksanaan)",
+      "Preparation": "Rp 21.000.000 (indikatif, per publikasi 2026)",
+      "Execution": "Rp 21.000.000 (indikatif, per publikasi 2026)",
+      "aturan_penulisan": "SELALU tulis dengan label 'indikatif' + tahun rujukan, dan arahkan pembaca ke halaman resmi. Angka telanjang = editor fail."
+    },
+    "sumber": [
+      "https://ppp-certification.com/training-provider/pt-penjaminan-infrastruktur-indonesia-persero",
+      "https://apmg-international.com/product/cp3p-apmg-public-private-partnerships-ppp-certification-program",
+      "https://institute.iigf.co.id/cp3p/ikhtisar-kursus",
+      "knowledge_base/company_profile.md"
+    ]
+  },
+  "lsi_pool": [
+    "sertifikasi ahli KPBU", "sertifikat ahli KPBU", "pelatihan ahli KPBU", "tenaga ahli KPBU",
+    "Ahli Pratama KPBU", "LSP KPBU", "BNSP", "sertifikasi kompetensi",
+    "CP3P", "Certified Public-Private Partnership Professional", "APMG International", "PPP Guide",
+    "Accredited Training Organization", "ATO", "level Foundation", "level Preparation", "level Execution",
+    "KPBU", "Kerja Sama Pemerintah dengan Badan Usaha", "PPP", "public-private partnership",
+    "perbedaan KPBU dan PPP", "Permen PPN 7 Tahun 2023", "Panel Ahli KPBU", "Bappenas",
+    "simpul KPBU", "PJPK", "penyiapan proyek KPBU", "value for money", "risk allocation",
+    "kompetensi KPBU", "kredensial internasional", "uji kompetensi", "skema sertifikasi"
+  ],
+  "gsc_style_queries_from_report": [],
+  "history_snapshot": {
+    "existing_articles_for_keyword": [],
+    "note": "articles_history/index.json kosong — 2026-08 adalah bulan pertama. Tidak ada dedup lintas bulan; dedup hanya antar 4 brief dalam batch ini.",
+    "uncovered_angles": [
+      "Peta lanskap jujur: apa saja yang orang maksud dengan 'sertifikasi KPBU' (TERPAKAI di brief 01)",
+      "Perbandingan jalur nasional vs internasional (TERPAKAI di brief 02)",
+      "Alur teknis menempuh CP3P tiga level (TERPAKAI di brief 03)",
+      "Kapan sertifikasi belum jadi prioritas + kesalahan umum (TERPAKAI di brief 04)",
+      "SISA UNTUK BULAN BERIKUTNYA: pemetaan jalur berdasarkan peran (PJPK vs konsultan vs badan usaha vs akademisi); penganggaran instansi untuk sertifikasi (DIPA/RKA); apa yang diuji di tiap bab PPP Guide secara rinci; sertifikasi KPBU untuk pemerintah daerah & simpul KPBU; perbandingan istilah KPBU vs PPP dalam kerangka internasional"
+    ]
+  },
+  "cousin_map_this_month": {
+    "own_hub": { "url": "https://institute.iigf.co.id/", "anchor": "Sertifikasi KPBU" },
+    "cousin_1": { "url": "https://institute.iigf.co.id/capacity-building", "anchor": "Capacity Building pembiayaan kreatif" },
+    "cousin_2": { "url": "https://institute.iigf.co.id/e-library/lainnya/77/studi-kasus-kpbu-untuk-penguatan-infrastruktur-digital-dan-informasi", "anchor": "studi kasus proyek infrastruktur di Indonesia" }
+  },
+  "guardrails_for_this_keyword": [
+    "'Sertifikasi KPBU' = frasa pencarian generik, BUKAN nama kredensial resmi. Jangan pernah menulis seolah ada kredensial bernama itu.",
+    "Cakupan & level CP3P wajib bersumber APMG International (ppp-certification.com / apmg-international.com) — bukan reseller/broker.",
+    "APMG memiliki dan menganugerahkan CP3P; IIGF Institute adalah ATO yang MENYELENGGARAKAN PELATIHAN.",
+    "Setiap biaya/jadwal wajib berlabel 'indikatif' + tahun rujukan.",
+    "Tanpa nama individu. Maksimal 2–3 self-mention klien.",
+    "Jangan merendahkan penyelenggara pelatihan lain (PAP-KPBU, LSP KPBU, Pusbindiklatren, BPSDM, LKPP disebut netral dan faktual).",
+    "Jaga konteks 'infrastruktur/KPBU/PPP/PT PII' di dekat setiap penyebutan 'IIGF' (disambiguasi dari International Institute of Green Finance).",
+    "Internal link hanya ke institute.iigf.co.id (plus jipm.iigf.co.id / uniid.or.id bila relevan). Dilarang ptpii.co.id dan gagas.co.id."
+  ]
+}

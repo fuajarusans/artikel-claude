@@ -1,0 +1,172 @@
+[
+  {
+    "id": "business-intelligence-01",
+    "word_count": 1989,
+    "faq": 6,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "business-intelligence-02",
+    "word_count": 2216,
+    "faq": 6,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "business-intelligence-03",
+    "word_count": 2073,
+    "faq": 6,
+    "internal_links": 2,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "low-code-platform-01",
+    "word_count": 1946,
+    "faq": 6,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "low-code-platform-02",
+    "word_count": 2081,
+    "faq": 6,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "low-code-platform-03",
+    "word_count": 2179,
+    "faq": 7,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "sap-clean-core-01",
+    "word_count": 2063,
+    "faq": 6,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "sap-clean-core-02",
+    "word_count": 2124,
+    "faq": 6,
+    "internal_links": 2,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "sap-clean-core-03",
+    "word_count": 2033,
+    "faq": 6,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "sap-clean-core-04",
+    "word_count": 2194,
+    "faq": 7,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "vendor-management-system-01",
+    "word_count": 2065,
+    "faq": 7,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "vendor-management-system-02",
+    "word_count": 2131,
+    "faq": 7,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "vendor-management-system-03",
+    "word_count": 2107,
+    "faq": 7,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "warehouse-management-system-01",
+    "word_count": 2059,
+    "faq": 7,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "warehouse-management-system-02",
+    "word_count": 2080,
+    "faq": 7,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "warehouse-management-system-03",
+    "word_count": 2032,
+    "faq": 7,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  },
+  {
+    "id": "warehouse-management-system-04",
+    "word_count": 2282,
+    "faq": 8,
+    "internal_links": 3,
+    "md_fixes": [
+      "blank line after headings"
+    ],
+    "flags": []
+  }
+]
